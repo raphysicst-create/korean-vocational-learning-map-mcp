@@ -12,7 +12,7 @@ const outDir = join(repoRoot, 'data', 'kr');
 export const VOCATIONAL_CATEGORIES = new Set(['major-general', 'major-practical', 'specialized-common']);
 // v0.1 수록 범위. 전공실무 계열 추가 시 이 Set과 gates.json을 함께 갱신한다.
 export const RELEASE_SCOPE = new Set(['major-general', 'specialized-common']);
-export const EXPECTED_INCLUDED_COURSES = 161; // 전공일반 159 + 전문공통 2
+export const EXPECTED_INCLUDED_COURSES = 219; // 전공일반 216 + 전문공통 3 (2026-08-08 상류 실측)
 
 // 스펙 확정 표 (별책 23~39 순).
 export const FIELD_SLUGS = new Map([

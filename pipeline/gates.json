@@ -1,0 +1,85 @@
+{
+  "release": "v0.1.0",
+  "includedCategories": [
+    "major-general",
+    "specialized-common"
+  ],
+  "totals": {
+    "courses": 219,
+    "standards": 8425
+  },
+  "fields": {
+    "agriculture-livestock": {
+      "courses": 30,
+      "standards": 1292
+    },
+    "beauty": {
+      "courses": 2,
+      "standards": 31
+    },
+    "business-finance": {
+      "courses": 16,
+      "standards": 588
+    },
+    "chemical-industry": {
+      "courses": 8,
+      "standards": 281
+    },
+    "construction-civil": {
+      "courses": 14,
+      "standards": 690
+    },
+    "convergence-ip": {
+      "courses": 7,
+      "standards": 193
+    },
+    "culture-arts-design-broadcast": {
+      "courses": 13,
+      "standards": 505
+    },
+    "electrical-electronics": {
+      "courses": 9,
+      "standards": 338
+    },
+    "environment-safety-fire": {
+      "courses": 10,
+      "standards": 822
+    },
+    "fisheries-shipping": {
+      "courses": 31,
+      "standards": 1029
+    },
+    "food-cooking": {
+      "courses": 8,
+      "standards": 597
+    },
+    "health-welfare": {
+      "courses": 17,
+      "standards": 371
+    },
+    "information-communication": {
+      "courses": 12,
+      "standards": 286
+    },
+    "machinery": {
+      "courses": 18,
+      "standards": 757
+    },
+    "materials": {
+      "courses": 4,
+      "standards": 127
+    },
+    "specialized-common": {
+      "courses": 3,
+      "standards": 57
+    },
+    "textile-clothing": {
+      "courses": 8,
+      "standards": 283
+    },
+    "tourism-leisure": {
+      "courses": 9,
+      "standards": 178
+    }
+  }
+}
