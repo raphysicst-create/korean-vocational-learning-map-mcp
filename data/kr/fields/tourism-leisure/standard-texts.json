@@ -1,0 +1,1252 @@
+{
+ "version": "kr-vocational-standard-texts-v1",
+ "sourceNote": "국가교육위원회 고시 제2024-3호 초·중등학교 교육과정 별책23~39(전문교과) PDF에서 추출한 성취기준 본문. 공공저작물로서 저작권법 제24조의2에 따라 출처를 표기해 이용한다.",
+ "texts": [
+  {
+   "key": "kr-2022-voc-관광-문화와-자원:[관문 01-01]",
+   "code": "[관문 01-01]",
+   "text": "문화의 개념을 이해하고 특성을 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-문화와-자원:[관문 01-02]",
+   "code": "[관문 01-02]",
+   "text": "관광 문화의 개념을 제시할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-문화와-자원:[관문 01-03]",
+   "code": "[관문 01-03]",
+   "text": "관광 문화의 환경 변화를 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-문화와-자원:[관문 02-01]",
+   "code": "[관문 02-01]",
+   "text": "관광 자원의 개념을 살펴보고, 유사 용어들과 의미를 구분할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-문화와-자원:[관문 02-02]",
+   "code": "[관문 02-02]",
+   "text": "관광 자원의 특성을 이해하고 유형별 특성과 비교할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-문화와-자원:[관문 02-03]",
+   "code": "[관문 02-03]",
+   "text": "관광 자원이 갖추어야 할 요건을 파악하고 이에 대해 토의할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-문화와-자원:[관문 02-04]",
+   "code": "[관문 02-04]",
+   "text": "관광 자원의 역할을 살펴보고, 기능에 대해 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-문화와-자원:[관문 02-05]",
+   "code": "[관문 02-05]",
+   "text": "관광 자원의 다양한 분류 체계에 대해 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-문화와-자원:[관문 03-01]",
+   "code": "[관문 03-01]",
+   "text": "자연 관광 자원의 의미와 특성을 다른 자원 유형들과 비교하여 제시할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-문화와-자원:[관문 03-02]",
+   "code": "[관문 03-02]",
+   "text": "문화 관광 자원의 의미와 유형을 살펴보고, 문화유산 및 유네스코 지정 세계 유산 자원을 조회할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-문화와-자원:[관문 03-03]",
+   "code": "[관문 03-03]",
+   "text": "사회 관광 자원의 개념과 유형을 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-문화와-자원:[관문 03-04]",
+   "code": "[관문 03-04]",
+   "text": "산업 관광 자원의 개념과 형태에 대해 살펴보고, 과거와 오늘날의 추이를 비교할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-문화와-자원:[관문 03-05]",
+   "code": "[관문 03-05]",
+   "text": "위락 관광 자원의 개념을 이해하고, 유형에 대해 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-문화와-자원:[관문 04-01]",
+   "code": "[관문 04-01]",
+   "text": "지속가능한 관광의 개념을 살펴보고, 지속가능한 관광의 출현 배경과 유형을 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-문화와-자원:[관문 04-02]",
+   "code": "[관문 04-02]",
+   "text": "생태 관광의 개념과 특성을 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-문화와-자원:[관문 04-03]",
+   "code": "[관문 04-03]",
+   "text": "공정 관광의 의미를 제시할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-문화와-자원:[관문 05-01]",
+   "code": "[관문 05-01]",
+   "text": "한류 관광의 의미를 정의할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-문화와-자원:[관문 05-02]",
+   "code": "[관문 05-02]",
+   "text": "한류 문화 콘텐츠의 유형을 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-문화와-자원:[관문 05-03]",
+   "code": "[관문 05-03]",
+   "text": "한류 문화 콘텐츠의 유형별 특성을 제시할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-문화와-자원:[관문 05-04]",
+   "code": "[관문 05-04]",
+   "text": "한류 문화 콘텐츠의 등장 및 확산 과정을 시기별로 구분하여 비교할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-서비스:[관서 01-01]",
+   "code": "[관서 01-01]",
+   "text": "관광 서비스의 개념과 주요 특징을 이해할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-서비스:[관서 01-02]",
+   "code": "[관서 01-02]",
+   "text": "관광 서비스의 중요성을 이해할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-서비스:[관서 01-03]",
+   "code": "[관서 01-03]",
+   "text": "대면 관광 서비스 접점의 개념과 중요성을 이해할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-서비스:[관서 01-04]",
+   "code": "[관서 01-04]",
+   "text": "비대면 관광 서비스 접점의 개념과 중요성을 이해할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-서비스:[관서 02-01]",
+   "code": "[관서 02-01]",
+   "text": "고객의 개념과 주요 특성을 이해할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-서비스:[관서 02-02]",
+   "code": "[관서 02-02]",
+   "text": "고객 만족과 관련한 주요 개념을 이해할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-서비스:[관서 02-03]",
+   "code": "[관서 02-03]",
+   "text": "고객 서비스 품질의 개념, 특성 및 품질 관리의 의미를 이해할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-서비스:[관서 03-01]",
+   "code": "[관서 03-01]",
+   "text": "이미지 메이킹의 개념과 중요성을 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-서비스:[관서 03-02]",
+   "code": "[관서 03-02]",
+   "text": "관광 서비스 종사자에게 적합한 용모, 복장, 메이크업 방법을 수행할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-서비스:[관서 04-01]",
+   "code": "[관서 04-01]",
+   "text": "관광 종사자가 갖추어야 할 매너와 에티켓을 익혀 기본 매너와 에티켓을 갖춘 서비스를 수행 할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-서비스:[관서 04-02]",
+   "code": "[관서 04-02]",
+   "text": "인사 매너의 중요성 및 인사 종류와 방법을 인식하고 상황에 맞는 인사 매너를 수행할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-서비스:[관서 04-03]",
+   "code": "[관서 04-03]",
+   "text": "커뮤니케이션 서비스의 중요성 및 바른 대화 서비스, 대화의 요령, 바른 호칭 및 전화 응대 방법을 익혀 상황에 맞게 커뮤니케이션 매너를 수행할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-서비스:[관서 04-04]",
+   "code": "[관서 04-04]",
+   "text": "의전의 개념과 의전 업무 및 행사의 구성을 설명하고, 상황에 맞는 의전 매너를 수행할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-서비스:[관서 04-05]",
+   "code": "[관서 04-05]",
+   "text": "주요 국가의 서비스 문화, 인사 및 의전 예절을 익혀 나라별로 적합한 서비스를 수행할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-서비스:[관서 05-01]",
+   "code": "[관서 05-01]",
+   "text": "고객의 불평 원인과 불평 관리의 중요성을 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-서비스:[관서 05-02]",
+   "code": "[관서 05-02]",
+   "text": "고객 불평 대처 방법을 익혀 고객 불평에 잘 대처할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-서비스:[관서 06-01]",
+   "code": "[관서 06-01]",
+   "text": "관광 종사자의 직업 윤리 내용을 실생활에 적용할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-서비스:[관서 06-02]",
+   "code": "[관서 06-02]",
+   "text": "관광 종사자의 위생 및 안전 관리를 절차에 따라 수행할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-서비스:[관서 06-03]",
+   "code": "[관서 06-03]",
+   "text": "정보 보안 및 개인 정보 보호를 절차에 따라 수행할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-영어:[관영 01-01]",
+   "code": "[관영 01-01]",
+   "text": "외국인 관광객을 대상으로 인사와 소개를 영어로 표현할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-영어:[관영 01-02]",
+   "code": "[관영 01-02]",
+   "text": "외국인 관광객을 대상으로 날짜와 시간, 숫자를 영어로 표현할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-영어:[관영 01-03]",
+   "code": "[관영 01-03]",
+   "text": "외국인 관광객을 대상으로 위치와 길 안내를 영어로 표현할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-영어:[관영 02-01]",
+   "code": "[관영 02-01]",
+   "text": "외국인 관광객을 대상으로 여행 상품을 영어로 설명하고 추천하며, 예약 업무를 수행할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-영어:[관영 02-02]",
+   "code": "[관영 02-02]",
+   "text": "외국인 관광객을 대상으로 공항에서 영어로 환영하고, 환송할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-영어:[관영 02-03]",
+   "code": "[관영 02-03]",
+   "text": "외국인 관광객을 대상으로 체크인, 출국 심사, 입국 심사 등의 지원을 영어로 수행할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-영어:[관영 02-04]",
+   "code": "[관영 02-04]",
+   "text": "외국인 관광객을 대상으로 여행 서비스 상황에서 발생할 수 있는 고객 불편 사항에 영어로 응대할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-영어:[관영 03-01]",
+   "code": "[관영 03-01]",
+   "text": "외국인 관광객을 대상으로 호텔 객실 예약에 대한 응대를 영어로 수행할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-영어:[관영 03-02]",
+   "code": "[관영 03-02]",
+   "text": "외국인 관광객을 대상으로 호텔 체크인 및 체크아웃에 대한 응대를 영어로 수행할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-영어:[관영 03-03]",
+   "code": "[관영 03-03]",
+   "text": "외국인 관광객을 대상으로 호텔 서비스 상황에서 발생할 수 있는 고객 불편 사항에 영어로 응대할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-영어:[관영 04-01]",
+   "code": "[관영 04-01]",
+   "text": "외국인 관광객을 대상으로 식음료 업장에서 자리 안내와 주문 응대를 영어로 수행할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-영어:[관영 04-02]",
+   "code": "[관영 04-02]",
+   "text": "외국인 관광객을 대상으로 식음료 업장에서 식음료 제공, 계산 및 환송 업무를 영어로 수행할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-영어:[관영 04-03]",
+   "code": "[관영 04-03]",
+   "text": "외국인 관광객을 대상으로 식음료 서비스 상황에서 발생할 수 있는 고객 불편 사항에 영어로 응대할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-영어:[관영 05-01]",
+   "code": "[관영 05-01]",
+   "text": "외국인 관광객을 대상으로 상품을 영어로 설명하고, 추천할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-영어:[관영 05-02]",
+   "code": "[관영 05-02]",
+   "text": "외국인 관광객을 대상으로 결제･교환･환불 업무를 영어로 수행할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-영어:[관영 05-03]",
+   "code": "[관영 05-03]",
+   "text": "외국인 관광객을 대상으로 판매 서비스 상황에서 발생할 수 있는 고객 불편 사항에 영어로 응대할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-영어:[관영 06-01]",
+   "code": "[관영 06-01]",
+   "text": "외국인 관광객을 대상으로 한국 전통문화를 영어로 소개할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-영어:[관영 06-02]",
+   "code": "[관영 06-02]",
+   "text": "외국인 관광객을 대상으로 한국 현대 문화를 영어로 소개할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-영어:[관영 06-03]",
+   "code": "[관영 06-03]",
+   "text": "외국인 관광객을 대상으로 한국 세계 유산을 영어로 안내할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-영어:[관영 06-04]",
+   "code": "[관영 06-04]",
+   "text": "외국인 관광객을 대상으로 관광지를 영어로 해설 및 안내할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일반:[관일 01-01]",
+   "code": "[관일 01-01]",
+   "text": "관광의 개념을 설명하고, 관광을 분류할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일반:[관일 01-02]",
+   "code": "[관일 01-02]",
+   "text": "관광의 발전 과정을 통해 관광의 현황과 관광 산업의 변화 동향에 대해 토론할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일반:[관일 01-03]",
+   "code": "[관일 01-03]",
+   "text": "관광의 기본적 구성 요소를 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일반:[관일 01-04]",
+   "code": "[관일 01-04]",
+   "text": "관광객의 개념과 유형별 특징을 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일반:[관일 01-05]",
+   "code": "[관일 01-05]",
+   "text": "관광의 긍정적인 효과와 부정적인 영향에 대해 토론하고 발표할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일반:[관일 02-01]",
+   "code": "[관일 02-01]",
+   "text": "관광과 문화의 상관관계에 대해 탐색하고, 문화의 다양성에 대해 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일반:[관일 02-02]",
+   "code": "[관일 02-02]",
+   "text": "관광과 환경의 상관관계에 대해 탐색하고, 관광이 환경에 미치는 영향에 대해 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일반:[관일 02-03]",
+   "code": "[관일 02-03]",
+   "text": "관광 자원과 관광 개발의 현황을 분석하고, 관광 자원 및 관광 개발의 사례를 발표할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일반:[관일 02-04]",
+   "code": "[관일 02-04]",
+   "text": "유네스코 유산을 세계 유산, 무형 문화유산, 세계 기록 유산으로 분류하고, 한국의 유네스코 등재 유산 현황을 정리하여 발표할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일반:[관일 02-05]",
+   "code": "[관일 02-05]",
+   "text": "해설 관광 자원에 따라 고객들에게 전달할 핵심 스토리를 발굴할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일반:[관일 03-01]",
+   "code": "[관일 03-01]",
+   "text": "관광진흥법에 규정한 관광 사업의 개념과 종류를 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일반:[관일 03-02]",
+   "code": "[관일 03-02]",
+   "text": "여행업의 개념과 종류 및 특징을 조사하여 발표할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일반:[관일 03-03]",
+   "code": "[관일 03-03]",
+   "text": "관광숙박업의 개념과 종류 및 특징을 조사하여 발표할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일반:[관일 03-04]",
+   "code": "[관일 03-04]",
+   "text": "관광객 이용시설업, 관광객 편의시설업, 유원시설업의 개념과 종류를 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일반:[관일 03-05]",
+   "code": "[관일 03-05]",
+   "text": "국제회의업의 개념과 구성 요소를 설명하고, 직업적 특징을 발표할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일반:[관일 03-06]",
+   "code": "[관일 03-06]",
+   "text": "카지노업의 종류와 테이블 게임의 규칙을 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일반:[관일 03-07]",
+   "code": "[관일 03-07]",
+   "text": "관광진흥법상의 관광 사업 이외의 관광 관련 사업에 대해 조사하여 발표할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일반:[관일 04-01]",
+   "code": "[관일 04-01]",
+   "text": "관광 시장, 관광 산업, 관광 자원의 환경 변화를 분석하고 발표할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일반:[관일 04-02]",
+   "code": "[관일 04-02]",
+   "text": "디지털 기술 기반의 스마트 관광의 개념과 스마트 관광 콘텐츠를 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일반:[관일 04-03]",
+   "code": "[관일 04-03]",
+   "text": "디지털 관광 콘텐츠를 활용한 스마트 관광 서비스의 사례를 검색하여 발표할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일반:[관일 04-04]",
+   "code": "[관일 04-04]",
+   "text": "관광 산업에서 활용되고 있는 관광 정보 시스템을 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일반:[관일 05-01]",
+   "code": "[관일 05-01]",
+   "text": "관광 종사자로서 알아야 할 관광 법규의 종류를 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일반:[관일 05-02]",
+   "code": "[관일 05-02]",
+   "text": "관광 관련 국내외 행정 기관과 단체를 탐색하고, 그 주요 활동을 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일본어:[관어 01-01]",
+   "code": "[관어 01-01]",
+   "text": "외국인 관광객을 대상으로 인사와 소개를 일본어로 표현할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일본어:[관어 01-02]",
+   "code": "[관어 01-02]",
+   "text": "외국인 관광객을 대상으로 날짜와 시간, 숫자를 일본어로 표현할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일본어:[관어 01-03]",
+   "code": "[관어 01-03]",
+   "text": "외국인 관광객을 대상으로 위치와 길 안내를 일본어로 표현할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일본어:[관어 02-01]",
+   "code": "[관어 02-01]",
+   "text": "외국인 관광객을 대상으로 여행 상품을 일본어로 설명하고 추천하며, 예약 업무를 수행할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일본어:[관어 02-02]",
+   "code": "[관어 02-02]",
+   "text": "외국인 관광객을 대상으로 공항에서 일본어로 환영하고 환송할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일본어:[관어 02-03]",
+   "code": "[관어 02-03]",
+   "text": "외국인 관광객을 대상으로 체크인, 출국 심사, 입국 심사 등의 지원을 일본어로 수행할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일본어:[관어 02-04]",
+   "code": "[관어 02-04]",
+   "text": "외국인 관광객을 대상으로 여행 서비스 상황에서 발생할 수 있는 고객 불편 사항에 일본어로 응대할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일본어:[관어 03-01]",
+   "code": "[관어 03-01]",
+   "text": "외국인 관광객을 대상으로 호텔 객실 예약에 대한 응대를 일본어로 수행할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일본어:[관어 03-02]",
+   "code": "[관어 03-02]",
+   "text": "외국인 관광객을 대상으로 호텔 체크인 및 체크아웃에 대한 응대를 일본어로 수행할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일본어:[관어 03-03]",
+   "code": "[관어 03-03]",
+   "text": "외국인 관광객을 대상으로 호텔 서비스 상황에서 발생할 수 있는 고객 불편 사항에 일본어로 응대할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일본어:[관어 04-01]",
+   "code": "[관어 04-01]",
+   "text": "외국인 관광객을 대상으로 식음료 업장에서 자리 안내와 주문 응대를 일본어로 수행할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일본어:[관어 04-02]",
+   "code": "[관어 04-02]",
+   "text": "외국인 관광객을 대상으로 식음료 업장에서 식음료 제공, 계산 및 환송 업무를 일본어로 수행 할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일본어:[관어 04-03]",
+   "code": "[관어 04-03]",
+   "text": "외국인 관광객을 대상으로 식음료 서비스 상황에서 발생할 수 있는 고객 불편 사항에 일본어 로 응대할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일본어:[관어 05-01]",
+   "code": "[관어 05-01]",
+   "text": "외국인 관광객을 대상으로 상품을 일본어로 설명하고, 추천할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일본어:[관어 05-02]",
+   "code": "[관어 05-02]",
+   "text": "외국인 관광객을 대상으로 결제･교환･환불 업무를 일본어로 수행할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일본어:[관어 05-03]",
+   "code": "[관어 05-03]",
+   "text": "외국인 관광객을 대상으로 판매 서비스 상황에서 발생할 수 있는 고객 불편 사항에 일본어로 응대할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일본어:[관어 06-01]",
+   "code": "[관어 06-01]",
+   "text": "외국인 관광객을 대상으로 한국 전통문화를 일본어로 소개할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일본어:[관어 06-02]",
+   "code": "[관어 06-02]",
+   "text": "외국인 관광객을 대상으로 한국 현대 문화를 일본어로 소개할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일본어:[관어 06-03]",
+   "code": "[관어 06-03]",
+   "text": "외국인 관광객을 대상으로 한국 세계 유산을 일본어로 안내할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-일본어:[관어 06-04]",
+   "code": "[관어 06-04]",
+   "text": "외국인 관광객을 대상으로 관광지를 일본어로 해설 및 안내할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-중국어:[관중 01-01]",
+   "code": "[관중 01-01]",
+   "text": "외국인 관광객을 대상으로 인사와 소개를 중국어로 표현할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-중국어:[관중 01-02]",
+   "code": "[관중 01-02]",
+   "text": "외국인 관광객을 대상으로 날짜와 시간, 숫자를 중국어로 표현할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-중국어:[관중 01-03]",
+   "code": "[관중 01-03]",
+   "text": "외국인 관광객을 대상으로 위치와 길 안내를 중국어로 표현할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-중국어:[관중 02-01]",
+   "code": "[관중 02-01]",
+   "text": "외국인 관광객을 대상으로 여행 상품을 중국어로 설명하고 추천하며, 예약 업무를 수행할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-중국어:[관중 02-02]",
+   "code": "[관중 02-02]",
+   "text": "외국인 관광객을 대상으로 공항에서 중국어로 환영하고 환송할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-중국어:[관중 02-03]",
+   "code": "[관중 02-03]",
+   "text": "외국인 관광객을 대상으로 체크인, 출국 심사, 입국 심사 등의 지원을 중국어로 수행할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-중국어:[관중 02-04]",
+   "code": "[관중 02-04]",
+   "text": "외국인 관광객을 대상으로 여행 서비스 상황에서 발생할 수 있는 고객 불편 사항에 중국어로 응대할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-중국어:[관중 03-01]",
+   "code": "[관중 03-01]",
+   "text": "외국인 관광객을 대상으로 호텔 객실 예약에 대한 응대를 중국어로 수행할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-중국어:[관중 03-02]",
+   "code": "[관중 03-02]",
+   "text": "외국인 관광객을 대상으로 호텔 체크인 및 체크아웃에 대한 응대를 중국어로 수행할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-중국어:[관중 03-03]",
+   "code": "[관중 03-03]",
+   "text": "외국인 관광객을 대상으로 호텔 서비스 상황에서 발생할 수 있는 고객 불편 사항에 중국어로 응대할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-중국어:[관중 04-01]",
+   "code": "[관중 04-01]",
+   "text": "외국인 관광객을 대상으로 식음료 업장에서 자리 안내와 주문 응대를 중국어로 수행할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-중국어:[관중 04-02]",
+   "code": "[관중 04-02]",
+   "text": "외국인 관광객을 대상으로 식음료 업장에서 식음료 제공, 계산 및 환송 업무를 중국어로 수행 할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-중국어:[관중 04-03]",
+   "code": "[관중 04-03]",
+   "text": "외국인 관광객을 대상으로 식음료 서비스 상황에서 발생할 수 있는 고객 불편 사항에 중국어 로 응대할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-중국어:[관중 05-01]",
+   "code": "[관중 05-01]",
+   "text": "외국인 관광객을 대상으로 상품을 중국어로 설명하고, 추천할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-중국어:[관중 05-02]",
+   "code": "[관중 05-02]",
+   "text": "외국인 관광객을 대상으로 결제･교환･환불 업무를 중국어로 수행할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-중국어:[관중 05-03]",
+   "code": "[관중 05-03]",
+   "text": "외국인 관광객을 대상으로 판매 서비스 상황에서 발생할 수 있는 고객 불편 사항에 중국어로 응대할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-중국어:[관중 06-01]",
+   "code": "[관중 06-01]",
+   "text": "외국인 관광객을 대상으로 한국 전통문화를 중국어로 소개할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-중국어:[관중 06-02]",
+   "code": "[관중 06-02]",
+   "text": "외국인 관광객을 대상으로 한국 현대 문화를 중국어로 소개할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-중국어:[관중 06-03]",
+   "code": "[관중 06-03]",
+   "text": "외국인 관광객을 대상으로 한국 세계 유산을 중국어로 안내할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-중국어:[관중 06-04]",
+   "code": "[관중 06-04]",
+   "text": "외국인 관광객을 대상으로 관광지를 중국어로 해설 및 안내할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-콘텐츠-개발:[관콘 01-01]",
+   "code": "[관콘 01-01]",
+   "text": "관광 콘텐츠의 개념과 분류를 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-콘텐츠-개발:[관콘 01-02]",
+   "code": "[관콘 01-02]",
+   "text": "관광 콘텐츠의 중요성을 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-콘텐츠-개발:[관콘 01-03]",
+   "code": "[관콘 01-03]",
+   "text": "관광 콘텐츠의 환경 변화를 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-콘텐츠-개발:[관콘 02-01]",
+   "code": "[관콘 02-01]",
+   "text": "국내 및 국외 관광 사업체의 관광 콘텐츠 활용 사례를 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-콘텐츠-개발:[관콘 02-02]",
+   "code": "[관콘 02-02]",
+   "text": "민간 및 공공 부문의 관광 콘텐츠 활용 사례를 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-콘텐츠-개발:[관콘 03-01]",
+   "code": "[관콘 03-01]",
+   "text": "관광 콘텐츠 고객을 정의하고 시장 조사를 통해 트렌드를 파악할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-콘텐츠-개발:[관콘 03-02]",
+   "code": "[관콘 03-02]",
+   "text": "관광 콘텐츠 아이디어를 제시할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-콘텐츠-개발:[관콘 03-03]",
+   "code": "[관콘 03-03]",
+   "text": "관광 콘텐츠 기획서를 구성할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-콘텐츠-개발:[관콘 04-01]",
+   "code": "[관콘 04-01]",
+   "text": "관광 콘텐츠 제작물 주제를 선정할 수 있다",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-콘텐츠-개발:[관콘 04-02]",
+   "code": "[관콘 04-02]",
+   "text": "관광 콘텐츠 제작물 자료를 찾아낼 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-콘텐츠-개발:[관콘 04-03]",
+   "code": "[관콘 04-03]",
+   "text": "관광 콘텐츠 제작물 편집을 수행할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-콘텐츠-개발:[관콘 05-01]",
+   "code": "[관콘 05-01]",
+   "text": "관광 콘텐츠의 특징 및 편익을 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-콘텐츠-개발:[관콘 05-02]",
+   "code": "[관콘 05-02]",
+   "text": "관광 콘텐츠의 홍보 및 마케팅 전략을 수립할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-콘텐츠-개발:[관콘 06-01]",
+   "code": "[관콘 06-01]",
+   "text": "관광 콘텐츠와 스마트 관광을 연계하여 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-관광-콘텐츠-개발:[관콘 06-02]",
+   "code": "[관콘 06-02]",
+   "text": "지속가능한 관광 콘텐츠의 특징을 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-레저-서비스-일반:[레서 01-01]",
+   "code": "[레서 01-01]",
+   "text": "레저의 개념, 레저 활동의 분류, 기능을 설명할 수 있다. 레저와 유사 개념으로 사용되는 여 가, 놀이, 레크리에이션 및 관광과 스포츠 등을 구분하여 살펴봄으로써 각각의 개념과 레저와 의 유사점과 차이점을 구분하여 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-레저-서비스-일반:[레서 01-02]",
+   "code": "[레서 01-02]",
+   "text": "일과 구분되는 활동으로 인간의 행복한 삶을 영위할 수 있게 하는 레저의 중요성을 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-레저-서비스-일반:[레서 01-03]",
+   "code": "[레서 01-03]",
+   "text": "4차 산업 시대의 도래 및 레저의 세계화와 같은 환경적 변화에 따라 현대 사회의 레저 트렌 드를 탐색하여 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-레저-서비스-일반:[레서 02-01]",
+   "code": "[레서 02-01]",
+   "text": "레저 산업의 개념을 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-레저-서비스-일반:[레서 02-02]",
+   "code": "[레서 02-02]",
+   "text": "레저 산업의 발달이 미치는 경제, 사회적 효과를 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-레저-서비스-일반:[레서 02-03]",
+   "code": "[레서 02-03]",
+   "text": "4차 산업 혁명 시대를 맞이하여 디지털 기술의 발전으로 구현되는 다양한 형태의 비대면/온 라인 레저 활동 사례를 탐색할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-레저-서비스-일반:[레서 03-01]",
+   "code": "[레서 03-01]",
+   "text": "카지노의 개념과 특징, 현황 및 카지노업의 주요 직무를 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-레저-서비스-일반:[레서 03-02]",
+   "code": "[레서 03-02]",
+   "text": "테마파크의 개념과 특징, 현황 및 테마파크업의 주요 직무를 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-레저-서비스-일반:[레서 03-03]",
+   "code": "[레서 03-03]",
+   "text": "레저 스포츠의 개념과 특징, 현황 및 레저 스포츠업의 주요 직무를 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-레저-서비스-일반:[레서 04-01]",
+   "code": "[레서 04-01]",
+   "text": "지상 레저 활동을 정의할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-레저-서비스-일반:[레서 04-02]",
+   "code": "[레서 04-02]",
+   "text": "지상 레저 활동을 분류할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-레저-서비스-일반:[레서 04-03]",
+   "code": "[레서 04-03]",
+   "text": "주요 지상 레저 활동을 즐길 수 있는 장소와 활용되는 장비의 특징을 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-레저-서비스-일반:[레서 04-04]",
+   "code": "[레서 04-04]",
+   "text": "주요 지상 레저 활동의 규칙 및 장비의 활용법과 관리 요령을 익혀 안전한 지상 레저 서비스 를 수행할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-레저-서비스-일반:[레서 05-01]",
+   "code": "[레서 05-01]",
+   "text": "수상 레저 활동을 정의할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-레저-서비스-일반:[레서 05-02]",
+   "code": "[레서 05-02]",
+   "text": "수상 레저 활동을 분류할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-레저-서비스-일반:[레서 05-03]",
+   "code": "[레서 05-03]",
+   "text": "주요 수상 레저 활동을 즐길 수 있는 장소와 활용되는 장비의 특징을 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-레저-서비스-일반:[레서 05-04]",
+   "code": "[레서 05-04]",
+   "text": "주요 수상 레저 활동의 규칙 및 장비의 활용법과 관리 요령 등을 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-레저-서비스-일반:[레서 06-01]",
+   "code": "[레서 06-01]",
+   "text": "항공 레저 활동을 정의할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-레저-서비스-일반:[레서 06-02]",
+   "code": "[레서 06-02]",
+   "text": "항공 레저 활동을 분류할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-레저-서비스-일반:[레서 06-03]",
+   "code": "[레서 06-03]",
+   "text": "주요 항공 레저 활동을 즐길 수 있는 장소와 활용되는 장비의 특징을 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-레저-서비스-일반:[레서 06-04]",
+   "code": "[레서 06-04]",
+   "text": "주요 항공 레저 활동의 규칙 및 장비의 활용법과 관리 요령 등을 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 01-01]",
+   "code": "[컨일 01-01]",
+   "text": "마이스(MICE)의 개념을 이해하고 중요성을 제시할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 01-02]",
+   "code": "[컨일 01-02]",
+   "text": "마이스(MICE) 산업의 파급 효과를 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 01-03]",
+   "code": "[컨일 01-03]",
+   "text": "온라인 행사의 개념과 특성을 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 01-04]",
+   "code": "[컨일 01-04]",
+   "text": "하이브리드 마이스의 개념과 추세에 대해 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 02-01]",
+   "code": "[컨일 02-01]",
+   "text": "국제회의의 개념과 기준을 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 02-02]",
+   "code": "[컨일 02-02]",
+   "text": "국제회의를 주최자별, 규모별로 분류할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 02-03]",
+   "code": "[컨일 02-03]",
+   "text": "국제회의산업 육성의 목적과 정의, 국제회의 종류를 제시하고 있는 국제회의산업 육성에 관 한 법률을 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 02-04]",
+   "code": "[컨일 02-04]",
+   "text": "국내외 국제회의 관련 기구 및 기관의 역할 및 활동 내용을 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 03-01]",
+   "code": "[컨일 03-01]",
+   "text": "국내에서의 국제회의 개최 현황과 해외에서의 개최 현황을 비교할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 03-02]",
+   "code": "[컨일 03-02]",
+   "text": "미팅 테크놀로지의 등장 배경과 최신 동향을 분석할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 03-03]",
+   "code": "[컨일 03-03]",
+   "text": "유니크 베뉴의 개념과 국내에서의 활용 사례를 제시할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 04-01]",
+   "code": "[컨일 04-01]",
+   "text": "전시회의 개념을 이해하고, 전시회의 유형을 분류할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 04-02]",
+   "code": "[컨일 04-02]",
+   "text": "전시 산업의 구성 요소와 구성 요소 간의 관계를 제시할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 04-03]",
+   "code": "[컨일 04-03]",
+   "text": "전시 산업의 특성을 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 05-01]",
+   "code": "[컨일 05-01]",
+   "text": "전시회 개최 현황을 연도별, 국내외별로 비교 분석할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 05-02]",
+   "code": "[컨일 05-02]",
+   "text": "전시장의 현황을 국내 및 해외로 구분하여 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 06-01]",
+   "code": "[컨일 06-01]",
+   "text": "우리나라 현대 이벤트의 발달 배경과 개념을 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 06-02]",
+   "code": "[컨일 06-02]",
+   "text": "이벤트의 파급 효과를 긍정, 부정으로 구분하여 제시할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 06-03]",
+   "code": "[컨일 06-03]",
+   "text": "이벤트의 유형을 주최별, 규모별, 목적별로 구분하여 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 06-04]",
+   "code": "[컨일 06-04]",
+   "text": "국내외 축제 이벤트 현황에 대해 설명할 수 있다.",
+   "sourceId": "annex27",
+   "locator": "pattern-match"
+  }
+ ]
+}

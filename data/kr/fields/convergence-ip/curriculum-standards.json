@@ -1,0 +1,4748 @@
+{
+ "curricula": [
+  {
+   "id": "kr-2022-voc-발명･특허-기초",
+   "subjectKorean": "발명･특허 기초",
+   "majorFieldSlug": "convergence-ip",
+   "subjectGroupKorean": "융복합·지식재산",
+   "courseCategory": "major-general",
+   "gradeBand": "10-12",
+   "name": "발명･특허 기초 2022 개정 전문교과 교육과정",
+   "deck6CourseId": "kr.course.2022.high.b659fabfdd9fd0ed",
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ],
+   "standardCount": 18,
+   "standards": [
+    {
+     "key": "kr-2022-voc-발명･특허-기초:[발특 01-01]",
+     "code": "[발특 01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명･특허 기초",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "발명의 이해",
+     "summary": "발명의 의미를 이해하여 발명의 필요성을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발특 01-01]",
+      "pdfPage": 92,
+      "printedPage": null,
+      "section": "발명･특허 기초 > 발명의 이해",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.51649c37270db367e931"
+    },
+    {
+     "key": "kr-2022-voc-발명･특허-기초:[발특 01-02]",
+     "code": "[발특 01-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명･특허 기초",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "발명의 이해",
+     "summary": "기술의 발전과 발명의 관계를 산업 혁명 이전과 이후, 현재와 미래로 구분하여 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발특 01-02]",
+      "pdfPage": 92,
+      "printedPage": null,
+      "section": "발명･특허 기초 > 발명의 이해",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.8f0364c9d6ff65aa9355"
+    },
+    {
+     "key": "kr-2022-voc-발명･특허-기초:[발특 01-03]",
+     "code": "[발특 01-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명･특허 기초",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "발명의 이해",
+     "summary": "발명이 인류 문명에 미친 영향과 발명의 역사를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발특 01-03]",
+      "pdfPage": 92,
+      "printedPage": null,
+      "section": "발명･특허 기초 > 발명의 이해",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.ec5755e01063e15e45f1"
+    },
+    {
+     "key": "kr-2022-voc-발명･특허-기초:[발특 01-04]",
+     "code": "[발특 01-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명･특허 기초",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "발명의 이해",
+     "summary": "우리 생활 속의 발명 사례를 조사하여 생활에 미친 영향을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발특 01-04]",
+      "pdfPage": 92,
+      "printedPage": null,
+      "section": "발명･특허 기초 > 발명의 이해",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.0ee4dba6992c22776ec9"
+    },
+    {
+     "key": "kr-2022-voc-발명･특허-기초:[발특 02-01]",
+     "code": "[발특 02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명･특허 기초",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "발명 아이디어 창출",
+     "summary": "발명과 문제 해결의 정의를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발특 02-01]",
+      "pdfPage": 93,
+      "printedPage": null,
+      "section": "발명･특허 기초 > 발명 아이디어 창출",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.92eebd28a5efc84255f7"
+    },
+    {
+     "key": "kr-2022-voc-발명･특허-기초:[발특 02-02]",
+     "code": "[발특 02-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명･특허 기초",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "발명 아이디어 창출",
+     "summary": "발명 문제를 확인하여 해결 과정을 설계하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발특 02-02]",
+      "pdfPage": 93,
+      "printedPage": null,
+      "section": "발명･특허 기초 > 발명 아이디어 창출",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.6de2110baa91a8eb36bb"
+    },
+    {
+     "key": "kr-2022-voc-발명･특허-기초:[발특 02-03]",
+     "code": "[발특 02-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명･특허 기초",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "발명 아이디어 창출",
+     "summary": "확산적・수렴적 사고 기법과 발명 아이디어 창출 기법을 활용하여 아이디어를 창출하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발특 02-03]",
+      "pdfPage": 93,
+      "printedPage": null,
+      "section": "발명･특허 기초 > 발명 아이디어 창출",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.bef757d70383c60b74ff"
+    },
+    {
+     "key": "kr-2022-voc-발명･특허-기초:[발특 02-04]",
+     "code": "[발특 02-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명･특허 기초",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "발명 아이디어 창출",
+     "summary": "창출한 발명 아이디어를 평가하여 개선하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발특 02-04]",
+      "pdfPage": 93,
+      "printedPage": null,
+      "section": "발명･특허 기초 > 발명 아이디어 창출",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.15bae10e5743f5bf710b"
+    },
+    {
+     "key": "kr-2022-voc-발명･특허-기초:[발특 03-01]",
+     "code": "[발특 03-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명･특허 기초",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "특허의 이해",
+     "summary": "지식 재산의 개념과 유형을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발특 03-01]",
+      "pdfPage": 93,
+      "printedPage": null,
+      "section": "발명･특허 기초 > 특허의 이해",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.270e7b30c72c0dbd9f22"
+    },
+    {
+     "key": "kr-2022-voc-발명･특허-기초:[발특 03-02]",
+     "code": "[발특 03-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명･특허 기초",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "특허의 이해",
+     "summary": "발명과 지식 재산권과의 관계를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발특 03-02]",
+      "pdfPage": 93,
+      "printedPage": null,
+      "section": "발명･특허 기초 > 특허의 이해",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.a59158822d364aefb245"
+    },
+    {
+     "key": "kr-2022-voc-발명･특허-기초:[발특 03-03]",
+     "code": "[발특 03-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명･특허 기초",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "특허의 이해",
+     "summary": "특허와 실용신안의 차이점을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발특 03-03]",
+      "pdfPage": 93,
+      "printedPage": null,
+      "section": "발명･특허 기초 > 특허의 이해",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.e9ae3299cbad61209066"
+    },
+    {
+     "key": "kr-2022-voc-발명･특허-기초:[발특 03-04]",
+     "code": "[발특 03-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명･특허 기초",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "특허의 이해",
+     "summary": "특허의 요건을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발특 03-04]",
+      "pdfPage": 93,
+      "printedPage": null,
+      "section": "발명･특허 기초 > 특허의 이해",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.263a8e64b9b817c8bff9"
+    },
+    {
+     "key": "kr-2022-voc-발명･특허-기초:[발특 03-05]",
+     "code": "[발특 03-05]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명･특허 기초",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "특허의 이해",
+     "summary": "특허 침해와 분쟁 사례를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발특 03-05]",
+      "pdfPage": 93,
+      "printedPage": null,
+      "section": "발명･특허 기초 > 특허의 이해",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.c670ac99910e520c6582"
+    },
+    {
+     "key": "kr-2022-voc-발명･특허-기초:[발특 04-01]",
+     "code": "[발특 04-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명･특허 기초",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "특허 출원의 이해",
+     "summary": "특허 출원 제도를 이해하여 특허 출원의 개념과 중요성을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발특 04-01]",
+      "pdfPage": 94,
+      "printedPage": null,
+      "section": "발명･특허 기초 > 특허 출원의 이해",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.536756befe67318ac2cb"
+    },
+    {
+     "key": "kr-2022-voc-발명･특허-기초:[발특 04-02]",
+     "code": "[발특 04-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명･특허 기초",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "특허 출원의 이해",
+     "summary": "특허 출원 방법과 절차를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발특 04-02]",
+      "pdfPage": 94,
+      "printedPage": null,
+      "section": "발명･특허 기초 > 특허 출원의 이해",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.5cb5046f4c0ab19967f2"
+    },
+    {
+     "key": "kr-2022-voc-발명･특허-기초:[발특 04-03]",
+     "code": "[발특 04-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명･특허 기초",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "특허 출원의 이해",
+     "summary": "특허 명세서와 특허 도면을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발특 04-03]",
+      "pdfPage": 94,
+      "printedPage": null,
+      "section": "발명･특허 기초 > 특허 출원의 이해",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.35358cf71dcd80b97d0b"
+    },
+    {
+     "key": "kr-2022-voc-발명･특허-기초:[발특 04-04]",
+     "code": "[발특 04-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명･특허 기초",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "특허 출원의 이해",
+     "summary": "전자 출원의 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발특 04-04]",
+      "pdfPage": 94,
+      "printedPage": null,
+      "section": "발명･특허 기초 > 특허 출원의 이해",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.c892e0d5946ce8964374"
+    },
+    {
+     "key": "kr-2022-voc-발명･특허-기초:[발특 04-05]",
+     "code": "[발특 04-05]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명･특허 기초",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "특허 출원의 이해",
+     "summary": "특허 정보 조사 방법을 습득하여 특허 정보를 검색하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발특 04-05]",
+      "pdfPage": 94,
+      "printedPage": null,
+      "section": "발명･특허 기초 > 특허 출원의 이해",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.4df153058ff1af7c881f"
+    }
+   ]
+  },
+  {
+   "id": "kr-2022-voc-발명과-기업가-정신",
+   "subjectKorean": "발명과 기업가 정신",
+   "majorFieldSlug": "convergence-ip",
+   "subjectGroupKorean": "융복합·지식재산",
+   "courseCategory": "major-general",
+   "gradeBand": "10-12",
+   "name": "발명과 기업가 정신 2022 개정 전문교과 교육과정",
+   "deck6CourseId": "kr.course.2022.high.31d30f9013a5c416",
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ],
+   "standardCount": 15,
+   "standards": [
+    {
+     "key": "kr-2022-voc-발명과-기업가-정신:[발신 01-01]",
+     "code": "[발신 01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 기업가 정신",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "발명과 기업가 정신의 이해",
+     "summary": "발명의 의미와 사회적 중요성을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발신 01-01]",
+      "pdfPage": 99,
+      "printedPage": null,
+      "section": "발명과 기업가 정신 > 발명과 기업가 정신의 이해",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.65c609dcecf87101cbde"
+    },
+    {
+     "key": "kr-2022-voc-발명과-기업가-정신:[발신 01-02]",
+     "code": "[발신 01-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 기업가 정신",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "발명과 기업가 정신의 이해",
+     "summary": "기업가 정신을 이해하여 기업가 정신의 개념과 가치를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발신 01-02]",
+      "pdfPage": 99,
+      "printedPage": null,
+      "section": "발명과 기업가 정신 > 발명과 기업가 정신의 이해",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.62f35b26e63b74606492"
+    },
+    {
+     "key": "kr-2022-voc-발명과-기업가-정신:[발신 01-03]",
+     "code": "[발신 01-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 기업가 정신",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "발명과 기업가 정신의 이해",
+     "summary": "발명과 기업가 정신의 관계를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발신 01-03]",
+      "pdfPage": 99,
+      "printedPage": null,
+      "section": "발명과 기업가 정신 > 발명과 기업가 정신의 이해",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.36a3d0bf7c2b283f97c7"
+    },
+    {
+     "key": "kr-2022-voc-발명과-기업가-정신:[발신 02-01]",
+     "code": "[발신 02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 기업가 정신",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "기업가 정신과 창업",
+     "summary": "창업과 기업의 관계를 이해하여 창업과 기업의 유형과 종류를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발신 02-01]",
+      "pdfPage": 100,
+      "printedPage": null,
+      "section": "발명과 기업가 정신 > 기업가 정신과 창업",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.21a4c5937b44e6d86dc1"
+    },
+    {
+     "key": "kr-2022-voc-발명과-기업가-정신:[발신 02-02]",
+     "code": "[발신 02-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 기업가 정신",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "기업가 정신과 창업",
+     "summary": "창업의 방법과 절차를 이해하여 창업 과정을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발신 02-02]",
+      "pdfPage": 100,
+      "printedPage": null,
+      "section": "발명과 기업가 정신 > 기업가 정신과 창업",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.342a9f6d33bade2c48a8"
+    },
+    {
+     "key": "kr-2022-voc-발명과-기업가-정신:[발신 02-03]",
+     "code": "[발신 02-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 기업가 정신",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "기업가 정신과 창업",
+     "summary": "지식 재산권을 활용한 창업을 예를 들어 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발신 02-03]",
+      "pdfPage": 100,
+      "printedPage": null,
+      "section": "발명과 기업가 정신 > 기업가 정신과 창업",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.89da4a161126006c483a"
+    },
+    {
+     "key": "kr-2022-voc-발명과-기업가-정신:[발신 02-04]",
+     "code": "[발신 02-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 기업가 정신",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "기업가 정신과 창업",
+     "summary": "유형별 창업을 예를 들어 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발신 02-04]",
+      "pdfPage": 100,
+      "printedPage": null,
+      "section": "발명과 기업가 정신 > 기업가 정신과 창업",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.b8e9a02354446375cf7a"
+    },
+    {
+     "key": "kr-2022-voc-발명과-기업가-정신:[발신 03-01]",
+     "code": "[발신 03-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 기업가 정신",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "사업 타당성 분석과 사업 계획서",
+     "summary": "사업 타당성 분석의 필요성을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발신 03-01]",
+      "pdfPage": 100,
+      "printedPage": null,
+      "section": "발명과 기업가 정신 > 사업 타당성 분석과 사업 계획서",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.bbe1773d1d21e36c4439"
+    },
+    {
+     "key": "kr-2022-voc-발명과-기업가-정신:[발신 03-02]",
+     "code": "[발신 03-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 기업가 정신",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "사업 타당성 분석과 사업 계획서",
+     "summary": "사업 타당성 분석 방법을 이해하여 분석하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발신 03-02]",
+      "pdfPage": 100,
+      "printedPage": null,
+      "section": "발명과 기업가 정신 > 사업 타당성 분석과 사업 계획서",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.3ba4a65bbe20271c0b6b"
+    },
+    {
+     "key": "kr-2022-voc-발명과-기업가-정신:[발신 03-03]",
+     "code": "[발신 03-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 기업가 정신",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "사업 타당성 분석과 사업 계획서",
+     "summary": "사업 계획서의 의미와 필요성을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발신 03-03]",
+      "pdfPage": 100,
+      "printedPage": null,
+      "section": "발명과 기업가 정신 > 사업 타당성 분석과 사업 계획서",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.06314b569731e35f1101"
+    },
+    {
+     "key": "kr-2022-voc-발명과-기업가-정신:[발신 03-04]",
+     "code": "[발신 03-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 기업가 정신",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "사업 타당성 분석과 사업 계획서",
+     "summary": "사업 계획서 작성 순서 및 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발신 03-04]",
+      "pdfPage": 100,
+      "printedPage": null,
+      "section": "발명과 기업가 정신 > 사업 타당성 분석과 사업 계획서",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.60802fe45e0510a631ed"
+    },
+    {
+     "key": "kr-2022-voc-발명과-기업가-정신:[발신 04-01]",
+     "code": "[발신 04-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 기업가 정신",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "창업 프로젝트",
+     "summary": "아이디어 창출 기법을 활용하여 창업 아이디어를 창출하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발신 04-01]",
+      "pdfPage": 100,
+      "printedPage": null,
+      "section": "발명과 기업가 정신 > 창업 프로젝트",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.b82757b1b28842b62523"
+    },
+    {
+     "key": "kr-2022-voc-발명과-기업가-정신:[발신 04-02]",
+     "code": "[발신 04-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 기업가 정신",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "창업 프로젝트",
+     "summary": "사업 계획서 작성 방법에 따라 사업 계획서를 작성하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발신 04-02]",
+      "pdfPage": 100,
+      "printedPage": null,
+      "section": "발명과 기업가 정신 > 창업 프로젝트",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.dfeb667feb78125853ef"
+    },
+    {
+     "key": "kr-2022-voc-발명과-기업가-정신:[발신 04-03]",
+     "code": "[발신 04-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 기업가 정신",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "창업 프로젝트",
+     "summary": "사업을 위한 자금 투자 유치 계획을 작성하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발신 04-03]",
+      "pdfPage": 100,
+      "printedPage": null,
+      "section": "발명과 기업가 정신 > 창업 프로젝트",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.966abfc22224cb12faf8"
+    },
+    {
+     "key": "kr-2022-voc-발명과-기업가-정신:[발신 04-04]",
+     "code": "[발신 04-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 기업가 정신",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "창업 프로젝트",
+     "summary": "작성된 사업 계획서와 자금 투자 유치 계획을 반영한 IR 보고서를 작성하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발신 04-04]",
+      "pdfPage": 100,
+      "printedPage": null,
+      "section": "발명과 기업가 정신 > 창업 프로젝트",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.1b1aea2880d10fe7c911"
+    }
+   ]
+  },
+  {
+   "id": "kr-2022-voc-발명과-디자인",
+   "subjectKorean": "발명과 디자인",
+   "majorFieldSlug": "convergence-ip",
+   "subjectGroupKorean": "융복합·지식재산",
+   "courseCategory": "major-general",
+   "gradeBand": "10-12",
+   "name": "발명과 디자인 2022 개정 전문교과 교육과정",
+   "deck6CourseId": "kr.course.2022.high.a17c30592e74a3b8",
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ],
+   "standardCount": 16,
+   "standards": [
+    {
+     "key": "kr-2022-voc-발명과-디자인:[발디 01-01]",
+     "code": "[발디 01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 디자인",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "발명 디자인의 이해",
+     "summary": "발명 디자인의 개념을 이해하고, 지식 재산권에서의 발명 디자인의 개념을 인식하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발디 01-01]",
+      "pdfPage": 106,
+      "printedPage": null,
+      "section": "발명과 디자인 > 발명 디자인의 이해",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.fc46085dd1f12c05bb54"
+    },
+    {
+     "key": "kr-2022-voc-발명과-디자인:[발디 01-02]",
+     "code": "[발디 01-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 디자인",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "발명 디자인의 이해",
+     "summary": "발명 디자인의 영역을 구분하여 디자인의 종류를 구분하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발디 01-02]",
+      "pdfPage": 106,
+      "printedPage": null,
+      "section": "발명과 디자인 > 발명 디자인의 이해",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.6dc3e66986ac2311086c"
+    },
+    {
+     "key": "kr-2022-voc-발명과-디자인:[발디 01-03]",
+     "code": "[발디 01-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 디자인",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "발명 디자인의 이해",
+     "summary": "발명 디자인의 고려 사항과 조건을 이해하고 적용하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발디 01-03]",
+      "pdfPage": 106,
+      "printedPage": null,
+      "section": "발명과 디자인 > 발명 디자인의 이해",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.a14b3c2f87f1d346ba72"
+    },
+    {
+     "key": "kr-2022-voc-발명과-디자인:[발디 01-04]",
+     "code": "[발디 01-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 디자인",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "발명 디자인의 이해",
+     "summary": "과거와 현재의 발명 디자인에 대해 이해하여 미래의 발명 디자인을 예측하고 첨단 기술을 발명 디자인에 접목하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발디 01-04]",
+      "pdfPage": 106,
+      "printedPage": null,
+      "section": "발명과 디자인 > 발명 디자인의 이해",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.1856ff4dfc69a5c66159"
+    },
+    {
+     "key": "kr-2022-voc-발명과-디자인:[발디 02-01]",
+     "code": "[발디 02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 디자인",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "발명 디자인의 발상과 시각화",
+     "summary": "발명 문제 해결 과정에서 확산적 사고 기법을 이해하여 적용하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발디 02-01]",
+      "pdfPage": 106,
+      "printedPage": null,
+      "section": "발명과 디자인 > 발명 디자인의 발상과 시각화",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.0be22acaa59e9fb2f2c2"
+    },
+    {
+     "key": "kr-2022-voc-발명과-디자인:[발디 02-02]",
+     "code": "[발디 02-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 디자인",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "발명 디자인의 발상과 시각화",
+     "summary": "발명 문제 해결 과정에서 수렴적 사고 기법을 이해하여 적용하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발디 02-02]",
+      "pdfPage": 106,
+      "printedPage": null,
+      "section": "발명과 디자인 > 발명 디자인의 발상과 시각화",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.79e1cc33f9594a7db980"
+    },
+    {
+     "key": "kr-2022-voc-발명과-디자인:[발디 02-03]",
+     "code": "[발디 02-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 디자인",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "발명 디자인의 발상과 시각화",
+     "summary": "발명 디자인 발상 기법을 복합적으로 사용하여 창의적인 발명 디자인을 도출하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발디 02-03]",
+      "pdfPage": 106,
+      "printedPage": null,
+      "section": "발명과 디자인 > 발명 디자인의 발상과 시각화",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.b6ae9de099f8aa8cdfc4"
+    },
+    {
+     "key": "kr-2022-voc-발명과-디자인:[발디 03-01]",
+     "code": "[발디 03-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 디자인",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "발명 디자인 과정",
+     "summary": "발명 디자인 대상의 목표 및 기능 설정하기의 필요성과 과정을 이해하여 목표 계층도를 작성 하고, 제품의 입력과 출력에 따른 세부적인 기능과 장치를 도출하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발디 03-01]",
+      "pdfPage": 107,
+      "printedPage": null,
+      "section": "발명과 디자인 > 발명 디자인 과정",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.a13ca2c40d3b39d9b685"
+    },
+    {
+     "key": "kr-2022-voc-발명과-디자인:[발디 03-02]",
+     "code": "[발디 03-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 디자인",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "발명 디자인 과정",
+     "summary": "발명 디자인 제품 개발을 위한 고객의 요구 사항을 파악하여 범위와 속성을 결정하고 성능 명세서를 작성하여 특성을 결정하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발디 03-02]",
+      "pdfPage": 107,
+      "printedPage": null,
+      "section": "발명과 디자인 > 발명 디자인 과정",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.7ff8fbe921bda211a852"
+    },
+    {
+     "key": "kr-2022-voc-발명과-디자인:[발디 03-03]",
+     "code": "[발디 03-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 디자인",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "발명 디자인 과정",
+     "summary": "발명 디자인 아이디어 도출을 위한 과정을 이해하여 제품의 기능과 기능 수행 부분을 목록 화하고, 적용 가능한 다양한 아이디어를 조합하여 새로운 아이디어를 도출하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발디 03-03]",
+      "pdfPage": 107,
+      "printedPage": null,
+      "section": "발명과 디자인 > 발명 디자인 과정",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.00475ddd7114825fd87f"
+    },
+    {
+     "key": "kr-2022-voc-발명과-디자인:[발디 03-04]",
+     "code": "[발디 03-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 디자인",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "발명 디자인 과정",
+     "summary": "발명 디자인 아이디어 평가를 위한 방법과 절차를 이해하여 다양한 아이디어의 가치를 평 가하고 개선하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발디 03-04]",
+      "pdfPage": 107,
+      "printedPage": null,
+      "section": "발명과 디자인 > 발명 디자인 과정",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.124676bb21645fd64fce"
+    },
+    {
+     "key": "kr-2022-voc-발명과-디자인:[발디 04-01]",
+     "code": "[발디 04-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 디자인",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "발명 디자인 제품화",
+     "summary": "3D 모델링, 3D 렌더링의 개념과 발명 디자인에서 3D 프린팅의 역할을 인식하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발디 04-01]",
+      "pdfPage": 107,
+      "printedPage": null,
+      "section": "발명과 디자인 > 발명 디자인 제품화",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.20f232c224b1566aea43"
+    },
+    {
+     "key": "kr-2022-voc-발명과-디자인:[발디 04-02]",
+     "code": "[발디 04-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 디자인",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "발명 디자인 제품화",
+     "summary": "3D 모델링 프로그램을 사용하여 3D 모델링과 3D 렌더링으로 도면을 제작하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발디 04-02]",
+      "pdfPage": 107,
+      "printedPage": null,
+      "section": "발명과 디자인 > 발명 디자인 제품화",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.5ad909f8e43ffbdc5831"
+    },
+    {
+     "key": "kr-2022-voc-발명과-디자인:[발디 04-03]",
+     "code": "[발디 04-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 디자인",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "발명 디자인 제품화",
+     "summary": "3D 프린팅의 개념과 디자인 제작 시 고려 사항에 대해 이해하여 최적화된 형태의 3D 모델 링 데이터로 설계하여 3D 프린팅을 하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발디 04-03]",
+      "pdfPage": 107,
+      "printedPage": null,
+      "section": "발명과 디자인 > 발명 디자인 제품화",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.5a6badda07d056562709"
+    },
+    {
+     "key": "kr-2022-voc-발명과-디자인:[발디 05-01]",
+     "code": "[발디 05-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 디자인",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "발명 캡스톤 디자인",
+     "summary": "발명 캡스톤 디자인의 개념과 의미를 이해하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발디 05-01]",
+      "pdfPage": 108,
+      "printedPage": null,
+      "section": "발명과 디자인 > 발명 캡스톤 디자인",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.8365697328c3975a1c5e"
+    },
+    {
+     "key": "kr-2022-voc-발명과-디자인:[발디 05-02]",
+     "code": "[발디 05-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 디자인",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "발명 캡스톤 디자인",
+     "summary": "인공지능 기술과 SW 코딩을 이용한 발명 캡스톤 디자인 제품을 만들 수 있다",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발디 05-02]",
+      "pdfPage": 108,
+      "printedPage": null,
+      "section": "발명과 디자인 > 발명 캡스톤 디자인",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.1ceb2f36c0340ab09509"
+    }
+   ]
+  },
+  {
+   "id": "kr-2022-voc-발명과-메이커",
+   "subjectKorean": "발명과 메이커",
+   "majorFieldSlug": "convergence-ip",
+   "subjectGroupKorean": "융복합·지식재산",
+   "courseCategory": "major-general",
+   "gradeBand": "10-12",
+   "name": "발명과 메이커 2022 개정 전문교과 교육과정",
+   "deck6CourseId": "kr.course.2022.high.eb05240e5cf7c09a",
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ],
+   "standardCount": 13,
+   "standards": [
+    {
+     "key": "kr-2022-voc-발명과-메이커:[발메 01-01]",
+     "code": "[발메 01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 메이커",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "발명과 문제 해결의 이해",
+     "summary": "메이커 활동의 배경과 다양한 사례를 조사하고 메이커 활동의 중요성에 대해 토의하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발메 01-01]",
+      "pdfPage": 114,
+      "printedPage": null,
+      "section": "발명과 메이커 > 발명과 문제 해결의 이해",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.7c37c39a071f6f15c03d"
+    },
+    {
+     "key": "kr-2022-voc-발명과-메이커:[발메 01-02]",
+     "code": "[발메 01-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 메이커",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "발명과 문제 해결의 이해",
+     "summary": "발명 문제 정의 과정을 활용해 문제를 찾아 원인을 파악하고 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발메 01-02]",
+      "pdfPage": 114,
+      "printedPage": null,
+      "section": "발명과 메이커 > 발명과 문제 해결의 이해",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.90bee2de154322e454b1"
+    },
+    {
+     "key": "kr-2022-voc-발명과-메이커:[발메 01-03]",
+     "code": "[발메 01-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 메이커",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "발명과 문제 해결의 이해",
+     "summary": "다양한 분야의 지식, 기술, 그리고 전문가의 경험을 조사하여 문제를 분석하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발메 01-03]",
+      "pdfPage": 114,
+      "printedPage": null,
+      "section": "발명과 메이커 > 발명과 문제 해결의 이해",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.1ca5b3ad3b48d8abed59"
+    },
+    {
+     "key": "kr-2022-voc-발명과-메이커:[발메 02-01]",
+     "code": "[발메 02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 메이커",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "디자인 씽킹을 통한 발명 아이디어 창출",
+     "summary": "발명 아이디어 창출을 위해 다양한 아이디어 창출 방법과 평가 방법을 찾아 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발메 02-01]",
+      "pdfPage": 115,
+      "printedPage": null,
+      "section": "발명과 메이커 > 디자인 씽킹을 통한 발명 아이디어 창출",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.a3890c6abcd017bacf41"
+    },
+    {
+     "key": "kr-2022-voc-발명과-메이커:[발메 02-02]",
+     "code": "[발메 02-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 메이커",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "디자인 씽킹을 통한 발명 아이디어 창출",
+     "summary": "디자인 씽킹의 정의와 필요성을 조사하고 디자인 씽킹을 활용한 사례를 찾아 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발메 02-02]",
+      "pdfPage": 115,
+      "printedPage": null,
+      "section": "발명과 메이커 > 디자인 씽킹을 통한 발명 아이디어 창출",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.2bfe0cf00b2ce53b94a4"
+    },
+    {
+     "key": "kr-2022-voc-발명과-메이커:[발메 02-03]",
+     "code": "[발메 02-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 메이커",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "디자인 씽킹을 통한 발명 아이디어 창출",
+     "summary": "디자인 씽킹 방법으로 토의하여 발명 아이디어를 창출하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발메 02-03]",
+      "pdfPage": 115,
+      "printedPage": null,
+      "section": "발명과 메이커 > 디자인 씽킹을 통한 발명 아이디어 창출",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.a655265a85a7518e8604"
+    },
+    {
+     "key": "kr-2022-voc-발명과-메이커:[발메 03-01]",
+     "code": "[발메 03-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 메이커",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "메이커 활동과 발명품 제작",
+     "summary": "창출된 아이디어를 구체화하여 발명 시제품을 설계하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발메 03-01]",
+      "pdfPage": 115,
+      "printedPage": null,
+      "section": "발명과 메이커 > 메이커 활동과 발명품 제작",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.9adec822edc7f8660615"
+    },
+    {
+     "key": "kr-2022-voc-발명과-메이커:[발메 03-02]",
+     "code": "[발메 03-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 메이커",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "메이커 활동과 발명품 제작",
+     "summary": "설계된 발명품을 메이커 활동을 통해 시제품을 제작하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발메 03-02]",
+      "pdfPage": 115,
+      "printedPage": null,
+      "section": "발명과 메이커 > 메이커 활동과 발명품 제작",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.71339fe5518422226bbd"
+    },
+    {
+     "key": "kr-2022-voc-발명과-메이커:[발메 03-03]",
+     "code": "[발메 03-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 메이커",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "메이커 활동과 발명품 제작",
+     "summary": "제작된 시제품을 평가하고 개선 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발메 03-03]",
+      "pdfPage": 115,
+      "printedPage": null,
+      "section": "발명과 메이커 > 메이커 활동과 발명품 제작",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.e89fa499eb90a434e38b"
+    },
+    {
+     "key": "kr-2022-voc-발명과-메이커:[발메 04-01]",
+     "code": "[발메 04-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 메이커",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "발명 메이커 프로젝트",
+     "summary": "로봇 제작 프로그램을 활용하여 문제를 분석하고 해결 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발메 04-01]",
+      "pdfPage": 116,
+      "printedPage": null,
+      "section": "발명과 메이커 > 발명 메이커 프로젝트",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.9e8e9f0dca5f988a6abd"
+    },
+    {
+     "key": "kr-2022-voc-발명과-메이커:[발메 04-02]",
+     "code": "[발메 04-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 메이커",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "발명 메이커 프로젝트",
+     "summary": "드론을 활용하여 문제를 분석하고 해결 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발메 04-02]",
+      "pdfPage": 116,
+      "printedPage": null,
+      "section": "발명과 메이커 > 발명 메이커 프로젝트",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.e56e3c3274d050426879"
+    },
+    {
+     "key": "kr-2022-voc-발명과-메이커:[발메 04-03]",
+     "code": "[발메 04-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 메이커",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "발명 메이커 프로젝트",
+     "summary": "피지컬 컴퓨팅을 활용하여 문제를 분석하고 해결 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발메 04-03]",
+      "pdfPage": 116,
+      "printedPage": null,
+      "section": "발명과 메이커 > 발명 메이커 프로젝트",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.a01c37d49e466b3addb7"
+    },
+    {
+     "key": "kr-2022-voc-발명과-메이커:[발메 04-04]",
+     "code": "[발메 04-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "발명과 메이커",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "발명 메이커 프로젝트",
+     "summary": "정보통신기술을 활용하여 문제를 분석하고 해결 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[발메 04-04]",
+      "pdfPage": 116,
+      "printedPage": null,
+      "section": "발명과 메이커 > 발명 메이커 프로젝트",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.2779aa208be9bb340bba"
+    }
+   ]
+  },
+  {
+   "id": "kr-2022-voc-스마트-공장-설계와-구축",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "subjectGroupKorean": "융복합·지식재산",
+   "courseCategory": "major-general",
+   "gradeBand": "10-12",
+   "name": "스마트 공장 설계와 구축 2022 개정 전문교과 교육과정",
+   "deck6CourseId": "kr.course.2022.high.57596ac08591b8f5",
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ],
+   "standardCount": 44,
+   "standards": [
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 01-01-01]",
+     "code": "[스구 01-01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 설비 메커니즘 설계",
+     "summary": "스마트 설비의 설계 목표가 정확히 반영될 수 있도록 부품 배치도를 작성하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 01-01-01]",
+      "pdfPage": 81,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 스마트 설비 메커니즘 설계",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.1457155a9f83b8f34a78"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 01-01-02]",
+     "code": "[스구 01-01-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 설비 메커니즘 설계",
+     "summary": "스마트 설비의 구동 특성과 선정된 단위 구동 요소 조합을 검토하여, 2개 이상의 복합 구동 메커니즘을 구성하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 01-01-02]",
+      "pdfPage": 81,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 스마트 설비 메커니즘 설계",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.43deeccc9558e14c2a7d"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 01-02-01]",
+     "code": "[스구 01-02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 설비 메커니즘 설계",
+     "summary": "설계할 구성 부품의 특징 및 성능을 검토하고, 필요한 단위 구성 부품들을 결정하고 조합 하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 01-02-01]",
+      "pdfPage": 82,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 스마트 설비 메커니즘 설계",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.0a8b48ac22bc3011bd05"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 01-02-02]",
+     "code": "[스구 01-02-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 설비 메커니즘 설계",
+     "summary": "스마트 설비의 특징 및 유지 관리의 편의성을 고려하여 구성 부품 선정에 반영하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 01-02-02]",
+      "pdfPage": 82,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 스마트 설비 메커니즘 설계",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.15ec0a5f56e57babcc1a"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 01-02-03]",
+     "code": "[스구 01-02-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 설비 메커니즘 설계",
+     "summary": "스마트 설비의 기능에 따라 필요한 구성 부품들을 선정하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 01-02-03]",
+      "pdfPage": 82,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 스마트 설비 메커니즘 설계",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.f63b2acb740d6187cd9c"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 01-03-01]",
+     "code": "[스구 01-03-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 설비 메커니즘 설계",
+     "summary": "스마트 설비 제어 방식 결정을 위한 자료를 수집하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 01-03-01]",
+      "pdfPage": 82,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 스마트 설비 메커니즘 설계",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.8c6d8e310b71ada56bd2"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 01-03-02]",
+     "code": "[스구 01-03-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 설비 메커니즘 설계",
+     "summary": "스마트 설비의 메커니즘 특성과 안정도를 고려하여 제어 방식을 결정하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 01-03-02]",
+      "pdfPage": 82,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 스마트 설비 메커니즘 설계",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.496a6415c1c90b176c95"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 01-03-03]",
+     "code": "[스구 01-03-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 설비 메커니즘 설계",
+     "summary": "스마트 설비의 메커니즘 특성을 고려하여 제어 회로를 결정하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 01-03-03]",
+      "pdfPage": 82,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 스마트 설비 메커니즘 설계",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.1824bb514947b52c9230"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 02-01-01]",
+     "code": "[스구 02-01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 설비 제어 설계",
+     "summary": "설계 요구에 따라 입력 장치의 종류와 수량을 선정하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 02-01-01]",
+      "pdfPage": 83,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 스마트 설비 제어 설계",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.73f7473f4a569d21300f"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 02-01-02]",
+     "code": "[스구 02-01-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 설비 제어 설계",
+     "summary": "필요한 센서 및 스위치의 종류와 수량을 결정하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 02-01-02]",
+      "pdfPage": 83,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 스마트 설비 제어 설계",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.4228c3186a5b14e107bb"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 02-01-03]",
+     "code": "[스구 02-01-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 설비 제어 설계",
+     "summary": "설계 요구에 따른 출력 장치의 종류와 수량을 결정하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 02-01-03]",
+      "pdfPage": 83,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 스마트 설비 제어 설계",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.dfa5a05b9b53b25a67f2"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 02-02-01]",
+     "code": "[스구 02-02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 설비 제어 설계",
+     "summary": "제어 신호의 전달을 위해 디지털 신호의 유접점 방식과 무접점 방식을 결정하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 02-02-01]",
+      "pdfPage": 83,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 스마트 설비 제어 설계",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.9a59a06747cb310c4e8f"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 02-02-02]",
+     "code": "[스구 02-02-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 설비 제어 설계",
+     "summary": "제어 신호의 전달을 위해 아날로그 신호의 전압, 전류, 펄스 등 신호 방식을 결정하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 02-02-02]",
+      "pdfPage": 83,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 스마트 설비 제어 설계",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.32680c873fb47068d32e"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 02-02-03]",
+     "code": "[스구 02-02-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 설비 제어 설계",
+     "summary": "신호 전달이 필요한 장치 간에 통신 방식과 통신 프로토콜을 결정하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 02-02-03]",
+      "pdfPage": 83,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 스마트 설비 제어 설계",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.e0998adc73750a97fa77"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 02-03-01]",
+     "code": "[스구 02-03-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 설비 제어 설계",
+     "summary": "설비 운전 방식을 결정하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 02-03-01]",
+      "pdfPage": 84,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 스마트 설비 제어 설계",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.75b776b7e3e01ea449bd"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 02-03-02]",
+     "code": "[스구 02-03-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 설비 제어 설계",
+     "summary": "제어 동작의 흐름도를 작성하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 02-03-02]",
+      "pdfPage": 84,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 스마트 설비 제어 설계",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.9fd039ca6091d814947e"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 02-03-03]",
+     "code": "[스구 02-03-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 설비 제어 설계",
+     "summary": "제어 요구에 따라 후행 동작 이행의 조건을 결정하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 02-03-03]",
+      "pdfPage": 84,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 스마트 설비 제어 설계",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.91d5d11dde44f6596262"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 02-04-01]",
+     "code": "[스구 02-04-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 설비 제어 설계",
+     "summary": "제어 요구에 따라 구동 장치의 종류와 용량을 결정하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 02-04-01]",
+      "pdfPage": 84,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 스마트 설비 제어 설계",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.6b3107fdaea3525cf0f2"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 02-04-02]",
+     "code": "[스구 02-04-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 설비 제어 설계",
+     "summary": "설비 제어에 필요한 구동 장치의 동작 범위를 결정하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 02-04-02]",
+      "pdfPage": 84,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 스마트 설비 제어 설계",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.8a4e80c814b037c407cf"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 02-04-03]",
+     "code": "[스구 02-04-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 설비 제어 설계",
+     "summary": "설비 제어에 필요한 구동 장치의 제어 방식을 결정하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 02-04-03]",
+      "pdfPage": 84,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 스마트 설비 제어 설계",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.0cd1546ac8f51413ec1d"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 03-01-01]",
+     "code": "[스구 03-01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 설비 제어 시스템 구축",
+     "summary": "자동화 시스템 PLC/PC 기반 제어 기기 종류에 대해 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 03-01-01]",
+      "pdfPage": 84,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 스마트 설비 제어 시스템 구축",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.62d40a34b211f6827b6e"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 03-01-02]",
+     "code": "[스구 03-01-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 설비 제어 시스템 구축",
+     "summary": "자동화 시스템 PLC/PC 기반 제어 기기별 특징에 대해 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 03-01-02]",
+      "pdfPage": 84,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 스마트 설비 제어 시스템 구축",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.ae9e1bce3881d1f6205c"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 03-02-01]",
+     "code": "[스구 03-02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 설비 제어 시스템 구축",
+     "summary": "스마트 설비 제어 설계도를 기준으로 제어 기기를 선정하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 03-02-01]",
+      "pdfPage": 85,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 스마트 설비 제어 시스템 구축",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.1c0ec6cfd4532ce59bc7"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 03-02-02]",
+     "code": "[스구 03-02-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 설비 제어 시스템 구축",
+     "summary": "선정된 제어 기기의 파트 리스트를 작성하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 03-02-02]",
+      "pdfPage": 85,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 스마트 설비 제어 시스템 구축",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.9eb505a987b7ef6a5a6b"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 03-03-01]",
+     "code": "[스구 03-03-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 설비 제어 시스템 구축",
+     "summary": "입출력 제어를 위한 논리 회로 및 기본 제어 회로에 대해 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 03-03-01]",
+      "pdfPage": 85,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 스마트 설비 제어 시스템 구축",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.53ca940655b515e2f94e"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 03-03-02]",
+     "code": "[스구 03-03-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 설비 제어 시스템 구축",
+     "summary": "스마트 설비 PLC 기반 제어 프로그래밍을 작성하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 03-03-02]",
+      "pdfPage": 85,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 스마트 설비 제어 시스템 구축",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.2288a23ebbe5e3857c86"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 03-03-03]",
+     "code": "[스구 03-03-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 설비 제어 시스템 구축",
+     "summary": "스마트 설비 PC 기반 제어 프로그래밍을 작성하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 03-03-03]",
+      "pdfPage": 85,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 스마트 설비 제어 시스템 구축",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.0267d196945e9cdd38e3"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 04-01-01]",
+     "code": "[스구 04-01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "감시 제어 시스템 설계",
+     "summary": "감시 제어 시스템에 연결된 설비의 종류와 특성을 구분하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 04-01-01]",
+      "pdfPage": 86,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 감시 제어 시스템 설계",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.498660253c6156c02898"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 04-01-02]",
+     "code": "[스구 04-01-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "감시 제어 시스템 설계",
+     "summary": "감시 제어 시스템의 주요 기능을 설정하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 04-01-02]",
+      "pdfPage": 86,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 감시 제어 시스템 설계",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.baf23e6b512f72b6c18f"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 04-01-03]",
+     "code": "[스구 04-01-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "감시 제어 시스템 설계",
+     "summary": "통신 설정을 하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 04-01-03]",
+      "pdfPage": 86,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 감시 제어 시스템 설계",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.52716155790b303e72f2"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 04-02-01]",
+     "code": "[스구 04-02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "감시 제어 시스템 설계",
+     "summary": "사용자 편의성을 고려하여 화면을 구성하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 04-02-01]",
+      "pdfPage": 86,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 감시 제어 시스템 설계",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.893eda8d7808c3edf1d9"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 04-02-02]",
+     "code": "[스구 04-02-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "감시 제어 시스템 설계",
+     "summary": "기계 장비에 명령을 전달하고 작동 상태를 파악하도록 화면을 구성하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 04-02-02]",
+      "pdfPage": 86,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 감시 제어 시스템 설계",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.e78b6d17be619ed75cf0"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 04-02-03]",
+     "code": "[스구 04-02-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "감시 제어 시스템 설계",
+     "summary": "프로그램 설계서에 제어 화면 설계 내용을 반영하여 작성하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 04-02-03]",
+      "pdfPage": 86,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 감시 제어 시스템 설계",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.7ec7aa47af658db530fc"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 04-03-01]",
+     "code": "[스구 04-03-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "감시 제어 시스템 설계",
+     "summary": "프로그램 설계서의 내용을 파악하고 프로그램 방법을 결정하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 04-03-01]",
+      "pdfPage": 86,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 감시 제어 시스템 설계",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.76e2a3296de6d83b5cf2"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 04-03-02]",
+     "code": "[스구 04-03-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "감시 제어 시스템 설계",
+     "summary": "설계서의 내용대로 감시 제어 시스템 프로그램을 작성하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 04-03-02]",
+      "pdfPage": 86,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 감시 제어 시스템 설계",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.2da0b6638f10de970dac"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 04-03-03]",
+     "code": "[스구 04-03-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "감시 제어 시스템 설계",
+     "summary": "작성된 프로그램의 오류를 체크하여 수정하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 04-03-03]",
+      "pdfPage": 86,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 감시 제어 시스템 설계",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.2921bd71043b62c68429"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 05-01-01]",
+     "code": "[스구 05-01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "디지털 트윈 구축",
+     "summary": "스마트 공장 계층적 구성(5 Layer)에 대해 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 05-01-01]",
+      "pdfPage": 87,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 디지털 트윈 구축",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.375f3be83c83859daa2e"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 05-01-02]",
+     "code": "[스구 05-01-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "디지털 트윈 구축",
+     "summary": "디지털 트윈을 활용한 스마트 공장 설계 및 개발 방법에 대해 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 05-01-02]",
+      "pdfPage": 87,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 디지털 트윈 구축",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.3bf8e4ccc87a101efedf"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 05-02-01]",
+     "code": "[스구 05-02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "디지털 트윈 구축",
+     "summary": "가상 물리 엔진을 이용하여 컴포넌트 및 모듈을 디자인하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 05-02-01]",
+      "pdfPage": 87,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 디지털 트윈 구축",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.11039637d9683bd8e4c9"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 05-02-02]",
+     "code": "[스구 05-02-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "디지털 트윈 구축",
+     "summary": "디지털 트윈에서 공정 시스템(시스템 트윈) 구현을 위한 레이아웃을 디자인하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 05-02-02]",
+      "pdfPage": 87,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 디지털 트윈 구축",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.eb54c4b7a6c48be145e2"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 05-03-01]",
+     "code": "[스구 05-03-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "디지털 트윈 구축",
+     "summary": "시뮬레이션을 위한 디지털 모델(3D 오브젝트)을 선정하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 05-03-01]",
+      "pdfPage": 88,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 디지털 트윈 구축",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.a683c0059672e4dd712a"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 05-03-02]",
+     "code": "[스구 05-03-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "디지털 트윈 구축",
+     "summary": "3D 오브젝트와 제어 기기 간 인터페이스를 설정하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 05-03-02]",
+      "pdfPage": 88,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 디지털 트윈 구축",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.40813fb5b7cf646e820c"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 05-03-03]",
+     "code": "[스구 05-03-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "디지털 트윈 구축",
+     "summary": "PC 언어를 활용하여 시뮬레이션 스크립트를 작성하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 05-03-03]",
+      "pdfPage": 88,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 디지털 트윈 구축",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.fb591382cd10d0fe1ae7"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-설계와-구축:[스구 05-03-04]",
+     "code": "[스구 05-03-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 설계와 구축",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "디지털 트윈 구축",
+     "summary": "설비 공정의 구성 및 재구성 시뮬레이션을 통한 성능 변화를 분석하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스구 05-03-04]",
+      "pdfPage": 88,
+      "printedPage": null,
+      "section": "스마트 공장 설계와 구축 > 디지털 트윈 구축",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.a0aafe54de95f800eb00"
+    }
+   ]
+  },
+  {
+   "id": "kr-2022-voc-스마트-공장-운용",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "subjectGroupKorean": "융복합·지식재산",
+   "courseCategory": "major-general",
+   "gradeBand": "10-12",
+   "name": "스마트 공장 운용 2022 개정 전문교과 교육과정",
+   "deck6CourseId": "kr.course.2022.high.1eb0bb7d02e3f5c8",
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ],
+   "standardCount": 49,
+   "standards": [
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 01-01-01]",
+     "code": "[스운 01-01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "생산 관리 기술",
+     "summary": "생산 시스템의 방식에 대해 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 01-01-01]",
+      "pdfPage": 71,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 생산 관리 기술",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.edcc09e5faad92a2b9a9"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 01-01-02]",
+     "code": "[스운 01-01-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "생산 관리 기술",
+     "summary": "생산 시스템의 유형별 특징에 대해 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 01-01-02]",
+      "pdfPage": 71,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 생산 관리 기술",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.860f63c881630e5424c0"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 01-01-03]",
+     "code": "[스운 01-01-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "생산 관리 기술",
+     "summary": "생산 시스템의 유형별 장단점에 대해 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 01-01-03]",
+      "pdfPage": 71,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 생산 관리 기술",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.931dde2e885fcaf21362"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 01-02-01]",
+     "code": "[스운 01-02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "생산 관리 기술",
+     "summary": "일반 공장과 스마트 공장의 차이에 대해 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 01-02-01]",
+      "pdfPage": 71,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 생산 관리 기술",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.7b93a9d3d2b7030205bb"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 01-02-02]",
+     "code": "[스운 01-02-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "생산 관리 기술",
+     "summary": "스마트 공장 운용에 필요한 기술을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 01-02-02]",
+      "pdfPage": 71,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 생산 관리 기술",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.5b0911da4450a2419ea6"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 01-02-03]",
+     "code": "[스운 01-02-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "생산 관리 기술",
+     "summary": "스마트 공장의 기능에 대해 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 01-02-03]",
+      "pdfPage": 71,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 생산 관리 기술",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.efb138559d77f2711eee"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 01-03-01]",
+     "code": "[스운 01-03-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "생산 관리 기술",
+     "summary": "생산 공정에서 구성에 대해 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 01-03-01]",
+      "pdfPage": 71,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 생산 관리 기술",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.0b5b932a124c718586c0"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 01-03-02]",
+     "code": "[스운 01-03-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "생산 관리 기술",
+     "summary": "생산 공정의 핵심 지표에 대해 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 01-03-02]",
+      "pdfPage": 71,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 생산 관리 기술",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.eebae0511f70d69e6f85"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 01-03-03]",
+     "code": "[스운 01-03-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "생산 관리 기술",
+     "summary": "설비 관리의 의미와 관리 항목에 대해 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 01-03-03]",
+      "pdfPage": 71,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 생산 관리 기술",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.9f368bc26de084cdb642"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 01-03-04]",
+     "code": "[스운 01-03-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "생산 관리 기술",
+     "summary": "설비 종합 효율에 대해 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 01-03-04]",
+      "pdfPage": 71,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 생산 관리 기술",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.6264800608c1bb971a79"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 01-04-01]",
+     "code": "[스운 01-04-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "생산 관리 기술",
+     "summary": "자재 관리의 의미와 자재 발주 방법에 대해 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 01-04-01]",
+      "pdfPage": 72,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 생산 관리 기술",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.b6cf9719044b8f2db70d"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 01-04-02]",
+     "code": "[스운 01-04-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "생산 관리 기술",
+     "summary": "자재 발주 시스템에 대해 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 01-04-02]",
+      "pdfPage": 72,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 생산 관리 기술",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.f0287146dffb8dc3d7dd"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 01-04-03]",
+     "code": "[스운 01-04-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "생산 관리 기술",
+     "summary": "재고의 의미와 종류에 대해 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 01-04-03]",
+      "pdfPage": 72,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 생산 관리 기술",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.6c35fae83835a4ec24e3"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 01-04-04]",
+     "code": "[스운 01-04-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "생산 관리 기술",
+     "summary": "재고 관리 비용에 대해 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 01-04-04]",
+      "pdfPage": 72,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 생산 관리 기술",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.1ab44613d567f8ae9556"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 01-05-01]",
+     "code": "[스운 01-05-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "영역 05",
+     "summary": "품질의 의미와 제조 단계별 품질의 정의를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 01-05-01]",
+      "pdfPage": 72,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 영역 05",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.22cff412876a1d44f750"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 01-05-02]",
+     "code": "[스운 01-05-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "영역 05",
+     "summary": "품질 경영의 원칙을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 01-05-02]",
+      "pdfPage": 72,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 영역 05",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.20c022eb5b51236a408c"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 01-05-03]",
+     "code": "[스운 01-05-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "영역 05",
+     "summary": "품질 관리 시스템을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 01-05-03]",
+      "pdfPage": 72,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 영역 05",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.bd1ebb3e0b5903134646"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 02-01-01]",
+     "code": "[스운 02-01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "산업용 IoT 활용 기술",
+     "summary": "산업용 IoT 종류 및 특징을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 02-01-01]",
+      "pdfPage": 73,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 산업용 IoT 활용 기술",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.c1af5b6dd94314b4f417"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 02-01-02]",
+     "code": "[스운 02-01-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "산업용 IoT 활용 기술",
+     "summary": "산업용 IoT 종류별 동작 원리를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 02-01-02]",
+      "pdfPage": 73,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 산업용 IoT 활용 기술",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.72f9265f88bba31f7c1e"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 02-01-03]",
+     "code": "[스운 02-01-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "산업용 IoT 활용 기술",
+     "summary": "산업용 IoT를 제어하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 02-01-03]",
+      "pdfPage": 73,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 산업용 IoT 활용 기술",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.1e0c09b4884423143063"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 02-02-01]",
+     "code": "[스운 02-02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "산업용 IoT 활용 기술",
+     "summary": "PLC의 기능을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 02-02-01]",
+      "pdfPage": 73,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 산업용 IoT 활용 기술",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.420ce8f62f71cf02a61e"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 02-02-02]",
+     "code": "[스운 02-02-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "산업용 IoT 활용 기술",
+     "summary": "산업용 로봇의 장비 구성과 동작 원리를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 02-02-02]",
+      "pdfPage": 73,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 산업용 IoT 활용 기술",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.1dbe05677da93cab286e"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 02-02-03]",
+     "code": "[스운 02-02-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "산업용 IoT 활용 기술",
+     "summary": "PLC와 산업용 로봇의 표준 연동 기술을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 02-02-03]",
+      "pdfPage": 73,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 산업용 IoT 활용 기술",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.b55d6180bce1a413cdd9"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 02-03-01]",
+     "code": "[스운 02-03-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "산업용 IoT 활용 기술",
+     "summary": "기업에서 사용되는 네트워크 장비의 종류를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 02-03-01]",
+      "pdfPage": 73,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 산업용 IoT 활용 기술",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.b41ede66bd12dc3ac3ea"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 02-03-02]",
+     "code": "[스운 02-03-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "산업용 IoT 활용 기술",
+     "summary": "기업 네트워크 장비의 동작 원리를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 02-03-02]",
+      "pdfPage": 73,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 산업용 IoT 활용 기술",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.0f95b380267407e94a86"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 03-01-01]",
+     "code": "[스운 03-01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 공장 시스템",
+     "summary": "제조 실행 시스템을 이해하고 구성과 기능을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 03-01-01]",
+      "pdfPage": 74,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 스마트 공장 시스템",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.a5497a32ef8bd011762a"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 03-01-02]",
+     "code": "[스운 03-01-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 공장 시스템",
+     "summary": "APS(Advanced Planning and Scheduling) 기반으로 제조 실행 시스템의 기능을 수행 하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 03-01-02]",
+      "pdfPage": 74,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 스마트 공장 시스템",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.17c128570d90668f3ee9"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 03-02-01]",
+     "code": "[스운 03-02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 공장 시스템",
+     "summary": "SCADA 시스템을 이해하고 구성과 기능을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 03-02-01]",
+      "pdfPage": 74,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 스마트 공장 시스템",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.8cfa875a25abebcc7e1e"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 03-02-02]",
+     "code": "[스운 03-02-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 공장 시스템",
+     "summary": "SCADA 시스템의 기능을 수행하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 03-02-02]",
+      "pdfPage": 74,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 스마트 공장 시스템",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.03f5aa0f85eacfc39cd8"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 03-03-01]",
+     "code": "[스운 03-03-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 공장 시스템",
+     "summary": "CPS 시스템을 이해하고 구성과 기능을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 03-03-01]",
+      "pdfPage": 74,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 스마트 공장 시스템",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.050ffecfc9a7f5a3cd98"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 03-03-02]",
+     "code": "[스운 03-03-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 공장 시스템",
+     "summary": "CPS 시스템의 기능을 수행하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 03-03-02]",
+      "pdfPage": 74,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 스마트 공장 시스템",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.730ead04cf8fd7525b4c"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 03-04-01]",
+     "code": "[스운 03-04-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 공장 시스템",
+     "summary": "ERP 시스템의 기능을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 03-04-01]",
+      "pdfPage": 74,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 스마트 공장 시스템",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.539dfba6415300acd732"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 03-04-02]",
+     "code": "[스운 03-04-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 공장 시스템",
+     "summary": "ERP 시스템의 운용 기술을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 03-04-02]",
+      "pdfPage": 74,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 스마트 공장 시스템",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.a9105ce8f06f48c6d50a"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 03-05-01]",
+     "code": "[스운 03-05-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 공장 시스템",
+     "summary": "SCM 시스템의 기능을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 03-05-01]",
+      "pdfPage": 75,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 스마트 공장 시스템",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.1b72edd441bfcc92e3cc"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 03-05-02]",
+     "code": "[스운 03-05-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 공장 시스템",
+     "summary": "SCM 시스템의 운용 기술을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 03-05-02]",
+      "pdfPage": 75,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 스마트 공장 시스템",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.084afcf38d5d59a0dc42"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 04-01-01]",
+     "code": "[스운 04-01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "데이터 전 주기 관리",
+     "summary": "산업용 센서의 종류 및 특징을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 04-01-01]",
+      "pdfPage": 75,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 데이터 전 주기 관리",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.1bf84b875b306918a59e"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 04-01-02]",
+     "code": "[스운 04-01-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "데이터 전 주기 관리",
+     "summary": "산업용 센서의 종류별 동작 원리를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 04-01-02]",
+      "pdfPage": 75,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 데이터 전 주기 관리",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.eabdc77a5b3c1631397d"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 04-01-03]",
+     "code": "[스운 04-01-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "데이터 전 주기 관리",
+     "summary": "산업용 센서를 제어하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 04-01-03]",
+      "pdfPage": 75,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 데이터 전 주기 관리",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.9c99f96f89418c302bbf"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 04-02-01]",
+     "code": "[스운 04-02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "데이터 전 주기 관리",
+     "summary": "DBMS의 의미와 종류를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 04-02-01]",
+      "pdfPage": 75,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 데이터 전 주기 관리",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.34457d7b144b92da035e"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 04-02-02]",
+     "code": "[스운 04-02-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "데이터 전 주기 관리",
+     "summary": "DBMS의 기능에 대해 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 04-02-02]",
+      "pdfPage": 75,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 데이터 전 주기 관리",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.cfb9d9f15182ff040ff6"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 04-03-01]",
+     "code": "[스운 04-03-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "데이터 전 주기 관리",
+     "summary": "제조 데이터의 수집 목적과 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 04-03-01]",
+      "pdfPage": 76,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 데이터 전 주기 관리",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.745fc33a3d8d2abd8eb4"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 04-03-02]",
+     "code": "[스운 04-03-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "데이터 전 주기 관리",
+     "summary": "제조 데이터의 수집하여 저장하는 과정을 구현하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 04-03-02]",
+      "pdfPage": 76,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 데이터 전 주기 관리",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.85d0e88157b234a0d3cb"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 04-03-03]",
+     "code": "[스운 04-03-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "데이터 전 주기 관리",
+     "summary": "저장된 제조 데이터를 활용하는 과정을 구현하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 04-03-03]",
+      "pdfPage": 76,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 데이터 전 주기 관리",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.998f24fd0bd1e2b857a8"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 05-01-01]",
+     "code": "[스운 05-01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "빅 데이터와 인공지능",
+     "summary": "빅 데이터의 의미와 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 05-01-01]",
+      "pdfPage": 76,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 빅 데이터와 인공지능",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.00e69bb941ce71746740"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 05-01-02]",
+     "code": "[스운 05-01-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "빅 데이터와 인공지능",
+     "summary": "빅 데이터가 생성되는 과정을 제어하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 05-01-02]",
+      "pdfPage": 76,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 빅 데이터와 인공지능",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.0bfe58e5f44492be2dd9"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 05-02-01]",
+     "code": "[스운 05-02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "빅 데이터와 인공지능",
+     "summary": "스마트 공장에서 인공지능의 의미를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 05-02-01]",
+      "pdfPage": 76,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 빅 데이터와 인공지능",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.d6bd4e673c24f5c48793"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 05-02-02]",
+     "code": "[스운 05-02-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "빅 데이터와 인공지능",
+     "summary": "스마트 공장에서 인공지능 사례 및 향후 발전 분야를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 05-02-02]",
+      "pdfPage": 76,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 빅 데이터와 인공지능",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.83f96e59cb1824acdd7a"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 05-03-01]",
+     "code": "[스운 05-03-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "빅 데이터와 인공지능",
+     "summary": "스마트 공장에서 빅 데이터와 인공지능 활용 사례를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 05-03-01]",
+      "pdfPage": 77,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 빅 데이터와 인공지능",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.c9ef45d287fc493711f0"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-운용:[스운 05-03-02]",
+     "code": "[스운 05-03-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 운용",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "빅 데이터와 인공지능",
+     "summary": "스마트 공장 발전을 위해 빅 데이터와 인공지능의 향후 발전 분야를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스운 05-03-02]",
+      "pdfPage": 77,
+      "printedPage": null,
+      "section": "스마트 공장 운용 > 빅 데이터와 인공지능",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.5da08dd0d32ef07a5996"
+    }
+   ]
+  },
+  {
+   "id": "kr-2022-voc-스마트-공장-일반",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "subjectGroupKorean": "융복합·지식재산",
+   "courseCategory": "major-general",
+   "gradeBand": "10-12",
+   "name": "스마트 공장 일반 2022 개정 전문교과 교육과정",
+   "deck6CourseId": "kr.course.2022.high.8b09e09090d33343",
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ],
+   "standardCount": 38,
+   "standards": [
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 01-01-01]",
+     "code": "[스일 01-01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "4차 산업 혁명의 이해",
+     "summary": "4차 산업 혁명의 특징과 개요에 대하여 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 01-01-01]",
+      "pdfPage": 58,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 4차 산업 혁명의 이해",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.21da52f69e56d4091037"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 01-01-02]",
+     "code": "[스일 01-01-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "4차 산업 혁명의 이해",
+     "summary": "4차 산업 혁명의 역사에 대하여 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 01-01-02]",
+      "pdfPage": 58,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 4차 산업 혁명의 이해",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.4ff61599e045e379a38e"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 01-02-01]",
+     "code": "[스일 01-02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "4차 산업 혁명의 이해",
+     "summary": "4차 산업 혁명에 따른 제조 산업의 환경 변화를 살펴보고, 우리가 대응해야 하는 바른 자세에 대해 사례를 들어 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 01-02-01]",
+      "pdfPage": 59,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 4차 산업 혁명의 이해",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.dcb5232c2abf8eb9cd1d"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 01-03-01]",
+     "code": "[스일 01-03-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "4차 산업 혁명의 이해",
+     "summary": "주요 기업과 국가에서 4차 산업 혁명에 대응하는 사례를 알아보고, 이를 비교 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 01-03-01]",
+      "pdfPage": 59,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 4차 산업 혁명의 이해",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.f166febd5471d9c9cc0c"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 01-03-02]",
+     "code": "[스일 01-03-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "4차 산업 혁명의 이해",
+     "summary": "인더스트리 4.0의 장점과 문제점에 알아보고 개선점과 발전 방향에 대하여 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 01-03-02]",
+      "pdfPage": 59,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 4차 산업 혁명의 이해",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.696b691b243bdc695702"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 02-01-01]",
+     "code": "[스일 02-01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 공장(Smart Factory)",
+     "summary": "스마트 공장 등장 배경을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 02-01-01]",
+      "pdfPage": 59,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 스마트 공장(Smart Factory)",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.1820651627c6aca4c653"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 02-01-02]",
+     "code": "[스일 02-01-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 공장(Smart Factory)",
+     "summary": "스마트 공장의 정의 및 특징을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 02-01-02]",
+      "pdfPage": 59,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 스마트 공장(Smart Factory)",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.8df2838d210c3172b460"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 02-02-01]",
+     "code": "[스일 02-02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 공장(Smart Factory)",
+     "summary": "스마트 공장 핵심 기술을 정의하고 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 02-02-01]",
+      "pdfPage": 59,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 스마트 공장(Smart Factory)",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.b59bf71dcf81cf69ab33"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 02-02-02]",
+     "code": "[스일 02-02-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 공장(Smart Factory)",
+     "summary": "스마트 공장의 특징을 정리하여 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 02-02-02]",
+      "pdfPage": 59,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 스마트 공장(Smart Factory)",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.d90df09b792668d6e8e6"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 02-03-01]",
+     "code": "[스일 02-03-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 공장(Smart Factory)",
+     "summary": "주요 기업과 국가가 스마트 공장에 대응하는 전략을 알아보고, 그 현황을 비교 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 02-03-01]",
+      "pdfPage": 60,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 스마트 공장(Smart Factory)",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.373101b5fdeea5be3c7c"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 02-03-02]",
+     "code": "[스일 02-03-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 공장(Smart Factory)",
+     "summary": "스마트 공장 구축 사례를 인터넷을 이용하여 찾아보고 사례를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 02-03-02]",
+      "pdfPage": 60,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 스마트 공장(Smart Factory)",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.17d4a81cae70e34a2063"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 03-01-01]",
+     "code": "[스일 03-01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 제조 자동화 기술",
+     "summary": "스마트 제조 자동화 기술을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 03-01-01]",
+      "pdfPage": 60,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 스마트 제조 자동화 기술",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.353bd3ab2efa6399d5ee"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 03-02-01]",
+     "code": "[스일 03-02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 제조 자동화 기술",
+     "summary": "스마트 센서를 정의하고 센서의 종류를 구분하여 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 03-02-01]",
+      "pdfPage": 60,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 스마트 제조 자동화 기술",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.fe0d6f2d8423f7c5d50e"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 03-02-02]",
+     "code": "[스일 03-02-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 제조 자동화 기술",
+     "summary": "로봇의 종류를 구분하여 정리하고 로봇 운영의 사례를 찾아 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 03-02-02]",
+      "pdfPage": 60,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 스마트 제조 자동화 기술",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.83529a6d932cbbfe5066"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 03-02-03]",
+     "code": "[스일 03-02-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 제조 자동화 기술",
+     "summary": "로봇과 사람이 공존하는 제조 환경 변화에 대응하여 로봇과 사람이 공존하는 사례를 들 어 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 03-02-03]",
+      "pdfPage": 60,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 스마트 제조 자동화 기술",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.62c4ae2cd6ec417092c2"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 03-03-01]",
+     "code": "[스일 03-03-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 제조 자동화 기술",
+     "summary": "PLC의 종류와 특징을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 03-03-01]",
+      "pdfPage": 61,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 스마트 제조 자동화 기술",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.7dc7c2982dedeeb056b9"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 03-03-02]",
+     "code": "[스일 03-03-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 제조 자동화 기술",
+     "summary": "HMI의 기능과 활용을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 03-03-02]",
+      "pdfPage": 61,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 스마트 제조 자동화 기술",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.c6ae7fbdd49bdea41343"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 04-01-01]",
+     "code": "[스일 04-01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 제조 시스템",
+     "summary": "생산 계획의 정의 및 개념에 대해서 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 04-01-01]",
+      "pdfPage": 61,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 스마트 제조 시스템",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.06d41115e277c2b45694"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 04-01-02]",
+     "code": "[스일 04-01-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 제조 시스템",
+     "summary": "제품의 생산, 납품, 재고 관리에 대하여 효율적으로 처리할 수는 있는 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 04-01-02]",
+      "pdfPage": 61,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 스마트 제조 시스템",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.bda6b8c9bd5cde8cb374"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 04-02-01]",
+     "code": "[스일 04-02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 제조 시스템",
+     "summary": "공정 설계의 정의와 개념에 대해서 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 04-02-01]",
+      "pdfPage": 61,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 스마트 제조 시스템",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.211cb1c09f1fc09d7f9c"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 04-02-02]",
+     "code": "[스일 04-02-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 제조 시스템",
+     "summary": "공정 제어, 공정 관리에 대한 시스템 전체를 파악하고 문제 해결하는 방법을 토론하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 04-02-02]",
+      "pdfPage": 61,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 스마트 제조 시스템",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.f908458536f9fd830ebf"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 04-03-01]",
+     "code": "[스일 04-03-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 제조 시스템",
+     "summary": "공급망 관리의 정의 및 개념에 대해서 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 04-03-01]",
+      "pdfPage": 62,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 스마트 제조 시스템",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.8c4a61dfec691f67374c"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 04-03-02]",
+     "code": "[스일 04-03-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 제조 시스템",
+     "summary": "제품이 공급자로부터 소비자에 이동하는 진행 과정을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 04-03-02]",
+      "pdfPage": 62,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 스마트 제조 시스템",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.2a281d8eed393936b059"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 05-01-01]",
+     "code": "[스일 05-01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 공장 관련 핵심 기술",
+     "summary": "사물 인터넷의 개념을 이해하고 사물 인터넷이 활용되는 실제 사례를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 05-01-01]",
+      "pdfPage": 62,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 스마트 공장 관련 핵심 기술",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.e8f009b37383071df71f"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 05-01-02]",
+     "code": "[스일 05-01-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 공장 관련 핵심 기술",
+     "summary": "블록체인의 개념과 정의를 이해하고, 블록체인을 활용하는 다른 사례를 찾아 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 05-01-02]",
+      "pdfPage": 62,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 스마트 공장 관련 핵심 기술",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.4e8e01d28fa42dee0b83"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 05-02-01]",
+     "code": "[스일 05-02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 공장 관련 핵심 기술",
+     "summary": "클라우드의 개념을 이해하고, 사용 사례를 찾아 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 05-02-01]",
+      "pdfPage": 62,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 스마트 공장 관련 핵심 기술",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.11146ca48da2e230be74"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 05-02-02]",
+     "code": "[스일 05-02-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 공장 관련 핵심 기술",
+     "summary": "빅 데이터의 정의와 개념을 이해하고, 빅 데이터의 활용 환경에 대응하는 바른 자세에 대해 알 수 있다",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 05-02-02]",
+      "pdfPage": 62,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 스마트 공장 관련 핵심 기술",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.9176478be57aafc66492"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 05-03-01]",
+     "code": "[스일 05-03-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 공장 관련 핵심 기술",
+     "summary": "인공지능의 개념과 정의를 이해하고, 다른 스마트 공장 핵심 기술과 연계하여 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 05-03-01]",
+      "pdfPage": 63,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 스마트 공장 관련 핵심 기술",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.d1f9886da2ef4924eef2"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 05-04-01]",
+     "code": "[스일 05-04-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 공장 관련 핵심 기술",
+     "summary": "가상 현실과 증강 현실의 개념을 이해하고, 가상 현실과 증강 현실을 비교 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 05-04-01]",
+      "pdfPage": 63,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 스마트 공장 관련 핵심 기술",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.8091aaf25538498efe4a"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 05-05-01]",
+     "code": "[스일 05-05-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 공장 관련 핵심 기술",
+     "summary": "디지털 트윈(Digital Twin)의 개념을 이해하고 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 05-05-01]",
+      "pdfPage": 63,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 스마트 공장 관련 핵심 기술",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.78f7e37b35fdbc7046fd"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 06-01-01]",
+     "code": "[스일 06-01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 공장 응용 시스템",
+     "summary": "전사적 자원 관리(ERP)의 개념과 도입 배경을 이해하고, ERP의 기능에 대해서 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 06-01-01]",
+      "pdfPage": 63,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 스마트 공장 응용 시스템",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.8cfb634fac5b46e1149a"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 06-02-01]",
+     "code": "[스일 06-02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 공장 응용 시스템",
+     "summary": "제조 실행 시스템(MES)의 개념과 기능을 이해하고, 도입 효과와 구축 사례를 찾아 설명 하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 06-02-01]",
+      "pdfPage": 64,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 스마트 공장 응용 시스템",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.8dafa0235bd78eac5d5e"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 06-03-01]",
+     "code": "[스일 06-03-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 공장 응용 시스템",
+     "summary": "사이버 물리 시스템(CPS: Cyber-Physical Systems)의 개념을 이해하고 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 06-03-01]",
+      "pdfPage": 64,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 스마트 공장 응용 시스템",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.193e0e3a22b8db0a82a2"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 06-03-02]",
+     "code": "[스일 06-03-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 공장 응용 시스템",
+     "summary": "임베디드 SW 환경의 개념을 이해하고 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 06-03-02]",
+      "pdfPage": 64,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 스마트 공장 응용 시스템",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.9ff71267d6dda64e4713"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 06-04-01]",
+     "code": "[스일 06-04-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 공장 응용 시스템",
+     "summary": "마스터 데이터 관리(MDM: Master Data Management)의 개념을 이해하고 활용 방법 을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 06-04-01]",
+      "pdfPage": 64,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 스마트 공장 응용 시스템",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.aeef0aefa9d648b5b5bd"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 06-04-02]",
+     "code": "[스일 06-04-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 공장 응용 시스템",
+     "summary": "감시 제어 데이터 수집(SCADA: Supervisory Control And Data Acquisition) 용어의 개념을 이해하고, 주로 적용되는 산업군을 찾아 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 06-04-02]",
+      "pdfPage": 64,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 스마트 공장 응용 시스템",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.439e95ab73c5eea81ad0"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 06-05-01]",
+     "code": "[스일 06-05-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 공장 응용 시스템",
+     "summary": "거래 처리 시스템(TPS: Transaction Processing Systems) 개념과 목표를 이해하고, 역 할과 특징에 대해서 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 06-05-01]",
+      "pdfPage": 64,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 스마트 공장 응용 시스템",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.9e437824b780d4cd1cb5"
+    },
+    {
+     "key": "kr-2022-voc-스마트-공장-일반:[스일 06-05-02]",
+     "code": "[스일 06-05-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "스마트 공장 일반",
+     "majorFieldSlug": "convergence-ip",
+     "courseCategory": "major-general",
+     "domainKorean": "스마트 공장 응용 시스템",
+     "summary": "공급망 관리(SCM: Supply Chain Management)의 개념을 이해하고, 구성 요소에 대해 서 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex39"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004122",
+      "code": "[스일 06-05-02]",
+      "pdfPage": 64,
+      "printedPage": null,
+      "section": "스마트 공장 일반 > 스마트 공장 응용 시스템",
+      "sha256": "87571d8cb66fd58948f15b15a150573588507485adf395348b2b26cbae1dcbb3",
+      "sourceId": "kr-nec-2024-3-annex39"
+     },
+     "deck6Id": "kr.standard.2022.high.5875b2abcf59fc32a87b"
+    }
+   ]
+  }
+ ]
+}

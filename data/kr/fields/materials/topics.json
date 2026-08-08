@@ -1,0 +1,3179 @@
+{
+ "topics": [
+  {
+   "id": "kr.topic.2022.high.0288776a6d753eb0d935",
+   "titleKorean": "세라믹 재료 — 규산질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기",
+   "subjectKorean": "세라믹 재료",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 재료",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 재료의 세라믹 재료 영역에서 규산질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 규산질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "규산질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-재료:[세재 03-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.02acd81e2628524875bd",
+   "titleKorean": "세라믹 원리·공정 — 단결정, 다결정, 비결정질을 구분하여 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 화학의 기초",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 원리·공정의 세라믹 화학의 기초 영역에서 단결정, 다결정, 비결정질을 구분하여 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 단결정, 다결정, 비결정질을 구분하여 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "단결정, 다결정, 비결정질을 구분하여 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 02-03-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.03f7cb9e4f429791e475",
+   "titleKorean": "재료 시험 — 코딩 두께 시험의 원리를 설명하고, 측정 결과를 성적서로 작성하기",
+   "subjectKorean": "재료 시험",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "그 밖의 시험",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "재료 시험의 그 밖의 시험 영역에서 코딩 두께 시험의 원리를 설명하고, 측정 결과를 성적서로 작성하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 코딩 두께 시험의 원리를 설명하고, 측정 결과를 성적서로 작성하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "코딩 두께 시험의 원리를 설명하고, 측정 결과를 성적서로 작성하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-시험:[재시 05-05]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.04e20d7d84c18f292def",
+   "titleKorean": "재료 일반 — 알루미늄 합금의 일반적인 특성을 알고 그에 따른 종류와 용도 및 가공 방법을 설명하기",
+   "subjectKorean": "재료 일반",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "비철 금속 재료",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "재료 일반의 비철 금속 재료 영역에서 알루미늄 합금의 일반적인 특성을 알고 그에 따른 종류와 용도 및 가공 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 알루미늄 합금의 일반적인 특성을 알고 그에 따른 종류와 용도 및 가공 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "알루미늄 합금의 일반적인 특성을 알고 그에 따른 종류와 용도 및 가공 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-일반:[재일 04-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.0513033586ad84578197",
+   "titleKorean": "세라믹 원리·공정 — 세라믹의 압전성 측정 장치와 방법을 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 재료 평가",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "세라믹 원리·공정의 세라믹 재료 평가 영역에서 세라믹의 압전성 측정 장치와 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 세라믹의 압전성 측정 장치와 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "세라믹의 압전성 측정 장치와 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 06-04-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.05d152228fc056f957d9",
+   "titleKorean": "세라믹 재료 — 납석질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기",
+   "subjectKorean": "세라믹 재료",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 재료",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 재료의 세라믹 재료 영역에서 납석질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 납석질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "납석질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-재료:[세재 03-05]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.0c2b02e527e7bed62b3a",
+   "titleKorean": "세라믹 재료 — 성형 및 정형 과정을 거친 세라믹 제품을 건조하기 위한 기초 이론, 건조 방법, 건조 기기 등에 관한 지식과 기술을 설명하기",
+   "subjectKorean": "세라믹 재료",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 제조 공정",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 재료의 세라믹 제조 공정 영역에서 성형 및 정형 과정을 거친 세라믹 제품을 건조하기 위한 기초 이론, 건조 방법, 건조 기기 등에 관한 지식과 기술을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 성형 및 정형 과정을 거친 세라믹 제품을 건조하기 위한 기초 이론, 건조 방법, 건조 기기 등에 관한 지식과 기술을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "성형 및 정형 과정을 거친 세라믹 제품을 건조하기 위한 기초 이론, 건조 방법, 건조 기기 등에 관한 지식과 기술을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-재료:[세재 04-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.0cd12978ffa5f7f29cc9",
+   "titleKorean": "세라믹 원리·공정 — 세라믹의 강도 측정 장치와 방법을 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 재료 평가",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "세라믹 원리·공정의 세라믹 재료 평가 영역에서 세라믹의 강도 측정 장치와 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 세라믹의 강도 측정 장치와 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "세라믹의 강도 측정 장치와 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 06-03-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.0e12c28c4383f3a84477",
+   "titleKorean": "재료 일반 — , [제선 15-04-02], [제선 15-04-03], [제강 01-03-02], [제강 01-03-03],",
+   "subjectKorean": "재료 일반",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "철강 재료",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "재료 일반의 철강 재료 영역에서 , [제선 15-04-02], [제선 15-04-03], [제강 01-03-02], [제강 01-03-03],를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 , [제선 15-04-02], [제선 15-04-03], [제강 01-03-02], [제강 01-03-03],와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    ", [제선 15-04-02], [제선 15-04-03], [제강 01-03-02], [제강 01-03-03],와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-일반:[제선 15-04-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.0f49159255304c1adbe7",
+   "titleKorean": "세라믹 원리·공정 — 기체로부터의 원료 합성 및 제조에 대해 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 원료 제조",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 원리·공정의 세라믹 원료 제조 영역에서 기체로부터의 원료 합성 및 제조에 대해 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 기체로부터의 원료 합성 및 제조에 대해 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "기체로부터의 원료 합성 및 제조에 대해 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 03-02-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.1087307f92bbd36189cc",
+   "titleKorean": "세라믹 원리·공정 — 세라믹의 유전성 측정 장치와 방법을 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 재료 평가",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "세라믹 원리·공정의 세라믹 재료 평가 영역에서 세라믹의 유전성 측정 장치와 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 세라믹의 유전성 측정 장치와 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "세라믹의 유전성 측정 장치와 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 06-04-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.156384a0ea6aa3b872ac",
+   "titleKorean": "세라믹 원리·공정 — 소성·소결 세라믹 건조의 개념에 대하여 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "소성·소결 세라믹 제조 공정",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 원리·공정의 소성·소결 세라믹 제조 공정 영역에서 소성·소결 세라믹 건조의 개념에 대하여 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 소성·소결 세라믹 건조의 개념에 대하여 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "소성·소결 세라믹 건조의 개념에 대하여 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 04-03-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.182c1e522600a5622bb7",
+   "titleKorean": "재료 일반 — 결정 구조를 갖지 않는 비정질 재료의 제조 원리와 이론을 이해하고, 비정질 합금의 종류와 용도 및 제조 방법을 디지털 도구를 이용하여 조사하고 설명하기",
+   "subjectKorean": "재료 일반",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "기능성 금속 재료",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "재료 일반의 기능성 금속 재료 영역에서 결정 구조를 갖지 않는 비정질 재료의 제조 원리와 이론을 이해하고, 비정질 합금의 종류와 용도 및 제조 방법을 디지털 도구를 이용하여 조사하고 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 결정 구조를 갖지 않는 비정질 재료의 제조 원리와 이론을 이해하고, 비정질 합금의 종류와 용도 및 제조 방법을 디지털 도구를 이용하여 조사하고 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "결정 구조를 갖지 않는 비정질 재료의 제조 원리와 이론을 이해하고, 비정질 합금의 종류와 용도 및 제조 방법을 디지털 도구를 이용하여 조사하고 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-일반:[재일 05-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.190421da7bc816dfd674",
+   "titleKorean": "세라믹 재료 — 도토의 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기",
+   "subjectKorean": "세라믹 재료",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 재료",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 재료의 세라믹 재료 영역에서 도토의 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 도토의 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "도토의 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-재료:[세재 03-09]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.1f4f802f49f8383f9ea2",
+   "titleKorean": "재료 일반 — 고도 산업 사회에 요구되는 반도체 재료, 기타 생명 공학 및 첨단 산업에 요구되는 기능성 신금속의 종류와 용도 및 제조 방법을 설명하기",
+   "subjectKorean": "재료 일반",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "기능성 금속 재료",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "재료 일반의 기능성 금속 재료 영역에서 고도 산업 사회에 요구되는 반도체 재료, 기타 생명 공학 및 첨단 산업에 요구되는 기능성 신금속의 종류와 용도 및 제조 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 고도 산업 사회에 요구되는 반도체 재료, 기타 생명 공학 및 첨단 산업에 요구되는 기능성 신금속의 종류와 용도 및 제조 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "고도 산업 사회에 요구되는 반도체 재료, 기타 생명 공학 및 첨단 산업에 요구되는 기능성 신금속의 종류와 용도 및 제조 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-일반:[재일 05-08]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.203648b25124479abead",
+   "titleKorean": "세라믹 원리·공정 — 세라믹 소재의 공학적 발달 과정을 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹의 개요",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 원리·공정의 세라믹의 개요 영역에서 세라믹 소재의 공학적 발달 과정을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 세라믹 소재의 공학적 발달 과정을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "세라믹 소재의 공학적 발달 과정을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 01-03-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.20b08aeb954f975bab09",
+   "titleKorean": "세라믹 원리·공정 — 소성·소결 세라믹 원료의 처리에 대하여 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "소성·소결 세라믹 제조 공정",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 원리·공정의 소성·소결 세라믹 제조 공정 영역에서 소성·소결 세라믹 원료의 처리에 대하여 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 소성·소결 세라믹 원료의 처리에 대하여 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "소성·소결 세라믹 원료의 처리에 대하여 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 04-01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.2137f1244df97a976c34",
+   "titleKorean": "세라믹 재료 — 유약의 조합, 유약의 종류 및 특성, 각종 시유 기법에 관한 지식과 기술을 설명하기",
+   "subjectKorean": "세라믹 재료",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 제조 공정",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 재료의 세라믹 제조 공정 영역에서 유약의 조합, 유약의 종류 및 특성, 각종 시유 기법에 관한 지식과 기술을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 유약의 조합, 유약의 종류 및 특성, 각종 시유 기법에 관한 지식과 기술을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "유약의 조합, 유약의 종류 및 특성, 각종 시유 기법에 관한 지식과 기술을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-재료:[세재 04-05]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.224e57a3066fd4e244ee",
+   "titleKorean": "세라믹 재료 — 세라믹 재료를 전통 세라믹과 파인 세라믹으로 구분하여 그 특성에 따른 재료의 용도를 설명하기",
+   "subjectKorean": "세라믹 재료",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 재료의 개요",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 재료의 세라믹 재료의 개요 영역에서 세라믹 재료를 전통 세라믹과 파인 세라믹으로 구분하여 그 특성에 따른 재료의 용도를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 세라믹 재료를 전통 세라믹과 파인 세라믹으로 구분하여 그 특성에 따른 재료의 용도를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "세라믹 재료를 전통 세라믹과 파인 세라믹으로 구분하여 그 특성에 따른 재료의 용도를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-재료:[세재 01-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.2585dccf2fe5dcec52bc",
+   "titleKorean": "재료 시험 — 비파괴 시험 시험법의 목적을 이해하고, 종류 및 적용 특성을 설명하기",
+   "subjectKorean": "재료 시험",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "비파괴 시험",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "재료 시험의 비파괴 시험 영역에서 비파괴 시험 시험법의 목적을 이해하고, 종류 및 적용 특성을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 비파괴 시험 시험법의 목적을 이해하고, 종류 및 적용 특성을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "비파괴 시험 시험법의 목적을 이해하고, 종류 및 적용 특성을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-시험:[재시 04-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.2585f3bc51cec3ee3a8a",
+   "titleKorean": "재료 일반 — 의학적으로 인체에 활용되고 있는 생체 합금의 종류와 성질 및 용도를 이해하고, 실용 사례를 사진 및 시청각 자료를 활용하여 이해하고 설명하기",
+   "subjectKorean": "재료 일반",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "기능성 금속 재료",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "재료 일반의 기능성 금속 재료 영역에서 의학적으로 인체에 활용되고 있는 생체 합금의 종류와 성질 및 용도를 이해하고, 실용 사례를 사진 및 시청각 자료를 활용하여 이해하고 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 의학적으로 인체에 활용되고 있는 생체 합금의 종류와 성질 및 용도를 이해하고, 실용 사례를 사진 및 시청각 자료를 활용하여 이해하고 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "의학적으로 인체에 활용되고 있는 생체 합금의 종류와 성질 및 용도를 이해하고, 실용 사례를 사진 및 시청각 자료를 활용하여 이해하고 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-일반:[재일 05-07]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.2c7ed47e4a2b9c7d807a",
+   "titleKorean": "세라믹 원리·공정 — 소성·소결의 기초 이론을 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 소성·소결",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 원리·공정의 세라믹 소성·소결 영역에서 소성·소결의 기초 이론을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 소성·소결의 기초 이론을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "소성·소결의 기초 이론을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 05-01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.2ed4605b790188759b98",
+   "titleKorean": "세라믹 원리·공정 — 소성·소결 중 일어나는 현상과 변화를 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 소성·소결",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 원리·공정의 세라믹 소성·소결 영역에서 소성·소결 중 일어나는 현상과 변화를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 소성·소결 중 일어나는 현상과 변화를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "소성·소결 중 일어나는 현상과 변화를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 05-01-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.2ef84775b7a33abddd05",
+   "titleKorean": "세라믹 원리·공정 — 세라믹의 결함과 소결성 측정 장치와 방법을 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 06",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "세라믹 원리·공정의 영역 06 영역에서 세라믹의 결함과 소결성 측정 장치와 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 세라믹의 결함과 소결성 측정 장치와 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "세라믹의 결함과 소결성 측정 장치와 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 06-06-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.31387b80f128857839d3",
+   "titleKorean": "세라믹 원리·공정 — 원자, 분자, 이온을 구분하여 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 화학의 기초",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 원리·공정의 세라믹 화학의 기초 영역에서 원자, 분자, 이온을 구분하여 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 원자, 분자, 이온을 구분하여 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "원자, 분자, 이온을 구분하여 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 02-01-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.33fa373e5d455856c4c8",
+   "titleKorean": "재료 시험 — 기계 재료의 종류를 설명할 수 있고, 재료의 시험 및 성질을 설명하기",
+   "subjectKorean": "재료 시험",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "재료 시험의 개요",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "재료 시험의 재료 시험의 개요 영역에서 기계 재료의 종류를 설명할 수 있고, 재료의 시험 및 성질을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 기계 재료의 종류를 설명할 수 있고, 재료의 시험 및 성질을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "기계 재료의 종류를 설명할 수 있고, 재료의 시험 및 성질을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-시험:[재시 01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.351fa489b6af8b0c8692",
+   "titleKorean": "재료 일반 — 공업 재료로서 활용도가 높은 비철 경합금 및 고융점 합금 등 각종 비철 금속의 종류와 성질을 설명하기",
+   "subjectKorean": "재료 일반",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "비철 금속 재료",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "재료 일반의 비철 금속 재료 영역에서 공업 재료로서 활용도가 높은 비철 경합금 및 고융점 합금 등 각종 비철 금속의 종류와 성질을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 공업 재료로서 활용도가 높은 비철 경합금 및 고융점 합금 등 각종 비철 금속의 종류와 성질을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "공업 재료로서 활용도가 높은 비철 경합금 및 고융점 합금 등 각종 비철 금속의 종류와 성질을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-일반:[재일 04-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.358f2071b86db4a594b9",
+   "titleKorean": "세라믹 원리·공정 — 소성·소결의 개념에 대하여 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "소성·소결 세라믹 제조 공정",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 원리·공정의 소성·소결 세라믹 제조 공정 영역에서 소성·소결의 개념에 대하여 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 소성·소결의 개념에 대하여 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "소성·소결의 개념에 대하여 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 04-04-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.37bfef5217a6a8b61603",
+   "titleKorean": "세라믹 원리·공정 — 공업용 재료의 분류에 따라 그 특성을 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹의 개요",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 원리·공정의 세라믹의 개요 영역에서 공업용 재료의 분류에 따라 그 특성을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 공업용 재료의 분류에 따라 그 특성을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "공업용 재료의 분류에 따라 그 특성을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 01-01-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.38a9dfea6f6d3f870f47",
+   "titleKorean": "세라믹 원리·공정 — 세라믹 미세 조직의 특성 평가 장치와 방법을 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 재료 평가",
+   "facetKey": null,
+   "types": [
+    "meta"
+   ],
+   "description": "세라믹 원리·공정의 세라믹 재료 평가 영역에서 세라믹 미세 조직의 특성 평가 장치와 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 세라믹 미세 조직의 특성 평가 장치와 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "세라믹 미세 조직의 특성 평가 장치와 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 06-02-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.39722e8a9107f163959b",
+   "titleKorean": "세라믹 원리·공정 — 소성·소결 장치를 이용한 소성·소결 방법을 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "소성·소결 세라믹 제조 공정",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 원리·공정의 소성·소결 세라믹 제조 공정 영역에서 소성·소결 장치를 이용한 소성·소결 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 소성·소결 장치를 이용한 소성·소결 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "소성·소결 장치를 이용한 소성·소결 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 04-04-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.3b8c0158e53812d23ee6",
+   "titleKorean": "재료 시험 — 현미경의 구조와 작동법을 이해하고, 시험편의 제작과 시험을 수행하기",
+   "subjectKorean": "재료 시험",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "조직 시험",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "재료 시험의 조직 시험 영역에서 현미경의 구조와 작동법을 이해하고, 시험편의 제작과 시험을 수행하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 현미경의 구조와 작동법을 이해하고, 시험편의 제작과 시험을 수행하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "현미경의 구조와 작동법을 이해하고, 시험편의 제작과 시험을 수행하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-시험:[재시 03-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.3bbbef720c97758665ad",
+   "titleKorean": "재료 시험 — 방사선 투과 시험의 원리를 설명하고, 시험 결과를 성적서로 작성하기",
+   "subjectKorean": "재료 시험",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "비파괴 시험",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "재료 시험의 비파괴 시험 영역에서 방사선 투과 시험의 원리를 설명하고, 시험 결과를 성적서로 작성하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 방사선 투과 시험의 원리를 설명하고, 시험 결과를 성적서로 작성하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "방사선 투과 시험의 원리를 설명하고, 시험 결과를 성적서로 작성하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-시험:[재시 04-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.3e0a729ccba976881bda",
+   "titleKorean": "재료 일반 — 비금속 재료의 종류, 용도, 일반적인 특징과 공업 재료로서 비금속 재료의 중요성을 설명하기",
+   "subjectKorean": "재료 일반",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "공업 재료",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "재료 일반의 공업 재료 영역에서 비금속 재료의 종류, 용도, 일반적인 특징과 공업 재료로서 비금속 재료의 중요성을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 비금속 재료의 종류, 용도, 일반적인 특징과 공업 재료로서 비금속 재료의 중요성을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "비금속 재료의 종류, 용도, 일반적인 특징과 공업 재료로서 비금속 재료의 중요성을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-일반:[재일 01-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.3e6d3a98071d6fe42c6f",
+   "titleKorean": "세라믹 원리·공정 — 소성·소결 시 색 측정 장치와 방법을 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 06",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "세라믹 원리·공정의 영역 06 영역에서 소성·소결 시 색 측정 장치와 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 소성·소결 시 색 측정 장치와 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "소성·소결 시 색 측정 장치와 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 06-06-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.3e8052d60ca5541136ac",
+   "titleKorean": "재료 시험 — 침투 탐상 시험의 원리를 설명하고, 시험 결과를 성적서로 작성하기",
+   "subjectKorean": "재료 시험",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "비파괴 시험",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "재료 시험의 비파괴 시험 영역에서 침투 탐상 시험의 원리를 설명하고, 시험 결과를 성적서로 작성하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 침투 탐상 시험의 원리를 설명하고, 시험 결과를 성적서로 작성하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "침투 탐상 시험의 원리를 설명하고, 시험 결과를 성적서로 작성하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-시험:[재시 04-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.3f2397af2f35ec21d077",
+   "titleKorean": "재료 일반 — 산업 현장에서 활용되고 있는 금속 및 비금속 공업 재료의 종류, 성질, 용도에 대해 알고 최 근 공업 재료의 변화에 대해 디지털 기기를 활용하여 정보를 검색하여 설명하기",
+   "subjectKorean": "재료 일반",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "공업 재료",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "재료 일반의 공업 재료 영역에서 산업 현장에서 활용되고 있는 금속 및 비금속 공업 재료의 종류, 성질, 용도에 대해 알고 최 근 공업 재료의 변화에 대해 디지털 기기를 활용하여 정보를 검색하여 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 산업 현장에서 활용되고 있는 금속 및 비금속 공업 재료의 종류, 성질, 용도에 대해 알고 최 근 공업 재료의 변화에 대해 디지털 기기를 활용하여 정보를 검색하여 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "산업 현장에서 활용되고 있는 금속 및 비금속 공업 재료의 종류, 성질, 용도에 대해 알고 최 근 공업 재료의 변화에 대해 디지털 기기를 활용하여 정보를 검색하여 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-일반:[재일 01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.3f4a10b0cc539dafc74d",
+   "titleKorean": "재료 일반 — 철-탄소 평형 상태도를 이용하여 주철과 주강을 구분하여 설명할 수 있고, 각각의 종류와 용도 및 처리 방법을 설명하기",
+   "subjectKorean": "재료 일반",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "철강 재료",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "재료 일반의 철강 재료 영역에서 철-탄소 평형 상태도를 이용하여 주철과 주강을 구분하여 설명할 수 있고, 각각의 종류와 용도 및 처리 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 철-탄소 평형 상태도를 이용하여 주철과 주강을 구분하여 설명할 수 있고, 각각의 종류와 용도 및 처리 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "철-탄소 평형 상태도를 이용하여 주철과 주강을 구분하여 설명할 수 있고, 각각의 종류와 용도 및 처리 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-일반:[재일 03-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.3fb7b86644552de5b821",
+   "titleKorean": "세라믹 재료 — 세라믹 재료를 전통 세라믹 및 파인 세라믹으로 구분하여 종류를 알고, 그 분야의 기초 용어 를 설명하기",
+   "subjectKorean": "세라믹 재료",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 재료의 개요",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 재료의 세라믹 재료의 개요 영역에서 세라믹 재료를 전통 세라믹 및 파인 세라믹으로 구분하여 종류를 알고, 그 분야의 기초 용어 를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 세라믹 재료를 전통 세라믹 및 파인 세라믹으로 구분하여 종류를 알고, 그 분야의 기초 용어 를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "세라믹 재료를 전통 세라믹 및 파인 세라믹으로 구분하여 종류를 알고, 그 분야의 기초 용어 를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-재료:[세재 01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.401adb915333c080be6a",
+   "titleKorean": "세라믹 원리·공정 — 액체로부터의 원료 합성 및 제조에 대해 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 원료 제조",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 원리·공정의 세라믹 원료 제조 영역에서 액체로부터의 원료 합성 및 제조에 대해 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 액체로부터의 원료 합성 및 제조에 대해 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "액체로부터의 원료 합성 및 제조에 대해 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 03-02-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.403a8726c2bfaa8fa5de",
+   "titleKorean": "세라믹 원리·공정 — 상평형의 원리와 상평형도를 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 화학의 기초",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 원리·공정의 세라믹 화학의 기초 영역에서 상평형의 원리와 상평형도를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 상평형의 원리와 상평형도를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "상평형의 원리와 상평형도를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 02-04-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.4956caca289d37cacfb3",
+   "titleKorean": "세라믹 재료 — 다양한 소성 방법의 종류 및 특성에 관한 지식과 기술을 설명하기",
+   "subjectKorean": "세라믹 재료",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 제조 공정",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 재료의 세라믹 제조 공정 영역에서 다양한 소성 방법의 종류 및 특성에 관한 지식과 기술을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 다양한 소성 방법의 종류 및 특성에 관한 지식과 기술을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "다양한 소성 방법의 종류 및 특성에 관한 지식과 기술을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-재료:[세재 04-06]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.4b389e59b8e83a915bbc",
+   "titleKorean": "재료 일반 — 초전도 현상의 이론적 배경을 이해하고, 초전도 재료의 종류와 용도 및 실제 응용 부분을 디지털 도구를 이용하여 조사하고 설명하기",
+   "subjectKorean": "재료 일반",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "기능성 금속 재료",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "재료 일반의 기능성 금속 재료 영역에서 초전도 현상의 이론적 배경을 이해하고, 초전도 재료의 종류와 용도 및 실제 응용 부분을 디지털 도구를 이용하여 조사하고 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 초전도 현상의 이론적 배경을 이해하고, 초전도 재료의 종류와 용도 및 실제 응용 부분을 디지털 도구를 이용하여 조사하고 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "초전도 현상의 이론적 배경을 이해하고, 초전도 재료의 종류와 용도 및 실제 응용 부분을 디지털 도구를 이용하여 조사하고 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-일반:[재일 05-05]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.4dd686119362700baef4",
+   "titleKorean": "세라믹 재료 — 장석질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기",
+   "subjectKorean": "세라믹 재료",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 재료",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 재료의 세라믹 재료 영역에서 장석질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 장석질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "장석질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-재료:[세재 03-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.4e5464367c7a9c2b88e6",
+   "titleKorean": "세라믹 재료 — 점토질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기",
+   "subjectKorean": "세라믹 재료",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 재료",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 재료의 세라믹 재료 영역에서 점토질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 점토질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "점토질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-재료:[세재 03-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.4ed330344ee8a772d5fe",
+   "titleKorean": "재료 시험 — 강의 불꽃 시험 원리를 이해하여 시험 결과를 해석하여 성적서로 작성하기",
+   "subjectKorean": "재료 시험",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "그 밖의 시험",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "재료 시험의 그 밖의 시험 영역에서 강의 불꽃 시험 원리를 이해하여 시험 결과를 해석하여 성적서로 작성하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 강의 불꽃 시험 원리를 이해하여 시험 결과를 해석하여 성적서로 작성하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "강의 불꽃 시험 원리를 이해하여 시험 결과를 해석하여 성적서로 작성하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-시험:[재시 05-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.4fb7343517843995c432",
+   "titleKorean": "세라믹 원리·공정 — 소성·소결 세라믹에 사용하는 유약에 대하여 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "소성·소결 세라믹 제조 공정",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 원리·공정의 소성·소결 세라믹 제조 공정 영역에서 소성·소결 세라믹에 사용하는 유약에 대하여 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 소성·소결 세라믹에 사용하는 유약에 대하여 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "소성·소결 세라믹에 사용하는 유약에 대하여 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 04-05-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.4fbae44ec295038d40d1",
+   "titleKorean": "재료 시험 — 재료 시험의 목적을 설명할 수 있고, 재료 시험법의 종류를 구분하기",
+   "subjectKorean": "재료 시험",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "재료 시험의 개요",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "재료 시험의 재료 시험의 개요 영역에서 재료 시험의 목적을 설명할 수 있고, 재료 시험법의 종류를 구분하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 재료 시험의 목적을 설명할 수 있고, 재료 시험법의 종류를 구분하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "재료 시험의 목적을 설명할 수 있고, 재료 시험법의 종류를 구분하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-시험:[재시 01-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.522a15576317480fd79c",
+   "titleKorean": "재료 일반 — 형상 기억 효과의 원리와 이론을 이해하고, 실제 적용되는 범위 및 활용도에 대해 디지털 도구를 이용하여 조사하고 설명하기",
+   "subjectKorean": "재료 일반",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "기능성 금속 재료",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "재료 일반의 기능성 금속 재료 영역에서 형상 기억 효과의 원리와 이론을 이해하고, 실제 적용되는 범위 및 활용도에 대해 디지털 도구를 이용하여 조사하고 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 형상 기억 효과의 원리와 이론을 이해하고, 실제 적용되는 범위 및 활용도에 대해 디지털 도구를 이용하여 조사하고 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "형상 기억 효과의 원리와 이론을 이해하고, 실제 적용되는 범위 및 활용도에 대해 디지털 도구를 이용하여 조사하고 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-일반:[재일 05-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.54e057195b5758a93005",
+   "titleKorean": "재료 일반 — , [금신 11-01-02], [금신 11-02-01], [금신 11-02-03]과 연계하여 학습하도 록 하며, 각 시험에 활용되는 디지털 기기 활용 방법을 정확히 숙지하고 시험을 수행할 수 있도록 하기",
+   "subjectKorean": "재료 일반",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "재료 시험과 검사",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "재료 일반의 재료 시험과 검사 영역에서 , [금신 11-01-02], [금신 11-02-01], [금신 11-02-03]과 연계하여 학습하도 록 하며, 각 시험에 활용되는 디지털 기기 활용 방법을 정확히 숙지하고 시험을 수행할 수 있도록 하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 , [금신 11-01-02], [금신 11-02-01], [금신 11-02-03]과 연계하여 학습하도 록 하며, 각 시험에 활용되는 디지털 기기 활용 방법을 정확히 숙지하고 시험을 수행할 수 있도록 하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    ", [금신 11-01-02], [금신 11-02-01], [금신 11-02-03]과 연계하여 학습하도 록 하며, 각 시험에 활용되는 디지털 기기 활용 방법을 정확히 숙지하고 시험을 수행할 수 있도록 하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-일반:[금신 11-01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.5a4427630d04a961a253",
+   "titleKorean": "재료 일반 — 철과 철에 포함되는 5대 원소의 영향을 이해하고, 공업적 용도의 순철과 탄소강의 조직 및 철-탄소 평형 상태도를 통해 철강 재료에 관해 설명하기",
+   "subjectKorean": "재료 일반",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "철강 재료",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "재료 일반의 철강 재료 영역에서 철과 철에 포함되는 5대 원소의 영향을 이해하고, 공업적 용도의 순철과 탄소강의 조직 및 철-탄소 평형 상태도를 통해 철강 재료에 관해 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 철과 철에 포함되는 5대 원소의 영향을 이해하고, 공업적 용도의 순철과 탄소강의 조직 및 철-탄소 평형 상태도를 통해 철강 재료에 관해 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "철과 철에 포함되는 5대 원소의 영향을 이해하고, 공업적 용도의 순철과 탄소강의 조직 및 철-탄소 평형 상태도를 통해 철강 재료에 관해 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-일반:[재일 03-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.5b33f0609a430fcf2d83",
+   "titleKorean": "재료 일반 — 금속 재료의 종류, 용도, 일반적인 특징과 결정 구조에 따른 성질을 구분하여 설명하기",
+   "subjectKorean": "재료 일반",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "공업 재료",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "재료 일반의 공업 재료 영역에서 금속 재료의 종류, 용도, 일반적인 특징과 결정 구조에 따른 성질을 구분하여 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 금속 재료의 종류, 용도, 일반적인 특징과 결정 구조에 따른 성질을 구분하여 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "금속 재료의 종류, 용도, 일반적인 특징과 결정 구조에 따른 성질을 구분하여 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-일반:[재일 01-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.5bef24702872c1fdabb1",
+   "titleKorean": "재료 시험 — 경도 시험의 종류와 특징을 설명할 수 있으며, 경도 시험 결괏값을 통한 경돗값을 계산하여 재료의 경돗값을 판별하기",
+   "subjectKorean": "재료 시험",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "기계적 시험",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "재료 시험의 기계적 시험 영역에서 경도 시험의 종류와 특징을 설명할 수 있으며, 경도 시험 결괏값을 통한 경돗값을 계산하여 재료의 경돗값을 판별하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 경도 시험의 종류와 특징을 설명할 수 있으며, 경도 시험 결괏값을 통한 경돗값을 계산하여 재료의 경돗값을 판별하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "경도 시험의 종류와 특징을 설명할 수 있으며, 경도 시험 결괏값을 통한 경돗값을 계산하여 재료의 경돗값을 판별하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-시험:[재시 02-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.5ced7bb52a934a7034ee",
+   "titleKorean": "세라믹 원리·공정 — 공업용으로 쓰이는 재료를 화학적·물리적 특성에 따라 분류하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹의 개요",
+   "facetKey": null,
+   "types": [
+    "language"
+   ],
+   "description": "세라믹 원리·공정의 세라믹의 개요 영역에서 공업용으로 쓰이는 재료를 화학적·물리적 특성에 따라 분류하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 공업용으로 쓰이는 재료를 화학적·물리적 특성에 따라 분류하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "공업용으로 쓰이는 재료를 화학적·물리적 특성에 따라 분류하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 01-01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.5ef39808e6bacab51cbe",
+   "titleKorean": "세라믹 재료 — 기타 원료의 종류와 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기",
+   "subjectKorean": "세라믹 재료",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 재료",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 재료의 세라믹 재료 영역에서 기타 원료의 종류와 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 기타 원료의 종류와 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "기타 원료의 종류와 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-재료:[세재 03-10]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.5fb6ead18b2ae31601b3",
+   "titleKorean": "세라믹 원리·공정 — 세라믹의 열팽창 측정 장치와 방법을 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 재료 평가",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "세라믹 원리·공정의 세라믹 재료 평가 영역에서 세라믹의 열팽창 측정 장치와 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 세라믹의 열팽창 측정 장치와 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "세라믹의 열팽창 측정 장치와 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 06-05-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.620a82fbe2c73161b9fe",
+   "titleKorean": "세라믹 재료 — 기타 다양한 세라믹 제조 기기의 종류 및 특성에 관한 지식과 기술을 설명하기",
+   "subjectKorean": "세라믹 재료",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 제조 기기",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 재료의 세라믹 제조 기기 영역에서 기타 다양한 세라믹 제조 기기의 종류 및 특성에 관한 지식과 기술을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 기타 다양한 세라믹 제조 기기의 종류 및 특성에 관한 지식과 기술을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "기타 다양한 세라믹 제조 기기의 종류 및 특성에 관한 지식과 기술을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-재료:[세재 05-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.63543806b450e6bfb1c0",
+   "titleKorean": "재료 시험 — 재료의 기계적 성질 시험의 목적을 이해하고, 종류에 따른 특징을 구분하여 설명하기",
+   "subjectKorean": "재료 시험",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "기계적 시험",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "재료 시험의 기계적 시험 영역에서 재료의 기계적 성질 시험의 목적을 이해하고, 종류에 따른 특징을 구분하여 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 재료의 기계적 성질 시험의 목적을 이해하고, 종류에 따른 특징을 구분하여 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "재료의 기계적 성질 시험의 목적을 이해하고, 종류에 따른 특징을 구분하여 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-시험:[재시 02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.64b0bddbd10ffd85a8ec",
+   "titleKorean": "재료 시험 — 피로 시험의 원리와 특징을 설명할 수 있고, 피도 한도와 기계적 성질의 관계를 설명하기",
+   "subjectKorean": "재료 시험",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "기계적 시험",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "재료 시험의 기계적 시험 영역에서 피로 시험의 원리와 특징을 설명할 수 있고, 피도 한도와 기계적 성질의 관계를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 피로 시험의 원리와 특징을 설명할 수 있고, 피도 한도와 기계적 성질의 관계를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "피로 시험의 원리와 특징을 설명할 수 있고, 피도 한도와 기계적 성질의 관계를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-시험:[재시 02-05]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.66d004ec1a77e9fa0b5d",
+   "titleKorean": "세라믹 원리·공정 — 산업 분야에서의 세라믹 소재의 전망을 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹의 개요",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 원리·공정의 세라믹의 개요 영역에서 산업 분야에서의 세라믹 소재의 전망을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 산업 분야에서의 세라믹 소재의 전망을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "산업 분야에서의 세라믹 소재의 전망을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 01-03-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.6841b248bd74ca545b6a",
+   "titleKorean": "세라믹 재료 — 세라믹 원료를 성형 및 정형하기 위한 주입 성형, 물레 성형, 가압 성형, 기타 성형 등에 관한 지식과 기술을 설명하기",
+   "subjectKorean": "세라믹 재료",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 제조 공정",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 재료의 세라믹 제조 공정 영역에서 세라믹 원료를 성형 및 정형하기 위한 주입 성형, 물레 성형, 가압 성형, 기타 성형 등에 관한 지식과 기술을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 세라믹 원료를 성형 및 정형하기 위한 주입 성형, 물레 성형, 가압 성형, 기타 성형 등에 관한 지식과 기술을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "세라믹 원료를 성형 및 정형하기 위한 주입 성형, 물레 성형, 가압 성형, 기타 성형 등에 관한 지식과 기술을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-재료:[세재 04-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.6eb1e7bb4dda59d3679f",
+   "titleKorean": "재료 시험 — 재료 시험할 때의 주의 사항, 시험편의 채취, 시험편의 치수 측정, 시험기 취급, 재료 시험 의 규격 등을 설명하기",
+   "subjectKorean": "재료 시험",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "재료 시험의 개요",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "재료 시험의 재료 시험의 개요 영역에서 재료 시험할 때의 주의 사항, 시험편의 채취, 시험편의 치수 측정, 시험기 취급, 재료 시험 의 규격 등을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 재료 시험할 때의 주의 사항, 시험편의 채취, 시험편의 치수 측정, 시험기 취급, 재료 시험 의 규격 등을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "재료 시험할 때의 주의 사항, 시험편의 채취, 시험편의 치수 측정, 시험기 취급, 재료 시험 의 규격 등을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-시험:[재시 01-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.77544c583fae14208f3f",
+   "titleKorean": "재료 일반 — 공업적으로 널리 이용되는 경질・연질 자성 재료에 요구되는 보자력, 자기력선속 밀도, 투자 율, 이력 손실 등을 이해하고 설명할 수 있으며, 자성 재료의 종류와 실제 활용되는 부분을 디지털 도구를 이용하여 조사하고 설명하기",
+   "subjectKorean": "재료 일반",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "기능성 금속 재료",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "재료 일반의 기능성 금속 재료 영역에서 공업적으로 널리 이용되는 경질・연질 자성 재료에 요구되는 보자력, 자기력선속 밀도, 투자 율, 이력 손실 등을 이해하고 설명할 수 있으며, 자성 재료의 종류와 실제 활용되는 부분을 디지털 도구를 이용하여 조사하고 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 공업적으로 널리 이용되는 경질・연질 자성 재료에 요구되는 보자력, 자기력선속 밀도, 투자 율, 이력 손실 등을 이해하고 설명할 수 있으며, 자성 재료의 종류와 실제 활용되는 부분을 디지털 도구를 이용하여 조사하고 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "공업적으로 널리 이용되는 경질・연질 자성 재료에 요구되는 보자력, 자기력선속 밀도, 투자 율, 이력 손실 등을 이해하고 설명할 수 있으며, 자성 재료의 종류와 실제 활용되는 부분을 디지털 도구를 이용하여 조사하고 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-일반:[재일 05-06]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.77af85d7b36576961ce2",
+   "titleKorean": "세라믹 원리·공정 — 소성·소결 세라믹 배토의 조제에 대하여 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "소성·소결 세라믹 제조 공정",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 원리·공정의 소성·소결 세라믹 제조 공정 영역에서 소성·소결 세라믹 배토의 조제에 대하여 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 소성·소결 세라믹 배토의 조제에 대하여 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "소성·소결 세라믹 배토의 조제에 대하여 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 04-01-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.7a014f243a24d1a85e10",
+   "titleKorean": "세라믹 원리·공정 — 소성·소결 세라믹에 사용하는 장식에 대하여 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "소성·소결 세라믹 제조 공정",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 원리·공정의 소성·소결 세라믹 제조 공정 영역에서 소성·소결 세라믹에 사용하는 장식에 대하여 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 소성·소결 세라믹에 사용하는 장식에 대하여 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "소성·소결 세라믹에 사용하는 장식에 대하여 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 04-05-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.7abfc17a25c99ad7f76b",
+   "titleKorean": "재료 시험 — 재료 시험 결과의 데이터 처리, 측정값 정리를 할 수 있으며, 시험편을 보존하기",
+   "subjectKorean": "재료 시험",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "재료 시험의 개요",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "재료 시험의 재료 시험의 개요 영역에서 재료 시험 결과의 데이터 처리, 측정값 정리를 할 수 있으며, 시험편을 보존하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 재료 시험 결과의 데이터 처리, 측정값 정리를 할 수 있으며, 시험편을 보존하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "재료 시험 결과의 데이터 처리, 측정값 정리를 할 수 있으며, 시험편을 보존하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-시험:[재시 01-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.7b1d97719aefdf78ca67",
+   "titleKorean": "세라믹 원리·공정 — 소성·소결 세라믹 성형의 개념에 대하여 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "소성·소결 세라믹 제조 공정",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 원리·공정의 소성·소결 세라믹 제조 공정 영역에서 소성·소결 세라믹 성형의 개념에 대하여 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 소성·소결 세라믹 성형의 개념에 대하여 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "소성·소결 세라믹 성형의 개념에 대하여 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 04-02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.7ce09d377c4c04c94f21",
+   "titleKorean": "세라믹 재료 — 가마를 제조하기 위해 사용하는 각종 가마용 내화재의 종류 및 특성에 관한 지식과 기술을 설명하기",
+   "subjectKorean": "세라믹 재료",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 제조 기기",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 재료의 세라믹 제조 기기 영역에서 가마를 제조하기 위해 사용하는 각종 가마용 내화재의 종류 및 특성에 관한 지식과 기술을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 가마를 제조하기 위해 사용하는 각종 가마용 내화재의 종류 및 특성에 관한 지식과 기술을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "가마를 제조하기 위해 사용하는 각종 가마용 내화재의 종류 및 특성에 관한 지식과 기술을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-재료:[세재 05-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.7d89ab06fc77952a1ad6",
+   "titleKorean": "세라믹 원리·공정 — 소성·소결 세라믹 건조의 방법에 대하여 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "소성·소결 세라믹 제조 공정",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 원리·공정의 소성·소결 세라믹 제조 공정 영역에서 소성·소결 세라믹 건조의 방법에 대하여 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 소성·소결 세라믹 건조의 방법에 대하여 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "소성·소결 세라믹 건조의 방법에 대하여 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 04-03-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.817a74c34a5a1e19b4a0",
+   "titleKorean": "세라믹 원리·공정 — 결정 기본 구조를 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 화학의 기초",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 원리·공정의 세라믹 화학의 기초 영역에서 결정 기본 구조를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 결정 기본 구조를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "결정 기본 구조를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 02-03-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.844d017ae4f722c829a6",
+   "titleKorean": "세라믹 원리·공정 — 주기율표에 대하여 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 화학의 기초",
+   "facetKey": null,
+   "types": [
+    "representational"
+   ],
+   "description": "세라믹 원리·공정의 세라믹 화학의 기초 영역에서 주기율표에 대하여 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 주기율표에 대하여 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "주기율표에 대하여 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 02-02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.84cf5137d206d74e3935",
+   "titleKorean": "세라믹 재료 — 세라믹 재료 및 제품을 분류할 때 제품이 가지는 특성과 연계된 재료 및 원료의 종류를 설명하기",
+   "subjectKorean": "세라믹 재료",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 재료의 개요",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 재료의 세라믹 재료의 개요 영역에서 세라믹 재료 및 제품을 분류할 때 제품이 가지는 특성과 연계된 재료 및 원료의 종류를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 세라믹 재료 및 제품을 분류할 때 제품이 가지는 특성과 연계된 재료 및 원료의 종류를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "세라믹 재료 및 제품을 분류할 때 제품이 가지는 특성과 연계된 재료 및 원료의 종류를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-재료:[세재 01-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.8bac374a06e2ac9c2ab5",
+   "titleKorean": "세라믹 원리·공정 — 세라믹 원료를 종류별로 분류하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 원료 제조",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 원리·공정의 세라믹 원료 제조 영역에서 세라믹 원료를 종류별로 분류하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 세라믹 원료를 종류별로 분류하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "세라믹 원료를 종류별로 분류하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 03-01-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.8c112b8a5a118bec329e",
+   "titleKorean": "세라믹 재료 — 탄소질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기",
+   "subjectKorean": "세라믹 재료",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 재료",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 재료의 세라믹 재료 영역에서 탄소질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 탄소질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "탄소질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-재료:[세재 03-08]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.99122be93061b9b5c09e",
+   "titleKorean": "세라믹 원리·공정 — 세라믹 미세 조직의 관찰 장치와 방법을 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 재료 평가",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 원리·공정의 세라믹 재료 평가 영역에서 세라믹 미세 조직의 관찰 장치와 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 세라믹 미세 조직의 관찰 장치와 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "세라믹 미세 조직의 관찰 장치와 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 06-02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.9b4cd8a5111316c62e9c",
+   "titleKorean": "세라믹 재료 — 대량 생산을 위한 각종 공업용 가마의 종류 및 특성에 관한 지식과 기술을 설명하기",
+   "subjectKorean": "세라믹 재료",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 제조 기기",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 재료의 세라믹 제조 기기 영역에서 대량 생산을 위한 각종 공업용 가마의 종류 및 특성에 관한 지식과 기술을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 대량 생산을 위한 각종 공업용 가마의 종류 및 특성에 관한 지식과 기술을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "대량 생산을 위한 각종 공업용 가마의 종류 및 특성에 관한 지식과 기술을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-재료:[세재 05-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.9e5d9a6b17f2f00bb531",
+   "titleKorean": "재료 일반 — 정보 기술 및 디지털 기기를 활용한 다양한 재료 시험 방법에 대해 알고 재료 시험법의 응용 과 활용도를 설명하기",
+   "subjectKorean": "재료 일반",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "재료 시험과 검사",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "재료 일반의 재료 시험과 검사 영역에서 정보 기술 및 디지털 기기를 활용한 다양한 재료 시험 방법에 대해 알고 재료 시험법의 응용 과 활용도를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 정보 기술 및 디지털 기기를 활용한 다양한 재료 시험 방법에 대해 알고 재료 시험법의 응용 과 활용도를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "정보 기술 및 디지털 기기를 활용한 다양한 재료 시험 방법에 대해 알고 재료 시험법의 응용 과 활용도를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-일반:[재일 02-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.a1efaa361a231c1f8c5b",
+   "titleKorean": "재료 일반 — 구리 합금의 일반적인 특성을 알고 그에 따른 종류와 용도 및 처리 방법을 설명하기",
+   "subjectKorean": "재료 일반",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "비철 금속 재료",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "재료 일반의 비철 금속 재료 영역에서 구리 합금의 일반적인 특성을 알고 그에 따른 종류와 용도 및 처리 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 구리 합금의 일반적인 특성을 알고 그에 따른 종류와 용도 및 처리 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "구리 합금의 일반적인 특성을 알고 그에 따른 종류와 용도 및 처리 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-일반:[재일 04-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.a51010d062b75f0e4d81",
+   "titleKorean": "재료 시험 — 자기 탐상 시험의 원리를 설명하고, 시험 결과를 성적서로 작성하기",
+   "subjectKorean": "재료 시험",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "비파괴 시험",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "재료 시험의 비파괴 시험 영역에서 자기 탐상 시험의 원리를 설명하고, 시험 결과를 성적서로 작성하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 자기 탐상 시험의 원리를 설명하고, 시험 결과를 성적서로 작성하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "자기 탐상 시험의 원리를 설명하고, 시험 결과를 성적서로 작성하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-시험:[재시 04-05]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.a5beea09eb651a82b290",
+   "titleKorean": "세라믹 원리·공정 — 소성·소결 장치를 구분하여 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 소성·소결",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 원리·공정의 세라믹 소성·소결 영역에서 소성·소결 장치를 구분하여 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 소성·소결 장치를 구분하여 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "소성·소결 장치를 구분하여 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 05-02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.a6165e14a0e2fd35ce55",
+   "titleKorean": "재료 일반 — 금속 재료의 가장 기본적이고 중요한 철강의 분류법과 용도에 대해 이해하고, 용도별 재료의 특성과 제조 방법을 간략히 설명하기",
+   "subjectKorean": "재료 일반",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "철강 재료",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "재료 일반의 철강 재료 영역에서 금속 재료의 가장 기본적이고 중요한 철강의 분류법과 용도에 대해 이해하고, 용도별 재료의 특성과 제조 방법을 간략히 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 금속 재료의 가장 기본적이고 중요한 철강의 분류법과 용도에 대해 이해하고, 용도별 재료의 특성과 제조 방법을 간략히 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "금속 재료의 가장 기본적이고 중요한 철강의 분류법과 용도에 대해 이해하고, 용도별 재료의 특성과 제조 방법을 간략히 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-일반:[재일 03-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.b05f9e841720d56c1239",
+   "titleKorean": "재료 시험 — 조직 시험의 목적을 이해하고, 시험의 종류와 특징을 설명하기",
+   "subjectKorean": "재료 시험",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "조직 시험",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "재료 시험의 조직 시험 영역에서 조직 시험의 목적을 이해하고, 시험의 종류와 특징을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 조직 시험의 목적을 이해하고, 시험의 종류와 특징을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "조직 시험의 목적을 이해하고, 시험의 종류와 특징을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-시험:[재시 03-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.b10abf68716cc24c8aa3",
+   "titleKorean": "세라믹 원리·공정 — 세라믹 원료의 특성을 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 원료 제조",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 원리·공정의 세라믹 원료 제조 영역에서 세라믹 원료의 특성을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 세라믹 원료의 특성을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "세라믹 원료의 특성을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 03-01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.b2b9ee2c1748aac7476c",
+   "titleKorean": "세라믹 재료 — 마그네시아질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기",
+   "subjectKorean": "세라믹 재료",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 재료",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 재료의 세라믹 재료 영역에서 마그네시아질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 마그네시아질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "마그네시아질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-재료:[세재 03-07]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.b33163ca048c5184b52a",
+   "titleKorean": "재료 시험 — 강의 페라이트 결정 입도 측정법을 이해하고 계산할 수 있으며, 조직량 측정법을 이해하고 계산하기",
+   "subjectKorean": "재료 시험",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "조직 시험",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "재료 시험의 조직 시험 영역에서 강의 페라이트 결정 입도 측정법을 이해하고 계산할 수 있으며, 조직량 측정법을 이해하고 계산하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 강의 페라이트 결정 입도 측정법을 이해하고 계산할 수 있으며, 조직량 측정법을 이해하고 계산하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "강의 페라이트 결정 입도 측정법을 이해하고 계산할 수 있으며, 조직량 측정법을 이해하고 계산하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-시험:[재시 03-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.b67153932d946ded76a7",
+   "titleKorean": "재료 일반 — , [제강 01-03-06]과 연계하여 학습하도록 하기",
+   "subjectKorean": "재료 일반",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "철강 재료",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "재료 일반의 철강 재료 영역에서 , [제강 01-03-06]과 연계하여 학습하도록 하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 , [제강 01-03-06]과 연계하여 학습하도록 하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    ", [제강 01-03-06]과 연계하여 학습하도록 하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-일반:[제강 01-03-05]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.b77c0f83672bfe9bb1ea",
+   "titleKorean": "세라믹 원리·공정 — 세라믹 제품을 종류별로 구분하여 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹의 개요",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 원리·공정의 세라믹의 개요 영역에서 세라믹 제품을 종류별로 구분하여 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 세라믹 제품을 종류별로 구분하여 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "세라믹 제품을 종류별로 구분하여 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 01-02-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.bc13e8c02084fb60bc1f",
+   "titleKorean": "재료 일반 — 강화 플라스틱, 탄소 섬유, 자기 테이프, 발포 플라스틱 등 공업용 유기 재료를 이해하며, 그 종류와 용도 및 제조 방법을 설명하기",
+   "subjectKorean": "재료 일반",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "기타 공업 재료",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "재료 일반의 기타 공업 재료 영역에서 강화 플라스틱, 탄소 섬유, 자기 테이프, 발포 플라스틱 등 공업용 유기 재료를 이해하며, 그 종류와 용도 및 제조 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 강화 플라스틱, 탄소 섬유, 자기 테이프, 발포 플라스틱 등 공업용 유기 재료를 이해하며, 그 종류와 용도 및 제조 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "강화 플라스틱, 탄소 섬유, 자기 테이프, 발포 플라스틱 등 공업용 유기 재료를 이해하며, 그 종류와 용도 및 제조 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-일반:[재일 06-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.be3368e510d1ed0a7463",
+   "titleKorean": "재료 일반 — 금속 현미경 조직 시험의 개념과 특징을 알고 주요 금속의 현미경 조직 시험을 통해 금속 조직과 성질의 변화를 설명하기",
+   "subjectKorean": "재료 일반",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "재료 시험과 검사",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "재료 일반의 재료 시험과 검사 영역에서 금속 현미경 조직 시험의 개념과 특징을 알고 주요 금속의 현미경 조직 시험을 통해 금속 조직과 성질의 변화를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 금속 현미경 조직 시험의 개념과 특징을 알고 주요 금속의 현미경 조직 시험을 통해 금속 조직과 성질의 변화를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "금속 현미경 조직 시험의 개념과 특징을 알고 주요 금속의 현미경 조직 시험을 통해 금속 조직과 성질의 변화를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-일반:[재일 02-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.bfe12fc370aa907f9e1b",
+   "titleKorean": "세라믹 원리·공정 — 세라믹 원료 분체의 특성 평가 장치와 방법을 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 재료 평가",
+   "facetKey": null,
+   "types": [
+    "meta"
+   ],
+   "description": "세라믹 원리·공정의 세라믹 재료 평가 영역에서 세라믹 원료 분체의 특성 평가 장치와 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 세라믹 원료 분체의 특성 평가 장치와 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "세라믹 원료 분체의 특성 평가 장치와 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 06-01-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.c06e39adf3ade520c169",
+   "titleKorean": "재료 시험 — 파면의 매크로 관찰을 통해 파단면을 분석하여 설명하기",
+   "subjectKorean": "재료 시험",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "그 밖의 시험",
+   "facetKey": null,
+   "types": [
+    "meta"
+   ],
+   "description": "재료 시험의 그 밖의 시험 영역에서 파면의 매크로 관찰을 통해 파단면을 분석하여 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 파면의 매크로 관찰을 통해 파단면을 분석하여 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "파면의 매크로 관찰을 통해 파단면을 분석하여 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-시험:[재시 05-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.c13351884a9c2c200586",
+   "titleKorean": "재료 시험 — 전자 현미경의 종류 및 각각의 원리를 이해하고 설명하기",
+   "subjectKorean": "재료 시험",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "조직 시험",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "재료 시험의 조직 시험 영역에서 전자 현미경의 종류 및 각각의 원리를 이해하고 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 전자 현미경의 종류 및 각각의 원리를 이해하고 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "전자 현미경의 종류 및 각각의 원리를 이해하고 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-시험:[재시 03-05]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.c4360f328c576c2bc8cc",
+   "titleKorean": "재료 시험 — 기타 비파괴 시험의 각각의 원리를 이해하고, 적용 방법에 대해 설명하기",
+   "subjectKorean": "재료 시험",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "비파괴 시험",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "재료 시험의 비파괴 시험 영역에서 기타 비파괴 시험의 각각의 원리를 이해하고, 적용 방법에 대해 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 기타 비파괴 시험의 각각의 원리를 이해하고, 적용 방법에 대해 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "기타 비파괴 시험의 각각의 원리를 이해하고, 적용 방법에 대해 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-시험:[재시 04-06]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.c744237d7ca913119c47",
+   "titleKorean": "재료 일반 — 제진 원리와 제진 기구에 대하여 이해하고, 제진 합금의 종류와 용도 및 공업적 응용 방법을 설명하기",
+   "subjectKorean": "재료 일반",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "기능성 금속 재료",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "재료 일반의 기능성 금속 재료 영역에서 제진 원리와 제진 기구에 대하여 이해하고, 제진 합금의 종류와 용도 및 공업적 응용 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 제진 원리와 제진 기구에 대하여 이해하고, 제진 합금의 종류와 용도 및 공업적 응용 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "제진 원리와 제진 기구에 대하여 이해하고, 제진 합금의 종류와 용도 및 공업적 응용 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-일반:[재일 05-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.c886d531f008e41c5513",
+   "titleKorean": "세라믹 재료 — 세라믹 원료를 제조하기 위한 원료 출토, 분쇄, 혼합, 여과, 조제 등에 관한 지식과 기술을 설명하기",
+   "subjectKorean": "세라믹 재료",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 제조 공정",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 재료의 세라믹 제조 공정 영역에서 세라믹 원료를 제조하기 위한 원료 출토, 분쇄, 혼합, 여과, 조제 등에 관한 지식과 기술을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 세라믹 원료를 제조하기 위한 원료 출토, 분쇄, 혼합, 여과, 조제 등에 관한 지식과 기술을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "세라믹 원료를 제조하기 위한 원료 출토, 분쇄, 혼합, 여과, 조제 등에 관한 지식과 기술을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-재료:[세재 04-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.cb81fdf92edb376c9628",
+   "titleKorean": "세라믹 원리·공정 — 세라믹의 강열 감량 측정 장치와 방법을 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 재료 평가",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "세라믹 원리·공정의 세라믹 재료 평가 영역에서 세라믹의 강열 감량 측정 장치와 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 세라믹의 강열 감량 측정 장치와 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "세라믹의 강열 감량 측정 장치와 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 06-05-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.ccd8f55333804ea2d653",
+   "titleKorean": "세라믹 재료 — 알루미나질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기",
+   "subjectKorean": "세라믹 재료",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 재료",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 재료의 세라믹 재료 영역에서 알루미나질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 알루미나질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "알루미나질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-재료:[세재 03-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.cda165768753aefbce85",
+   "titleKorean": "세라믹 원리·공정 — 열역학 기초 이론 및 열역학 각 법칙을 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 화학의 기초",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 원리·공정의 세라믹 화학의 기초 영역에서 열역학 기초 이론 및 열역학 각 법칙을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 열역학 기초 이론 및 열역학 각 법칙을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "열역학 기초 이론 및 열역학 각 법칙을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 02-04-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.ce8cfbf3b2d877285dff",
+   "titleKorean": "세라믹 원리·공정 — 입자 단위(몰, mol), 화학 반응식의 기초를 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 화학의 기초",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 원리·공정의 세라믹 화학의 기초 영역에서 입자 단위(몰, mol), 화학 반응식의 기초를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 입자 단위(몰, mol), 화학 반응식의 기초를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "입자 단위(몰, mol), 화학 반응식의 기초를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 02-01-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.cea68a7740cdeb6ae2d7",
+   "titleKorean": "재료 일반 — 육안 검사, 방사선 비파괴 검사, 초음파 비파괴 검사, 자기 비파괴 검사, 침투 비파괴 검사 및 기타 비파괴 시험의 종류와 시험법을 이해하고 설명하기",
+   "subjectKorean": "재료 일반",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "재료 시험과 검사",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "재료 일반의 재료 시험과 검사 영역에서 육안 검사, 방사선 비파괴 검사, 초음파 비파괴 검사, 자기 비파괴 검사, 침투 비파괴 검사 및 기타 비파괴 시험의 종류와 시험법을 이해하고 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 육안 검사, 방사선 비파괴 검사, 초음파 비파괴 검사, 자기 비파괴 검사, 침투 비파괴 검사 및 기타 비파괴 시험의 종류와 시험법을 이해하고 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "육안 검사, 방사선 비파괴 검사, 초음파 비파괴 검사, 자기 비파괴 검사, 침투 비파괴 검사 및 기타 비파괴 시험의 종류와 시험법을 이해하고 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-일반:[재일 02-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.d220a16510f402a76397",
+   "titleKorean": "세라믹 원리·공정 — 소성·소결 세라믹 성형의 종류에 대하여 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "소성·소결 세라믹 제조 공정",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 원리·공정의 소성·소결 세라믹 제조 공정 영역에서 소성·소결 세라믹 성형의 종류에 대하여 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 소성·소결 세라믹 성형의 종류에 대하여 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "소성·소결 세라믹 성형의 종류에 대하여 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 04-02-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.d27c4c267fede38eeee6",
+   "titleKorean": "재료 일반 — 인장, 경도, 충격 및 기타 기계적 시험의 종류와 특징을 알고 기계적 시험이 왜 필요한지 개 념을 명확히 이해하며, 시험법에 따라 안전하게 검사를 수행하기",
+   "subjectKorean": "재료 일반",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "재료 시험과 검사",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "재료 일반의 재료 시험과 검사 영역에서 인장, 경도, 충격 및 기타 기계적 시험의 종류와 특징을 알고 기계적 시험이 왜 필요한지 개 념을 명확히 이해하며, 시험법에 따라 안전하게 검사를 수행하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 인장, 경도, 충격 및 기타 기계적 시험의 종류와 특징을 알고 기계적 시험이 왜 필요한지 개 념을 명확히 이해하며, 시험법에 따라 안전하게 검사를 수행하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "인장, 경도, 충격 및 기타 기계적 시험의 종류와 특징을 알고 기계적 시험이 왜 필요한지 개 념을 명확히 이해하며, 시험법에 따라 안전하게 검사를 수행하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-일반:[재일 02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.d3167737c6eefb2e7d6e",
+   "titleKorean": "세라믹 원리·공정 — 세라믹의 의미를 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹의 개요",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 원리·공정의 세라믹의 개요 영역에서 세라믹의 의미를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 세라믹의 의미를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "세라믹의 의미를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 01-02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.d3ffaec87d9318c29c80",
+   "titleKorean": "세라믹 원리·공정 — 원자 구조를 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 화학의 기초",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 원리·공정의 세라믹 화학의 기초 영역에서 원자 구조를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 원자 구조를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "원자 구조를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 02-01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.d40e340a9ee8380afde0",
+   "titleKorean": "세라믹 원리·공정 — 화학 결합의 종류와 특성을 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 화학의 기초",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 원리·공정의 세라믹 화학의 기초 영역에서 화학 결합의 종류와 특성을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 화학 결합의 종류와 특성을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "화학 결합의 종류와 특성을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 02-02-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.d499666cd1c961d64fed",
+   "titleKorean": "세라믹 원리·공정 — 소성·소결 방법을 구분하여 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 소성·소결",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 원리·공정의 세라믹 소성·소결 영역에서 소성·소결 방법을 구분하여 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 소성·소결 방법을 구분하여 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "소성·소결 방법을 구분하여 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 05-02-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.d71dd25cba071eb81c4c",
+   "titleKorean": "재료 일반 — 금속을 바탕으로 한 금속, 비금속 등의 이종 재료를 복합하여 필요한 재료 특성을 얻기 위한 금속 기지 복합 재료를 이해하고, 그 종류와 용도 및 제조 방법을 설명하기",
+   "subjectKorean": "재료 일반",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "기능성 금속 재료",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "재료 일반의 기능성 금속 재료 영역에서 금속을 바탕으로 한 금속, 비금속 등의 이종 재료를 복합하여 필요한 재료 특성을 얻기 위한 금속 기지 복합 재료를 이해하고, 그 종류와 용도 및 제조 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 금속을 바탕으로 한 금속, 비금속 등의 이종 재료를 복합하여 필요한 재료 특성을 얻기 위한 금속 기지 복합 재료를 이해하고, 그 종류와 용도 및 제조 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "금속을 바탕으로 한 금속, 비금속 등의 이종 재료를 복합하여 필요한 재료 특성을 얻기 위한 금속 기지 복합 재료를 이해하고, 그 종류와 용도 및 제조 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-일반:[재일 05-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.d8a6ec5cbd27550eab37",
+   "titleKorean": "세라믹 원리·공정 — 고체로부터의 원료 합성 및 제조에 대해 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 원료 제조",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 원리·공정의 세라믹 원료 제조 영역에서 고체로부터의 원료 합성 및 제조에 대해 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 고체로부터의 원료 합성 및 제조에 대해 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "고체로부터의 원료 합성 및 제조에 대해 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 03-02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.d922ea3d5a0dc098b91a",
+   "titleKorean": "세라믹 원리·공정 — 세라믹 원료 분체의 제조 과정을 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 재료 평가",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 원리·공정의 세라믹 재료 평가 영역에서 세라믹 원료 분체의 제조 과정을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 세라믹 원료 분체의 제조 과정을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "세라믹 원료 분체의 제조 과정을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 06-01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.dafa1df8f040f3db03d9",
+   "titleKorean": "재료 시험 — 초음파 탐상 시험의 원리를 설명하고, 시험 결과를 성적서로 작성하기",
+   "subjectKorean": "재료 시험",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "비파괴 시험",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "재료 시험의 비파괴 시험 영역에서 초음파 탐상 시험의 원리를 설명하고, 시험 결과를 성적서로 작성하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 초음파 탐상 시험의 원리를 설명하고, 시험 결과를 성적서로 작성하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "초음파 탐상 시험의 원리를 설명하고, 시험 결과를 성적서로 작성하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-시험:[재시 04-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.dcce99c08b010d2495fa",
+   "titleKorean": "재료 일반 — 탄소강에서 얻을 수 없는 특정한 성질을 얻기 위해 첨가하는 합금 원소의 종류와 재료 명칭 등에 대해 이해하고, 각각의 용도와 처리 방법을 설명하기",
+   "subjectKorean": "재료 일반",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "철강 재료",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "재료 일반의 철강 재료 영역에서 탄소강에서 얻을 수 없는 특정한 성질을 얻기 위해 첨가하는 합금 원소의 종류와 재료 명칭 등에 대해 이해하고, 각각의 용도와 처리 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 탄소강에서 얻을 수 없는 특정한 성질을 얻기 위해 첨가하는 합금 원소의 종류와 재료 명칭 등에 대해 이해하고, 각각의 용도와 처리 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "탄소강에서 얻을 수 없는 특정한 성질을 얻기 위해 첨가하는 합금 원소의 종류와 재료 명칭 등에 대해 이해하고, 각각의 용도와 처리 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-일반:[재일 03-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.dd1a24f1c617609ed6b9",
+   "titleKorean": "재료 시험 — 충격 시험의 원리를 이해하고, 충격 에너지와 충격값을 계산하여 연성 및 취성의 기계적 성 질을 판별하기",
+   "subjectKorean": "재료 시험",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "기계적 시험",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "재료 시험의 기계적 시험 영역에서 충격 시험의 원리를 이해하고, 충격 에너지와 충격값을 계산하여 연성 및 취성의 기계적 성 질을 판별하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 충격 시험의 원리를 이해하고, 충격 에너지와 충격값을 계산하여 연성 및 취성의 기계적 성 질을 판별하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "충격 시험의 원리를 이해하고, 충격 에너지와 충격값을 계산하여 연성 및 취성의 기계적 성 질을 판별하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-시험:[재시 02-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.de2a32bce0248797e9de",
+   "titleKorean": "재료 시험 — 경화능 시험의 원리를 설명하고, 측정 결과를 성적서로 작성하기",
+   "subjectKorean": "재료 시험",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "그 밖의 시험",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "재료 시험의 그 밖의 시험 영역에서 경화능 시험의 원리를 설명하고, 측정 결과를 성적서로 작성하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 경화능 시험의 원리를 설명하고, 측정 결과를 성적서로 작성하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "경화능 시험의 원리를 설명하고, 측정 결과를 성적서로 작성하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-시험:[재시 05-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.e08b11e4a91c77b87c8d",
+   "titleKorean": "재료 일반 — 광학 섬유, 세라믹, 강화 유리, 강화 재료 등 첨단 산업에서 요구되는 세라믹 공업 재료를 이해하며, 그 종류와 용도 및 제조 방법을 설명하기",
+   "subjectKorean": "재료 일반",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "기타 공업 재료",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "재료 일반의 기타 공업 재료 영역에서 광학 섬유, 세라믹, 강화 유리, 강화 재료 등 첨단 산업에서 요구되는 세라믹 공업 재료를 이해하며, 그 종류와 용도 및 제조 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 광학 섬유, 세라믹, 강화 유리, 강화 재료 등 첨단 산업에서 요구되는 세라믹 공업 재료를 이해하며, 그 종류와 용도 및 제조 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "광학 섬유, 세라믹, 강화 유리, 강화 재료 등 첨단 산업에서 요구되는 세라믹 공업 재료를 이해하며, 그 종류와 용도 및 제조 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-일반:[재일 06-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.e1f05ade52af0cb000cd",
+   "titleKorean": "세라믹 원리·공정 — 세라믹의 밀도와 비중 측정 장치와 방법을 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 06",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "세라믹 원리·공정의 영역 06 영역에서 세라믹의 밀도와 비중 측정 장치와 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 세라믹의 밀도와 비중 측정 장치와 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "세라믹의 밀도와 비중 측정 장치와 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 06-06-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.e252dc9b37914b371490",
+   "titleKorean": "세라믹 원리·공정 — 세라믹의 흡수율과 기공률 측정 장치와 방법을 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 06",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "세라믹 원리·공정의 영역 06 영역에서 세라믹의 흡수율과 기공률 측정 장치와 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 세라믹의 흡수율과 기공률 측정 장치와 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "세라믹의 흡수율과 기공률 측정 장치와 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 06-06-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.e6dc0e99a89667915d59",
+   "titleKorean": "재료 일반 — 비금속을 바탕으로 금속 또는 비금속 등의 이종 재료로 구성된 비금속 기지 복합 재료를 이해하며, 그 종류와 용도 및 제조 방법을 설명하기",
+   "subjectKorean": "재료 일반",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "기타 공업 재료",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "재료 일반의 기타 공업 재료 영역에서 비금속을 바탕으로 금속 또는 비금속 등의 이종 재료로 구성된 비금속 기지 복합 재료를 이해하며, 그 종류와 용도 및 제조 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 비금속을 바탕으로 금속 또는 비금속 등의 이종 재료로 구성된 비금속 기지 복합 재료를 이해하며, 그 종류와 용도 및 제조 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "비금속을 바탕으로 금속 또는 비금속 등의 이종 재료로 구성된 비금속 기지 복합 재료를 이해하며, 그 종류와 용도 및 제조 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-일반:[재일 06-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.e755a78bac33961eb628",
+   "titleKorean": "재료 시험 — 그 밖의 기계적 성질 시험의 특성을 이해하고, 설명하기",
+   "subjectKorean": "재료 시험",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "기계적 시험",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "재료 시험의 기계적 시험 영역에서 그 밖의 기계적 성질 시험의 특성을 이해하고, 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 그 밖의 기계적 성질 시험의 특성을 이해하고, 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "그 밖의 기계적 성질 시험의 특성을 이해하고, 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-시험:[재시 02-06]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.e77348daf80323fad977",
+   "titleKorean": "재료 시험 — 분광 및 성분 분석법을 분류하여 설명하기",
+   "subjectKorean": "재료 시험",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "그 밖의 시험",
+   "facetKey": null,
+   "types": [
+    "meta"
+   ],
+   "description": "재료 시험의 그 밖의 시험 영역에서 분광 및 성분 분석법을 분류하여 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 분광 및 성분 분석법을 분류하여 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "분광 및 성분 분석법을 분류하여 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-시험:[재시 05-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.e7abc64e753ebb27832c",
+   "titleKorean": "재료 시험 — 매크로 조직 검사, 비금속 개재물 시험 및 설퍼 프린트법의 원리를 이해하고 시험법을 설명 하기",
+   "subjectKorean": "재료 시험",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "조직 시험",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "재료 시험의 조직 시험 영역에서 매크로 조직 검사, 비금속 개재물 시험 및 설퍼 프린트법의 원리를 이해하고 시험법을 설명 하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 매크로 조직 검사, 비금속 개재물 시험 및 설퍼 프린트법의 원리를 이해하고 시험법을 설명 하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "매크로 조직 검사, 비금속 개재물 시험 및 설퍼 프린트법의 원리를 이해하고 시험법을 설명 하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-시험:[재시 03-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.ea729ef39afb978b5667",
+   "titleKorean": "세라믹 재료 — 세라믹 재료를 결정 구조에 따라 분류할 수 있고, 결정 구조에 따른 특성을 설명하기",
+   "subjectKorean": "세라믹 재료",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 재료의 특성 및 결정 구조",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 재료의 세라믹 재료의 특성 및 결정 구조 영역에서 세라믹 재료를 결정 구조에 따라 분류할 수 있고, 결정 구조에 따른 특성을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 세라믹 재료를 결정 구조에 따라 분류할 수 있고, 결정 구조에 따른 특성을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "세라믹 재료를 결정 구조에 따라 분류할 수 있고, 결정 구조에 따른 특성을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-재료:[세재 02-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.ec9e077e32a0e8aa0c6b",
+   "titleKorean": "재료 시험 — 응력·변형률 선도를 이해하고, 인장 시험 결괏값을 통한 인장 강도를 계산하기",
+   "subjectKorean": "재료 시험",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "기계적 시험",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "재료 시험의 기계적 시험 영역에서 응력·변형률 선도를 이해하고, 인장 시험 결괏값을 통한 인장 강도를 계산하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 응력·변형률 선도를 이해하고, 인장 시험 결괏값을 통한 인장 강도를 계산하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "응력·변형률 선도를 이해하고, 인장 시험 결괏값을 통한 인장 강도를 계산하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-재료-시험:[재시 02-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.f60755b65d066c01d53b",
+   "titleKorean": "세라믹 재료 — 세라믹 재료를 금속, 폴리머, 유기 재료 등과 구분하여 그 특성을 알 수 있고, 각종 기초 용어 를 설명하기",
+   "subjectKorean": "세라믹 재료",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 재료의 특성 및 결정 구조",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 재료의 세라믹 재료의 특성 및 결정 구조 영역에서 세라믹 재료를 금속, 폴리머, 유기 재료 등과 구분하여 그 특성을 알 수 있고, 각종 기초 용어 를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 세라믹 재료를 금속, 폴리머, 유기 재료 등과 구분하여 그 특성을 알 수 있고, 각종 기초 용어 를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "세라믹 재료를 금속, 폴리머, 유기 재료 등과 구분하여 그 특성을 알 수 있고, 각종 기초 용어 를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-재료:[세재 02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.f67cb1024f19a8f707f5",
+   "titleKorean": "세라믹 재료 — 장식 기법들이 활용되는 세라믹 제품에 관한 지식과 기술을 설명하기",
+   "subjectKorean": "세라믹 재료",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 제조 공정",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "세라믹 재료의 세라믹 제조 공정 영역에서 장식 기법들이 활용되는 세라믹 제품에 관한 지식과 기술을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 장식 기법들이 활용되는 세라믹 제품에 관한 지식과 기술을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "장식 기법들이 활용되는 세라믹 제품에 관한 지식과 기술을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-재료:[세재 04-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.f69752937b5eb62ffa13",
+   "titleKorean": "세라믹 원리·공정 — 세라믹의 경도 측정 장치와 방법을 설명하기",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 재료 평가",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "세라믹 원리·공정의 세라믹 재료 평가 영역에서 세라믹의 경도 측정 장치와 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 세라믹의 경도 측정 장치와 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "세라믹의 경도 측정 장치와 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-원리-공정:[세원 06-03-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.fac2eeb300946a5d05f0",
+   "titleKorean": "세라믹 재료 — 다양한 소성용 노(爐, furnace)의 종류 및 특성에 관한 지식과 기술을 설명하기",
+   "subjectKorean": "세라믹 재료",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 제조 기기",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 재료의 세라믹 제조 기기 영역에서 다양한 소성용 노(爐, furnace)의 종류 및 특성에 관한 지식과 기술을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 다양한 소성용 노(爐, furnace)의 종류 및 특성에 관한 지식과 기술을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "다양한 소성용 노(爐, furnace)의 종류 및 특성에 관한 지식과 기술을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-재료:[세재 05-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.fbdf27fbf56ccf8154f6",
+   "titleKorean": "세라믹 재료 — 석회질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기",
+   "subjectKorean": "세라믹 재료",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 재료",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "세라믹 재료의 세라믹 재료 영역에서 석회질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 석회질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "석회질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-세라믹-재료:[세재 03-06]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ]
+  }
+ ]
+}

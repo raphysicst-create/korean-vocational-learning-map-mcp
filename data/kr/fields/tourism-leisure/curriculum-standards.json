@@ -1,0 +1,4420 @@
+{
+ "curricula": [
+  {
+   "id": "kr-2022-voc-관광-문화와-자원",
+   "subjectKorean": "관광 문화와 자원",
+   "majorFieldSlug": "tourism-leisure",
+   "subjectGroupKorean": "관광·레저",
+   "courseCategory": "major-general",
+   "gradeBand": "10-12",
+   "name": "관광 문화와 자원 2022 개정 전문교과 교육과정",
+   "deck6CourseId": "kr.course.2022.high.72b3d80ec5b8cb72",
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ],
+   "standardCount": 20,
+   "standards": [
+    {
+     "key": "kr-2022-voc-관광-문화와-자원:[관문 01-01]",
+     "code": "[관문 01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 문화와 자원",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 문화",
+     "summary": "문화의 개념을 이해하고 특성을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관문 01-01]",
+      "pdfPage": 96,
+      "printedPage": null,
+      "section": "관광 문화와 자원 > 관광 문화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.dd9e12e2eb646e35b5dc"
+    },
+    {
+     "key": "kr-2022-voc-관광-문화와-자원:[관문 01-02]",
+     "code": "[관문 01-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 문화와 자원",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 문화",
+     "summary": "관광 문화의 개념을 제시하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관문 01-02]",
+      "pdfPage": 96,
+      "printedPage": null,
+      "section": "관광 문화와 자원 > 관광 문화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.b2ac46405202dbef91be"
+    },
+    {
+     "key": "kr-2022-voc-관광-문화와-자원:[관문 01-03]",
+     "code": "[관문 01-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 문화와 자원",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 문화",
+     "summary": "관광 문화의 환경 변화를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관문 01-03]",
+      "pdfPage": 96,
+      "printedPage": null,
+      "section": "관광 문화와 자원 > 관광 문화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.e451a2b3e8cf693dd502"
+    },
+    {
+     "key": "kr-2022-voc-관광-문화와-자원:[관문 02-01]",
+     "code": "[관문 02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 문화와 자원",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 자원의 이해",
+     "summary": "관광 자원의 개념을 살펴보고, 유사 용어들과 의미를 구분하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관문 02-01]",
+      "pdfPage": 96,
+      "printedPage": null,
+      "section": "관광 문화와 자원 > 관광 자원의 이해",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.45c96193c77f78eeea90"
+    },
+    {
+     "key": "kr-2022-voc-관광-문화와-자원:[관문 02-02]",
+     "code": "[관문 02-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 문화와 자원",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 자원의 이해",
+     "summary": "관광 자원의 특성을 이해하고 유형별 특성과 비교하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관문 02-02]",
+      "pdfPage": 96,
+      "printedPage": null,
+      "section": "관광 문화와 자원 > 관광 자원의 이해",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.8279718fcd6f977c0172"
+    },
+    {
+     "key": "kr-2022-voc-관광-문화와-자원:[관문 02-03]",
+     "code": "[관문 02-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 문화와 자원",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 자원의 이해",
+     "summary": "관광 자원이 갖추어야 할 요건을 파악하고 이에 대해 토의하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관문 02-03]",
+      "pdfPage": 96,
+      "printedPage": null,
+      "section": "관광 문화와 자원 > 관광 자원의 이해",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.54feba42a93252ee0586"
+    },
+    {
+     "key": "kr-2022-voc-관광-문화와-자원:[관문 02-04]",
+     "code": "[관문 02-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 문화와 자원",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 자원의 이해",
+     "summary": "관광 자원의 역할을 살펴보고, 기능에 대해 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관문 02-04]",
+      "pdfPage": 96,
+      "printedPage": null,
+      "section": "관광 문화와 자원 > 관광 자원의 이해",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.4dcb3cda2d6ca55a4f75"
+    },
+    {
+     "key": "kr-2022-voc-관광-문화와-자원:[관문 02-05]",
+     "code": "[관문 02-05]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 문화와 자원",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 자원의 이해",
+     "summary": "관광 자원의 다양한 분류 체계에 대해 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관문 02-05]",
+      "pdfPage": 96,
+      "printedPage": null,
+      "section": "관광 문화와 자원 > 관광 자원의 이해",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.02ca66c0993cb04bef81"
+    },
+    {
+     "key": "kr-2022-voc-관광-문화와-자원:[관문 03-01]",
+     "code": "[관문 03-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 문화와 자원",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 자원 유형",
+     "summary": "자연 관광 자원의 의미와 특성을 다른 자원 유형들과 비교하여 제시하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관문 03-01]",
+      "pdfPage": 97,
+      "printedPage": null,
+      "section": "관광 문화와 자원 > 관광 자원 유형",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.cb29230131343c6fa6d0"
+    },
+    {
+     "key": "kr-2022-voc-관광-문화와-자원:[관문 03-02]",
+     "code": "[관문 03-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 문화와 자원",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 자원 유형",
+     "summary": "문화 관광 자원의 의미와 유형을 살펴보고, 문화유산 및 유네스코 지정 세계 유산 자원을 조회하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관문 03-02]",
+      "pdfPage": 97,
+      "printedPage": null,
+      "section": "관광 문화와 자원 > 관광 자원 유형",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.16fa30ce73dbec98306e"
+    },
+    {
+     "key": "kr-2022-voc-관광-문화와-자원:[관문 03-03]",
+     "code": "[관문 03-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 문화와 자원",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 자원 유형",
+     "summary": "사회 관광 자원의 개념과 유형을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관문 03-03]",
+      "pdfPage": 97,
+      "printedPage": null,
+      "section": "관광 문화와 자원 > 관광 자원 유형",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.ae85bf030a3bb4e38137"
+    },
+    {
+     "key": "kr-2022-voc-관광-문화와-자원:[관문 03-04]",
+     "code": "[관문 03-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 문화와 자원",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 자원 유형",
+     "summary": "산업 관광 자원의 개념과 형태에 대해 살펴보고, 과거와 오늘날의 추이를 비교하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관문 03-04]",
+      "pdfPage": 97,
+      "printedPage": null,
+      "section": "관광 문화와 자원 > 관광 자원 유형",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.082f8b02b2daa8b2ed26"
+    },
+    {
+     "key": "kr-2022-voc-관광-문화와-자원:[관문 03-05]",
+     "code": "[관문 03-05]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 문화와 자원",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 자원 유형",
+     "summary": "위락 관광 자원의 개념을 이해하고, 유형에 대해 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관문 03-05]",
+      "pdfPage": 97,
+      "printedPage": null,
+      "section": "관광 문화와 자원 > 관광 자원 유형",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.77087ec86135681b69b0"
+    },
+    {
+     "key": "kr-2022-voc-관광-문화와-자원:[관문 04-01]",
+     "code": "[관문 04-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 문화와 자원",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "지속가능 생태계 콘텐츠",
+     "summary": "지속가능한 관광의 개념을 살펴보고, 지속가능한 관광의 출현 배경과 유형을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관문 04-01]",
+      "pdfPage": 98,
+      "printedPage": null,
+      "section": "관광 문화와 자원 > 지속가능 생태계 콘텐츠",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.91195dd6d654d8734194"
+    },
+    {
+     "key": "kr-2022-voc-관광-문화와-자원:[관문 04-02]",
+     "code": "[관문 04-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 문화와 자원",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "지속가능 생태계 콘텐츠",
+     "summary": "생태 관광의 개념과 특성을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관문 04-02]",
+      "pdfPage": 98,
+      "printedPage": null,
+      "section": "관광 문화와 자원 > 지속가능 생태계 콘텐츠",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.ef17cf3722ebd66aab5c"
+    },
+    {
+     "key": "kr-2022-voc-관광-문화와-자원:[관문 04-03]",
+     "code": "[관문 04-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 문화와 자원",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "지속가능 생태계 콘텐츠",
+     "summary": "공정 관광의 의미를 제시하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관문 04-03]",
+      "pdfPage": 98,
+      "printedPage": null,
+      "section": "관광 문화와 자원 > 지속가능 생태계 콘텐츠",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.683145bfc0aa4bd88a12"
+    },
+    {
+     "key": "kr-2022-voc-관광-문화와-자원:[관문 05-01]",
+     "code": "[관문 05-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 문화와 자원",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "한류 문화 콘텐츠",
+     "summary": "한류 관광의 의미를 정의하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관문 05-01]",
+      "pdfPage": 98,
+      "printedPage": null,
+      "section": "관광 문화와 자원 > 한류 문화 콘텐츠",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.481422739e79a149bd42"
+    },
+    {
+     "key": "kr-2022-voc-관광-문화와-자원:[관문 05-02]",
+     "code": "[관문 05-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 문화와 자원",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "한류 문화 콘텐츠",
+     "summary": "한류 문화 콘텐츠의 유형을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관문 05-02]",
+      "pdfPage": 98,
+      "printedPage": null,
+      "section": "관광 문화와 자원 > 한류 문화 콘텐츠",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.04efcdae548a62298d88"
+    },
+    {
+     "key": "kr-2022-voc-관광-문화와-자원:[관문 05-03]",
+     "code": "[관문 05-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 문화와 자원",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "한류 문화 콘텐츠",
+     "summary": "한류 문화 콘텐츠의 유형별 특성을 제시하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관문 05-03]",
+      "pdfPage": 98,
+      "printedPage": null,
+      "section": "관광 문화와 자원 > 한류 문화 콘텐츠",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.4dde758eb7b6e4eb065f"
+    },
+    {
+     "key": "kr-2022-voc-관광-문화와-자원:[관문 05-04]",
+     "code": "[관문 05-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 문화와 자원",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "한류 문화 콘텐츠",
+     "summary": "한류 문화 콘텐츠의 등장 및 확산 과정을 시기별로 구분하여 비교하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관문 05-04]",
+      "pdfPage": 98,
+      "printedPage": null,
+      "section": "관광 문화와 자원 > 한류 문화 콘텐츠",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.7d3a8f4eafe9522936be"
+    }
+   ]
+  },
+  {
+   "id": "kr-2022-voc-관광-서비스",
+   "subjectKorean": "관광 서비스",
+   "majorFieldSlug": "tourism-leisure",
+   "subjectGroupKorean": "관광·레저",
+   "courseCategory": "major-general",
+   "gradeBand": "10-12",
+   "name": "관광 서비스 2022 개정 전문교과 교육과정",
+   "deck6CourseId": "kr.course.2022.high.e3054b4df4968254",
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ],
+   "standardCount": 19,
+   "standards": [
+    {
+     "key": "kr-2022-voc-관광-서비스:[관서 01-01]",
+     "code": "[관서 01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 서비스",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 서비스의 이해",
+     "summary": "관광 서비스의 개념과 주요 특징을 이해하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관서 01-01]",
+      "pdfPage": 65,
+      "printedPage": null,
+      "section": "관광 서비스 > 관광 서비스의 이해",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.5c8d95d343e6c67f5646"
+    },
+    {
+     "key": "kr-2022-voc-관광-서비스:[관서 01-02]",
+     "code": "[관서 01-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 서비스",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 서비스의 이해",
+     "summary": "관광 서비스의 중요성을 이해하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관서 01-02]",
+      "pdfPage": 65,
+      "printedPage": null,
+      "section": "관광 서비스 > 관광 서비스의 이해",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.c444d6659a5ede461756"
+    },
+    {
+     "key": "kr-2022-voc-관광-서비스:[관서 01-03]",
+     "code": "[관서 01-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 서비스",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 서비스의 이해",
+     "summary": "대면 관광 서비스 접점의 개념과 중요성을 이해하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관서 01-03]",
+      "pdfPage": 65,
+      "printedPage": null,
+      "section": "관광 서비스 > 관광 서비스의 이해",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.f0278771d354cb13847b"
+    },
+    {
+     "key": "kr-2022-voc-관광-서비스:[관서 01-04]",
+     "code": "[관서 01-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 서비스",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 서비스의 이해",
+     "summary": "비대면 관광 서비스 접점의 개념과 중요성을 이해하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관서 01-04]",
+      "pdfPage": 65,
+      "printedPage": null,
+      "section": "관광 서비스 > 관광 서비스의 이해",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.e20119f822abe9cfa259"
+    },
+    {
+     "key": "kr-2022-voc-관광-서비스:[관서 02-01]",
+     "code": "[관서 02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 서비스",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "고객의 이해",
+     "summary": "고객의 개념과 주요 특성을 이해하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관서 02-01]",
+      "pdfPage": 65,
+      "printedPage": null,
+      "section": "관광 서비스 > 고객의 이해",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.75a6188b7c92c0174c21"
+    },
+    {
+     "key": "kr-2022-voc-관광-서비스:[관서 02-02]",
+     "code": "[관서 02-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 서비스",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "고객의 이해",
+     "summary": "고객 만족과 관련한 주요 개념을 이해하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관서 02-02]",
+      "pdfPage": 65,
+      "printedPage": null,
+      "section": "관광 서비스 > 고객의 이해",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.1a8b462526652e378149"
+    },
+    {
+     "key": "kr-2022-voc-관광-서비스:[관서 02-03]",
+     "code": "[관서 02-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 서비스",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "고객의 이해",
+     "summary": "고객 서비스 품질의 개념, 특성 및 품질 관리의 의미를 이해하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관서 02-03]",
+      "pdfPage": 65,
+      "printedPage": null,
+      "section": "관광 서비스 > 고객의 이해",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.bcee4f8d1698f1bbb47d"
+    },
+    {
+     "key": "kr-2022-voc-관광-서비스:[관서 03-01]",
+     "code": "[관서 03-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 서비스",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "이미지 메이킹",
+     "summary": "이미지 메이킹의 개념과 중요성을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관서 03-01]",
+      "pdfPage": 66,
+      "printedPage": null,
+      "section": "관광 서비스 > 이미지 메이킹",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.78d771619964bc4d1016"
+    },
+    {
+     "key": "kr-2022-voc-관광-서비스:[관서 03-02]",
+     "code": "[관서 03-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 서비스",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "이미지 메이킹",
+     "summary": "관광 서비스 종사자에게 적합한 용모, 복장, 메이크업 방법을 수행하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관서 03-02]",
+      "pdfPage": 66,
+      "printedPage": null,
+      "section": "관광 서비스 > 이미지 메이킹",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.6d46af5f64be35032c00"
+    },
+    {
+     "key": "kr-2022-voc-관광-서비스:[관서 04-01]",
+     "code": "[관서 04-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 서비스",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 서비스 매너",
+     "summary": "관광 종사자가 갖추어야 할 매너와 에티켓을 익혀 기본 매너와 에티켓을 갖춘 서비스를 수행 하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관서 04-01]",
+      "pdfPage": 66,
+      "printedPage": null,
+      "section": "관광 서비스 > 관광 서비스 매너",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.18a4577fe21a96088194"
+    },
+    {
+     "key": "kr-2022-voc-관광-서비스:[관서 04-02]",
+     "code": "[관서 04-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 서비스",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 서비스 매너",
+     "summary": "인사 매너의 중요성 및 인사 종류와 방법을 인식하고 상황에 맞는 인사 매너를 수행하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관서 04-02]",
+      "pdfPage": 66,
+      "printedPage": null,
+      "section": "관광 서비스 > 관광 서비스 매너",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.8ab73d9a3b36cb0c697f"
+    },
+    {
+     "key": "kr-2022-voc-관광-서비스:[관서 04-03]",
+     "code": "[관서 04-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 서비스",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 서비스 매너",
+     "summary": "커뮤니케이션 서비스의 중요성 및 바른 대화 서비스, 대화의 요령, 바른 호칭 및 전화 응대 방법을 익혀 상황에 맞게 커뮤니케이션 매너를 수행하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관서 04-03]",
+      "pdfPage": 66,
+      "printedPage": null,
+      "section": "관광 서비스 > 관광 서비스 매너",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.51906f97efd0091778d0"
+    },
+    {
+     "key": "kr-2022-voc-관광-서비스:[관서 04-04]",
+     "code": "[관서 04-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 서비스",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 서비스 매너",
+     "summary": "의전의 개념과 의전 업무 및 행사의 구성을 설명하고, 상황에 맞는 의전 매너를 수행하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관서 04-04]",
+      "pdfPage": 66,
+      "printedPage": null,
+      "section": "관광 서비스 > 관광 서비스 매너",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.9d9e91a14bf4684b35a9"
+    },
+    {
+     "key": "kr-2022-voc-관광-서비스:[관서 04-05]",
+     "code": "[관서 04-05]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 서비스",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 서비스 매너",
+     "summary": "주요 국가의 서비스 문화, 인사 및 의전 예절을 익혀 나라별로 적합한 서비스를 수행하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관서 04-05]",
+      "pdfPage": 66,
+      "printedPage": null,
+      "section": "관광 서비스 > 관광 서비스 매너",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.c19a5b23d32a665b4ae6"
+    },
+    {
+     "key": "kr-2022-voc-관광-서비스:[관서 05-01]",
+     "code": "[관서 05-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 서비스",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 고객 불평 관리",
+     "summary": "고객의 불평 원인과 불평 관리의 중요성을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관서 05-01]",
+      "pdfPage": 66,
+      "printedPage": null,
+      "section": "관광 서비스 > 관광 고객 불평 관리",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.0ea951dfed1ec01cd3ff"
+    },
+    {
+     "key": "kr-2022-voc-관광-서비스:[관서 05-02]",
+     "code": "[관서 05-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 서비스",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 고객 불평 관리",
+     "summary": "고객 불평 대처 방법을 익혀 고객 불평에 잘 대처하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관서 05-02]",
+      "pdfPage": 66,
+      "printedPage": null,
+      "section": "관광 서비스 > 관광 고객 불평 관리",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.4fdfc4ea2841fd7e1826"
+    },
+    {
+     "key": "kr-2022-voc-관광-서비스:[관서 06-01]",
+     "code": "[관서 06-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 서비스",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 서비스 직업 윤리 및 안전 관리",
+     "summary": "관광 종사자의 직업 윤리 내용을 실생활에 적용하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관서 06-01]",
+      "pdfPage": 66,
+      "printedPage": null,
+      "section": "관광 서비스 > 관광 서비스 직업 윤리 및 안전 관리",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.0d07bfdbe46764282db2"
+    },
+    {
+     "key": "kr-2022-voc-관광-서비스:[관서 06-02]",
+     "code": "[관서 06-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 서비스",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 서비스 직업 윤리 및 안전 관리",
+     "summary": "관광 종사자의 위생 및 안전 관리를 절차에 따라 수행하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관서 06-02]",
+      "pdfPage": 66,
+      "printedPage": null,
+      "section": "관광 서비스 > 관광 서비스 직업 윤리 및 안전 관리",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.0b101cf0ff9cf1027528"
+    },
+    {
+     "key": "kr-2022-voc-관광-서비스:[관서 06-03]",
+     "code": "[관서 06-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 서비스",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 서비스 직업 윤리 및 안전 관리",
+     "summary": "정보 보안 및 개인 정보 보호를 절차에 따라 수행하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관서 06-03]",
+      "pdfPage": 66,
+      "printedPage": null,
+      "section": "관광 서비스 > 관광 서비스 직업 윤리 및 안전 관리",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.398ce60491a3f5f5383d"
+    }
+   ]
+  },
+  {
+   "id": "kr-2022-voc-관광-영어",
+   "subjectKorean": "관광 영어",
+   "majorFieldSlug": "tourism-leisure",
+   "subjectGroupKorean": "관광·레저",
+   "courseCategory": "major-general",
+   "gradeBand": "10-12",
+   "name": "관광 영어 2022 개정 전문교과 교육과정",
+   "deck6CourseId": "kr.course.2022.high.c720831d3f3eaf65",
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ],
+   "standardCount": 20,
+   "standards": [
+    {
+     "key": "kr-2022-voc-관광-영어:[관영 01-01]",
+     "code": "[관영 01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 영어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 기초 회화",
+     "summary": "외국인 관광객을 대상으로 인사와 소개를 영어로 표현하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관영 01-01]",
+      "pdfPage": 72,
+      "printedPage": null,
+      "section": "관광 영어 > 관광 기초 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.543d9b9f035abf6b0a23"
+    },
+    {
+     "key": "kr-2022-voc-관광-영어:[관영 01-02]",
+     "code": "[관영 01-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 영어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 기초 회화",
+     "summary": "외국인 관광객을 대상으로 날짜와 시간, 숫자를 영어로 표현하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관영 01-02]",
+      "pdfPage": 72,
+      "printedPage": null,
+      "section": "관광 영어 > 관광 기초 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.a9c2e1a31d57d774875f"
+    },
+    {
+     "key": "kr-2022-voc-관광-영어:[관영 01-03]",
+     "code": "[관영 01-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 영어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 기초 회화",
+     "summary": "외국인 관광객을 대상으로 위치와 길 안내를 영어로 표현하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관영 01-03]",
+      "pdfPage": 72,
+      "printedPage": null,
+      "section": "관광 영어 > 관광 기초 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.0a6e7060d68e0faa6136"
+    },
+    {
+     "key": "kr-2022-voc-관광-영어:[관영 02-01]",
+     "code": "[관영 02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 영어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "여행 서비스 회화",
+     "summary": "외국인 관광객을 대상으로 여행 상품을 영어로 설명하고 추천하며, 예약 업무를 수행하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관영 02-01]",
+      "pdfPage": 72,
+      "printedPage": null,
+      "section": "관광 영어 > 여행 서비스 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.c0986a54e08f64b8e048"
+    },
+    {
+     "key": "kr-2022-voc-관광-영어:[관영 02-02]",
+     "code": "[관영 02-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 영어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "여행 서비스 회화",
+     "summary": "외국인 관광객을 대상으로 공항에서 영어로 환영하고, 환송하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관영 02-02]",
+      "pdfPage": 72,
+      "printedPage": null,
+      "section": "관광 영어 > 여행 서비스 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.7fb7b610228ce35eff6f"
+    },
+    {
+     "key": "kr-2022-voc-관광-영어:[관영 02-03]",
+     "code": "[관영 02-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 영어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "여행 서비스 회화",
+     "summary": "외국인 관광객을 대상으로 체크인, 출국 심사, 입국 심사 등의 지원을 영어로 수행하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관영 02-03]",
+      "pdfPage": 72,
+      "printedPage": null,
+      "section": "관광 영어 > 여행 서비스 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.00af4ad4323725ede502"
+    },
+    {
+     "key": "kr-2022-voc-관광-영어:[관영 02-04]",
+     "code": "[관영 02-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 영어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "여행 서비스 회화",
+     "summary": "외국인 관광객을 대상으로 여행 서비스 상황에서 발생할 수 있는 고객 불편 사항에 영어로 응대하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관영 02-04]",
+      "pdfPage": 72,
+      "printedPage": null,
+      "section": "관광 영어 > 여행 서비스 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.8f45b1f2bbf9ad610a44"
+    },
+    {
+     "key": "kr-2022-voc-관광-영어:[관영 03-01]",
+     "code": "[관영 03-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 영어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "호텔 서비스 회화",
+     "summary": "외국인 관광객을 대상으로 호텔 객실 예약에 대한 응대를 영어로 수행하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관영 03-01]",
+      "pdfPage": 73,
+      "printedPage": null,
+      "section": "관광 영어 > 호텔 서비스 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.af9df8ecafbd0ee662ac"
+    },
+    {
+     "key": "kr-2022-voc-관광-영어:[관영 03-02]",
+     "code": "[관영 03-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 영어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "호텔 서비스 회화",
+     "summary": "외국인 관광객을 대상으로 호텔 체크인 및 체크아웃에 대한 응대를 영어로 수행하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관영 03-02]",
+      "pdfPage": 73,
+      "printedPage": null,
+      "section": "관광 영어 > 호텔 서비스 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.8bdc847dc3a64f592dbf"
+    },
+    {
+     "key": "kr-2022-voc-관광-영어:[관영 03-03]",
+     "code": "[관영 03-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 영어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "호텔 서비스 회화",
+     "summary": "외국인 관광객을 대상으로 호텔 서비스 상황에서 발생할 수 있는 고객 불편 사항에 영어로 응대하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관영 03-03]",
+      "pdfPage": 73,
+      "printedPage": null,
+      "section": "관광 영어 > 호텔 서비스 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.93d7b8c3ab36e5972535"
+    },
+    {
+     "key": "kr-2022-voc-관광-영어:[관영 04-01]",
+     "code": "[관영 04-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 영어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "식음료 서비스 회화",
+     "summary": "외국인 관광객을 대상으로 식음료 업장에서 자리 안내와 주문 응대를 영어로 수행하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관영 04-01]",
+      "pdfPage": 73,
+      "printedPage": null,
+      "section": "관광 영어 > 식음료 서비스 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.0fcb78e6b2e802301aaa"
+    },
+    {
+     "key": "kr-2022-voc-관광-영어:[관영 04-02]",
+     "code": "[관영 04-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 영어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "식음료 서비스 회화",
+     "summary": "외국인 관광객을 대상으로 식음료 업장에서 식음료 제공, 계산 및 환송 업무를 영어로 수행하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관영 04-02]",
+      "pdfPage": 73,
+      "printedPage": null,
+      "section": "관광 영어 > 식음료 서비스 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.c41524da8219ab841344"
+    },
+    {
+     "key": "kr-2022-voc-관광-영어:[관영 04-03]",
+     "code": "[관영 04-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 영어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "식음료 서비스 회화",
+     "summary": "외국인 관광객을 대상으로 식음료 서비스 상황에서 발생할 수 있는 고객 불편 사항에 영어로 응대하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관영 04-03]",
+      "pdfPage": 73,
+      "printedPage": null,
+      "section": "관광 영어 > 식음료 서비스 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.e02eb7cd34ed2df801d2"
+    },
+    {
+     "key": "kr-2022-voc-관광-영어:[관영 05-01]",
+     "code": "[관영 05-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 영어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 상품 판매 회화",
+     "summary": "외국인 관광객을 대상으로 상품을 영어로 설명하고, 추천하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관영 05-01]",
+      "pdfPage": 73,
+      "printedPage": null,
+      "section": "관광 영어 > 관광 상품 판매 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.bcec4baf479551922a89"
+    },
+    {
+     "key": "kr-2022-voc-관광-영어:[관영 05-02]",
+     "code": "[관영 05-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 영어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 상품 판매 회화",
+     "summary": "외국인 관광객을 대상으로 결제・교환・환불 업무를 영어로 수행하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관영 05-02]",
+      "pdfPage": 73,
+      "printedPage": null,
+      "section": "관광 영어 > 관광 상품 판매 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.f2a1c2890afa7955421c"
+    },
+    {
+     "key": "kr-2022-voc-관광-영어:[관영 05-03]",
+     "code": "[관영 05-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 영어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 상품 판매 회화",
+     "summary": "외국인 관광객을 대상으로 판매 서비스 상황에서 발생할 수 있는 고객 불편 사항에 영어로 응대하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관영 05-03]",
+      "pdfPage": 73,
+      "printedPage": null,
+      "section": "관광 영어 > 관광 상품 판매 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.c8fa6e571bfd2443790e"
+    },
+    {
+     "key": "kr-2022-voc-관광-영어:[관영 06-01]",
+     "code": "[관영 06-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 영어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 안내 및 해설 업무",
+     "summary": "외국인 관광객을 대상으로 한국 전통문화를 영어로 소개하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관영 06-01]",
+      "pdfPage": 73,
+      "printedPage": null,
+      "section": "관광 영어 > 관광 안내 및 해설 업무",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.27c241e112fbff9df0fc"
+    },
+    {
+     "key": "kr-2022-voc-관광-영어:[관영 06-02]",
+     "code": "[관영 06-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 영어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 안내 및 해설 업무",
+     "summary": "외국인 관광객을 대상으로 한국 현대 문화를 영어로 소개하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관영 06-02]",
+      "pdfPage": 73,
+      "printedPage": null,
+      "section": "관광 영어 > 관광 안내 및 해설 업무",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.4b4b6ddd2b6641e52c3e"
+    },
+    {
+     "key": "kr-2022-voc-관광-영어:[관영 06-03]",
+     "code": "[관영 06-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 영어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 안내 및 해설 업무",
+     "summary": "외국인 관광객을 대상으로 한국 세계 유산을 영어로 안내하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관영 06-03]",
+      "pdfPage": 73,
+      "printedPage": null,
+      "section": "관광 영어 > 관광 안내 및 해설 업무",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.62ef782e25497711f693"
+    },
+    {
+     "key": "kr-2022-voc-관광-영어:[관영 06-04]",
+     "code": "[관영 06-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 영어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 안내 및 해설 업무",
+     "summary": "외국인 관광객을 대상으로 관광지를 영어로 해설 및 안내하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관영 06-04]",
+      "pdfPage": 73,
+      "printedPage": null,
+      "section": "관광 영어 > 관광 안내 및 해설 업무",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.2fef9430fd12aa7c656b"
+    }
+   ]
+  },
+  {
+   "id": "kr-2022-voc-관광-일반",
+   "subjectKorean": "관광 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "subjectGroupKorean": "관광·레저",
+   "courseCategory": "major-general",
+   "gradeBand": "10-12",
+   "name": "관광 일반 2022 개정 전문교과 교육과정",
+   "deck6CourseId": "kr.course.2022.high.bee2f040541f5197",
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ],
+   "standardCount": 23,
+   "standards": [
+    {
+     "key": "kr-2022-voc-관광-일반:[관일 01-01]",
+     "code": "[관일 01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광의 이해",
+     "summary": "관광의 개념을 설명하고, 관광을 분류하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관일 01-01]",
+      "pdfPage": 57,
+      "printedPage": null,
+      "section": "관광 일반 > 관광의 이해",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.57f9fa144298dbf1cca1"
+    },
+    {
+     "key": "kr-2022-voc-관광-일반:[관일 01-02]",
+     "code": "[관일 01-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광의 이해",
+     "summary": "관광의 발전 과정을 통해 관광의 현황과 관광 산업의 변화 동향에 대해 토론하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관일 01-02]",
+      "pdfPage": 57,
+      "printedPage": null,
+      "section": "관광 일반 > 관광의 이해",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.12f84b7c06f094f105cf"
+    },
+    {
+     "key": "kr-2022-voc-관광-일반:[관일 01-03]",
+     "code": "[관일 01-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광의 이해",
+     "summary": "관광의 기본적 구성 요소를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관일 01-03]",
+      "pdfPage": 57,
+      "printedPage": null,
+      "section": "관광 일반 > 관광의 이해",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.329c0f149a705c10696e"
+    },
+    {
+     "key": "kr-2022-voc-관광-일반:[관일 01-04]",
+     "code": "[관일 01-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광의 이해",
+     "summary": "관광객의 개념과 유형별 특징을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관일 01-04]",
+      "pdfPage": 57,
+      "printedPage": null,
+      "section": "관광 일반 > 관광의 이해",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.a0147ba94991490edc88"
+    },
+    {
+     "key": "kr-2022-voc-관광-일반:[관일 01-05]",
+     "code": "[관일 01-05]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광의 이해",
+     "summary": "관광의 긍정적인 효과와 부정적인 영향에 대해 토론하고 발표하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관일 01-05]",
+      "pdfPage": 57,
+      "printedPage": null,
+      "section": "관광 일반 > 관광의 이해",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.1f1717d0fca5fe4a848b"
+    },
+    {
+     "key": "kr-2022-voc-관광-일반:[관일 02-01]",
+     "code": "[관일 02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 대상",
+     "summary": "관광과 문화의 상관관계에 대해 탐색하고, 문화의 다양성에 대해 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관일 02-01]",
+      "pdfPage": 57,
+      "printedPage": null,
+      "section": "관광 일반 > 관광 대상",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.00410f1ae6d203c8d9eb"
+    },
+    {
+     "key": "kr-2022-voc-관광-일반:[관일 02-02]",
+     "code": "[관일 02-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 대상",
+     "summary": "관광과 환경의 상관관계에 대해 탐색하고, 관광이 환경에 미치는 영향에 대해 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관일 02-02]",
+      "pdfPage": 57,
+      "printedPage": null,
+      "section": "관광 일반 > 관광 대상",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.653e875d0359abfc1d33"
+    },
+    {
+     "key": "kr-2022-voc-관광-일반:[관일 02-03]",
+     "code": "[관일 02-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 대상",
+     "summary": "관광 자원과 관광 개발의 현황을 분석하고, 관광 자원 및 관광 개발의 사례를 발표하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관일 02-03]",
+      "pdfPage": 57,
+      "printedPage": null,
+      "section": "관광 일반 > 관광 대상",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.38e6f578a0fa4f0c389e"
+    },
+    {
+     "key": "kr-2022-voc-관광-일반:[관일 02-04]",
+     "code": "[관일 02-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 대상",
+     "summary": "유네스코 유산을 세계 유산, 무형 문화유산, 세계 기록 유산으로 분류하고, 한국의 유네스코 등재 유산 현황을 정리하여 발표하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관일 02-04]",
+      "pdfPage": 57,
+      "printedPage": null,
+      "section": "관광 일반 > 관광 대상",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.bd1957e9b3c28d13d343"
+    },
+    {
+     "key": "kr-2022-voc-관광-일반:[관일 02-05]",
+     "code": "[관일 02-05]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 대상",
+     "summary": "해설 관광 자원에 따라 고객들에게 전달할 핵심 스토리를 발굴하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관일 02-05]",
+      "pdfPage": 57,
+      "printedPage": null,
+      "section": "관광 일반 > 관광 대상",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.9fb453b288802607b44a"
+    },
+    {
+     "key": "kr-2022-voc-관광-일반:[관일 03-01]",
+     "code": "[관일 03-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 사업",
+     "summary": "관광진흥법에 규정한 관광 사업의 개념과 종류를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관일 03-01]",
+      "pdfPage": 58,
+      "printedPage": null,
+      "section": "관광 일반 > 관광 사업",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.42078f0d4d8371c98b52"
+    },
+    {
+     "key": "kr-2022-voc-관광-일반:[관일 03-02]",
+     "code": "[관일 03-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 사업",
+     "summary": "여행업의 개념과 종류 및 특징을 조사하여 발표하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관일 03-02]",
+      "pdfPage": 58,
+      "printedPage": null,
+      "section": "관광 일반 > 관광 사업",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.c0ea72839108066f8330"
+    },
+    {
+     "key": "kr-2022-voc-관광-일반:[관일 03-03]",
+     "code": "[관일 03-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 사업",
+     "summary": "관광숙박업의 개념과 종류 및 특징을 조사하여 발표하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관일 03-03]",
+      "pdfPage": 58,
+      "printedPage": null,
+      "section": "관광 일반 > 관광 사업",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.54b4376ab7918601e0e4"
+    },
+    {
+     "key": "kr-2022-voc-관광-일반:[관일 03-04]",
+     "code": "[관일 03-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 사업",
+     "summary": "관광객 이용시설업, 관광객 편의시설업, 유원시설업의 개념과 종류를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관일 03-04]",
+      "pdfPage": 58,
+      "printedPage": null,
+      "section": "관광 일반 > 관광 사업",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.f4a3e9e60f84f40a7d24"
+    },
+    {
+     "key": "kr-2022-voc-관광-일반:[관일 03-05]",
+     "code": "[관일 03-05]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 사업",
+     "summary": "국제회의업의 개념과 구성 요소를 설명하고, 직업적 특징을 발표하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관일 03-05]",
+      "pdfPage": 58,
+      "printedPage": null,
+      "section": "관광 일반 > 관광 사업",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.411a946fde32734afac9"
+    },
+    {
+     "key": "kr-2022-voc-관광-일반:[관일 03-06]",
+     "code": "[관일 03-06]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 사업",
+     "summary": "카지노업의 종류와 테이블 게임의 규칙을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관일 03-06]",
+      "pdfPage": 58,
+      "printedPage": null,
+      "section": "관광 일반 > 관광 사업",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.fe6eaf4c9e79af8a8dfb"
+    },
+    {
+     "key": "kr-2022-voc-관광-일반:[관일 03-07]",
+     "code": "[관일 03-07]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 사업",
+     "summary": "관광진흥법상의 관광 사업 이외의 관광 관련 사업에 대해 조사하여 발표하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관일 03-07]",
+      "pdfPage": 58,
+      "printedPage": null,
+      "section": "관광 일반 > 관광 사업",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.550ae825ef151f5826e6"
+    },
+    {
+     "key": "kr-2022-voc-관광-일반:[관일 04-01]",
+     "code": "[관일 04-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광과 정보",
+     "summary": "관광 시장, 관광 산업, 관광 자원의 환경 변화를 분석하고 발표하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관일 04-01]",
+      "pdfPage": 58,
+      "printedPage": null,
+      "section": "관광 일반 > 관광과 정보",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.3e5275eac96b6bb0df95"
+    },
+    {
+     "key": "kr-2022-voc-관광-일반:[관일 04-02]",
+     "code": "[관일 04-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광과 정보",
+     "summary": "디지털 기술 기반의 스마트 관광의 개념과 스마트 관광 콘텐츠를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관일 04-02]",
+      "pdfPage": 58,
+      "printedPage": null,
+      "section": "관광 일반 > 관광과 정보",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.e4fd0ff2a692544d03dd"
+    },
+    {
+     "key": "kr-2022-voc-관광-일반:[관일 04-03]",
+     "code": "[관일 04-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광과 정보",
+     "summary": "디지털 관광 콘텐츠를 활용한 스마트 관광 서비스의 사례를 검색하여 발표하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관일 04-03]",
+      "pdfPage": 58,
+      "printedPage": null,
+      "section": "관광 일반 > 관광과 정보",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.1ddfc8e6aa9493b62ebe"
+    },
+    {
+     "key": "kr-2022-voc-관광-일반:[관일 04-04]",
+     "code": "[관일 04-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광과 정보",
+     "summary": "관광 산업에서 활용되고 있는 관광 정보 시스템을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관일 04-04]",
+      "pdfPage": 58,
+      "printedPage": null,
+      "section": "관광 일반 > 관광과 정보",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.b5ad9e0d760ce7899a0a"
+    },
+    {
+     "key": "kr-2022-voc-관광-일반:[관일 05-01]",
+     "code": "[관일 05-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광법과 행정 기구",
+     "summary": "관광 종사자로서 알아야 할 관광 법규의 종류를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관일 05-01]",
+      "pdfPage": 58,
+      "printedPage": null,
+      "section": "관광 일반 > 관광법과 행정 기구",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.6355c7671ebae558e482"
+    },
+    {
+     "key": "kr-2022-voc-관광-일반:[관일 05-02]",
+     "code": "[관일 05-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광법과 행정 기구",
+     "summary": "관광 관련 국내외 행정 기관과 단체를 탐색하고, 그 주요 활동을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관일 05-02]",
+      "pdfPage": 58,
+      "printedPage": null,
+      "section": "관광 일반 > 관광법과 행정 기구",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.738dd57aa4cc2d6668bd"
+    }
+   ]
+  },
+  {
+   "id": "kr-2022-voc-관광-일본어",
+   "subjectKorean": "관광 일본어",
+   "majorFieldSlug": "tourism-leisure",
+   "subjectGroupKorean": "관광·레저",
+   "courseCategory": "major-general",
+   "gradeBand": "10-12",
+   "name": "관광 일본어 2022 개정 전문교과 교육과정",
+   "deck6CourseId": "kr.course.2022.high.7d8398502139c53a",
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ],
+   "standardCount": 20,
+   "standards": [
+    {
+     "key": "kr-2022-voc-관광-일본어:[관어 01-01]",
+     "code": "[관어 01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일본어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 기초 회화",
+     "summary": "외국인 관광객을 대상으로 인사와 소개를 일본어로 표현하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관어 01-01]",
+      "pdfPage": 80,
+      "printedPage": null,
+      "section": "관광 일본어 > 관광 기초 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.3ce449ae129fb1153415"
+    },
+    {
+     "key": "kr-2022-voc-관광-일본어:[관어 01-02]",
+     "code": "[관어 01-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일본어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 기초 회화",
+     "summary": "외국인 관광객을 대상으로 날짜와 시간, 숫자를 일본어로 표현하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관어 01-02]",
+      "pdfPage": 80,
+      "printedPage": null,
+      "section": "관광 일본어 > 관광 기초 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.dd5c11ddd0c9ccba1ddc"
+    },
+    {
+     "key": "kr-2022-voc-관광-일본어:[관어 01-03]",
+     "code": "[관어 01-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일본어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 기초 회화",
+     "summary": "외국인 관광객을 대상으로 위치와 길 안내를 일본어로 표현하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관어 01-03]",
+      "pdfPage": 80,
+      "printedPage": null,
+      "section": "관광 일본어 > 관광 기초 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.ac9b46b2270c25e7e167"
+    },
+    {
+     "key": "kr-2022-voc-관광-일본어:[관어 02-01]",
+     "code": "[관어 02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일본어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "여행 서비스 회화",
+     "summary": "외국인 관광객을 대상으로 여행 상품을 일본어로 설명하고 추천하며, 예약 업무를 수행하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관어 02-01]",
+      "pdfPage": 80,
+      "printedPage": null,
+      "section": "관광 일본어 > 여행 서비스 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.36b0b23812b8f25acfb9"
+    },
+    {
+     "key": "kr-2022-voc-관광-일본어:[관어 02-02]",
+     "code": "[관어 02-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일본어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "여행 서비스 회화",
+     "summary": "외국인 관광객을 대상으로 공항에서 일본어로 환영하고 환송하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관어 02-02]",
+      "pdfPage": 80,
+      "printedPage": null,
+      "section": "관광 일본어 > 여행 서비스 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.a9e8cc95fc59cb34e9d7"
+    },
+    {
+     "key": "kr-2022-voc-관광-일본어:[관어 02-03]",
+     "code": "[관어 02-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일본어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "여행 서비스 회화",
+     "summary": "외국인 관광객을 대상으로 체크인, 출국 심사, 입국 심사 등의 지원을 일본어로 수행하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관어 02-03]",
+      "pdfPage": 80,
+      "printedPage": null,
+      "section": "관광 일본어 > 여행 서비스 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.e246bc08fefbb37f7673"
+    },
+    {
+     "key": "kr-2022-voc-관광-일본어:[관어 02-04]",
+     "code": "[관어 02-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일본어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "여행 서비스 회화",
+     "summary": "외국인 관광객을 대상으로 여행 서비스 상황에서 발생할 수 있는 고객 불편 사항에 일본어로 응대하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관어 02-04]",
+      "pdfPage": 80,
+      "printedPage": null,
+      "section": "관광 일본어 > 여행 서비스 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.6251297c84c9e099c5e3"
+    },
+    {
+     "key": "kr-2022-voc-관광-일본어:[관어 03-01]",
+     "code": "[관어 03-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일본어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "호텔 서비스 회화",
+     "summary": "외국인 관광객을 대상으로 호텔 객실 예약에 대한 응대를 일본어로 수행하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관어 03-01]",
+      "pdfPage": 81,
+      "printedPage": null,
+      "section": "관광 일본어 > 호텔 서비스 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.bb54bc63c9c78b9574f0"
+    },
+    {
+     "key": "kr-2022-voc-관광-일본어:[관어 03-02]",
+     "code": "[관어 03-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일본어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "호텔 서비스 회화",
+     "summary": "외국인 관광객을 대상으로 호텔 체크인 및 체크아웃에 대한 응대를 일본어로 수행하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관어 03-02]",
+      "pdfPage": 81,
+      "printedPage": null,
+      "section": "관광 일본어 > 호텔 서비스 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.c58b02d408e4ac2e8a19"
+    },
+    {
+     "key": "kr-2022-voc-관광-일본어:[관어 03-03]",
+     "code": "[관어 03-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일본어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "호텔 서비스 회화",
+     "summary": "외국인 관광객을 대상으로 호텔 서비스 상황에서 발생할 수 있는 고객 불편 사항에 일본어로 응대하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관어 03-03]",
+      "pdfPage": 81,
+      "printedPage": null,
+      "section": "관광 일본어 > 호텔 서비스 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.04924040e7ed5f6fa320"
+    },
+    {
+     "key": "kr-2022-voc-관광-일본어:[관어 04-01]",
+     "code": "[관어 04-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일본어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "식음료 서비스 회화",
+     "summary": "외국인 관광객을 대상으로 식음료 업장에서 자리 안내와 주문 응대를 일본어로 수행하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관어 04-01]",
+      "pdfPage": 81,
+      "printedPage": null,
+      "section": "관광 일본어 > 식음료 서비스 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.5097467a0d6437fffce2"
+    },
+    {
+     "key": "kr-2022-voc-관광-일본어:[관어 04-02]",
+     "code": "[관어 04-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일본어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "식음료 서비스 회화",
+     "summary": "외국인 관광객을 대상으로 식음료 업장에서 식음료 제공, 계산 및 환송 업무를 일본어로 수행 하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관어 04-02]",
+      "pdfPage": 81,
+      "printedPage": null,
+      "section": "관광 일본어 > 식음료 서비스 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.eb195d479d531dfbcd2b"
+    },
+    {
+     "key": "kr-2022-voc-관광-일본어:[관어 04-03]",
+     "code": "[관어 04-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일본어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "식음료 서비스 회화",
+     "summary": "외국인 관광객을 대상으로 식음료 서비스 상황에서 발생할 수 있는 고객 불편 사항에 일본어 로 응대하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관어 04-03]",
+      "pdfPage": 81,
+      "printedPage": null,
+      "section": "관광 일본어 > 식음료 서비스 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.de0be89a70ce9d4711c7"
+    },
+    {
+     "key": "kr-2022-voc-관광-일본어:[관어 05-01]",
+     "code": "[관어 05-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일본어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 상품 판매 회화",
+     "summary": "외국인 관광객을 대상으로 상품을 일본어로 설명하고, 추천하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관어 05-01]",
+      "pdfPage": 81,
+      "printedPage": null,
+      "section": "관광 일본어 > 관광 상품 판매 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.cfd77c149de9128a148b"
+    },
+    {
+     "key": "kr-2022-voc-관광-일본어:[관어 05-02]",
+     "code": "[관어 05-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일본어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 상품 판매 회화",
+     "summary": "외국인 관광객을 대상으로 결제・교환・환불 업무를 일본어로 수행하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관어 05-02]",
+      "pdfPage": 81,
+      "printedPage": null,
+      "section": "관광 일본어 > 관광 상품 판매 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.afb34c29a10d24d9d140"
+    },
+    {
+     "key": "kr-2022-voc-관광-일본어:[관어 05-03]",
+     "code": "[관어 05-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일본어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 상품 판매 회화",
+     "summary": "외국인 관광객을 대상으로 판매 서비스 상황에서 발생할 수 있는 고객 불편 사항에 일본어로 응대하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관어 05-03]",
+      "pdfPage": 81,
+      "printedPage": null,
+      "section": "관광 일본어 > 관광 상품 판매 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.0112fd84963cf5afc77c"
+    },
+    {
+     "key": "kr-2022-voc-관광-일본어:[관어 06-01]",
+     "code": "[관어 06-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일본어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 안내 및 해설 업무",
+     "summary": "외국인 관광객을 대상으로 한국 전통문화를 일본어로 소개하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관어 06-01]",
+      "pdfPage": 81,
+      "printedPage": null,
+      "section": "관광 일본어 > 관광 안내 및 해설 업무",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.c83f423927f693acad86"
+    },
+    {
+     "key": "kr-2022-voc-관광-일본어:[관어 06-02]",
+     "code": "[관어 06-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일본어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 안내 및 해설 업무",
+     "summary": "외국인 관광객을 대상으로 한국 현대 문화를 일본어로 소개하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관어 06-02]",
+      "pdfPage": 81,
+      "printedPage": null,
+      "section": "관광 일본어 > 관광 안내 및 해설 업무",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.962bd7892a10158aeea8"
+    },
+    {
+     "key": "kr-2022-voc-관광-일본어:[관어 06-03]",
+     "code": "[관어 06-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일본어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 안내 및 해설 업무",
+     "summary": "외국인 관광객을 대상으로 한국 세계 유산을 일본어로 안내하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관어 06-03]",
+      "pdfPage": 81,
+      "printedPage": null,
+      "section": "관광 일본어 > 관광 안내 및 해설 업무",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.55238e4814c7108684c5"
+    },
+    {
+     "key": "kr-2022-voc-관광-일본어:[관어 06-04]",
+     "code": "[관어 06-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 일본어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 안내 및 해설 업무",
+     "summary": "외국인 관광객을 대상으로 관광지를 일본어로 해설 및 안내하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관어 06-04]",
+      "pdfPage": 81,
+      "printedPage": null,
+      "section": "관광 일본어 > 관광 안내 및 해설 업무",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.e83f4538f16d1e7f6895"
+    }
+   ]
+  },
+  {
+   "id": "kr-2022-voc-관광-중국어",
+   "subjectKorean": "관광 중국어",
+   "majorFieldSlug": "tourism-leisure",
+   "subjectGroupKorean": "관광·레저",
+   "courseCategory": "major-general",
+   "gradeBand": "10-12",
+   "name": "관광 중국어 2022 개정 전문교과 교육과정",
+   "deck6CourseId": "kr.course.2022.high.42d01be98fec37c8",
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ],
+   "standardCount": 20,
+   "standards": [
+    {
+     "key": "kr-2022-voc-관광-중국어:[관중 01-01]",
+     "code": "[관중 01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 중국어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 기초 회화",
+     "summary": "외국인 관광객을 대상으로 인사와 소개를 중국어로 표현하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관중 01-01]",
+      "pdfPage": 88,
+      "printedPage": null,
+      "section": "관광 중국어 > 관광 기초 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.269f001fb70eb1c39923"
+    },
+    {
+     "key": "kr-2022-voc-관광-중국어:[관중 01-02]",
+     "code": "[관중 01-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 중국어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 기초 회화",
+     "summary": "외국인 관광객을 대상으로 날짜와 시간, 숫자를 중국어로 표현하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관중 01-02]",
+      "pdfPage": 88,
+      "printedPage": null,
+      "section": "관광 중국어 > 관광 기초 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.a6453bf1ae166691e1ee"
+    },
+    {
+     "key": "kr-2022-voc-관광-중국어:[관중 01-03]",
+     "code": "[관중 01-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 중국어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 기초 회화",
+     "summary": "외국인 관광객을 대상으로 위치와 길 안내를 중국어로 표현하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관중 01-03]",
+      "pdfPage": 88,
+      "printedPage": null,
+      "section": "관광 중국어 > 관광 기초 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.bcfcbab58cd393a33d8b"
+    },
+    {
+     "key": "kr-2022-voc-관광-중국어:[관중 02-01]",
+     "code": "[관중 02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 중국어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "여행 서비스 회화",
+     "summary": "외국인 관광객을 대상으로 여행 상품을 중국어로 설명하고 추천하며, 예약 업무를 수행하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관중 02-01]",
+      "pdfPage": 88,
+      "printedPage": null,
+      "section": "관광 중국어 > 여행 서비스 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.a0bbfa3c74e685433e47"
+    },
+    {
+     "key": "kr-2022-voc-관광-중국어:[관중 02-02]",
+     "code": "[관중 02-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 중국어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "여행 서비스 회화",
+     "summary": "외국인 관광객을 대상으로 공항에서 중국어로 환영하고 환송하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관중 02-02]",
+      "pdfPage": 88,
+      "printedPage": null,
+      "section": "관광 중국어 > 여행 서비스 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.863c0ed3beed26198fe5"
+    },
+    {
+     "key": "kr-2022-voc-관광-중국어:[관중 02-03]",
+     "code": "[관중 02-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 중국어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "여행 서비스 회화",
+     "summary": "외국인 관광객을 대상으로 체크인, 출국 심사, 입국 심사 등의 지원을 중국어로 수행하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관중 02-03]",
+      "pdfPage": 88,
+      "printedPage": null,
+      "section": "관광 중국어 > 여행 서비스 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.a109f88536d023a9ab74"
+    },
+    {
+     "key": "kr-2022-voc-관광-중국어:[관중 02-04]",
+     "code": "[관중 02-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 중국어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "여행 서비스 회화",
+     "summary": "외국인 관광객을 대상으로 여행 서비스 상황에서 발생할 수 있는 고객 불편 사항에 중국어로 응대하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관중 02-04]",
+      "pdfPage": 88,
+      "printedPage": null,
+      "section": "관광 중국어 > 여행 서비스 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.7f2c6129aeb696e2dc66"
+    },
+    {
+     "key": "kr-2022-voc-관광-중국어:[관중 03-01]",
+     "code": "[관중 03-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 중국어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "호텔 서비스 회화",
+     "summary": "외국인 관광객을 대상으로 호텔 객실 예약에 대한 응대를 중국어로 수행하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관중 03-01]",
+      "pdfPage": 89,
+      "printedPage": null,
+      "section": "관광 중국어 > 호텔 서비스 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.40b55bc8895c7e66459a"
+    },
+    {
+     "key": "kr-2022-voc-관광-중국어:[관중 03-02]",
+     "code": "[관중 03-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 중국어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "호텔 서비스 회화",
+     "summary": "외국인 관광객을 대상으로 호텔 체크인 및 체크아웃에 대한 응대를 중국어로 수행하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관중 03-02]",
+      "pdfPage": 89,
+      "printedPage": null,
+      "section": "관광 중국어 > 호텔 서비스 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.656be15500f1aea5c4c6"
+    },
+    {
+     "key": "kr-2022-voc-관광-중국어:[관중 03-03]",
+     "code": "[관중 03-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 중국어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "호텔 서비스 회화",
+     "summary": "외국인 관광객을 대상으로 호텔 서비스 상황에서 발생할 수 있는 고객 불편 사항에 중국어로 응대하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관중 03-03]",
+      "pdfPage": 89,
+      "printedPage": null,
+      "section": "관광 중국어 > 호텔 서비스 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.6c55a0f4b3d41d204bfc"
+    },
+    {
+     "key": "kr-2022-voc-관광-중국어:[관중 04-01]",
+     "code": "[관중 04-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 중국어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "식음료 서비스 회화",
+     "summary": "외국인 관광객을 대상으로 식음료 업장에서 자리 안내와 주문 응대를 중국어로 수행하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관중 04-01]",
+      "pdfPage": 89,
+      "printedPage": null,
+      "section": "관광 중국어 > 식음료 서비스 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.61fbceba340206ff1160"
+    },
+    {
+     "key": "kr-2022-voc-관광-중국어:[관중 04-02]",
+     "code": "[관중 04-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 중국어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "식음료 서비스 회화",
+     "summary": "외국인 관광객을 대상으로 식음료 업장에서 식음료 제공, 계산 및 환송 업무를 중국어로 수행 하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관중 04-02]",
+      "pdfPage": 89,
+      "printedPage": null,
+      "section": "관광 중국어 > 식음료 서비스 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.22938ebfa3f9057777b7"
+    },
+    {
+     "key": "kr-2022-voc-관광-중국어:[관중 04-03]",
+     "code": "[관중 04-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 중국어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "식음료 서비스 회화",
+     "summary": "외국인 관광객을 대상으로 식음료 서비스 상황에서 발생할 수 있는 고객 불편 사항에 중국어 로 응대하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관중 04-03]",
+      "pdfPage": 89,
+      "printedPage": null,
+      "section": "관광 중국어 > 식음료 서비스 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.aa5b97e7a93aaf558444"
+    },
+    {
+     "key": "kr-2022-voc-관광-중국어:[관중 05-01]",
+     "code": "[관중 05-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 중국어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 상품 판매 회화",
+     "summary": "외국인 관광객을 대상으로 상품을 중국어로 설명하고, 추천하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관중 05-01]",
+      "pdfPage": 89,
+      "printedPage": null,
+      "section": "관광 중국어 > 관광 상품 판매 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.35bdab5d6158098ceb91"
+    },
+    {
+     "key": "kr-2022-voc-관광-중국어:[관중 05-02]",
+     "code": "[관중 05-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 중국어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 상품 판매 회화",
+     "summary": "외국인 관광객을 대상으로 결제・교환・환불 업무를 중국어로 수행하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관중 05-02]",
+      "pdfPage": 89,
+      "printedPage": null,
+      "section": "관광 중국어 > 관광 상품 판매 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.4423717fe982f79fdfd5"
+    },
+    {
+     "key": "kr-2022-voc-관광-중국어:[관중 05-03]",
+     "code": "[관중 05-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 중국어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 상품 판매 회화",
+     "summary": "외국인 관광객을 대상으로 판매 서비스 상황에서 발생할 수 있는 고객 불편 사항에 중국어로 응대하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관중 05-03]",
+      "pdfPage": 89,
+      "printedPage": null,
+      "section": "관광 중국어 > 관광 상품 판매 회화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.675bfcd15b9ede5d881f"
+    },
+    {
+     "key": "kr-2022-voc-관광-중국어:[관중 06-01]",
+     "code": "[관중 06-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 중국어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 안내 및 해설 업무",
+     "summary": "외국인 관광객을 대상으로 한국 전통문화를 중국어로 소개하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관중 06-01]",
+      "pdfPage": 89,
+      "printedPage": null,
+      "section": "관광 중국어 > 관광 안내 및 해설 업무",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.5868827e404b132917cc"
+    },
+    {
+     "key": "kr-2022-voc-관광-중국어:[관중 06-02]",
+     "code": "[관중 06-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 중국어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 안내 및 해설 업무",
+     "summary": "외국인 관광객을 대상으로 한국 현대 문화를 중국어로 소개하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관중 06-02]",
+      "pdfPage": 89,
+      "printedPage": null,
+      "section": "관광 중국어 > 관광 안내 및 해설 업무",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.c4abf613ee40ded5d855"
+    },
+    {
+     "key": "kr-2022-voc-관광-중국어:[관중 06-03]",
+     "code": "[관중 06-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 중국어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 안내 및 해설 업무",
+     "summary": "외국인 관광객을 대상으로 한국 세계 유산을 중국어로 안내하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관중 06-03]",
+      "pdfPage": 89,
+      "printedPage": null,
+      "section": "관광 중국어 > 관광 안내 및 해설 업무",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.b5110d2c14720e58665a"
+    },
+    {
+     "key": "kr-2022-voc-관광-중국어:[관중 06-04]",
+     "code": "[관중 06-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 중국어",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 안내 및 해설 업무",
+     "summary": "외국인 관광객을 대상으로 관광지를 중국어로 해설 및 안내하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관중 06-04]",
+      "pdfPage": 89,
+      "printedPage": null,
+      "section": "관광 중국어 > 관광 안내 및 해설 업무",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.af88c16450bc00eda335"
+    }
+   ]
+  },
+  {
+   "id": "kr-2022-voc-관광-콘텐츠-개발",
+   "subjectKorean": "관광 콘텐츠 개발",
+   "majorFieldSlug": "tourism-leisure",
+   "subjectGroupKorean": "관광·레저",
+   "courseCategory": "major-general",
+   "gradeBand": "10-12",
+   "name": "관광 콘텐츠 개발 2022 개정 전문교과 교육과정",
+   "deck6CourseId": "kr.course.2022.high.0600d3a5ea7bf4de",
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ],
+   "standardCount": 15,
+   "standards": [
+    {
+     "key": "kr-2022-voc-관광-콘텐츠-개발:[관콘 01-01]",
+     "code": "[관콘 01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 콘텐츠 개발",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 콘텐츠 이해",
+     "summary": "관광 콘텐츠의 개념과 분류를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관콘 01-01]",
+      "pdfPage": 104,
+      "printedPage": null,
+      "section": "관광 콘텐츠 개발 > 관광 콘텐츠 이해",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.4153cadec61668322d73"
+    },
+    {
+     "key": "kr-2022-voc-관광-콘텐츠-개발:[관콘 01-02]",
+     "code": "[관콘 01-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 콘텐츠 개발",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 콘텐츠 이해",
+     "summary": "관광 콘텐츠의 중요성을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관콘 01-02]",
+      "pdfPage": 104,
+      "printedPage": null,
+      "section": "관광 콘텐츠 개발 > 관광 콘텐츠 이해",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.774d198b63ec25d41d35"
+    },
+    {
+     "key": "kr-2022-voc-관광-콘텐츠-개발:[관콘 01-03]",
+     "code": "[관콘 01-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 콘텐츠 개발",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 콘텐츠 이해",
+     "summary": "관광 콘텐츠의 환경 변화를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관콘 01-03]",
+      "pdfPage": 104,
+      "printedPage": null,
+      "section": "관광 콘텐츠 개발 > 관광 콘텐츠 이해",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.f4ba8b06b25bfa16a99c"
+    },
+    {
+     "key": "kr-2022-voc-관광-콘텐츠-개발:[관콘 02-01]",
+     "code": "[관콘 02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 콘텐츠 개발",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 콘텐츠 유형",
+     "summary": "국내 및 국외 관광 사업체의 관광 콘텐츠 활용 사례를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관콘 02-01]",
+      "pdfPage": 104,
+      "printedPage": null,
+      "section": "관광 콘텐츠 개발 > 관광 콘텐츠 유형",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.c39084c6eadbad4d7dc6"
+    },
+    {
+     "key": "kr-2022-voc-관광-콘텐츠-개발:[관콘 02-02]",
+     "code": "[관콘 02-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 콘텐츠 개발",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 콘텐츠 유형",
+     "summary": "민간 및 공공 부문의 관광 콘텐츠 활용 사례를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관콘 02-02]",
+      "pdfPage": 104,
+      "printedPage": null,
+      "section": "관광 콘텐츠 개발 > 관광 콘텐츠 유형",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.a22a4334e6b3d50af30b"
+    },
+    {
+     "key": "kr-2022-voc-관광-콘텐츠-개발:[관콘 03-01]",
+     "code": "[관콘 03-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 콘텐츠 개발",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 콘텐츠 기획",
+     "summary": "관광 콘텐츠 고객을 정의하고 시장 조사를 통해 트렌드를 파악하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관콘 03-01]",
+      "pdfPage": 105,
+      "printedPage": null,
+      "section": "관광 콘텐츠 개발 > 관광 콘텐츠 기획",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.98cf79f034c02e0bbd5a"
+    },
+    {
+     "key": "kr-2022-voc-관광-콘텐츠-개발:[관콘 03-02]",
+     "code": "[관콘 03-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 콘텐츠 개발",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 콘텐츠 기획",
+     "summary": "관광 콘텐츠 아이디어를 제시하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관콘 03-02]",
+      "pdfPage": 105,
+      "printedPage": null,
+      "section": "관광 콘텐츠 개발 > 관광 콘텐츠 기획",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.2ab11618690d8d066ecb"
+    },
+    {
+     "key": "kr-2022-voc-관광-콘텐츠-개발:[관콘 03-03]",
+     "code": "[관콘 03-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 콘텐츠 개발",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 콘텐츠 기획",
+     "summary": "관광 콘텐츠 기획서를 구성하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관콘 03-03]",
+      "pdfPage": 105,
+      "printedPage": null,
+      "section": "관광 콘텐츠 개발 > 관광 콘텐츠 기획",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.83ee812f4168bf7db1be"
+    },
+    {
+     "key": "kr-2022-voc-관광-콘텐츠-개발:[관콘 04-01]",
+     "code": "[관콘 04-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 콘텐츠 개발",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 콘텐츠 제작 실습",
+     "summary": "관광 콘텐츠 제작물 주제를 선정하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관콘 04-01]",
+      "pdfPage": 106,
+      "printedPage": null,
+      "section": "관광 콘텐츠 개발 > 관광 콘텐츠 제작 실습",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.5b50a9497c4af5933acf"
+    },
+    {
+     "key": "kr-2022-voc-관광-콘텐츠-개발:[관콘 04-02]",
+     "code": "[관콘 04-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 콘텐츠 개발",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 콘텐츠 제작 실습",
+     "summary": "관광 콘텐츠 제작물 자료를 찾아낼 수 있다",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관콘 04-02]",
+      "pdfPage": 106,
+      "printedPage": null,
+      "section": "관광 콘텐츠 개발 > 관광 콘텐츠 제작 실습",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.97cb351b28993cd4a493"
+    },
+    {
+     "key": "kr-2022-voc-관광-콘텐츠-개발:[관콘 04-03]",
+     "code": "[관콘 04-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 콘텐츠 개발",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 콘텐츠 제작 실습",
+     "summary": "관광 콘텐츠 제작물 편집을 수행하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관콘 04-03]",
+      "pdfPage": 106,
+      "printedPage": null,
+      "section": "관광 콘텐츠 개발 > 관광 콘텐츠 제작 실습",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.0ee66880dd6584235e6a"
+    },
+    {
+     "key": "kr-2022-voc-관광-콘텐츠-개발:[관콘 05-01]",
+     "code": "[관콘 05-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 콘텐츠 개발",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 콘텐츠 상품화",
+     "summary": "관광 콘텐츠의 특징 및 편익을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관콘 05-01]",
+      "pdfPage": 106,
+      "printedPage": null,
+      "section": "관광 콘텐츠 개발 > 관광 콘텐츠 상품화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.d4a48e345a7ea8621ae4"
+    },
+    {
+     "key": "kr-2022-voc-관광-콘텐츠-개발:[관콘 05-02]",
+     "code": "[관콘 05-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 콘텐츠 개발",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 콘텐츠 상품화",
+     "summary": "관광 콘텐츠의 홍보 및 마케팅 전략을 수립하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관콘 05-02]",
+      "pdfPage": 106,
+      "printedPage": null,
+      "section": "관광 콘텐츠 개발 > 관광 콘텐츠 상품화",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.8d7fd6c4a1d527822811"
+    },
+    {
+     "key": "kr-2022-voc-관광-콘텐츠-개발:[관콘 06-01]",
+     "code": "[관콘 06-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 콘텐츠 개발",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 콘텐츠의 미래",
+     "summary": "관광 콘텐츠와 스마트 관광을 연계하여 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관콘 06-01]",
+      "pdfPage": 107,
+      "printedPage": null,
+      "section": "관광 콘텐츠 개발 > 관광 콘텐츠의 미래",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.ec04d9df9d3d9fbba72b"
+    },
+    {
+     "key": "kr-2022-voc-관광-콘텐츠-개발:[관콘 06-02]",
+     "code": "[관콘 06-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "관광 콘텐츠 개발",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "관광 콘텐츠의 미래",
+     "summary": "지속가능한 관광 콘텐츠의 특징을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[관콘 06-02]",
+      "pdfPage": 107,
+      "printedPage": null,
+      "section": "관광 콘텐츠 개발 > 관광 콘텐츠의 미래",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.54b599143bee745c46b5"
+    }
+   ]
+  },
+  {
+   "id": "kr-2022-voc-레저-서비스-일반",
+   "subjectKorean": "레저 서비스 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "subjectGroupKorean": "관광·레저",
+   "courseCategory": "major-general",
+   "gradeBand": "10-12",
+   "name": "레저 서비스 일반 2022 개정 전문교과 교육과정",
+   "deck6CourseId": "kr.course.2022.high.12e8654557ca7040",
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ],
+   "standardCount": 21,
+   "standards": [
+    {
+     "key": "kr-2022-voc-레저-서비스-일반:[레서 01-01]",
+     "code": "[레서 01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "레저 서비스 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "레저의 이해",
+     "summary": "레저의 개념, 레저 활동의 분류, 기능을 설명할 수 있다. 레저와 유사 개념으로 사용되는 여 가, 놀이, 레크리에이션 및 관광과 스포츠 등을 구분하여 살펴봄으로써 각각의 개념과 레저와 의 유사점과 차이점을 구분하여 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[레서 01-01]",
+      "pdfPage": 124,
+      "printedPage": null,
+      "section": "레저 서비스 일반 > 레저의 이해",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.ec3bb5c71b64d8e14db0"
+    },
+    {
+     "key": "kr-2022-voc-레저-서비스-일반:[레서 01-02]",
+     "code": "[레서 01-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "레저 서비스 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "레저의 이해",
+     "summary": "일과 구분되는 활동으로 인간의 행복한 삶을 영위할 수 있게 하는 레저의 중요성을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[레서 01-02]",
+      "pdfPage": 124,
+      "printedPage": null,
+      "section": "레저 서비스 일반 > 레저의 이해",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.f83826ca0f5a53af5127"
+    },
+    {
+     "key": "kr-2022-voc-레저-서비스-일반:[레서 01-03]",
+     "code": "[레서 01-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "레저 서비스 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "레저의 이해",
+     "summary": "4차 산업 시대의 도래 및 레저의 세계화와 같은 환경적 변화에 따라 현대 사회의 레저 트렌 드를 탐색하여 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[레서 01-03]",
+      "pdfPage": 124,
+      "printedPage": null,
+      "section": "레저 서비스 일반 > 레저의 이해",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.732be60d567c090856e6"
+    },
+    {
+     "key": "kr-2022-voc-레저-서비스-일반:[레서 02-01]",
+     "code": "[레서 02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "레저 서비스 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "레저 산업의 이해",
+     "summary": "레저 산업의 개념을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[레서 02-01]",
+      "pdfPage": 124,
+      "printedPage": null,
+      "section": "레저 서비스 일반 > 레저 산업의 이해",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.e4264917b51854d42d26"
+    },
+    {
+     "key": "kr-2022-voc-레저-서비스-일반:[레서 02-02]",
+     "code": "[레서 02-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "레저 서비스 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "레저 산업의 이해",
+     "summary": "레저 산업의 발달이 미치는 경제, 사회적 효과를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[레서 02-02]",
+      "pdfPage": 124,
+      "printedPage": null,
+      "section": "레저 서비스 일반 > 레저 산업의 이해",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.409a957906513dff338c"
+    },
+    {
+     "key": "kr-2022-voc-레저-서비스-일반:[레서 02-03]",
+     "code": "[레서 02-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "레저 서비스 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "레저 산업의 이해",
+     "summary": "4차 산업 혁명 시대를 맞이하여 디지털 기술의 발전으로 구현되는 다양한 형태의 비대면/온 라인 레저 활동 사례를 탐색하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[레서 02-03]",
+      "pdfPage": 124,
+      "printedPage": null,
+      "section": "레저 서비스 일반 > 레저 산업의 이해",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.2e8d011fb4be26bf2dee"
+    },
+    {
+     "key": "kr-2022-voc-레저-서비스-일반:[레서 03-01]",
+     "code": "[레서 03-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "레저 서비스 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "레저 서비스 사업",
+     "summary": "카지노의 개념과 특징, 현황 및 카지노업의 주요 직무를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[레서 03-01]",
+      "pdfPage": 124,
+      "printedPage": null,
+      "section": "레저 서비스 일반 > 레저 서비스 사업",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.9983f8174a24925e2465"
+    },
+    {
+     "key": "kr-2022-voc-레저-서비스-일반:[레서 03-02]",
+     "code": "[레서 03-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "레저 서비스 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "레저 서비스 사업",
+     "summary": "테마파크의 개념과 특징, 현황 및 테마파크업의 주요 직무를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[레서 03-02]",
+      "pdfPage": 124,
+      "printedPage": null,
+      "section": "레저 서비스 일반 > 레저 서비스 사업",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.0a4c583454d43ff747ba"
+    },
+    {
+     "key": "kr-2022-voc-레저-서비스-일반:[레서 03-03]",
+     "code": "[레서 03-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "레저 서비스 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "레저 서비스 사업",
+     "summary": "레저 스포츠의 개념과 특징, 현황 및 레저 스포츠업의 주요 직무를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[레서 03-03]",
+      "pdfPage": 124,
+      "printedPage": null,
+      "section": "레저 서비스 일반 > 레저 서비스 사업",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.35112c67bc6cccb2e573"
+    },
+    {
+     "key": "kr-2022-voc-레저-서비스-일반:[레서 04-01]",
+     "code": "[레서 04-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "레저 서비스 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "지상 레저 활동",
+     "summary": "지상 레저 활동을 정의하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[레서 04-01]",
+      "pdfPage": 124,
+      "printedPage": null,
+      "section": "레저 서비스 일반 > 지상 레저 활동",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.0a8c0bb6250fd36548b7"
+    },
+    {
+     "key": "kr-2022-voc-레저-서비스-일반:[레서 04-02]",
+     "code": "[레서 04-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "레저 서비스 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "지상 레저 활동",
+     "summary": "지상 레저 활동을 분류하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[레서 04-02]",
+      "pdfPage": 124,
+      "printedPage": null,
+      "section": "레저 서비스 일반 > 지상 레저 활동",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.88ebea64d9927ab0b7a8"
+    },
+    {
+     "key": "kr-2022-voc-레저-서비스-일반:[레서 04-03]",
+     "code": "[레서 04-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "레저 서비스 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "지상 레저 활동",
+     "summary": "주요 지상 레저 활동을 즐길 수 있는 장소와 활용되는 장비의 특징을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[레서 04-03]",
+      "pdfPage": 124,
+      "printedPage": null,
+      "section": "레저 서비스 일반 > 지상 레저 활동",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.fd04c3f60c35c7050436"
+    },
+    {
+     "key": "kr-2022-voc-레저-서비스-일반:[레서 04-04]",
+     "code": "[레서 04-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "레저 서비스 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "지상 레저 활동",
+     "summary": "주요 지상 레저 활동의 규칙 및 장비의 활용법과 관리 요령을 익혀 안전한 지상 레저 서비스 를 수행하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[레서 04-04]",
+      "pdfPage": 124,
+      "printedPage": null,
+      "section": "레저 서비스 일반 > 지상 레저 활동",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.8759a6725fbb8ded5f8f"
+    },
+    {
+     "key": "kr-2022-voc-레저-서비스-일반:[레서 05-01]",
+     "code": "[레서 05-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "레저 서비스 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "수상 레저 활동",
+     "summary": "수상 레저 활동을 정의하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[레서 05-01]",
+      "pdfPage": 125,
+      "printedPage": null,
+      "section": "레저 서비스 일반 > 수상 레저 활동",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.6c28b1a3326ed12b0f6f"
+    },
+    {
+     "key": "kr-2022-voc-레저-서비스-일반:[레서 05-02]",
+     "code": "[레서 05-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "레저 서비스 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "수상 레저 활동",
+     "summary": "수상 레저 활동을 분류하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[레서 05-02]",
+      "pdfPage": 125,
+      "printedPage": null,
+      "section": "레저 서비스 일반 > 수상 레저 활동",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.b49cc528eea6e40da378"
+    },
+    {
+     "key": "kr-2022-voc-레저-서비스-일반:[레서 05-03]",
+     "code": "[레서 05-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "레저 서비스 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "수상 레저 활동",
+     "summary": "주요 수상 레저 활동을 즐길 수 있는 장소와 활용되는 장비의 특징을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[레서 05-03]",
+      "pdfPage": 125,
+      "printedPage": null,
+      "section": "레저 서비스 일반 > 수상 레저 활동",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.49abb29b5a69b36966fb"
+    },
+    {
+     "key": "kr-2022-voc-레저-서비스-일반:[레서 05-04]",
+     "code": "[레서 05-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "레저 서비스 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "수상 레저 활동",
+     "summary": "주요 수상 레저 활동의 규칙 및 장비의 활용법과 관리 요령 등을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[레서 05-04]",
+      "pdfPage": 125,
+      "printedPage": null,
+      "section": "레저 서비스 일반 > 수상 레저 활동",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.270701d566c5d615a8e0"
+    },
+    {
+     "key": "kr-2022-voc-레저-서비스-일반:[레서 06-01]",
+     "code": "[레서 06-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "레저 서비스 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "항공 레저 활동",
+     "summary": "항공 레저 활동을 정의하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[레서 06-01]",
+      "pdfPage": 125,
+      "printedPage": null,
+      "section": "레저 서비스 일반 > 항공 레저 활동",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.3803613012a5e8f2f0be"
+    },
+    {
+     "key": "kr-2022-voc-레저-서비스-일반:[레서 06-02]",
+     "code": "[레서 06-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "레저 서비스 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "항공 레저 활동",
+     "summary": "항공 레저 활동을 분류하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[레서 06-02]",
+      "pdfPage": 125,
+      "printedPage": null,
+      "section": "레저 서비스 일반 > 항공 레저 활동",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.19bbc9b1e97ea3c6d7e8"
+    },
+    {
+     "key": "kr-2022-voc-레저-서비스-일반:[레서 06-03]",
+     "code": "[레서 06-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "레저 서비스 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "항공 레저 활동",
+     "summary": "주요 항공 레저 활동을 즐길 수 있는 장소와 활용되는 장비의 특징을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[레서 06-03]",
+      "pdfPage": 125,
+      "printedPage": null,
+      "section": "레저 서비스 일반 > 항공 레저 활동",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.ba32e3040d9ed7f7bc35"
+    },
+    {
+     "key": "kr-2022-voc-레저-서비스-일반:[레서 06-04]",
+     "code": "[레서 06-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "레저 서비스 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "항공 레저 활동",
+     "summary": "주요 항공 레저 활동의 규칙 및 장비의 활용법과 관리 요령 등을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[레서 06-04]",
+      "pdfPage": 125,
+      "printedPage": null,
+      "section": "레저 서비스 일반 > 항공 레저 활동",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.dadf96d18e898289744c"
+    }
+   ]
+  },
+  {
+   "id": "kr-2022-voc-전시･컨벤션･이벤트-일반",
+   "subjectKorean": "전시･컨벤션･이벤트 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "subjectGroupKorean": "관광·레저",
+   "courseCategory": "major-general",
+   "gradeBand": "10-12",
+   "name": "전시･컨벤션･이벤트 일반 2022 개정 전문교과 교육과정",
+   "deck6CourseId": "kr.course.2022.high.af3f2c45de9d76b0",
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ],
+   "standardCount": 20,
+   "standards": [
+    {
+     "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 01-01]",
+     "code": "[컨일 01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "전시･컨벤션･이벤트 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "마이스(MICE) 산업 이해",
+     "summary": "마이스(MICE)의 개념을 이해하고 중요성을 제시하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[컨일 01-01]",
+      "pdfPage": 114,
+      "printedPage": null,
+      "section": "전시･컨벤션･이벤트 일반 > 마이스(MICE) 산업 이해",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.aaac50fa889520a72c99"
+    },
+    {
+     "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 01-02]",
+     "code": "[컨일 01-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "전시･컨벤션･이벤트 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "마이스(MICE) 산업 이해",
+     "summary": "마이스(MICE) 산업의 파급 효과를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[컨일 01-02]",
+      "pdfPage": 114,
+      "printedPage": null,
+      "section": "전시･컨벤션･이벤트 일반 > 마이스(MICE) 산업 이해",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.9cc62756d8e17b624ffa"
+    },
+    {
+     "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 01-03]",
+     "code": "[컨일 01-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "전시･컨벤션･이벤트 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "마이스(MICE) 산업 이해",
+     "summary": "온라인 행사의 개념과 특성을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[컨일 01-03]",
+      "pdfPage": 114,
+      "printedPage": null,
+      "section": "전시･컨벤션･이벤트 일반 > 마이스(MICE) 산업 이해",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.fb1c7cae02cbb98ab744"
+    },
+    {
+     "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 01-04]",
+     "code": "[컨일 01-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "전시･컨벤션･이벤트 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "마이스(MICE) 산업 이해",
+     "summary": "하이브리드 마이스의 개념과 추세에 대해 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[컨일 01-04]",
+      "pdfPage": 114,
+      "printedPage": null,
+      "section": "전시･컨벤션･이벤트 일반 > 마이스(MICE) 산업 이해",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.058678a670695634969e"
+    },
+    {
+     "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 02-01]",
+     "code": "[컨일 02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "전시･컨벤션･이벤트 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "국제회의산업",
+     "summary": "국제회의의 개념과 기준을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[컨일 02-01]",
+      "pdfPage": 115,
+      "printedPage": null,
+      "section": "전시･컨벤션･이벤트 일반 > 국제회의산업",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.08e666fa0faec652ffcc"
+    },
+    {
+     "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 02-02]",
+     "code": "[컨일 02-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "전시･컨벤션･이벤트 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "국제회의산업",
+     "summary": "국제회의를 주최자별, 규모별로 분류하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[컨일 02-02]",
+      "pdfPage": 115,
+      "printedPage": null,
+      "section": "전시･컨벤션･이벤트 일반 > 국제회의산업",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.ca18f553af9a2b11a207"
+    },
+    {
+     "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 02-03]",
+     "code": "[컨일 02-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "전시･컨벤션･이벤트 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "국제회의산업",
+     "summary": "국제회의산업 육성의 목적과 정의, 국제회의 종류를 제시하고 있는 국제회의산업 육성에 관 한 법률을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[컨일 02-03]",
+      "pdfPage": 115,
+      "printedPage": null,
+      "section": "전시･컨벤션･이벤트 일반 > 국제회의산업",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.db9ca550b8619eb3a1af"
+    },
+    {
+     "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 02-04]",
+     "code": "[컨일 02-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "전시･컨벤션･이벤트 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "국제회의산업",
+     "summary": "국내외 국제회의 관련 기구 및 기관의 역할 및 활동 내용을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[컨일 02-04]",
+      "pdfPage": 115,
+      "printedPage": null,
+      "section": "전시･컨벤션･이벤트 일반 > 국제회의산업",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.bf709f33b4fc92f42eec"
+    },
+    {
+     "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 03-01]",
+     "code": "[컨일 03-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "전시･컨벤션･이벤트 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "국제회의 운영 동향",
+     "summary": "국내에서의 국제회의 개최 현황과 해외에서의 개최 현황을 비교하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[컨일 03-01]",
+      "pdfPage": 115,
+      "printedPage": null,
+      "section": "전시･컨벤션･이벤트 일반 > 국제회의 운영 동향",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.1d2ec7a014bc51316481"
+    },
+    {
+     "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 03-02]",
+     "code": "[컨일 03-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "전시･컨벤션･이벤트 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "국제회의 운영 동향",
+     "summary": "미팅 테크놀로지의 등장 배경과 최신 동향을 분석하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[컨일 03-02]",
+      "pdfPage": 115,
+      "printedPage": null,
+      "section": "전시･컨벤션･이벤트 일반 > 국제회의 운영 동향",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.3abf6b2e209f3c40d15b"
+    },
+    {
+     "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 03-03]",
+     "code": "[컨일 03-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "전시･컨벤션･이벤트 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "국제회의 운영 동향",
+     "summary": "유니크 베뉴의 개념과 국내에서의 활용 사례를 제시하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[컨일 03-03]",
+      "pdfPage": 115,
+      "printedPage": null,
+      "section": "전시･컨벤션･이벤트 일반 > 국제회의 운영 동향",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.0e7c846cee411c4dd923"
+    },
+    {
+     "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 04-01]",
+     "code": "[컨일 04-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "전시･컨벤션･이벤트 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "전시 산업 특성",
+     "summary": "전시회의 개념을 이해하고, 전시회의 유형을 분류하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[컨일 04-01]",
+      "pdfPage": 116,
+      "printedPage": null,
+      "section": "전시･컨벤션･이벤트 일반 > 전시 산업 특성",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.8d11f02989be083b6321"
+    },
+    {
+     "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 04-02]",
+     "code": "[컨일 04-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "전시･컨벤션･이벤트 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "전시 산업 특성",
+     "summary": "전시 산업의 구성 요소와 구성 요소 간의 관계를 제시하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[컨일 04-02]",
+      "pdfPage": 116,
+      "printedPage": null,
+      "section": "전시･컨벤션･이벤트 일반 > 전시 산업 특성",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.1b8844230bdb6225b981"
+    },
+    {
+     "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 04-03]",
+     "code": "[컨일 04-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "전시･컨벤션･이벤트 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "전시 산업 특성",
+     "summary": "전시 산업의 특성을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[컨일 04-03]",
+      "pdfPage": 116,
+      "printedPage": null,
+      "section": "전시･컨벤션･이벤트 일반 > 전시 산업 특성",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.a2a9a0f41f20dde530a2"
+    },
+    {
+     "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 05-01]",
+     "code": "[컨일 05-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "전시･컨벤션･이벤트 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "전시 산업 현황",
+     "summary": "전시회 개최 현황을 연도별, 국내외별로 비교 분석하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[컨일 05-01]",
+      "pdfPage": 116,
+      "printedPage": null,
+      "section": "전시･컨벤션･이벤트 일반 > 전시 산업 현황",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.6556018fecceb16bfb53"
+    },
+    {
+     "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 05-02]",
+     "code": "[컨일 05-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "전시･컨벤션･이벤트 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "전시 산업 현황",
+     "summary": "전시장의 현황을 국내 및 해외로 구분하여 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[컨일 05-02]",
+      "pdfPage": 116,
+      "printedPage": null,
+      "section": "전시･컨벤션･이벤트 일반 > 전시 산업 현황",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.3e43ff2e10d9aef780bd"
+    },
+    {
+     "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 06-01]",
+     "code": "[컨일 06-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "전시･컨벤션･이벤트 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "이벤트 산업",
+     "summary": "우리나라 현대 이벤트의 발달 배경과 개념을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[컨일 06-01]",
+      "pdfPage": 117,
+      "printedPage": null,
+      "section": "전시･컨벤션･이벤트 일반 > 이벤트 산업",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.0931ab5b9fa42507bd68"
+    },
+    {
+     "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 06-02]",
+     "code": "[컨일 06-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "전시･컨벤션･이벤트 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "이벤트 산업",
+     "summary": "이벤트의 파급 효과를 긍정, 부정으로 구분하여 제시하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[컨일 06-02]",
+      "pdfPage": 117,
+      "printedPage": null,
+      "section": "전시･컨벤션･이벤트 일반 > 이벤트 산업",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.7f968c53bbd81c5585b3"
+    },
+    {
+     "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 06-03]",
+     "code": "[컨일 06-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "전시･컨벤션･이벤트 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "이벤트 산업",
+     "summary": "이벤트의 유형을 주최별, 규모별, 목적별로 구분하여 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[컨일 06-03]",
+      "pdfPage": 117,
+      "printedPage": null,
+      "section": "전시･컨벤션･이벤트 일반 > 이벤트 산업",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.22b05b261e170e5c7932"
+    },
+    {
+     "key": "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 06-04]",
+     "code": "[컨일 06-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "전시･컨벤션･이벤트 일반",
+     "majorFieldSlug": "tourism-leisure",
+     "courseCategory": "major-general",
+     "domainKorean": "이벤트 산업",
+     "summary": "국내외 축제 이벤트 현황에 대해 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex27"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004098",
+      "code": "[컨일 06-04]",
+      "pdfPage": 117,
+      "printedPage": null,
+      "section": "전시･컨벤션･이벤트 일반 > 이벤트 산업",
+      "sha256": "315ecdc14bd4964f92a77c43e79d90b624918c1418a0f1a68b50cfb23a86f0c2",
+      "sourceId": "kr-nec-2024-3-annex27"
+     },
+     "deck6Id": "kr.standard.2022.high.86840d561ddefb3b6757"
+    }
+   ]
+  }
+ ]
+}

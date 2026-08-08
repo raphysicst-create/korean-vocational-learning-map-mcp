@@ -1,0 +1,4836 @@
+{
+ "version": "kr-vocational-standard-texts-v1",
+ "sourceNote": "국가교육위원회 고시 제2024-3호 초·중등학교 교육과정 별책23~39(전문교과) PDF에서 추출한 성취기준 본문. 공공저작물로서 저작권법 제24조의2에 따라 출처를 표기해 이용한다.",
+ "texts": [
+  {
+   "key": "kr-2022-voc-건물-정보-관리-기초:[건정 01-01-01]",
+   "code": "[건정 01-01-01]",
+   "text": "설계 요구 조건을 활용하여 BIM 활용 범위를 파악할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건물-정보-관리-기초:[건정 01-01-02]",
+   "code": "[건정 01-01-02]",
+   "text": "뷰 템플릿, BIM 라이브러리 등 프로젝트 템플릿을 활용하여 BIM을 준비할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건물-정보-관리-기초:[건정 01-02-01]",
+   "code": "[건정 01-02-01]",
+   "text": "활용 범위에 맞는 BIM 작성 수준(LOD)을 활용하여 BIM을 준비할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건물-정보-관리-기초:[건정 01-02-02]",
+   "code": "[건정 01-02-02]",
+   "text": "활용 범위와 작성 수준을 고려하여 작업 일정을 수립할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건물-정보-관리-기초:[건정 01-02-03]",
+   "code": "[건정 01-02-03]",
+   "text": "연계(link), 협업 설계(workset) 등 작업 방식의 구분을 통해 적정한 조직을 구성할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건물-정보-관리-기초:[건정 02-01-01]",
+   "code": "[건정 02-01-01]",
+   "text": "BIM 조직을 효율적으로 운용할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건물-정보-관리-기초:[건정 02-01-02]",
+   "code": "[건정 02-01-02]",
+   "text": "BIM 데이터를 통해 공종별 정합성을 검토할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "manual-exception"
+  },
+  {
+   "key": "kr-2022-voc-건물-정보-관리-기초:[건정 02-02-01]",
+   "code": "[건정 02-02-01]",
+   "text": "BIM 라이브러리 등 조직의 데이터를 관리 운영할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건물-정보-관리-기초:[건정 02-02-02]",
+   "code": "[건정 02-02-02]",
+   "text": "조직에서 공통적으로 활용할 수 있는 BIM 매뉴얼을 작성, 관리할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건물-정보-관리-기초:[건정 03-01-01]",
+   "code": "[건정 03-01-01]",
+   "text": "공간 요소와 주석 요소를 활용하여 연동된 레이블을 작성할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건물-정보-관리-기초:[건정 03-01-02]",
+   "code": "[건정 03-01-02]",
+   "text": "건축 설계 분야의 3차원 형상 모델을 작성할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건물-정보-관리-기초:[건정 03-02-01]",
+   "code": "[건정 03-02-01]",
+   "text": "시설물 구성 요소에 물리적 속성의 정의를 통해 BIM 라이브러리를 제작할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건물-정보-관리-기초:[건정 03-03-01]",
+   "code": "[건정 03-03-01]",
+   "text": "건축 설계 분야의 3차원 형상 모델을 작성하여 설계 품질 관리를 할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건물-정보-관리-기초:[건정 04-01-01]",
+   "code": "[건정 04-01-01]",
+   "text": "렌더링, 시뮬레이션, 동영상 등 시각 자료 작성을 통해 의사소통을 위한 시각화 (visualization) 작업을 할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건물-정보-관리-기초:[건정 04-02-01]",
+   "code": "[건정 04-02-01]",
+   "text": "BIM 데이터를 활용하여 설계 도서(drawing & document)를 작성할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건물-정보-관리-기초:[건정 04-03-01]",
+   "code": "[건정 04-03-01]",
+   "text": "BIM 데이터를 활용하여 물량 산출을 할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건물-정보-관리-기초:[건정 04-03-02]",
+   "code": "[건정 04-03-02]",
+   "text": "BIM 데이터를 활용하여 공정 관리 분석을 할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건물-정보-관리-기초:[건정 04-03-03]",
+   "code": "[건정 04-03-03]",
+   "text": "BIM 데이터를 활용하여 환경 분석을 할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건물-정보-관리-기초:[건정 04-03-04]",
+   "code": "[건정 04-03-04]",
+   "text": "개방형 BIM 기술을 통해 소프트웨어 간 호환 작업을 할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 01-01-01]",
+   "code": "[건재 01-01-01]",
+   "text": "재료의 역학적 성질에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 01-01-02]",
+   "code": "[건재 01-01-02]",
+   "text": "재료의 물리적 성질에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 01-02-01]",
+   "code": "[건재 01-02-01]",
+   "text": "건설 재료의 종류에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 01-02-02]",
+   "code": "[건재 01-02-02]",
+   "text": "건설 재료의 특징에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 01-02-03]",
+   "code": "[건재 01-02-03]",
+   "text": "건설 재료를 분류할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 01-03-01]",
+   "code": "[건재 01-03-01]",
+   "text": "콘크리트의 구성 재료에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 01-03-02]",
+   "code": "[건재 01-03-02]",
+   "text": "콘크리트의 특성에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 01-04-01]",
+   "code": "[건재 01-04-01]",
+   "text": "건설에 사용되는 아스팔트 재료에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 01-04-02]",
+   "code": "[건재 01-04-02]",
+   "text": "건설에 사용되는 금속 재료에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 01-04-03]",
+   "code": "[건재 01-04-03]",
+   "text": "건설에 사용되는 목재에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 01-04-04]",
+   "code": "[건재 01-04-04]",
+   "text": "건설에 사용되는 석재에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 02-01-01]",
+   "code": "[건재 02-01-01]",
+   "text": "시멘트의 밀도 시험 방법에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 02-01-02]",
+   "code": "[건재 02-01-02]",
+   "text": "시멘트의 밀도 시험 기기 및 기구를 조작할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 02-01-03]",
+   "code": "[건재 02-01-03]",
+   "text": "시멘트의 밀도 시험을 하고 결과를 정리할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 02-02-01]",
+   "code": "[건재 02-02-01]",
+   "text": "시멘트의 분말도 시험 방법에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 02-02-02]",
+   "code": "[건재 02-02-02]",
+   "text": "시멘트의 분말도 시험 기기 및 기구를 조작할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 02-02-03]",
+   "code": "[건재 02-02-03]",
+   "text": "시멘트의 분말도 시험을 하고 결과를 정리할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 02-03-01]",
+   "code": "[건재 02-03-01]",
+   "text": "시멘트의 응결 시간 시험 방법에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 02-03-02]",
+   "code": "[건재 02-03-02]",
+   "text": "시멘트의 응결 시간 시험 기기 및 기구를 조작할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 02-03-03]",
+   "code": "[건재 02-03-03]",
+   "text": "시멘트의 응결 시간 시험을 하고 결과를 정리할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 02-04-01]",
+   "code": "[건재 02-04-01]",
+   "text": "시멘트 모르타르의 강도 시험 방법에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 02-04-02]",
+   "code": "[건재 02-04-02]",
+   "text": "시멘트 모르타르의 강도 시험 기기 및 기구를 조작할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 02-04-03]",
+   "code": "[건재 02-04-03]",
+   "text": "시멘트 모르타르의 강도 시험을 하고 결과를 정리할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 03-01-01]",
+   "code": "[건재 03-01-01]",
+   "text": "굵은 골재 및 잔골재의 체가름 시험 방법에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 03-01-02]",
+   "code": "[건재 03-01-02]",
+   "text": "굵은 골재 및 잔골재의 체가름 시험 기기 및 기구를 조작할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 03-01-03]",
+   "code": "[건재 03-01-03]",
+   "text": "굵은 골재 및 잔골재의 체가름 시험을 하고 결과를 정리할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 03-02-01]",
+   "code": "[건재 03-02-01]",
+   "text": "굵은 골재의 밀도 및 흡수율 시험 방법에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 03-02-02]",
+   "code": "[건재 03-02-02]",
+   "text": "굵은 골재의 밀도 및 흡수율 시험 기기 및 기구를 조작할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 03-02-03]",
+   "code": "[건재 03-02-03]",
+   "text": "굵은 골재의 밀도 및 흡수율 시험을 하고 결과를 정리할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 03-03-01]",
+   "code": "[건재 03-03-01]",
+   "text": "잔골재의 밀도 및 흡수율 시험 방법에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 03-03-02]",
+   "code": "[건재 03-03-02]",
+   "text": "잔골재의 밀도 및 흡수율 시험 기기 및 기구를 조작할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 03-03-03]",
+   "code": "[건재 03-03-03]",
+   "text": "잔골재의 밀도 및 흡수율 시험을 하고 결과를 정리할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 03-04-01]",
+   "code": "[건재 03-04-01]",
+   "text": "잔골재의 표면수 시험 방법에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 03-04-02]",
+   "code": "[건재 03-04-02]",
+   "text": "잔골재의 표면수 시험 기기 및 기구를 조작할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 03-04-03]",
+   "code": "[건재 03-04-03]",
+   "text": "잔골재의 표면수 시험을 하고 결과를 정리할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 03-05-01]",
+   "code": "[건재 03-05-01]",
+   "text": "골재의 단위 용적 질량 시험 및 실적률 시험 방법에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 03-05-02]",
+   "code": "[건재 03-05-02]",
+   "text": "골재의 단위 용적 질량 시험 및 실적률 시험 기기 및 기구를 조작할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 03-05-03]",
+   "code": "[건재 03-05-03]",
+   "text": "골재의 단위 용적 질량 시험을 하고 결과를 정리할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 03-06-01]",
+   "code": "[건재 03-06-01]",
+   "text": "로스앤젤레스 시험기를 활용한 골재의 마모 시험 방법에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 03-06-02]",
+   "code": "[건재 03-06-02]",
+   "text": "로스앤젤레스 시험기를 조작할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 03-06-03]",
+   "code": "[건재 03-06-03]",
+   "text": "로스앤젤레스 시험기를 활용하여 골재의 마모 시험을 하고 결과를 정리할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 04-01-01]",
+   "code": "[건재 04-01-01]",
+   "text": "콘크리트의 배합 설계에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 04-01-02]",
+   "code": "[건재 04-01-02]",
+   "text": "콘크리트의 배합 설계 방법에 대하여 알고 이를 실무에 적용할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 04-02-01]",
+   "code": "[건재 04-02-01]",
+   "text": "배합 강도를 결정할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 04-02-02]",
+   "code": "[건재 04-02-02]",
+   "text": "배합 강도와 물-결합재 비를 결정할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 04-02-03]",
+   "code": "[건재 04-02-03]",
+   "text": "굵은 골재 최대 치수, 슬럼프값, 공기량, 단위 수량, 잔골재율을 선정할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 04-02-04]",
+   "code": "[건재 04-02-04]",
+   "text": "콘크리트에 사용되는 재료의 단위량을 산정할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 04-03-01]",
+   "code": "[건재 04-03-01]",
+   "text": "시방 배합을 현장 재료의 상황에 맞게 입도 보정을 할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 04-03-02]",
+   "code": "[건재 04-03-02]",
+   "text": "시방 배합을 현장 재료의 상황에 맞게 표면수 보정을 할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 05-01-01]",
+   "code": "[건재 05-01-01]",
+   "text": "슬럼프 시험 방법에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 05-01-02]",
+   "code": "[건재 05-01-02]",
+   "text": "슬럼프 시험 기기 및 기구를 조작할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 05-01-03]",
+   "code": "[건재 05-01-03]",
+   "text": "슬럼프 시험을 하고 슬럼프값을 구할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 05-02-01]",
+   "code": "[건재 05-02-01]",
+   "text": "압력법에 의한 굳지 않은 콘크리트의 공기량 시험 방법에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 05-02-02]",
+   "code": "[건재 05-02-02]",
+   "text": "압력법에 의한 굳지 않은 콘크리트의 공기량 시험 기기 및 기구를 조작할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 05-02-03]",
+   "code": "[건재 05-02-03]",
+   "text": "압력법에 의한 굳지 않은 콘크리트의 공기량 시험을 하고 공기량을 구할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 05-03-01]",
+   "code": "[건재 05-03-01]",
+   "text": "콘크리트 압축 강도 시험 방법에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 05-03-02]",
+   "code": "[건재 05-03-02]",
+   "text": "콘크리트 압축 강도 시험 기기 및 기구를 조작할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 05-03-03]",
+   "code": "[건재 05-03-03]",
+   "text": "콘크리트 압축 강도 시험을 하고, 콘크리트의 압축 강도를 구할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 05-04-01]",
+   "code": "[건재 05-04-01]",
+   "text": "콘크리트 쪼갬 인장 강도 시험 방법에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 05-04-02]",
+   "code": "[건재 05-04-02]",
+   "text": "콘크리트 쪼갬 인장 강도 시험 기기 및 기구를 조작할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 05-04-03]",
+   "code": "[건재 05-04-03]",
+   "text": "콘크리트 쪼갬 인장 강도 시험을 하고, 콘크리트의 인장 강도를 구할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 05-05-01]",
+   "code": "[건재 05-05-01]",
+   "text": "단순보의 3등분점 하중법에 의한 콘크리트 휨 강도 시험 방법에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 05-05-02]",
+   "code": "[건재 05-05-02]",
+   "text": "콘크리트 휨 강도 시험 기기 및 기구를 조작할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 05-05-03]",
+   "code": "[건재 05-05-03]",
+   "text": "콘크리트 휨 강도 시험을 하고 콘크리트의 휨 강도를 구할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 05-06-01]",
+   "code": "[건재 05-06-01]",
+   "text": "콘크리트 압축 강도 추정을 위한 반발 경도 시험 방법에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 05-06-02]",
+   "code": "[건재 05-06-02]",
+   "text": "반발 경도 측정기를 조작할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 05-06-03]",
+   "code": "[건재 05-06-03]",
+   "text": "반발 경도 측정기를 활용하여 콘크리트의 반발 경도를 구할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 05-06-04]",
+   "code": "[건재 05-06-04]",
+   "text": "반발 경도를 활용하여 콘크리트의 비파괴 강도를 추정할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 05-07-01]",
+   "code": "[건재 05-07-01]",
+   "text": "콘크리트 압축 강도 추정을 위한 초음파 펄스 속도 시험 방법에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 05-07-02]",
+   "code": "[건재 05-07-02]",
+   "text": "초음파 펄스를 조작할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 05-07-03]",
+   "code": "[건재 05-07-03]",
+   "text": "초음파 펄스를 활용하여 초음파가 콘크리트를 통과하는 시간을 측정할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건설-재료:[건재 05-07-04]",
+   "code": "[건재 05-07-04]",
+   "text": "초음파가 콘크리트를 통과하는 시간을 활용하여 콘크리트의 비파괴 강도를 추정할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 01-01-01]",
+   "code": "[건실 01-01-01]",
+   "text": "실습장 안전 수칙을 이해하고 준수할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 01-01-02]",
+   "code": "[건실 01-01-02]",
+   "text": "실습장 안전사고 사례를 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 01-01-03]",
+   "code": "[건실 01-01-03]",
+   "text": "각종 실습에 필요한 개인 안전 보호구의 종류 및 명칭을 알 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 01-01-04]",
+   "code": "[건실 01-01-04]",
+   "text": "각종 실습에 필요한 개인 안전 보호구를 착용할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 01-01-05]",
+   "code": "[건실 01-01-05]",
+   "text": "각종 전동 기계 및 공구와 부위별 명칭을 알 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 01-01-06]",
+   "code": "[건실 01-01-06]",
+   "text": "각종 전동 기계 및 공구를 작동시키고 점검할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 01-02-01]",
+   "code": "[건실 01-02-01]",
+   "text": "측정 공구를 용도별로 분류할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 01-02-02]",
+   "code": "[건실 01-02-02]",
+   "text": "다양한 측정 공구를 공사 유형별로 분류할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 01-02-03]",
+   "code": "[건실 01-02-03]",
+   "text": "수공구용 측정기를 선별하고 용도를 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 01-02-04]",
+   "code": "[건실 01-02-04]",
+   "text": "용도별 수공구로 측정 부위를 정확히 측정할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 01-02-05]",
+   "code": "[건실 01-02-05]",
+   "text": "전자동 측정기의 사용법을 명확히 이해할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 01-02-06]",
+   "code": "[건실 01-02-06]",
+   "text": "전자동 측정기로 측정 부위를 정확히 측정할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 02-01-01]",
+   "code": "[건실 02-01-01]",
+   "text": "목재 재단을 위해 용도에 맞는 톱을 선택할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 02-01-02]",
+   "code": "[건실 02-01-02]",
+   "text": "톱질을 하기 위하여 안전한 위치 선정과 올바른 자세를 취할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 02-01-03]",
+   "code": "[건실 02-01-03]",
+   "text": "톱의 용도에 맞게 올바른 자세로 톱질을 하여 목재를 재단할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 02-01-04]",
+   "code": "[건실 02-01-04]",
+   "text": "목재 마름질을 위해 용도에 맞는 대패를 선택할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 02-01-05]",
+   "code": "[건실 02-01-05]",
+   "text": "대패질을 하기 위하여 안전한 위치 선정과 올바른 자세를 취할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 02-01-06]",
+   "code": "[건실 02-01-06]",
+   "text": "대패의 용도에 맞게 올바른 자세로 대패질을 하여 마름질할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 02-01-07]",
+   "code": "[건실 02-01-07]",
+   "text": "목재 마름질을 하기 위하여 용도에 맞는 끌을 선택할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 02-01-08]",
+   "code": "[건실 02-01-08]",
+   "text": "끌질을 하기 위하여 안전한 위치 선정과 올바른 자세를 취할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 02-01-09]",
+   "code": "[건실 02-01-09]",
+   "text": "끌의 용도에 맞게 올바른 자세로 끌질을 하여 마름질할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 02-01-10]",
+   "code": "[건실 02-01-10]",
+   "text": "목재 접합 및 보강을 하기 위하여 적합한 못을 선택할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 02-01-11]",
+   "code": "[건실 02-01-11]",
+   "text": "올바른 자세로 필요한 위치에 부재가 손상되지 않도록 못 박기를 할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 02-02-01]",
+   "code": "[건실 02-02-01]",
+   "text": "용도에 적합한 전동 및 에어 공구를 선택할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 02-02-02]",
+   "code": "[건실 02-02-02]",
+   "text": "작업을 하기 위하여 안전한 위치 선정과 올바른 자세를 취할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 02-02-03]",
+   "code": "[건실 02-02-03]",
+   "text": "목공 기계와 공구를 용도에 맞게 올바른 자세로 목재를 가공할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 02-02-04]",
+   "code": "[건실 02-02-04]",
+   "text": "올바른 자세로 필요한 위치에 에어 태커를 사용할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 02-03-01]",
+   "code": "[건실 02-03-01]",
+   "text": "목제품 제작 도면을 해독할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 02-03-02]",
+   "code": "[건실 02-03-02]",
+   "text": "목제품 제작을 위한 재료를 산출할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 02-03-03]",
+   "code": "[건실 02-03-03]",
+   "text": "목제품 제작에 필요한 목재를 마름질할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 02-03-04]",
+   "code": "[건실 02-03-04]",
+   "text": "마름질한 부재를 접합하여 목제품을 완성할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 02-04-01]",
+   "code": "[건실 02-04-01]",
+   "text": "목공사 물량 산출을 위한 용어 및 적산 기준을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 02-04-02]",
+   "code": "[건실 02-04-02]",
+   "text": "목공사에 필요한 각종 물량을 산출할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 03-01-01]",
+   "code": "[건실 03-01-01]",
+   "text": "철근 가공에 필요한 철근 가공용 공구를 용도에 맞게 선택할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 03-01-02]",
+   "code": "[건실 03-01-02]",
+   "text": "철근 가공 작업을 하기 위하여 안전한 위치 선정과 올바른 자세를 취할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 03-01-03]",
+   "code": "[건실 03-01-03]",
+   "text": "도면 치수에 맞게 수공구와 전동 공구를 사용하여 철근을 가공할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 03-01-04]",
+   "code": "[건실 03-01-04]",
+   "text": "철근 결속에 필요한 각종 공구 선택할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 03-01-05]",
+   "code": "[건실 03-01-05]",
+   "text": "철근 결속 작업을 하기 위하여 안전한 위치 선정과 올바른 자세를 취할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 03-01-06]",
+   "code": "[건실 03-01-06]",
+   "text": "도면 치수에 맞게 수공구를 사용하여 철근을 결속을 할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 03-02-01]",
+   "code": "[건실 03-02-01]",
+   "text": "콘크리트의 구성 재료를 나열하고 배합 원리에 관해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 03-02-02]",
+   "code": "[건실 03-02-02]",
+   "text": "콘크리트를 정확한 방법으로 배합할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 03-02-03]",
+   "code": "[건실 03-02-03]",
+   "text": "슬럼프 시험의 개념과 용도 및 방법을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 03-02-04]",
+   "code": "[건실 03-02-04]",
+   "text": "정확한 순서와 방법으로 슬럼프 시험을 할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 03-02-05]",
+   "code": "[건실 03-02-05]",
+   "text": "슬럼프 시험 방법을 건설 현장 적용 사례를 탐색할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 03-03-01]",
+   "code": "[건실 03-03-01]",
+   "text": "철근 콘크리트 공사 물량 산출을 위한 용어 및 적산 기준을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 03-03-02]",
+   "code": "[건실 03-03-02]",
+   "text": "철근 공사에 필요한 각종 물량을 산출할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 03-03-03]",
+   "code": "[건실 03-03-03]",
+   "text": "콘크리트 공사에 필요한 각종 물량을 산출할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 04-01-01]",
+   "code": "[건실 04-01-01]",
+   "text": "조적용 공구를 용도에 맞게 선택할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 04-01-02]",
+   "code": "[건실 04-01-02]",
+   "text": "조적용 공구를 정확한 방법으로 사용할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 04-02-01]",
+   "code": "[건실 04-02-01]",
+   "text": "벽돌 가공에 필요한 공구와 자재를 준비할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 04-02-02]",
+   "code": "[건실 04-02-02]",
+   "text": "벽돌 가공 작업을 하기 위하여 안전한 위치 선정과 올바른 자세를 취할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 04-02-03]",
+   "code": "[건실 04-02-03]",
+   "text": "벽돌을 수공구와 전동 공구를 사용하여 건식, 습식으로 정확히 가공할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 04-03-01]",
+   "code": "[건실 04-03-01]",
+   "text": "벽돌 쌓기에 필요한 공구와 자재를 준비할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 04-03-02]",
+   "code": "[건실 04-03-02]",
+   "text": "벽돌 쌓기를 위한 바탕 조정을 할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 04-03-03]",
+   "code": "[건실 04-03-03]",
+   "text": "벽돌 쌓기 작업을 하기 위하여 안전한 위치 선정과 올바른 자세를 취할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 04-03-04]",
+   "code": "[건실 04-03-04]",
+   "text": "실습 지시서에 제시된 조건과 도면에 맞게 구조물을 벽돌로 정확히 쌓을 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 04-04-01]",
+   "code": "[건실 04-04-01]",
+   "text": "블록 쌓기에 필요한 공구와 자재를 준비할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 04-04-02]",
+   "code": "[건실 04-04-02]",
+   "text": "블록 쌓기를 위한 바탕 조정을 할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 04-04-03]",
+   "code": "[건실 04-04-03]",
+   "text": "블록 쌓기 작업을 하기 위하여 안전한 위치 선정과 올바른 자세를 취할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 04-04-04]",
+   "code": "[건실 04-04-04]",
+   "text": "실습 지시서에 제시된 조건과 도면에 맞게 구조물을 블록으로 정확히 쌓을 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 04-05-01]",
+   "code": "[건실 04-05-01]",
+   "text": "조적 공사 물량 산출을 위한 용어 및 적산 기준을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 04-05-02]",
+   "code": "[건실 04-05-02]",
+   "text": "벽돌 쌓기 공사에 필요한 각종 물량을 산출할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 04-05-03]",
+   "code": "[건실 04-05-03]",
+   "text": "블록 쌓기 공사에 필요한 각종 물량을 산출할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 05-01-01]",
+   "code": "[건실 05-01-01]",
+   "text": "타일용 공구를 용도에 맞게 선택할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 05-01-02]",
+   "code": "[건실 05-01-02]",
+   "text": "타일용 공구를 정확한 방법으로 사용할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 05-02-01]",
+   "code": "[건실 05-02-01]",
+   "text": "타일 가공에 필요한 공구와 자재를 준비할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 05-02-02]",
+   "code": "[건실 05-02-02]",
+   "text": "타일 가공 작업을 하기 위하여 안전한 위치 선정과 올바른 자세를 취할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 05-02-03]",
+   "code": "[건실 05-02-03]",
+   "text": "타일을 수공구와 전동 공구를 사용하여 건식, 습식으로 정확히 가공할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 05-03-01]",
+   "code": "[건실 05-03-01]",
+   "text": "타일 붙이기에 필요한 공구와 자재를 준비할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 05-03-02]",
+   "code": "[건실 05-03-02]",
+   "text": "타일 붙이기를 위한 바탕 조정을 할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 05-03-03]",
+   "code": "[건실 05-03-03]",
+   "text": "타일 붙이기 작업을 하기 위하여 안전한 위치 선정과 올바른 자세를 취할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 05-03-04]",
+   "code": "[건실 05-03-04]",
+   "text": "실습 지시서에 제시된 조건과 도면에 맞게 구조물에 타일을 정확히 붙일 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 05-04-01]",
+   "code": "[건실 05-04-01]",
+   "text": "타일 공사 물량 산출을 위한 용어 및 적산 기준을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 05-04-02]",
+   "code": "[건실 05-04-02]",
+   "text": "타일 공사에 필요한 각종 물량을 산출할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 06-01-01]",
+   "code": "[건실 06-01-01]",
+   "text": "미장용 공구를 용도에 맞게 선택할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 06-01-02]",
+   "code": "[건실 06-01-02]",
+   "text": "미장용 공구를 정확한 방법으로 사용할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 06-02-01]",
+   "code": "[건실 06-02-01]",
+   "text": "용도별 미장에 필요한 공구와 재료를 준비할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 06-02-02]",
+   "code": "[건실 06-02-02]",
+   "text": "용도별 미장에 필요한 재료를 정확히 배합할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 06-03-01]",
+   "code": "[건실 06-03-01]",
+   "text": "시멘트 모르타르 바르기에 필요한 공구와 자재를 준비할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 06-03-02]",
+   "code": "[건실 06-03-02]",
+   "text": "시멘트 모르타르 바르기를 위한 바탕 조정을 할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 06-03-03]",
+   "code": "[건실 06-03-03]",
+   "text": "미장 작업을 하기 위하여 안전한 위치 선정과 올바른 자세를 취할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 06-03-04]",
+   "code": "[건실 06-03-04]",
+   "text": "실습 지시서에 제시된 조건과 도면에 맞게 시멘트 모르타르 바르기를 할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 06-04-01]",
+   "code": "[건실 06-04-01]",
+   "text": "미장 공사 물량 산출을 위한 용어 및 적산 기준을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 06-04-02]",
+   "code": "[건실 06-04-02]",
+   "text": "미장 공사에 필요한 각종 물량을 산출할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 07-01-01]",
+   "code": "[건실 07-01-01]",
+   "text": "도장용 공구를 용도에 맞게 선택할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 07-01-02]",
+   "code": "[건실 07-01-02]",
+   "text": "도장용 공구를 정확한 방법으로 사용할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 07-02-01]",
+   "code": "[건실 07-02-01]",
+   "text": "도장 바탕 조정에 필요한 공구와 재료를 준비할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 07-02-02]",
+   "code": "[건실 07-02-02]",
+   "text": "도장 바탕에 적합한 연마지로 연마할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 07-02-03]",
+   "code": "[건실 07-02-03]",
+   "text": "도장 바탕의 결함 부위를 퍼티로 메우고 건조 후 연마할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 07-03-01]",
+   "code": "[건실 07-03-01]",
+   "text": "수성 페인트 도장에 필요한 공구, 재료, 자재를 준비할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 07-03-02]",
+   "code": "[건실 07-03-02]",
+   "text": "수성 페인트 도장을 위한 바탕 조정을 할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 07-03-03]",
+   "code": "[건실 07-03-03]",
+   "text": "수성 페인트 도장 재료를 요구 조건에 맞게 희석 및 조색할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 07-03-04]",
+   "code": "[건실 07-03-04]",
+   "text": "도장 작업을 하기 위하여 안전한 위치 선정과 올바른 자세를 취할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 07-03-05]",
+   "code": "[건실 07-03-05]",
+   "text": "실습 지시서에 제시된 조건과 도면에 맞게 수성 페인트를 칠할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 07-04-01]",
+   "code": "[건실 07-04-01]",
+   "text": "유성 페인트 도장에 필요한 공구, 재료, 자재를 준비할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 07-04-02]",
+   "code": "[건실 07-04-02]",
+   "text": "유성 페인트 도장을 위한 바탕 조정을 할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 07-04-03]",
+   "code": "[건실 07-04-03]",
+   "text": "유성 페인트 도장 재료를 요구 조건에 맞게 희석 및 조색할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 07-04-04]",
+   "code": "[건실 07-04-04]",
+   "text": "도장 작업을 하기 위하여 안전한 위치 선정과 올바른 자세를 취할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 07-04-05]",
+   "code": "[건실 07-04-05]",
+   "text": "실습 지시서에 제시된 조건과 도면에 맞게 수성 페인트를 칠할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 07-05-01]",
+   "code": "[건실 07-05-01]",
+   "text": "건축 도장 공사 물량 산출을 위한 용어 및 적산 기준을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 07-05-02]",
+   "code": "[건실 07-05-02]",
+   "text": "수성 페인트 공사에 필요한 각종 물량을 산출할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-기초-실습:[건실 07-05-03]",
+   "code": "[건실 07-05-03]",
+   "text": "유성 페인트 공사에 필요한 각종 물량을 산출할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-도면-해석과-제도:[건해 01-01]",
+   "code": "[건해 01-01]",
+   "text": "건축 설계 도면의 종류에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-도면-해석과-제도:[건해 01-02]",
+   "code": "[건해 01-02]",
+   "text": "건축 제도에 사용되는 선과 글자를 제도 규칙 작성 방법에 맞게 쓸 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-도면-해석과-제도:[건해 01-03]",
+   "code": "[건해 01-03]",
+   "text": "척도와 치수를 제도 규칙에 맞도록 도면에 기입할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-도면-해석과-제도:[건해 01-04]",
+   "code": "[건해 01-04]",
+   "text": "각종 재료 표시 기호를 KS 제도 통칙과 규칙에 따라 정확하게 표현할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-도면-해석과-제도:[건해 01-05]",
+   "code": "[건해 01-05]",
+   "text": "건축 투시도를 투시 도법에 맞게 작도할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "manual-exception"
+  },
+  {
+   "key": "kr-2022-voc-건축-도면-해석과-제도:[건해 02-01]",
+   "code": "[건해 02-01]",
+   "text": "건축 CAD의 개념과 특징을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-도면-해석과-제도:[건해 02-02]",
+   "code": "[건해 02-02]",
+   "text": "건축 CAD의 도면 설정 및 기본 명령어를 사용할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-도면-해석과-제도:[건해 02-03]",
+   "code": "[건해 02-03]",
+   "text": "건축 평면, 입면, 단면 요소 그리기를 할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-도면-해석과-제도:[건해 03-01]",
+   "code": "[건해 03-01]",
+   "text": "건축물을 구성하는 기초, 기둥, 벽, 보, 바닥 등의 단면 구조를 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-도면-해석과-제도:[건해 03-02]",
+   "code": "[건해 03-02]",
+   "text": "건축 CAD 프로그램을 이용하여 기초와 바닥 그리기를 할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-도면-해석과-제도:[건해 03-03]",
+   "code": "[건해 03-03]",
+   "text": "건축 CAD 프로그램을 이용하여 벽체와 계단 그리기를 할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-도면-해석과-제도:[건해 03-04]",
+   "code": "[건해 03-04]",
+   "text": "건축 CAD 프로그램을 이용하여 천장과 지붕 그리기를 할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-도면-해석과-제도:[건해 04-01]",
+   "code": "[건해 04-01]",
+   "text": "가족 구성, 생활 양식, 요구 사항에 의한 주택의 평면 공간 계획 과정을 이해할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-도면-해석과-제도:[건해 04-02]",
+   "code": "[건해 04-02]",
+   "text": "실내 평면도를 그릴 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-도면-해석과-제도:[건해 04-03]",
+   "code": "[건해 04-03]",
+   "text": "실내 입면도를 그릴 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-도면-해석과-제도:[건해 04-04]",
+   "code": "[건해 04-04]",
+   "text": "실내 천장도를 그릴 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-도면-해석과-제도:[건해 04-05]",
+   "code": "[건해 04-05]",
+   "text": "실내 투시도를 그릴 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-도면-해석과-제도:[건해 04-06]",
+   "code": "[건해 04-06]",
+   "text": "주택 평면도를 그릴 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-도면-해석과-제도:[건해 04-07]",
+   "code": "[건해 04-07]",
+   "text": "주택 입면도를 그릴 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-도면-해석과-제도:[건해 04-08]",
+   "code": "[건해 04-08]",
+   "text": "주택 주 단면도를 그릴 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-도면-해석과-제도:[건해 04-09]",
+   "code": "[건해 04-09]",
+   "text": "건축 시공 실무 관련 각종 실시 설계 도면을 그릴 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 01-01-01]",
+   "code": "[건일 01-01-01]",
+   "text": "한국 건축의 역사적 변천 과정을 시대별로 구분할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 01-01-02]",
+   "code": "[건일 01-01-02]",
+   "text": "한국 건축의 시대별 대표 건축물의 구조적, 의장적 특징을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 01-01-03]",
+   "code": "[건일 01-01-03]",
+   "text": "한국 현대 건축의 경향, 대표적인 건축가, 주요 건축물을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 01-02-01]",
+   "code": "[건일 01-02-01]",
+   "text": "서양 건축의 역사적 변천 과정을 시대별로 구분할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 01-02-02]",
+   "code": "[건일 01-02-02]",
+   "text": "서양 건축의 시대별 대표 건축물의 구조적, 의장적 특징을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 01-02-03]",
+   "code": "[건일 01-02-03]",
+   "text": "서양 현대 건축의 경향, 대표적인 건축가, 주요 건축물을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 02-01-01]",
+   "code": "[건일 02-01-01]",
+   "text": "건축 계획의 진행 과정과 각 과정에서 이루어지는 진행 내용을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 02-01-02]",
+   "code": "[건일 02-01-02]",
+   "text": "건축 계획 과정에 관한 이론을 바탕으로 건축 계획 관련 현장 적용 사례를 탐색할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 02-01-03]",
+   "code": "[건일 02-01-03]",
+   "text": "건축 설계 단계에서 필요한 평면, 입면, 단면, 구조, 형태 계획 요소 등에 대한 이론적 지식을 탐색할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 02-01-04]",
+   "code": "[건일 02-01-04]",
+   "text": "건축의 평면 형태, 입면 형태, 구조적인 형태를 구성하여 건축물의 전체적인 형태를 계획 하여 현장 적용 사례를 탐색할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 02-02-01]",
+   "code": "[건일 02-02-01]",
+   "text": "건축물의 내외부 환경과의 상호 연관성을 예를 들어 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 02-02-02]",
+   "code": "[건일 02-02-02]",
+   "text": "건축 공간에 영향을 미치는 기후 및 환경 요소에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 02-02-03]",
+   "code": "[건일 02-02-03]",
+   "text": "건축 환경에 대한 이론적 지식을 바탕으로 현장 적용 사례를 탐색할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 02-03-01]",
+   "code": "[건일 02-03-01]",
+   "text": "건축 설비 중에서 급배수 및 위생 설비, 급탕 설비, 냉난방, 공기 조화 설비에 대한 개념 과 설비 방식 및 종류를 나열하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 02-03-02]",
+   "code": "[건일 02-03-02]",
+   "text": "건축 설비 중 통신 설비 및 수송 설비, 가스 설비, 소화 설비, 주차 설비에 대한 개념을 도식화하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 02-03-03]",
+   "code": "[건일 02-03-03]",
+   "text": "건축 설비에 대한 이론적 지식을 바탕으로 현장 적용 사례를 탐색할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 02-04-01]",
+   "code": "[건일 02-04-01]",
+   "text": "건축법의 체계를 도식화하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 02-04-02]",
+   "code": "[건일 02-04-02]",
+   "text": "건축법에 사용되는 용어의 정의, 건축물의 건축에 대한 개념을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 02-04-03]",
+   "code": "[건일 02-04-03]",
+   "text": "건축물의 대지 및 도로에 대한 개념을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 02-04-04]",
+   "code": "[건일 02-04-04]",
+   "text": "건축물의 구조 및 재료에 대한 개념을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 02-04-05]",
+   "code": "[건일 02-04-05]",
+   "text": "지역 및 지구의 건축물에 대한 개념을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 02-04-06]",
+   "code": "[건일 02-04-06]",
+   "text": "건축 법규에 관련된 이론적 지식을 바탕으로 현장 적용 사례를 탐색할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 03-01-01]",
+   "code": "[건일 03-01-01]",
+   "text": "주거 생활에 대한 기본적인 지식을 바탕으로 단독 주택 계획 시 유의점 및 설계 방향을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 03-01-02]",
+   "code": "[건일 03-01-02]",
+   "text": "단독 주택의 대지 및 주위 환경 조건을 조사할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 03-01-03]",
+   "code": "[건일 03-01-03]",
+   "text": "단독 주택 각 실의 공간, 평면, 구조 등 계획 요소를 반영하여 계획할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 03-01-04]",
+   "code": "[건일 03-01-04]",
+   "text": "단독 주택 계획에 대한 이론적 지식을 바탕으로 현장 적용 사례를 탐색할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 03-02-01]",
+   "code": "[건일 03-02-01]",
+   "text": "주거 생활에 대한 기본적인 지식을 바탕으로 공동 주택 계획 시 유의점 및 설계의 방향을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 03-02-02]",
+   "code": "[건일 03-02-02]",
+   "text": "공동 주택의 유형별 공간 계획, 평면 계획, 구조 계획 등 계획 요소를 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 03-02-03]",
+   "code": "[건일 03-02-03]",
+   "text": "공동 주택 계획에 대한 이론적 지식을 바탕으로 현장 적용 사례를 탐색할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 03-03-01]",
+   "code": "[건일 03-03-01]",
+   "text": "업무 시설의 배치와 평면 계획에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 03-03-02]",
+   "code": "[건일 03-03-02]",
+   "text": "교육 시설의 배치와 평면 계획에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 03-03-03]",
+   "code": "[건일 03-03-03]",
+   "text": "판매 시설의 배치와 평면 계획에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-01-01]",
+   "code": "[건일 04-01-01]",
+   "text": "건축물의 변천 과정과 건축물의 구성에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-01-02]",
+   "code": "[건일 04-01-02]",
+   "text": "건축 구조에 대한 개념과 건축물 안전의 중요성에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-01-03]",
+   "code": "[건일 04-01-03]",
+   "text": "건축물의 각 구조부에 작용하는 역학적 특성을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-01-04]",
+   "code": "[건일 04-01-04]",
+   "text": "각 부재에 작용하는 하중과 응력의 개념을 도식화하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-01-05]",
+   "code": "[건일 04-01-05]",
+   "text": "건축물의 구조 형식, 구조 재료, 시공 방법 등을 기준으로 건축물을 분류할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-01-06]",
+   "code": "[건일 04-01-06]",
+   "text": "건축물의 각 구조 방식에 따른 특징을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-02-01]",
+   "code": "[건일 04-02-01]",
+   "text": "목재의 종류와 특성을 알고 목구조의 장단점을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-02-02]",
+   "code": "[건일 04-02-02]",
+   "text": "건축에 사용되는 목재를 종류별로 구분하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-02-03]",
+   "code": "[건일 04-02-03]",
+   "text": "목구조에 사용되는 접합의 종류와 특징을 파악하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-02-04]",
+   "code": "[건일 04-02-04]",
+   "text": "이음, 맞춤, 쪽매 등의 접합 방법과 접합 부분의 보강 방법을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-02-05]",
+   "code": "[건일 04-02-05]",
+   "text": "목재의 접합에 대한 이론적 지식을 바탕으로 현장 적용 사례를 탐색할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-02-06]",
+   "code": "[건일 04-02-06]",
+   "text": "한식 구조의 개념 및 공사별 도면의 종류를 파악하여 이를 해석할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-02-07]",
+   "code": "[건일 04-02-07]",
+   "text": "부재 가공 및 접합, 각 구조부의 시공법을 이해하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-02-08]",
+   "code": "[건일 04-02-08]",
+   "text": "한식 구조에 대한 이론적 지식을 바탕으로 현장 적용 사례를 탐색할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-03-01]",
+   "code": "[건일 04-03-01]",
+   "text": "벽돌 구조의 일반적인 특징과 벽돌의 종류를 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-03-02]",
+   "code": "[건일 04-03-02]",
+   "text": "각종 벽돌 쌓기 형식과 각각의 쌓기 방법을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-03-03]",
+   "code": "[건일 04-03-03]",
+   "text": "벽돌 구조에 적용되는 법규 기준을 알고 현장 적용 사례를 탐색할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-03-04]",
+   "code": "[건일 04-03-04]",
+   "text": "블록 구조의 일반적인 특징과 블록의 종류를 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-03-05]",
+   "code": "[건일 04-03-05]",
+   "text": "각종 블록 쌓기 형식과 각각의 쌓기 방법을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-03-06]",
+   "code": "[건일 04-03-06]",
+   "text": "블록 구조에 적용되는 법규 기준을 파악하여 현장 적용 사례를 탐색할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-03-07]",
+   "code": "[건일 04-03-07]",
+   "text": "석재의 종류 및 표면 마감 방법을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-03-08]",
+   "code": "[건일 04-03-08]",
+   "text": "각종 돌 쌓기 형식과 그 접합 방법을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-03-09]",
+   "code": "[건일 04-03-09]",
+   "text": "돌 구조에 적용되는 법규 기준을 파악하여 현장 적용 사례를 탐색할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-04-01]",
+   "code": "[건일 04-04-01]",
+   "text": "철근 콘크리트 구조의 원리와 특징을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-04-02]",
+   "code": "[건일 04-04-02]",
+   "text": "철근 콘크리트 구조의 장단점을 이해하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-04-03]",
+   "code": "[건일 04-04-03]",
+   "text": "철근 콘크리트 구조의 형식에 따른 각 구조의 특징과 역학적 특성을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-04-04]",
+   "code": "[건일 04-04-04]",
+   "text": "철근 콘크리트 구조의 형식에 따른 각 구조의 장단점을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-04-05]",
+   "code": "[건일 04-04-05]",
+   "text": "철근 콘크리트를 구성하는 재료의 종류와 특징을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-04-06]",
+   "code": "[건일 04-04-06]",
+   "text": "철근 콘크리트 구성 재료가 갖추어야 할 조건을 파악하여 현장 적용 사례를 탐색할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-04-07]",
+   "code": "[건일 04-04-07]",
+   "text": "철근 콘크리트 구조의 기초, 기둥, 벽, 보, 바닥 등의 구조를 이해하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-04-08]",
+   "code": "[건일 04-04-08]",
+   "text": "철근의 배근, 이음, 정착에 대하여 이해하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-04-09]",
+   "code": "[건일 04-04-09]",
+   "text": "배근도를 보고 배근 상태를 점검하여 현장 적용 사례를 탐색할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-05-01]",
+   "code": "[건일 04-05-01]",
+   "text": "철골 구조의 기본적 개념을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-05-02]",
+   "code": "[건일 04-05-02]",
+   "text": "철골 구조를 재료와 종류를 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-05-03]",
+   "code": "[건일 04-05-03]",
+   "text": "철골 구조 접합의 종류와 특징을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-05-04]",
+   "code": "[건일 04-05-04]",
+   "text": "철골 구조 접합의 작업 내용과 순서를 파악하여 현장 적용 사례를 탐색할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-05-05]",
+   "code": "[건일 04-05-05]",
+   "text": "골조의 형식, 기둥 및 보, 바닥의 종류와 역학적 특성을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-05-06]",
+   "code": "[건일 04-05-06]",
+   "text": "각 주요 접합부의 구조적 특징을 이해하여 현장 적용 사례를 탐색할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-05-07]",
+   "code": "[건일 04-05-07]",
+   "text": "기타 철골 구조의 종류 및 구성 재료의 특징에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 04-05-08]",
+   "code": "[건일 04-05-08]",
+   "text": "기타 철골 구조의 구조적 특징을 이해하여 현장 적용 사례를 탐색할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 05-01-01]",
+   "code": "[건일 05-01-01]",
+   "text": "건축 재료의 발달 과정을 순서대로 나열할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 05-01-02]",
+   "code": "[건일 05-01-02]",
+   "text": "발달 과정에 따른 건축 재료의 특징에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 05-01-03]",
+   "code": "[건일 05-01-03]",
+   "text": "건축 재료의 변천과 건축물의 관계를 예를 들어 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 05-02-01]",
+   "code": "[건일 05-02-01]",
+   "text": "다양한 건축 재료의 종류 및 각각의 성질, 특성 등에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 05-02-02]",
+   "code": "[건일 05-02-02]",
+   "text": "건축물의 구조에 맞는 건축 재료를 선택할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 05-02-03]",
+   "code": "[건일 05-02-03]",
+   "text": "건축 재료의 특성을 고려하여 건축물에 적합한 재료를 선정하고, 건축 설계와 건축 시 공 현장 적용 사례를 탐색할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 06-01-01]",
+   "code": "[건일 06-01-01]",
+   "text": "가설 공사의 개념과 가설 공사 계획 요소를 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 06-01-02]",
+   "code": "[건일 06-01-02]",
+   "text": "가설 공사의 종류를 구분하여 각각의 특성을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 06-01-03]",
+   "code": "[건일 06-01-03]",
+   "text": "가설 울타리의 설치 규정과 방법을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 06-01-04]",
+   "code": "[건일 06-01-04]",
+   "text": "가설 건축물과 공통 가설 시설의 설치 규정을 현장에 적용한 사례를 탐색할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 06-01-05]",
+   "code": "[건일 06-01-05]",
+   "text": "각종 가설 안전 시설물의 종류 및 설치 규정, 용도를 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 06-01-06]",
+   "code": "[건일 06-01-06]",
+   "text": "각종 가설 안전 시설물과 안전사고 사례를 조사하여 현장 적용 사례를 탐색할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 06-01-07]",
+   "code": "[건일 06-01-07]",
+   "text": "가설 양중 시설과 장비의 종류별 용도를 구분하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 06-01-08]",
+   "code": "[건일 06-01-08]",
+   "text": "가설 양중 시설과 장비를 현장에 적용한 사례를 탐색할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 06-02-01]",
+   "code": "[건일 06-02-01]",
+   "text": "건축 시공의 발달, 건축 생산 과정, 건축 시공 계획 및 관리 등에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 06-02-02]",
+   "code": "[건일 06-02-02]",
+   "text": "건축 시공과 관련된 건축주, 설계자와 공사 감리자, 시공자 등의 개념에 대해 이해하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 06-02-03]",
+   "code": "[건일 06-02-03]",
+   "text": "건축 시공 관계자의 역할과 업무를 현장에 적용한 사례를 탐색할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 06-02-04]",
+   "code": "[건일 06-02-04]",
+   "text": "건축 공사의 실시 방식, 시공자 선정, 공사 계획 및 관리 등에 대해 이해하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 06-02-05]",
+   "code": "[건일 06-02-05]",
+   "text": "건축 공사 방식, 시공자 선정, 공사 관리 등에 대한 전반적인 내용을 현장에 적용한 사례 를 탐색할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 06-02-06]",
+   "code": "[건일 06-02-06]",
+   "text": "시방서 및 적산, 견적의 개념과 종류 등에 대해 이해하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 06-02-07]",
+   "code": "[건일 06-02-07]",
+   "text": "시방서 및 적산, 견적에 대한 내용을 현장에 적용한 사례를 탐색할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 06-02-08]",
+   "code": "[건일 06-02-08]",
+   "text": "건축물 인허가와 관련된 법규, 담당 관청 및 부서, 제출 시기, 수속 절차 등에 대해 이해 하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-건축-일반:[건일 06-02-09]",
+   "code": "[건일 06-02-09]",
+   "text": "건축물 인허가에 관련된 전반적인 내용을 현장에 적용한 사례를 탐색할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 01-01-01]",
+   "code": "[공업 01-01-01]",
+   "text": "산업 분류 방식을 이해하여 산업의 개념과 구조를 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 01-01-02]",
+   "code": "[공업 01-01-02]",
+   "text": "산업에서 공업의 개념을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 01-01-03]",
+   "code": "[공업 01-01-03]",
+   "text": "산업에서 공업의 위상과 역할을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 01-02-01]",
+   "code": "[공업 01-02-01]",
+   "text": "공업의 유형을 구분하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 01-02-02]",
+   "code": "[공업 01-02-02]",
+   "text": "공업의 유형별 종류를 예를 들어 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 01-03-01]",
+   "code": "[공업 01-03-01]",
+   "text": "산업 혁명의 발생 배경을 이해하고, 시기별 산업의 발달 과정을 구분할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 01-03-02]",
+   "code": "[공업 01-03-02]",
+   "text": "산업 혁명 시기별 세계 공업의 발달 과정을 구분하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 01-03-03]",
+   "code": "[공업 01-03-03]",
+   "text": "산업 혁명 시기부터 최근까지 우리나라 공업의 발달 과정을 구분하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 01-04-01]",
+   "code": "[공업 01-04-01]",
+   "text": "세계 주요 공업 지역의 현황과 특징을 조사하여 발표할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 01-04-02]",
+   "code": "[공업 01-04-02]",
+   "text": "우리 나라 공업의 현황과 특징을 조사하여 발표할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 02-01-01]",
+   "code": "[공업 02-01-01]",
+   "text": "표준화의 개념을 이해하고 기능과 역할을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 02-01-02]",
+   "code": "[공업 02-01-02]",
+   "text": "한국 산업 표준 및 국제 표준 분류 체계 및 영역을 구분하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 02-01-03]",
+   "code": "[공업 02-01-03]",
+   "text": "공업 기술에서 구체적인 표준화의 예를 조사하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 02-02-01]",
+   "code": "[공업 02-02-01]",
+   "text": "자동화의 정의와 특징을 이해하고, 자동화를 영역별로 구분하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 02-02-02]",
+   "code": "[공업 02-02-02]",
+   "text": "자동 시스템의 요소를 구분하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 02-02-03]",
+   "code": "[공업 02-02-03]",
+   "text": "로봇의 발달 과정을 구분하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 02-02-04]",
+   "code": "[공업 02-02-04]",
+   "text": "지능형 로봇의 핵심 기술을 이해하고, 구체적인 활용을 조사하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 02-03-01]",
+   "code": "[공업 02-03-01]",
+   "text": "융복합 기술의 개념을 이해하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 02-03-02]",
+   "code": "[공업 02-03-02]",
+   "text": "융복합 기술을 범위, 활용 목적, 분야의 유형으로 구분하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 02-03-03]",
+   "code": "[공업 02-03-03]",
+   "text": "공업에서 융복합 기술 활용의 구체적인 예를 조사하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 02-04-01]",
+   "code": "[공업 02-04-01]",
+   "text": "기술 변화의 주류와 산업 구조의 변화를 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 02-04-02]",
+   "code": "[공업 02-04-02]",
+   "text": "디지털 기술 전환에 따른 사회적, 경제적 변화를 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 03-01-01]",
+   "code": "[공업 03-01-01]",
+   "text": "기술 경영의 의미와 필요성을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 03-01-02]",
+   "code": "[공업 03-01-02]",
+   "text": "ESG의 개념 및 생태계 등을 이해하고, 기술 경영에서 실천 방안에 대해 토론할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 03-02-01]",
+   "code": "[공업 03-02-01]",
+   "text": "생산 관리의 개념과 원칙, 제품 계획, 수요 예측, 생산 계획 등을 이해하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 03-02-02]",
+   "code": "[공업 03-02-02]",
+   "text": "공정 관리의 개념과 공정 계획 등을 이해하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 03-02-03]",
+   "code": "[공업 03-02-03]",
+   "text": "작업 관리의 개념과 절차, 관리 내용 등을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 03-02-04]",
+   "code": "[공업 03-02-04]",
+   "text": "품질 관리의 개념과 효과, 품질 관리 기법 등을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 03-02-05]",
+   "code": "[공업 03-02-05]",
+   "text": "전사적 자원 관리(ERP) 시스템의 개념과 역할, 운영 체제를 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 03-02-06]",
+   "code": "[공업 03-02-06]",
+   "text": "생산성 및 품질 등의 향상을 위한 기업의 혁신적 경영 활동 사례를 조사하여 발표할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 03-03-01]",
+   "code": "[공업 03-03-01]",
+   "text": "공업 입지 요인과 유형을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 03-03-02]",
+   "code": "[공업 03-03-02]",
+   "text": "공업 입지의 변화와 첨단 산업의 입지 등을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 03-04-01]",
+   "code": "[공업 03-04-01]",
+   "text": "기술 경영 지원 활동의 개념과 역할에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 03-04-02]",
+   "code": "[공업 03-04-02]",
+   "text": "창업의 요소와 절차를 이해하고, 기술 경영과 관련하여 창업의 의미를 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 04-01-01]",
+   "code": "[공업 04-01-01]",
+   "text": "공업화에 따른 사회의 변화를 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 04-01-02]",
+   "code": "[공업 04-01-02]",
+   "text": "탈공업화 사회의 개념과 특징을 설명하고, 탈공업화에 대한 사례를 조사하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 04-02-01]",
+   "code": "[공업 04-02-01]",
+   "text": "공업화에 따른 환경 오염의 특징 및 문제점과 관련하여 환경 보전의 필요성을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 04-02-02]",
+   "code": "[공업 04-02-02]",
+   "text": "대기, 수질, 토양 오염의 원인을 공업화와 관련하여 설명하고 오염 방지에 대해 토론할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 04-02-03]",
+   "code": "[공업 04-02-03]",
+   "text": "작업 환경에 의한 직업병의 원인 및 유해 요인을 파악하고 개선 방법을 조사하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 04-03-01]",
+   "code": "[공업 04-03-01]",
+   "text": "공업의 발달과 일자리의 관계를 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 04-03-02]",
+   "code": "[공업 04-03-02]",
+   "text": "공업의 발달에 따른 일자리의 변화를 조사하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 04-03-03]",
+   "code": "[공업 04-03-03]",
+   "text": "기술의 발달과 일하는 방식의 관계를 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 04-03-04]",
+   "code": "[공업 04-03-04]",
+   "text": "공업의 발달에 따른 일과 일하는 방식의 변화가 사회에 미치는 영향에 대해 토론할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 04-04-01]",
+   "code": "[공업 04-04-01]",
+   "text": "현재 공업 발전 현황을 파악하고, 미래 공업의 발전 가능성을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 04-04-02]",
+   "code": "[공업 04-04-02]",
+   "text": "공업의 변화에 따른 미래 사회의 변화에 대해 토론할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 05-01-01]",
+   "code": "[공업 05-01-01]",
+   "text": "미래 산업 사회에서 필요로 하는 인재에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 05-01-02]",
+   "code": "[공업 05-01-02]",
+   "text": "공업 사회에서 필요로 하는 인재상에 대해 토론할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 05-02-01]",
+   "code": "[공업 05-02-01]",
+   "text": "기업가 정신의 의의와 역할을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 05-02-02]",
+   "code": "[공업 05-02-02]",
+   "text": "기업가 정신의 핵심적 의미와 보완적 의미를 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 05-02-03]",
+   "code": "[공업 05-02-03]",
+   "text": "기업가 정신을 실천한 역사적 인물과 사례를 조사하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 05-03-01]",
+   "code": "[공업 05-03-01]",
+   "text": "역량의 개념과 개발 절차를 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 05-03-02]",
+   "code": "[공업 05-03-02]",
+   "text": "공업 사회에서 필요로 하는 역량을 조사하여 함양할 수 있는 방안을 토론할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 05-04-01]",
+   "code": "[공업 05-04-01]",
+   "text": "경력의 의미를 이해하고, 경력 개발의 목적과 과정에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 05-04-02]",
+   "code": "[공업 05-04-02]",
+   "text": "경력 개발의 직무 설계 과정에서 직무 분석의 목적과 절차, 방법을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-일반:[공업 05-04-03]",
+   "code": "[공업 05-04-03]",
+   "text": "공업 사회에서 성장하기 위한 나의 경력을 설계할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 01-01-01]",
+   "code": "[기초 01-01-01]",
+   "text": "제도의 개념을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 01-02-01]",
+   "code": "[기초 01-02-01]",
+   "text": "도면의 뜻과 기능을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 01-02-02]",
+   "code": "[기초 01-02-02]",
+   "text": "도면의 기본 요건을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 01-02-03]",
+   "code": "[기초 01-02-03]",
+   "text": "도면의 분류 방법에 따라 분류할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 01-03-01]",
+   "code": "[기초 01-03-01]",
+   "text": "도면 작성에 쓰이는 제도 용구의 종류와 용도를 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 01-03-02]",
+   "code": "[기초 01-03-02]",
+   "text": "제도 용구의 바른 사용 방법을 파악하여 제도 준비를 할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 02-01-01]",
+   "code": "[기초 02-01-01]",
+   "text": "표준 규격의 뜻과 필요성에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 02-01-02]",
+   "code": "[기초 02-01-02]",
+   "text": "표준 규격의 종류와 실제 사용되는 예를 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 02-01-03]",
+   "code": "[기초 02-01-03]",
+   "text": "각 산업 부문에 따른 KS 제도 통칙과 부문별 기호를 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 02-02-01]",
+   "code": "[기초 02-02-01]",
+   "text": "KS 제도 통칙에 따른 도면의 크기와 양식에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 02-02-02]",
+   "code": "[기초 02-02-02]",
+   "text": "도면에 사용되는 척도의 종류 및 표시 방법, 기입 방법을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 02-03-01]",
+   "code": "[기초 02-03-01]",
+   "text": "도면에 사용되는 선의 종류와 용도에 따른 알맞은 선을 그릴 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 02-03-02]",
+   "code": "[기초 02-03-02]",
+   "text": "문자의 종류와 용도를 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 02-04-01]",
+   "code": "[기초 02-04-01]",
+   "text": "치수의 단위, 치수 기입의 요소, 치수 보조 기호 등을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 02-04-02]",
+   "code": "[기초 02-04-02]",
+   "text": "치수 기입 방법의 원칙을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 02-04-03]",
+   "code": "[기초 02-04-03]",
+   "text": "각종 치수 기입 방법대로 도면에 치수를 바르게 기입할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 03-01-01]",
+   "code": "[기초 03-01-01]",
+   "text": "주어진 선과 각을 등분할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 03-01-02]",
+   "code": "[기초 03-01-02]",
+   "text": "주어진 선과 원을 이용하여 다각형을 그릴 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 03-01-03]",
+   "code": "[기초 03-01-03]",
+   "text": "주어진 3점을 이용하여 원을 그릴 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 03-01-04]",
+   "code": "[기초 03-01-04]",
+   "text": "주어진 단축과 장축을 이용하여 타원을 그릴 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 03-02-01]",
+   "code": "[기초 03-02-01]",
+   "text": "정투상법을 이해하고 방법을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 03-02-02]",
+   "code": "[기초 03-02-02]",
+   "text": "제3각법으로 물체를 나타낼 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 03-02-03]",
+   "code": "[기초 03-02-03]",
+   "text": "투상도를 선정하는 방법을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 03-02-04]",
+   "code": "[기초 03-02-04]",
+   "text": "정투상법에 의하여 나타낸 물체의 투상도를 규정에 맞게 배치할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 03-03-01]",
+   "code": "[기초 03-03-01]",
+   "text": "단면도를 그리는 방법에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 03-03-02]",
+   "code": "[기초 03-03-02]",
+   "text": "단면도의 종류와 특징에 대해 이해하고, 물체의 모양에 따라 단면도를 나타낼 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 03-03-03]",
+   "code": "[기초 03-03-03]",
+   "text": "도형 생략의 종류와 표시 방법에 대해 이해하고 그릴 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 03-04-01]",
+   "code": "[기초 03-04-01]",
+   "text": "축측 투상도의 원리와 특징을 적용하여 등각 투상도를 그릴 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 03-04-02]",
+   "code": "[기초 03-04-02]",
+   "text": "사투상도의 원리와 특징, 용도에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 03-04-03]",
+   "code": "[기초 03-04-03]",
+   "text": "투시 투상도의 원리와 특징, 용도에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 03-05-01]",
+   "code": "[기초 03-05-01]",
+   "text": "평행선법을 이용한 전개 도법을 적용하여 경사로 갈라진 원기둥의 전개도를 그릴 수 있 다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 03-05-02]",
+   "code": "[기초 03-05-02]",
+   "text": "방사선법을 이용한 전개 도법을 적용하여 원뿔의 전개도를 그릴 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 03-05-03]",
+   "code": "[기초 03-05-03]",
+   "text": "삼각형법을 이용한 전개 도법을 적용하여 윗면이 수평으로 잘린 원뿔의 전개도를 그릴 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 04-01-01]",
+   "code": "[기초 04-01-01]",
+   "text": "프리핸드로 스케치 선을 그릴 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 04-01-02]",
+   "code": "[기초 04-01-02]",
+   "text": "간단한 제품을 스케치할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 04-02-01]",
+   "code": "[기초 04-02-01]",
+   "text": "스케치도의 뜻과 용도를 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 04-02-02]",
+   "code": "[기초 04-02-02]",
+   "text": "스케치 용구의 종류를 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 04-02-03]",
+   "code": "[기초 04-02-03]",
+   "text": "스케치하는 방법과 순서를 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 05-01-01]",
+   "code": "[기초 05-01-01]",
+   "text": "기계를 구성하는 기본 부품인 기계요소에 대해서 말할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 05-01-02]",
+   "code": "[기초 05-01-02]",
+   "text": "기계요소의 종류와 용도를 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 05-01-03]",
+   "code": "[기초 05-01-03]",
+   "text": "간단한 각종 기계요소의 도면을 그릴 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 05-02-01]",
+   "code": "[기초 05-02-01]",
+   "text": "전기 제도의 부품 기호와 배선 기호를 나타내는 방법을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 05-02-02]",
+   "code": "[기초 05-02-02]",
+   "text": "전기적인 특성과 회로의 동작 기능, 전기 부품의 특징 등을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 05-02-03]",
+   "code": "[기초 05-02-03]",
+   "text": "간단한 전기 배선도 및 시퀀스 회로도를 그릴 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 05-03-01]",
+   "code": "[기초 05-03-01]",
+   "text": "전자 제도의 부품 기호를 나타내는 방법을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 05-03-02]",
+   "code": "[기초 05-03-02]",
+   "text": "전자적인 특성과 회로의 동작 기능, 전자 부품의 특징 등을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 05-03-03]",
+   "code": "[기초 05-03-03]",
+   "text": "간단한 전자 회로도 및 전자 회로 패턴도를 그릴 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 05-04-01]",
+   "code": "[기초 05-04-01]",
+   "text": "화학 공업의 특징과 화공 제도의 의미, 화공 도면의 종류 등을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 05-04-02]",
+   "code": "[기초 05-04-02]",
+   "text": "화학 장치도, 제조 공정도, 공정 계정도 등의 원리와 구조를 이해하고, 간단한 화공 도 면을 그릴 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 05-05-01]",
+   "code": "[기초 05-05-01]",
+   "text": "건축물의 생산 과정 및 건축 제도의 의미를 알고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 05-05-02]",
+   "code": "[기초 05-05-02]",
+   "text": "건축 도면의 종류에 대해서 알 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 05-05-03]",
+   "code": "[기초 05-05-03]",
+   "text": "주택의 평면도, 입면도, 단면도, 실내 투시도 등의 작도 방법을 알고, 간단한 건축 도면 을 그릴 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 05-06-01]",
+   "code": "[기초 05-06-01]",
+   "text": "토목 제도의 의미와 토목 재료의 단면 표시, 토목 구조물 도면의 종류 등을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 05-06-02]",
+   "code": "[기초 05-06-02]",
+   "text": "옹벽 구조물과 암거 구조물 등의 작도 방법을 알고, 간단한 토목 도면을 그릴 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 05-07-01]",
+   "code": "[기초 05-07-01]",
+   "text": "유체의 저항을 줄이기 위한 유선형을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 05-07-02]",
+   "code": "[기초 05-07-02]",
+   "text": "자동차, 항공기, 선박 등 여러 형태의 유선체와 창의적 아이디어가 반영된 모델링을 이 용하여 곡면 선도를 그릴 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 05-08-01]",
+   "code": "[기초 05-08-01]",
+   "text": "디자인의 의미와 조건, 기본 과정을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 05-08-02]",
+   "code": "[기초 05-08-02]",
+   "text": "제품의 기본 형태를 분석하여 스케치할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 06-01-01]",
+   "code": "[기초 06-01-01]",
+   "text": "CAD의 정의와 구성 요소, 활용 분야에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 06-01-02]",
+   "code": "[기초 06-01-02]",
+   "text": "CAD에서 도면 작성에 필요한 기본 설정을 할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 06-02-01]",
+   "code": "[기초 06-02-01]",
+   "text": "CAD의 기초적인 명령어를 사용하여 원, 다각형 등의 기본 도형을 그릴 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 06-02-02]",
+   "code": "[기초 06-02-02]",
+   "text": "CAD의 편집 명령어를 사용하여 기본 도형을 편집하거나 수정할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 06-02-03]",
+   "code": "[기초 06-02-03]",
+   "text": "선의 특성에 맞게 기본 도형을 변경할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 06-03-01]",
+   "code": "[기초 06-03-01]",
+   "text": "CAD 명령어를 사용하여 투상도를 그릴 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 06-03-02]",
+   "code": "[기초 06-03-02]",
+   "text": "CAD 명령어를 사용하여 치수를 기입할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 06-03-03]",
+   "code": "[기초 06-03-03]",
+   "text": "CAD로 그린 도면을 플로터나 프린터를 사용하여 출력할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 07-01-01]",
+   "code": "[기초 07-01-01]",
+   "text": "검도의 뜻과 검도 순서 및 각 요소별 검도 항목에 따른 검도 방법을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 07-01-02]",
+   "code": "[기초 07-01-02]",
+   "text": "제품의 기능에 알맞은 검도 항목을 선정할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 07-01-03]",
+   "code": "[기초 07-01-03]",
+   "text": "선정된 검도 항목에 따라 도면을 검사할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 07-02-01]",
+   "code": "[기초 07-02-01]",
+   "text": "도면 관리의 업무 절차와 도면의 변경 방법을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 07-02-02]",
+   "code": "[기초 07-02-02]",
+   "text": "컴퓨터를 이용한 도면 관리 시스템의 기능을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기초-제도:[기초 07-02-03]",
+   "code": "[기초 07-02-03]",
+   "text": "컴퓨터 도면 관리 시스템을 이용하여 도면을 관리할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 01-01-01]",
+   "code": "[드기 01-01-01]",
+   "text": "드론에 대한 이해와 분류에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 01-01-02]",
+   "code": "[드기 01-01-02]",
+   "text": "드론의 역사와 발전사에 대해 이해하고 활용 방안에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 01-01-03]",
+   "code": "[드기 01-01-03]",
+   "text": "드론의 분류에 대해 이해하고 활용 분야에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 01-02-01]",
+   "code": "[드기 01-02-01]",
+   "text": "드론의 시스템 구성에 대해 이해하고 활용에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 01-02-02]",
+   "code": "[드기 01-02-02]",
+   "text": "드론의 구성 및 원리에 대해 이해하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 01-02-03]",
+   "code": "[드기 01-02-03]",
+   "text": "드론 추력 부분(FC, 변속기, 모터, 프로펠러)의 구성품 각각의 부품에 대한 이해와 추 력을 발생하는 주요 부분에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 01-03-01]",
+   "code": "[드기 01-03-01]",
+   "text": "송수신기의 종류 및 역할에 대해 이해하고, 송신기와 수신기의 연결 과정을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 01-03-02]",
+   "code": "[드기 01-03-02]",
+   "text": "조종기 및 수신기의 올바른 관리와 점검에 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 01-03-03]",
+   "code": "[드기 01-03-03]",
+   "text": "배터리의 종류, 사용 방법, 배터리를 관리 보관할 때 주의 사항에 대해 이해하고 올바르 게 취급하고 활용할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 01-04-01]",
+   "code": "[드기 01-04-01]",
+   "text": "드론 프로펠러 개수에 따른 기본 구조 및 원리, 비행 형태에 따른 원리에 대해 이해하고 조종할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 01-04-02]",
+   "code": "[드기 01-04-02]",
+   "text": "드론의 토크 상쇄 현상 및 비행 특성에 적용되는 균형의 원리, 방향 전환의 윈리를 이해 하고 조종할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 01-04-03]",
+   "code": "[드기 01-04-03]",
+   "text": "드론 비행 장치에 미치는 양력, 중력, 추력, 항력에 대하여 이해하고, 드론에 작용하는 힘의 순서에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 01-04-04]",
+   "code": "[드기 01-04-04]",
+   "text": "날개(에어포일)에 대한 정의와 에어포일의 각 부분에 대한 명칭을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 02-01-01]",
+   "code": "[드기 02-01-01]",
+   "text": "항공법의 개념 및 항공법을 분류하고 국제 항공법과 국내 항공법을 분류할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 02-01-02]",
+   "code": "[드기 02-01-02]",
+   "text": "항공법 발달과 항공 사업 법령, 안전 법령, 공항 시설 법령의 주요 개편 내용을 구분할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 02-01-03]",
+   "code": "[드기 02-01-03]",
+   "text": "시카고 협약과 국제민간항공기구의 상호 관계에 대한 이해와 규정에 대해 파악할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 02-01-04]",
+   "code": "[드기 02-01-04]",
+   "text": "「항공 안전법」의 목적을 이해하고 용어를 정의할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 02-01-05]",
+   "code": "[드기 02-01-05]",
+   "text": "드론의 범위 및 종류를 이해하고 구분하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 02-02-01]",
+   "code": "[드기 02-02-01]",
+   "text": "대기의 구성, 구조별(대류권, 성층권, 중간권, 열권) 고도, 특성에 대해 이해하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 02-02-02]",
+   "code": "[드기 02-02-02]",
+   "text": "드론에 영향을 주는 자연 현상에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 02-02-03]",
+   "code": "[드기 02-02-03]",
+   "text": "시정과 시정 장애 현상에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 02-02-04]",
+   "code": "[드기 02-02-04]",
+   "text": "고기압과 저기압, 기단과 전선에 대하여 이해하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 02-02-05]",
+   "code": "[드기 02-02-05]",
+   "text": "뇌우 및 난기류에 대하여 이해하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 02-03-01]",
+   "code": "[드기 02-03-01]",
+   "text": "무인기 분류 및 시스템 구성 요소를 검토하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 02-03-02]",
+   "code": "[드기 02-03-02]",
+   "text": "시스템 원리 및 탑재 시스템 점검 특성을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 03-01-01]",
+   "code": "[드기 03-01-01]",
+   "text": "비행 임무에 따라 임무 장비를 파악할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 03-01-02]",
+   "code": "[드기 03-01-02]",
+   "text": "부여된 비행 임무에 따라 비행 지역을 지도상으로 확인할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 03-01-03]",
+   "code": "[드기 03-01-03]",
+   "text": "운용자 매뉴얼에 따라 전파 도달 거리를 확인할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 03-02-01]",
+   "code": "[드기 03-02-01]",
+   "text": "풍향 지시계를 활용하여 이착륙 지역의 풍향/풍속을 파악할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 03-02-02]",
+   "code": "[드기 03-02-02]",
+   "text": "육안 관측을 통하여 시정 및 장애물을 파악할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 03-02-03]",
+   "code": "[드기 03-02-03]",
+   "text": "비행 지역의 비행 제한 사항을 파악할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 03-03-01]",
+   "code": "[드기 03-03-01]",
+   "text": "항공 관련 법규 및 임무 계획에 따라 비행 계획서를 작성할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 03-03-02]",
+   "code": "[드기 03-03-02]",
+   "text": "항공 관련 법규 및 임무 계획에 따라 작성된 비행 계획서를 제출할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 03-03-03]",
+   "code": "[드기 03-03-03]",
+   "text": "비행 브리핑을 위한 비행 계획을 작성할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 03-04-01]",
+   "code": "[드기 03-04-01]",
+   "text": "항공 관련 법규 및 임무 계획에 따라 비행 계획을 제출하여 비행인가를 득할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 03-04-02]",
+   "code": "[드기 03-04-02]",
+   "text": "항공 관련 법규 및 임무 계획에 따라 제한공역의 비행인가를 득할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 03-04-03]",
+   "code": "[드기 03-04-03]",
+   "text": "항공 관련 법규 및 임무 계획에 따라 항공촬영 허가를 득할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 04-01-01]",
+   "code": "[드기 04-01-01]",
+   "text": "비행 절차서에 따라 육안에 의한 점검을 할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 04-01-02]",
+   "code": "[드기 04-01-02]",
+   "text": "비행 절차서에 따라 동력 장치 및 배터리의 외부 이상 여부를 점검할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 04-01-03]",
+   "code": "[드기 04-01-03]",
+   "text": "비행 절차서에 따라 조종 장치의 주파수 및 통신 작동 여부를 점검할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 04-01-04]",
+   "code": "[드기 04-01-04]",
+   "text": "비행 절차서에 따라 임무 장비의 장착 상태를 점검할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 04-01-05]",
+   "code": "[드기 04-01-05]",
+   "text": "비행 절차서에 따라 임무 장비의 정상 작동 유무를 점검할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 04-02-01]",
+   "code": "[드기 04-02-01]",
+   "text": "비행 절차서에 따라 회전익기의 상승비행 직후 정상 작동 유무를 점검할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 04-02-02]",
+   "code": "[드기 04-02-02]",
+   "text": "비행 절차서에 따라 회전익기의 정지 비행 상태에서 조종면 트림(trim)을 할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 04-02-03]",
+   "code": "[드기 04-02-03]",
+   "text": "운용자 매뉴얼에 따라 멀티콥터의 조종 특성을 파악할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 04-02-04]",
+   "code": "[드기 04-02-04]",
+   "text": "운용자 매뉴얼에 따라 소형무인기 형태별 조종 특성을 비교하여 파악할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 04-03-01]",
+   "code": "[드기 04-03-01]",
+   "text": "비행 절차서에 따라 조종 장치를 이용하여 회전익 소형무인기를 이착륙할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 04-03-02]",
+   "code": "[드기 04-03-02]",
+   "text": "비행 절차서에 따라 조종 장치를 이용하여 이착륙을 할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 04-03-03]",
+   "code": "[드기 04-03-03]",
+   "text": "비행 절차서에 따라 안전한 이착륙을 할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 04-04-01]",
+   "code": "[드기 04-04-01]",
+   "text": "비행 절차서에 따라 일정한 고도, 속도, 방향을 유지할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 04-04-02]",
+   "code": "[드기 04-04-02]",
+   "text": "비행 절차서에 따라 상승, 하강 비행을 할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 04-04-03]",
+   "code": "[드기 04-04-03]",
+   "text": "비행 절차서에 따라 수평 앞뒤, 좌우로 회전 비행을 할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 04-04-04]",
+   "code": "[드기 04-04-04]",
+   "text": "비행 절차서에 따라 선회비행을 할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-드론-기초:[드기 04-04-05]",
+   "code": "[드기 04-04-05]",
+   "text": "비행 절차서에 따라 주변의 장애 상황을 조종 장치로 회피할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-시티-기초:[스티 01-01-01]",
+   "code": "[스티 01-01-01]",
+   "text": "심각한 도시화로 인한 다양한 도시 문제의 발생 과정을 요약할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-시티-기초:[스티 01-01-02]",
+   "code": "[스티 01-01-02]",
+   "text": "기술의 변화와 발전이 도시 및 인간 삶의 변화에 미치는 영향을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-시티-기초:[스티 01-02-01]",
+   "code": "[스티 01-02-01]",
+   "text": "4차 산업 혁명의 주요 내용과 특징을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-시티-기초:[스티 01-02-02]",
+   "code": "[스티 01-02-02]",
+   "text": "4차 산업 혁명이 스마트 시티 출현에 미치는 영향을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-시티-기초:[스티 01-03-01]",
+   "code": "[스티 01-03-01]",
+   "text": "스마트 시티의 출현 배경과 관련 기술을 요약하여 스마트 시티의 개념을 정의할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-시티-기초:[스티 01-03-02]",
+   "code": "[스티 01-03-02]",
+   "text": "스마트 시티의 구성 요소와 특징, 기대 효과 등을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-시티-기초:[스티 02-01-01]",
+   "code": "[스티 02-01-01]",
+   "text": "국내 스마트 시티의 추진 정책과 동향을 파악하고, 국내 스마트 시티의 성격과 특징에 대하여 분석할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-시티-기초:[스티 02-02-01]",
+   "code": "[스티 02-02-01]",
+   "text": "국외 스마트 시티의 추진 정책과 동향을 파악하고, 국외 스마트 시티의 성격과 특징에 대하여 분석할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-시티-기초:[스티 02-02-02]",
+   "code": "[스티 02-02-02]",
+   "text": "국내외 스마트 시티의 정책과 동향을 요약하고. 국가별 성격과 특징을 비교할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-시티-기초:[스티 03-01-01]",
+   "code": "[스티 03-01-01]",
+   "text": "교통 분야와 관련된 스마트 시티에 대한 핵심 기술의 종류와 특성을 조사하여 분석할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-시티-기초:[스티 03-01-02]",
+   "code": "[스티 03-01-02]",
+   "text": "교통 분야와 관련된 스마트 시티의 핵심 기술이 도시 공간 및 교통 산업에 끼치는 영향에 대하여 예측하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-시티-기초:[스티 03-02-01]",
+   "code": "[스티 03-02-01]",
+   "text": "건설 분야와 관련된 스마트 시티에 대한 핵심 기술의 종류와 특성을 조사하여 분석할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-시티-기초:[스티 03-02-02]",
+   "code": "[스티 03-02-02]",
+   "text": "건설 분야와 관련된 스마트 시티의 핵심 기술이 도시 공간 및 건설 산업에 끼치는 영향에 대하여 예측하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-시티-기초:[스티 03-03-01]",
+   "code": "[스티 03-03-01]",
+   "text": "에너지 분야와 관련된 스마트 시티에 대한 핵심 기술의 종류와 특성을 조사하여 분석할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-시티-기초:[스티 03-03-02]",
+   "code": "[스티 03-03-02]",
+   "text": "에너지 분야와 관련된 스마트 시티의 핵심 기술이 도시 공간 및 에너지 산업에 끼치는 영향에 대하여 예측하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-시티-기초:[스티 03-04-01]",
+   "code": "[스티 03-04-01]",
+   "text": "인간 삶에 관련된 스마트 시티에 대한 핵심 기술의 종류와 특성을 조사하여 분석할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-시티-기초:[스티 03-04-02]",
+   "code": "[스티 03-04-02]",
+   "text": "인간 삶에 관련된 스마트 시티의 핵심 기술이 도시 공간 및 의료 산업, 지역 공동체에 끼치는 영향에 대하여 예측하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-시티-기초:[스티 04-01-01]",
+   "code": "[스티 04-01-01]",
+   "text": "스마트 시티를 구성하는 주요 기술에 대하여 열거할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-시티-기초:[스티 04-01-02]",
+   "code": "[스티 04-01-02]",
+   "text": "스마트 시티 도시 계획의 범위와 분야별 주요 내용에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-시티-기초:[스티 04-01-03]",
+   "code": "[스티 04-01-03]",
+   "text": "스마트 시티 도시 계획의 관련 법규와 수립 절차에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-시티-기초:[스티 04-02-01]",
+   "code": "[스티 04-02-01]",
+   "text": "신도시형 스마트 시티 국가 시범 사업의 사례별 특징을 요약할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-시티-기초:[스티 04-02-02]",
+   "code": "[스티 04-02-02]",
+   "text": "신도시형 스마트 시티 국가 시범 사업에 적용된 핵심 기술을 발견하고, 세부 내용을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-시티-기초:[스티 04-03-01]",
+   "code": "[스티 04-03-01]",
+   "text": "스마트 시티형 도시 재생 사업의 유형별 특징을 요약할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-시티-기초:[스티 04-03-02]",
+   "code": "[스티 04-03-02]",
+   "text": "스마트 시티형 도시 재생 사업에 적용된 핵심 기술을 발견하고, 세부 내용을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-시티-기초:[스티 04-03-03]",
+   "code": "[스티 04-03-03]",
+   "text": "기존 도시 및 쇠퇴 도시형 스마트 시티와 신도시형 스마트 시티에 적용된 핵심 기술의 종류를 비교하고, 차이의 원인을 분석할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 01-01-01]",
+   "code": "[역기 01-01-01]",
+   "text": "구조물에 작용하는 힘의 정의에 대하여 이해하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 01-01-02]",
+   "code": "[역기 01-01-02]",
+   "text": "힘의 3요소와 단위 및 기본적 성질에 대하여 이해하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 01-02-01]",
+   "code": "[역기 01-02-01]",
+   "text": "한 점에 작용하는 두 힘의 합성, 한 힘을 두 힘으로 분해, 한 점에 작용하는 여러 힘의 합성 등을 작도를 통해 도상에서 구하는 도해법으로 힘의 크기를 계산할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 01-02-02]",
+   "code": "[역기 01-02-02]",
+   "text": "한 점에 작용하는 두 힘의 합성, 한 힘을 두 힘으로 분해, 한 점에 작용하는 여러 힘의 합성 등을 수치 계산에서 구하는 수식법으로 힘의 크기를 계산할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 01-03-01]",
+   "code": "[역기 01-03-01]",
+   "text": "물체를 임의의 방향으로 이동시키거나 회전시키려고 하는 모멘트에 대하여 이해하고 설 명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 01-03-02]",
+   "code": "[역기 01-03-02]",
+   "text": "힘의 모멘트, 짝힘 모멘트, 바리뇽의 정리, 평행한 힘의 합성, 한 점에 작용하지 않는 힘 의 합성을 자유 물체도와 힘의 평형 조건 등을 통해 해석하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 02-01-01]",
+   "code": "[역기 02-01-01]",
+   "text": "구조물의 부재 단면인 삼각형, 사각형 및 원 등의 기본 도형에 대한 기하학적인 성질을 이해하고, 기본 도형의 단면 1차 모멘트를 구할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 02-01-02]",
+   "code": "[역기 02-01-02]",
+   "text": "구조물의 부재 단면인 삼각형, 사각형 및 원 등의 기본 도형에 대한 기하학적인 성질을 이해하고, 기본 도형의 도심을 구할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 02-02-01]",
+   "code": "[역기 02-02-01]",
+   "text": "단면 2차 모멘트의 정의와 용도를 이해하고, 기본 도형의 도심축에 대한 단면 2차 모멘 트를 구할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 02-02-02]",
+   "code": "[역기 02-02-02]",
+   "text": "평행축의 원리에 대해 설명하고, 임의의 축에 대한 단면 2차 모멘트를 구할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 02-02-03]",
+   "code": "[역기 02-02-03]",
+   "text": "평행축의 원리에 적용하여 복합 도형의 단면 2차 모멘트를 구할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 02-03-01]",
+   "code": "[역기 02-03-01]",
+   "text": "구조물의 부재 단면인 삼각형, 사각형 및 원 등의 기본 도형과 복합 도형에 대한 단면 계수를 구할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 02-03-02]",
+   "code": "[역기 02-03-02]",
+   "text": "구조물의 부재 단면인 삼각형, 사각형 및 원 등의 기본 도형과 복합 도형에 대한 단면 2차 반지름을 구할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 03-01-01]",
+   "code": "[역기 03-01-01]",
+   "text": "구조물의 외부에서 작용하는 다양한 형태의 외력에 대하여 이해하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 03-01-02]",
+   "code": "[역기 03-01-02]",
+   "text": "구조물의 외부에서 외력이 작용하면 부재 내부에는 내력에 해당하는 응력이 발생하게 되므 로 힘이 실체적으로 표시되는 내력과 외력의 상호 관계에 대해 이해하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 03-02-01]",
+   "code": "[역기 03-02-01]",
+   "text": "구조물에 작용하는 다양한 형태의 하중에 의해 부재 및 단면이 늘어나기도 하고 줄어 들기도 하는 등의 변형에 대해서 이해하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 03-02-02]",
+   "code": "[역기 03-02-02]",
+   "text": "부재 내부에서 일어나는 힘인 응력과 변형의 관계를 알아보기 위하여 응력과 변형률 관계를 이해하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 03-02-03]",
+   "code": "[역기 03-02-03]",
+   "text": "응력의 작용 형태에 따른 축 방향의 응력과 변형률, 전단 응력과 변형률, 휨 응력과 변형률, 비틀림 응력 및 변형률 등을 이해하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 04-01-01]",
+   "code": "[역기 04-01-01]",
+   "text": "구조물의 정정과 부정정, 보의 종류 등에 대하여 이해하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 04-01-02]",
+   "code": "[역기 04-01-02]",
+   "text": "보에 작용하는 하중, 지점과 반력 등에 대해 이해하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 04-02-01]",
+   "code": "[역기 04-02-01]",
+   "text": "부재의 축에 수직으로 작용하는 하중에 저항하는 정정보의 반력 및 단면력을 구하기 위 하여 힘의 평형 조건식을 구하고 자유 물체도를 그릴 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 04-02-02]",
+   "code": "[역기 04-02-02]",
+   "text": "단순보, 캔틸레버 보, 내민보, 게르버 보 등 보의 내부에 생기는 저항력인 축 방향력, 전 단력, 휨 모멘트 등 부재력을 구할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 04-03-01]",
+   "code": "[역기 04-03-01]",
+   "text": "단순보 위를 하중이 이동할 때 지점에 생기는 반력과 전단력, 휨 모멘트의 변화를 영향선 을 통해서 구할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 05-01-01]",
+   "code": "[역기 05-01-01]",
+   "text": "건설 분야에서 적용되고 있는 기둥의 종류에 대하여 이해하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 05-01-02]",
+   "code": "[역기 05-01-02]",
+   "text": "기둥에 작용하는 다양한 하중에 따른 기둥의 파괴 형태 및 특성을 이해하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 05-02-01]",
+   "code": "[역기 05-02-01]",
+   "text": "건설 분야에서 적용되고 있는 단주의 사례와 특성을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 05-02-02]",
+   "code": "[역기 05-02-02]",
+   "text": "부재의 축에 수평으로 작용하는 축 하중에 저항하는 단주의 반력 및 단면력을 구하기 위하여 힘의 평형 조건식을 구하고, 자유 물체도를 그릴 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 05-02-03]",
+   "code": "[역기 05-02-03]",
+   "text": "단주가 중심축 하중 또는 편심 하중을 받을 경우 기둥의 단면 내에 생기는 응력을 계산 할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 05-03-01]",
+   "code": "[역기 05-03-01]",
+   "text": "건설 분야에서 적용되고 있는 장주의 사례와 좌굴 특성을 이해하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 05-03-02]",
+   "code": "[역기 05-03-02]",
+   "text": "다양한 형태의 부재축에 수평으로 작용하는 축 하중에 저항하는 장주의 반력 및 단면력 을 구하기 위하여 힘의 평형 조건식을 구하고, 자유 물체도를 그릴 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 05-03-03]",
+   "code": "[역기 05-03-03]",
+   "text": "장주의 지지 상태와 세장비에 따른 좌굴 하중의 관계 및 오일러 좌굴 하중을 구할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 06-01-01]",
+   "code": "[역기 06-01-01]",
+   "text": "건설 분야에서 적용되고 있는 트러스의 종류, 특성, 각 부재의 명칭과 역할 등을 이해하 고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 06-01-02]",
+   "code": "[역기 06-01-02]",
+   "text": "하중을 받는 트러스의 반력 및 단면력을 구하기 위하여 힘의 평형 조건식을 구하고, 자 유 물체도를 그릴 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 06-01-03]",
+   "code": "[역기 06-01-03]",
+   "text": "트러스에 작용하는 하중에 대하여 힘의 평형 조건을 이용하여 부재력을 구할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 06-02-01]",
+   "code": "[역기 06-02-01]",
+   "text": "건설 분야에서 적용되고 있는 라멘의 종류, 특성과 용도, 각 부재의 명칭과 역할 등을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 06-02-02]",
+   "code": "[역기 06-02-02]",
+   "text": "다양한 형태의 하중을 받는 라멘의 반력 및 단면력을 구하기 위하여 힘의 평형 조건식 을 구하고, 자유 물체도를 그릴 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-역학-기초:[역기 06-02-03]",
+   "code": "[역기 06-02-03]",
+   "text": "라멘에 작용하는 하중에 대하여 힘의 평형 조건을 이용하여 부재력을 구할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 01-01-01]",
+   "code": "[측기 01-01-01]",
+   "text": "측량의 의의와 그 발전 과정과 함께 우리나라 측량 기술의 발전 과정을 살펴보고, 측량을 여러 기준에 따라 분류할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 01-01-02]",
+   "code": "[측기 01-01-02]",
+   "text": "공간정보 관련 법 체계에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 01-01-03]",
+   "code": "[측기 01-01-03]",
+   "text": "공간정보관리법 상 측량의 분류에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 01-02-01]",
+   "code": "[측기 01-02-01]",
+   "text": "경위도 원점과 수준원점에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 01-02-02]",
+   "code": "[측기 01-02-02]",
+   "text": "평면직각좌표 체계 및 평면직각좌표원점에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 01-02-03]",
+   "code": "[측기 01-02-03]",
+   "text": "투영법의 원리에 대해 살펴보고 우리나라에서 적용하는 투영법에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 01-03-01]",
+   "code": "[측기 01-03-01]",
+   "text": "오차의 발생 원인에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 01-03-02]",
+   "code": "[측기 01-03-02]",
+   "text": "오차의 종류 및 특성에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 01-03-03]",
+   "code": "[측기 01-03-03]",
+   "text": "오차의 유형에 따라 조정 계산 방법을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 02-01-01]",
+   "code": "[측기 02-01-01]",
+   "text": "거리측량 원리 및 방법에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 02-01-02]",
+   "code": "[측기 02-01-02]",
+   "text": "거리 측량 장비의 특성에 대해 이해하고 작동 방법을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 02-01-03]",
+   "code": "[측기 02-01-03]",
+   "text": "거리 측량 오차 종류에 대해 이해하고 오차 보정 방법에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 02-02-01]",
+   "code": "[측기 02-02-01]",
+   "text": "각도의 단위를 파악하고 호도법 및 라디안의 관계를 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 02-02-02]",
+   "code": "[측기 02-02-02]",
+   "text": "각 측량용 기계의 구조, 각의 측정 방법 등 기초적인 지식과 실무 능력을 익혀 설명할 수 있고, 각을 측정할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 02-02-03]",
+   "code": "[측기 02-02-03]",
+   "text": "각 측정 오차 원인에 대해 파악하고 이를 조정 계산할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 03-01-01]",
+   "code": "[측기 03-01-01]",
+   "text": "수준 측량의 원리에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 03-01-02]",
+   "code": "[측기 03-01-02]",
+   "text": "국토지리정보원에서 수준점 성과를 발급받아 성과를 확인할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 03-01-03]",
+   "code": "[측기 03-01-03]",
+   "text": "수준점 표지 형상에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 03-02-01]",
+   "code": "[측기 03-02-01]",
+   "text": "수준 측량의 종류에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 03-02-02]",
+   "code": "[측기 03-02-02]",
+   "text": "수준 측량 방법에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 03-02-03]",
+   "code": "[측기 03-02-03]",
+   "text": "야장 기입 방법에 대해 파악하고 야장 정리를 수행할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 03-03-01]",
+   "code": "[측기 03-03-01]",
+   "text": "수준 측량 시 발생하는 오차 원인에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 03-03-02]",
+   "code": "[측기 03-03-02]",
+   "text": "수준 측량 오차를 점검할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 03-03-03]",
+   "code": "[측기 03-03-03]",
+   "text": "수준 측량 오차를 조정 계산할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 03-04-01]",
+   "code": "[측기 03-04-01]",
+   "text": "수준 측량 장비를 세울 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 03-04-02]",
+   "code": "[측기 03-04-02]",
+   "text": "표척의 눈금 읽는 방법을 습득하여 높이 값을 계산할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 03-04-03]",
+   "code": "[측기 03-04-03]",
+   "text": "수준 측량의 계산 및 방법을 익혀 높이를 결정할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 04-01-01]",
+   "code": "[측기 04-01-01]",
+   "text": "토털 스테이션에 의한 거리 및 각 측량 원리에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 04-01-02]",
+   "code": "[측기 04-01-02]",
+   "text": "토털 스테이션 측량 시 프리즘 상수, 온도 보정 및 기압 보정에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 04-01-03]",
+   "code": "[측기 04-01-03]",
+   "text": "토털 스테이션 장비의 특성과 종류에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 04-02-01]",
+   "code": "[측기 04-02-01]",
+   "text": "토털 스테이션에 의한 각 측량을 수행하고 오차를 점검할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 04-02-02]",
+   "code": "[측기 04-02-02]",
+   "text": "토털 스테이션에 의한 거리 측량을 수행하고 오차를 점검할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 04-02-03]",
+   "code": "[측기 04-02-03]",
+   "text": "토털 스테이션에 의한 3차원 좌표 전개 방법에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 04-03-01]",
+   "code": "[측기 04-03-01]",
+   "text": "토털 스테이션에 기준점 측량을 수행할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 04-03-02]",
+   "code": "[측기 04-03-02]",
+   "text": "토털 스테이션에 의한 현황 측량을 수행할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 04-03-03]",
+   "code": "[측기 04-03-03]",
+   "text": "토털 스테이션에 취득한 측량 결과를 캐드 도면화할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 05-01-01]",
+   "code": "[측기 05-01-01]",
+   "text": "GNSS 위성 종류와 특성에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 05-01-02]",
+   "code": "[측기 05-01-02]",
+   "text": "GNSS 신호 체계에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 05-01-03]",
+   "code": "[측기 05-01-03]",
+   "text": "위성기준점 성과를 발급 받아 위성 신호의 특성에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 05-02-01]",
+   "code": "[측기 05-02-01]",
+   "text": "위성 신호에 따른 기선해석 방법에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 05-02-02]",
+   "code": "[측기 05-02-02]",
+   "text": "GNSS 위치 결정 원리를 이해하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 05-02-03]",
+   "code": "[측기 05-02-03]",
+   "text": "GNSS 측량의 오차 원인을 알고, 정확도 향상 방법을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 05-03-01]",
+   "code": "[측기 05-03-01]",
+   "text": "GNSS 측량 방법에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 05-03-02]",
+   "code": "[측기 05-03-02]",
+   "text": "정지 측량 방법에 대해 이해하고 위성기준점 성과를 기준점으로 활용하여 기선해석을 수행할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 05-03-03]",
+   "code": "[측기 05-03-03]",
+   "text": "네트워크 RTK 측량 원리를 이해하고 기준점 측량 및 현황측량을 수행할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 06-01-01]",
+   "code": "[측기 06-01-01]",
+   "text": "면적 측량의 종류 및 방법에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 06-01-02]",
+   "code": "[측기 06-01-02]",
+   "text": "체적 측량의 종류 및 방법에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 06-01-03]",
+   "code": "[측기 06-01-03]",
+   "text": "취득 데이터를 토대로 면적과 체적을 계산할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 06-02-01]",
+   "code": "[측기 06-02-01]",
+   "text": "노선 측량의 원리에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 06-02-02]",
+   "code": "[측기 06-02-02]",
+   "text": "단곡선의 종류와 설치 방법에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-측량-기초:[측기 06-02-03]",
+   "code": "[측기 06-02-03]",
+   "text": "편각법에 의한 단곡선 설치 등의 과제를 수행할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-도면-해석과-제도:[토면 01-01-01]",
+   "code": "[토면 01-01-01]",
+   "text": "기본 설계도, 시공 설계도 등 토목 설계 도면의 종류 및 용도를 알고, 도면 기호를 설명 할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-도면-해석과-제도:[토면 01-01-02]",
+   "code": "[토면 01-01-02]",
+   "text": "건설 재료의 지반, 수면 등의 도면 이해와 기호를 표기할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-도면-해석과-제도:[토면 01-02-01]",
+   "code": "[토면 01-02-01]",
+   "text": "철근 콘크리트 구조물의 치수 기입과 도면 표시 방법을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-도면-해석과-제도:[토면 01-02-02]",
+   "code": "[토면 01-02-02]",
+   "text": "철근 콘크리트 벽체 및 저판의 단면도와 일반도, 상세도를 보고 구조물을 3차원으로 제 도할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-도면-해석과-제도:[토면 01-03-01]",
+   "code": "[토면 01-03-01]",
+   "text": "단지 현황 측량 성과를 도면에 표시할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-도면-해석과-제도:[토면 01-03-02]",
+   "code": "[토면 01-03-02]",
+   "text": "노선 측량 성과의 도면을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-도면-해석과-제도:[토면 02-01-01]",
+   "code": "[토면 02-01-01]",
+   "text": "도로 설계 도면을 보고 치수 등을 해석할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-도면-해석과-제도:[토면 02-01-02]",
+   "code": "[토면 02-01-02]",
+   "text": "도로 설계 도면을 보고 작업 순서를 말할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-도면-해석과-제도:[토면 02-02-01]",
+   "code": "[토면 02-02-01]",
+   "text": "철근 콘크리트 구조물의 도면을 보고 철근 배근 방법을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-도면-해석과-제도:[토면 02-02-02]",
+   "code": "[토면 02-02-02]",
+   "text": "철근 콘크리트 구조물의 도면을 보고 거푸집 시공 방법을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-도면-해석과-제도:[토면 02-03-01]",
+   "code": "[토면 02-03-01]",
+   "text": "현황 측량 성과를 이용하여 종･횡단면도를 작성할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-도면-해석과-제도:[토면 02-03-02]",
+   "code": "[토면 02-03-02]",
+   "text": "종･횡단면도를 이용하여 토공량을 계산할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-도면-해석과-제도:[토면 03-01-01]",
+   "code": "[토면 03-01-01]",
+   "text": "CAD 특성과 시스템을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-도면-해석과-제도:[토면 03-01-02]",
+   "code": "[토면 03-01-02]",
+   "text": "좌표의 개념과 특징을 이해하고 CAD에 활용할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-도면-해석과-제도:[토면 03-01-03]",
+   "code": "[토면 03-01-03]",
+   "text": "CAD 명령어를 이용하여 객체 선택 및 도면 한계를 설정하고, 선택 사항을 이용하여 도면을 작성할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-도면-해석과-제도:[토면 03-01-04]",
+   "code": "[토면 03-01-04]",
+   "text": "CAD 명령어를 이용하여 작성된 도면에 필요한 문자, 기호, 치수 및 치수선을 기입할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-도면-해석과-제도:[토면 03-02-01]",
+   "code": "[토면 03-02-01]",
+   "text": "옹벽의 구조 형식에 따른 종류 및 쓰임새를 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-도면-해석과-제도:[토면 03-02-02]",
+   "code": "[토면 03-02-02]",
+   "text": "옹벽의 안정 조건인 전도, 활동, 침하의 안정성을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-도면-해석과-제도:[토면 03-02-03]",
+   "code": "[토면 03-02-03]",
+   "text": "물량 산출의 표준 품셈에 대해 이해하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-도면-해석과-제도:[토면 03-02-04]",
+   "code": "[토면 03-02-04]",
+   "text": "L형 옹벽, 역T형 옹벽의 물량을 산출할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-도면-해석과-제도:[토면 03-03-01]",
+   "code": "[토면 03-03-01]",
+   "text": "토목 도면의 도면 크기, 도면층 및 치수 스타일을 설정할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-도면-해석과-제도:[토면 03-03-02]",
+   "code": "[토면 03-03-02]",
+   "text": "도로 종단면도와 횡단면도를 제도할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-도면-해석과-제도:[토면 03-03-03]",
+   "code": "[토면 03-03-03]",
+   "text": "L형 옹벽의 특성을 이해하고, 단면도와 배근도를 작도할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-도면-해석과-제도:[토면 03-03-04]",
+   "code": "[토면 03-03-04]",
+   "text": "역T형 옹벽의 특성을 이해하고, 단면도와 배근도를 작도할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-도면-해석과-제도:[토면 03-03-05]",
+   "code": "[토면 03-03-05]",
+   "text": "암거의 특성을 이해하고, 단면도와 배근도를 작도할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-도면-해석과-제도:[토면 04-01-01]",
+   "code": "[토면 04-01-01]",
+   "text": "3D 개념을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-도면-해석과-제도:[토면 04-01-02]",
+   "code": "[토면 04-01-02]",
+   "text": "면 처리가 되어 있는 3차원 다각형의 메시(mesh) 객체를 만들 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-도면-해석과-제도:[토면 04-01-03]",
+   "code": "[토면 04-01-03]",
+   "text": "X축의 M 방향과 Y축의 N 방향을 설정하고, 메시(mesh) 내 각 정점의 위치를 지정하여 그물로 메시의 면을 만들 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-도면-해석과-제도:[토면 04-02-01]",
+   "code": "[토면 04-02-01]",
+   "text": "솔리드(solid) 모델을 만들고 수정 편집할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-도면-해석과-제도:[토면 04-02-02]",
+   "code": "[토면 04-02-02]",
+   "text": "건물 외관의 문과 창문을 모델링할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-도면-해석과-제도:[토면 04-03-01]",
+   "code": "[토면 04-03-01]",
+   "text": "다각형을 이용해 다양한 3D 면의 객체를 만들어 편집할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-도면-해석과-제도:[토면 04-03-02]",
+   "code": "[토면 04-03-02]",
+   "text": "L형 옹벽 단면도를 이용하여 L형 옹벽 3D 모델링을 할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-도면-해석과-제도:[토면 04-03-03]",
+   "code": "[토면 04-03-03]",
+   "text": "역T형 옹벽 단면도를 이용하여 역T형 옹벽 3D 모델링을 할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-도면-해석과-제도:[토면 04-03-04]",
+   "code": "[토면 04-03-04]",
+   "text": "1연 암거 단면도를 이용하여 1연 암거 3D 모델링을 할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 01-01-01]",
+   "code": "[토반 01-01-01]",
+   "text": "토목의 어원과 역사에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 01-01-02]",
+   "code": "[토반 01-01-02]",
+   "text": "토목 산업의 발전 과정을 파악하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 01-02-01]",
+   "code": "[토반 01-02-01]",
+   "text": "토목 공학의 의의와 특징을 파악하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 01-02-02]",
+   "code": "[토반 01-02-02]",
+   "text": "토목 공학의 연구 분야를 기술할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 01-03-01]",
+   "code": "[토반 01-03-01]",
+   "text": "사회 간접 자본의 개념과 특성을 기술할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 01-03-02]",
+   "code": "[토반 01-03-02]",
+   "text": "기반 시설을 종류별로 분류하고 기능을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 02-01-01]",
+   "code": "[토반 02-01-01]",
+   "text": "건설 산업의 의의와 특징을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 02-01-02]",
+   "code": "[토반 02-01-02]",
+   "text": "건설 산업 관련 용어를 기술할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 02-02-01]",
+   "code": "[토반 02-02-01]",
+   "text": "건설 사업 관계자를 분류하고, 역할에 대하여 예를 들어 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 02-03-01]",
+   "code": "[토반 02-03-01]",
+   "text": "공사 및 용역의 발주와 집행에 대하여 이해하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 02-04-01]",
+   "code": "[토반 02-04-01]",
+   "text": "건설 공사비 산정 항목과 과정에 대하여 예를 들어 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 02-05-01]",
+   "code": "[토반 02-05-01]",
+   "text": "공사 관리의 의의 및 시공 계획을 파악하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 02-05-02]",
+   "code": "[토반 02-05-02]",
+   "text": "공사 관리의 대상 및 방법에 대하여 기술할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 03-01-01]",
+   "code": "[토반 03-01-01]",
+   "text": "도로 및 철도의 의의와 기능을 파악하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 03-01-02]",
+   "code": "[토반 03-01-02]",
+   "text": "도로 및 철도의 종류와 시공 방법에 대하여 예를 들어 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 03-01-03]",
+   "code": "[토반 03-01-03]",
+   "text": "철도의 역사와 구성 및 특징을 파악하고 기술할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 03-02-01]",
+   "code": "[토반 03-02-01]",
+   "text": "교량의 구조 및 종류와 특징에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 03-02-02]",
+   "code": "[토반 03-02-02]",
+   "text": "교량의 가설 공법에 대하여 예를 들어 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 03-02-03]",
+   "code": "[토반 03-02-03]",
+   "text": "터널의 종류 및 굴착 방법과 터널 계측에 대하여 예를 들어 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 03-03-01]",
+   "code": "[토반 03-03-01]",
+   "text": "공항의 의의와 기능을 파악하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 03-03-02]",
+   "code": "[토반 03-03-02]",
+   "text": "공항의 주요 시설에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 03-04-01]",
+   "code": "[토반 03-04-01]",
+   "text": "상하수도의 개념을 파악하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 03-04-02]",
+   "code": "[토반 03-04-02]",
+   "text": "상하수도의 기본 계획과 시공 방법에 대하여 예를 들어 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 03-05-01]",
+   "code": "[토반 03-05-01]",
+   "text": "하천의 개념을 이해하고, 우리나라 하천의 현황과 개발 현황을 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 03-05-02]",
+   "code": "[토반 03-05-02]",
+   "text": "하천의 기능 및 분류와 하천 시설물에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 03-05-03]",
+   "code": "[토반 03-05-03]",
+   "text": "제방의 시공 방법에 대하여 예를 들어 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 03-05-04]",
+   "code": "[토반 03-05-04]",
+   "text": "댐의 종류 및 부속 설비를 파악하고 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 03-06-01]",
+   "code": "[토반 03-06-01]",
+   "text": "우리나라의 지형적 특성과 해안의 활용, 항만 시설물에 대하여 파악할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 03-06-02]",
+   "code": "[토반 03-06-02]",
+   "text": "방조제의 기능 및 종류와 시공 방법에 대하여 예를 들어 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 03-07-01]",
+   "code": "[토반 03-07-01]",
+   "text": "환경의 중요성을 인식하여 환경 관련 시설물에 대하여 파악할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 03-07-02]",
+   "code": "[토반 03-07-02]",
+   "text": "폐기물의 관리 및 처리 시설의 기능과 용도에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 03-08-01]",
+   "code": "[토반 03-08-01]",
+   "text": "신재생 에너지 생산 시설에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 03-08-02]",
+   "code": "[토반 03-08-02]",
+   "text": "태양력, 풍력, 조력 및 원자력 발전 시설에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 03-09-01]",
+   "code": "[토반 03-09-01]",
+   "text": "플랜트의 개념과 주요 시설을 파악할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 03-09-02]",
+   "code": "[토반 03-09-02]",
+   "text": "석유 화학 플랜트 및 해양 플랜트에 대하여 구체적으로 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 04-01-01]",
+   "code": "[토반 04-01-01]",
+   "text": "국가 발전 측면에서 토목 산업의 중요성과 우리나라 토목 산업의 현황을 확인하고, 토목 분야의 진로를 탐색할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토목-일반:[토반 04-02-01]",
+   "code": "[토반 04-02-01]",
+   "text": "토목의 발전 방향을 파악하고, 4차 산업 혁명과 토목의 관계를 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토질-수리:[토수 01-01]",
+   "code": "[토수 01-01]",
+   "text": "지반을 이루는 흙의 생성 과정과 흙의 구조에 대하여 이해하고, 그 구성 요소의 상관 관계와 함수비 변화에 따른 연경도에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토질-수리:[토수 01-02]",
+   "code": "[토수 01-02]",
+   "text": "흙의 입도 분석, 입자 지름에 의한 흙의 분류 및 흙의 공학적 분류 등에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토질-수리:[토수 01-03]",
+   "code": "[토수 01-03]",
+   "text": "시료 채취 및 시료 조제, 흙의 함수비 시험, 흙의 비중 시험, 흙의 액성 한계 시험, 흙의 소성 한계 시험, 흙의 체가름 시험, 흙의 입도 분석 시험을 KS F 규정에 따라 수행할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토질-수리:[토수 02-01]",
+   "code": "[토수 02-01]",
+   "text": "흙 속의 물에 대한 종류, 모관 현상 및 동상 현상, 흙의 투수성과 유선망, 지중 응력 등에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토질-수리:[토수 02-02]",
+   "code": "[토수 02-02]",
+   "text": "건설 공사에서 물의 역할을 이해하고, 흙의 압축성과 압밀에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토질-수리:[토수 02-03]",
+   "code": "[토수 02-03]",
+   "text": "흙의 투수 시험, 압밀 시험을 KS F 규정에 따라 수행할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토질-수리:[토수 03-01]",
+   "code": "[토수 03-01]",
+   "text": "흙의 전단 강도 및 마찰력과 점착력에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토질-수리:[토수 03-02]",
+   "code": "[토수 03-02]",
+   "text": "안전한 옹벽의 설계 방법을 이해하고, 벽체에 작용하는 정지 토압 및 주동 토압에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토질-수리:[토수 03-03]",
+   "code": "[토수 03-03]",
+   "text": "다짐의 효과와 종류, 다짐 에너지, 다짐 특성, 다짐의 이용과 상대 밀도 및 노상토 지지 력비(CBR)에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토질-수리:[토수 03-04]",
+   "code": "[토수 03-04]",
+   "text": "흙의 다짐 시험, 노상토 지지력비(CBR) 시험, 모래 치환법에 의한 흙의 단위 무게 시 험을 KS F 규정에 따라 수행할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토질-수리:[토수 04-01]",
+   "code": "[토수 04-01]",
+   "text": "침하량 및 응력의 계산법을 이해하고, 기초의 의의와 기초의 분류, 여러 하중에 의한 지반의 응력에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토질-수리:[토수 04-02]",
+   "code": "[토수 04-02]",
+   "text": "지지력의 개요 및 지지력에 영향을 주는 요소, 얕은 기초의 지지력, 깊은 기초의 지지력에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토질-수리:[토수 04-03]",
+   "code": "[토수 04-03]",
+   "text": "침하의 의의, 즉시 침하량의 계산, 압밀 침하량, 침하의 종류, 침하에 영향을 주는 요소, 부등 침하에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토질-수리:[토수 05-01]",
+   "code": "[토수 05-01]",
+   "text": "물의 공학적인 구조와 물리적인 의미 그리고 물이 가지는 성질을 이해하고 물리량의 크기를 나타내는 단위와 차원에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토질-수리:[토수 05-02]",
+   "code": "[토수 05-02]",
+   "text": "수리학의 기초가 되는 정수압, 압력의 측정과 전달, 면에 작용하는 정수압, 부력 등에 대하여 이해하고, 물의 흐름에 따른 유속과 유량에 대하여 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-토질-수리:[토수 05-03]",
+   "code": "[토수 05-03]",
+   "text": "지하수의 특성을 이해하고, 물의 순환에 대해 설명할 수 있다.",
+   "sourceId": "annex29",
+   "locator": "pattern-match"
+  }
+ ]
+}

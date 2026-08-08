@@ -1,0 +1,1623 @@
+{
+ "clusters": [
+  {
+   "id": "kr.cluster.2022.high.00f65ee00c3e83c5cc",
+   "titleKorean": "사회 복지 시설의 이해 — 사회 복지 시설의 종류와 특성",
+   "subjectKorean": "사회 복지 시설의 이해",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "사회 복지 시설의 종류와 특성",
+   "summary": "사회 복지 시설의 이해의 사회 복지 시설의 종류와 특성 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.34eafaa03717e9e07571",
+    "kr.topic.2022.high.483a932a5a96a48a8275",
+    "kr.topic.2022.high.55e01645ed9df41f47e1",
+    "kr.topic.2022.high.62890f06547ffc57cdc6",
+    "kr.topic.2022.high.64b5e079482925531491",
+    "kr.topic.2022.high.bcee7aa990bcb8d47e18",
+    "kr.topic.2022.high.fcec35b64e183bc541a3"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.018e770901300fe0f6",
+   "titleKorean": "보건 간호 — 인구와 가족",
+   "subjectKorean": "보건 간호",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "인구와 가족",
+   "summary": "보건 간호의 인구와 가족 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.9cbb8912092c73c6c056",
+    "kr.topic.2022.high.d42f379cc3cb4bec7a77"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.01f591d92d0cdfffa7",
+   "titleKorean": "영유아 교수 방법 — 음률 활동 지도",
+   "subjectKorean": "영유아 교수 방법",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "음률 활동 지도",
+   "summary": "영유아 교수 방법의 음률 활동 지도 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.5270ff1d675608ec3d8c",
+    "kr.topic.2022.high.5d715c9c3bc8bd107e17",
+    "kr.topic.2022.high.939d03981a99ad63615e",
+    "kr.topic.2022.high.9f6990ebe88efad42595",
+    "kr.topic.2022.high.ad3c57f130846bd41354",
+    "kr.topic.2022.high.be889cb0f9b8c9d9af44",
+    "kr.topic.2022.high.d3ddc575924dfad31a7d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0565fc2ee6e617f36e",
+   "titleKorean": "아동 복지 — 아동 복지의 역사",
+   "subjectKorean": "아동 복지",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "아동 복지의 역사",
+   "summary": "아동 복지의 아동 복지의 역사 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.2cdf0a393832e003ea4d",
+    "kr.topic.2022.high.b4366ddab5c087c4f79e",
+    "kr.topic.2022.high.feb39c5108f8541a166b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0a4a528a3843786d66",
+   "titleKorean": "사회 복지 시설의 이해 — 사회 복지 시설의 운영",
+   "subjectKorean": "사회 복지 시설의 이해",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "사회 복지 시설의 운영",
+   "summary": "사회 복지 시설의 이해의 사회 복지 시설의 운영 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.0f545b350bb142547c8a",
+    "kr.topic.2022.high.48c0d38ef389ba30a848",
+    "kr.topic.2022.high.55a1bc9d58025dda6e02",
+    "kr.topic.2022.high.88d7fb83689df1ff7101",
+    "kr.topic.2022.high.8d70f470307dc682978e",
+    "kr.topic.2022.high.a7303b103a74592f04c6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0e9cc5e5f6f6b52e39",
+   "titleKorean": "치과 간호 임상 실무 — 구강의 해부･생리학",
+   "subjectKorean": "치과 간호 임상 실무",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "구강의 해부･생리학",
+   "summary": "치과 간호 임상 실무의 구강의 해부･생리학 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.dcb54a19a543db55196b",
+    "kr.topic.2022.high.e515294c371896fad187",
+    "kr.topic.2022.high.f180ceda0f9d717adf3c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0f83f6308e3b826faf",
+   "titleKorean": "치과 간호 임상 실무 — 교정 치과 진료 보조",
+   "subjectKorean": "치과 간호 임상 실무",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "교정 치과 진료 보조",
+   "summary": "치과 간호 임상 실무의 교정 치과 진료 보조 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.0f29247d0ae9fe1fc502",
+    "kr.topic.2022.high.a4eb346a6410c4fb4989",
+    "kr.topic.2022.high.bd3daee4f0c924a47d5d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.11a34ffda12cfa997f",
+   "titleKorean": "인체 구조와 기능 — 내분비계의 이해",
+   "subjectKorean": "인체 구조와 기능",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "내분비계의 이해",
+   "summary": "인체 구조와 기능의 내분비계의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.263d6d45187576a3a7d7",
+    "kr.topic.2022.high.3cb08237b1c91a5b78a1"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.13aa5e7777732ef180",
+   "titleKorean": "보육 실습 — 보육 실습생의 문서 실무",
+   "subjectKorean": "보육 실습",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "보육 실습생의 문서 실무",
+   "summary": "보육 실습의 보육 실습생의 문서 실무 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.197337c4df1708f4d727",
+    "kr.topic.2022.high.aa3645cc47a2e4fb5f7c",
+    "kr.topic.2022.high.b53f9032abcf53d4344c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.15954d7d669af82e22",
+   "titleKorean": "인체 구조와 기능 — 순환계의 이해",
+   "subjectKorean": "인체 구조와 기능",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "순환계의 이해",
+   "summary": "인체 구조와 기능의 순환계의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.3ca5c50c8104ed8cb93c",
+    "kr.topic.2022.high.997864a2d3e43d7b2910",
+    "kr.topic.2022.high.a8289a5d3521e6f2f538",
+    "kr.topic.2022.high.dd5709e74d30ec995e86"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1d466fe2bf46cdbc04",
+   "titleKorean": "사회 복지 시설의 이해 — 한국 사회 복지 시설의 역사",
+   "subjectKorean": "사회 복지 시설의 이해",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "한국 사회 복지 시설의 역사",
+   "summary": "사회 복지 시설의 이해의 한국 사회 복지 시설의 역사 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.ad2135bdc8b1e50ac621",
+    "kr.topic.2022.high.c47f9035b104160fb7df"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1d981539ba6dcf1fe1",
+   "titleKorean": "공중 보건 — 감염병 관리",
+   "subjectKorean": "공중 보건",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "감염병 관리",
+   "summary": "공중 보건의 감염병 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.329f8156e4bac8f7463b",
+    "kr.topic.2022.high.b1e112b2cb1dd8dce323",
+    "kr.topic.2022.high.b9d1e5ba0c795fb6a64c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.22ca176751d347192b",
+   "titleKorean": "인체 구조와 기능 — 근골격계의 이해",
+   "subjectKorean": "인체 구조와 기능",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "근골격계의 이해",
+   "summary": "인체 구조와 기능의 근골격계의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.2395a09488d51f5dc873",
+    "kr.topic.2022.high.76cf962be8f94b8e8395",
+    "kr.topic.2022.high.e5e02e8d3faa7fbedb64",
+    "kr.topic.2022.high.e8b60587a79d516bb1fa"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.332b8b6733a1f004b4",
+   "titleKorean": "인간 발달 — 성인 발달",
+   "subjectKorean": "인간 발달",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "성인 발달",
+   "summary": "인간 발달의 성인 발달 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.1f0c4b937c772c63309a",
+    "kr.topic.2022.high.664b4ff3dce1d0f1b974",
+    "kr.topic.2022.high.cc51b40cc7955f503041"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.348a2a889f420b0025",
+   "titleKorean": "보육 실습 — 보육 실습 평가",
+   "subjectKorean": "보육 실습",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "보육 실습 평가",
+   "summary": "보육 실습의 보육 실습 평가 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.29ee49addc51c86e76a4",
+    "kr.topic.2022.high.43af57bc7e879f2d27bb",
+    "kr.topic.2022.high.b8d95f62a014a07f9980"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.34c048f6f4d4b4c11e",
+   "titleKorean": "복지 서비스의 기초 — 복지 서비스 제공 인력",
+   "subjectKorean": "복지 서비스의 기초",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "복지 서비스 제공 인력",
+   "summary": "복지 서비스의 기초의 복지 서비스 제공 인력 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.1e5a3127c93c0134853c",
+    "kr.topic.2022.high.c53b40976cd89a937b55"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3dd4c4694573c6d1bc",
+   "titleKorean": "보육 원리와 보육 교사 — 보육의 이해",
+   "subjectKorean": "보육 원리와 보육 교사",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "보육의 이해",
+   "summary": "보육 원리와 보육 교사의 보육의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.46b94352dd4c579a6e5c",
+    "kr.topic.2022.high.980c3743c1f6e8e41ec0",
+    "kr.topic.2022.high.e2f2d3e887d6d7346871"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.43089eea284925b73b",
+   "titleKorean": "인체 구조와 기능 — 소화계의 이해",
+   "subjectKorean": "인체 구조와 기능",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "소화계의 이해",
+   "summary": "인체 구조와 기능의 소화계의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.7ff4b29c72f4e8724683",
+    "kr.topic.2022.high.a61a287e065db2051429",
+    "kr.topic.2022.high.ba4b8dee88ad3215c24f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.444c9a6f26f5d3f787",
+   "titleKorean": "영유아 교수 방법 — 수·조작 활동 지도",
+   "subjectKorean": "영유아 교수 방법",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "수·조작 활동 지도",
+   "summary": "영유아 교수 방법의 수·조작 활동 지도 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.18cfd2ee7ab20ffd6eed",
+    "kr.topic.2022.high.450bb18659c677eb0a6d",
+    "kr.topic.2022.high.8cbc3715a944c99ec7f9",
+    "kr.topic.2022.high.a8ac0eb91968d28b49d7",
+    "kr.topic.2022.high.dd2e9ba41ac24e9bbf6f",
+    "kr.topic.2022.high.fcaf023b8cf7acbbf5ce"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.446c9f0c5377601db5",
+   "titleKorean": "보건 간호 — 보건 의료 체계",
+   "subjectKorean": "보건 간호",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "보건 의료 체계",
+   "summary": "보건 간호의 보건 의료 체계 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.1c795051a6736b46ed8a",
+    "kr.topic.2022.high.4779c01b46e6d75496c5",
+    "kr.topic.2022.high.e18240e9343d0fe3f305",
+    "kr.topic.2022.high.f9c39991be77262c1696"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.451c4ce87f3cdcb3f6",
+   "titleKorean": "보육 과정 — 표준 보육 과정의 이해",
+   "subjectKorean": "보육 과정",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "표준 보육 과정의 이해",
+   "summary": "보육 과정의 표준 보육 과정의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.3eec2179809b0ee501dd",
+    "kr.topic.2022.high.4f67fbab1b648002d8c9",
+    "kr.topic.2022.high.dc9ff0730804b1e75db8"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4710a3f3e9923fcdbe",
+   "titleKorean": "기초 간호 임상 실무 — 감염 관리",
+   "subjectKorean": "기초 간호 임상 실무",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "감염 관리",
+   "summary": "기초 간호 임상 실무의 감염 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.0b9f44871f0b7cc78a8a",
+    "kr.topic.2022.high.2f2b7917f3f7917b6a0c",
+    "kr.topic.2022.high.404b4e5a6888b07871df",
+    "kr.topic.2022.high.863f98e79842c399af52",
+    "kr.topic.2022.high.c18f30f5b591e1bf41ca"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.475016a09490321abd",
+   "titleKorean": "인체 구조와 기능 — 비뇨․생식계의 이해",
+   "subjectKorean": "인체 구조와 기능",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "비뇨․생식계의 이해",
+   "summary": "인체 구조와 기능의 비뇨․생식계의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.1c720bdd91d3a9f8d2f8",
+    "kr.topic.2022.high.1d3d4a5f0f37730af847",
+    "kr.topic.2022.high.400897485fd77a7f42b4",
+    "kr.topic.2022.high.637dff360a5bce75b495",
+    "kr.topic.2022.high.89a33e77245b9064cad8"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4a5dc761829f5c6f26",
+   "titleKorean": "아동 생활 지도 — 아동 생활 지도의 내용과 방법",
+   "subjectKorean": "아동 생활 지도",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "아동 생활 지도의 내용과 방법",
+   "summary": "아동 생활 지도의 아동 생활 지도의 내용과 방법 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.2a4199fa74f09b5907c4",
+    "kr.topic.2022.high.35f8fe56b4beba58519f",
+    "kr.topic.2022.high.3734f62e6845e490cbf2",
+    "kr.topic.2022.high.8509727c12542bae96d9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4a9e00982774ddf333",
+   "titleKorean": "생활 서비스 산업의 이해 — 생활 양식의 변화와 생활 서비스 산업의 대응",
+   "subjectKorean": "생활 서비스 산업의 이해",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "생활 양식의 변화와 생활 서비스 산업의 대응",
+   "summary": "생활 서비스 산업의 이해의 생활 양식의 변화와 생활 서비스 산업의 대응 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.01a52002241ef4e792eb",
+    "kr.topic.2022.high.6451e5b357947d53f368",
+    "kr.topic.2022.high.64a9a63e8e08375957c4"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4e12bedd3337d755a2",
+   "titleKorean": "사회 복지 시설의 이해 — 사회 복지 시설 탐방",
+   "subjectKorean": "사회 복지 시설의 이해",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "사회 복지 시설 탐방",
+   "summary": "사회 복지 시설의 이해의 사회 복지 시설 탐방 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.886d3d5aa5413b3c262d",
+    "kr.topic.2022.high.aac8424e1fecdad728fe",
+    "kr.topic.2022.high.d9cebb029bfe71b7f44a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.54e559cfe833e2ccde",
+   "titleKorean": "보육 원리와 보육 교사 — 어린이집 보육 서비스",
+   "subjectKorean": "보육 원리와 보육 교사",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "어린이집 보육 서비스",
+   "summary": "보육 원리와 보육 교사의 어린이집 보육 서비스 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.3422514334be3c32d672",
+    "kr.topic.2022.high.dd8e92bfa33d48a82efd",
+    "kr.topic.2022.high.ea8e1c0e3ee54c77c78f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.58b59a4062452dd605",
+   "titleKorean": "생활 서비스 산업의 이해 — 생활 서비스 산업과 직업",
+   "subjectKorean": "생활 서비스 산업의 이해",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "생활 서비스 산업과 직업",
+   "summary": "생활 서비스 산업의 이해의 생활 서비스 산업과 직업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.0f1d98b8a9903b497114",
+    "kr.topic.2022.high.4389d397ab57155b0c6e",
+    "kr.topic.2022.high.979ec0dc210234c72a54",
+    "kr.topic.2022.high.9d068ea20c027d95e831",
+    "kr.topic.2022.high.ed71d9be669450a549c6",
+    "kr.topic.2022.high.f359402094d13860aa7f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5a4e816dbfa529927c",
+   "titleKorean": "보건 의료 법규 — 감염병 예방법(감염병의 예방 및 관리에 관한 법률)",
+   "subjectKorean": "보건 의료 법규",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "감염병 예방법(감염병의 예방 및 관리에 관한 법률)",
+   "summary": "보건 의료 법규의 감염병 예방법(감염병의 예방 및 관리에 관한 법률) 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.4a8f962b9943a05970c6",
+    "kr.topic.2022.high.5d5af0c581cb42bc4da7",
+    "kr.topic.2022.high.8ae6b0535d709a645e28"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5bf48d745323a5ae80",
+   "titleKorean": "보건 의료 법규 — 연명 의료 결정법(호스피스･완화 의료 및 임종 과정에 있는 환자의 연명 의료 결정에 관한 법률)",
+   "subjectKorean": "보건 의료 법규",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "연명 의료 결정법(호스피스･완화 의료 및 임종 과정에 있는 환자의 연명 의료 결정에 관한 법률)",
+   "summary": "보건 의료 법규의 연명 의료 결정법(호스피스･완화 의료 및 임종 과정에 있는 환자의 연명 의료 결정에 관한 법률) 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.9f3655165dac082771ef",
+    "kr.topic.2022.high.acc545ec6e5b6b0872ff"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5dc0674d7e998f2fba",
+   "titleKorean": "보육 과정 — 보육 과정의 계획 및 운영",
+   "subjectKorean": "보육 과정",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "보육 과정의 계획 및 운영",
+   "summary": "보육 과정의 보육 과정의 계획 및 운영 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.19661c335d1b1bac5468",
+    "kr.topic.2022.high.32f525070c77c9aa2e88",
+    "kr.topic.2022.high.6f1974538bff5be00940",
+    "kr.topic.2022.high.9a43b581f146e881a1f6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.63abde1fc7c89b03b1",
+   "titleKorean": "기초 간호 임상 실무 — 산소 및 흡인 간호 보조",
+   "subjectKorean": "기초 간호 임상 실무",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "산소 및 흡인 간호 보조",
+   "summary": "기초 간호 임상 실무의 산소 및 흡인 간호 보조 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.012b6368e9e84828e51f",
+    "kr.topic.2022.high.06ca2ba6af3376ce3fa9",
+    "kr.topic.2022.high.4800d07e63b506269798",
+    "kr.topic.2022.high.c065f48314f566755c6e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.67450727cba94be0af",
+   "titleKorean": "아동 복지 — 아동 복지의 과제",
+   "subjectKorean": "아동 복지",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "아동 복지의 과제",
+   "summary": "아동 복지의 아동 복지의 과제 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.d91d61cd05ede2c756da",
+    "kr.topic.2022.high.ef2b99adacfdec52ce4d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6b1fc64f2c6c966aa2",
+   "titleKorean": "보육 과정 — 보육 과정의 구성",
+   "subjectKorean": "보육 과정",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "보육 과정의 구성",
+   "summary": "보육 과정의 보육 과정의 구성 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.1d9e0143419fd63629f9",
+    "kr.topic.2022.high.7b37fbbaa7fb79296dfa",
+    "kr.topic.2022.high.9666087156d958a9cee2",
+    "kr.topic.2022.high.f3c9754b24f38aac10e2",
+    "kr.topic.2022.high.fc98e3d28ba87c8809eb"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6bca297db4844f9796",
+   "titleKorean": "보육 실습 — 보육 실습 현장 이해",
+   "subjectKorean": "보육 실습",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "보육 실습 현장 이해",
+   "summary": "보육 실습의 보육 실습 현장 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.258830e7d99f98fec0e9",
+    "kr.topic.2022.high.2f976601d933639a896f",
+    "kr.topic.2022.high.b59b5c7a05e6bd788f8c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.704e66159a89c1299d",
+   "titleKorean": "생활 서비스 산업의 이해 — 생활 서비스 산업의 발전과 역할",
+   "subjectKorean": "생활 서비스 산업의 이해",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "생활 서비스 산업의 발전과 역할",
+   "summary": "생활 서비스 산업의 이해의 생활 서비스 산업의 발전과 역할 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.2b873ba03641c23d9577",
+    "kr.topic.2022.high.68d70ce19225c39e23d6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.771421424661cc21e6",
+   "titleKorean": "보건 의료 법규 — 정신 건강 복지법(정신 건강 증진 및 정신 질환자 복지 서비스 지원에 관한 법률)",
+   "subjectKorean": "보건 의료 법규",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "정신 건강 복지법(정신 건강 증진 및 정신 질환자 복지 서비스 지원에 관한 법률)",
+   "summary": "보건 의료 법규의 정신 건강 복지법(정신 건강 증진 및 정신 질환자 복지 서비스 지원에 관한 법률) 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.133107fa0916b703f4f7",
+    "kr.topic.2022.high.203479547cdc98969cd4",
+    "kr.topic.2022.high.fad5b83019539115d2b2"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.77bc9119337d8a8cb1",
+   "titleKorean": "영유아 교수 방법 — 언어 활동 지도",
+   "subjectKorean": "영유아 교수 방법",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "언어 활동 지도",
+   "summary": "영유아 교수 방법의 언어 활동 지도 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.215360c6e947f5f3cd7c",
+    "kr.topic.2022.high.267a81d0118ac9b3dc31",
+    "kr.topic.2022.high.992554d78494debdaf9b",
+    "kr.topic.2022.high.bc9a42d5400c0ba1058f",
+    "kr.topic.2022.high.d55d40083469fe8cffe7",
+    "kr.topic.2022.high.f2426e5ca2180b486db2",
+    "kr.topic.2022.high.fa263f5fced53464d0b1"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7a032721e13729f20a",
+   "titleKorean": "치과 간호 임상 실무 — 보존 치과 ･ 보철 치과 진료 보조",
+   "subjectKorean": "치과 간호 임상 실무",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "보존 치과 ･ 보철 치과 진료 보조",
+   "summary": "치과 간호 임상 실무의 보존 치과 ･ 보철 치과 진료 보조 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.5e31875f887c5029f768",
+    "kr.topic.2022.high.7056c5691b0263cba192",
+    "kr.topic.2022.high.a2b5bf4002dfc53516a5",
+    "kr.topic.2022.high.c60abf8b1d8b7d4a9edf"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7f769dbc06816bdfb0",
+   "titleKorean": "아동 생활 지도 — 영유아의 행동 이해",
+   "subjectKorean": "아동 생활 지도",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "영유아의 행동 이해",
+   "summary": "아동 생활 지도의 영유아의 행동 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.6058c28d513c1bee4a10",
+    "kr.topic.2022.high.a5907ceea002c788f643"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.8148bd460905f0a001",
+   "titleKorean": "보육 원리와 보육 교사 — 가족과 지역사회와의 연계",
+   "subjectKorean": "보육 원리와 보육 교사",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "가족과 지역사회와의 연계",
+   "summary": "보육 원리와 보육 교사의 가족과 지역사회와의 연계 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.1aba7878c48aece5c056",
+    "kr.topic.2022.high.6cd54455d4c167c0dd64"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.84864a649bb1514d4c",
+   "titleKorean": "영유아 교수 방법 — 과학 활동 지도",
+   "subjectKorean": "영유아 교수 방법",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "과학 활동 지도",
+   "summary": "영유아 교수 방법의 과학 활동 지도 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.0efa5a6e4bd7ab6b4f97",
+    "kr.topic.2022.high.25ed36b7b047218134a2",
+    "kr.topic.2022.high.2d36422f2bf3cf4f33cb",
+    "kr.topic.2022.high.46bd7ce6331ad0115f7b",
+    "kr.topic.2022.high.b3e48e43a6bc8f446fbc",
+    "kr.topic.2022.high.c5d8f2e7a2b5970e529e",
+    "kr.topic.2022.high.e81187244dbc4b038713",
+    "kr.topic.2022.high.f755b72bbb7181934476"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.85424753ddcbf5e317",
+   "titleKorean": "복지 서비스의 기초 — 복지 서비스 직업 세계와 전망",
+   "subjectKorean": "복지 서비스의 기초",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "복지 서비스 직업 세계와 전망",
+   "summary": "복지 서비스의 기초의 복지 서비스 직업 세계와 전망 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.481fa83f2d9daab0446a",
+    "kr.topic.2022.high.701b42c2d1a93adb231d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.860aa5bec9b3dc5589",
+   "titleKorean": "아동 생활 지도 — 아동 생활 지도의 이해",
+   "subjectKorean": "아동 생활 지도",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "아동 생활 지도의 이해",
+   "summary": "아동 생활 지도의 아동 생활 지도의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.0506b7ba8665caf5c295",
+    "kr.topic.2022.high.16469e33f76bf9da059b",
+    "kr.topic.2022.high.8f90c8671b1e7d2bd904",
+    "kr.topic.2022.high.cae41594dd545d99d723"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.87089fd225f473f48a",
+   "titleKorean": "공중 보건 — 산업 보건",
+   "subjectKorean": "공중 보건",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "산업 보건",
+   "summary": "공중 보건의 산업 보건 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.3f0e84e129944aa8ce36",
+    "kr.topic.2022.high.43ae9ea93583d711c3ad",
+    "kr.topic.2022.high.c1df8d6768058710235a",
+    "kr.topic.2022.high.deb563401c2e3b2597c7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.87d414a27bf2e99464",
+   "titleKorean": "인체 구조와 기능 — 신경계의 이해",
+   "subjectKorean": "인체 구조와 기능",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "신경계의 이해",
+   "summary": "인체 구조와 기능의 신경계의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.1b02168acbeccb820197",
+    "kr.topic.2022.high.3d8a738415fd7cbc2d00",
+    "kr.topic.2022.high.413293a68ac69fc36dcb"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.89de87630de1414e58",
+   "titleKorean": "보육 과정 — 보육 과정의 이해",
+   "subjectKorean": "보육 과정",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "보육 과정의 이해",
+   "summary": "보육 과정의 보육 과정의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.5660c2d85035e3fba04a",
+    "kr.topic.2022.high.f4d464896f740dca9560"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.8a9283d74cdf021eb0",
+   "titleKorean": "기초 간호 임상 실무 — 수술 간호 보조",
+   "subjectKorean": "기초 간호 임상 실무",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "수술 간호 보조",
+   "summary": "기초 간호 임상 실무의 수술 간호 보조 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.86cb878ddaa7e6cb78f8",
+    "kr.topic.2022.high.93371d7512c97e9e1aad",
+    "kr.topic.2022.high.c77b51fb799a85e0c96b",
+    "kr.topic.2022.high.e1f08249c02edd09d2fb"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.8bdb31f954f2fce979",
+   "titleKorean": "아동 복지 — 아동 복지의 이해",
+   "subjectKorean": "아동 복지",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "아동 복지의 이해",
+   "summary": "아동 복지의 아동 복지의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.adb3e3c653ec0b19b668",
+    "kr.topic.2022.high.b388dfe10ba15d010aff",
+    "kr.topic.2022.high.c81c9eb2941a4bafe88f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.8c32187ca4c1adf254",
+   "titleKorean": "보건 의료 법규 — 결핵 예방법",
+   "subjectKorean": "보건 의료 법규",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "결핵 예방법",
+   "summary": "보건 의료 법규의 결핵 예방법 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.3d6428638890857804e4",
+    "kr.topic.2022.high.93b2642461f28ad4176e",
+    "kr.topic.2022.high.f40aedec296f07d720ae"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.8c59c3ffdf35776455",
+   "titleKorean": "기초 간호 임상 실무 — 개인위생과 피부 간호 보조",
+   "subjectKorean": "기초 간호 임상 실무",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "개인위생과 피부 간호 보조",
+   "summary": "기초 간호 임상 실무의 개인위생과 피부 간호 보조 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.1b5205d3960624685d1b",
+    "kr.topic.2022.high.73a4283dbb1ae0259f7a",
+    "kr.topic.2022.high.a7a19d583a47f7fd4ace",
+    "kr.topic.2022.high.c383c1275506b531861e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.8c7da65011d0f6b0b2",
+   "titleKorean": "복지 서비스의 기초 — 복지 서비스 정책",
+   "subjectKorean": "복지 서비스의 기초",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "복지 서비스 정책",
+   "summary": "복지 서비스의 기초의 복지 서비스 정책 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.2f99ecf701d1b539477a",
+    "kr.topic.2022.high.64ff8ce285260b95e5c7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.8faf6a4ec20faa00ce",
+   "titleKorean": "기초 간호 임상 실무 — 검사 간호 보조",
+   "subjectKorean": "기초 간호 임상 실무",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "검사 간호 보조",
+   "summary": "기초 간호 임상 실무의 검사 간호 보조 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.14bb82539c8740d24fb0",
+    "kr.topic.2022.high.a9315f187301f77d5add",
+    "kr.topic.2022.high.e90675123f113ba1abe4"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.903a3e6f8ce5fec447",
+   "titleKorean": "인체 구조와 기능 — 인체 구조와 기능의 이해",
+   "subjectKorean": "인체 구조와 기능",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "인체 구조와 기능의 이해",
+   "summary": "인체 구조와 기능의 인체 구조와 기능의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.67039f6c4737423e73f0",
+    "kr.topic.2022.high.8673380546b557f97356",
+    "kr.topic.2022.high.922b12597d43454af4ae"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9133a9054c8598f3f0",
+   "titleKorean": "영유아 교수 방법 — 신체 활동 지도",
+   "subjectKorean": "영유아 교수 방법",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "신체 활동 지도",
+   "summary": "영유아 교수 방법의 신체 활동 지도 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.078be0a153ddee1c4f03",
+    "kr.topic.2022.high.5fc4e6e387a4365d97cb",
+    "kr.topic.2022.high.73e87423b996023553e8",
+    "kr.topic.2022.high.9e59b45b10def49b2f0d",
+    "kr.topic.2022.high.b330e89a411a9363702b",
+    "kr.topic.2022.high.c161498235a92125e17f",
+    "kr.topic.2022.high.c99edcc0849469bcc302",
+    "kr.topic.2022.high.fbc91ae95f2dbb8920da"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.919037269906566e23",
+   "titleKorean": "치과 간호 임상 실무 — 예방 치과 진료 보조",
+   "subjectKorean": "치과 간호 임상 실무",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "예방 치과 진료 보조",
+   "summary": "치과 간호 임상 실무의 예방 치과 진료 보조 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.66bceb90ff104b33159f",
+    "kr.topic.2022.high.cffd6312dddac43a66d5",
+    "kr.topic.2022.high.f873e08e3bacd3cfac8e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.92db223cf26cdb7b95",
+   "titleKorean": "보건 의료 법규 — 구강 보건법",
+   "subjectKorean": "보건 의료 법규",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "구강 보건법",
+   "summary": "보건 의료 법규의 구강 보건법 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.71f391925cfc692c2a0e",
+    "kr.topic.2022.high.d8e15616cae8bfd83166"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.93d64abb0743e6e799",
+   "titleKorean": "기초 간호 임상 실무 — 활동과 운동 관리",
+   "subjectKorean": "기초 간호 임상 실무",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "활동과 운동 관리",
+   "summary": "기초 간호 임상 실무의 활동과 운동 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.4920ffec45a18ae1cf97",
+    "kr.topic.2022.high.598dbfe0a8c220872b24",
+    "kr.topic.2022.high.7719246a9df04ffa7474",
+    "kr.topic.2022.high.7931a456a6577f5b6abf",
+    "kr.topic.2022.high.c7ac89cdb142aa692c8a",
+    "kr.topic.2022.high.e409b003c15f1affabc6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9afc2160c0dc056132",
+   "titleKorean": "인간 발달 — 발달 이론",
+   "subjectKorean": "인간 발달",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "발달 이론",
+   "summary": "인간 발달의 발달 이론 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.011fb424abcdfe95d847",
+    "kr.topic.2022.high.929eae7526a6fca5c835",
+    "kr.topic.2022.high.e66200fe48ce085f55bb",
+    "kr.topic.2022.high.eecfea878df010bbf4e2",
+    "kr.topic.2022.high.f93dcc2ab67a92d7c80b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9c28a47596e14bc91f",
+   "titleKorean": "간호의 기초 — 주요 질환의 이해와 질환별 환자 간호 돕기",
+   "subjectKorean": "간호의 기초",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "주요 질환의 이해와 질환별 환자 간호 돕기",
+   "summary": "간호의 기초의 주요 질환의 이해와 질환별 환자 간호 돕기 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.12f3c0aebff7853c7a97",
+    "kr.topic.2022.high.2dfebcb7e17a112248be",
+    "kr.topic.2022.high.3eac3bc4bffbb872960d",
+    "kr.topic.2022.high.708f11d0866be0d53580",
+    "kr.topic.2022.high.7b950b6b9cdf5c58accf",
+    "kr.topic.2022.high.9a6ae3a773e417379c52",
+    "kr.topic.2022.high.a24a3b499cad65f6050e",
+    "kr.topic.2022.high.a5fc571da92a4894848d",
+    "kr.topic.2022.high.ffc97a8c7f5412021ff1"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9d130b2664aeef5dda",
+   "titleKorean": "인간 발달 — 아동․청소년 발달",
+   "subjectKorean": "인간 발달",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "아동․청소년 발달",
+   "summary": "인간 발달의 아동․청소년 발달 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.55fa0ed7919d3fce6f3e",
+    "kr.topic.2022.high.a38b238680a6dc679563"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a0dccf14c870b2065c",
+   "titleKorean": "보육 원리와 보육 교사 — 어린이집 보육 교직원",
+   "subjectKorean": "보육 원리와 보육 교사",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "어린이집 보육 교직원",
+   "summary": "보육 원리와 보육 교사의 어린이집 보육 교직원 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.9a1a2777516f7a301362",
+    "kr.topic.2022.high.cf53251d070e6a61dd70",
+    "kr.topic.2022.high.ec68782ab4ad4d3fc556"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a12743e9a5a512a918",
+   "titleKorean": "생활 서비스 산업의 이해 — 생활 서비스 산업과 직업 생활",
+   "subjectKorean": "생활 서비스 산업의 이해",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "생활 서비스 산업과 직업 생활",
+   "summary": "생활 서비스 산업의 이해의 생활 서비스 산업과 직업 생활 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.337b24508943d8d740a5",
+    "kr.topic.2022.high.47b0e1604e69c211697e",
+    "kr.topic.2022.high.da6060fdbcefff806fdd"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a26018545e2ed1074f",
+   "titleKorean": "보육 실습 — 현장 보육 실습",
+   "subjectKorean": "보육 실습",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "현장 보육 실습",
+   "summary": "보육 실습의 현장 보육 실습 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.18cc93001731b8b7619c",
+    "kr.topic.2022.high.203455664a9470cc9db2",
+    "kr.topic.2022.high.38bf2adf715f79110b2f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a4a4da31a3782e23e7",
+   "titleKorean": "간호의 기초 — 간호조무사의 역할과 직업 윤리",
+   "subjectKorean": "간호의 기초",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "간호조무사의 역할과 직업 윤리",
+   "summary": "간호의 기초의 간호조무사의 역할과 직업 윤리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.270de51b1740af38350c",
+    "kr.topic.2022.high.3946955f0c4499355395"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a4b8dc5b0cf842501d",
+   "titleKorean": "기초 간호 임상 실무 — 응급 간호 보조",
+   "subjectKorean": "기초 간호 임상 실무",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "응급 간호 보조",
+   "summary": "기초 간호 임상 실무의 응급 간호 보조 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.208199ea9f127e0e1b5d",
+    "kr.topic.2022.high.2458cc5583e04ac03cef",
+    "kr.topic.2022.high.b0bf52886250c30e3505",
+    "kr.topic.2022.high.b2ef6b81a133efbc50a9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a52e256e40581df43f",
+   "titleKorean": "복지 서비스의 기초 — 복지 서비스 현장의 윤리와 실천",
+   "subjectKorean": "복지 서비스의 기초",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "복지 서비스 현장의 윤리와 실천",
+   "summary": "복지 서비스의 기초의 복지 서비스 현장의 윤리와 실천 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.f5ef1eaf23441af4a360",
+    "kr.topic.2022.high.fe6203aeda1601608a77"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a7322b932de84df050",
+   "titleKorean": "보건 간호 — 보건 교육",
+   "subjectKorean": "보건 간호",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "보건 교육",
+   "summary": "보건 간호의 보건 교육 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.00e7bf9f6e82cde3f3de",
+    "kr.topic.2022.high.ba83a67e76b80a85ef66",
+    "kr.topic.2022.high.c978d1c437f72c7259d7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a9afa4c7c7d3347553",
+   "titleKorean": "보건 간호 — 지역사회 보건 간호",
+   "subjectKorean": "보건 간호",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "지역사회 보건 간호",
+   "summary": "보건 간호의 지역사회 보건 간호 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.3034e04c11ed14b48d9b",
+    "kr.topic.2022.high.5b6c73e3809c6ec3b537",
+    "kr.topic.2022.high.81ac952a6a2b8024b534",
+    "kr.topic.2022.high.f6be70de19c1e1368623"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.acc47425ab49919e8b",
+   "titleKorean": "아동 복지 — 다양한 아동 복지 서비스",
+   "subjectKorean": "아동 복지",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "다양한 아동 복지 서비스",
+   "summary": "아동 복지의 다양한 아동 복지 서비스 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.246d4dbed68ede9d89d5",
+    "kr.topic.2022.high.7f87b16d3fb48df31097",
+    "kr.topic.2022.high.901dff146612ebb9e5a2",
+    "kr.topic.2022.high.d8156b3bfcaa577b71e2",
+    "kr.topic.2022.high.dd2fe00561236e15622c",
+    "kr.topic.2022.high.f05e10d69c0f1b4cb86c",
+    "kr.topic.2022.high.f99257e361fc4e360a69"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ae78499d29ad17cce5",
+   "titleKorean": "기초 간호 임상 실무 — 영양과 배설 간호 보조",
+   "subjectKorean": "기초 간호 임상 실무",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "영양과 배설 간호 보조",
+   "summary": "기초 간호 임상 실무의 영양과 배설 간호 보조 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.049ae84f2333c025d4c6",
+    "kr.topic.2022.high.1caea93f8affea812a28",
+    "kr.topic.2022.high.49cb082f9fcc38485f4e",
+    "kr.topic.2022.high.9be6efc957297ebac06e",
+    "kr.topic.2022.high.cd220817e074064e7e0f",
+    "kr.topic.2022.high.e8a7127d1af94d6ad0a7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ae8516722eeb4e1092",
+   "titleKorean": "인간 발달 — 태아와 신생아 발달",
+   "subjectKorean": "인간 발달",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "태아와 신생아 발달",
+   "summary": "인간 발달의 태아와 신생아 발달 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.87c7437f299ef4199729",
+    "kr.topic.2022.high.a2f7b086f1c89de5b3ba"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b0a653b50d248131b3",
+   "titleKorean": "보건 의료 법규 — 혈액 관리법",
+   "subjectKorean": "보건 의료 법규",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "혈액 관리법",
+   "summary": "보건 의료 법규의 혈액 관리법 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.17545e08d8f4d66467e2",
+    "kr.topic.2022.high.27fd74b252c21b56dd3a",
+    "kr.topic.2022.high.564e80b8f9141cb7d7a9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b1e587ac9702751ef3",
+   "titleKorean": "보건 의료 법규 — 의료법",
+   "subjectKorean": "보건 의료 법규",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "의료법",
+   "summary": "보건 의료 법규의 의료법 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.8d8cc4ea7a9762a155ae",
+    "kr.topic.2022.high.c85ee7dfa4a91af4477a",
+    "kr.topic.2022.high.d1e94273da2914fd1bab"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b1ed8cde3106692f6b",
+   "titleKorean": "공중 보건 — 공중 보건의 이해",
+   "subjectKorean": "공중 보건",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "공중 보건의 이해",
+   "summary": "공중 보건의 공중 보건의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.2c1fc6946e008937ac43",
+    "kr.topic.2022.high.47faa79ec003c8a018dc"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ba73839dd385aae2f9",
+   "titleKorean": "보육 실습 — 보육 실습의 기초",
+   "subjectKorean": "보육 실습",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "보육 실습의 기초",
+   "summary": "보육 실습의 보육 실습의 기초 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.4a10ee6b59750437ab80",
+    "kr.topic.2022.high.e7fde4d2f0dc74df8249"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.bb3acb0ac516fe524a",
+   "titleKorean": "간호의 기초 — 의료 기관에서의 의사소통과 디지털 역량",
+   "subjectKorean": "간호의 기초",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "의료 기관에서의 의사소통과 디지털 역량",
+   "summary": "간호의 기초의 의료 기관에서의 의사소통과 디지털 역량 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.944a04e162c1cb587d41",
+    "kr.topic.2022.high.9a14ff3ab412c36b1323",
+    "kr.topic.2022.high.a56fbcf30b8c79c4601c",
+    "kr.topic.2022.high.fb206153d8007018316b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.bcdc410f6883ad0e72",
+   "titleKorean": "보육 원리와 보육 교사 — 영유아 발달과 보육 교사의 역할",
+   "subjectKorean": "보육 원리와 보육 교사",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "영유아 발달과 보육 교사의 역할",
+   "summary": "보육 원리와 보육 교사의 영유아 발달과 보육 교사의 역할 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.5a37c0d6fd3f267f99b5",
+    "kr.topic.2022.high.bfc100814bc97792de47",
+    "kr.topic.2022.high.dac0585210ef4877ed8d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.be14d43fa479d01723",
+   "titleKorean": "보육 원리와 보육 교사 — 어린이집 운영과 보육 환경 관리",
+   "subjectKorean": "보육 원리와 보육 교사",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "어린이집 운영과 보육 환경 관리",
+   "summary": "보육 원리와 보육 교사의 어린이집 운영과 보육 환경 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.21ae37310550b92d341d",
+    "kr.topic.2022.high.8740800a21bb8bf3a696",
+    "kr.topic.2022.high.ca4789340306a834f479"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.bf11698e900a9d20dc",
+   "titleKorean": "공중 보건 — 식품 위생",
+   "subjectKorean": "공중 보건",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "식품 위생",
+   "summary": "공중 보건의 식품 위생 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.7616bfb264487ac59dc1",
+    "kr.topic.2022.high.d0e7d58ac5382c11a299"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c3ba8fab9cf5fc32f3",
+   "titleKorean": "공중 보건 — 정신 보건",
+   "subjectKorean": "공중 보건",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "정신 보건",
+   "summary": "공중 보건의 정신 보건 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.5cb6ab2dbe8e06b334ac",
+    "kr.topic.2022.high.69031927aa239f530867",
+    "kr.topic.2022.high.a0287441761dde5540b6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c49138b4a3421022d7",
+   "titleKorean": "복지 서비스의 기초 — 복지 서비스 실제",
+   "subjectKorean": "복지 서비스의 기초",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "복지 서비스 실제",
+   "summary": "복지 서비스의 기초의 복지 서비스 실제 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.a3bc2d9b0e0df87802af",
+    "kr.topic.2022.high.aa77080cbf1499a4b086",
+    "kr.topic.2022.high.af5d74eb4e2aa2dbf876",
+    "kr.topic.2022.high.b28ee306fdc024b4a2ae"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c59837b98d63f5dd7f",
+   "titleKorean": "보건 간호 — 지역사회 재난 관리",
+   "subjectKorean": "보건 간호",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "지역사회 재난 관리",
+   "summary": "보건 간호의 지역사회 재난 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.5749c04ed1a55ace850f",
+    "kr.topic.2022.high.beec6d2c3a0bcdf7f014"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c6271781bb52a6e1c1",
+   "titleKorean": "간호의 기초 — 특수 분야 간호 보조",
+   "subjectKorean": "간호의 기초",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "특수 분야 간호 보조",
+   "summary": "간호의 기초의 특수 분야 간호 보조 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.1fe8159da7ed4de734d7",
+    "kr.topic.2022.high.2b126fa92f5eb98dbdb7",
+    "kr.topic.2022.high.3997670b45e7d9438db7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c87ae81aba69d9cb53",
+   "titleKorean": "기초 간호 임상 실무 — 활력 징후 측정",
+   "subjectKorean": "기초 간호 임상 실무",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "활력 징후 측정",
+   "summary": "기초 간호 임상 실무의 활력 징후 측정 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.0972b0b8364a7ae90e84",
+    "kr.topic.2022.high.23cd335d1b68aa6f8ac4",
+    "kr.topic.2022.high.669bcf8ebc4d05316a16",
+    "kr.topic.2022.high.7217c8dbed0948cbf5e6",
+    "kr.topic.2022.high.7af3b7f3f8d40a430e11",
+    "kr.topic.2022.high.99ac1a988d871b149b2f",
+    "kr.topic.2022.high.a97510732f3881f6f059",
+    "kr.topic.2022.high.b61674ca9dff02730a70",
+    "kr.topic.2022.high.d53e56dcf435e56f5ccb",
+    "kr.topic.2022.high.e7b2133594b19a43209c",
+    "kr.topic.2022.high.f432da0ea10d957339cb"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.cb86569c273d260d90",
+   "titleKorean": "보육 실습 — 보육 실습생의 역할과 자세",
+   "subjectKorean": "보육 실습",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "보육 실습생의 역할과 자세",
+   "summary": "보육 실습의 보육 실습생의 역할과 자세 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.40fea6d7177905b6bafc",
+    "kr.topic.2022.high.9011c4a2788fd7e4d53b",
+    "kr.topic.2022.high.a2bf32b8762370f3f324"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ce0e72b0ac14b96b51",
+   "titleKorean": "인체 구조와 기능 — 호흡계의 이해",
+   "subjectKorean": "인체 구조와 기능",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "호흡계의 이해",
+   "summary": "인체 구조와 기능의 호흡계의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.3719ca8d5d8dd99c97db",
+    "kr.topic.2022.high.a12edd59e2b0672bfb64"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d5d3bd8d53ff049365",
+   "titleKorean": "인체 구조와 기능 — 감각계의 이해",
+   "subjectKorean": "인체 구조와 기능",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "감각계의 이해",
+   "summary": "인체 구조와 기능의 감각계의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.70d1c309949121670837",
+    "kr.topic.2022.high.b53a20614cb2c174747d",
+    "kr.topic.2022.high.d79f3fa2fb4e2aac4213"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d786130392dcb6f447",
+   "titleKorean": "기초 간호 임상 실무 — 투약 간호 보조",
+   "subjectKorean": "기초 간호 임상 실무",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "투약 간호 보조",
+   "summary": "기초 간호 임상 실무의 투약 간호 보조 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.22911c51fa9c6b60ed68",
+    "kr.topic.2022.high.43f331e4a75984027348",
+    "kr.topic.2022.high.643349145fe38c3eeb0b",
+    "kr.topic.2022.high.ccc641c29c0d665a2a22"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.db81e61136766cfc22",
+   "titleKorean": "아동 복지 — 아동 복지의 정책과 행정",
+   "subjectKorean": "아동 복지",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "아동 복지의 정책과 행정",
+   "summary": "아동 복지의 아동 복지의 정책과 행정 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.3c506b09902ec40096ba",
+    "kr.topic.2022.high.7d6d843f32dc94394096",
+    "kr.topic.2022.high.f3a5606e1fa6f15b2d1f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.deef7e6277a5e49efd",
+   "titleKorean": "치과 간호 임상 실무 — 구강악안면외과 진료 보조",
+   "subjectKorean": "치과 간호 임상 실무",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "구강악안면외과 진료 보조",
+   "summary": "치과 간호 임상 실무의 구강악안면외과 진료 보조 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.3bc7021a9f97d61aacb8",
+    "kr.topic.2022.high.e505cc04d41dcd5f3c53"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e0253cba294345a1bb",
+   "titleKorean": "인간 발달 — 영유아 발달",
+   "subjectKorean": "인간 발달",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "영유아 발달",
+   "summary": "인간 발달의 영유아 발달 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.0fb9612c25c4628e7d62",
+    "kr.topic.2022.high.917217f30cebfacfc4d2"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e0fbab633c7595e4cf",
+   "titleKorean": "복지 서비스의 기초 — 현대 사회와 복지 서비스",
+   "subjectKorean": "복지 서비스의 기초",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "현대 사회와 복지 서비스",
+   "summary": "복지 서비스의 기초의 현대 사회와 복지 서비스 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.bdb8d211781308f02bb8",
+    "kr.topic.2022.high.f05c11d3aec1ee44c4f6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e407822f93b81ca08e",
+   "titleKorean": "간호의 기초 — 대상자별 간호 보조",
+   "subjectKorean": "간호의 기초",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "대상자별 간호 보조",
+   "summary": "간호의 기초의 대상자별 간호 보조 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.2ff23bbe0f6e4176f5ba",
+    "kr.topic.2022.high.a614f22c1d4a30febe8c",
+    "kr.topic.2022.high.fe005e64766bb86d14a6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e42bbbe85881cde3e9",
+   "titleKorean": "보건 간호 — 생애 주기별 보건 사업",
+   "subjectKorean": "보건 간호",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "생애 주기별 보건 사업",
+   "summary": "보건 간호의 생애 주기별 보건 사업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.004a9162025e17efc740",
+    "kr.topic.2022.high.7109aad97b4ed292d281",
+    "kr.topic.2022.high.8cc7611f494a8bf99c5a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ebb10981436c3d90b0",
+   "titleKorean": "아동 생활 지도 — 아동의 문제 행동 이해와 부모 상담",
+   "subjectKorean": "아동 생활 지도",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "아동의 문제 행동 이해와 부모 상담",
+   "summary": "아동 생활 지도의 아동의 문제 행동 이해와 부모 상담 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.3a10d2476da178acc0aa",
+    "kr.topic.2022.high.f8864e0e55bc6268dffe"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ef1bf27ccb9057e4a0",
+   "titleKorean": "기초 간호 임상 실무 — 임종 간호 보조",
+   "subjectKorean": "기초 간호 임상 실무",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "임종 간호 보조",
+   "summary": "기초 간호 임상 실무의 임종 간호 보조 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.049d6a5e738db350045b",
+    "kr.topic.2022.high.235d84e6725a33e14bf9",
+    "kr.topic.2022.high.5b7796f942156b540821",
+    "kr.topic.2022.high.a2f139800b44661cb2d9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f0f73e1a4af0e552a8",
+   "titleKorean": "인간 발달 — 발달의 기초",
+   "subjectKorean": "인간 발달",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "발달의 기초",
+   "summary": "인간 발달의 발달의 기초 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.3881bcd3c9709068a7b7",
+    "kr.topic.2022.high.985327391adfd4003d1a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f714886a95614cc393",
+   "titleKorean": "기초 간호 임상 실무 — 간호 단위 업무",
+   "subjectKorean": "기초 간호 임상 실무",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "간호 단위 업무",
+   "summary": "기초 간호 임상 실무의 간호 단위 업무 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.191a119c98ff3d9476c8",
+    "kr.topic.2022.high.33580cf1127379e4b1f3",
+    "kr.topic.2022.high.3bab2a5a4ddbfaac35e0",
+    "kr.topic.2022.high.47fc1fa72d6208f3d6eb",
+    "kr.topic.2022.high.7f9ac878f41c11b31639",
+    "kr.topic.2022.high.8afc4d58163fddb7a0c6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f878b1df0cea00a1e9",
+   "titleKorean": "치과 간호 임상 실무 — 치과 진료의 이해",
+   "subjectKorean": "치과 간호 임상 실무",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "치과 진료의 이해",
+   "summary": "치과 간호 임상 실무의 치과 진료의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.49c9fbdd9e3f2f86c4f4",
+    "kr.topic.2022.high.511e43bf95bd450db8b3",
+    "kr.topic.2022.high.629ac19d25bfc162bb85"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fa3f0aea9e0a89b4ae",
+   "titleKorean": "공중 보건 — 환경 위생",
+   "subjectKorean": "공중 보건",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "환경 위생",
+   "summary": "공중 보건의 환경 위생 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.1d4f2cc887e0cb6ee70f",
+    "kr.topic.2022.high.62ea16f27b962aac4f63",
+    "kr.topic.2022.high.6ff3066e65509d547fb7",
+    "kr.topic.2022.high.af827cac37e04674fe99"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.facfe2f7f9f68e26df",
+   "titleKorean": "영유아 교수 방법 — 미술 활동 지도",
+   "subjectKorean": "영유아 교수 방법",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "미술 활동 지도",
+   "summary": "영유아 교수 방법의 미술 활동 지도 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.1c7435eeeac8275f7bb5",
+    "kr.topic.2022.high.207f8aba57b542c2f824",
+    "kr.topic.2022.high.2651c80ae7cc569d3596",
+    "kr.topic.2022.high.635627134a1a8a480549",
+    "kr.topic.2022.high.bec77a216beea8172dc3",
+    "kr.topic.2022.high.c766cd12010ea5904d16",
+    "kr.topic.2022.high.f8b087e9b7a1e1ce3802"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fc0371299e87926e41",
+   "titleKorean": "치과 간호 임상 실무 — 치주과 진료 보조",
+   "subjectKorean": "치과 간호 임상 실무",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "치주과 진료 보조",
+   "summary": "치과 간호 임상 실무의 치주과 진료 보조 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.52e6e0ac8fc5a0b22a96",
+    "kr.topic.2022.high.fc9e39e2666f7b85c894"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fcdad2e873248a754b",
+   "titleKorean": "복지 서비스의 기초 — 인간의 욕구, 사회 문제와 복지 서비스",
+   "subjectKorean": "복지 서비스의 기초",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "인간의 욕구, 사회 문제와 복지 서비스",
+   "summary": "복지 서비스의 기초의 인간의 욕구, 사회 문제와 복지 서비스 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.f4c22f509d6765052775",
+    "kr.topic.2022.high.f5e9a1b515405e98c8ee"
+   ]
+  }
+ ]
+}

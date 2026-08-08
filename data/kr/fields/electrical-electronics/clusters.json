@@ -1,0 +1,966 @@
+{
+ "clusters": [
+  {
+   "id": "kr.cluster.2022.high.0113fe4f172d5bbc10",
+   "titleKorean": "디지털 논리 회로 — 논리 회로 설계",
+   "subjectKorean": "디지털 논리 회로",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "논리 회로 설계",
+   "summary": "디지털 논리 회로의 논리 회로 설계 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.27b9ae26e2623c326dd5",
+    "kr.topic.2022.high.a788fb6f27eea4f76d35",
+    "kr.topic.2022.high.f98bc64460f786fd279c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.074d49a6720faa5830",
+   "titleKorean": "전기･전자 측정 — 회로 요소 측정",
+   "subjectKorean": "전기･전자 측정",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "회로 요소 측정",
+   "summary": "전기･전자 측정의 회로 요소 측정 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.03e31165edd863ec76b3",
+    "kr.topic.2022.high.2fa47553f9b8cc5f7820",
+    "kr.topic.2022.high.35ea4e44f8e3f17cf6f2",
+    "kr.topic.2022.high.610334d8d94dad06ed81",
+    "kr.topic.2022.high.84ba1bfcd819fc263e20",
+    "kr.topic.2022.high.e4f07ac93e9bc781f4d0",
+    "kr.topic.2022.high.ebe61994fe8c7b12f7fe"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0a38c14a50f609434c",
+   "titleKorean": "전자 제어 — 통신 기능",
+   "subjectKorean": "전자 제어",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "통신 기능",
+   "summary": "전자 제어의 통신 기능 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.987f340d7543986d1caa",
+    "kr.topic.2022.high.a8a705577807513f9e18",
+    "kr.topic.2022.high.be307e13b4ff82d952b0",
+    "kr.topic.2022.high.cd2fac974a3b431f16a2"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0e61317d308f35ff8a",
+   "titleKorean": "전기 회로 — 영역 05",
+   "subjectKorean": "전기 회로",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "전기 회로의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.06ba6253fac9916ac612",
+    "kr.topic.2022.high.60730fc43f9c66d5031d",
+    "kr.topic.2022.high.6c640f08e91f0f026a55",
+    "kr.topic.2022.high.89bf57e27bc4ca132c48"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1f15855622e48fd6fe",
+   "titleKorean": "자동화 설비 — 자동화 설비의 개요",
+   "subjectKorean": "자동화 설비",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "자동화 설비의 개요",
+   "summary": "자동화 설비의 자동화 설비의 개요 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.20c66316d8713dfe412a",
+    "kr.topic.2022.high.7af94bd328e42151f293",
+    "kr.topic.2022.high.d4cdf31ef31fcf7d23a9",
+    "kr.topic.2022.high.de716f71c82bb9e5a0de"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.20c00efefbad8a17f5",
+   "titleKorean": "전자 제어 — 전자 제어 개요",
+   "subjectKorean": "전자 제어",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "전자 제어 개요",
+   "summary": "전자 제어의 전자 제어 개요 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.0cb533ac917c2450641f",
+    "kr.topic.2022.high.2ead900ae0fb12259992",
+    "kr.topic.2022.high.31c42aaaee9a1bb9338e",
+    "kr.topic.2022.high.5c456f27cef8acfb8194",
+    "kr.topic.2022.high.6ccd67fc4b3a10a0daf0",
+    "kr.topic.2022.high.988e5b07cc041ec85255",
+    "kr.topic.2022.high.cbb1c87729890e7ea940",
+    "kr.topic.2022.high.dfa9cc300c3b82c9ca98",
+    "kr.topic.2022.high.e0dcea81633378b724fa"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.243b92cb72639ec385",
+   "titleKorean": "전기 기기 — 동기기",
+   "subjectKorean": "전기 기기",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "동기기",
+   "summary": "전기 기기의 동기기 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 16,
+   "topics": [
+    "kr.topic.2022.high.1268581b39723200855c",
+    "kr.topic.2022.high.25016f9b9bcb25252ac2",
+    "kr.topic.2022.high.2660bf459a6d8bd3a7dd",
+    "kr.topic.2022.high.360b758898ed22476b38",
+    "kr.topic.2022.high.3b9a4fe7d4fc3ede6bc5",
+    "kr.topic.2022.high.454b5562b4899b12395f",
+    "kr.topic.2022.high.543206af008ea57b7a19",
+    "kr.topic.2022.high.75af0d7b8cb760ea6407",
+    "kr.topic.2022.high.797488c7330b260a4163",
+    "kr.topic.2022.high.881e992bd1fe1caa0df1",
+    "kr.topic.2022.high.977cb4a60c933f4b0e46",
+    "kr.topic.2022.high.9a4ee7ac8f58084bfa5e",
+    "kr.topic.2022.high.c82c34ec39e74028e9d5",
+    "kr.topic.2022.high.c889546104fed8e776f8",
+    "kr.topic.2022.high.f66681736495f0394801",
+    "kr.topic.2022.high.fa7e945e59a5156ff62d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.25a31114ecc0182cc1",
+   "titleKorean": "전기 회로 — 전기",
+   "subjectKorean": "전기 회로",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "전기",
+   "summary": "전기 회로의 전기 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.4544f692076a9e98535a",
+    "kr.topic.2022.high.4a99e004ab5539538c02",
+    "kr.topic.2022.high.66b7d3c9113ab3631b88",
+    "kr.topic.2022.high.8ef80a35c1c34ff1171f",
+    "kr.topic.2022.high.a6cddb36c60579822a56",
+    "kr.topic.2022.high.ace856d10791a2724fbf",
+    "kr.topic.2022.high.bf97d90743c91d128c55",
+    "kr.topic.2022.high.c77a1c5d6a2b721a579d",
+    "kr.topic.2022.high.e95a18e823e8d302150e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.27fecb79449e4327fd",
+   "titleKorean": "전기 기기 — 유도기",
+   "subjectKorean": "전기 기기",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "유도기",
+   "summary": "전기 기기의 유도기 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 16,
+   "topics": [
+    "kr.topic.2022.high.04b3cfe42747ac5b0f1c",
+    "kr.topic.2022.high.177e9fdfa5d2e6906a1c",
+    "kr.topic.2022.high.1839e296e392dfc5667a",
+    "kr.topic.2022.high.2fe5f75f101e3491823b",
+    "kr.topic.2022.high.480a2ac5afb26aa41510",
+    "kr.topic.2022.high.4954145f00d033b8f3cd",
+    "kr.topic.2022.high.6a3dc62cb5cfce01dcda",
+    "kr.topic.2022.high.8ded82ab8704ccb11380",
+    "kr.topic.2022.high.969d0ecd072309ca34d6",
+    "kr.topic.2022.high.9e0a0857947ba451df79",
+    "kr.topic.2022.high.aa006c2a8270f45fc692",
+    "kr.topic.2022.high.b410667b8d311be115ca",
+    "kr.topic.2022.high.bf6efff4d163406866e0",
+    "kr.topic.2022.high.c015eee7f2d711f15eab",
+    "kr.topic.2022.high.e4ab7df6befca47bd94b",
+    "kr.topic.2022.high.f6b69ad1e15ad71c4360"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2c8dce63e42214a63b",
+   "titleKorean": "전기·전자 일반 — 전기 설비",
+   "subjectKorean": "전기·전자 일반",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "전기 설비",
+   "summary": "전기·전자 일반의 전기 설비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.3d6f4d9a1ee13d8edeb7",
+    "kr.topic.2022.high.3f7516b34ac965941fa1",
+    "kr.topic.2022.high.bce988fd4eb3c22f2057",
+    "kr.topic.2022.high.c06fee2e96f51a174fd9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2efbd27163c18edcf1",
+   "titleKorean": "디지털 논리 회로 — 조합 논리 회로 응용",
+   "subjectKorean": "디지털 논리 회로",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "조합 논리 회로 응용",
+   "summary": "디지털 논리 회로의 조합 논리 회로 응용 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.391b2d4f60157ef89f6d",
+    "kr.topic.2022.high.5fba79933902cd7ef932",
+    "kr.topic.2022.high.8fd4fe9e6bac784bea6a",
+    "kr.topic.2022.high.f3bbd7f0bf7af99aad6e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2fd82373e1d9e80b51",
+   "titleKorean": "전기 기기 — 전기 기기 응용",
+   "subjectKorean": "전기 기기",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "전기 기기 응용",
+   "summary": "전기 기기의 전기 기기 응용 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.018a7699969d1a388a9d",
+    "kr.topic.2022.high.2d96e8ca198b31513439",
+    "kr.topic.2022.high.4f56869a17f40bae6deb",
+    "kr.topic.2022.high.c7bfd9a8264281abca89",
+    "kr.topic.2022.high.f19936c9ab780b9d582d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.37597fb1118d75c24f",
+   "titleKorean": "전자 제어 — 전자 제어 입출력",
+   "subjectKorean": "전자 제어",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "전자 제어 입출력",
+   "summary": "전자 제어의 전자 제어 입출력 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.23c85258aa4f98cc4108",
+    "kr.topic.2022.high.3741f3cb0f9bb59eb1da",
+    "kr.topic.2022.high.4753c41b397c25c7074d",
+    "kr.topic.2022.high.6d01a7a53bdd7fcd93fa",
+    "kr.topic.2022.high.8ed6e2bbf30c1af422d7",
+    "kr.topic.2022.high.a39a598bd3aa348cbdd6",
+    "kr.topic.2022.high.d4293cf5eae8adab94e2",
+    "kr.topic.2022.high.ed310582b647293d2dc7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.382f8da6cd489a18b8",
+   "titleKorean": "전기･전자 측정 — 전압, 전류 및 전력 측정",
+   "subjectKorean": "전기･전자 측정",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "전압, 전류 및 전력 측정",
+   "summary": "전기･전자 측정의 전압, 전류 및 전력 측정 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.239a4ee01aeea3257d0e",
+    "kr.topic.2022.high.3290ebef463a01431e10",
+    "kr.topic.2022.high.3676bfb6a1ac1cebd747",
+    "kr.topic.2022.high.6ed0b414d7ee54ac47ef",
+    "kr.topic.2022.high.88225919c1c3c34acd22",
+    "kr.topic.2022.high.8c0cb69bd6373cd13be8",
+    "kr.topic.2022.high.a712680c206d30e9bfa5",
+    "kr.topic.2022.high.ceb1ff01327583200c6d",
+    "kr.topic.2022.high.e4b97ce47eaa58580301"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.390f7f3fcc0299c790",
+   "titleKorean": "전기·전자 일반 — 전기 기기",
+   "subjectKorean": "전기·전자 일반",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "전기 기기",
+   "summary": "전기·전자 일반의 전기 기기 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.38f6980721fd02de62cf",
+    "kr.topic.2022.high.60bfe49008b19449cc89",
+    "kr.topic.2022.high.d28ebe7791374d0b3832"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3f51938d36318fe067",
+   "titleKorean": "전기·전자 일반 — 전자 회로",
+   "subjectKorean": "전기·전자 일반",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "전자 회로",
+   "summary": "전기·전자 일반의 전자 회로 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.03f6020d38ab63bdefec",
+    "kr.topic.2022.high.458a75a12750ad576a60",
+    "kr.topic.2022.high.7936e6b51feaf306fe67"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.487da6204726c4f976",
+   "titleKorean": "전자 제어 — 전자 제어 신호 처리",
+   "subjectKorean": "전자 제어",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "전자 제어 신호 처리",
+   "summary": "전자 제어의 전자 제어 신호 처리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 15,
+   "topics": [
+    "kr.topic.2022.high.1e3fb2b076f852fc7001",
+    "kr.topic.2022.high.2a1dec0a94666f8a5780",
+    "kr.topic.2022.high.3166dab99629a6e75cc7",
+    "kr.topic.2022.high.42be18d637d8faace040",
+    "kr.topic.2022.high.4d33f15498d030c114c7",
+    "kr.topic.2022.high.5bb7a88b7befec93f775",
+    "kr.topic.2022.high.5f27bc713a7938e42c2e",
+    "kr.topic.2022.high.81c5b32aad0a8ccf470c",
+    "kr.topic.2022.high.9145ff4d43fbec4afbe0",
+    "kr.topic.2022.high.9e55439821134ba23b0f",
+    "kr.topic.2022.high.a5ef99455cddb4f317d6",
+    "kr.topic.2022.high.ab77bf1bedec2af22ab3",
+    "kr.topic.2022.high.e776f2724f372723df36",
+    "kr.topic.2022.high.e9d712d89f80b41d9093",
+    "kr.topic.2022.high.f595096de43cd869f0f0"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4e50ed6508415379ce",
+   "titleKorean": "전기 설비 — 부하 설비",
+   "subjectKorean": "전기 설비",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "부하 설비",
+   "summary": "전기 설비의 부하 설비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.2db0eb5d848504a63512",
+    "kr.topic.2022.high.3927ff849e47e3146d97",
+    "kr.topic.2022.high.6513430f5b31f0a5205f",
+    "kr.topic.2022.high.919b9435a963eab8da5f",
+    "kr.topic.2022.high.9eebaab4b870ae2e62b1",
+    "kr.topic.2022.high.b55b9ced53210c94693f",
+    "kr.topic.2022.high.b8cc31d33617cacf59f1",
+    "kr.topic.2022.high.b9a1da42e69eb291ed99",
+    "kr.topic.2022.high.c4d6d0f2c84bb4b96bcd",
+    "kr.topic.2022.high.de29320863adb84c4392",
+    "kr.topic.2022.high.e9e6c7b5c3ba7c0e03a3"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4f20e09820b0c14b18",
+   "titleKorean": "전자 회로 — 발진 및 펄스 회로",
+   "subjectKorean": "전자 회로",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "발진 및 펄스 회로",
+   "summary": "전자 회로의 발진 및 펄스 회로 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.3663f40a38a6aa102854",
+    "kr.topic.2022.high.48c8c2e33329f06b47ff"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.523425d7da610b7cd9",
+   "titleKorean": "전기 기기 — 변압기",
+   "subjectKorean": "전기 기기",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "변압기",
+   "summary": "전기 기기의 변압기 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 15,
+   "topics": [
+    "kr.topic.2022.high.0578ad585062d80f0907",
+    "kr.topic.2022.high.16e12bb7dab185e89f0e",
+    "kr.topic.2022.high.18fd560d4e6f37d13e39",
+    "kr.topic.2022.high.39a2d79f68c41e400d54",
+    "kr.topic.2022.high.453a828e333286ad71b2",
+    "kr.topic.2022.high.57cf79c770a3a54f0c96",
+    "kr.topic.2022.high.665e413967f812b40801",
+    "kr.topic.2022.high.8bf8625742cf9501b289",
+    "kr.topic.2022.high.afbf496f5f60d0b87219",
+    "kr.topic.2022.high.b14aa90f635b874aa499",
+    "kr.topic.2022.high.bfc575aab145d581cd96",
+    "kr.topic.2022.high.c0a9adc1272072dd5049",
+    "kr.topic.2022.high.c12ec7bf5766340f7d56",
+    "kr.topic.2022.high.dbccba76edbf63200779",
+    "kr.topic.2022.high.fab7bf6f893aa2e8d97c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.532e1330b18c0f2720",
+   "titleKorean": "전자 제어 — 전자 제어 시스템 개발 환경",
+   "subjectKorean": "전자 제어",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "전자 제어 시스템 개발 환경",
+   "summary": "전자 제어의 전자 제어 시스템 개발 환경 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.319bcc9d641c8a3b8d28",
+    "kr.topic.2022.high.4049e6e0c497020a74f7",
+    "kr.topic.2022.high.5c10f59d816635a4a27e",
+    "kr.topic.2022.high.95a9fb0a2a574877477d",
+    "kr.topic.2022.high.a1c94288d5326f30ebe4",
+    "kr.topic.2022.high.b38cff084141c8513145",
+    "kr.topic.2022.high.ef1510d69aa016b62f40",
+    "kr.topic.2022.high.f46e42987937727fb415"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5918324a2cd12cd20d",
+   "titleKorean": "디지털 논리 회로 — 디지털 시스템과 정보의 표현",
+   "subjectKorean": "디지털 논리 회로",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "디지털 시스템과 정보의 표현",
+   "summary": "디지털 논리 회로의 디지털 시스템과 정보의 표현 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.02f8da64bd10dd765171",
+    "kr.topic.2022.high.04810344c5620dce1a78",
+    "kr.topic.2022.high.2c4b5c74654685ba5530"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5b023c83c78577e02b",
+   "titleKorean": "자동화 설비 — 전기 공기압 제어",
+   "subjectKorean": "자동화 설비",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "전기 공기압 제어",
+   "summary": "자동화 설비의 전기 공기압 제어 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.307e4728dca4dc6bb26e",
+    "kr.topic.2022.high.49e25e995ca7b881ebfd",
+    "kr.topic.2022.high.8aa6efc41c368192384f",
+    "kr.topic.2022.high.a853bf5354a945937580"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5bb2d8f5c93670f957",
+   "titleKorean": "전기 설비 — 발전 설비",
+   "subjectKorean": "전기 설비",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "발전 설비",
+   "summary": "전기 설비의 발전 설비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.0f4a87079b0ad315a2f1",
+    "kr.topic.2022.high.0f93ab93a186f9442567",
+    "kr.topic.2022.high.52eddbd392f3f9c20459",
+    "kr.topic.2022.high.64efb4a540a92117eb01",
+    "kr.topic.2022.high.7764ab7741f33732fd9b",
+    "kr.topic.2022.high.a75c3d94883ca1a584d6",
+    "kr.topic.2022.high.aefb8b4686fd141ced1e",
+    "kr.topic.2022.high.b434c998c6984ae88ac0"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.695032771fd479dcd2",
+   "titleKorean": "전기 회로 — 교류 회로",
+   "subjectKorean": "전기 회로",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "교류 회로",
+   "summary": "전기 회로의 교류 회로 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 19,
+   "topics": [
+    "kr.topic.2022.high.3b9ba58254e1f6af2cd1",
+    "kr.topic.2022.high.4bebcbcfb6f1e2e20a70",
+    "kr.topic.2022.high.4ef814f06280591ac242",
+    "kr.topic.2022.high.5a3a0fe73bdf0da929a2",
+    "kr.topic.2022.high.6a37e7ba9312cb6cbe78",
+    "kr.topic.2022.high.71537a160e6bbbfac2ff",
+    "kr.topic.2022.high.801f335960471b3c4118",
+    "kr.topic.2022.high.820510a0ef64bc735480",
+    "kr.topic.2022.high.847a7e0b40820d8a1454",
+    "kr.topic.2022.high.8cab9292f2b9c4427f81",
+    "kr.topic.2022.high.9fba541a01e6e2a81745",
+    "kr.topic.2022.high.bc4744c846fa662e2ff2",
+    "kr.topic.2022.high.c026c79159cfa40c8443",
+    "kr.topic.2022.high.c12456ded917a9480edc",
+    "kr.topic.2022.high.ceeaa916276d2b9817f6",
+    "kr.topic.2022.high.daa9f1475639d4c3e00f",
+    "kr.topic.2022.high.eab61beebd27aa41c8d4",
+    "kr.topic.2022.high.f0643317f90d39137e8a",
+    "kr.topic.2022.high.fd3c324da467d7b363d5"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6d587efb16512e660d",
+   "titleKorean": "디지털 논리 회로 — 디지털 논리 회로의 응용",
+   "subjectKorean": "디지털 논리 회로",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "디지털 논리 회로의 응용",
+   "summary": "디지털 논리 회로의 디지털 논리 회로의 응용 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.1887e8118bf8d6b01d4c",
+    "kr.topic.2022.high.aa188cea176d20a6150f",
+    "kr.topic.2022.high.d488d7631b75489a05c7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.711486efb40fb8ecfa",
+   "titleKorean": "전자 회로 — 신호 변환 회로",
+   "subjectKorean": "전자 회로",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "신호 변환 회로",
+   "summary": "전자 회로의 신호 변환 회로 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.618a8a4a7f3f2bc0c0cd",
+    "kr.topic.2022.high.af4a6ce4b8462936bdf7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.722466c83ab17f20fa",
+   "titleKorean": "전기 설비 — 수변전 설비",
+   "subjectKorean": "전기 설비",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "수변전 설비",
+   "summary": "전기 설비의 수변전 설비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.36bcbb01ef783ae35393",
+    "kr.topic.2022.high.3b5ecef649027617c9c3",
+    "kr.topic.2022.high.510100509be0cf7c7e37",
+    "kr.topic.2022.high.8a548f71a66fdc7ac154"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.75eb71f41d187aacbf",
+   "titleKorean": "전기 설비 — 송배전 설비",
+   "subjectKorean": "전기 설비",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "송배전 설비",
+   "summary": "전기 설비의 송배전 설비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.129496d76725cd85bea8",
+    "kr.topic.2022.high.24de1e01c3a87b433699",
+    "kr.topic.2022.high.312f77699a56ba55e301",
+    "kr.topic.2022.high.3ac048290d9f4f96052f",
+    "kr.topic.2022.high.55e1ceeae009c26e37ea",
+    "kr.topic.2022.high.8421634852a77f3ef1c6",
+    "kr.topic.2022.high.858f9dcb5eec90f7bf20",
+    "kr.topic.2022.high.97a2993b5cdafbc4a507",
+    "kr.topic.2022.high.9c70fb45584ec0da61d4",
+    "kr.topic.2022.high.aa37d343f3fa05d8fdf8"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7cf4d1a5769ed5c57d",
+   "titleKorean": "디지털 논리 회로 — 논리 회로 소자",
+   "subjectKorean": "디지털 논리 회로",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "논리 회로 소자",
+   "summary": "디지털 논리 회로의 논리 회로 소자 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.a4223852d5b73eae2cd1",
+    "kr.topic.2022.high.e378e91cac2e0249bbc0",
+    "kr.topic.2022.high.fca4351b530b2309a0a4"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7d6164fac9310448c7",
+   "titleKorean": "전자 회로 — 증폭 회로",
+   "subjectKorean": "전자 회로",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "증폭 회로",
+   "summary": "전자 회로의 증폭 회로 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.6c19baaba70bed7251d5",
+    "kr.topic.2022.high.c8b67109d4744f678789"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7fb2bf8a86a7eb3189",
+   "titleKorean": "전기･전자 측정 — 측정 일반",
+   "subjectKorean": "전기･전자 측정",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "측정 일반",
+   "summary": "전기･전자 측정의 측정 일반 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.2c4aa936c7655ea5adac",
+    "kr.topic.2022.high.8cfd4b23d759547c9f4c",
+    "kr.topic.2022.high.cecdfc91dd12ec80c068",
+    "kr.topic.2022.high.e04eec9396c218fa2831"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.8056af113b040975ff",
+   "titleKorean": "전자 제어 — 입출력 디바이스 제어",
+   "subjectKorean": "전자 제어",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "입출력 디바이스 제어",
+   "summary": "전자 제어의 입출력 디바이스 제어 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.22fc39152ef735a1e951",
+    "kr.topic.2022.high.5c22d3f76141ef740dbb",
+    "kr.topic.2022.high.74cc48a3337b8f717f12",
+    "kr.topic.2022.high.8ddc15ff4fc29d411ade",
+    "kr.topic.2022.high.a9ed24eba39cfa3d40bc",
+    "kr.topic.2022.high.c901cd77c15dd2114058",
+    "kr.topic.2022.high.f2c27c74523d584fc3eb",
+    "kr.topic.2022.high.fa61b7021e50ef083199"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.82ebc2f3a308a14efa",
+   "titleKorean": "전자 회로 — 변복조 회로",
+   "subjectKorean": "전자 회로",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "변복조 회로",
+   "summary": "전자 회로의 변복조 회로 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.8218dfea6cdaa6a847ef",
+    "kr.topic.2022.high.87f699e3ea9b79a407c9",
+    "kr.topic.2022.high.a0bf279566c0822501e6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.91f36107f6e70b9ea1",
+   "titleKorean": "전자 제어 — 전자 제어 중앙 처리 장치",
+   "subjectKorean": "전자 제어",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "전자 제어 중앙 처리 장치",
+   "summary": "전자 제어의 전자 제어 중앙 처리 장치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.1eb7c57a3fec78cc3eee",
+    "kr.topic.2022.high.af058be9b46d95116726",
+    "kr.topic.2022.high.c0ade952e5ba6473b0f6",
+    "kr.topic.2022.high.c77b23493e032a85d952",
+    "kr.topic.2022.high.d54eef9d055ab7c318c3",
+    "kr.topic.2022.high.ea7a2c9c1d7ddfbe25f8",
+    "kr.topic.2022.high.fb7d61872b6774401a43"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.961a6259714ae115a3",
+   "titleKorean": "전기 회로 — 자기",
+   "subjectKorean": "전기 회로",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "자기",
+   "summary": "전기 회로의 자기 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.05a9e7437087095aceac",
+    "kr.topic.2022.high.1994698589bef3f7a0ec",
+    "kr.topic.2022.high.2e5296862dca81b4b1d5",
+    "kr.topic.2022.high.3ac21efc5a998582e5ed",
+    "kr.topic.2022.high.4b10e0de7ff2ded187fa",
+    "kr.topic.2022.high.4b665f7dcc161a23f16e",
+    "kr.topic.2022.high.5745efa9cfa92a46ea0f",
+    "kr.topic.2022.high.654d7aa05abb4e12741e",
+    "kr.topic.2022.high.7c36929cd4a533411860",
+    "kr.topic.2022.high.83ec92fd399db5d84c52",
+    "kr.topic.2022.high.935c54ad79ece1c6286a",
+    "kr.topic.2022.high.c979e8f0a0478f7e0c3f",
+    "kr.topic.2022.high.df61b5b0a03f3ab76fd6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9f40e8f51b237ef77f",
+   "titleKorean": "전기 기기 — 직류기",
+   "subjectKorean": "전기 기기",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "직류기",
+   "summary": "전기 기기의 직류기 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 16,
+   "topics": [
+    "kr.topic.2022.high.045a384ee9448ac6626e",
+    "kr.topic.2022.high.1259a38d2ce05753185b",
+    "kr.topic.2022.high.42a74c5a21c9799e0d28",
+    "kr.topic.2022.high.4b3529b791a1fa3e84ba",
+    "kr.topic.2022.high.67480ed89bc7dddb2369",
+    "kr.topic.2022.high.77cb4b0017c01e3c6007",
+    "kr.topic.2022.high.81aea0881901ed68a9bb",
+    "kr.topic.2022.high.835c72d4700f92e18c82",
+    "kr.topic.2022.high.83c44025fd3225857d0f",
+    "kr.topic.2022.high.84196cb4ada1c9517eec",
+    "kr.topic.2022.high.85dd26fdf41b6957c3bd",
+    "kr.topic.2022.high.8d9d5ad6d8abe00fd233",
+    "kr.topic.2022.high.8ebb71b33ad2823cd5bc",
+    "kr.topic.2022.high.9a48ce87a170f00d816b",
+    "kr.topic.2022.high.9d443925b5cad7e3f4ae",
+    "kr.topic.2022.high.ddcc10bf598200a35370"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9f6fa73444d7afdf7d",
+   "titleKorean": "디지털 논리 회로 — 순서 논리 회로 응용",
+   "subjectKorean": "디지털 논리 회로",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "순서 논리 회로 응용",
+   "summary": "디지털 논리 회로의 순서 논리 회로 응용 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.427db774af3b0d3b839f",
+    "kr.topic.2022.high.889699eb2952809e7e42",
+    "kr.topic.2022.high.b57879981c73afc4104b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a0ab780c0101e1121c",
+   "titleKorean": "디지털 논리 회로 — 조합 논리 회로 설계",
+   "subjectKorean": "디지털 논리 회로",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "조합 논리 회로 설계",
+   "summary": "디지털 논리 회로의 조합 논리 회로 설계 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.7f1665d3ea40f5b45414",
+    "kr.topic.2022.high.9b7e8fb908be16fabea2",
+    "kr.topic.2022.high.ce54f220b4a00d3b6726"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a568234ccff38f009e",
+   "titleKorean": "자동화 설비 — PLC 제어",
+   "subjectKorean": "자동화 설비",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "PLC 제어",
+   "summary": "자동화 설비의 PLC 제어 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.054641a2b404d79fece0",
+    "kr.topic.2022.high.381b05702e94f2e3dad9",
+    "kr.topic.2022.high.68c3126177d1d8cd7a45",
+    "kr.topic.2022.high.abba18f8acf14b4dcb96",
+    "kr.topic.2022.high.b3b69eba0ddb7c38f29e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ac28c4918ee91147c1",
+   "titleKorean": "전기·전자 일반 — 전기·전자 측정",
+   "subjectKorean": "전기·전자 일반",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "전기·전자 측정",
+   "summary": "전기·전자 일반의 전기·전자 측정 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.9ec9d2f18f17a1d1d9bd",
+    "kr.topic.2022.high.a2da1253ebaf764739da",
+    "kr.topic.2022.high.abd8820a2d2c36fb477b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b3339a31e38d0168bd",
+   "titleKorean": "전자 회로 — 기초 전자 소자",
+   "subjectKorean": "전자 회로",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "기초 전자 소자",
+   "summary": "전자 회로의 기초 전자 소자 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.0a916236facf95e99cc6",
+    "kr.topic.2022.high.4885bd2aed99da13658c",
+    "kr.topic.2022.high.fb417e17cb96c2d65ebc"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b5ee2ddd359c21e79b",
+   "titleKorean": "전기·전자 일반 — 전기 회로",
+   "subjectKorean": "전기·전자 일반",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "전기 회로",
+   "summary": "전기·전자 일반의 전기 회로 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.415ac8dc371d682b36ea",
+    "kr.topic.2022.high.6056af94e5a2dec90d05",
+    "kr.topic.2022.high.d569602cefbe16acc346"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b85b108a6143a5f9c9",
+   "titleKorean": "자동화 설비 — 자동화 설비 응용",
+   "subjectKorean": "자동화 설비",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "자동화 설비 응용",
+   "summary": "자동화 설비의 자동화 설비 응용 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.3f49009d087c23f2fe91",
+    "kr.topic.2022.high.86795d76292492994d00",
+    "kr.topic.2022.high.b6c4f98986519740caa2",
+    "kr.topic.2022.high.d676599dbc48d74e3e74"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b8ea20a0e4f9b4bb26",
+   "titleKorean": "전자 회로 — 전자 회로와 반도체 소자",
+   "subjectKorean": "전자 회로",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "전자 회로와 반도체 소자",
+   "summary": "전자 회로의 전자 회로와 반도체 소자 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.573f76d60b5b7e386866",
+    "kr.topic.2022.high.f9ce6ee8d25fbde0f739"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c1c2e0ea0a14cba315",
+   "titleKorean": "전기 설비 — 전기 설비의 개요",
+   "subjectKorean": "전기 설비",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "전기 설비의 개요",
+   "summary": "전기 설비의 전기 설비의 개요 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.27b6b6c491887ba0276c",
+    "kr.topic.2022.high.2a8664888ae60ddea7fc",
+    "kr.topic.2022.high.33714cf43754fe7ec1cd",
+    "kr.topic.2022.high.41eaec3ebbb643096915",
+    "kr.topic.2022.high.892e5b6498955eeb32bf",
+    "kr.topic.2022.high.961dfd811c1ca5ecf780",
+    "kr.topic.2022.high.c0ccae015675bb1b765d",
+    "kr.topic.2022.high.eb0313523179bcd1ea18",
+    "kr.topic.2022.high.fe757ba228dc60d9835d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d863235a7d791da1bd",
+   "titleKorean": "전기･전자 측정 — 주파수 및 파형 측정",
+   "subjectKorean": "전기･전자 측정",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "주파수 및 파형 측정",
+   "summary": "전기･전자 측정의 주파수 및 파형 측정 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.0c87c0b821823e4af07d",
+    "kr.topic.2022.high.6dcc4a69079a10b62c5d",
+    "kr.topic.2022.high.9e89c4b68b66e0e37f93",
+    "kr.topic.2022.high.a116ab2449684409d78c",
+    "kr.topic.2022.high.f4f0ac854843894776f2"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e3fa388b78f9692ec0",
+   "titleKorean": "전자 회로 — 직류 전원 회로",
+   "subjectKorean": "전자 회로",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "직류 전원 회로",
+   "summary": "전자 회로의 직류 전원 회로 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.14c1fa4503300ef9a0a1",
+    "kr.topic.2022.high.aad609a0e3929dd90665",
+    "kr.topic.2022.high.d2c03fc7246e6fb7d12b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e6faca67ae922d7715",
+   "titleKorean": "디지털 논리 회로 — 순서 논리 회로 설계",
+   "subjectKorean": "디지털 논리 회로",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "순서 논리 회로 설계",
+   "summary": "디지털 논리 회로의 순서 논리 회로 설계 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.40feb9efd9e4f8b43ea9",
+    "kr.topic.2022.high.a1e732f0d323c4d34d0e",
+    "kr.topic.2022.high.db81bce5fd7b8c48f2d1"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f5a1bf5eba3cf55c05",
+   "titleKorean": "전기 회로 — 직류 회로",
+   "subjectKorean": "전기 회로",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "직류 회로",
+   "summary": "전기 회로의 직류 회로 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 16,
+   "topics": [
+    "kr.topic.2022.high.0706c01b2e6a3390303a",
+    "kr.topic.2022.high.12d09fdb4c2ada239232",
+    "kr.topic.2022.high.170614c09447b7439661",
+    "kr.topic.2022.high.1e5654a84bd882e000ac",
+    "kr.topic.2022.high.2b6f68817604545cf369",
+    "kr.topic.2022.high.3e468914c068b623672a",
+    "kr.topic.2022.high.553d3c0a8399c415ad20",
+    "kr.topic.2022.high.819645b104695fbce3ad",
+    "kr.topic.2022.high.87763db72b1107db78f9",
+    "kr.topic.2022.high.981367fa75d624061865",
+    "kr.topic.2022.high.a20b38c5449d07217afa",
+    "kr.topic.2022.high.c2ccc8d97b7c00c30610",
+    "kr.topic.2022.high.cf5fbffff3dc61de0213",
+    "kr.topic.2022.high.d704f71033dd72a82b6f",
+    "kr.topic.2022.high.e19236eca63d0ffa11ce",
+    "kr.topic.2022.high.f6475a5e80d87fc8fcf7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f6d716f57cc337936e",
+   "titleKorean": "전자 회로 — 인터페이스 회로",
+   "subjectKorean": "전자 회로",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "인터페이스 회로",
+   "summary": "전자 회로의 인터페이스 회로 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.07b798c0e157961bb718",
+    "kr.topic.2022.high.3a7909b8ca388b568b63",
+    "kr.topic.2022.high.f65f6373b49454c33a49"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fc955aa169539bb0f9",
+   "titleKorean": "자동화 설비 — 시퀀스 제어",
+   "subjectKorean": "자동화 설비",
+   "majorFieldSlug": "electrical-electronics",
+   "gradeBand": "10-12",
+   "domainKorean": "시퀀스 제어",
+   "summary": "자동화 설비의 시퀀스 제어 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.67ee477bcb7461844876",
+    "kr.topic.2022.high.7588c0fd6c5d68e0c7dd",
+    "kr.topic.2022.high.830739411c68dbb89da0",
+    "kr.topic.2022.high.d02eda884ceb7509b1c3",
+    "kr.topic.2022.high.f199e6bd84a9ee9b9d76"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,4829 @@
+{
+ "topics": [
+  {
+   "id": "kr.topic.2022.high.00254239b6af3080bf14",
+   "titleKorean": "스마트 공장 운용 — 품질 관리 시스템을 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 영역 05 영역에서 품질 관리 시스템을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 품질 관리 시스템을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "품질 관리 시스템을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 01-05-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.00302f1cde97400b0d66",
+   "titleKorean": "발명･특허 기초 — 발명이 인류 문명에 미친 영향과 발명의 역사를 설명하기",
+   "subjectKorean": "발명･특허 기초",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "발명･특허 기초의 발명의 이해 영역에서 발명이 인류 문명에 미친 영향과 발명의 역사를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 발명이 인류 문명에 미친 영향과 발명의 역사를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "발명이 인류 문명에 미친 영향과 발명의 역사를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명･특허-기초:[발특 01-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.006a7a3bf0c5ffe83efd",
+   "titleKorean": "스마트 공장 일반 — 공정 제어, 공정 관리에 대한 시스템 전체를 파악하고 문제 해결하는 방법을 토론하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 제조 시스템",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "스마트 공장 일반의 스마트 제조 시스템 영역에서 공정 제어, 공정 관리에 대한 시스템 전체를 파악하고 문제 해결하는 방법을 토론하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 공정 제어, 공정 관리에 대한 시스템 전체를 파악하고 문제 해결하는 방법을 토론하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "공정 제어, 공정 관리에 대한 시스템 전체를 파악하고 문제 해결하는 방법을 토론하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 04-02-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.01e3183f9fc09a83199f",
+   "titleKorean": "스마트 공장 운용 — 자재 발주 시스템에 대해 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "생산 관리 기술",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 생산 관리 기술 영역에서 자재 발주 시스템에 대해 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 자재 발주 시스템에 대해 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "자재 발주 시스템에 대해 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 01-04-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.02e8758ef4a2adb3ba34",
+   "titleKorean": "스마트 공장 운용 — 제조 데이터의 수집하여 저장하는 과정을 구현하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "데이터 전 주기 관리",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 데이터 전 주기 관리 영역에서 제조 데이터의 수집하여 저장하는 과정을 구현하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 제조 데이터의 수집하여 저장하는 과정을 구현하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "제조 데이터의 수집하여 저장하는 과정을 구현하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 04-03-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.02efb6d99871ebd16463",
+   "titleKorean": "스마트 공장 일반 — 스마트 공장 핵심 기술을 정의하고 설명하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 공장(Smart Factory)",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 일반의 스마트 공장(Smart Factory) 영역에서 스마트 공장 핵심 기술을 정의하고 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 스마트 공장 핵심 기술을 정의하고 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "스마트 공장 핵심 기술을 정의하고 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 02-02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.03bfd978295bf84a77e8",
+   "titleKorean": "스마트 공장 일반 — 스마트 제조 자동화 기술을 설명하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 제조 자동화 기술",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 일반의 스마트 제조 자동화 기술 영역에서 스마트 제조 자동화 기술을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 스마트 제조 자동화 기술을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "스마트 제조 자동화 기술을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 03-01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.0462ff70d12e46cc79f5",
+   "titleKorean": "스마트 공장 운용 — 스마트 공장에서 인공지능 사례 및 향후 발전 분야를 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "빅 데이터와 인공지능",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 빅 데이터와 인공지능 영역에서 스마트 공장에서 인공지능 사례 및 향후 발전 분야를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 스마트 공장에서 인공지능 사례 및 향후 발전 분야를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "스마트 공장에서 인공지능 사례 및 향후 발전 분야를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 05-02-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.05762959a59fe86f00d5",
+   "titleKorean": "발명･특허 기초 — 특허 출원 방법과 절차를 설명하기",
+   "subjectKorean": "발명･특허 기초",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "특허 출원의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "발명･특허 기초의 특허 출원의 이해 영역에서 특허 출원 방법과 절차를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 특허 출원 방법과 절차를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "특허 출원 방법과 절차를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명･특허-기초:[발특 04-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.07a1e012017dec65e95e",
+   "titleKorean": "발명과 기업가 정신 — 사업 계획서 작성 순서 및 방법을 설명하기",
+   "subjectKorean": "발명과 기업가 정신",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "사업 타당성 분석과 사업 계획서",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "발명과 기업가 정신의 사업 타당성 분석과 사업 계획서 영역에서 사업 계획서 작성 순서 및 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 사업 계획서 작성 순서 및 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "사업 계획서 작성 순서 및 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-기업가-정신:[발신 03-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.080db0230d88f842a89e",
+   "titleKorean": "스마트 공장 설계와 구축 — 스마트 설비 제어 방식 결정을 위한 자료를 수집하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 설비 메커니즘 설계",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 설계와 구축의 스마트 설비 메커니즘 설계 영역에서 스마트 설비 제어 방식 결정을 위한 자료를 수집하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 스마트 설비 제어 방식 결정을 위한 자료를 수집하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "스마트 설비 제어 방식 결정을 위한 자료를 수집하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 01-03-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.08b0d2dca08b6674d11f",
+   "titleKorean": "스마트 공장 설계와 구축 — 스마트 설비의 구동 특성과 선정된 단위 구동 요소 조합을 검토하여, 2개 이상의 복합 구동 메커니즘을 구성하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 설비 메커니즘 설계",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "스마트 공장 설계와 구축의 스마트 설비 메커니즘 설계 영역에서 스마트 설비의 구동 특성과 선정된 단위 구동 요소 조합을 검토하여, 2개 이상의 복합 구동 메커니즘을 구성하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 스마트 설비의 구동 특성과 선정된 단위 구동 요소 조합을 검토하여, 2개 이상의 복합 구동 메커니즘을 구성하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "스마트 설비의 구동 특성과 선정된 단위 구동 요소 조합을 검토하여, 2개 이상의 복합 구동 메커니즘을 구성하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 01-01-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.08bf05aaa6cb6c981576",
+   "titleKorean": "스마트 공장 일반 — 클라우드의 개념을 이해하고, 사용 사례를 찾아 설명하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 공장 관련 핵심 기술",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 일반의 스마트 공장 관련 핵심 기술 영역에서 클라우드의 개념을 이해하고, 사용 사례를 찾아 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 클라우드의 개념을 이해하고, 사용 사례를 찾아 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "클라우드의 개념을 이해하고, 사용 사례를 찾아 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 05-02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.0a9da3fb15e02f7a66e0",
+   "titleKorean": "발명과 디자인 — 발명 디자인의 개념을 이해하고, 지식 재산권에서의 발명 디자인의 개념을 인식하기",
+   "subjectKorean": "발명과 디자인",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명 디자인의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "발명과 디자인의 발명 디자인의 이해 영역에서 발명 디자인의 개념을 이해하고, 지식 재산권에서의 발명 디자인의 개념을 인식하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 발명 디자인의 개념을 이해하고, 지식 재산권에서의 발명 디자인의 개념을 인식하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "발명 디자인의 개념을 이해하고, 지식 재산권에서의 발명 디자인의 개념을 인식하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-디자인:[발디 01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.0cf34e481c1f97445145",
+   "titleKorean": "스마트 공장 운용 — 스마트 공장의 기능에 대해 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "생산 관리 기술",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 생산 관리 기술 영역에서 스마트 공장의 기능에 대해 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 스마트 공장의 기능에 대해 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "스마트 공장의 기능에 대해 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 01-02-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.0e7e7b9f9efeac75b878",
+   "titleKorean": "발명과 기업가 정신 — 아이디어 창출 기법을 활용하여 창업 아이디어를 창출하기",
+   "subjectKorean": "발명과 기업가 정신",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "창업 프로젝트",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "발명과 기업가 정신의 창업 프로젝트 영역에서 아이디어 창출 기법을 활용하여 창업 아이디어를 창출하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 아이디어 창출 기법을 활용하여 창업 아이디어를 창출하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "아이디어 창출 기법을 활용하여 창업 아이디어를 창출하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-기업가-정신:[발신 04-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.0f2eec22e192402cfb98",
+   "titleKorean": "발명과 디자인 — 인공지능 기술과 SW 코딩을 이용한 발명 캡스톤 디자인 제품을 만들 수 있다",
+   "subjectKorean": "발명과 디자인",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명 캡스톤 디자인",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "발명과 디자인의 발명 캡스톤 디자인 영역에서 인공지능 기술과 SW 코딩을 이용한 발명 캡스톤 디자인 제품을 만들 수 있다를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 인공지능 기술과 SW 코딩을 이용한 발명 캡스톤 디자인 제품을 만들 수 있다와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "인공지능 기술과 SW 코딩을 이용한 발명 캡스톤 디자인 제품을 만들 수 있다와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-디자인:[발디 05-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.0ffa90d996811303470b",
+   "titleKorean": "스마트 공장 설계와 구축 — 디지털 트윈을 활용한 스마트 공장 설계 및 개발 방법에 대해 설명하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "디지털 트윈 구축",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "스마트 공장 설계와 구축의 디지털 트윈 구축 영역에서 디지털 트윈을 활용한 스마트 공장 설계 및 개발 방법에 대해 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 디지털 트윈을 활용한 스마트 공장 설계 및 개발 방법에 대해 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "디지털 트윈을 활용한 스마트 공장 설계 및 개발 방법에 대해 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 05-01-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.10ef76a691454378c6f5",
+   "titleKorean": "스마트 공장 설계와 구축 — 설비 제어에 필요한 구동 장치의 제어 방식을 결정하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 설비 제어 설계",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 설계와 구축의 스마트 설비 제어 설계 영역에서 설비 제어에 필요한 구동 장치의 제어 방식을 결정하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 설비 제어에 필요한 구동 장치의 제어 방식을 결정하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "설비 제어에 필요한 구동 장치의 제어 방식을 결정하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 02-04-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.13115621d85d17448fdf",
+   "titleKorean": "스마트 공장 설계와 구축 — 작성된 프로그램의 오류를 체크하여 수정하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "감시 제어 시스템 설계",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 설계와 구축의 감시 제어 시스템 설계 영역에서 작성된 프로그램의 오류를 체크하여 수정하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 작성된 프로그램의 오류를 체크하여 수정하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "작성된 프로그램의 오류를 체크하여 수정하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 04-03-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.14e6f2ed9a58bbafd62e",
+   "titleKorean": "발명과 기업가 정신 — 창업의 방법과 절차를 이해하여 창업 과정을 설명하기",
+   "subjectKorean": "발명과 기업가 정신",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "기업가 정신과 창업",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "발명과 기업가 정신의 기업가 정신과 창업 영역에서 창업의 방법과 절차를 이해하여 창업 과정을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 창업의 방법과 절차를 이해하여 창업 과정을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "창업의 방법과 절차를 이해하여 창업 과정을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-기업가-정신:[발신 02-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.172fbbffda9a5853f0b9",
+   "titleKorean": "스마트 공장 설계와 구축 — 제어 요구에 따라 구동 장치의 종류와 용량을 결정하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 설비 제어 설계",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 설계와 구축의 스마트 설비 제어 설계 영역에서 제어 요구에 따라 구동 장치의 종류와 용량을 결정하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 제어 요구에 따라 구동 장치의 종류와 용량을 결정하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "제어 요구에 따라 구동 장치의 종류와 용량을 결정하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 02-04-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.19babde4b2f5a8652585",
+   "titleKorean": "발명･특허 기초 — 특허 정보 조사 방법을 습득하여 특허 정보를 검색하기",
+   "subjectKorean": "발명･특허 기초",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "특허 출원의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "발명･특허 기초의 특허 출원의 이해 영역에서 특허 정보 조사 방법을 습득하여 특허 정보를 검색하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 특허 정보 조사 방법을 습득하여 특허 정보를 검색하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "특허 정보 조사 방법을 습득하여 특허 정보를 검색하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명･특허-기초:[발특 04-05]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.1a148d378b6c14344e36",
+   "titleKorean": "스마트 공장 운용 — 설비 관리의 의미와 관리 항목에 대해 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "생산 관리 기술",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 생산 관리 기술 영역에서 설비 관리의 의미와 관리 항목에 대해 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 설비 관리의 의미와 관리 항목에 대해 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "설비 관리의 의미와 관리 항목에 대해 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 01-03-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.1a5f807591f1a528ad96",
+   "titleKorean": "스마트 공장 설계와 구축 — 설계 요구에 따라 입력 장치의 종류와 수량을 선정하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 설비 제어 설계",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 설계와 구축의 스마트 설비 제어 설계 영역에서 설계 요구에 따라 입력 장치의 종류와 수량을 선정하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 설계 요구에 따라 입력 장치의 종류와 수량을 선정하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "설계 요구에 따라 입력 장치의 종류와 수량을 선정하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 02-01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.1c042e6c84d17f1cad78",
+   "titleKorean": "스마트 공장 일반 — 4차 산업 혁명의 특징과 개요에 대하여 설명하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "4차 산업 혁명의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 일반의 4차 산업 혁명의 이해 영역에서 4차 산업 혁명의 특징과 개요에 대하여 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 4차 산업 혁명의 특징과 개요에 대하여 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "4차 산업 혁명의 특징과 개요에 대하여 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 01-01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.1ffdf3cbe3a3d0e18d1e",
+   "titleKorean": "스마트 공장 일반 — 블록체인의 개념과 정의를 이해하고, 블록체인을 활용하는 다른 사례를 찾아 설명하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 공장 관련 핵심 기술",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "스마트 공장 일반의 스마트 공장 관련 핵심 기술 영역에서 블록체인의 개념과 정의를 이해하고, 블록체인을 활용하는 다른 사례를 찾아 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 블록체인의 개념과 정의를 이해하고, 블록체인을 활용하는 다른 사례를 찾아 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "블록체인의 개념과 정의를 이해하고, 블록체인을 활용하는 다른 사례를 찾아 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 05-01-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.2126088f0f5db43d846d",
+   "titleKorean": "스마트 공장 일반 — 인더스트리 4.0의 장점과 문제점에 알아보고 개선점과 발전 방향에 대하여 설명하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "4차 산업 혁명의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 일반의 4차 산업 혁명의 이해 영역에서 인더스트리 4.0의 장점과 문제점에 알아보고 개선점과 발전 방향에 대하여 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 인더스트리 4.0의 장점과 문제점에 알아보고 개선점과 발전 방향에 대하여 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "인더스트리 4.0의 장점과 문제점에 알아보고 개선점과 발전 방향에 대하여 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 01-03-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.21dc531187a6953aa84e",
+   "titleKorean": "스마트 공장 일반 — 가상 현실과 증강 현실의 개념을 이해하고, 가상 현실과 증강 현실을 비교 설명하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 공장 관련 핵심 기술",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 일반의 스마트 공장 관련 핵심 기술 영역에서 가상 현실과 증강 현실의 개념을 이해하고, 가상 현실과 증강 현실을 비교 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 가상 현실과 증강 현실의 개념을 이해하고, 가상 현실과 증강 현실을 비교 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "가상 현실과 증강 현실의 개념을 이해하고, 가상 현실과 증강 현실을 비교 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 05-04-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.21e059aabfa365ad8ef1",
+   "titleKorean": "스마트 공장 운용 — 스마트 공장 발전을 위해 빅 데이터와 인공지능의 향후 발전 분야를 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "빅 데이터와 인공지능",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 빅 데이터와 인공지능 영역에서 스마트 공장 발전을 위해 빅 데이터와 인공지능의 향후 발전 분야를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 스마트 공장 발전을 위해 빅 데이터와 인공지능의 향후 발전 분야를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "스마트 공장 발전을 위해 빅 데이터와 인공지능의 향후 발전 분야를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 05-03-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.229f902123d2ebf98692",
+   "titleKorean": "스마트 공장 운용 — 산업용 센서를 제어하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "데이터 전 주기 관리",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 데이터 전 주기 관리 영역에서 산업용 센서를 제어하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 산업용 센서를 제어하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "산업용 센서를 제어하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 04-01-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.2467005c78f67cad3b72",
+   "titleKorean": "스마트 공장 운용 — APS(Advanced Planning and Scheduling) 기반으로 제조 실행 시스템의 기능을 수행 하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 공장 시스템",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "스마트 공장 운용의 스마트 공장 시스템 영역에서 APS(Advanced Planning and Scheduling) 기반으로 제조 실행 시스템의 기능을 수행 하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 APS(Advanced Planning and Scheduling) 기반으로 제조 실행 시스템의 기능을 수행 하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "APS(Advanced Planning and Scheduling) 기반으로 제조 실행 시스템의 기능을 수행 하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 03-01-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.274654d6cbd069bcda7e",
+   "titleKorean": "스마트 공장 운용 — SCM 시스템의 운용 기술을 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 공장 시스템",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 스마트 공장 시스템 영역에서 SCM 시스템의 운용 기술을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 SCM 시스템의 운용 기술을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "SCM 시스템의 운용 기술을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 03-05-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.27e915fb5b4fc9748ab4",
+   "titleKorean": "스마트 공장 설계와 구축 — 통신 설정을 하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "감시 제어 시스템 설계",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 설계와 구축의 감시 제어 시스템 설계 영역에서 통신 설정을 하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 통신 설정을 하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "통신 설정을 하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 04-01-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.29dda347e17bbb938aeb",
+   "titleKorean": "스마트 공장 운용 — 산업용 로봇의 장비 구성과 동작 원리를 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "산업용 IoT 활용 기술",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "스마트 공장 운용의 산업용 IoT 활용 기술 영역에서 산업용 로봇의 장비 구성과 동작 원리를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 산업용 로봇의 장비 구성과 동작 원리를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "산업용 로봇의 장비 구성과 동작 원리를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 02-02-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.29f7fdfc675a19da11cb",
+   "titleKorean": "스마트 공장 설계와 구축 — 스마트 설비의 메커니즘 특성을 고려하여 제어 회로를 결정하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 설비 메커니즘 설계",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 설계와 구축의 스마트 설비 메커니즘 설계 영역에서 스마트 설비의 메커니즘 특성을 고려하여 제어 회로를 결정하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 스마트 설비의 메커니즘 특성을 고려하여 제어 회로를 결정하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "스마트 설비의 메커니즘 특성을 고려하여 제어 회로를 결정하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 01-03-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.2a2c67f9162cd92ac4f0",
+   "titleKorean": "발명과 디자인 — 발명 디자인의 영역을 구분하여 디자인의 종류를 구분하기",
+   "subjectKorean": "발명과 디자인",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명 디자인의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "발명과 디자인의 발명 디자인의 이해 영역에서 발명 디자인의 영역을 구분하여 디자인의 종류를 구분하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 발명 디자인의 영역을 구분하여 디자인의 종류를 구분하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "발명 디자인의 영역을 구분하여 디자인의 종류를 구분하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-디자인:[발디 01-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.2ab181b03aa27e0262c2",
+   "titleKorean": "스마트 공장 운용 — ERP 시스템의 운용 기술을 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 공장 시스템",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 스마트 공장 시스템 영역에서 ERP 시스템의 운용 기술을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 ERP 시스템의 운용 기술을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "ERP 시스템의 운용 기술을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 03-04-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.2cf784785b3c7ceb13b4",
+   "titleKorean": "스마트 공장 운용 — 제조 데이터의 수집 목적과 방법을 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "데이터 전 주기 관리",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 데이터 전 주기 관리 영역에서 제조 데이터의 수집 목적과 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 제조 데이터의 수집 목적과 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "제조 데이터의 수집 목적과 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 04-03-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.2e38ed67ee349319b0bb",
+   "titleKorean": "발명과 기업가 정신 — 사업을 위한 자금 투자 유치 계획을 작성하기",
+   "subjectKorean": "발명과 기업가 정신",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "창업 프로젝트",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "발명과 기업가 정신의 창업 프로젝트 영역에서 사업을 위한 자금 투자 유치 계획을 작성하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 사업을 위한 자금 투자 유치 계획을 작성하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "사업을 위한 자금 투자 유치 계획을 작성하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-기업가-정신:[발신 04-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.2e6a7f85bed752ad4dcb",
+   "titleKorean": "발명･특허 기초 — 특허와 실용신안의 차이점을 설명하기",
+   "subjectKorean": "발명･특허 기초",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "특허의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "발명･특허 기초의 특허의 이해 영역에서 특허와 실용신안의 차이점을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 특허와 실용신안의 차이점을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "특허와 실용신안의 차이점을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명･특허-기초:[발특 03-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.2eb7a62681436b8d8db6",
+   "titleKorean": "발명과 디자인 — 과거와 현재의 발명 디자인에 대해 이해하여 미래의 발명 디자인을 예측하고 첨단 기술을 발명 디자인에 접목하기",
+   "subjectKorean": "발명과 디자인",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명 디자인의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "발명과 디자인의 발명 디자인의 이해 영역에서 과거와 현재의 발명 디자인에 대해 이해하여 미래의 발명 디자인을 예측하고 첨단 기술을 발명 디자인에 접목하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 과거와 현재의 발명 디자인에 대해 이해하여 미래의 발명 디자인을 예측하고 첨단 기술을 발명 디자인에 접목하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "과거와 현재의 발명 디자인에 대해 이해하여 미래의 발명 디자인을 예측하고 첨단 기술을 발명 디자인에 접목하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-디자인:[발디 01-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.2f2a4dfd89e121393792",
+   "titleKorean": "스마트 공장 운용 — 생산 시스템의 유형별 장단점에 대해 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "생산 관리 기술",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 생산 관리 기술 영역에서 생산 시스템의 유형별 장단점에 대해 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 생산 시스템의 유형별 장단점에 대해 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "생산 시스템의 유형별 장단점에 대해 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 01-01-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.30014de1215368226f49",
+   "titleKorean": "스마트 공장 일반 — 스마트 공장 구축 사례를 인터넷을 이용하여 찾아보고 사례를 설명하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 공장(Smart Factory)",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 일반의 스마트 공장(Smart Factory) 영역에서 스마트 공장 구축 사례를 인터넷을 이용하여 찾아보고 사례를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 스마트 공장 구축 사례를 인터넷을 이용하여 찾아보고 사례를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "스마트 공장 구축 사례를 인터넷을 이용하여 찾아보고 사례를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 02-03-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.30d86be79efb603a9e10",
+   "titleKorean": "스마트 공장 설계와 구축 — 스마트 설비 PLC 기반 제어 프로그래밍을 작성하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 설비 제어 시스템 구축",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 설계와 구축의 스마트 설비 제어 시스템 구축 영역에서 스마트 설비 PLC 기반 제어 프로그래밍을 작성하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 스마트 설비 PLC 기반 제어 프로그래밍을 작성하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "스마트 설비 PLC 기반 제어 프로그래밍을 작성하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 03-03-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.32870866aec605b03bb2",
+   "titleKorean": "발명과 메이커 — 설계된 발명품을 메이커 활동을 통해 시제품을 제작하기",
+   "subjectKorean": "발명과 메이커",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "메이커 활동과 발명품 제작",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "발명과 메이커의 메이커 활동과 발명품 제작 영역에서 설계된 발명품을 메이커 활동을 통해 시제품을 제작하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 설계된 발명품을 메이커 활동을 통해 시제품을 제작하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "설계된 발명품을 메이커 활동을 통해 시제품을 제작하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-메이커:[발메 03-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.32abd314e1bfdd788af6",
+   "titleKorean": "스마트 공장 일반 — 주요 기업과 국가에서 4차 산업 혁명에 대응하는 사례를 알아보고, 이를 비교 설명하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "4차 산업 혁명의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 일반의 4차 산업 혁명의 이해 영역에서 주요 기업과 국가에서 4차 산업 혁명에 대응하는 사례를 알아보고, 이를 비교 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 주요 기업과 국가에서 4차 산업 혁명에 대응하는 사례를 알아보고, 이를 비교 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "주요 기업과 국가에서 4차 산업 혁명에 대응하는 사례를 알아보고, 이를 비교 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 01-03-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.333dcf0d6a6f97bf74e9",
+   "titleKorean": "발명과 메이커 — 디자인 씽킹의 정의와 필요성을 조사하고 디자인 씽킹을 활용한 사례를 찾아 설명하기",
+   "subjectKorean": "발명과 메이커",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "디자인 씽킹을 통한 발명 아이디어 창출",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "발명과 메이커의 디자인 씽킹을 통한 발명 아이디어 창출 영역에서 디자인 씽킹의 정의와 필요성을 조사하고 디자인 씽킹을 활용한 사례를 찾아 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 디자인 씽킹의 정의와 필요성을 조사하고 디자인 씽킹을 활용한 사례를 찾아 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "디자인 씽킹의 정의와 필요성을 조사하고 디자인 씽킹을 활용한 사례를 찾아 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-메이커:[발메 02-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.3432be037b5f94ddad97",
+   "titleKorean": "스마트 공장 일반 — 빅 데이터의 정의와 개념을 이해하고, 빅 데이터의 활용 환경에 대응하는 바른 자세에 대해 알 수 있다",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 공장 관련 핵심 기술",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "스마트 공장 일반의 스마트 공장 관련 핵심 기술 영역에서 빅 데이터의 정의와 개념을 이해하고, 빅 데이터의 활용 환경에 대응하는 바른 자세에 대해 알 수 있다를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 빅 데이터의 정의와 개념을 이해하고, 빅 데이터의 활용 환경에 대응하는 바른 자세에 대해 알 수 있다와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "빅 데이터의 정의와 개념을 이해하고, 빅 데이터의 활용 환경에 대응하는 바른 자세에 대해 알 수 있다와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 05-02-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.34bac385c49142d4f823",
+   "titleKorean": "발명과 디자인 — 발명 캡스톤 디자인의 개념과 의미를 이해하기",
+   "subjectKorean": "발명과 디자인",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명 캡스톤 디자인",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "발명과 디자인의 발명 캡스톤 디자인 영역에서 발명 캡스톤 디자인의 개념과 의미를 이해하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 발명 캡스톤 디자인의 개념과 의미를 이해하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "발명 캡스톤 디자인의 개념과 의미를 이해하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-디자인:[발디 05-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.36ad950ce5f36fdc7714",
+   "titleKorean": "스마트 공장 설계와 구축 — 스마트 설비 제어 설계도를 기준으로 제어 기기를 선정하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 설비 제어 시스템 구축",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 설계와 구축의 스마트 설비 제어 시스템 구축 영역에서 스마트 설비 제어 설계도를 기준으로 제어 기기를 선정하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 스마트 설비 제어 설계도를 기준으로 제어 기기를 선정하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "스마트 설비 제어 설계도를 기준으로 제어 기기를 선정하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 03-02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.3991abe75b609ff5f30f",
+   "titleKorean": "스마트 공장 운용 — 스마트 공장 운용에 필요한 기술을 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "생산 관리 기술",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 생산 관리 기술 영역에서 스마트 공장 운용에 필요한 기술을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 스마트 공장 운용에 필요한 기술을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "스마트 공장 운용에 필요한 기술을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 01-02-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.3c0f1fb177159565e14e",
+   "titleKorean": "발명･특허 기초 — 지식 재산의 개념과 유형을 설명하기",
+   "subjectKorean": "발명･특허 기초",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "특허의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "발명･특허 기초의 특허의 이해 영역에서 지식 재산의 개념과 유형을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 지식 재산의 개념과 유형을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "지식 재산의 개념과 유형을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명･특허-기초:[발특 03-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.4004f91e49a0edce0d18",
+   "titleKorean": "발명과 메이커 — 드론을 활용하여 문제를 분석하고 해결 방법을 설명하기",
+   "subjectKorean": "발명과 메이커",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명 메이커 프로젝트",
+   "facetKey": null,
+   "types": [
+    "meta"
+   ],
+   "description": "발명과 메이커의 발명 메이커 프로젝트 영역에서 드론을 활용하여 문제를 분석하고 해결 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 드론을 활용하여 문제를 분석하고 해결 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "드론을 활용하여 문제를 분석하고 해결 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-메이커:[발메 04-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.4035d2e7bf158981209f",
+   "titleKorean": "스마트 공장 일반 — 사물 인터넷의 개념을 이해하고 사물 인터넷이 활용되는 실제 사례를 설명하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 공장 관련 핵심 기술",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "스마트 공장 일반의 스마트 공장 관련 핵심 기술 영역에서 사물 인터넷의 개념을 이해하고 사물 인터넷이 활용되는 실제 사례를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 사물 인터넷의 개념을 이해하고 사물 인터넷이 활용되는 실제 사례를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "사물 인터넷의 개념을 이해하고 사물 인터넷이 활용되는 실제 사례를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 05-01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.458a30f3f745d061efd5",
+   "titleKorean": "스마트 공장 설계와 구축 — 자동화 시스템 PLC/PC 기반 제어 기기 종류에 대해 설명하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 설비 제어 시스템 구축",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 설계와 구축의 스마트 설비 제어 시스템 구축 영역에서 자동화 시스템 PLC/PC 기반 제어 기기 종류에 대해 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 자동화 시스템 PLC/PC 기반 제어 기기 종류에 대해 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "자동화 시스템 PLC/PC 기반 제어 기기 종류에 대해 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 03-01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.47e27de40bc4c5c26fcc",
+   "titleKorean": "스마트 공장 운용 — 빅 데이터가 생성되는 과정을 제어하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "빅 데이터와 인공지능",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 빅 데이터와 인공지능 영역에서 빅 데이터가 생성되는 과정을 제어하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 빅 데이터가 생성되는 과정을 제어하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "빅 데이터가 생성되는 과정을 제어하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 05-01-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.4878c4c6e6724094845c",
+   "titleKorean": "스마트 공장 일반 — 제품이 공급자로부터 소비자에 이동하는 진행 과정을 설명하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 제조 시스템",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 일반의 스마트 제조 시스템 영역에서 제품이 공급자로부터 소비자에 이동하는 진행 과정을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 제품이 공급자로부터 소비자에 이동하는 진행 과정을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "제품이 공급자로부터 소비자에 이동하는 진행 과정을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 04-03-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.489814629ce71b1d512e",
+   "titleKorean": "스마트 공장 설계와 구축 — 설비 운전 방식을 결정하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 설비 제어 설계",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 설계와 구축의 스마트 설비 제어 설계 영역에서 설비 운전 방식을 결정하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 설비 운전 방식을 결정하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "설비 운전 방식을 결정하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 02-03-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.48f4f6d0a9df31d14a73",
+   "titleKorean": "스마트 공장 일반 — 4차 산업 혁명에 따른 제조 산업의 환경 변화를 살펴보고, 우리가 대응해야 하는 바른 자세에 대해 사례를 들어 설명하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "4차 산업 혁명의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 일반의 4차 산업 혁명의 이해 영역에서 4차 산업 혁명에 따른 제조 산업의 환경 변화를 살펴보고, 우리가 대응해야 하는 바른 자세에 대해 사례를 들어 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 4차 산업 혁명에 따른 제조 산업의 환경 변화를 살펴보고, 우리가 대응해야 하는 바른 자세에 대해 사례를 들어 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "4차 산업 혁명에 따른 제조 산업의 환경 변화를 살펴보고, 우리가 대응해야 하는 바른 자세에 대해 사례를 들어 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 01-02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.496567d459a67620750d",
+   "titleKorean": "스마트 공장 일반 — 스마트 공장의 정의 및 특징을 설명하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 공장(Smart Factory)",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 일반의 스마트 공장(Smart Factory) 영역에서 스마트 공장의 정의 및 특징을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 스마트 공장의 정의 및 특징을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "스마트 공장의 정의 및 특징을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 02-01-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.4a1ddaec333b62fe8dc6",
+   "titleKorean": "스마트 공장 설계와 구축 — 스마트 설비의 특징 및 유지 관리의 편의성을 고려하여 구성 부품 선정에 반영하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 설비 메커니즘 설계",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "스마트 공장 설계와 구축의 스마트 설비 메커니즘 설계 영역에서 스마트 설비의 특징 및 유지 관리의 편의성을 고려하여 구성 부품 선정에 반영하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 스마트 설비의 특징 및 유지 관리의 편의성을 고려하여 구성 부품 선정에 반영하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "스마트 설비의 특징 및 유지 관리의 편의성을 고려하여 구성 부품 선정에 반영하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 01-02-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.4cd3d17577f415a75bf4",
+   "titleKorean": "발명과 메이커 — 피지컬 컴퓨팅을 활용하여 문제를 분석하고 해결 방법을 설명하기",
+   "subjectKorean": "발명과 메이커",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명 메이커 프로젝트",
+   "facetKey": null,
+   "types": [
+    "meta"
+   ],
+   "description": "발명과 메이커의 발명 메이커 프로젝트 영역에서 피지컬 컴퓨팅을 활용하여 문제를 분석하고 해결 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 피지컬 컴퓨팅을 활용하여 문제를 분석하고 해결 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "피지컬 컴퓨팅을 활용하여 문제를 분석하고 해결 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-메이커:[발메 04-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.4d0f10d253a58967f58b",
+   "titleKorean": "스마트 공장 운용 — 생산 시스템의 유형별 특징에 대해 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "생산 관리 기술",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 생산 관리 기술 영역에서 생산 시스템의 유형별 특징에 대해 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 생산 시스템의 유형별 특징에 대해 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "생산 시스템의 유형별 특징에 대해 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 01-01-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.4d267e435555c38f4b78",
+   "titleKorean": "스마트 공장 설계와 구축 — 선정된 제어 기기의 파트 리스트를 작성하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 설비 제어 시스템 구축",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 설계와 구축의 스마트 설비 제어 시스템 구축 영역에서 선정된 제어 기기의 파트 리스트를 작성하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 선정된 제어 기기의 파트 리스트를 작성하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "선정된 제어 기기의 파트 리스트를 작성하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 03-02-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.4ebb20db3fb0ef3c19b4",
+   "titleKorean": "스마트 공장 설계와 구축 — 제어 신호의 전달을 위해 아날로그 신호의 전압, 전류, 펄스 등 신호 방식을 결정하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 설비 제어 설계",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 설계와 구축의 스마트 설비 제어 설계 영역에서 제어 신호의 전달을 위해 아날로그 신호의 전압, 전류, 펄스 등 신호 방식을 결정하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 제어 신호의 전달을 위해 아날로그 신호의 전압, 전류, 펄스 등 신호 방식을 결정하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "제어 신호의 전달을 위해 아날로그 신호의 전압, 전류, 펄스 등 신호 방식을 결정하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 02-02-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.4f880c3c5e896d03aeca",
+   "titleKorean": "스마트 공장 운용 — 자재 관리의 의미와 자재 발주 방법에 대해 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "생산 관리 기술",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 생산 관리 기술 영역에서 자재 관리의 의미와 자재 발주 방법에 대해 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 자재 관리의 의미와 자재 발주 방법에 대해 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "자재 관리의 의미와 자재 발주 방법에 대해 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 01-04-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.50ac292eb38c7db80ec4",
+   "titleKorean": "발명과 기업가 정신 — 유형별 창업을 예를 들어 설명하기",
+   "subjectKorean": "발명과 기업가 정신",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "기업가 정신과 창업",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "발명과 기업가 정신의 기업가 정신과 창업 영역에서 유형별 창업을 예를 들어 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 유형별 창업을 예를 들어 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "유형별 창업을 예를 들어 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-기업가-정신:[발신 02-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.5217296d8e0c48a50148",
+   "titleKorean": "스마트 공장 설계와 구축 — 스마트 설비의 기능에 따라 필요한 구성 부품들을 선정하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 설비 메커니즘 설계",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "스마트 공장 설계와 구축의 스마트 설비 메커니즘 설계 영역에서 스마트 설비의 기능에 따라 필요한 구성 부품들을 선정하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 스마트 설비의 기능에 따라 필요한 구성 부품들을 선정하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "스마트 설비의 기능에 따라 필요한 구성 부품들을 선정하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 01-02-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.52c8e6f0e69f7336e23f",
+   "titleKorean": "스마트 공장 설계와 구축 — 감시 제어 시스템에 연결된 설비의 종류와 특성을 구분하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "감시 제어 시스템 설계",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 설계와 구축의 감시 제어 시스템 설계 영역에서 감시 제어 시스템에 연결된 설비의 종류와 특성을 구분하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 감시 제어 시스템에 연결된 설비의 종류와 특성을 구분하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "감시 제어 시스템에 연결된 설비의 종류와 특성을 구분하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 04-01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.539edbb76c80ca93364a",
+   "titleKorean": "스마트 공장 운용 — 재고 관리 비용에 대해 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "생산 관리 기술",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 생산 관리 기술 영역에서 재고 관리 비용에 대해 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 재고 관리 비용에 대해 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "재고 관리 비용에 대해 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 01-04-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.573c19c24401d0484cec",
+   "titleKorean": "발명과 디자인 — 3D 프린팅의 개념과 디자인 제작 시 고려 사항에 대해 이해하여 최적화된 형태의 3D 모델 링 데이터로 설계하여 3D 프린팅을 하기",
+   "subjectKorean": "발명과 디자인",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명 디자인 제품화",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "발명과 디자인의 발명 디자인 제품화 영역에서 3D 프린팅의 개념과 디자인 제작 시 고려 사항에 대해 이해하여 최적화된 형태의 3D 모델 링 데이터로 설계하여 3D 프린팅을 하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 3D 프린팅의 개념과 디자인 제작 시 고려 사항에 대해 이해하여 최적화된 형태의 3D 모델 링 데이터로 설계하여 3D 프린팅을 하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "3D 프린팅의 개념과 디자인 제작 시 고려 사항에 대해 이해하여 최적화된 형태의 3D 모델 링 데이터로 설계하여 3D 프린팅을 하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-디자인:[발디 04-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.59363a107a181b997d9b",
+   "titleKorean": "발명･특허 기초 — 발명 문제를 확인하여 해결 과정을 설계하기",
+   "subjectKorean": "발명･특허 기초",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명 아이디어 창출",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "발명･특허 기초의 발명 아이디어 창출 영역에서 발명 문제를 확인하여 해결 과정을 설계하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 발명 문제를 확인하여 해결 과정을 설계하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "발명 문제를 확인하여 해결 과정을 설계하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명･특허-기초:[발특 02-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.5d369816d5eaed53a3cf",
+   "titleKorean": "발명･특허 기초 — 전자 출원의 방법을 설명하기",
+   "subjectKorean": "발명･특허 기초",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "특허 출원의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "발명･특허 기초의 특허 출원의 이해 영역에서 전자 출원의 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 전자 출원의 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "전자 출원의 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명･특허-기초:[발특 04-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.5e8771178738a54faf90",
+   "titleKorean": "발명과 메이커 — 제작된 시제품을 평가하고 개선 방법을 설명하기",
+   "subjectKorean": "발명과 메이커",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "메이커 활동과 발명품 제작",
+   "facetKey": null,
+   "types": [
+    "meta"
+   ],
+   "description": "발명과 메이커의 메이커 활동과 발명품 제작 영역에서 제작된 시제품을 평가하고 개선 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 제작된 시제품을 평가하고 개선 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "제작된 시제품을 평가하고 개선 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-메이커:[발메 03-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.5e9cb2ac616df5a3fd7d",
+   "titleKorean": "스마트 공장 운용 — CPS 시스템을 이해하고 구성과 기능을 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 공장 시스템",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "스마트 공장 운용의 스마트 공장 시스템 영역에서 CPS 시스템을 이해하고 구성과 기능을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 CPS 시스템을 이해하고 구성과 기능을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "CPS 시스템을 이해하고 구성과 기능을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 03-03-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.5eb313f7c400e96d42c4",
+   "titleKorean": "스마트 공장 설계와 구축 — 제어 요구에 따라 후행 동작 이행의 조건을 결정하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 설비 제어 설계",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 설계와 구축의 스마트 설비 제어 설계 영역에서 제어 요구에 따라 후행 동작 이행의 조건을 결정하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 제어 요구에 따라 후행 동작 이행의 조건을 결정하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "제어 요구에 따라 후행 동작 이행의 조건을 결정하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 02-03-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.62dbcaa399e48c0051a7",
+   "titleKorean": "스마트 공장 설계와 구축 — 설계 요구에 따른 출력 장치의 종류와 수량을 결정하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 설비 제어 설계",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 설계와 구축의 스마트 설비 제어 설계 영역에서 설계 요구에 따른 출력 장치의 종류와 수량을 결정하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 설계 요구에 따른 출력 장치의 종류와 수량을 결정하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "설계 요구에 따른 출력 장치의 종류와 수량을 결정하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 02-01-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.63f28c10029cc79a5512",
+   "titleKorean": "스마트 공장 일반 — 감시 제어 데이터 수집(SCADA: Supervisory Control And Data Acquisition) 용어의 개념을 이해하고, 주로 적용되는 산업군을 찾아 설명하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 공장 응용 시스템",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 일반의 스마트 공장 응용 시스템 영역에서 감시 제어 데이터 수집(SCADA: Supervisory Control And Data Acquisition) 용어의 개념을 이해하고, 주로 적용되는 산업군을 찾아 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 감시 제어 데이터 수집(SCADA: Supervisory Control And Data Acquisition) 용어의 개념을 이해하고, 주로 적용되는 산업군을 찾아 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "감시 제어 데이터 수집(SCADA: Supervisory Control And Data Acquisition) 용어의 개념을 이해하고, 주로 적용되는 산업군을 찾아 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 06-04-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.687ac605bb65eceac008",
+   "titleKorean": "스마트 공장 운용 — 기업 네트워크 장비의 동작 원리를 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "산업용 IoT 활용 기술",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 산업용 IoT 활용 기술 영역에서 기업 네트워크 장비의 동작 원리를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 기업 네트워크 장비의 동작 원리를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "기업 네트워크 장비의 동작 원리를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 02-03-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.691036f45633228b7316",
+   "titleKorean": "스마트 공장 설계와 구축 — 3D 오브젝트와 제어 기기 간 인터페이스를 설정하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "디지털 트윈 구축",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 설계와 구축의 디지털 트윈 구축 영역에서 3D 오브젝트와 제어 기기 간 인터페이스를 설정하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 3D 오브젝트와 제어 기기 간 인터페이스를 설정하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "3D 오브젝트와 제어 기기 간 인터페이스를 설정하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 05-03-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.6f02adde0491c7cd0770",
+   "titleKorean": "발명과 디자인 — 발명 디자인 발상 기법을 복합적으로 사용하여 창의적인 발명 디자인을 도출하기",
+   "subjectKorean": "발명과 디자인",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명 디자인의 발상과 시각화",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "발명과 디자인의 발명 디자인의 발상과 시각화 영역에서 발명 디자인 발상 기법을 복합적으로 사용하여 창의적인 발명 디자인을 도출하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 발명 디자인 발상 기법을 복합적으로 사용하여 창의적인 발명 디자인을 도출하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "발명 디자인 발상 기법을 복합적으로 사용하여 창의적인 발명 디자인을 도출하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-디자인:[발디 02-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.6f4d1d2a9a63913ac866",
+   "titleKorean": "스마트 공장 운용 — 산업용 센서의 종류별 동작 원리를 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "데이터 전 주기 관리",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 데이터 전 주기 관리 영역에서 산업용 센서의 종류별 동작 원리를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 산업용 센서의 종류별 동작 원리를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "산업용 센서의 종류별 동작 원리를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 04-01-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.71133f92eb686520a8eb",
+   "titleKorean": "발명과 디자인 — 발명 디자인의 고려 사항과 조건을 이해하고 적용하기",
+   "subjectKorean": "발명과 디자인",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명 디자인의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "발명과 디자인의 발명 디자인의 이해 영역에서 발명 디자인의 고려 사항과 조건을 이해하고 적용하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 발명 디자인의 고려 사항과 조건을 이해하고 적용하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "발명 디자인의 고려 사항과 조건을 이해하고 적용하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-디자인:[발디 01-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.71df7aae25147031b913",
+   "titleKorean": "스마트 공장 운용 — 생산 시스템의 방식에 대해 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "생산 관리 기술",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 생산 관리 기술 영역에서 생산 시스템의 방식에 대해 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 생산 시스템의 방식에 대해 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "생산 시스템의 방식에 대해 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 01-01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.72a91139f9f681be4d8b",
+   "titleKorean": "스마트 공장 설계와 구축 — 시뮬레이션을 위한 디지털 모델(3D 오브젝트)을 선정하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "디지털 트윈 구축",
+   "facetKey": null,
+   "types": [
+    "representational"
+   ],
+   "description": "스마트 공장 설계와 구축의 디지털 트윈 구축 영역에서 시뮬레이션을 위한 디지털 모델(3D 오브젝트)을 선정하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 시뮬레이션을 위한 디지털 모델(3D 오브젝트)을 선정하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "시뮬레이션을 위한 디지털 모델(3D 오브젝트)을 선정하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 05-03-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.74663a788524081a7ea0",
+   "titleKorean": "발명과 기업가 정신 — 기업가 정신을 이해하여 기업가 정신의 개념과 가치를 설명하기",
+   "subjectKorean": "발명과 기업가 정신",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명과 기업가 정신의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "발명과 기업가 정신의 발명과 기업가 정신의 이해 영역에서 기업가 정신을 이해하여 기업가 정신의 개념과 가치를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 기업가 정신을 이해하여 기업가 정신의 개념과 가치를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "기업가 정신을 이해하여 기업가 정신의 개념과 가치를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-기업가-정신:[발신 01-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.75b14a343a20b53fd4ea",
+   "titleKorean": "스마트 공장 운용 — 일반 공장과 스마트 공장의 차이에 대해 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "생산 관리 기술",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 생산 관리 기술 영역에서 일반 공장과 스마트 공장의 차이에 대해 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 일반 공장과 스마트 공장의 차이에 대해 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "일반 공장과 스마트 공장의 차이에 대해 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 01-02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.75b561f9b6217858b355",
+   "titleKorean": "발명과 기업가 정신 — 사업 타당성 분석 방법을 이해하여 분석하기",
+   "subjectKorean": "발명과 기업가 정신",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "사업 타당성 분석과 사업 계획서",
+   "facetKey": null,
+   "types": [
+    "meta"
+   ],
+   "description": "발명과 기업가 정신의 사업 타당성 분석과 사업 계획서 영역에서 사업 타당성 분석 방법을 이해하여 분석하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 사업 타당성 분석 방법을 이해하여 분석하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "사업 타당성 분석 방법을 이해하여 분석하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-기업가-정신:[발신 03-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.75fc0dcdd110782d20da",
+   "titleKorean": "발명과 기업가 정신 — 사업 계획서 작성 방법에 따라 사업 계획서를 작성하기",
+   "subjectKorean": "발명과 기업가 정신",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "창업 프로젝트",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "발명과 기업가 정신의 창업 프로젝트 영역에서 사업 계획서 작성 방법에 따라 사업 계획서를 작성하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 사업 계획서 작성 방법에 따라 사업 계획서를 작성하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "사업 계획서 작성 방법에 따라 사업 계획서를 작성하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-기업가-정신:[발신 04-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.76d60a5aca8b09b1514f",
+   "titleKorean": "스마트 공장 설계와 구축 — 스마트 설비 PC 기반 제어 프로그래밍을 작성하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 설비 제어 시스템 구축",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 설계와 구축의 스마트 설비 제어 시스템 구축 영역에서 스마트 설비 PC 기반 제어 프로그래밍을 작성하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 스마트 설비 PC 기반 제어 프로그래밍을 작성하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "스마트 설비 PC 기반 제어 프로그래밍을 작성하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 03-03-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.78a589059a0146ba3976",
+   "titleKorean": "발명･특허 기초 — 특허 출원 제도를 이해하여 특허 출원의 개념과 중요성을 설명하기",
+   "subjectKorean": "발명･특허 기초",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "특허 출원의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "발명･특허 기초의 특허 출원의 이해 영역에서 특허 출원 제도를 이해하여 특허 출원의 개념과 중요성을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 특허 출원 제도를 이해하여 특허 출원의 개념과 중요성을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "특허 출원 제도를 이해하여 특허 출원의 개념과 중요성을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명･특허-기초:[발특 04-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.7c0aed2c0f774887306e",
+   "titleKorean": "발명과 디자인 — 발명 디자인 아이디어 도출을 위한 과정을 이해하여 제품의 기능과 기능 수행 부분을 목록 화하고, 적용 가능한 다양한 아이디어를 조합하여 새로운 아이디어를 도출하기",
+   "subjectKorean": "발명과 디자인",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명 디자인 과정",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "발명과 디자인의 발명 디자인 과정 영역에서 발명 디자인 아이디어 도출을 위한 과정을 이해하여 제품의 기능과 기능 수행 부분을 목록 화하고, 적용 가능한 다양한 아이디어를 조합하여 새로운 아이디어를 도출하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 발명 디자인 아이디어 도출을 위한 과정을 이해하여 제품의 기능과 기능 수행 부분을 목록 화하고, 적용 가능한 다양한 아이디어를 조합하여 새로운 아이디어를 도출하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "발명 디자인 아이디어 도출을 위한 과정을 이해하여 제품의 기능과 기능 수행 부분을 목록 화하고, 적용 가능한 다양한 아이디어를 조합하여 새로운 아이디어를 도출하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-디자인:[발디 03-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.7ca6e51bc92cf0d5415e",
+   "titleKorean": "스마트 공장 설계와 구축 — 설계서의 내용대로 감시 제어 시스템 프로그램을 작성하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "감시 제어 시스템 설계",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 설계와 구축의 감시 제어 시스템 설계 영역에서 설계서의 내용대로 감시 제어 시스템 프로그램을 작성하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 설계서의 내용대로 감시 제어 시스템 프로그램을 작성하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "설계서의 내용대로 감시 제어 시스템 프로그램을 작성하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 04-03-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.7cb4a24a413ddfc58b15",
+   "titleKorean": "스마트 공장 설계와 구축 — 스마트 설비의 메커니즘 특성과 안정도를 고려하여 제어 방식을 결정하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 설비 메커니즘 설계",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 설계와 구축의 스마트 설비 메커니즘 설계 영역에서 스마트 설비의 메커니즘 특성과 안정도를 고려하여 제어 방식을 결정하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 스마트 설비의 메커니즘 특성과 안정도를 고려하여 제어 방식을 결정하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "스마트 설비의 메커니즘 특성과 안정도를 고려하여 제어 방식을 결정하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 01-03-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.7ffd5c45bd3e6d457e43",
+   "titleKorean": "스마트 공장 운용 — 산업용 IoT 종류별 동작 원리를 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "산업용 IoT 활용 기술",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 산업용 IoT 활용 기술 영역에서 산업용 IoT 종류별 동작 원리를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 산업용 IoT 종류별 동작 원리를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "산업용 IoT 종류별 동작 원리를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 02-01-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.80082d25f3a0f863705a",
+   "titleKorean": "스마트 공장 설계와 구축 — 프로그램 설계서에 제어 화면 설계 내용을 반영하여 작성하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "감시 제어 시스템 설계",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 설계와 구축의 감시 제어 시스템 설계 영역에서 프로그램 설계서에 제어 화면 설계 내용을 반영하여 작성하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 프로그램 설계서에 제어 화면 설계 내용을 반영하여 작성하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "프로그램 설계서에 제어 화면 설계 내용을 반영하여 작성하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 04-02-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.815d0b7947cfdb43e1ca",
+   "titleKorean": "스마트 공장 일반 — 4차 산업 혁명의 역사에 대하여 설명하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "4차 산업 혁명의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 일반의 4차 산업 혁명의 이해 영역에서 4차 산업 혁명의 역사에 대하여 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 4차 산업 혁명의 역사에 대하여 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "4차 산업 혁명의 역사에 대하여 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 01-01-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.81ecf8c21c703e4e5e02",
+   "titleKorean": "스마트 공장 운용 — 산업용 IoT 종류 및 특징을 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "산업용 IoT 활용 기술",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 산업용 IoT 활용 기술 영역에서 산업용 IoT 종류 및 특징을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 산업용 IoT 종류 및 특징을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "산업용 IoT 종류 및 특징을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 02-01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.82b33adfab6059948fa1",
+   "titleKorean": "스마트 공장 운용 — ERP 시스템의 기능을 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 공장 시스템",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 스마트 공장 시스템 영역에서 ERP 시스템의 기능을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 ERP 시스템의 기능을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "ERP 시스템의 기능을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 03-04-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.855878a7d590087bdee4",
+   "titleKorean": "스마트 공장 설계와 구축 — 가상 물리 엔진을 이용하여 컴포넌트 및 모듈을 디자인하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "디지털 트윈 구축",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 설계와 구축의 디지털 트윈 구축 영역에서 가상 물리 엔진을 이용하여 컴포넌트 및 모듈을 디자인하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 가상 물리 엔진을 이용하여 컴포넌트 및 모듈을 디자인하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "가상 물리 엔진을 이용하여 컴포넌트 및 모듈을 디자인하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 05-02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.86214ccc5d5a71996ec9",
+   "titleKorean": "발명과 디자인 — 3D 모델링, 3D 렌더링의 개념과 발명 디자인에서 3D 프린팅의 역할을 인식하기",
+   "subjectKorean": "발명과 디자인",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명 디자인 제품화",
+   "facetKey": null,
+   "types": [
+    "representational"
+   ],
+   "description": "발명과 디자인의 발명 디자인 제품화 영역에서 3D 모델링, 3D 렌더링의 개념과 발명 디자인에서 3D 프린팅의 역할을 인식하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 3D 모델링, 3D 렌더링의 개념과 발명 디자인에서 3D 프린팅의 역할을 인식하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "3D 모델링, 3D 렌더링의 개념과 발명 디자인에서 3D 프린팅의 역할을 인식하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-디자인:[발디 04-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.87a5258745fe19f2d44d",
+   "titleKorean": "스마트 공장 일반 — 인공지능의 개념과 정의를 이해하고, 다른 스마트 공장 핵심 기술과 연계하여 설명하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 공장 관련 핵심 기술",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 일반의 스마트 공장 관련 핵심 기술 영역에서 인공지능의 개념과 정의를 이해하고, 다른 스마트 공장 핵심 기술과 연계하여 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 인공지능의 개념과 정의를 이해하고, 다른 스마트 공장 핵심 기술과 연계하여 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "인공지능의 개념과 정의를 이해하고, 다른 스마트 공장 핵심 기술과 연계하여 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 05-03-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.88ea798674935e461fa9",
+   "titleKorean": "스마트 공장 운용 — SCM 시스템의 기능을 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 공장 시스템",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 스마트 공장 시스템 영역에서 SCM 시스템의 기능을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 SCM 시스템의 기능을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "SCM 시스템의 기능을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 03-05-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.895f3ff0a3d18d85f7a0",
+   "titleKorean": "발명과 기업가 정신 — 지식 재산권을 활용한 창업을 예를 들어 설명하기",
+   "subjectKorean": "발명과 기업가 정신",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "기업가 정신과 창업",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "발명과 기업가 정신의 기업가 정신과 창업 영역에서 지식 재산권을 활용한 창업을 예를 들어 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 지식 재산권을 활용한 창업을 예를 들어 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "지식 재산권을 활용한 창업을 예를 들어 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-기업가-정신:[발신 02-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.8a405fa43aee3e967072",
+   "titleKorean": "스마트 공장 운용 — 제조 실행 시스템을 이해하고 구성과 기능을 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 공장 시스템",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "스마트 공장 운용의 스마트 공장 시스템 영역에서 제조 실행 시스템을 이해하고 구성과 기능을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 제조 실행 시스템을 이해하고 구성과 기능을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "제조 실행 시스템을 이해하고 구성과 기능을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 03-01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.8a767c79cc96c5f3179c",
+   "titleKorean": "발명과 디자인 — 발명 문제 해결 과정에서 확산적 사고 기법을 이해하여 적용하기",
+   "subjectKorean": "발명과 디자인",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명 디자인의 발상과 시각화",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "발명과 디자인의 발명 디자인의 발상과 시각화 영역에서 발명 문제 해결 과정에서 확산적 사고 기법을 이해하여 적용하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 발명 문제 해결 과정에서 확산적 사고 기법을 이해하여 적용하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "발명 문제 해결 과정에서 확산적 사고 기법을 이해하여 적용하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-디자인:[발디 02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.8c9001b5fa485362924b",
+   "titleKorean": "스마트 공장 운용 — CPS 시스템의 기능을 수행하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 공장 시스템",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "스마트 공장 운용의 스마트 공장 시스템 영역에서 CPS 시스템의 기능을 수행하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 CPS 시스템의 기능을 수행하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "CPS 시스템의 기능을 수행하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 03-03-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.8d8eaec66268721d84c9",
+   "titleKorean": "스마트 공장 일반 — 제조 실행 시스템(MES)의 개념과 기능을 이해하고, 도입 효과와 구축 사례를 찾아 설명 하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 공장 응용 시스템",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "스마트 공장 일반의 스마트 공장 응용 시스템 영역에서 제조 실행 시스템(MES)의 개념과 기능을 이해하고, 도입 효과와 구축 사례를 찾아 설명 하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 제조 실행 시스템(MES)의 개념과 기능을 이해하고, 도입 효과와 구축 사례를 찾아 설명 하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "제조 실행 시스템(MES)의 개념과 기능을 이해하고, 도입 효과와 구축 사례를 찾아 설명 하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 06-02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.8d98eb0837765b62c47e",
+   "titleKorean": "발명과 기업가 정신 — 창업과 기업의 관계를 이해하여 창업과 기업의 유형과 종류를 설명하기",
+   "subjectKorean": "발명과 기업가 정신",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "기업가 정신과 창업",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "발명과 기업가 정신의 기업가 정신과 창업 영역에서 창업과 기업의 관계를 이해하여 창업과 기업의 유형과 종류를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 창업과 기업의 관계를 이해하여 창업과 기업의 유형과 종류를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "창업과 기업의 관계를 이해하여 창업과 기업의 유형과 종류를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-기업가-정신:[발신 02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.8e14d98dc456818677ad",
+   "titleKorean": "스마트 공장 설계와 구축 — 설비 공정의 구성 및 재구성 시뮬레이션을 통한 성능 변화를 분석하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "디지털 트윈 구축",
+   "facetKey": null,
+   "types": [
+    "meta"
+   ],
+   "description": "스마트 공장 설계와 구축의 디지털 트윈 구축 영역에서 설비 공정의 구성 및 재구성 시뮬레이션을 통한 성능 변화를 분석하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 설비 공정의 구성 및 재구성 시뮬레이션을 통한 성능 변화를 분석하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "설비 공정의 구성 및 재구성 시뮬레이션을 통한 성능 변화를 분석하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 05-03-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.8fc72e0075ebe44c671a",
+   "titleKorean": "스마트 공장 일반 — 임베디드 SW 환경의 개념을 이해하고 설명하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 공장 응용 시스템",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 일반의 스마트 공장 응용 시스템 영역에서 임베디드 SW 환경의 개념을 이해하고 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 임베디드 SW 환경의 개념을 이해하고 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "임베디드 SW 환경의 개념을 이해하고 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 06-03-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.91b9074ecf591e799713",
+   "titleKorean": "발명과 메이커 — 정보통신기술을 활용하여 문제를 분석하고 해결 방법을 설명하기",
+   "subjectKorean": "발명과 메이커",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명 메이커 프로젝트",
+   "facetKey": null,
+   "types": [
+    "meta"
+   ],
+   "description": "발명과 메이커의 발명 메이커 프로젝트 영역에서 정보통신기술을 활용하여 문제를 분석하고 해결 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 정보통신기술을 활용하여 문제를 분석하고 해결 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "정보통신기술을 활용하여 문제를 분석하고 해결 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-메이커:[발메 04-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.943a8a4da8246e2f68a9",
+   "titleKorean": "스마트 공장 일반 — 스마트 공장 등장 배경을 설명하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 공장(Smart Factory)",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 일반의 스마트 공장(Smart Factory) 영역에서 스마트 공장 등장 배경을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 스마트 공장 등장 배경을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "스마트 공장 등장 배경을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 02-01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.96489baece5c120f6f9b",
+   "titleKorean": "발명･특허 기초 — 특허 명세서와 특허 도면을 설명하기",
+   "subjectKorean": "발명･특허 기초",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "특허 출원의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "발명･특허 기초의 특허 출원의 이해 영역에서 특허 명세서와 특허 도면을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 특허 명세서와 특허 도면을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "특허 명세서와 특허 도면을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명･특허-기초:[발특 04-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.9673739fc0b4b6f1c81f",
+   "titleKorean": "발명･특허 기초 — 발명의 의미를 이해하여 발명의 필요성을 설명하기",
+   "subjectKorean": "발명･특허 기초",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "발명･특허 기초의 발명의 이해 영역에서 발명의 의미를 이해하여 발명의 필요성을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 발명의 의미를 이해하여 발명의 필요성을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "발명의 의미를 이해하여 발명의 필요성을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명･특허-기초:[발특 01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.9797337f9d456fd432cc",
+   "titleKorean": "발명과 메이커 — 메이커 활동의 배경과 다양한 사례를 조사하고 메이커 활동의 중요성에 대해 토의하기",
+   "subjectKorean": "발명과 메이커",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명과 문제 해결의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "발명과 메이커의 발명과 문제 해결의 이해 영역에서 메이커 활동의 배경과 다양한 사례를 조사하고 메이커 활동의 중요성에 대해 토의하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 메이커 활동의 배경과 다양한 사례를 조사하고 메이커 활동의 중요성에 대해 토의하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "메이커 활동의 배경과 다양한 사례를 조사하고 메이커 활동의 중요성에 대해 토의하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-메이커:[발메 01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.9880fdb1e5812396dd6f",
+   "titleKorean": "발명･특허 기초 — 기술의 발전과 발명의 관계를 산업 혁명 이전과 이후, 현재와 미래로 구분하여 설명하기",
+   "subjectKorean": "발명･특허 기초",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "발명･특허 기초의 발명의 이해 영역에서 기술의 발전과 발명의 관계를 산업 혁명 이전과 이후, 현재와 미래로 구분하여 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 기술의 발전과 발명의 관계를 산업 혁명 이전과 이후, 현재와 미래로 구분하여 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "기술의 발전과 발명의 관계를 산업 혁명 이전과 이후, 현재와 미래로 구분하여 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명･특허-기초:[발특 01-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.993a9b9c135e96c014a8",
+   "titleKorean": "스마트 공장 일반 — 공정 설계의 정의와 개념에 대해서 설명하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 제조 시스템",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 일반의 스마트 제조 시스템 영역에서 공정 설계의 정의와 개념에 대해서 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 공정 설계의 정의와 개념에 대해서 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "공정 설계의 정의와 개념에 대해서 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 04-02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.9a3d9b6b423ddd83ac84",
+   "titleKorean": "스마트 공장 운용 — 생산 공정에서 구성에 대해 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "생산 관리 기술",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "스마트 공장 운용의 생산 관리 기술 영역에서 생산 공정에서 구성에 대해 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 생산 공정에서 구성에 대해 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "생산 공정에서 구성에 대해 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 01-03-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.a05b1b9ce8ee10bc2c32",
+   "titleKorean": "스마트 공장 일반 — 제품의 생산, 납품, 재고 관리에 대하여 효율적으로 처리할 수는 있는 방법을 설명하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 제조 시스템",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 일반의 스마트 제조 시스템 영역에서 제품의 생산, 납품, 재고 관리에 대하여 효율적으로 처리할 수는 있는 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 제품의 생산, 납품, 재고 관리에 대하여 효율적으로 처리할 수는 있는 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "제품의 생산, 납품, 재고 관리에 대하여 효율적으로 처리할 수는 있는 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 04-01-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.a2e9f75f8c135e87fb55",
+   "titleKorean": "스마트 공장 일반 — 공급망 관리(SCM: Supply Chain Management)의 개념을 이해하고, 구성 요소에 대해 서 설명하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 공장 응용 시스템",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "스마트 공장 일반의 스마트 공장 응용 시스템 영역에서 공급망 관리(SCM: Supply Chain Management)의 개념을 이해하고, 구성 요소에 대해 서 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 공급망 관리(SCM: Supply Chain Management)의 개념을 이해하고, 구성 요소에 대해 서 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "공급망 관리(SCM: Supply Chain Management)의 개념을 이해하고, 구성 요소에 대해 서 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 06-05-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.a3928dda2ee147024dde",
+   "titleKorean": "스마트 공장 일반 — 주요 기업과 국가가 스마트 공장에 대응하는 전략을 알아보고, 그 현황을 비교 설명하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 공장(Smart Factory)",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 일반의 스마트 공장(Smart Factory) 영역에서 주요 기업과 국가가 스마트 공장에 대응하는 전략을 알아보고, 그 현황을 비교 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 주요 기업과 국가가 스마트 공장에 대응하는 전략을 알아보고, 그 현황을 비교 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "주요 기업과 국가가 스마트 공장에 대응하는 전략을 알아보고, 그 현황을 비교 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 02-03-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.a688371c97f03044ff12",
+   "titleKorean": "발명･특허 기초 — 발명과 문제 해결의 정의를 설명하기",
+   "subjectKorean": "발명･특허 기초",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명 아이디어 창출",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "발명･특허 기초의 발명 아이디어 창출 영역에서 발명과 문제 해결의 정의를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 발명과 문제 해결의 정의를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "발명과 문제 해결의 정의를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명･특허-기초:[발특 02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.a719fcde732667baa75c",
+   "titleKorean": "발명과 메이커 — 창출된 아이디어를 구체화하여 발명 시제품을 설계하기",
+   "subjectKorean": "발명과 메이커",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "메이커 활동과 발명품 제작",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "발명과 메이커의 메이커 활동과 발명품 제작 영역에서 창출된 아이디어를 구체화하여 발명 시제품을 설계하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 창출된 아이디어를 구체화하여 발명 시제품을 설계하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "창출된 아이디어를 구체화하여 발명 시제품을 설계하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-메이커:[발메 03-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.a7671f3b0e1101262b5c",
+   "titleKorean": "스마트 공장 운용 — 산업용 IoT를 제어하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "산업용 IoT 활용 기술",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 산업용 IoT 활용 기술 영역에서 산업용 IoT를 제어하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 산업용 IoT를 제어하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "산업용 IoT를 제어하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 02-01-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.a912c966756250832c8b",
+   "titleKorean": "발명과 디자인 — 발명 디자인 아이디어 평가를 위한 방법과 절차를 이해하여 다양한 아이디어의 가치를 평 가하고 개선하기",
+   "subjectKorean": "발명과 디자인",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명 디자인 과정",
+   "facetKey": null,
+   "types": [
+    "meta"
+   ],
+   "description": "발명과 디자인의 발명 디자인 과정 영역에서 발명 디자인 아이디어 평가를 위한 방법과 절차를 이해하여 다양한 아이디어의 가치를 평 가하고 개선하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 발명 디자인 아이디어 평가를 위한 방법과 절차를 이해하여 다양한 아이디어의 가치를 평 가하고 개선하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "발명 디자인 아이디어 평가를 위한 방법과 절차를 이해하여 다양한 아이디어의 가치를 평 가하고 개선하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-디자인:[발디 03-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.aa50726166b0364faa21",
+   "titleKorean": "스마트 공장 운용 — SCADA 시스템을 이해하고 구성과 기능을 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 공장 시스템",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "스마트 공장 운용의 스마트 공장 시스템 영역에서 SCADA 시스템을 이해하고 구성과 기능을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 SCADA 시스템을 이해하고 구성과 기능을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "SCADA 시스템을 이해하고 구성과 기능을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 03-02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.aabda1daa0f0ea4c71a3",
+   "titleKorean": "발명과 디자인 — 발명 문제 해결 과정에서 수렴적 사고 기법을 이해하여 적용하기",
+   "subjectKorean": "발명과 디자인",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명 디자인의 발상과 시각화",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "발명과 디자인의 발명 디자인의 발상과 시각화 영역에서 발명 문제 해결 과정에서 수렴적 사고 기법을 이해하여 적용하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 발명 문제 해결 과정에서 수렴적 사고 기법을 이해하여 적용하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "발명 문제 해결 과정에서 수렴적 사고 기법을 이해하여 적용하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-디자인:[발디 02-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.ab90d0f8bbcb1a53f257",
+   "titleKorean": "스마트 공장 일반 — PLC의 종류와 특징을 설명하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 제조 자동화 기술",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 일반의 스마트 제조 자동화 기술 영역에서 PLC의 종류와 특징을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 PLC의 종류와 특징을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "PLC의 종류와 특징을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 03-03-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.abc7b46983beeb2c280b",
+   "titleKorean": "발명과 메이커 — 다양한 분야의 지식, 기술, 그리고 전문가의 경험을 조사하여 문제를 분석하기",
+   "subjectKorean": "발명과 메이커",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명과 문제 해결의 이해",
+   "facetKey": null,
+   "types": [
+    "meta"
+   ],
+   "description": "발명과 메이커의 발명과 문제 해결의 이해 영역에서 다양한 분야의 지식, 기술, 그리고 전문가의 경험을 조사하여 문제를 분석하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 다양한 분야의 지식, 기술, 그리고 전문가의 경험을 조사하여 문제를 분석하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "다양한 분야의 지식, 기술, 그리고 전문가의 경험을 조사하여 문제를 분석하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-메이커:[발메 01-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.ac4217f1e975d7b3d4e8",
+   "titleKorean": "스마트 공장 운용 — 스마트 공장에서 빅 데이터와 인공지능 활용 사례를 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "빅 데이터와 인공지능",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "스마트 공장 운용의 빅 데이터와 인공지능 영역에서 스마트 공장에서 빅 데이터와 인공지능 활용 사례를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 스마트 공장에서 빅 데이터와 인공지능 활용 사례를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "스마트 공장에서 빅 데이터와 인공지능 활용 사례를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 05-03-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.ad15dac911aeb764aed8",
+   "titleKorean": "스마트 공장 설계와 구축 — 사용자 편의성을 고려하여 화면을 구성하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "감시 제어 시스템 설계",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "스마트 공장 설계와 구축의 감시 제어 시스템 설계 영역에서 사용자 편의성을 고려하여 화면을 구성하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 사용자 편의성을 고려하여 화면을 구성하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "사용자 편의성을 고려하여 화면을 구성하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 04-02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.ad2b2eeefef89b97c540",
+   "titleKorean": "스마트 공장 운용 — 설비 종합 효율에 대해 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "생산 관리 기술",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 생산 관리 기술 영역에서 설비 종합 효율에 대해 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 설비 종합 효율에 대해 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "설비 종합 효율에 대해 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 01-03-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.aec5a62776db57314825",
+   "titleKorean": "스마트 공장 운용 — PLC의 기능을 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "산업용 IoT 활용 기술",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 산업용 IoT 활용 기술 영역에서 PLC의 기능을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 PLC의 기능을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "PLC의 기능을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 02-02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.af6b8d35a2ddb3de4c0b",
+   "titleKorean": "발명과 기업가 정신 — 작성된 사업 계획서와 자금 투자 유치 계획을 반영한 IR 보고서를 작성하기",
+   "subjectKorean": "발명과 기업가 정신",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "창업 프로젝트",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "발명과 기업가 정신의 창업 프로젝트 영역에서 작성된 사업 계획서와 자금 투자 유치 계획을 반영한 IR 보고서를 작성하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 작성된 사업 계획서와 자금 투자 유치 계획을 반영한 IR 보고서를 작성하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "작성된 사업 계획서와 자금 투자 유치 계획을 반영한 IR 보고서를 작성하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-기업가-정신:[발신 04-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.afa630201a3f9d56f392",
+   "titleKorean": "스마트 공장 일반 — 스마트 센서를 정의하고 센서의 종류를 구분하여 설명하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 제조 자동화 기술",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 일반의 스마트 제조 자동화 기술 영역에서 스마트 센서를 정의하고 센서의 종류를 구분하여 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 스마트 센서를 정의하고 센서의 종류를 구분하여 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "스마트 센서를 정의하고 센서의 종류를 구분하여 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 03-02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.b3432c25511eb7ab4bd3",
+   "titleKorean": "스마트 공장 운용 — 재고의 의미와 종류에 대해 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "생산 관리 기술",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 생산 관리 기술 영역에서 재고의 의미와 종류에 대해 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 재고의 의미와 종류에 대해 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "재고의 의미와 종류에 대해 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 01-04-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.b59597c82e89a7168d22",
+   "titleKorean": "발명･특허 기초 — 발명과 지식 재산권과의 관계를 설명하기",
+   "subjectKorean": "발명･특허 기초",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "특허의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "발명･특허 기초의 특허의 이해 영역에서 발명과 지식 재산권과의 관계를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 발명과 지식 재산권과의 관계를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "발명과 지식 재산권과의 관계를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명･특허-기초:[발특 03-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.b5a890f767cca7bb99f0",
+   "titleKorean": "스마트 공장 운용 — 저장된 제조 데이터를 활용하는 과정을 구현하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "데이터 전 주기 관리",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "스마트 공장 운용의 데이터 전 주기 관리 영역에서 저장된 제조 데이터를 활용하는 과정을 구현하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 저장된 제조 데이터를 활용하는 과정을 구현하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "저장된 제조 데이터를 활용하는 과정을 구현하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 04-03-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.b7d499ad2fd0901d7765",
+   "titleKorean": "스마트 공장 운용 — DBMS의 기능에 대해 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "데이터 전 주기 관리",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 데이터 전 주기 관리 영역에서 DBMS의 기능에 대해 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 DBMS의 기능에 대해 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "DBMS의 기능에 대해 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 04-02-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.b8ef4abcbd43a8f8e4fb",
+   "titleKorean": "스마트 공장 일반 — 로봇의 종류를 구분하여 정리하고 로봇 운영의 사례를 찾아 설명하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 제조 자동화 기술",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 일반의 스마트 제조 자동화 기술 영역에서 로봇의 종류를 구분하여 정리하고 로봇 운영의 사례를 찾아 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 로봇의 종류를 구분하여 정리하고 로봇 운영의 사례를 찾아 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "로봇의 종류를 구분하여 정리하고 로봇 운영의 사례를 찾아 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 03-02-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.bb17694ad90ae6389230",
+   "titleKorean": "발명과 메이커 — 로봇 제작 프로그램을 활용하여 문제를 분석하고 해결 방법을 설명하기",
+   "subjectKorean": "발명과 메이커",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명 메이커 프로젝트",
+   "facetKey": null,
+   "types": [
+    "meta"
+   ],
+   "description": "발명과 메이커의 발명 메이커 프로젝트 영역에서 로봇 제작 프로그램을 활용하여 문제를 분석하고 해결 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 로봇 제작 프로그램을 활용하여 문제를 분석하고 해결 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "로봇 제작 프로그램을 활용하여 문제를 분석하고 해결 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-메이커:[발메 04-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.bbadb3ad25f7ab0b7caa",
+   "titleKorean": "스마트 공장 설계와 구축 — 스마트 공장 계층적 구성(5 Layer)에 대해 설명하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "디지털 트윈 구축",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "스마트 공장 설계와 구축의 디지털 트윈 구축 영역에서 스마트 공장 계층적 구성(5 Layer)에 대해 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 스마트 공장 계층적 구성(5 Layer)에 대해 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "스마트 공장 계층적 구성(5 Layer)에 대해 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 05-01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.bd4a22cd0dad63306ab6",
+   "titleKorean": "스마트 공장 설계와 구축 — PC 언어를 활용하여 시뮬레이션 스크립트를 작성하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "디지털 트윈 구축",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "스마트 공장 설계와 구축의 디지털 트윈 구축 영역에서 PC 언어를 활용하여 시뮬레이션 스크립트를 작성하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 PC 언어를 활용하여 시뮬레이션 스크립트를 작성하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "PC 언어를 활용하여 시뮬레이션 스크립트를 작성하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 05-03-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.be16e4134253ad8dcdde",
+   "titleKorean": "발명과 기업가 정신 — 발명과 기업가 정신의 관계를 설명하기",
+   "subjectKorean": "발명과 기업가 정신",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명과 기업가 정신의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "발명과 기업가 정신의 발명과 기업가 정신의 이해 영역에서 발명과 기업가 정신의 관계를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 발명과 기업가 정신의 관계를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "발명과 기업가 정신의 관계를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-기업가-정신:[발신 01-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.bf330f9fcac07a8b7feb",
+   "titleKorean": "발명과 디자인 — 발명 디자인 대상의 목표 및 기능 설정하기의 필요성과 과정을 이해하여 목표 계층도를 작성 하고, 제품의 입력과 출력에 따른 세부적인 기능과 장치를 도출하기",
+   "subjectKorean": "발명과 디자인",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명 디자인 과정",
+   "facetKey": null,
+   "types": [
+    "representational"
+   ],
+   "description": "발명과 디자인의 발명 디자인 과정 영역에서 발명 디자인 대상의 목표 및 기능 설정하기의 필요성과 과정을 이해하여 목표 계층도를 작성 하고, 제품의 입력과 출력에 따른 세부적인 기능과 장치를 도출하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 발명 디자인 대상의 목표 및 기능 설정하기의 필요성과 과정을 이해하여 목표 계층도를 작성 하고, 제품의 입력과 출력에 따른 세부적인 기능과 장치를 도출하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "발명 디자인 대상의 목표 및 기능 설정하기의 필요성과 과정을 이해하여 목표 계층도를 작성 하고, 제품의 입력과 출력에 따른 세부적인 기능과 장치를 도출하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-디자인:[발디 03-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.bf3bb2d005b178694d8b",
+   "titleKorean": "스마트 공장 일반 — 스마트 공장의 특징을 정리하여 설명하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 공장(Smart Factory)",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 일반의 스마트 공장(Smart Factory) 영역에서 스마트 공장의 특징을 정리하여 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 스마트 공장의 특징을 정리하여 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "스마트 공장의 특징을 정리하여 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 02-02-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.bf47d4f37b46ff48c3fa",
+   "titleKorean": "발명･특허 기초 — 특허의 요건을 설명하기",
+   "subjectKorean": "발명･특허 기초",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "특허의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "발명･특허 기초의 특허의 이해 영역에서 특허의 요건을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 특허의 요건을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "특허의 요건을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명･특허-기초:[발특 03-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.bfeeac8ea56643ae1b40",
+   "titleKorean": "스마트 공장 일반 — 전사적 자원 관리(ERP)의 개념과 도입 배경을 이해하고, ERP의 기능에 대해서 설명하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 공장 응용 시스템",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 일반의 스마트 공장 응용 시스템 영역에서 전사적 자원 관리(ERP)의 개념과 도입 배경을 이해하고, ERP의 기능에 대해서 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 전사적 자원 관리(ERP)의 개념과 도입 배경을 이해하고, ERP의 기능에 대해서 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "전사적 자원 관리(ERP)의 개념과 도입 배경을 이해하고, ERP의 기능에 대해서 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 06-01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.c0bb0b07cca836793658",
+   "titleKorean": "스마트 공장 설계와 구축 — 기계 장비에 명령을 전달하고 작동 상태를 파악하도록 화면을 구성하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "감시 제어 시스템 설계",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "스마트 공장 설계와 구축의 감시 제어 시스템 설계 영역에서 기계 장비에 명령을 전달하고 작동 상태를 파악하도록 화면을 구성하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 기계 장비에 명령을 전달하고 작동 상태를 파악하도록 화면을 구성하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "기계 장비에 명령을 전달하고 작동 상태를 파악하도록 화면을 구성하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 04-02-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.c42499281a2facc6bb7d",
+   "titleKorean": "스마트 공장 운용 — 스마트 공장에서 인공지능의 의미를 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "빅 데이터와 인공지능",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 빅 데이터와 인공지능 영역에서 스마트 공장에서 인공지능의 의미를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 스마트 공장에서 인공지능의 의미를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "스마트 공장에서 인공지능의 의미를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 05-02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.c77c0ff35a9af9643a3a",
+   "titleKorean": "스마트 공장 운용 — 기업에서 사용되는 네트워크 장비의 종류를 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "산업용 IoT 활용 기술",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 산업용 IoT 활용 기술 영역에서 기업에서 사용되는 네트워크 장비의 종류를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 기업에서 사용되는 네트워크 장비의 종류를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "기업에서 사용되는 네트워크 장비의 종류를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 02-03-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.cb1670022a82094daa78",
+   "titleKorean": "스마트 공장 운용 — 빅 데이터의 의미와 방법을 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "빅 데이터와 인공지능",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 빅 데이터와 인공지능 영역에서 빅 데이터의 의미와 방법을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 빅 데이터의 의미와 방법을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "빅 데이터의 의미와 방법을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 05-01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.cd5f14b586a2ca8deb20",
+   "titleKorean": "발명과 기업가 정신 — 발명의 의미와 사회적 중요성을 설명하기",
+   "subjectKorean": "발명과 기업가 정신",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명과 기업가 정신의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "발명과 기업가 정신의 발명과 기업가 정신의 이해 영역에서 발명의 의미와 사회적 중요성을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 발명의 의미와 사회적 중요성을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "발명의 의미와 사회적 중요성을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-기업가-정신:[발신 01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.ce63849278e37212bee4",
+   "titleKorean": "스마트 공장 설계와 구축 — 감시 제어 시스템의 주요 기능을 설정하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "감시 제어 시스템 설계",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 설계와 구축의 감시 제어 시스템 설계 영역에서 감시 제어 시스템의 주요 기능을 설정하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 감시 제어 시스템의 주요 기능을 설정하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "감시 제어 시스템의 주요 기능을 설정하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 04-01-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.cf2b0a02e4c3dd00ad9c",
+   "titleKorean": "스마트 공장 일반 — 사이버 물리 시스템(CPS: Cyber-Physical Systems)의 개념을 이해하고 설명하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 공장 응용 시스템",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 일반의 스마트 공장 응용 시스템 영역에서 사이버 물리 시스템(CPS: Cyber-Physical Systems)의 개념을 이해하고 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 사이버 물리 시스템(CPS: Cyber-Physical Systems)의 개념을 이해하고 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "사이버 물리 시스템(CPS: Cyber-Physical Systems)의 개념을 이해하고 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 06-03-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.cfc1634d439ad53cca96",
+   "titleKorean": "스마트 공장 일반 — 로봇과 사람이 공존하는 제조 환경 변화에 대응하여 로봇과 사람이 공존하는 사례를 들 어 설명하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 제조 자동화 기술",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 일반의 스마트 제조 자동화 기술 영역에서 로봇과 사람이 공존하는 제조 환경 변화에 대응하여 로봇과 사람이 공존하는 사례를 들 어 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 로봇과 사람이 공존하는 제조 환경 변화에 대응하여 로봇과 사람이 공존하는 사례를 들 어 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "로봇과 사람이 공존하는 제조 환경 변화에 대응하여 로봇과 사람이 공존하는 사례를 들 어 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 03-02-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.d176239bf84cd75ae868",
+   "titleKorean": "발명･특허 기초 — 확산적・수렴적 사고 기법과 발명 아이디어 창출 기법을 활용하여 아이디어를 창출하기",
+   "subjectKorean": "발명･특허 기초",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명 아이디어 창출",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "발명･특허 기초의 발명 아이디어 창출 영역에서 확산적・수렴적 사고 기법과 발명 아이디어 창출 기법을 활용하여 아이디어를 창출하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 확산적・수렴적 사고 기법과 발명 아이디어 창출 기법을 활용하여 아이디어를 창출하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "확산적・수렴적 사고 기법과 발명 아이디어 창출 기법을 활용하여 아이디어를 창출하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명･특허-기초:[발특 02-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.d3e97dc7a736cccc76aa",
+   "titleKorean": "스마트 공장 일반 — 거래 처리 시스템(TPS: Transaction Processing Systems) 개념과 목표를 이해하고, 역 할과 특징에 대해서 설명하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 공장 응용 시스템",
+   "facetKey": null,
+   "types": [
+    "representational"
+   ],
+   "description": "스마트 공장 일반의 스마트 공장 응용 시스템 영역에서 거래 처리 시스템(TPS: Transaction Processing Systems) 개념과 목표를 이해하고, 역 할과 특징에 대해서 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 거래 처리 시스템(TPS: Transaction Processing Systems) 개념과 목표를 이해하고, 역 할과 특징에 대해서 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "거래 처리 시스템(TPS: Transaction Processing Systems) 개념과 목표를 이해하고, 역 할과 특징에 대해서 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 06-05-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.d676d30909ebe9fd9abf",
+   "titleKorean": "스마트 공장 운용 — 품질 경영의 원칙을 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 영역 05 영역에서 품질 경영의 원칙을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 품질 경영의 원칙을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "품질 경영의 원칙을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 01-05-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.d6c9bae252c139e57bfe",
+   "titleKorean": "스마트 공장 운용 — PLC와 산업용 로봇의 표준 연동 기술을 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "산업용 IoT 활용 기술",
+   "facetKey": null,
+   "types": [
+    "representational"
+   ],
+   "description": "스마트 공장 운용의 산업용 IoT 활용 기술 영역에서 PLC와 산업용 로봇의 표준 연동 기술을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 PLC와 산업용 로봇의 표준 연동 기술을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "PLC와 산업용 로봇의 표준 연동 기술을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 02-02-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.d6f178e5fa23f729f137",
+   "titleKorean": "발명과 디자인 — 3D 모델링 프로그램을 사용하여 3D 모델링과 3D 렌더링으로 도면을 제작하기",
+   "subjectKorean": "발명과 디자인",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명 디자인 제품화",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "발명과 디자인의 발명 디자인 제품화 영역에서 3D 모델링 프로그램을 사용하여 3D 모델링과 3D 렌더링으로 도면을 제작하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 3D 모델링 프로그램을 사용하여 3D 모델링과 3D 렌더링으로 도면을 제작하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "3D 모델링 프로그램을 사용하여 3D 모델링과 3D 렌더링으로 도면을 제작하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-디자인:[발디 04-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.d7114e7463448ffc2127",
+   "titleKorean": "스마트 공장 설계와 구축 — 설비 제어에 필요한 구동 장치의 동작 범위를 결정하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 설비 제어 설계",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 설계와 구축의 스마트 설비 제어 설계 영역에서 설비 제어에 필요한 구동 장치의 동작 범위를 결정하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 설비 제어에 필요한 구동 장치의 동작 범위를 결정하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "설비 제어에 필요한 구동 장치의 동작 범위를 결정하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 02-04-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.d8e0019191b2d79b84ea",
+   "titleKorean": "스마트 공장 설계와 구축 — 디지털 트윈에서 공정 시스템(시스템 트윈) 구현을 위한 레이아웃을 디자인하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "디지털 트윈 구축",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 설계와 구축의 디지털 트윈 구축 영역에서 디지털 트윈에서 공정 시스템(시스템 트윈) 구현을 위한 레이아웃을 디자인하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 디지털 트윈에서 공정 시스템(시스템 트윈) 구현을 위한 레이아웃을 디자인하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "디지털 트윈에서 공정 시스템(시스템 트윈) 구현을 위한 레이아웃을 디자인하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 05-02-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.dc123676cefb1a19af1b",
+   "titleKorean": "스마트 공장 일반 — 디지털 트윈(Digital Twin)의 개념을 이해하고 설명하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 공장 관련 핵심 기술",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 일반의 스마트 공장 관련 핵심 기술 영역에서 디지털 트윈(Digital Twin)의 개념을 이해하고 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 디지털 트윈(Digital Twin)의 개념을 이해하고 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "디지털 트윈(Digital Twin)의 개념을 이해하고 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 05-05-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.dc87c67b00723e69bfb5",
+   "titleKorean": "발명･특허 기초 — 특허 침해와 분쟁 사례를 설명하기",
+   "subjectKorean": "발명･특허 기초",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "특허의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "발명･특허 기초의 특허의 이해 영역에서 특허 침해와 분쟁 사례를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 특허 침해와 분쟁 사례를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "특허 침해와 분쟁 사례를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명･특허-기초:[발특 03-05]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.df89ce5f37961ee5727f",
+   "titleKorean": "스마트 공장 설계와 구축 — 신호 전달이 필요한 장치 간에 통신 방식과 통신 프로토콜을 결정하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 설비 제어 설계",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 설계와 구축의 스마트 설비 제어 설계 영역에서 신호 전달이 필요한 장치 간에 통신 방식과 통신 프로토콜을 결정하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 신호 전달이 필요한 장치 간에 통신 방식과 통신 프로토콜을 결정하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "신호 전달이 필요한 장치 간에 통신 방식과 통신 프로토콜을 결정하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 02-02-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.e2925164106c237050a4",
+   "titleKorean": "스마트 공장 설계와 구축 — 제어 신호의 전달을 위해 디지털 신호의 유접점 방식과 무접점 방식을 결정하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 설비 제어 설계",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 설계와 구축의 스마트 설비 제어 설계 영역에서 제어 신호의 전달을 위해 디지털 신호의 유접점 방식과 무접점 방식을 결정하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 제어 신호의 전달을 위해 디지털 신호의 유접점 방식과 무접점 방식을 결정하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "제어 신호의 전달을 위해 디지털 신호의 유접점 방식과 무접점 방식을 결정하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 02-02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.e359f60ac313c90cadd7",
+   "titleKorean": "발명･특허 기초 — 우리 생활 속의 발명 사례를 조사하여 생활에 미친 영향을 설명하기",
+   "subjectKorean": "발명･특허 기초",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "발명･특허 기초의 발명의 이해 영역에서 우리 생활 속의 발명 사례를 조사하여 생활에 미친 영향을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 우리 생활 속의 발명 사례를 조사하여 생활에 미친 영향을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "우리 생활 속의 발명 사례를 조사하여 생활에 미친 영향을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명･특허-기초:[발특 01-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.e4f9f3e66318952b801d",
+   "titleKorean": "발명과 메이커 — 발명 아이디어 창출을 위해 다양한 아이디어 창출 방법과 평가 방법을 찾아 설명하기",
+   "subjectKorean": "발명과 메이커",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "디자인 씽킹을 통한 발명 아이디어 창출",
+   "facetKey": null,
+   "types": [
+    "meta"
+   ],
+   "description": "발명과 메이커의 디자인 씽킹을 통한 발명 아이디어 창출 영역에서 발명 아이디어 창출을 위해 다양한 아이디어 창출 방법과 평가 방법을 찾아 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 발명 아이디어 창출을 위해 다양한 아이디어 창출 방법과 평가 방법을 찾아 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "발명 아이디어 창출을 위해 다양한 아이디어 창출 방법과 평가 방법을 찾아 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-메이커:[발메 02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.e60854a3fbddc58d442a",
+   "titleKorean": "스마트 공장 설계와 구축 — 자동화 시스템 PLC/PC 기반 제어 기기별 특징에 대해 설명하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 설비 제어 시스템 구축",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 설계와 구축의 스마트 설비 제어 시스템 구축 영역에서 자동화 시스템 PLC/PC 기반 제어 기기별 특징에 대해 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 자동화 시스템 PLC/PC 기반 제어 기기별 특징에 대해 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "자동화 시스템 PLC/PC 기반 제어 기기별 특징에 대해 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 03-01-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.e6672ca56664bacfb583",
+   "titleKorean": "발명･특허 기초 — 창출한 발명 아이디어를 평가하여 개선하기",
+   "subjectKorean": "발명･특허 기초",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명 아이디어 창출",
+   "facetKey": null,
+   "types": [
+    "meta"
+   ],
+   "description": "발명･특허 기초의 발명 아이디어 창출 영역에서 창출한 발명 아이디어를 평가하여 개선하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 창출한 발명 아이디어를 평가하여 개선하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "창출한 발명 아이디어를 평가하여 개선하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명･특허-기초:[발특 02-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.e81ea203a14536ec1959",
+   "titleKorean": "스마트 공장 운용 — DBMS의 의미와 종류를 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "데이터 전 주기 관리",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 데이터 전 주기 관리 영역에서 DBMS의 의미와 종류를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 DBMS의 의미와 종류를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "DBMS의 의미와 종류를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 04-02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.e8c1754ab421c33f2664",
+   "titleKorean": "발명과 메이커 — 디자인 씽킹 방법으로 토의하여 발명 아이디어를 창출하기",
+   "subjectKorean": "발명과 메이커",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "디자인 씽킹을 통한 발명 아이디어 창출",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "발명과 메이커의 디자인 씽킹을 통한 발명 아이디어 창출 영역에서 디자인 씽킹 방법으로 토의하여 발명 아이디어를 창출하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 디자인 씽킹 방법으로 토의하여 발명 아이디어를 창출하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "디자인 씽킹 방법으로 토의하여 발명 아이디어를 창출하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-메이커:[발메 02-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.e8f940863aa8d03f014a",
+   "titleKorean": "발명과 메이커 — 발명 문제 정의 과정을 활용해 문제를 찾아 원인을 파악하고 설명하기",
+   "subjectKorean": "발명과 메이커",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명과 문제 해결의 이해",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "발명과 메이커의 발명과 문제 해결의 이해 영역에서 발명 문제 정의 과정을 활용해 문제를 찾아 원인을 파악하고 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 발명 문제 정의 과정을 활용해 문제를 찾아 원인을 파악하고 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "발명 문제 정의 과정을 활용해 문제를 찾아 원인을 파악하고 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-메이커:[발메 01-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.e9e57047ea82207ed7b1",
+   "titleKorean": "스마트 공장 일반 — HMI의 기능과 활용을 설명하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 제조 자동화 기술",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "스마트 공장 일반의 스마트 제조 자동화 기술 영역에서 HMI의 기능과 활용을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 HMI의 기능과 활용을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "HMI의 기능과 활용을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 03-03-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.ea8ff8051eaa1cff1694",
+   "titleKorean": "스마트 공장 일반 — 공급망 관리의 정의 및 개념에 대해서 설명하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 제조 시스템",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 일반의 스마트 제조 시스템 영역에서 공급망 관리의 정의 및 개념에 대해서 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 공급망 관리의 정의 및 개념에 대해서 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "공급망 관리의 정의 및 개념에 대해서 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 04-03-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.ec3cec45cae888de736e",
+   "titleKorean": "스마트 공장 운용 — SCADA 시스템의 기능을 수행하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 공장 시스템",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "스마트 공장 운용의 스마트 공장 시스템 영역에서 SCADA 시스템의 기능을 수행하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 SCADA 시스템의 기능을 수행하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "SCADA 시스템의 기능을 수행하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 03-02-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.ee70bd732cfd176ca77c",
+   "titleKorean": "스마트 공장 설계와 구축 — 제어 동작의 흐름도를 작성하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 설비 제어 설계",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 설계와 구축의 스마트 설비 제어 설계 영역에서 제어 동작의 흐름도를 작성하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 제어 동작의 흐름도를 작성하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "제어 동작의 흐름도를 작성하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 02-03-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.ef0c299a55d304bc827c",
+   "titleKorean": "스마트 공장 설계와 구축 — 스마트 설비의 설계 목표가 정확히 반영될 수 있도록 부품 배치도를 작성하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 설비 메커니즘 설계",
+   "facetKey": null,
+   "types": [
+    "representational"
+   ],
+   "description": "스마트 공장 설계와 구축의 스마트 설비 메커니즘 설계 영역에서 스마트 설비의 설계 목표가 정확히 반영될 수 있도록 부품 배치도를 작성하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 스마트 설비의 설계 목표가 정확히 반영될 수 있도록 부품 배치도를 작성하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "스마트 설비의 설계 목표가 정확히 반영될 수 있도록 부품 배치도를 작성하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 01-01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.f08854e5870b67f48f75",
+   "titleKorean": "스마트 공장 설계와 구축 — 프로그램 설계서의 내용을 파악하고 프로그램 방법을 결정하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "감시 제어 시스템 설계",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 설계와 구축의 감시 제어 시스템 설계 영역에서 프로그램 설계서의 내용을 파악하고 프로그램 방법을 결정하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 프로그램 설계서의 내용을 파악하고 프로그램 방법을 결정하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "프로그램 설계서의 내용을 파악하고 프로그램 방법을 결정하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 04-03-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.f5254ca0d1e50a8b3659",
+   "titleKorean": "발명과 기업가 정신 — 사업 계획서의 의미와 필요성을 설명하기",
+   "subjectKorean": "발명과 기업가 정신",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "사업 타당성 분석과 사업 계획서",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "발명과 기업가 정신의 사업 타당성 분석과 사업 계획서 영역에서 사업 계획서의 의미와 필요성을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 사업 계획서의 의미와 필요성을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "사업 계획서의 의미와 필요성을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-기업가-정신:[발신 03-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.f59ae38402d8ac604083",
+   "titleKorean": "스마트 공장 설계와 구축 — 설계할 구성 부품의 특징 및 성능을 검토하고, 필요한 단위 구성 부품들을 결정하고 조합 하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 설비 메커니즘 설계",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "스마트 공장 설계와 구축의 스마트 설비 메커니즘 설계 영역에서 설계할 구성 부품의 특징 및 성능을 검토하고, 필요한 단위 구성 부품들을 결정하고 조합 하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 설계할 구성 부품의 특징 및 성능을 검토하고, 필요한 단위 구성 부품들을 결정하고 조합 하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "설계할 구성 부품의 특징 및 성능을 검토하고, 필요한 단위 구성 부품들을 결정하고 조합 하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 01-02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.f97b0d2a9d5c0809ede4",
+   "titleKorean": "스마트 공장 운용 — 산업용 센서의 종류 및 특징을 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "데이터 전 주기 관리",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 데이터 전 주기 관리 영역에서 산업용 센서의 종류 및 특징을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 산업용 센서의 종류 및 특징을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "산업용 센서의 종류 및 특징을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 04-01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.fb6394008ee0edc355be",
+   "titleKorean": "스마트 공장 운용 — 생산 공정의 핵심 지표에 대해 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "생산 관리 기술",
+   "facetKey": null,
+   "types": [
+    "representational"
+   ],
+   "description": "스마트 공장 운용의 생산 관리 기술 영역에서 생산 공정의 핵심 지표에 대해 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 생산 공정의 핵심 지표에 대해 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "생산 공정의 핵심 지표에 대해 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 01-03-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.fbfcfc765859aecb6514",
+   "titleKorean": "발명과 디자인 — 발명 디자인 제품 개발을 위한 고객의 요구 사항을 파악하여 범위와 속성을 결정하고 성능 명세서를 작성하여 특성을 결정하기",
+   "subjectKorean": "발명과 디자인",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명 디자인 과정",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "발명과 디자인의 발명 디자인 과정 영역에서 발명 디자인 제품 개발을 위한 고객의 요구 사항을 파악하여 범위와 속성을 결정하고 성능 명세서를 작성하여 특성을 결정하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 발명 디자인 제품 개발을 위한 고객의 요구 사항을 파악하여 범위와 속성을 결정하고 성능 명세서를 작성하여 특성을 결정하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "발명 디자인 제품 개발을 위한 고객의 요구 사항을 파악하여 범위와 속성을 결정하고 성능 명세서를 작성하여 특성을 결정하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-디자인:[발디 03-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.fc7b3015e72f318fd01a",
+   "titleKorean": "스마트 공장 일반 — 생산 계획의 정의 및 개념에 대해서 설명하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 제조 시스템",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 일반의 스마트 제조 시스템 영역에서 생산 계획의 정의 및 개념에 대해서 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 생산 계획의 정의 및 개념에 대해서 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "생산 계획의 정의 및 개념에 대해서 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 04-01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.fc80053251971e4a8c36",
+   "titleKorean": "스마트 공장 설계와 구축 — 입출력 제어를 위한 논리 회로 및 기본 제어 회로에 대해 설명하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 설비 제어 시스템 구축",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 설계와 구축의 스마트 설비 제어 시스템 구축 영역에서 입출력 제어를 위한 논리 회로 및 기본 제어 회로에 대해 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 입출력 제어를 위한 논리 회로 및 기본 제어 회로에 대해 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "입출력 제어를 위한 논리 회로 및 기본 제어 회로에 대해 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 03-03-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.fd50475221daaf32eafa",
+   "titleKorean": "발명과 기업가 정신 — 사업 타당성 분석의 필요성을 설명하기",
+   "subjectKorean": "발명과 기업가 정신",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "사업 타당성 분석과 사업 계획서",
+   "facetKey": null,
+   "types": [
+    "meta"
+   ],
+   "description": "발명과 기업가 정신의 사업 타당성 분석과 사업 계획서 영역에서 사업 타당성 분석의 필요성을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 사업 타당성 분석의 필요성을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "사업 타당성 분석의 필요성을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-발명과-기업가-정신:[발신 03-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.fd9e9c6b67f284b39d4e",
+   "titleKorean": "스마트 공장 일반 — 마스터 데이터 관리(MDM: Master Data Management)의 개념을 이해하고 활용 방법 을 설명하기",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 공장 응용 시스템",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "스마트 공장 일반의 스마트 공장 응용 시스템 영역에서 마스터 데이터 관리(MDM: Master Data Management)의 개념을 이해하고 활용 방법 을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 마스터 데이터 관리(MDM: Master Data Management)의 개념을 이해하고 활용 방법 을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "마스터 데이터 관리(MDM: Master Data Management)의 개념을 이해하고 활용 방법 을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-일반:[스일 06-04-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.fe23c725c42a8900c944",
+   "titleKorean": "스마트 공장 운용 — 품질의 의미와 제조 단계별 품질의 정의를 설명하기",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 운용의 영역 05 영역에서 품질의 의미와 제조 단계별 품질의 정의를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 품질의 의미와 제조 단계별 품질의 정의를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "품질의 의미와 제조 단계별 품질의 정의를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-운용:[스운 01-05-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.fed7a35f8e454ded94ce",
+   "titleKorean": "스마트 공장 설계와 구축 — 필요한 센서 및 스위치의 종류와 수량을 결정하기",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 설비 제어 설계",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "스마트 공장 설계와 구축의 스마트 설비 제어 설계 영역에서 필요한 센서 및 스위치의 종류와 수량을 결정하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 필요한 센서 및 스위치의 종류와 수량을 결정하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "필요한 센서 및 스위치의 종류와 수량을 결정하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-스마트-공장-설계와-구축:[스구 02-01-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex39"
+   ]
+  }
+ ]
+}

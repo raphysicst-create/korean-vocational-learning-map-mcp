@@ -1,0 +1,2261 @@
+{
+ "clusters": [
+  {
+   "id": "kr.cluster.2022.high.00bd6a17a461895973",
+   "titleKorean": "냉동 공조 일반 — 공기 조화 시스템의 구성 요소 기기",
+   "subjectKorean": "냉동 공조 일반",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "공기 조화 시스템의 구성 요소 기기",
+   "summary": "냉동 공조 일반의 공기 조화 시스템의 구성 요소 기기 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.47a2856d78fcc45ee8e1",
+    "kr.topic.2022.high.560b3444114874346fe4",
+    "kr.topic.2022.high.7eca1924f4c94f074067",
+    "kr.topic.2022.high.b2e93ab45d564cf9c90d",
+    "kr.topic.2022.high.df808fc499a11c106b9a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.04290821c88050afbf",
+   "titleKorean": "자동차 전기·전자 제어 — 냉난방 장치",
+   "subjectKorean": "자동차 전기·전자 제어",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "냉난방 장치",
+   "summary": "자동차 전기·전자 제어의 냉난방 장치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.1492a357fea1bbb3129a",
+    "kr.topic.2022.high.5d5fc51830596feb4e2f",
+    "kr.topic.2022.high.873f6eebf3a90ca8dbe3",
+    "kr.topic.2022.high.a47404bc283e81564d0a",
+    "kr.topic.2022.high.a9256782a05f1c2c70ca",
+    "kr.topic.2022.high.b0f29d50f053f67d3b08",
+    "kr.topic.2022.high.b1e66c217d06fda8e19a",
+    "kr.topic.2022.high.f36843bafafdd9161bab"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0a6c76a5a69033aae0",
+   "titleKorean": "자동차 일반 — 외연 기관",
+   "subjectKorean": "자동차 일반",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "외연 기관",
+   "summary": "자동차 일반의 외연 기관 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.9fabddec0a70236cffea",
+    "kr.topic.2022.high.f20465850948501b38d7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0b9d3a3026380110b7",
+   "titleKorean": "기계 일반 — 에너지 변환과 공기 조화",
+   "subjectKorean": "기계 일반",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "에너지 변환과 공기 조화",
+   "summary": "기계 일반의 에너지 변환과 공기 조화 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.37b5cac8da25b61ead11",
+    "kr.topic.2022.high.eb15f18c79b8f3d52050",
+    "kr.topic.2022.high.ff84b140c16fc3d1ee0c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0cafaa8bdc028c2b0f",
+   "titleKorean": "항공기 실무 기초 — 항공기 정비",
+   "subjectKorean": "항공기 실무 기초",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "항공기 정비",
+   "summary": "항공기 실무 기초의 항공기 정비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.1892e8227a8dc33acc01",
+    "kr.topic.2022.high.34bc8485da79c2b6db64",
+    "kr.topic.2022.high.4455419238068c73b636",
+    "kr.topic.2022.high.56ae88933702e85e4da5",
+    "kr.topic.2022.high.85cdc7e664f691cb24e8",
+    "kr.topic.2022.high.90a70b1caf846b441dfd",
+    "kr.topic.2022.high.cef50e85b27bf3cf7816",
+    "kr.topic.2022.high.ebbc510c26833658394a",
+    "kr.topic.2022.high.ef339ee7c8695e9af7c4",
+    "kr.topic.2022.high.fea143f35702d3d835fc"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0d7a80649e110016b9",
+   "titleKorean": "선박 이론 — 선박 계산",
+   "subjectKorean": "선박 이론",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "선박 계산",
+   "summary": "선박 이론의 선박 계산 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.4c5f9042127adb5aefa1",
+    "kr.topic.2022.high.8c853d101ee4356c1c7a",
+    "kr.topic.2022.high.b9efdda2fe604c20bdab",
+    "kr.topic.2022.high.d648ab7932662b528a39"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.10c1c1cee18f62e1e4",
+   "titleKorean": "기계 일반 — 기계 설계",
+   "subjectKorean": "기계 일반",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "기계 설계",
+   "summary": "기계 일반의 기계 설계 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.800b435ed53f2a85ef88",
+    "kr.topic.2022.high.b18d6b8ededcaac93216"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.11ff6165634e896e48",
+   "titleKorean": "기계 제도 — 금형 제도하기",
+   "subjectKorean": "기계 제도",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "금형 제도하기",
+   "summary": "기계 제도의 금형 제도하기 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.1eb221274804499a3b62",
+    "kr.topic.2022.high.d024773fa1fb8e446cc7",
+    "kr.topic.2022.high.d2b29e99b9ba80d2a7b9",
+    "kr.topic.2022.high.ed7c89778b198a7f64da"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.134c151f2c09893b64",
+   "titleKorean": "기계 기초 역학 — 유체 역학",
+   "subjectKorean": "기계 기초 역학",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "유체 역학",
+   "summary": "기계 기초 역학의 유체 역학 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.2a3877445348cab6e2f7",
+    "kr.topic.2022.high.2e5f2e62c5855e8b3883",
+    "kr.topic.2022.high.40fa5a7922a9e0c474e2",
+    "kr.topic.2022.high.6fab6f54358977feff56"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.13ec644936a913c5c1",
+   "titleKorean": "선박 건조 — 영역 07",
+   "subjectKorean": "선박 건조",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 07",
+   "summary": "선박 건조의 영역 07 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.43a7847cde8e55ec1558",
+    "kr.topic.2022.high.65fbe07038cdefce34fa"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.17ca84e81e7b7a696e",
+   "titleKorean": "자동차 섀시 — 현가장치",
+   "subjectKorean": "자동차 섀시",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "현가장치",
+   "summary": "자동차 섀시의 현가장치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.008eb4f38dcac019db8b",
+    "kr.topic.2022.high.0fa3e8146d1b3ac0d224",
+    "kr.topic.2022.high.59eeb7f52a85581af03a",
+    "kr.topic.2022.high.f12531d343e128e7624a",
+    "kr.topic.2022.high.f2ba16100b7aa77bb6b6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1aec7f52387fa6913a",
+   "titleKorean": "선체 도면 독도와 제도 — 선박 구조도",
+   "subjectKorean": "선체 도면 독도와 제도",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "선박 구조도",
+   "summary": "선체 도면 독도와 제도의 선박 구조도 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.6b3e97f8b560e3947b4d",
+    "kr.topic.2022.high.856912f08b71d0310097",
+    "kr.topic.2022.high.a1d83ab4a3e7b8eed7f1",
+    "kr.topic.2022.high.bd7a3f1e72e404d58f76"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1af7216f5ab1295448",
+   "titleKorean": "산업 설비 — 판금",
+   "subjectKorean": "산업 설비",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "판금",
+   "summary": "산업 설비의 판금 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.1209e7f29c3ef86b615a",
+    "kr.topic.2022.high.3b68fcd00c718139bfe8",
+    "kr.topic.2022.high.4731d7b85f887ab903f7",
+    "kr.topic.2022.high.4f41ed739fd20e0a6593",
+    "kr.topic.2022.high.798a592c4a15796bb256",
+    "kr.topic.2022.high.86739cd24543275f4be1",
+    "kr.topic.2022.high.d7bdeacd9a42affb96ea",
+    "kr.topic.2022.high.e321fa62e3c5a9e6eeca",
+    "kr.topic.2022.high.ff82b2dcaa29c51c7f2f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1b0b93be7971aaec97",
+   "titleKorean": "기계 기초 역학 — 고체 역학",
+   "subjectKorean": "기계 기초 역학",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "고체 역학",
+   "summary": "기계 기초 역학의 고체 역학 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.257409fe6ed6f4edf670",
+    "kr.topic.2022.high.88790bf3b5b22016f065",
+    "kr.topic.2022.high.e53f709701dabc013b9c",
+    "kr.topic.2022.high.e6b0679478638df9a0ed"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1bd814cd9aa2f6b6ee",
+   "titleKorean": "자동차 전기·전자 제어 — 종합 경보장치와 계기 장치",
+   "subjectKorean": "자동차 전기·전자 제어",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "종합 경보장치와 계기 장치",
+   "summary": "자동차 전기·전자 제어의 종합 경보장치와 계기 장치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.001bf3b683edcf271a7d",
+    "kr.topic.2022.high.7b10b32e4e0ba9b7c1a2",
+    "kr.topic.2022.high.8648aafc1cef3f9b8d47",
+    "kr.topic.2022.high.a2012ce39a376652d2a5",
+    "kr.topic.2022.high.cb723f48bd6acb3236c2",
+    "kr.topic.2022.high.f22e32a9767bc55a4d27"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1fed49de146aa2e2c1",
+   "titleKorean": "자동차 전기·전자 제어 — 영역 04",
+   "subjectKorean": "자동차 전기·전자 제어",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 04",
+   "summary": "자동차 전기·전자 제어의 영역 04 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.14a05365c845500fd8c3",
+    "kr.topic.2022.high.21d79fe31837ce0d959b",
+    "kr.topic.2022.high.249c7c85d2a37396d23d",
+    "kr.topic.2022.high.2f69df9a67e1bdb6c2f2",
+    "kr.topic.2022.high.4dcbaf5ed1dc907cfae8",
+    "kr.topic.2022.high.65f51d99a569b4a66934",
+    "kr.topic.2022.high.72e97ba4472e0f9e156c",
+    "kr.topic.2022.high.840680ed493c8dba7b7b",
+    "kr.topic.2022.high.bea2888abdae85df0554"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.204ca6a00e3cddfd8e",
+   "titleKorean": "기계 제도 — 영역 05",
+   "subjectKorean": "기계 제도",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "기계 제도의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.13dc29c90a9288e3a710",
+    "kr.topic.2022.high.55ed9940ab0d8b75779d",
+    "kr.topic.2022.high.5b728607981386b55988",
+    "kr.topic.2022.high.60fdccc0c83014d9dedf",
+    "kr.topic.2022.high.6232797aee06db2b8099",
+    "kr.topic.2022.high.e9d7cc1207e78df9ef70"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2280be6db64ad0c341",
+   "titleKorean": "유체 기계 — 유압 기계와 회로",
+   "subjectKorean": "유체 기계",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "유압 기계와 회로",
+   "summary": "유체 기계의 유압 기계와 회로 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.4acd49c92b093a5d1e2e",
+    "kr.topic.2022.high.5f52d1d057ca95ae907d",
+    "kr.topic.2022.high.7699ee897e68bbfa8011",
+    "kr.topic.2022.high.89040193e1bc3f0a7df2",
+    "kr.topic.2022.high.d66aa30635019bdd7c12"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.22c8e17967137d890a",
+   "titleKorean": "자동차 기관 — 친환경 자동차",
+   "subjectKorean": "자동차 기관",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "친환경 자동차",
+   "summary": "자동차 기관의 친환경 자동차 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.2d387c96d2c478ddf3d9",
+    "kr.topic.2022.high.3b022abd7e839e71ed22",
+    "kr.topic.2022.high.3e88032e3a8dfbfbdea1",
+    "kr.topic.2022.high.5adb19312d763cfb0d85",
+    "kr.topic.2022.high.721aebdd97297d383038",
+    "kr.topic.2022.high.c71f5a491f12e7a681d0",
+    "kr.topic.2022.high.dbd140eda35b8bb8c457",
+    "kr.topic.2022.high.ee8cc126c6266ad05b1e",
+    "kr.topic.2022.high.fe4576b287fe7687aa12"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.232118f7250b5cd578",
+   "titleKorean": "산업 설비 — 배관",
+   "subjectKorean": "산업 설비",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "배관",
+   "summary": "산업 설비의 배관 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.07c09113ac9b2b72f9de",
+    "kr.topic.2022.high.5a2045961c63b338470c",
+    "kr.topic.2022.high.5c4549ca200d12f593f6",
+    "kr.topic.2022.high.62ba3f28f096ea9c488c",
+    "kr.topic.2022.high.6cc644401b7da84e00a5",
+    "kr.topic.2022.high.7495bd6119bb80ca5845",
+    "kr.topic.2022.high.9046cb9c01306d6509a7",
+    "kr.topic.2022.high.9951ac0f05dafd1049e9",
+    "kr.topic.2022.high.a1218f5ba4c826759725",
+    "kr.topic.2022.high.c87a98c51370665ca99d",
+    "kr.topic.2022.high.d5425358ac8a571f63dc",
+    "kr.topic.2022.high.ee30246126c99dead535"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2467ece52622c3211d",
+   "titleKorean": "기계 기초 역학 — 열역학",
+   "subjectKorean": "기계 기초 역학",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "열역학",
+   "summary": "기계 기초 역학의 열역학 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.27077ebd08b38ecb093e",
+    "kr.topic.2022.high.644c06f6693bfc666de6",
+    "kr.topic.2022.high.bbc332313b5ec63f9db1",
+    "kr.topic.2022.high.db2042fe81257c689b61",
+    "kr.topic.2022.high.ff57492ba2bb074ae423"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2577973e25e3a972c7",
+   "titleKorean": "기계 기초 공작 — 측정 작업",
+   "subjectKorean": "기계 기초 공작",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "측정 작업",
+   "summary": "기계 기초 공작의 측정 작업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.211c9a9e152a4d991ab2",
+    "kr.topic.2022.high.589ad41e504c884ed25f",
+    "kr.topic.2022.high.739bae953d322fa7c62b",
+    "kr.topic.2022.high.7e6d0015a6c65848ca62",
+    "kr.topic.2022.high.8ea2c89679aa2e5e3e74",
+    "kr.topic.2022.high.aaec27cffe2056ee047c",
+    "kr.topic.2022.high.b8b68ed56a9fb231012f",
+    "kr.topic.2022.high.bba5f540169c02b8fc70",
+    "kr.topic.2022.high.bf03c3cf093ebcdbfcd1",
+    "kr.topic.2022.high.c32419f75f2f61cca6b8",
+    "kr.topic.2022.high.cd7fb98e427dc57a4d80",
+    "kr.topic.2022.high.f8cc17f2c6d0629803df"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.26a90761e1b9d6a29d",
+   "titleKorean": "전자 기계 이론 — 전자 기계",
+   "subjectKorean": "전자 기계 이론",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "전자 기계",
+   "summary": "전자 기계 이론의 전자 기계 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.135ea5d173d67ffc9f92",
+    "kr.topic.2022.high.224305a2d0c670297afd",
+    "kr.topic.2022.high.a41089264a1c79f008c7",
+    "kr.topic.2022.high.a8564653d3907329bada",
+    "kr.topic.2022.high.b2926c3ac98239f9eef3",
+    "kr.topic.2022.high.f02f1edf55143e5c3a15"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.29ed54e441e63bf0f2",
+   "titleKorean": "냉동 공조 일반 — 자동 제어 장치",
+   "subjectKorean": "냉동 공조 일반",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "자동 제어 장치",
+   "summary": "냉동 공조 일반의 자동 제어 장치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.0e4858476fc6277f52b7",
+    "kr.topic.2022.high.4131ec21ab6d86143220",
+    "kr.topic.2022.high.c5a7b7f2a4bdfb2451e2"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2c8404fe90a0b1a895",
+   "titleKorean": "기계 기초 역학 — 정역학",
+   "subjectKorean": "기계 기초 역학",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "정역학",
+   "summary": "기계 기초 역학의 정역학 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.0467f8fc754b9eb873d5",
+    "kr.topic.2022.high.541eb29a81956e32683d",
+    "kr.topic.2022.high.763103c0bdb3d5af3bd6",
+    "kr.topic.2022.high.84fbf7e22a580b9295f1",
+    "kr.topic.2022.high.ee04d8dcc237ecc5c95f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3120d8166b81391dfd",
+   "titleKorean": "자동차 기관 — 자동차 기관 본체",
+   "subjectKorean": "자동차 기관",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "자동차 기관 본체",
+   "summary": "자동차 기관의 자동차 기관 본체 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.0e0cf467c70b48a1809a",
+    "kr.topic.2022.high.23f38de9302e436604d7",
+    "kr.topic.2022.high.4539bc0ef31a0a340d37",
+    "kr.topic.2022.high.75bdcfd0725d3a1d8524",
+    "kr.topic.2022.high.7778544b73edbd215003",
+    "kr.topic.2022.high.cc1789dde64f03ea797a",
+    "kr.topic.2022.high.e6879106f03f260254b4",
+    "kr.topic.2022.high.f47ed0394aa0de10825c",
+    "kr.topic.2022.high.f86f0dd525eba0ccff66"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.36423a8f18b0173fcd",
+   "titleKorean": "항공기 실무 기초 — 항공기 시스템",
+   "subjectKorean": "항공기 실무 기초",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "항공기 시스템",
+   "summary": "항공기 실무 기초의 항공기 시스템 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.17b9bb2f9807eed0bc3f",
+    "kr.topic.2022.high.1feae6b37d7d5b7d56d0",
+    "kr.topic.2022.high.289f6967df7f044f129d",
+    "kr.topic.2022.high.2962ae5dc07b59dae070",
+    "kr.topic.2022.high.49786d66c5754dde0eca",
+    "kr.topic.2022.high.52999a607ac91aadbfc1",
+    "kr.topic.2022.high.6cd32322118de863cf5f",
+    "kr.topic.2022.high.771adbdb59490811c64c",
+    "kr.topic.2022.high.9067e3ffb708119ff80a",
+    "kr.topic.2022.high.a27332fb75827861cd80",
+    "kr.topic.2022.high.da3f0aa817fba76f9e18",
+    "kr.topic.2022.high.fb3d2e1815ded2311d4f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.364623e175b18cff93",
+   "titleKorean": "기계 제도 — 영역 09",
+   "subjectKorean": "기계 제도",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 09",
+   "summary": "기계 제도의 영역 09 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.c833db8e9220cb1907da",
+    "kr.topic.2022.high.edd4efa29f3db07c4470"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.36dc6ec869ed475853",
+   "titleKorean": "선박 구조 — 전용선 및 특수선의 선체 구조",
+   "subjectKorean": "선박 구조",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "전용선 및 특수선의 선체 구조",
+   "summary": "선박 구조의 전용선 및 특수선의 선체 구조 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.0f782877c210a4741132",
+    "kr.topic.2022.high.3ab391bfd4e39e542611"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.37c6589cbd9a4ea7ba",
+   "titleKorean": "유체 기계 — 유체 기계의 개요",
+   "subjectKorean": "유체 기계",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "유체 기계의 개요",
+   "summary": "유체 기계의 유체 기계의 개요 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.b897b029726c07ba8da6",
+    "kr.topic.2022.high.dd66bc10a290da4ffb78",
+    "kr.topic.2022.high.fba14a0f4602359767b0"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.37ce1b7af339c1ba7c",
+   "titleKorean": "산업 설비 — 가스 용접과 절단",
+   "subjectKorean": "산업 설비",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "가스 용접과 절단",
+   "summary": "산업 설비의 가스 용접과 절단 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.2da23a7fe4cf38bd5351",
+    "kr.topic.2022.high.4915983d51f4c7dfe6eb",
+    "kr.topic.2022.high.586a696757d16fa9c392",
+    "kr.topic.2022.high.6ae97b722f3fd9e7fcd8",
+    "kr.topic.2022.high.6e4fb6c5d888e7dba929",
+    "kr.topic.2022.high.9a4c0466ec6736d51124",
+    "kr.topic.2022.high.bbd7a4eacdea239d22f8",
+    "kr.topic.2022.high.c4766d86ea9fde8fb212",
+    "kr.topic.2022.high.c9a4b6f218d5be753834",
+    "kr.topic.2022.high.d28a3e2ed09e6eab4766",
+    "kr.topic.2022.high.f4398bf0effe150857af",
+    "kr.topic.2022.high.ff3012243418bc9a11f7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3b83b2c4a744666f6c",
+   "titleKorean": "기계 제도 — 영역 08",
+   "subjectKorean": "기계 제도",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 08",
+   "summary": "기계 제도의 영역 08 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.a268ec03ac43b656f16a",
+    "kr.topic.2022.high.c2ca44b715c928e6da52",
+    "kr.topic.2022.high.f5a9250809d4e989db44"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3fd382ec795c024c2a",
+   "titleKorean": "자동차 전기·전자 제어 — 자동차 전기·전자 회로",
+   "subjectKorean": "자동차 전기·전자 제어",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "자동차 전기·전자 회로",
+   "summary": "자동차 전기·전자 제어의 자동차 전기·전자 회로 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.125ca5f4ba7b77a5eb08",
+    "kr.topic.2022.high.205c294a2132fc72d923",
+    "kr.topic.2022.high.bc2ed1d85683c619a88f",
+    "kr.topic.2022.high.c619c2e8b4efee83a291",
+    "kr.topic.2022.high.f9c55ae2e456b466d50c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.417dd6d7efadd50e0c",
+   "titleKorean": "전자 기계 이론 — 액추에이터",
+   "subjectKorean": "전자 기계 이론",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "액추에이터",
+   "summary": "전자 기계 이론의 액추에이터 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.0eb211122a616f5457bf",
+    "kr.topic.2022.high.1018901f98f1af162fad",
+    "kr.topic.2022.high.30a4e72853320ed0c44f",
+    "kr.topic.2022.high.38f4dded92f9325187da",
+    "kr.topic.2022.high.64c8a26e685de6f4f149",
+    "kr.topic.2022.high.665f10f57afab169138a",
+    "kr.topic.2022.high.80b33580c01b1b0a6810",
+    "kr.topic.2022.high.99868312abdd2c079d4f",
+    "kr.topic.2022.high.a10ef782bf9328520189",
+    "kr.topic.2022.high.dcfd25418ecf58780440"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.420226963cd91fefec",
+   "titleKorean": "기계 제도 — 영역 07",
+   "subjectKorean": "기계 제도",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 07",
+   "summary": "기계 제도의 영역 07 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.3d03151d838ebec87c54",
+    "kr.topic.2022.high.a2823cbb72640a818257",
+    "kr.topic.2022.high.e0b135acf1d2f15d7544"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.44bd0402bf751b42c4",
+   "titleKorean": "선박 구조 — 선박에 작용하는 힘과 강도",
+   "subjectKorean": "선박 구조",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "선박에 작용하는 힘과 강도",
+   "summary": "선박 구조의 선박에 작용하는 힘과 강도 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.0e50267a0bd9f3c59364",
+    "kr.topic.2022.high.2dd1e46f2d36d10dc2fd",
+    "kr.topic.2022.high.e7428ace2d8c6e05701d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4f1f613da646b675c7",
+   "titleKorean": "항공기 일반 — 우주 산업의 개요",
+   "subjectKorean": "항공기 일반",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "우주 산업의 개요",
+   "summary": "항공기 일반의 우주 산업의 개요 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.13f48af9a52477b48b8e",
+    "kr.topic.2022.high.445866e0e97b5a928812",
+    "kr.topic.2022.high.75f01edff8c21a96e23f",
+    "kr.topic.2022.high.76cc970a4d1409b80d82",
+    "kr.topic.2022.high.7aae9cd46b2a4ced11e0",
+    "kr.topic.2022.high.82969b63949b13e9897d",
+    "kr.topic.2022.high.8bf376079c330bf853e7",
+    "kr.topic.2022.high.8fa7c4ff004fd2b5e2f1",
+    "kr.topic.2022.high.aa60c8ad470f59403531",
+    "kr.topic.2022.high.fb5c7d91f1aaa13dc157"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4f9125c85d685cd704",
+   "titleKorean": "선박 이론 — 친환경 선박",
+   "subjectKorean": "선박 이론",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "친환경 선박",
+   "summary": "선박 이론의 친환경 선박 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.1d831f45d711aa4267db",
+    "kr.topic.2022.high.fe269dbb20aaaf1c7c0b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4febf38f3531bf50fe",
+   "titleKorean": "전자 기계 이론 — 센서",
+   "subjectKorean": "전자 기계 이론",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "센서",
+   "summary": "전자 기계 이론의 센서 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.00bb4b840f2ecef8113c",
+    "kr.topic.2022.high.15e45024a788c54e08f6",
+    "kr.topic.2022.high.19996fe32916629b25f2",
+    "kr.topic.2022.high.43d80b996c1e7a13ff1c",
+    "kr.topic.2022.high.6e971926d255198d8858",
+    "kr.topic.2022.high.8ba06bdb51667834fd54",
+    "kr.topic.2022.high.8d2bfe19c94d9e6c2df0",
+    "kr.topic.2022.high.a2d69495b724dbd1b43f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.507bf533039783c232",
+   "titleKorean": "자동차 기관 — 전자 제어 연료 장치",
+   "subjectKorean": "자동차 기관",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "전자 제어 연료 장치",
+   "summary": "자동차 기관의 전자 제어 연료 장치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.002a989c3329a2c59e02",
+    "kr.topic.2022.high.0a87ddd35f022e6b2f52",
+    "kr.topic.2022.high.4f30a461b15b39c74420",
+    "kr.topic.2022.high.54e0e13e416031b20f27",
+    "kr.topic.2022.high.6c9644545d6a1daa6c74",
+    "kr.topic.2022.high.712a92acc3df3222b099",
+    "kr.topic.2022.high.780162b9c3aaa4028130",
+    "kr.topic.2022.high.8e17a0d645169943691a",
+    "kr.topic.2022.high.c1b028c6a5ffd0071c4a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5217fdc7dd168ee40c",
+   "titleKorean": "자동차 전기·전자 제어 — 최신 자동차 전기·전자 기술",
+   "subjectKorean": "자동차 전기·전자 제어",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "최신 자동차 전기·전자 기술",
+   "summary": "자동차 전기·전자 제어의 최신 자동차 전기·전자 기술 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.833844218b37695e54b2",
+    "kr.topic.2022.high.a86e4c04c5e0c1a3177b",
+    "kr.topic.2022.high.c704b4b7f87f1c7899e4",
+    "kr.topic.2022.high.e8e738f26b2ba2bedb06"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.52ad1a25ed2604a9c2",
+   "titleKorean": "선체 도면 독도와 제도 — 선체 도면 독도의 개요",
+   "subjectKorean": "선체 도면 독도와 제도",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "선체 도면 독도의 개요",
+   "summary": "선체 도면 독도와 제도의 선체 도면 독도의 개요 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.53551a80dc68f4265dbd",
+    "kr.topic.2022.high.bcfd75e5d33aa6f65bf8"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.536df8994e4d84c6e5",
+   "titleKorean": "기계 기초 공작 — 밀링 작업",
+   "subjectKorean": "기계 기초 공작",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "밀링 작업",
+   "summary": "기계 기초 공작의 밀링 작업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.1671048469be161d0666",
+    "kr.topic.2022.high.6f047c6e8e5423980c36",
+    "kr.topic.2022.high.93ac7545256b1562804e",
+    "kr.topic.2022.high.acf69f44c82b1faa63c6",
+    "kr.topic.2022.high.b2b895b6720eea8194a6",
+    "kr.topic.2022.high.bc77df0a3c817ae45cc9",
+    "kr.topic.2022.high.da3b9b18a2d38b1e42c0",
+    "kr.topic.2022.high.def33e47d1a4a7ae9688"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5589be62987c39d675",
+   "titleKorean": "유체 기계 — 펌프",
+   "subjectKorean": "유체 기계",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "펌프",
+   "summary": "유체 기계의 펌프 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.48a432c03c7b0f0d83c3",
+    "kr.topic.2022.high.72dd10a3c3ceaf45a996",
+    "kr.topic.2022.high.86810d02df0f27826353",
+    "kr.topic.2022.high.a67f738b235e2275b6ce",
+    "kr.topic.2022.high.cc2f1f50224a87bb3679"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.56f6449f05abd59c44",
+   "titleKorean": "자동차 기관 — 자동차 기관 개요",
+   "subjectKorean": "자동차 기관",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "자동차 기관 개요",
+   "summary": "자동차 기관의 자동차 기관 개요 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.0cd9eef3a91e72ca1135",
+    "kr.topic.2022.high.255fde797eadfa9822ba",
+    "kr.topic.2022.high.277b7e817ccdb2d60484",
+    "kr.topic.2022.high.427549cc1b452f831a9f",
+    "kr.topic.2022.high.5b65fcf2bf3952976018",
+    "kr.topic.2022.high.bc384c9ed70c5b83ff4f",
+    "kr.topic.2022.high.c67ae0fb466e859e046f",
+    "kr.topic.2022.high.de2ce7f49232b8da02e9",
+    "kr.topic.2022.high.f93f8621b45bcb5d31f2"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5802ddbbbb20607ea4",
+   "titleKorean": "자동차 일반 — 내연 기관",
+   "subjectKorean": "자동차 일반",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "내연 기관",
+   "summary": "자동차 일반의 내연 기관 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.146fca4be6f23ce7779a",
+    "kr.topic.2022.high.1f686a32d3433698f096",
+    "kr.topic.2022.high.2436556846b679dcd244",
+    "kr.topic.2022.high.c51a2a7e95206c247038"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5bb3a94a5f1e2ba1eb",
+   "titleKorean": "항공기 일반 — 항공기의 구성",
+   "subjectKorean": "항공기 일반",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "항공기의 구성",
+   "summary": "항공기 일반의 항공기의 구성 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.17993e94f0bc9bccc00c",
+    "kr.topic.2022.high.19b4d831a0bc666b59de",
+    "kr.topic.2022.high.35ad06185e34633437d9",
+    "kr.topic.2022.high.5d519c11063d3885170d",
+    "kr.topic.2022.high.5e68d7cf749ad1363370",
+    "kr.topic.2022.high.7751ac9aba24c29f9f12",
+    "kr.topic.2022.high.822dfc9cc6a55300bd10",
+    "kr.topic.2022.high.8c9c1bf18c1e72b13407",
+    "kr.topic.2022.high.908cdc4fb4662fd80e9a",
+    "kr.topic.2022.high.b8a90ec82b92838319e3",
+    "kr.topic.2022.high.f7d28c6828306f3e7ca0"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5c6ad8fa6fe0bbc261",
+   "titleKorean": "기계 제도 — 영역 06",
+   "subjectKorean": "기계 제도",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 06",
+   "summary": "기계 제도의 영역 06 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.79de0eb7fd4a23558c5d",
+    "kr.topic.2022.high.bbb00dddbc419f97685a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5ecee9520be1b5924a",
+   "titleKorean": "자동차 전기·전자 제어 — 시동 장치",
+   "subjectKorean": "자동차 전기·전자 제어",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "시동 장치",
+   "summary": "자동차 전기·전자 제어의 시동 장치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.35fd900a8815f48285e3",
+    "kr.topic.2022.high.36dd92791ed909a8ee94",
+    "kr.topic.2022.high.c9a4d0136ff794a7dfbd",
+    "kr.topic.2022.high.cd0c58966814c7f1bbee",
+    "kr.topic.2022.high.cf448242b9aeb299a882",
+    "kr.topic.2022.high.d19698b1015d49167575"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.60790a47a4997fe175",
+   "titleKorean": "자동차 전기·전자 제어 — 영역 06",
+   "subjectKorean": "자동차 전기·전자 제어",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 06",
+   "summary": "자동차 전기·전자 제어의 영역 06 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.6b30335bb8efcbf20aee",
+    "kr.topic.2022.high.a4d57aff9fdfb60da1fc"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.62f810191f789684dc",
+   "titleKorean": "기계 기초 공작 — 선반 작업",
+   "subjectKorean": "기계 기초 공작",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "선반 작업",
+   "summary": "기계 기초 공작의 선반 작업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.138a79800968ea110b5f",
+    "kr.topic.2022.high.16783e6638dea546b4cb",
+    "kr.topic.2022.high.1aea7a9384d86af0ff02",
+    "kr.topic.2022.high.30fc57889b1bca4a433f",
+    "kr.topic.2022.high.3ede92bcac56ec41b1d0",
+    "kr.topic.2022.high.5115385ac4e11351dbb2",
+    "kr.topic.2022.high.7e4ee14f4696b353fd62",
+    "kr.topic.2022.high.a711ad2cac937b7c25c4",
+    "kr.topic.2022.high.b6d2df23887867441c54",
+    "kr.topic.2022.high.cd628d62396ca427de34",
+    "kr.topic.2022.high.d93e5ed4a6a608f67794",
+    "kr.topic.2022.high.d9512225bf4d5e9c9aae"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.63ed2f0ed7e05e9320",
+   "titleKorean": "선박 이론 — 선박의 기초 이론",
+   "subjectKorean": "선박 이론",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "선박의 기초 이론",
+   "summary": "선박 이론의 선박의 기초 이론 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.3288eaaf975f98a882f5",
+    "kr.topic.2022.high.34b1ceddbe1f65f8852f",
+    "kr.topic.2022.high.b90bfbf550b9e27db6d4",
+    "kr.topic.2022.high.dedd71a7c3cc809e9438"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.63f3057dc5c2898591",
+   "titleKorean": "항공기 일반 — 항공기의 운항",
+   "subjectKorean": "항공기 일반",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "항공기의 운항",
+   "summary": "항공기 일반의 항공기의 운항 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.19a3144c440e357dd4c1",
+    "kr.topic.2022.high.34cfda55bb69f4b6f35f",
+    "kr.topic.2022.high.91710f486cb73dff42b7",
+    "kr.topic.2022.high.c2543f89ed1e341584af",
+    "kr.topic.2022.high.c95e9eec89518257b7b1",
+    "kr.topic.2022.high.da4fff63055595da9e61",
+    "kr.topic.2022.high.fb3354f62006245be5af"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.64729cdc9cd4e21319",
+   "titleKorean": "항공기 일반 — 항공기의 비행",
+   "subjectKorean": "항공기 일반",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "항공기의 비행",
+   "summary": "항공기 일반의 항공기의 비행 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.010de3245ce731ef506c",
+    "kr.topic.2022.high.4d9344ce13c0243931e1",
+    "kr.topic.2022.high.5529dba8894eecdd2f34",
+    "kr.topic.2022.high.59589daea55c985dc08d",
+    "kr.topic.2022.high.94a3f43e34b50f3b52cd",
+    "kr.topic.2022.high.a1896e7c66e3a78512d1",
+    "kr.topic.2022.high.a251926357bd48e8792d",
+    "kr.topic.2022.high.f46b04906a48a22416c2",
+    "kr.topic.2022.high.fcc345f891c0a7f1b138"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6651fced6deaf88bfc",
+   "titleKorean": "항공기 일반 — 항공 역학의 기초",
+   "subjectKorean": "항공기 일반",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "항공 역학의 기초",
+   "summary": "항공기 일반의 항공 역학의 기초 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.293ddccb486453c8122f",
+    "kr.topic.2022.high.29638b04bf3b82ec6f0c",
+    "kr.topic.2022.high.699bba9848e99f1cbd82",
+    "kr.topic.2022.high.791d8549ccc7584570c6",
+    "kr.topic.2022.high.7e416bbbe8957adbfaa6",
+    "kr.topic.2022.high.926d44ac0005b92f1aed",
+    "kr.topic.2022.high.ba7d17b23601935de48d",
+    "kr.topic.2022.high.bd5caa6876409ee64feb",
+    "kr.topic.2022.high.da1bc756c0579d739442",
+    "kr.topic.2022.high.e52d10493a78cb739f4b",
+    "kr.topic.2022.high.fbac79e329c3c810bdf2",
+    "kr.topic.2022.high.fd8c7707792edf619005"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.675577afe208d18476",
+   "titleKorean": "자동차 기관 — 윤활 및 냉각 장치",
+   "subjectKorean": "자동차 기관",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "윤활 및 냉각 장치",
+   "summary": "자동차 기관의 윤활 및 냉각 장치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.0e3cc7a40d7e5af69404",
+    "kr.topic.2022.high.366675f9394ecf6e4e29",
+    "kr.topic.2022.high.3aeab4f4d94755ae0dae",
+    "kr.topic.2022.high.6052f5fbed1fe2302e25",
+    "kr.topic.2022.high.62cbba4dca0aa0f5c598",
+    "kr.topic.2022.high.c714620dcf877ef05df7",
+    "kr.topic.2022.high.c7dbf66182dea9a9ac1a",
+    "kr.topic.2022.high.cd3c5c59b112d9d6f11c",
+    "kr.topic.2022.high.f0ab5c4b2a6f8eebe7ab"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6e881cb37a59c9db16",
+   "titleKorean": "기계 제도 — 도면 검사 및 관리",
+   "subjectKorean": "기계 제도",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "도면 검사 및 관리",
+   "summary": "기계 제도의 도면 검사 및 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.36b30b2274f90f6efbc9",
+    "kr.topic.2022.high.3afb3239b73bdd28314a",
+    "kr.topic.2022.high.5fdf1f15584f5172de87",
+    "kr.topic.2022.high.87ca408a3c92f2cbb9b6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6ebf52fa5abe5800c6",
+   "titleKorean": "기계 기초 공작 — 조립 작업",
+   "subjectKorean": "기계 기초 공작",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "조립 작업",
+   "summary": "기계 기초 공작의 조립 작업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.075f9182c06aa6121a3a",
+    "kr.topic.2022.high.0b0d35d4c615cc79589d",
+    "kr.topic.2022.high.17dc1136585bdf9518ec",
+    "kr.topic.2022.high.2118e3dc7b541e4beaff",
+    "kr.topic.2022.high.31f9a3bb15f4e63bbc5c",
+    "kr.topic.2022.high.4a55eef55cbbd8ea39e9",
+    "kr.topic.2022.high.6aa30e276f186b6cf5c3",
+    "kr.topic.2022.high.8ee056cafe781e923bef",
+    "kr.topic.2022.high.a3c38100f5590230ab9b",
+    "kr.topic.2022.high.a600a3eb27dbb914ac4e",
+    "kr.topic.2022.high.d056a097e65610c7dfdc",
+    "kr.topic.2022.high.ea9cf89bc7683c15d55e",
+    "kr.topic.2022.high.eada1207e3d1a9b86f8f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.72819687580af2338a",
+   "titleKorean": "산업 설비 — 영역 05",
+   "subjectKorean": "산업 설비",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "산업 설비의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.21dd6da07f10a3cadd90",
+    "kr.topic.2022.high.27e58aeec6c66cbfc865",
+    "kr.topic.2022.high.5222860f81f882051751",
+    "kr.topic.2022.high.8af5811461ac3ea36c7f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.73b0349b16c79b29b9",
+   "titleKorean": "전자 기계 이론 — 기계 설계 및 제작",
+   "subjectKorean": "전자 기계 이론",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "기계 설계 및 제작",
+   "summary": "전자 기계 이론의 기계 설계 및 제작 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.074df97999bcbdb70742",
+    "kr.topic.2022.high.1cf550bc650246b605ea",
+    "kr.topic.2022.high.255fe35f58b4ae88aa24",
+    "kr.topic.2022.high.6bdd78f3715802cd1d72",
+    "kr.topic.2022.high.76fd40be09518add89fd",
+    "kr.topic.2022.high.7ecb20a18fc42704d1f1",
+    "kr.topic.2022.high.8d9d5661c67e5a7daf4e",
+    "kr.topic.2022.high.9e8084d8c894625a4614"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.75cf19cedb5ad7eae5",
+   "titleKorean": "항공기 실무 기초 — 항공기 엔진",
+   "subjectKorean": "항공기 실무 기초",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "항공기 엔진",
+   "summary": "항공기 실무 기초의 항공기 엔진 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.0064cba0bfdc938fdfeb",
+    "kr.topic.2022.high.1ae8c0e63762649a0249",
+    "kr.topic.2022.high.74e5eb2ba850437ae3a0",
+    "kr.topic.2022.high.830bfa1dc55b37ebc3ea",
+    "kr.topic.2022.high.b73f45f773363cf20d46",
+    "kr.topic.2022.high.d10b33fd068006917754",
+    "kr.topic.2022.high.d906c95922cbb4e5506f",
+    "kr.topic.2022.high.ec3f941dde2bdaad1867",
+    "kr.topic.2022.high.fb17e069f49b8c2aabf0"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.761893795fe6baf707",
+   "titleKorean": "선체 도면 독도와 제도 — 선박 기본도",
+   "subjectKorean": "선체 도면 독도와 제도",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "선박 기본도",
+   "summary": "선체 도면 독도와 제도의 선박 기본도 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.05114558cd309b60b17d",
+    "kr.topic.2022.high.3c252c66884a6a9850cf",
+    "kr.topic.2022.high.8e58b27007b07529fde4",
+    "kr.topic.2022.high.e8a5106cef4d2c8f5f90",
+    "kr.topic.2022.high.ea1d514f539c55c320d1"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.77426145ebc8a1af2a",
+   "titleKorean": "선박 건조 — 영역 06",
+   "subjectKorean": "선박 건조",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 06",
+   "summary": "선박 건조의 영역 06 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.04e925c255b2a67960e3",
+    "kr.topic.2022.high.3c449965d7d20673b1b8"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.78b2e7698b0333ea69",
+   "titleKorean": "냉동 공조 일반 — 열역학",
+   "subjectKorean": "냉동 공조 일반",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "열역학",
+   "summary": "냉동 공조 일반의 열역학 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.1547cb2ca4a606bd8689",
+    "kr.topic.2022.high.4c70f46e75b2d2f8faf5",
+    "kr.topic.2022.high.573152cabe7ab3f77153",
+    "kr.topic.2022.high.ca0815f6d4a5ac778e87"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7abdb07531f15bc971",
+   "titleKorean": "항공기 실무 기초 — 항공기 전자·전기·계기",
+   "subjectKorean": "항공기 실무 기초",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "항공기 전자·전기·계기",
+   "summary": "항공기 실무 기초의 항공기 전자·전기·계기 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.1ba87c2056db17c2e3e1",
+    "kr.topic.2022.high.379ac06854aec0208a41",
+    "kr.topic.2022.high.3f27ff454eea3a42a6f8",
+    "kr.topic.2022.high.551d3e8b63440c531acd",
+    "kr.topic.2022.high.652bf0bb448887e08ce1",
+    "kr.topic.2022.high.917f8fb39b67796f4190",
+    "kr.topic.2022.high.acee1d952e5aa709a8cb",
+    "kr.topic.2022.high.c152fd5ed7374e3da4f2",
+    "kr.topic.2022.high.ca66dda7cf2d05d53346",
+    "kr.topic.2022.high.e045268cbc714e7378ad",
+    "kr.topic.2022.high.e2851729ba0c3d07319d",
+    "kr.topic.2022.high.fb80b9a60564ac8aed92"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7c89be24baec2e1cd2",
+   "titleKorean": "선박 건조 — 선체 가공",
+   "subjectKorean": "선박 건조",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "선체 가공",
+   "summary": "선박 건조의 선체 가공 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.09631a8b7b734abf8c1b",
+    "kr.topic.2022.high.264eeb43a5203b4e11fe",
+    "kr.topic.2022.high.36e85524d2946c010351",
+    "kr.topic.2022.high.3f3bebc5d804140ec748",
+    "kr.topic.2022.high.6370c108b313bc268c44",
+    "kr.topic.2022.high.6b1e601ef8cde113e75e",
+    "kr.topic.2022.high.857f289970a07c208a7d",
+    "kr.topic.2022.high.a2db1e7d1915afb26729",
+    "kr.topic.2022.high.b70514ea3f9ab3af4d23",
+    "kr.topic.2022.high.bd6fcafb88c352d3f626",
+    "kr.topic.2022.high.bd90634bbd0f366b41b5",
+    "kr.topic.2022.high.bdb59e69869bddbdcfe5"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7fd93b434f522187d4",
+   "titleKorean": "자동차 일반 — 자동차 기관 정비",
+   "subjectKorean": "자동차 일반",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "자동차 기관 정비",
+   "summary": "자동차 일반의 자동차 기관 정비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.03a7b629c5f3bf60a871",
+    "kr.topic.2022.high.26b80b954d102ef4f665",
+    "kr.topic.2022.high.5d7b5bba9e56b4dfb40c",
+    "kr.topic.2022.high.7d44e8593e13d616be0e",
+    "kr.topic.2022.high.a58776464671636bf346",
+    "kr.topic.2022.high.e86ee62dfc6d00c4eeea",
+    "kr.topic.2022.high.ff73348e32b574f6af4c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.808cc37c0e4341ade8",
+   "titleKorean": "자동차 전기·전자 제어 — 점화 장치",
+   "subjectKorean": "자동차 전기·전자 제어",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "점화 장치",
+   "summary": "자동차 전기·전자 제어의 점화 장치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.20095c5687c542c24387",
+    "kr.topic.2022.high.2cbf5e1c3cc46e75fdbc",
+    "kr.topic.2022.high.5a245cb4da898ba53645",
+    "kr.topic.2022.high.5dcf0cbb3c610788f7f9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.814d05984d4239e890",
+   "titleKorean": "유체 기계 — 유체 기계의 원리",
+   "subjectKorean": "유체 기계",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "유체 기계의 원리",
+   "summary": "유체 기계의 유체 기계의 원리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.9029f4d90e3a940c79f7",
+    "kr.topic.2022.high.b6b418dfad132e232e12",
+    "kr.topic.2022.high.c58bb4e2d28fdcd19273"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.825f554cdbc78dd504",
+   "titleKorean": "선박 건조 — 영역 05",
+   "subjectKorean": "선박 건조",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "선박 건조의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.2173072d6fa6bf909514",
+    "kr.topic.2022.high.32164d50eb9a1b96eea2",
+    "kr.topic.2022.high.4439c44082b987be6252"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.82b436c639f1a518e4",
+   "titleKorean": "자동차 전기·전자 제어 — 안전장치와 편의 장치",
+   "subjectKorean": "자동차 전기·전자 제어",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "안전장치와 편의 장치",
+   "summary": "자동차 전기·전자 제어의 안전장치와 편의 장치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.4647cdc14efb943f06fa",
+    "kr.topic.2022.high.4bf0c04efb63426b25d4",
+    "kr.topic.2022.high.978fc049e27e334c3e08",
+    "kr.topic.2022.high.9c274d2ef9e699a5ec42",
+    "kr.topic.2022.high.d1ea0400ba5e08d0de63",
+    "kr.topic.2022.high.dc5dd1b9782309aec4cf"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.8492b50d1455c6e770",
+   "titleKorean": "유체 기계 — 공압 기계와 회로",
+   "subjectKorean": "유체 기계",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "공압 기계와 회로",
+   "summary": "유체 기계의 공압 기계와 회로 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.471bc7e99d63b1a3f8cc",
+    "kr.topic.2022.high.a87b44cc16af37124ef2",
+    "kr.topic.2022.high.da84db679b7a6621d5b4",
+    "kr.topic.2022.high.dad8d16fd2bf924a3e02",
+    "kr.topic.2022.high.fc8243409de2480528ea"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.86fee3ed519741debf",
+   "titleKorean": "냉동 공조 일반 — 냉동 및 공기 조화의 기초",
+   "subjectKorean": "냉동 공조 일반",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "냉동 및 공기 조화의 기초",
+   "summary": "냉동 공조 일반의 냉동 및 공기 조화의 기초 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.05fd311602933e950138",
+    "kr.topic.2022.high.a56ab4dde778308d51fe",
+    "kr.topic.2022.high.c96cc95d71b7e71a7143"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.872746468e07041c67",
+   "titleKorean": "기계 기초 공작 — 배관 작업",
+   "subjectKorean": "기계 기초 공작",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "배관 작업",
+   "summary": "기계 기초 공작의 배관 작업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.01884d485a29ac1abccb",
+    "kr.topic.2022.high.2a111996a36a0b72b42b",
+    "kr.topic.2022.high.382e98b4c3240c45a6ea",
+    "kr.topic.2022.high.5edbcf7cc068ddf76af0",
+    "kr.topic.2022.high.8d1e2ce15725fb13be5f",
+    "kr.topic.2022.high.d36adf020fae7e6604a7",
+    "kr.topic.2022.high.ec80b8b58d1548579d05",
+    "kr.topic.2022.high.f05142b21c24b7fce5de",
+    "kr.topic.2022.high.fef3560961a43ad8b85f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.87f577f894776536cc",
+   "titleKorean": "자동차 기관 — 디젤 기관 연료 장치",
+   "subjectKorean": "자동차 기관",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "디젤 기관 연료 장치",
+   "summary": "자동차 기관의 디젤 기관 연료 장치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.1c23cbb09184f744aa15",
+    "kr.topic.2022.high.37c41f5c2e81759dfbc9",
+    "kr.topic.2022.high.3bfe9855b4e130a1a29e",
+    "kr.topic.2022.high.5e65c3e03795478568bb",
+    "kr.topic.2022.high.6f17258e5711b067e4bb",
+    "kr.topic.2022.high.7f48a7d3605ce552083b",
+    "kr.topic.2022.high.8131d26e090a37858da3",
+    "kr.topic.2022.high.95ef783d106b4d6eb7de",
+    "kr.topic.2022.high.da506a0d0901ca036f2f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.886f0c5ef2de0c14c1",
+   "titleKorean": "항공기 실무 기초 — 영역 07",
+   "subjectKorean": "항공기 실무 기초",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 07",
+   "summary": "항공기 실무 기초의 영역 07 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.2e3fb45afc6681e2716c",
+    "kr.topic.2022.high.317486864e080fa7334c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.8ebf61d3b5b1f81786",
+   "titleKorean": "자동차 일반 — 자동차 파워 트레인",
+   "subjectKorean": "자동차 일반",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "자동차 파워 트레인",
+   "summary": "자동차 일반의 자동차 파워 트레인 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.413b3a9cf9cb2579c59c",
+    "kr.topic.2022.high.95a1040f99e93d45d670",
+    "kr.topic.2022.high.a2b3bf0f0956f41affb4",
+    "kr.topic.2022.high.a37496aa12ab13c6e180",
+    "kr.topic.2022.high.cc708418ef3b839a6012",
+    "kr.topic.2022.high.d9c89626812cc1c1f675",
+    "kr.topic.2022.high.e371e0a2d101922771ec"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.906761a35174fab7a9",
+   "titleKorean": "냉동 공조 일반 — 냉동 시스템의 구성 요소 기기",
+   "subjectKorean": "냉동 공조 일반",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "냉동 시스템의 구성 요소 기기",
+   "summary": "냉동 공조 일반의 냉동 시스템의 구성 요소 기기 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.11e108cdc390ee1e9147",
+    "kr.topic.2022.high.38f4a9ce3e1cfe260771",
+    "kr.topic.2022.high.8af41d399b30083bc24d",
+    "kr.topic.2022.high.c9144e4e5b225e4e6703",
+    "kr.topic.2022.high.ddd3936da0331af9ab84"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.90de3c4640e1b4b77b",
+   "titleKorean": "자동차 일반 — 친환경 자동차",
+   "subjectKorean": "자동차 일반",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "친환경 자동차",
+   "summary": "자동차 일반의 친환경 자동차 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.1e165b29ce73ae3d19c5",
+    "kr.topic.2022.high.42309fd26e48037ec3ef",
+    "kr.topic.2022.high.7c0cb72cc9e90e1d90ff"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.911dbdbc9b3d15dd06",
+   "titleKorean": "항공기 실무 기초 — 영역 05",
+   "subjectKorean": "항공기 실무 기초",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "항공기 실무 기초의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.9aef3f4a8455808c548e",
+    "kr.topic.2022.high.e824527e0630fe62d985"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9227d0f8ddca5bd6d4",
+   "titleKorean": "산업 설비 — 피복 아크 용접",
+   "subjectKorean": "산업 설비",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "피복 아크 용접",
+   "summary": "산업 설비의 피복 아크 용접 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.162ef9f18de5b08a04fc",
+    "kr.topic.2022.high.1e66da37a528b8c42d1a",
+    "kr.topic.2022.high.5e987cf583e7d55f8c2f",
+    "kr.topic.2022.high.612371f3cb7f0ab3f227",
+    "kr.topic.2022.high.6b2ee7ab65aea82a63ca",
+    "kr.topic.2022.high.6c922a7311acf3c4defd",
+    "kr.topic.2022.high.707e527f378368871fc7",
+    "kr.topic.2022.high.79a8b217c8043e4f6a13",
+    "kr.topic.2022.high.7e9adb4e059b770388ec",
+    "kr.topic.2022.high.9003a4171481ca3e3cde",
+    "kr.topic.2022.high.99bbbf5ccf053cd015c4",
+    "kr.topic.2022.high.a77d5d6df8a7fd3b72a9",
+    "kr.topic.2022.high.f52fb15f743c3fb194e3"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9346965beeaea4d34d",
+   "titleKorean": "선박 건조 — 선박 의장",
+   "subjectKorean": "선박 건조",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "선박 의장",
+   "summary": "선박 건조의 선박 의장 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.1f4351059a2cddbbc1c5",
+    "kr.topic.2022.high.21cbc87567681bf833cc",
+    "kr.topic.2022.high.4741d53005a4034bf442",
+    "kr.topic.2022.high.5563572a47167989759a",
+    "kr.topic.2022.high.6d3321fc6ae58bbeb2b2",
+    "kr.topic.2022.high.91d01cb2d565e461297f",
+    "kr.topic.2022.high.9da6b9743b0cbae62152",
+    "kr.topic.2022.high.a3784a7a6c3d332efefb",
+    "kr.topic.2022.high.a778da6c44763656da4a",
+    "kr.topic.2022.high.e5555f8bbb58c1063036",
+    "kr.topic.2022.high.fe5d39e5bd22b6861b50"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.939afa2fad3d626de6",
+   "titleKorean": "자동차 전기·전자 제어 — 그 밖의 전기 장치",
+   "subjectKorean": "자동차 전기·전자 제어",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "그 밖의 전기 장치",
+   "summary": "자동차 전기·전자 제어의 그 밖의 전기 장치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.1b5a90f6b96b20a2b33b",
+    "kr.topic.2022.high.1f0bab8d4d4849d59496",
+    "kr.topic.2022.high.2df00e5132e5a54c9cf3",
+    "kr.topic.2022.high.4abb67455c76e2567dbb",
+    "kr.topic.2022.high.9bb2ef9f6b0c66b24c21",
+    "kr.topic.2022.high.9fa39275b0c2e418e00b",
+    "kr.topic.2022.high.d3b46998ab44132f4a70"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.93fd9813e4ce10e7fc",
+   "titleKorean": "유체 기계 — 기초 유체 역학",
+   "subjectKorean": "유체 기계",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "기초 유체 역학",
+   "summary": "유체 기계의 기초 유체 역학 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.8988ed924e498a85db57",
+    "kr.topic.2022.high.8f2826335eedc2c57481",
+    "kr.topic.2022.high.aed7c402953de858fbdf"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.985a3f069cba9f0b21",
+   "titleKorean": "선박 이론 — 선박의 개요",
+   "subjectKorean": "선박 이론",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "선박의 개요",
+   "summary": "선박 이론의 선박의 개요 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.15dc4b06e305f4342b39",
+    "kr.topic.2022.high.3ce8860e78383b55b85c",
+    "kr.topic.2022.high.827b83508bdb10bf485a",
+    "kr.topic.2022.high.8614a7904c150f7c5c97"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9a45979222f0022e31",
+   "titleKorean": "기계 기초 공작 — 판금 작업",
+   "subjectKorean": "기계 기초 공작",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "판금 작업",
+   "summary": "기계 기초 공작의 판금 작업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.32274ad413cbd4b94d10",
+    "kr.topic.2022.high.42825ce607a4a032a9a2",
+    "kr.topic.2022.high.4bc542cc8fe470b27d20",
+    "kr.topic.2022.high.5d931cc0ee8bbf10396f",
+    "kr.topic.2022.high.6bcdbe00bccb6980ad30",
+    "kr.topic.2022.high.7a94ce9b00006f9326db",
+    "kr.topic.2022.high.c82f87965d7e8db046dc",
+    "kr.topic.2022.high.d1d73ab84899f2aeb776",
+    "kr.topic.2022.high.d507b71ce2abddd5b878",
+    "kr.topic.2022.high.dc8881a8ac5492c2724f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9ae4ca3a93edaaff86",
+   "titleKorean": "기계 기초 공작 — 연삭 작업",
+   "subjectKorean": "기계 기초 공작",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "연삭 작업",
+   "summary": "기계 기초 공작의 연삭 작업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.0a0fcc474b7e88e7f2c0",
+    "kr.topic.2022.high.11a2015d9df952a4f25d",
+    "kr.topic.2022.high.1c8614fd535bf19dfc15",
+    "kr.topic.2022.high.41de453b5dc154625b0d",
+    "kr.topic.2022.high.498c0e80cb2c5b02a04a",
+    "kr.topic.2022.high.538db0d254737421371b",
+    "kr.topic.2022.high.5ec3a334125294dbaa83",
+    "kr.topic.2022.high.63d18ecbc15bc8b772b5",
+    "kr.topic.2022.high.7cad5c2a192e7ae37214",
+    "kr.topic.2022.high.bb8160fd976c41563df8",
+    "kr.topic.2022.high.de9255ccf5fb0a2a656d",
+    "kr.topic.2022.high.e7aaaf933b1e4443139f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a16dc65ec1efe13a3f",
+   "titleKorean": "기계 기초 공작 — 주조 작업",
+   "subjectKorean": "기계 기초 공작",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "주조 작업",
+   "summary": "기계 기초 공작의 주조 작업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.1337e3f33ab8bf06fe42",
+    "kr.topic.2022.high.21fac61904cc57a14139",
+    "kr.topic.2022.high.483d89501806ac32da2a",
+    "kr.topic.2022.high.569988d09638243f692e",
+    "kr.topic.2022.high.78717849d5245df9081a",
+    "kr.topic.2022.high.c1742dfbc7b5a5f6e348",
+    "kr.topic.2022.high.f4a42883f793cbdde92b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a373ae3f15c47ef690",
+   "titleKorean": "선박 이론 — 선박의 성능",
+   "subjectKorean": "선박 이론",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "선박의 성능",
+   "summary": "선박 이론의 선박의 성능 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.2390a6166972683e1383",
+    "kr.topic.2022.high.31361d481cd9032f1a7a",
+    "kr.topic.2022.high.b3b145a5823a7d09c459"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a4000c2f240f7c3ec4",
+   "titleKorean": "기계 제도 — 산업 설비 제도하기",
+   "subjectKorean": "기계 제도",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "산업 설비 제도하기",
+   "summary": "기계 제도의 산업 설비 제도하기 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.0b57ebfb32700e51be99",
+    "kr.topic.2022.high.2b7823219dce8bc16b38",
+    "kr.topic.2022.high.80cb571fce370279821d",
+    "kr.topic.2022.high.d9ba8426f16721ab4a25"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a40c5757face3c2f85",
+   "titleKorean": "기계 기초 역학 — 역학의 기초",
+   "subjectKorean": "기계 기초 역학",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "역학의 기초",
+   "summary": "기계 기초 역학의 역학의 기초 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.96d3cce32d8e50290dc3",
+    "kr.topic.2022.high.b3018a9c739a551f1141",
+    "kr.topic.2022.high.f1ccfcae5b132cc1481e",
+    "kr.topic.2022.high.f6d4dd9b4e40a1f364b5"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a4b3cc3db98608b939",
+   "titleKorean": "항공기 실무 기초 — 영역 04",
+   "subjectKorean": "항공기 실무 기초",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 04",
+   "summary": "항공기 실무 기초의 영역 04 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.08616388cfe4f90715c2",
+    "kr.topic.2022.high.6c24d8510f30f88fb5a9",
+    "kr.topic.2022.high.745f888c328110a33f35",
+    "kr.topic.2022.high.b2bf3545d59c7de605b9",
+    "kr.topic.2022.high.bdd8797baf813756327d",
+    "kr.topic.2022.high.d69cb903531d8248e73a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a536f613d3f894484e",
+   "titleKorean": "선박 건조 — 진수",
+   "subjectKorean": "선박 건조",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "진수",
+   "summary": "선박 건조의 진수 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.445b35eea447b6db0ff8",
+    "kr.topic.2022.high.50446536630c9a710d2c",
+    "kr.topic.2022.high.f2b2ebab57d00c2e2803"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a78df570882909b7bd",
+   "titleKorean": "선체 도면 독도와 제도 — 선박 생산도",
+   "subjectKorean": "선체 도면 독도와 제도",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "선박 생산도",
+   "summary": "선체 도면 독도와 제도의 선박 생산도 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.6eeab513443097646d62",
+    "kr.topic.2022.high.a7ae9417fec7bb959fdb",
+    "kr.topic.2022.high.cd4454c3696ca0f9b4a4"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.aed651425a3f829cc2",
+   "titleKorean": "자동차 섀시 — 동력 전달 장치",
+   "subjectKorean": "자동차 섀시",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "동력 전달 장치",
+   "summary": "자동차 섀시의 동력 전달 장치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.26a61c8a7520a22967f5",
+    "kr.topic.2022.high.60aa465d4c141862a6dd",
+    "kr.topic.2022.high.6bf25e56f0896da98bd7",
+    "kr.topic.2022.high.6e711f9ea0ef81344fb3",
+    "kr.topic.2022.high.ce12b417a6c3840f4b93",
+    "kr.topic.2022.high.deb108d50fd1f391933f",
+    "kr.topic.2022.high.eaa036cbaad0c76d0e67",
+    "kr.topic.2022.high.f65f111d9629e538affd"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b058224d73124ae04f",
+   "titleKorean": "자동차 섀시 — 바퀴 정렬과 타이어",
+   "subjectKorean": "자동차 섀시",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "바퀴 정렬과 타이어",
+   "summary": "자동차 섀시의 바퀴 정렬과 타이어 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.0ffc32401c00e504e2a4",
+    "kr.topic.2022.high.5fe26a6dc5a8fb18d250",
+    "kr.topic.2022.high.6119f185b333364b7df2"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b5d00e698ab8282627",
+   "titleKorean": "선박 건조 — 선체 조립",
+   "subjectKorean": "선박 건조",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "선체 조립",
+   "summary": "선박 건조의 선체 조립 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.168f9b0ab9a93c4f00f7",
+    "kr.topic.2022.high.1c67931de17f8f81892a",
+    "kr.topic.2022.high.2175867e08b7b082d99e",
+    "kr.topic.2022.high.40996360da2f6661e7a1",
+    "kr.topic.2022.high.62171ec1b818c4821e5d",
+    "kr.topic.2022.high.696382651533fe701ed1",
+    "kr.topic.2022.high.7155e2c463a05fb2041e",
+    "kr.topic.2022.high.7e6245ee66de1f83560f",
+    "kr.topic.2022.high.d37ab9a87788dd7a6531",
+    "kr.topic.2022.high.f40cb11173dc1ccb5c3f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b8cb38163f7bb8eb82",
+   "titleKorean": "선박 건조 — 선박 건조의 기초",
+   "subjectKorean": "선박 건조",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "선박 건조의 기초",
+   "summary": "선박 건조의 선박 건조의 기초 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.1b172467ccf8cc52ff75",
+    "kr.topic.2022.high.3a1126866b78ed4c59ec",
+    "kr.topic.2022.high.98b4baae83723c0c13f6",
+    "kr.topic.2022.high.9bb99857ee513b885113",
+    "kr.topic.2022.high.acdb61594d524e977f32",
+    "kr.topic.2022.high.b9846e473ac548d40274",
+    "kr.topic.2022.high.c67338496c2966bc982f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b9d6658b07ce1abc4e",
+   "titleKorean": "기계 일반 — 기계 재료 및 기계공작",
+   "subjectKorean": "기계 일반",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "기계 재료 및 기계공작",
+   "summary": "기계 일반의 기계 재료 및 기계공작 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.5eb5e5e9e3834d5beb02",
+    "kr.topic.2022.high.a51b59efb0e57fcd42d7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ba22b2be71ae84efb9",
+   "titleKorean": "선박 건조 — 시운전",
+   "subjectKorean": "선박 건조",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "시운전",
+   "summary": "선박 건조의 시운전 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.6c96a609c1851c943bd4",
+    "kr.topic.2022.high.a9de7ca48e30ef8faea5"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c08a7a12ebb86eeeeb",
+   "titleKorean": "자동차 일반 — 자동차 섀시",
+   "subjectKorean": "자동차 일반",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "자동차 섀시",
+   "summary": "자동차 일반의 자동차 섀시 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.03156c48eb16dc85e9b4",
+    "kr.topic.2022.high.5f99a78e489f832f7065",
+    "kr.topic.2022.high.8653c085e043e5280a45",
+    "kr.topic.2022.high.c92d80e2b673a45993d2"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c320c8dcc579ba0dd0",
+   "titleKorean": "항공기 실무 기초 — 영역 06",
+   "subjectKorean": "항공기 실무 기초",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 06",
+   "summary": "항공기 실무 기초의 영역 06 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.5ec4a7208f2ae0e3df38",
+    "kr.topic.2022.high.75920cbe33a7fada0ef1"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c3704db688c1dc6ae2",
+   "titleKorean": "선체 도면 독도와 제도 — 캐드를 이용한 선박 제도",
+   "subjectKorean": "선체 도면 독도와 제도",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "캐드를 이용한 선박 제도",
+   "summary": "선체 도면 독도와 제도의 캐드를 이용한 선박 제도 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.3b2310016b1fc3937e07",
+    "kr.topic.2022.high.538a23d781148bacf81f",
+    "kr.topic.2022.high.8fcb34e75dc5b13d369a",
+    "kr.topic.2022.high.d20946fc4b07fca4cbd3"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c6777fc78cd655d2d6",
+   "titleKorean": "자동차 전기·전자 제어 — 충전 장치",
+   "subjectKorean": "자동차 전기·전자 제어",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "충전 장치",
+   "summary": "자동차 전기·전자 제어의 충전 장치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.1d9021db925d859a65b9",
+    "kr.topic.2022.high.8441efad05038f7c9d0d",
+    "kr.topic.2022.high.844af49b84be66b8ade6",
+    "kr.topic.2022.high.85a93ff474e1429d6338",
+    "kr.topic.2022.high.b78bc68e197ded05d350",
+    "kr.topic.2022.high.c387c356c0dc53853101"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.cb2997f9286d5b09a7",
+   "titleKorean": "자동차 섀시 — 차축 및 조향 장치",
+   "subjectKorean": "자동차 섀시",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "차축 및 조향 장치",
+   "summary": "자동차 섀시의 차축 및 조향 장치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.13e88448e18e50ddde75",
+    "kr.topic.2022.high.6754c6f7ae99cef8bbea",
+    "kr.topic.2022.high.98f355f198f4288545f5",
+    "kr.topic.2022.high.b7a9faf7552da63f60a9",
+    "kr.topic.2022.high.cd9db1960bfc29c958f3",
+    "kr.topic.2022.high.ced868ed9bd1fbc83bf0",
+    "kr.topic.2022.high.f376e0f166fde9a72bc6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ce7c2d8cd29909394e",
+   "titleKorean": "산업 설비 — 이산화탄소 용접",
+   "subjectKorean": "산업 설비",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "이산화탄소 용접",
+   "summary": "산업 설비의 이산화탄소 용접 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.1f1a84a1ff19802a487a",
+    "kr.topic.2022.high.30980a408496c565ab1a",
+    "kr.topic.2022.high.32354e921b439f8e5425",
+    "kr.topic.2022.high.7137fb7cbb663acc3952",
+    "kr.topic.2022.high.aef40681952a827e372e",
+    "kr.topic.2022.high.f9ec446f78b31a79eae5"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ce8e498dbdc9472700",
+   "titleKorean": "자동차 전기·전자 제어 — 자동차 전기·전자 기초",
+   "subjectKorean": "자동차 전기·전자 제어",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "자동차 전기·전자 기초",
+   "summary": "자동차 전기·전자 제어의 자동차 전기·전자 기초 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.0cd77f4ae1ea963e9267",
+    "kr.topic.2022.high.197e60dab7d872ee0afb",
+    "kr.topic.2022.high.25477a653df8eae10925",
+    "kr.topic.2022.high.5e90e22652ecbdd6a62f",
+    "kr.topic.2022.high.80011eb7d4ee6935c8fc",
+    "kr.topic.2022.high.cb1f37028113073daa88",
+    "kr.topic.2022.high.d03cf3466ade1deec406",
+    "kr.topic.2022.high.da94f342d40533c55a5b",
+    "kr.topic.2022.high.fe9da72a7fa32e8d6827"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.cf19fbd485d43d4426",
+   "titleKorean": "자동차 섀시 — 자동차 섀시의 개요",
+   "subjectKorean": "자동차 섀시",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "자동차 섀시의 개요",
+   "summary": "자동차 섀시의 자동차 섀시의 개요 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.446c49c4ef2b74a3eed6",
+    "kr.topic.2022.high.6f1021cd29b57b27bae7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d0550c01a5e5ac4da8",
+   "titleKorean": "산업 설비 — 가스 텅스텐 아크 용접",
+   "subjectKorean": "산업 설비",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "가스 텅스텐 아크 용접",
+   "summary": "산업 설비의 가스 텅스텐 아크 용접 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.002432807fb9abb69bca",
+    "kr.topic.2022.high.9bb4712662e5a17596c9",
+    "kr.topic.2022.high.9eca6a53bd050a261afe",
+    "kr.topic.2022.high.b930ed19cd8f9065022e",
+    "kr.topic.2022.high.e4cd5bc24d7320089574",
+    "kr.topic.2022.high.fd62faa1307649fa599c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d9ca996a52ad8e6343",
+   "titleKorean": "기계 제도 — 기계 제도에 의한 도면 그리기",
+   "subjectKorean": "기계 제도",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "기계 제도에 의한 도면 그리기",
+   "summary": "기계 제도의 기계 제도에 의한 도면 그리기 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.54b86bc48cfc51be26d1",
+    "kr.topic.2022.high.7f3ff5e5a35695a93b12",
+    "kr.topic.2022.high.8123deda8e4477f081ac",
+    "kr.topic.2022.high.b547670f682503987e9e",
+    "kr.topic.2022.high.be84b77e71e449692445",
+    "kr.topic.2022.high.c3304e87b84980aff413",
+    "kr.topic.2022.high.caf25460d1da337b0219",
+    "kr.topic.2022.high.e436c3b52c7e5dbca7c6",
+    "kr.topic.2022.high.f6c9d0aef499aa4227f0"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.daf091f81dd948df4c",
+   "titleKorean": "기계 일반 — 기계 공업의 개요",
+   "subjectKorean": "기계 일반",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "기계 공업의 개요",
+   "summary": "기계 일반의 기계 공업의 개요 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.bbd72010b87854c2af8a",
+    "kr.topic.2022.high.f1753ff6ca80731a3f7f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.dc19a8af364b0d0376",
+   "titleKorean": "선박 구조 — 선박 구조의 개요",
+   "subjectKorean": "선박 구조",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "선박 구조의 개요",
+   "summary": "선박 구조의 선박 구조의 개요 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.87c4bbf362e7e205029f",
+    "kr.topic.2022.high.8a81de32d094ae6f5364",
+    "kr.topic.2022.high.bbbf5d1f875a46064ce6",
+    "kr.topic.2022.high.ecefb3ac7a4a1929a053"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.de9e7347bae317a6a5",
+   "titleKorean": "자동차 전기·전자 제어 — 영역 05",
+   "subjectKorean": "자동차 전기·전자 제어",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "자동차 전기·전자 제어의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.05c03c1aa39af676a71f",
+    "kr.topic.2022.high.552a846be287c2604260",
+    "kr.topic.2022.high.8461e2de44451c73d763",
+    "kr.topic.2022.high.bb8b6c52831ec8dcc945",
+    "kr.topic.2022.high.bc305c557f3ff8aeeaa8",
+    "kr.topic.2022.high.f92af794bff9be614ddf"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e0bd2bc0f252adf45c",
+   "titleKorean": "항공기 일반 — 항공기의 개요",
+   "subjectKorean": "항공기 일반",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "항공기의 개요",
+   "summary": "항공기 일반의 항공기의 개요 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.026fa4ced68c377a382b",
+    "kr.topic.2022.high.15ff5bb84925bc9dd903",
+    "kr.topic.2022.high.242b62529347c05b9192",
+    "kr.topic.2022.high.5cb8390d9b25253c7aae",
+    "kr.topic.2022.high.a745164635ada8e324a1",
+    "kr.topic.2022.high.b1bdecf3de273608a38e",
+    "kr.topic.2022.high.b5f4e398642fc91b4b74",
+    "kr.topic.2022.high.cdf340c500b7b5afc5e9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e4e5401fb66e31c1b0",
+   "titleKorean": "기계 제도 — 컴퓨터를 이용한 도면 그리기",
+   "subjectKorean": "기계 제도",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "컴퓨터를 이용한 도면 그리기",
+   "summary": "기계 제도의 컴퓨터를 이용한 도면 그리기 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.8af3dbd9fcec759edd22",
+    "kr.topic.2022.high.9f03ee7cbfb5414ba256",
+    "kr.topic.2022.high.a0e740c5a9895d6b16e6",
+    "kr.topic.2022.high.c58b0460655925d2af23",
+    "kr.topic.2022.high.fbf2f38629672ee10395"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e4f342f2bdcbb56b24",
+   "titleKorean": "선박 구조 — 선박의 구조",
+   "subjectKorean": "선박 구조",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "선박의 구조",
+   "summary": "선박 구조의 선박의 구조 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.015f212eeac8a4056d0c",
+    "kr.topic.2022.high.1a788d9f619e0da40a51",
+    "kr.topic.2022.high.4c35d2c8f0099899feb1",
+    "kr.topic.2022.high.f5835e92c753263c43a3"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e54e174f37bf8d3a2f",
+   "titleKorean": "전자 기계 이론 — 제어 장치",
+   "subjectKorean": "전자 기계 이론",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "제어 장치",
+   "summary": "전자 기계 이론의 제어 장치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.02064d9195e2af9ed431",
+    "kr.topic.2022.high.6e8883789a1af21b8325",
+    "kr.topic.2022.high.7280812183ebd73ed2a6",
+    "kr.topic.2022.high.76fd4ca7820b45775136",
+    "kr.topic.2022.high.79270142dcc634a00360",
+    "kr.topic.2022.high.a19c84bb8edaeecd60cb",
+    "kr.topic.2022.high.b16ee85b4d014f8d89ac",
+    "kr.topic.2022.high.b8317fbaf8bcf20cd757",
+    "kr.topic.2022.high.f0169036c1621eb81c24",
+    "kr.topic.2022.high.f6e1c698b5ff0f675498",
+    "kr.topic.2022.high.f91093cacc89213ffb56"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e5b22a61d5e1a5ca26",
+   "titleKorean": "기계 기초 공작 — 용접 작업",
+   "subjectKorean": "기계 기초 공작",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "용접 작업",
+   "summary": "기계 기초 공작의 용접 작업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.02a23c9b9d92a413ca63",
+    "kr.topic.2022.high.081a3bd46428747dc70d",
+    "kr.topic.2022.high.1276dfe958d45cab8268",
+    "kr.topic.2022.high.1c61ed54008c281d85cd",
+    "kr.topic.2022.high.54565ee5fc1648668796",
+    "kr.topic.2022.high.5577ede9a9e6be9336a3",
+    "kr.topic.2022.high.64891f6ade54a0408c29",
+    "kr.topic.2022.high.827fc4283ec9e31aaf7a",
+    "kr.topic.2022.high.9d7fc421424e43bc1597",
+    "kr.topic.2022.high.c9c6462655a32bc17c87",
+    "kr.topic.2022.high.d6a99da7a474aefd6801",
+    "kr.topic.2022.high.e145b07a8e7551f12873",
+    "kr.topic.2022.high.eb7731714c16785834b3"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.eb4386a033ffc8e798",
+   "titleKorean": "산업 설비 — 산업 설비",
+   "subjectKorean": "산업 설비",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "산업 설비",
+   "summary": "산업 설비의 산업 설비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.385cf8ac5416866b86f5",
+    "kr.topic.2022.high.490aca9689e0d7f13eb6",
+    "kr.topic.2022.high.78c259707ad4bd3402c4",
+    "kr.topic.2022.high.9e8050b24b7a239ec29c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ec68874435a7e431ec",
+   "titleKorean": "냉동 공조 일반 — 공기 조화 부하",
+   "subjectKorean": "냉동 공조 일반",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "공기 조화 부하",
+   "summary": "냉동 공조 일반의 공기 조화 부하 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.2526008372ea2a8c56cf",
+    "kr.topic.2022.high.3a4d59b9f25ec1790878",
+    "kr.topic.2022.high.d14b0d0ef4720168cb7b",
+    "kr.topic.2022.high.ff38e7b3b641451e6ffa"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f225ccef4aba306dd1",
+   "titleKorean": "항공기 실무 기초 — 항공기 기체",
+   "subjectKorean": "항공기 실무 기초",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "항공기 기체",
+   "summary": "항공기 실무 기초의 항공기 기체 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.02467375d5ee9e575811",
+    "kr.topic.2022.high.159e58a28e2cd643aea2",
+    "kr.topic.2022.high.17c07e3f1a5854f880ad",
+    "kr.topic.2022.high.283dc2cff947a4d6e5db",
+    "kr.topic.2022.high.44761c82ff2d68fccf26",
+    "kr.topic.2022.high.521bcdbde34eebc10397",
+    "kr.topic.2022.high.5d28651cdc0bd39bea96",
+    "kr.topic.2022.high.730ea12476494cc8bdb1",
+    "kr.topic.2022.high.733ce3cdcf4c1e32d0b1",
+    "kr.topic.2022.high.d5ffb8d29b5f2dc0e442"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f6d1cf63d70ac5500c",
+   "titleKorean": "기계 제도 — 기계요소 그리기",
+   "subjectKorean": "기계 제도",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "기계요소 그리기",
+   "summary": "기계 제도의 기계요소 그리기 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.0d14797dd9ed8fbd89a4",
+    "kr.topic.2022.high.0f6151b8ecc86f8be1d9",
+    "kr.topic.2022.high.14b41b427c842a57a0fc",
+    "kr.topic.2022.high.14c1c5d52ddb8531025e",
+    "kr.topic.2022.high.19831227edd8fb8249ab",
+    "kr.topic.2022.high.20b2ec4d309d2c823026",
+    "kr.topic.2022.high.3f109902de641527af9a",
+    "kr.topic.2022.high.3ffdb76b2ccfb5982687",
+    "kr.topic.2022.high.8c746ca513e89db9c928"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f7d2ae3348c7c8b1ed",
+   "titleKorean": "자동차 섀시 — 제동 장치",
+   "subjectKorean": "자동차 섀시",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "제동 장치",
+   "summary": "자동차 섀시의 제동 장치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.0ad0c14bad973ea90dac",
+    "kr.topic.2022.high.31afc0fd7fb8e2a551ff",
+    "kr.topic.2022.high.7ad69d235dc968b6ffe7",
+    "kr.topic.2022.high.8d9dd91a49c85fa4e03b",
+    "kr.topic.2022.high.a8564d27e138d2f0b450"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f92fdfd4655e42951d",
+   "titleKorean": "산업 설비 — 영역 04",
+   "subjectKorean": "산업 설비",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 04",
+   "summary": "산업 설비의 영역 04 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.00086f064043fb46e12c",
+    "kr.topic.2022.high.4e239d834286d0f5d1cb",
+    "kr.topic.2022.high.54875406273cc8a90ea7",
+    "kr.topic.2022.high.5ef81d831e64ad0f65d3",
+    "kr.topic.2022.high.912fc5e573f6919aa493"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fcef0128653303f26f",
+   "titleKorean": "선박 건조 — 탑재",
+   "subjectKorean": "선박 건조",
+   "majorFieldSlug": "machinery",
+   "gradeBand": "10-12",
+   "domainKorean": "탑재",
+   "summary": "선박 건조의 탑재 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.0d96d65588d99ccd4202",
+    "kr.topic.2022.high.a16c41a68b20b57a9913",
+    "kr.topic.2022.high.b99fa27b5fffdedda96e",
+    "kr.topic.2022.high.c9b6825bd3dc48e10157",
+    "kr.topic.2022.high.e7228c2f963ceb9dd802",
+    "kr.topic.2022.high.fccfbd1915cd8dcc9f74"
+   ]
+  }
+ ]
+}

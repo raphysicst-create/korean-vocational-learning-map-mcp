@@ -1,0 +1,308 @@
+{
+ "majorFields": [
+  {
+   "slug": "agriculture-livestock",
+   "labelKorean": "농림·축산",
+   "annexId": "kr-nec-2024-3-annex37",
+   "courseCount": {
+    "major-practical": 32,
+    "major-general": 30
+   },
+   "standardCount": {
+    "major-practical": 5255,
+    "major-general": 1292
+   },
+   "includedCategories": [
+    "major-general",
+    "specialized-common"
+   ]
+  },
+  {
+   "slug": "beauty",
+   "labelKorean": "미용",
+   "annexId": "kr-nec-2024-3-annex26",
+   "courseCount": {
+    "major-practical": 4,
+    "major-general": 2
+   },
+   "standardCount": {
+    "major-practical": 669,
+    "major-general": 31
+   },
+   "includedCategories": [
+    "major-general",
+    "specialized-common"
+   ]
+  },
+  {
+   "slug": "business-finance",
+   "labelKorean": "경영·금융",
+   "annexId": "kr-nec-2024-3-annex23",
+   "courseCount": {
+    "major-practical": 22,
+    "major-general": 16
+   },
+   "standardCount": {
+    "major-practical": 1348,
+    "major-general": 588
+   },
+   "includedCategories": [
+    "major-general",
+    "specialized-common"
+   ]
+  },
+  {
+   "slug": "chemical-industry",
+   "labelKorean": "화학공업",
+   "annexId": "kr-nec-2024-3-annex32",
+   "courseCount": {
+    "major-practical": 10,
+    "major-general": 8
+   },
+   "standardCount": {
+    "major-practical": 1280,
+    "major-general": 281
+   },
+   "includedCategories": [
+    "major-general",
+    "specialized-common"
+   ]
+  },
+  {
+   "slug": "construction-civil",
+   "labelKorean": "건축·토목",
+   "annexId": "kr-nec-2024-3-annex29",
+   "courseCount": {
+    "major-general": 14,
+    "major-practical": 15
+   },
+   "standardCount": {
+    "major-general": 690,
+    "major-practical": 1575
+   },
+   "includedCategories": [
+    "major-general",
+    "specialized-common"
+   ]
+  },
+  {
+   "slug": "convergence-ip",
+   "labelKorean": "융복합·지식재산",
+   "annexId": "kr-nec-2024-3-annex39",
+   "courseCount": {
+    "major-general": 7,
+    "major-practical": 4
+   },
+   "standardCount": {
+    "major-general": 193,
+    "major-practical": 168
+   },
+   "includedCategories": [
+    "major-general",
+    "specialized-common"
+   ]
+  },
+  {
+   "slug": "culture-arts-design-broadcast",
+   "labelKorean": "문화·예술·디자인·방송",
+   "annexId": "kr-nec-2024-3-annex25",
+   "courseCount": {
+    "major-practical": 22,
+    "major-general": 13
+   },
+   "standardCount": {
+    "major-practical": 2826,
+    "major-general": 505
+   },
+   "includedCategories": [
+    "major-general",
+    "specialized-common"
+   ]
+  },
+  {
+   "slug": "electrical-electronics",
+   "labelKorean": "전기·전자",
+   "annexId": "kr-nec-2024-3-annex34",
+   "courseCount": {
+    "major-practical": 45,
+    "major-general": 9
+   },
+   "standardCount": {
+    "major-practical": 5492,
+    "major-general": 338
+   },
+   "includedCategories": [
+    "major-general",
+    "specialized-common"
+   ]
+  },
+  {
+   "slug": "environment-safety-fire",
+   "labelKorean": "환경·안전·소방",
+   "annexId": "kr-nec-2024-3-annex36",
+   "courseCount": {
+    "major-practical": 15,
+    "major-general": 10
+   },
+   "standardCount": {
+    "major-practical": 2414,
+    "major-general": 822
+   },
+   "includedCategories": [
+    "major-general",
+    "specialized-common"
+   ]
+  },
+  {
+   "slug": "fisheries-shipping",
+   "labelKorean": "수산·해운",
+   "annexId": "kr-nec-2024-3-annex38",
+   "courseCount": {
+    "major-general": 31,
+    "major-practical": 19
+   },
+   "standardCount": {
+    "major-general": 1029,
+    "major-practical": 2745
+   },
+   "includedCategories": [
+    "major-general",
+    "specialized-common"
+   ]
+  },
+  {
+   "slug": "food-cooking",
+   "labelKorean": "식품·조리",
+   "annexId": "kr-nec-2024-3-annex28",
+   "courseCount": {
+    "major-practical": 17,
+    "major-general": 8
+   },
+   "standardCount": {
+    "major-practical": 3616,
+    "major-general": 597
+   },
+   "includedCategories": [
+    "major-general",
+    "specialized-common"
+   ]
+  },
+  {
+   "slug": "health-welfare",
+   "labelKorean": "보건·복지",
+   "annexId": "kr-nec-2024-3-annex24",
+   "courseCount": {
+    "major-general": 17,
+    "major-practical": 5
+   },
+   "standardCount": {
+    "major-general": 371,
+    "major-practical": 419
+   },
+   "includedCategories": [
+    "major-general",
+    "specialized-common"
+   ]
+  },
+  {
+   "slug": "information-communication",
+   "labelKorean": "정보·통신",
+   "annexId": "kr-nec-2024-3-annex35",
+   "courseCount": {
+    "major-practical": 15,
+    "major-general": 12
+   },
+   "standardCount": {
+    "major-practical": 1048,
+    "major-general": 286
+   },
+   "includedCategories": [
+    "major-general",
+    "specialized-common"
+   ]
+  },
+  {
+   "slug": "machinery",
+   "labelKorean": "기계",
+   "annexId": "kr-nec-2024-3-annex30",
+   "courseCount": {
+    "major-practical": 55,
+    "major-general": 18
+   },
+   "standardCount": {
+    "major-practical": 4755,
+    "major-general": 757
+   },
+   "includedCategories": [
+    "major-general",
+    "specialized-common"
+   ]
+  },
+  {
+   "slug": "materials",
+   "labelKorean": "재료",
+   "annexId": "kr-nec-2024-3-annex31",
+   "courseCount": {
+    "major-practical": 11,
+    "major-general": 4
+   },
+   "standardCount": {
+    "major-practical": 3057,
+    "major-general": 127
+   },
+   "includedCategories": [
+    "major-general",
+    "specialized-common"
+   ]
+  },
+  {
+   "slug": "specialized-common",
+   "labelKorean": "전문공통",
+   "annexId": "kr-nec-2024-3-annex23",
+   "courseCount": {
+    "specialized-common": 3
+   },
+   "standardCount": {
+    "specialized-common": 57
+   },
+   "includedCategories": [
+    "major-general",
+    "specialized-common"
+   ]
+  },
+  {
+   "slug": "textile-clothing",
+   "labelKorean": "섬유·의류",
+   "annexId": "kr-nec-2024-3-annex33",
+   "courseCount": {
+    "major-practical": 12,
+    "major-general": 8
+   },
+   "standardCount": {
+    "major-practical": 1471,
+    "major-general": 283
+   },
+   "includedCategories": [
+    "major-general",
+    "specialized-common"
+   ]
+  },
+  {
+   "slug": "tourism-leisure",
+   "labelKorean": "관광·레저",
+   "annexId": "kr-nec-2024-3-annex27",
+   "courseCount": {
+    "major-general": 9,
+    "major-practical": 6
+   },
+   "standardCount": {
+    "major-general": 178,
+    "major-practical": 1062
+   },
+   "includedCategories": [
+    "major-general",
+    "specialized-common"
+   ]
+  }
+ ]
+}

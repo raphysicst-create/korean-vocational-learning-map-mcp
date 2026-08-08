@@ -1,0 +1,806 @@
+{
+ "clusters": [
+  {
+   "id": "kr.cluster.2022.high.0825d61327e5524e43",
+   "titleKorean": "전시･컨벤션･이벤트 일반 — 이벤트 산업",
+   "subjectKorean": "전시･컨벤션･이벤트 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "이벤트 산업",
+   "summary": "전시･컨벤션･이벤트 일반의 이벤트 산업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.4b54dcbc8f92f9ca2a42",
+    "kr.topic.2022.high.6e8ff67e4e09c0bf8064",
+    "kr.topic.2022.high.9a46be78f93f5089149a",
+    "kr.topic.2022.high.b1e677daa57b6c73b084"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.08c0a17c763610b102",
+   "titleKorean": "관광 콘텐츠 개발 — 관광 콘텐츠 이해",
+   "subjectKorean": "관광 콘텐츠 개발",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 콘텐츠 이해",
+   "summary": "관광 콘텐츠 개발의 관광 콘텐츠 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.2d2bdb9bd780aeb6dc79",
+    "kr.topic.2022.high.2e0300abac22d8e3b1fe",
+    "kr.topic.2022.high.5eada03b5b44e7507e82"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0a73e1e3e1392fb0ef",
+   "titleKorean": "관광 중국어 — 호텔 서비스 회화",
+   "subjectKorean": "관광 중국어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "호텔 서비스 회화",
+   "summary": "관광 중국어의 호텔 서비스 회화 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.1a11e6d0a9d7d10f5f10",
+    "kr.topic.2022.high.4cf4eee23b230fe9f1ec",
+    "kr.topic.2022.high.949b83a92f9a391e0ec7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0e6089b5d279c0b6eb",
+   "titleKorean": "관광 문화와 자원 — 지속가능 생태계 콘텐츠",
+   "subjectKorean": "관광 문화와 자원",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "지속가능 생태계 콘텐츠",
+   "summary": "관광 문화와 자원의 지속가능 생태계 콘텐츠 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.20d8060fdb78ed8f305f",
+    "kr.topic.2022.high.829a271cc469bc5dc83b",
+    "kr.topic.2022.high.fa2df003f3bc47ef6dd9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0ed793ca21359b286f",
+   "titleKorean": "관광 일본어 — 관광 안내 및 해설 업무",
+   "subjectKorean": "관광 일본어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 안내 및 해설 업무",
+   "summary": "관광 일본어의 관광 안내 및 해설 업무 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.01e20e38f23c33f4ed08",
+    "kr.topic.2022.high.2713901d4271b7aa40eb",
+    "kr.topic.2022.high.4e794bb42dc79da2693d",
+    "kr.topic.2022.high.a6db7ef4ed1ce3983c72"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0f57b4b86f8d6ebdf7",
+   "titleKorean": "관광 영어 — 식음료 서비스 회화",
+   "subjectKorean": "관광 영어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "식음료 서비스 회화",
+   "summary": "관광 영어의 식음료 서비스 회화 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.03a8cbef0e5deadb709c",
+    "kr.topic.2022.high.12a9378ae4018d71901b",
+    "kr.topic.2022.high.f6fe11d1e159e88c6ecd"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.154118e4190d6ecf2a",
+   "titleKorean": "관광 일본어 — 관광 기초 회화",
+   "subjectKorean": "관광 일본어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 기초 회화",
+   "summary": "관광 일본어의 관광 기초 회화 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.736d691a7a514a0cf490",
+    "kr.topic.2022.high.bee4054c1d9d383260e4",
+    "kr.topic.2022.high.d1bbdfefadd9e3e3b3ce"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.15efb1542ee1a3e8e7",
+   "titleKorean": "관광 일본어 — 여행 서비스 회화",
+   "subjectKorean": "관광 일본어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "여행 서비스 회화",
+   "summary": "관광 일본어의 여행 서비스 회화 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.3659f03bac2099c0c29c",
+    "kr.topic.2022.high.48b0e7e037691c7ec8bf",
+    "kr.topic.2022.high.752d2beaf79e9cab2016",
+    "kr.topic.2022.high.afea306f7457857f9dfe"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.170cc8f8ffc1d0c73f",
+   "titleKorean": "관광 영어 — 호텔 서비스 회화",
+   "subjectKorean": "관광 영어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "호텔 서비스 회화",
+   "summary": "관광 영어의 호텔 서비스 회화 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.09b8f9cc28435caa0f0c",
+    "kr.topic.2022.high.234daa0dc7a5d034ea60",
+    "kr.topic.2022.high.bd644164d6db6ed69998"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.23f0b5247aa66897f6",
+   "titleKorean": "관광 일반 — 관광의 이해",
+   "subjectKorean": "관광 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광의 이해",
+   "summary": "관광 일반의 관광의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.7eeafb3df376345a555f",
+    "kr.topic.2022.high.8e35eb90c69b43d420bd",
+    "kr.topic.2022.high.b46a28400023884f5a86",
+    "kr.topic.2022.high.d46d5e7817b3a9aae269",
+    "kr.topic.2022.high.d5c37c8699d351752b5b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.25c224fdb3bb726366",
+   "titleKorean": "관광 서비스 — 이미지 메이킹",
+   "subjectKorean": "관광 서비스",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "이미지 메이킹",
+   "summary": "관광 서비스의 이미지 메이킹 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.6ee4b195c4e0f09d12e1",
+    "kr.topic.2022.high.ecb6273aad6234813945"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.25c5bf51276add4cd3",
+   "titleKorean": "관광 콘텐츠 개발 — 관광 콘텐츠 제작 실습",
+   "subjectKorean": "관광 콘텐츠 개발",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 콘텐츠 제작 실습",
+   "summary": "관광 콘텐츠 개발의 관광 콘텐츠 제작 실습 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.4b2bf39cede9a609101a",
+    "kr.topic.2022.high.95a106fb5a3f1a398a93",
+    "kr.topic.2022.high.f811cef0d6f17e21f629"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2a661795f89c40ddda",
+   "titleKorean": "관광 일반 — 관광과 정보",
+   "subjectKorean": "관광 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광과 정보",
+   "summary": "관광 일반의 관광과 정보 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.150e6b6aa7c0de8ea430",
+    "kr.topic.2022.high.58f22c58e47318e503d6",
+    "kr.topic.2022.high.69e35894b889155cbeb2",
+    "kr.topic.2022.high.b105249476e643c76754"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2b50dfe800cff6bbde",
+   "titleKorean": "관광 일본어 — 식음료 서비스 회화",
+   "subjectKorean": "관광 일본어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "식음료 서비스 회화",
+   "summary": "관광 일본어의 식음료 서비스 회화 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.1f04d39dc4ec13d9e319",
+    "kr.topic.2022.high.1f4c340b581c767f6326",
+    "kr.topic.2022.high.4e8172b0518126447718"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.30d8fbeb45cefc2eff",
+   "titleKorean": "전시･컨벤션･이벤트 일반 — 전시 산업 특성",
+   "subjectKorean": "전시･컨벤션･이벤트 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "전시 산업 특성",
+   "summary": "전시･컨벤션･이벤트 일반의 전시 산업 특성 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.073cfff9d3222fa75260",
+    "kr.topic.2022.high.6c93c177a3d3e36c08bc",
+    "kr.topic.2022.high.ff2e81fdfb0d26dd7a35"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3c46e18f4a0e7599b4",
+   "titleKorean": "관광 중국어 — 식음료 서비스 회화",
+   "subjectKorean": "관광 중국어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "식음료 서비스 회화",
+   "summary": "관광 중국어의 식음료 서비스 회화 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.1afee1e6799a45c00490",
+    "kr.topic.2022.high.2974190816e60149924a",
+    "kr.topic.2022.high.c2ed893f6e2f7f3ef630"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.436f9f33b75ae77ee6",
+   "titleKorean": "관광 서비스 — 관광 서비스 직업 윤리 및 안전 관리",
+   "subjectKorean": "관광 서비스",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 서비스 직업 윤리 및 안전 관리",
+   "summary": "관광 서비스의 관광 서비스 직업 윤리 및 안전 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.1fa4b8191c14a394d2fe",
+    "kr.topic.2022.high.4231a3cb9675438d4866",
+    "kr.topic.2022.high.de11785880c6ef885cfc"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.521c118226b6a7ae51",
+   "titleKorean": "관광 중국어 — 관광 기초 회화",
+   "subjectKorean": "관광 중국어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 기초 회화",
+   "summary": "관광 중국어의 관광 기초 회화 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.30b0781cb8da09016b4c",
+    "kr.topic.2022.high.34edf24c204ae534a2e0",
+    "kr.topic.2022.high.9e4afb8227c0fbc84a27"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.64486485561427ac79",
+   "titleKorean": "관광 콘텐츠 개발 — 관광 콘텐츠 상품화",
+   "subjectKorean": "관광 콘텐츠 개발",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 콘텐츠 상품화",
+   "summary": "관광 콘텐츠 개발의 관광 콘텐츠 상품화 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.4725d297db62ef040133",
+    "kr.topic.2022.high.c1f2de9d2ca35e17baa2"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6623b34cbe560934f7",
+   "titleKorean": "관광 일반 — 관광 대상",
+   "subjectKorean": "관광 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 대상",
+   "summary": "관광 일반의 관광 대상 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.1c93aed68696c6a5ecbd",
+    "kr.topic.2022.high.4986f261440c79d54b49",
+    "kr.topic.2022.high.6ab414e92a9f022747d3",
+    "kr.topic.2022.high.91134c57f3c7a8635ed2",
+    "kr.topic.2022.high.e0c1a5e23a2b32f5ae39"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6b676bc1b0a6a34aa8",
+   "titleKorean": "관광 일본어 — 관광 상품 판매 회화",
+   "subjectKorean": "관광 일본어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 상품 판매 회화",
+   "summary": "관광 일본어의 관광 상품 판매 회화 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.7917482595b3a54a9a1a",
+    "kr.topic.2022.high.8261b793f60db4404a68",
+    "kr.topic.2022.high.dcb0419057bf3c53a011"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6f1983ccc5e8c9f3f8",
+   "titleKorean": "레저 서비스 일반 — 항공 레저 활동",
+   "subjectKorean": "레저 서비스 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "항공 레저 활동",
+   "summary": "레저 서비스 일반의 항공 레저 활동 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.43566456c36563bd2814",
+    "kr.topic.2022.high.8b4e4436022c517b1b4c",
+    "kr.topic.2022.high.d8a340e3b55c42deb155",
+    "kr.topic.2022.high.fbd678a25c6bb06f250e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.738329b8e3e59a00b2",
+   "titleKorean": "전시･컨벤션･이벤트 일반 — 국제회의산업",
+   "subjectKorean": "전시･컨벤션･이벤트 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "국제회의산업",
+   "summary": "전시･컨벤션･이벤트 일반의 국제회의산업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.8750c6f14f117eb9a58b",
+    "kr.topic.2022.high.cf5bde0c54cd8d573ce4",
+    "kr.topic.2022.high.f0f78b2ed3f28f4a8252",
+    "kr.topic.2022.high.fe52acf6e032f2f77db3"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.73e9bfbdc9cd28a682",
+   "titleKorean": "전시･컨벤션･이벤트 일반 — 국제회의 운영 동향",
+   "subjectKorean": "전시･컨벤션･이벤트 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "국제회의 운영 동향",
+   "summary": "전시･컨벤션･이벤트 일반의 국제회의 운영 동향 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.3b784e78e8e9ab4fca3e",
+    "kr.topic.2022.high.4ee1bce3330f786ee7c8",
+    "kr.topic.2022.high.7af1e4acf39b93ee42ff"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7b684f58776b0331c2",
+   "titleKorean": "관광 문화와 자원 — 관광 자원의 이해",
+   "subjectKorean": "관광 문화와 자원",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 자원의 이해",
+   "summary": "관광 문화와 자원의 관광 자원의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.277cebcae16725d8d5a7",
+    "kr.topic.2022.high.9b4ff7ec111b679169d3",
+    "kr.topic.2022.high.a25f3083d84b9db98bb8",
+    "kr.topic.2022.high.c98f0a9ae73cffae13b2",
+    "kr.topic.2022.high.eb4e0c0e02de0b51c5e3"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.82175fa7b6c567b66c",
+   "titleKorean": "관광 문화와 자원 — 한류 문화 콘텐츠",
+   "subjectKorean": "관광 문화와 자원",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "한류 문화 콘텐츠",
+   "summary": "관광 문화와 자원의 한류 문화 콘텐츠 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.0e3ca4c007bb17262398",
+    "kr.topic.2022.high.125d9ce54679699ebda9",
+    "kr.topic.2022.high.608887e5cb4ff857f58c",
+    "kr.topic.2022.high.7c825be5957fcf251b2a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.84a0c7d17c2278b2bb",
+   "titleKorean": "관광 중국어 — 여행 서비스 회화",
+   "subjectKorean": "관광 중국어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "여행 서비스 회화",
+   "summary": "관광 중국어의 여행 서비스 회화 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.3d8b6e922356a57238dc",
+    "kr.topic.2022.high.47ac2a67ca6938f9249e",
+    "kr.topic.2022.high.486a89568223cccb6bc8",
+    "kr.topic.2022.high.a55412c3935866ce2dee"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.86622016a24249ecff",
+   "titleKorean": "관광 영어 — 관광 기초 회화",
+   "subjectKorean": "관광 영어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 기초 회화",
+   "summary": "관광 영어의 관광 기초 회화 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.82c470ce2cfdc016bd9a",
+    "kr.topic.2022.high.bbee5cea92951eae8322",
+    "kr.topic.2022.high.d8ade46300f67093f7c9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.8b65e3e360a3710b18",
+   "titleKorean": "관광 중국어 — 관광 상품 판매 회화",
+   "subjectKorean": "관광 중국어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 상품 판매 회화",
+   "summary": "관광 중국어의 관광 상품 판매 회화 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.c44fdad1fc107b0ec0f8",
+    "kr.topic.2022.high.cb2e2e9ec5d9aff68894",
+    "kr.topic.2022.high.cd29e57a0c81bd7721c9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.904d33ca0aee743d7a",
+   "titleKorean": "전시･컨벤션･이벤트 일반 — 마이스(MICE) 산업 이해",
+   "subjectKorean": "전시･컨벤션･이벤트 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "마이스(MICE) 산업 이해",
+   "summary": "전시･컨벤션･이벤트 일반의 마이스(MICE) 산업 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.5f24d68a8810ec8668c7",
+    "kr.topic.2022.high.c536ce1b8ecbb01396cf",
+    "kr.topic.2022.high.d8802637a8c7453863d3",
+    "kr.topic.2022.high.e92626d054d55b2eb8fd"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9368dc37457cad2d04",
+   "titleKorean": "관광 서비스 — 고객의 이해",
+   "subjectKorean": "관광 서비스",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "고객의 이해",
+   "summary": "관광 서비스의 고객의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.2161bf1896034268403c",
+    "kr.topic.2022.high.7c78cfd556da5cf1bc79",
+    "kr.topic.2022.high.9f50d008360f175017e6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.93ec34dbe502a97a41",
+   "titleKorean": "관광 서비스 — 관광 서비스의 이해",
+   "subjectKorean": "관광 서비스",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 서비스의 이해",
+   "summary": "관광 서비스의 관광 서비스의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.2776cb713a83222adb8b",
+    "kr.topic.2022.high.6a39b483f1a9cfe77cc5",
+    "kr.topic.2022.high.7475abbfd9602e03bf6a",
+    "kr.topic.2022.high.adb51d466248720202dc"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9be492804a861e70ad",
+   "titleKorean": "관광 일반 — 관광 사업",
+   "subjectKorean": "관광 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 사업",
+   "summary": "관광 일반의 관광 사업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.25016065e4b7df41e16f",
+    "kr.topic.2022.high.4daee5c9fe6f0e07bf23",
+    "kr.topic.2022.high.aa107400d63dc913b6d0",
+    "kr.topic.2022.high.c21850d950f132f9f5e8",
+    "kr.topic.2022.high.de561447f5a2063b412c",
+    "kr.topic.2022.high.e54dc99bb56a726e623c",
+    "kr.topic.2022.high.ee82dfeb688e40ec0126"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9e54c239bad3ef2032",
+   "titleKorean": "관광 서비스 — 관광 서비스 매너",
+   "subjectKorean": "관광 서비스",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 서비스 매너",
+   "summary": "관광 서비스의 관광 서비스 매너 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.2f77f771e309b629b967",
+    "kr.topic.2022.high.91cb72626dfc77ab2541",
+    "kr.topic.2022.high.ab95c4aa6450432afe58",
+    "kr.topic.2022.high.ca9a26af15da69d05547",
+    "kr.topic.2022.high.fda8df6f44fcf50bb636"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a0500f92e826022104",
+   "titleKorean": "관광 콘텐츠 개발 — 관광 콘텐츠 기획",
+   "subjectKorean": "관광 콘텐츠 개발",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 콘텐츠 기획",
+   "summary": "관광 콘텐츠 개발의 관광 콘텐츠 기획 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.4fa745289642f726be08",
+    "kr.topic.2022.high.5fbeb8cb8e3eb4081e8f",
+    "kr.topic.2022.high.6a49bab8f736fc8b73ca"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a407ff923800c7175c",
+   "titleKorean": "관광 중국어 — 관광 안내 및 해설 업무",
+   "subjectKorean": "관광 중국어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 안내 및 해설 업무",
+   "summary": "관광 중국어의 관광 안내 및 해설 업무 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.678e05bdbc31b5f35fef",
+    "kr.topic.2022.high.a99c4caac6be5069e0a9",
+    "kr.topic.2022.high.c5c47d39f54474beeadb",
+    "kr.topic.2022.high.fd845f7875e8e219c1a3"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a90f5757a72569f2f3",
+   "titleKorean": "전시･컨벤션･이벤트 일반 — 전시 산업 현황",
+   "subjectKorean": "전시･컨벤션･이벤트 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "전시 산업 현황",
+   "summary": "전시･컨벤션･이벤트 일반의 전시 산업 현황 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.89a296e48cd4c04f93e5",
+    "kr.topic.2022.high.eb7692b4cd7fcbc1b4f1"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b6382448a5045a02f2",
+   "titleKorean": "관광 문화와 자원 — 관광 자원 유형",
+   "subjectKorean": "관광 문화와 자원",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 자원 유형",
+   "summary": "관광 문화와 자원의 관광 자원 유형 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.006013cb3a5e0a67a132",
+    "kr.topic.2022.high.5a956be21816721f59c7",
+    "kr.topic.2022.high.7936d8319b0ae65fbd50",
+    "kr.topic.2022.high.aa9ceb8fe92e48163ee9",
+    "kr.topic.2022.high.c8fbacd8d4677f10dc84"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c1258c0df00a959bbf",
+   "titleKorean": "레저 서비스 일반 — 수상 레저 활동",
+   "subjectKorean": "레저 서비스 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "수상 레저 활동",
+   "summary": "레저 서비스 일반의 수상 레저 활동 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.391a0d50cc86666e6048",
+    "kr.topic.2022.high.84206f9f0bdc5e832678",
+    "kr.topic.2022.high.a30631f086df545f6bb0",
+    "kr.topic.2022.high.c4252112e53a95d2137f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c3451d61c6eea8397b",
+   "titleKorean": "레저 서비스 일반 — 레저 서비스 사업",
+   "subjectKorean": "레저 서비스 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "레저 서비스 사업",
+   "summary": "레저 서비스 일반의 레저 서비스 사업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.44aa8330107ed160e164",
+    "kr.topic.2022.high.5ae7b6e783765740e10e",
+    "kr.topic.2022.high.d4c3c73d577293357a04"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c8d71f515a117c1956",
+   "titleKorean": "관광 서비스 — 관광 고객 불평 관리",
+   "subjectKorean": "관광 서비스",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 고객 불평 관리",
+   "summary": "관광 서비스의 관광 고객 불평 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.3a347b9a35d68beca998",
+    "kr.topic.2022.high.6b3aa3c3743abc8026b3"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.cc7c93cef5421cc65c",
+   "titleKorean": "레저 서비스 일반 — 레저 산업의 이해",
+   "subjectKorean": "레저 서비스 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "레저 산업의 이해",
+   "summary": "레저 서비스 일반의 레저 산업의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.5fda1fd0a44ee086708e",
+    "kr.topic.2022.high.844092fd9c9caf9cfc9b",
+    "kr.topic.2022.high.cd4f0f9ea49ec9d5984a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ccb3c067a9dcfd6b5f",
+   "titleKorean": "관광 일본어 — 호텔 서비스 회화",
+   "subjectKorean": "관광 일본어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "호텔 서비스 회화",
+   "summary": "관광 일본어의 호텔 서비스 회화 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.48b3498c5199bef3f752",
+    "kr.topic.2022.high.683b430ed385e6ea734e",
+    "kr.topic.2022.high.8e305ba70b87e15acc51"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.cf9b63598dadd07944",
+   "titleKorean": "관광 콘텐츠 개발 — 관광 콘텐츠 유형",
+   "subjectKorean": "관광 콘텐츠 개발",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 콘텐츠 유형",
+   "summary": "관광 콘텐츠 개발의 관광 콘텐츠 유형 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.097985bd21a2bd8907ba",
+    "kr.topic.2022.high.bef0c1bf92e2a69622fe"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d5c4704adf0d7c23b2",
+   "titleKorean": "레저 서비스 일반 — 레저의 이해",
+   "subjectKorean": "레저 서비스 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "레저의 이해",
+   "summary": "레저 서비스 일반의 레저의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.17e67692ad07e5e27533",
+    "kr.topic.2022.high.ab8109a015d914a75448",
+    "kr.topic.2022.high.c1783da7172d199a0423"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d7b809689de003e45c",
+   "titleKorean": "관광 영어 — 관광 안내 및 해설 업무",
+   "subjectKorean": "관광 영어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 안내 및 해설 업무",
+   "summary": "관광 영어의 관광 안내 및 해설 업무 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.1bc9aa393512d64a0464",
+    "kr.topic.2022.high.39d4e8b9e08d108d54e3",
+    "kr.topic.2022.high.b81c0bb920826802c788",
+    "kr.topic.2022.high.c27a7739c9a6151e9f07"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.db11419622651a83b5",
+   "titleKorean": "관광 영어 — 관광 상품 판매 회화",
+   "subjectKorean": "관광 영어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 상품 판매 회화",
+   "summary": "관광 영어의 관광 상품 판매 회화 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.26191fcdc95fd2da1812",
+    "kr.topic.2022.high.ca555d2740e61de00446",
+    "kr.topic.2022.high.df695a66f27cefa9069c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f7055fd689bcbfda24",
+   "titleKorean": "레저 서비스 일반 — 지상 레저 활동",
+   "subjectKorean": "레저 서비스 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "지상 레저 활동",
+   "summary": "레저 서비스 일반의 지상 레저 활동 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.0946b86e08b37d881730",
+    "kr.topic.2022.high.68c374d0f312c59a3d4e",
+    "kr.topic.2022.high.6c98eaec4c694684d574",
+    "kr.topic.2022.high.86e05f15b030a9effba2"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f89e64d9b6d7f3df47",
+   "titleKorean": "관광 영어 — 여행 서비스 회화",
+   "subjectKorean": "관광 영어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "여행 서비스 회화",
+   "summary": "관광 영어의 여행 서비스 회화 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.4e9051ddc92127f5e0a2",
+    "kr.topic.2022.high.6dc098b8a1760be87743",
+    "kr.topic.2022.high.85fd6d6c40fabd8e3c96",
+    "kr.topic.2022.high.cea6467837605f9cd425"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f9ea3d5bd0dfc6d231",
+   "titleKorean": "관광 문화와 자원 — 관광 문화",
+   "subjectKorean": "관광 문화와 자원",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 문화",
+   "summary": "관광 문화와 자원의 관광 문화 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.04a4da007303ffb76a22",
+    "kr.topic.2022.high.1d0dbebefec34c56a333",
+    "kr.topic.2022.high.f85e7a0ea682189eadb4"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fa9d9db0448ad82730",
+   "titleKorean": "관광 콘텐츠 개발 — 관광 콘텐츠의 미래",
+   "subjectKorean": "관광 콘텐츠 개발",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 콘텐츠의 미래",
+   "summary": "관광 콘텐츠 개발의 관광 콘텐츠의 미래 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.2dcbae78dd46def7f78d",
+    "kr.topic.2022.high.f2c3ff5fbf7fb248a331"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fdb303dcb9493dcf65",
+   "titleKorean": "관광 일반 — 관광법과 행정 기구",
+   "subjectKorean": "관광 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광법과 행정 기구",
+   "summary": "관광 일반의 관광법과 행정 기구 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.45c855cfe39c7b8a04b5",
+    "kr.topic.2022.high.a502be14cd8d02192dac"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,3349 @@
+{
+ "clusters": [
+  {
+   "id": "kr.cluster.2022.high.016a9c7e3a931f6eb5",
+   "titleKorean": "선박 보조 기계 — 해양 오염 방지 장치",
+   "subjectKorean": "선박 보조 기계",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "해양 오염 방지 장치",
+   "summary": "선박 보조 기계의 해양 오염 방지 장치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.3b16762eba0163844c60",
+    "kr.topic.2022.high.61375b5b18f8f9b8e08c",
+    "kr.topic.2022.high.978bee977b8236de33f9",
+    "kr.topic.2022.high.9fae517e437fbaedf23e",
+    "kr.topic.2022.high.a0efe82af3df077a857e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.02e6be57548a8d6f08",
+   "titleKorean": "수산 일반 — 어선 설비",
+   "subjectKorean": "수산 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "어선 설비",
+   "summary": "수산 일반의 어선 설비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.14c487f07eb95898d80a",
+    "kr.topic.2022.high.2fc1aa945d237d7cd23a",
+    "kr.topic.2022.high.5ac38ff73677c82cfec3"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0311e80d5e3d258eab",
+   "titleKorean": "항해사 직무 — 리더십 및 팀워크",
+   "subjectKorean": "항해사 직무",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "리더십 및 팀워크",
+   "summary": "항해사 직무의 리더십 및 팀워크 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.09a1a1e1a8ca8d5eebfa",
+    "kr.topic.2022.high.0fc4145cce6dc1b88549",
+    "kr.topic.2022.high.15fe15153cb6f08d4bd5",
+    "kr.topic.2022.high.315d251477bf879518e4",
+    "kr.topic.2022.high.4566653bf3ede9219bcb",
+    "kr.topic.2022.high.48ca2e83e584a2a9a32e",
+    "kr.topic.2022.high.4ae0a1332689da32e14f",
+    "kr.topic.2022.high.69283b08291467444b34",
+    "kr.topic.2022.high.7acd290cab2f2ed4fe6d",
+    "kr.topic.2022.high.b9af996172fe41a6b6b3"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.038e9e4306dae9c629",
+   "titleKorean": "잠수 기술 — 표면 공급식 잠수",
+   "subjectKorean": "잠수 기술",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "표면 공급식 잠수",
+   "summary": "잠수 기술의 표면 공급식 잠수 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.01ae10295bd740e66e53",
+    "kr.topic.2022.high.074a5ab45365662a3dc8",
+    "kr.topic.2022.high.0911d58f249694ab2eb3",
+    "kr.topic.2022.high.0b94dcac9d2741cd00eb",
+    "kr.topic.2022.high.1dbdd5caf5043efb33a4",
+    "kr.topic.2022.high.752934d6d82634e1be54",
+    "kr.topic.2022.high.84c5d5c2320dd56a45d8",
+    "kr.topic.2022.high.a991d0cfbcf14419ca1e",
+    "kr.topic.2022.high.b5ec7d079373b0a0207c",
+    "kr.topic.2022.high.dacb1b3464efc57909fe"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0531b5701fdf2794d2",
+   "titleKorean": "수산 일반 — 수산물 유통",
+   "subjectKorean": "수산 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "수산물 유통",
+   "summary": "수산 일반의 수산물 유통 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.338f233540455b7f8f48",
+    "kr.topic.2022.high.34012793de4abd1bafec",
+    "kr.topic.2022.high.7e2bb243ca7425b0c7d4"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.085723a563661ef7ff",
+   "titleKorean": "항만 물류 일반 — 해운 비용",
+   "subjectKorean": "항만 물류 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "해운 비용",
+   "summary": "항만 물류 일반의 해운 비용 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.082a1735b795a59215c6",
+    "kr.topic.2022.high.18f6b278c4a3ab6229c8",
+    "kr.topic.2022.high.7cc8633d2e79a748774f",
+    "kr.topic.2022.high.b48b592e2c70fd95317b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.091318be95668c3f49",
+   "titleKorean": "선박 운용 — 선박의 개요와 구조",
+   "subjectKorean": "선박 운용",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "선박의 개요와 구조",
+   "summary": "선박 운용의 선박의 개요와 구조 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.0456c48374e1d65c1e82",
+    "kr.topic.2022.high.1ddff5e5a377aefa65af",
+    "kr.topic.2022.high.2161f22176e25483a489",
+    "kr.topic.2022.high.95da526329e73c5d2fd3",
+    "kr.topic.2022.high.b39e74adfcad47c7ebd0",
+    "kr.topic.2022.high.e9794272c2ae81441cef"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0a53f72a68c49a4823",
+   "titleKorean": "해사 일반 — 해양 사고",
+   "subjectKorean": "해사 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "해양 사고",
+   "summary": "해사 일반의 해양 사고 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.124c3056f8611b4c92d0",
+    "kr.topic.2022.high.23da226baafe93997ccf",
+    "kr.topic.2022.high.7981f139cba98d1aa45c",
+    "kr.topic.2022.high.80003d1a145774544205",
+    "kr.topic.2022.high.a87d08921e2d37bdb7a3",
+    "kr.topic.2022.high.e9fab28bd941ee00dde2"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0b12681d8933b8f29b",
+   "titleKorean": "수산 해양 창업 — 수산 해양 창업 사례",
+   "subjectKorean": "수산 해양 창업",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "수산 해양 창업 사례",
+   "summary": "수산 해양 창업의 수산 해양 창업 사례 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.02b862f3b337874c532a",
+    "kr.topic.2022.high.74590f7bf331a1cddfd6",
+    "kr.topic.2022.high.779024f3504c1ac24769"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0fa5853bc162c3868a",
+   "titleKorean": "수산 일반 — 어업",
+   "subjectKorean": "수산 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "어업",
+   "summary": "수산 일반의 어업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.0d1bf3dbd867f9abf913",
+    "kr.topic.2022.high.4ceb8ee8e3b484f7b85b",
+    "kr.topic.2022.high.6079b29e147219146a25",
+    "kr.topic.2022.high.8fb57f00ee3e75b5e411"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.104b6ed596d6bd836a",
+   "titleKorean": "항해 기초 — 해도와 항해서지",
+   "subjectKorean": "항해 기초",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "해도와 항해서지",
+   "summary": "항해 기초의 해도와 항해서지 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.66288ec39e98a9566dc6",
+    "kr.topic.2022.high.c55cebf6902fb311d832",
+    "kr.topic.2022.high.fed64641e101799cdc3b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.12750be46534a77523",
+   "titleKorean": "선박 보조 기계 — 선체 보조 기계",
+   "subjectKorean": "선박 보조 기계",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "선체 보조 기계",
+   "summary": "선박 보조 기계의 선체 보조 기계 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.0b2ef706fa7265fc5320",
+    "kr.topic.2022.high.6fd7487bd34fd0084388",
+    "kr.topic.2022.high.c12b758db9809901395b",
+    "kr.topic.2022.high.c384670d03f5de75dcbf"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.12de19664348a6d8a2",
+   "titleKorean": "해양 생산 일반 — 어구 재료와 어업 기기",
+   "subjectKorean": "해양 생산 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "어구 재료와 어업 기기",
+   "summary": "해양 생산 일반의 어구 재료와 어업 기기 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.1581fb833c0814f667e5",
+    "kr.topic.2022.high.2797d67ace51bbc00be5",
+    "kr.topic.2022.high.30dbac9dd92d21d336a1",
+    "kr.topic.2022.high.bc7b1a3f4c8290ca215a",
+    "kr.topic.2022.high.d64c4368c83c4b468512"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.132e02ebfa136237e6",
+   "titleKorean": "수산 생물 — 수산 자원의 관리",
+   "subjectKorean": "수산 생물",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "수산 자원의 관리",
+   "summary": "수산 생물의 수산 자원의 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.131f91e4c4731dcd7657",
+    "kr.topic.2022.high.17f722c34bc9bb57c9e8",
+    "kr.topic.2022.high.3441185ceebb10c9a195",
+    "kr.topic.2022.high.38e90e3dd851c55d55ee",
+    "kr.topic.2022.high.3993ed3431eda04507d8",
+    "kr.topic.2022.high.3d9ef022631ab21fff58",
+    "kr.topic.2022.high.72a269207a9eb8d3453f",
+    "kr.topic.2022.high.7a420d395b844f5114ff",
+    "kr.topic.2022.high.95e041860a8a9a12354e",
+    "kr.topic.2022.high.b7b8c531dc3521006439",
+    "kr.topic.2022.high.ba793703af4039c57809",
+    "kr.topic.2022.high.d03e6d8aaaee7ae3c833"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.153e6c2347e0c6f843",
+   "titleKorean": "항해사 직무 — 영역 07",
+   "subjectKorean": "항해사 직무",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 07",
+   "summary": "항해사 직무의 영역 07 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 1,
+   "topics": [
+    "kr.topic.2022.high.2af898f7c00bcc4c6a3d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1547fcd193da52f86e",
+   "titleKorean": "수산 양식 일반 — 양식장 환경",
+   "subjectKorean": "수산 양식 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "양식장 환경",
+   "summary": "수산 양식 일반의 양식장 환경 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.bf4efd0de0c18bbab7d9",
+    "kr.topic.2022.high.d9727f5e7974ab18fb13"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.161cdc742ab9b0ffc6",
+   "titleKorean": "기관 실무 기초 — 용접 및 배관",
+   "subjectKorean": "기관 실무 기초",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "용접 및 배관",
+   "summary": "기관 실무 기초의 용접 및 배관 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.1d0a6cc5e45f542e2882",
+    "kr.topic.2022.high.87401b37acc668553d1b",
+    "kr.topic.2022.high.b333559b635baf888afe",
+    "kr.topic.2022.high.d02f8407a0a3d5830f88",
+    "kr.topic.2022.high.f108cdbfb33e559c915c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.176df5801d9aff2cdd",
+   "titleKorean": "선박 운용 — 선박의 조종",
+   "subjectKorean": "선박 운용",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "선박의 조종",
+   "summary": "선박 운용의 선박의 조종 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.0a99fb031729c67cd1c1",
+    "kr.topic.2022.high.790d95dbacd331d5f774",
+    "kr.topic.2022.high.a2ce9e88c693c12d00d2",
+    "kr.topic.2022.high.cf9c716221355623ce32",
+    "kr.topic.2022.high.e3c58cb95189a1694e8c",
+    "kr.topic.2022.high.f328bd6df967632681c4"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.184aa25e5037bdc805",
+   "titleKorean": "관상 생물 기초 — 관상 생물의 질병",
+   "subjectKorean": "관상 생물 기초",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "관상 생물의 질병",
+   "summary": "관상 생물 기초의 관상 생물의 질병 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.0a5f02e8c58561c2d6f9",
+    "kr.topic.2022.high.1d427d807d1e75d23ead",
+    "kr.topic.2022.high.32d53ddee30a7ea9f344",
+    "kr.topic.2022.high.3f84dbbbb4674d53d6d3",
+    "kr.topic.2022.high.5b6f3e8cd1ad476bde3d",
+    "kr.topic.2022.high.a71fecdc1a1f7b4ff07e",
+    "kr.topic.2022.high.e4632501fb6b48d9a552",
+    "kr.topic.2022.high.fbf00c456ec7230dcc21"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.191cffe1404900a06a",
+   "titleKorean": "해사 법규 — 「선원법」",
+   "subjectKorean": "해사 법규",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "「선원법」",
+   "summary": "해사 법규의 「선원법」 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.09e7b84ba28ad810b5ab",
+    "kr.topic.2022.high.0b073adfcc000e664e4e",
+    "kr.topic.2022.high.609fc89d18fab6a9fc8b",
+    "kr.topic.2022.high.b72f69363424125b2b62",
+    "kr.topic.2022.high.e11bb7c06fd9aa56a74d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1e1cb97af3c27ea5ef",
+   "titleKorean": "어선 전문 — 어선 관련 국제 해사 협약",
+   "subjectKorean": "어선 전문",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "어선 관련 국제 해사 협약",
+   "summary": "어선 전문의 어선 관련 국제 해사 협약 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.20385d08f5280564defd",
+    "kr.topic.2022.high.531df4724cf2c1bb4738",
+    "kr.topic.2022.high.77db36cf765e5bcf391a",
+    "kr.topic.2022.high.a38ef4c2c4421128e94d",
+    "kr.topic.2022.high.d4841aecf05800807a09"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1fdc400401d9f289e6",
+   "titleKorean": "해사 일반 — 해운 경영",
+   "subjectKorean": "해사 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "해운 경영",
+   "summary": "해사 일반의 해운 경영 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.4ea4891c990548235ed5",
+    "kr.topic.2022.high.74057d45a6e416c4a616",
+    "kr.topic.2022.high.81ccbb1b2ca8e6c87cf9",
+    "kr.topic.2022.high.a899a42b045e329a9c2e",
+    "kr.topic.2022.high.aa193e4b81841630f473",
+    "kr.topic.2022.high.b0c32e2a717bbf932ced"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1ff98c51a73b886191",
+   "titleKorean": "열기관 — 외연 기관",
+   "subjectKorean": "열기관",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "외연 기관",
+   "summary": "열기관의 외연 기관 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.241782c9c955ada31a8c",
+    "kr.topic.2022.high.2f7b1b7a6f0a31903f04",
+    "kr.topic.2022.high.3b5bc33e747c153df513",
+    "kr.topic.2022.high.464bfd717332153c920c",
+    "kr.topic.2022.high.73093836638eed95bb11",
+    "kr.topic.2022.high.a640c3a1d628c4361d31",
+    "kr.topic.2022.high.c7d2218fa98656dfb657",
+    "kr.topic.2022.high.e2d76d536a111ffdf600",
+    "kr.topic.2022.high.f5a3610fb3c7b0699def"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.23f72339a4ac668459",
+   "titleKorean": "활어 취급 일반 — 활어 수산 생물의 특성",
+   "subjectKorean": "활어 취급 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "활어 수산 생물의 특성",
+   "summary": "활어 취급 일반의 활어 수산 생물의 특성 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.00485936ac3c40fd6c8f",
+    "kr.topic.2022.high.12b32a5afe325995e604",
+    "kr.topic.2022.high.570f5dd9a623f441e61c",
+    "kr.topic.2022.high.e914c556120e8b756197",
+    "kr.topic.2022.high.f91039f4777d1f95242c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.24034c519f336e21fa",
+   "titleKorean": "수산 일반 — 수산 식품 가공",
+   "subjectKorean": "수산 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "수산 식품 가공",
+   "summary": "수산 일반의 수산 식품 가공 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.97dd30ccdfd74001c2cd",
+    "kr.topic.2022.high.c05f0173ad7c63e206c2",
+    "kr.topic.2022.high.ed1da7062cbfa7ca67b1"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.254f9ae9aa5dd34bad",
+   "titleKorean": "양식 생물 질병 — 비전염성 질병 진단 및 대책",
+   "subjectKorean": "양식 생물 질병",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "비전염성 질병 진단 및 대책",
+   "summary": "양식 생물 질병의 비전염성 질병 진단 및 대책 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.d6df8911f300589ae439",
+    "kr.topic.2022.high.f038f49bcec182d2e6f4"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.27a1759d92a9f7fe1c",
+   "titleKorean": "양식 생물 질병 — 양식 생물의 건강 관리와 질병 예방",
+   "subjectKorean": "양식 생물 질병",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "양식 생물의 건강 관리와 질병 예방",
+   "summary": "양식 생물 질병의 양식 생물의 건강 관리와 질병 예방 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.55bb35969f13c2fbe9fd",
+    "kr.topic.2022.high.60a5b400cd62e92e5416"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.29db281e6b97956e92",
+   "titleKorean": "수산 경영 — 수산물 유통",
+   "subjectKorean": "수산 경영",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "수산물 유통",
+   "summary": "수산 경영의 수산물 유통 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.87b57aa45ced990da21a",
+    "kr.topic.2022.high.8b7cb5f85b856b255bc9",
+    "kr.topic.2022.high.95ffa68dfab71e56a0af",
+    "kr.topic.2022.high.b1ca2b1a57d241920cda",
+    "kr.topic.2022.high.c33d8d360f4869017b3d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.29ea6338f185e70f5a",
+   "titleKorean": "수산물 유통 — 변화하는 수산물 유통",
+   "subjectKorean": "수산물 유통",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "변화하는 수산물 유통",
+   "summary": "수산물 유통의 변화하는 수산물 유통 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.bb86cfaa4c0d1fc3ad10",
+    "kr.topic.2022.high.be56189c28b877253da2",
+    "kr.topic.2022.high.dc2798b3eecb6e2a2fa1"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2be1d79d54141bcbba",
+   "titleKorean": "선박 전기·전자 — 자동 제어",
+   "subjectKorean": "선박 전기·전자",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "자동 제어",
+   "summary": "선박 전기·전자의 자동 제어 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.0c4af9e0d2bbcdf50754",
+    "kr.topic.2022.high.1dec7dde10762a37db4b",
+    "kr.topic.2022.high.449f62233e9b037dbab1",
+    "kr.topic.2022.high.4a95c084ba17e54adb20",
+    "kr.topic.2022.high.6f3f2e9176a0a3b8bcbe",
+    "kr.topic.2022.high.807ce6d5a94a528d7d88",
+    "kr.topic.2022.high.97247042f5e9b3e0f102",
+    "kr.topic.2022.high.bf63bcf63c8272354ce0",
+    "kr.topic.2022.high.e751fcf2c288e0e7122e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2c347e8bd13741b9cf",
+   "titleKorean": "수산 경영 — 수산업협동조합과 어업 보험 제도",
+   "subjectKorean": "수산 경영",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "수산업협동조합과 어업 보험 제도",
+   "summary": "수산 경영의 수산업협동조합과 어업 보험 제도 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.2f031ff12017c0872a96",
+    "kr.topic.2022.high.7e80c54657f21de44a95"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2f8ba730ac25a7395c",
+   "titleKorean": "해사 일반 — 선박 운항",
+   "subjectKorean": "해사 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "선박 운항",
+   "summary": "해사 일반의 선박 운항 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.1df816b231e796b115d3",
+    "kr.topic.2022.high.51f2de992fcbd8cd8746",
+    "kr.topic.2022.high.67a380c6a69571ee6c50",
+    "kr.topic.2022.high.76421fe4ca086a9a9606",
+    "kr.topic.2022.high.7770ebe877bd9b4015db",
+    "kr.topic.2022.high.7d11426e656e676f6992",
+    "kr.topic.2022.high.8a8a0d49a9b0694734d4",
+    "kr.topic.2022.high.91e14870fa43db9ff040",
+    "kr.topic.2022.high.ac69cb6323219b77f442",
+    "kr.topic.2022.high.ef2e4c1cb7beaef5892e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.30a0d8a46a2b9a352e",
+   "titleKorean": "활어 취급 일반 — 활어 관리 시설",
+   "subjectKorean": "활어 취급 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "활어 관리 시설",
+   "summary": "활어 취급 일반의 활어 관리 시설 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.574019c8049a3dee2e55",
+    "kr.topic.2022.high.c176763e026d351be6fe",
+    "kr.topic.2022.high.e13577c5a1d26908f067"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.337f8fa09ea9946c42",
+   "titleKorean": "해양 생산 일반 — 원양 어업",
+   "subjectKorean": "해양 생산 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "원양 어업",
+   "summary": "해양 생산 일반의 원양 어업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.1968fd8e9129b675a4a2",
+    "kr.topic.2022.high.19cef38b8533307ce114",
+    "kr.topic.2022.high.a58bad12d43cfbbe08bd",
+    "kr.topic.2022.high.c0e5736757987bd2eb45"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.33ca5d516805632543",
+   "titleKorean": "해양 생산 일반 — 연근해 어업",
+   "subjectKorean": "해양 생산 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "연근해 어업",
+   "summary": "해양 생산 일반의 연근해 어업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.630d325cc963bc6435fe",
+    "kr.topic.2022.high.8c9178c12e2a6521e47a",
+    "kr.topic.2022.high.93ee6e058c1ba9945f9f",
+    "kr.topic.2022.high.fbd3c41653e92a042d2e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.35aac50d61eb6d4889",
+   "titleKorean": "기관 직무 일반 — 해사 법규",
+   "subjectKorean": "기관 직무 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "해사 법규",
+   "summary": "기관 직무 일반의 해사 법규 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.228eebb23936be1145d5",
+    "kr.topic.2022.high.5b73f2b819b499379265",
+    "kr.topic.2022.high.64c9bc7bf160a3446650",
+    "kr.topic.2022.high.a968c58e4c6035cef94f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.35e4d1f9fa4b62b942",
+   "titleKorean": "해사 법규 — 기타 관련 법규",
+   "subjectKorean": "해사 법규",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "기타 관련 법규",
+   "summary": "해사 법규의 기타 관련 법규 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.054428a2683276ec9d4e",
+    "kr.topic.2022.high.14263db6350b4ef9ce30",
+    "kr.topic.2022.high.39f016511cd39f00d78c",
+    "kr.topic.2022.high.69c8ac50706abc9735b4",
+    "kr.topic.2022.high.728a2426421082b2d7e0",
+    "kr.topic.2022.high.d5645c0a0fe03b75a7bb",
+    "kr.topic.2022.high.f7b204b11bc14c0b2c62"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3a985abd4ecafb07e4",
+   "titleKorean": "요트 조종 — 응급 상황 대처",
+   "subjectKorean": "요트 조종",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "응급 상황 대처",
+   "summary": "요트 조종의 응급 상황 대처 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.74715ab891853a039f31",
+    "kr.topic.2022.high.f1705f2da16a97b3ea24"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3ab0bc6fd89f24538e",
+   "titleKorean": "수산물 유통 — 수산물 유통 정책과 법규",
+   "subjectKorean": "수산물 유통",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "수산물 유통 정책과 법규",
+   "summary": "수산물 유통의 수산물 유통 정책과 법규 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.4a92db171b35b84904c2",
+    "kr.topic.2022.high.723cd3feb266b9f595ea"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3ade00cf43b4dea752",
+   "titleKorean": "수산 양식 일반 — 해조류 양식",
+   "subjectKorean": "수산 양식 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "해조류 양식",
+   "summary": "수산 양식 일반의 해조류 양식 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.032ed238f3233dd7e81a",
+    "kr.topic.2022.high.5ef43836326c6d59bb6f",
+    "kr.topic.2022.high.c9e3ac630a3dc2c568b9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3b35235797aa544b58",
+   "titleKorean": "항해사 직무 — 로프와 매듭",
+   "subjectKorean": "항해사 직무",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "로프와 매듭",
+   "summary": "항해사 직무의 로프와 매듭 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.0c3278f12fd4c7723c7a",
+    "kr.topic.2022.high.14a3a092d7d7066ef3a6",
+    "kr.topic.2022.high.6f28eaf45024e1b0c441",
+    "kr.topic.2022.high.dd2ab8b5745c7546a9eb",
+    "kr.topic.2022.high.eb2a690d44d765cda550"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3b86e2b1de4da843d5",
+   "titleKorean": "요트 조종 — 요트의 분류와 구성",
+   "subjectKorean": "요트 조종",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "요트의 분류와 구성",
+   "summary": "요트 조종의 요트의 분류와 구성 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.a160ef7702db2266b1c0",
+    "kr.topic.2022.high.f7ccb0b05b9f0af9d2c4"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3b9dda7b8cca559574",
+   "titleKorean": "수산물 유통 — 주요 수산물의 유통",
+   "subjectKorean": "수산물 유통",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "주요 수산물의 유통",
+   "summary": "수산물 유통의 주요 수산물의 유통 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.2264d19c049d9c8c698e",
+    "kr.topic.2022.high.915b840646c2d84af283",
+    "kr.topic.2022.high.c959f119a4c845406b7d",
+    "kr.topic.2022.high.c9fe28160f5f3826ad36",
+    "kr.topic.2022.high.d407cf594045a501c79a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3c9fd2fa082c6e42d2",
+   "titleKorean": "선박 전기·전자 — 전기 기기",
+   "subjectKorean": "선박 전기·전자",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "전기 기기",
+   "summary": "선박 전기·전자의 전기 기기 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.0f50a1b25126a10a157f",
+    "kr.topic.2022.high.2188add42a210586c512",
+    "kr.topic.2022.high.2be5ea7ee0527dc91f55",
+    "kr.topic.2022.high.39862657311b026b79a8",
+    "kr.topic.2022.high.4fa5772f329872e1df72",
+    "kr.topic.2022.high.60b2969c2ffefc6421d5",
+    "kr.topic.2022.high.6815d4b7433d59a03b74",
+    "kr.topic.2022.high.8cba7a15bae5b6e17002",
+    "kr.topic.2022.high.971251a3d5067779764d",
+    "kr.topic.2022.high.9bb31da8a473f3a84da7",
+    "kr.topic.2022.high.b254dc9af0feef48810c",
+    "kr.topic.2022.high.ba1910ac5d295f3db8d8",
+    "kr.topic.2022.high.c496c74a6baf53a28630"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3e876d82ad629c2fed",
+   "titleKorean": "해양 오염･방제 — 해양 환경과 해양 자원의 이용",
+   "subjectKorean": "해양 오염･방제",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "해양 환경과 해양 자원의 이용",
+   "summary": "해양 오염･방제의 해양 환경과 해양 자원의 이용 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.a58c8438beb39283a9cb",
+    "kr.topic.2022.high.a94b0f162b9115371e32",
+    "kr.topic.2022.high.bc577911e9bd82df8316",
+    "kr.topic.2022.high.cb3367dc55d4512efd1e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.400379e69d3a5d9ea1",
+   "titleKorean": "해양 레저 관광 — 해양 레저의 이해",
+   "subjectKorean": "해양 레저 관광",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "해양 레저의 이해",
+   "summary": "해양 레저 관광의 해양 레저의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.44cb5a18a04d850fc10e",
+    "kr.topic.2022.high.71851f9aa5206e25a823",
+    "kr.topic.2022.high.a1d3b8a9c7e9c6b7624f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.421388bda543fab310",
+   "titleKorean": "해사 영어 — 기관 실무 회화",
+   "subjectKorean": "해사 영어",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "기관 실무 회화",
+   "summary": "해사 영어의 기관 실무 회화 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.0dbb8e33fe840f6abe44",
+    "kr.topic.2022.high.9cabe06a62fcd59431c2",
+    "kr.topic.2022.high.fb10131084b12d917c86"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.42a7374765afc741c4",
+   "titleKorean": "해양의 이해 — 해양과 기상",
+   "subjectKorean": "해양의 이해",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "해양과 기상",
+   "summary": "해양의 이해의 해양과 기상 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.10ad8426db0fb18c6f7c",
+    "kr.topic.2022.high.270d1a9fcc2ff256c771",
+    "kr.topic.2022.high.3c48cfdf0fd216a40426",
+    "kr.topic.2022.high.59d7f4d79c166c17fd58",
+    "kr.topic.2022.high.c46cf30cd35001576992",
+    "kr.topic.2022.high.dc19b84d1c07bdaf6744",
+    "kr.topic.2022.high.ebbce102ff81807f1ab4",
+    "kr.topic.2022.high.ed2662445a27b528786c",
+    "kr.topic.2022.high.fbd2718144b9f500e24d",
+    "kr.topic.2022.high.fc2dc2df3fb70ce9f892"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.431423d75d6532f375",
+   "titleKorean": "기관 직무 일반 — 기관 관리",
+   "subjectKorean": "기관 직무 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "기관 관리",
+   "summary": "기관 직무 일반의 기관 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.241d2450b230d20a99b0",
+    "kr.topic.2022.high.9197beec05ecbd694244",
+    "kr.topic.2022.high.c07318c3875e8360a941",
+    "kr.topic.2022.high.f43a5e8944f0e39bd16e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.473016c7b55a9fb708",
+   "titleKorean": "항해 기초 — 해수의 유동",
+   "subjectKorean": "항해 기초",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "해수의 유동",
+   "summary": "항해 기초의 해수의 유동 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.8281251d807c97efaa8c",
+    "kr.topic.2022.high.f11045010699f2cbf8cf"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.47f063063c6f08a36b",
+   "titleKorean": "해양 오염･방제 — 연안 해양의 개발과 재해",
+   "subjectKorean": "해양 오염･방제",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "연안 해양의 개발과 재해",
+   "summary": "해양 오염･방제의 연안 해양의 개발과 재해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.1473f999659bf2c29185",
+    "kr.topic.2022.high.17c0f7b6b0117ff1bedd",
+    "kr.topic.2022.high.39fa134ce8fb7f7c5d11",
+    "kr.topic.2022.high.55aad24a8c76daa98dd4"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.48eeedb9579b3fae95",
+   "titleKorean": "항해 기초 — 레이더 항법 장치",
+   "subjectKorean": "항해 기초",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "레이더 항법 장치",
+   "summary": "항해 기초의 레이더 항법 장치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.20570ce68980c5bc7167",
+    "kr.topic.2022.high.92bf74c3d82dd85c10d4",
+    "kr.topic.2022.high.b93fe1e637227d3d780b",
+    "kr.topic.2022.high.c795cbfc62f848017fd6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.49a3f865256a19a27f",
+   "titleKorean": "수산 양식 일반 — 어류 양식",
+   "subjectKorean": "수산 양식 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "어류 양식",
+   "summary": "수산 양식 일반의 어류 양식 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.2d360e8ac677e4795c8d",
+    "kr.topic.2022.high.632553a33fa70c062914",
+    "kr.topic.2022.high.e9afe1e1d18a50299a24"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4a499e3d7b12ea40b8",
+   "titleKorean": "해양 생산 일반 — 미래 어업과 관리 제도",
+   "subjectKorean": "해양 생산 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "미래 어업과 관리 제도",
+   "summary": "해양 생산 일반의 미래 어업과 관리 제도 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.e2eecee1712002f8b9f6",
+    "kr.topic.2022.high.f142c47153554a216af8"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4b07be2acf5c5139e6",
+   "titleKorean": "선박 보조 기계 — 기타 보조 기계",
+   "subjectKorean": "선박 보조 기계",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "기타 보조 기계",
+   "summary": "선박 보조 기계의 기타 보조 기계 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.1fa9e54a1ac834b8f85e",
+    "kr.topic.2022.high.2d0025db0e1cc2012cce",
+    "kr.topic.2022.high.6ccc043c435a56d1b3d1",
+    "kr.topic.2022.high.841a8e69bd96495d1faa",
+    "kr.topic.2022.high.d7abcff98e45fb44a113",
+    "kr.topic.2022.high.ec7398c1a023e0d03faf"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4d478b87fa5e39a15d",
+   "titleKorean": "수산 해양 창업 — 수산 해양 창업의 이해",
+   "subjectKorean": "수산 해양 창업",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "수산 해양 창업의 이해",
+   "summary": "수산 해양 창업의 수산 해양 창업의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.1495502e418f7400f837",
+    "kr.topic.2022.high.227ca05e82b511f30061",
+    "kr.topic.2022.high.b15eb7cf561a8acd9112",
+    "kr.topic.2022.high.c94302da2fcbb855d39f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.50e60cda15122805c9",
+   "titleKorean": "선화 운송 — 흘수와 배수량",
+   "subjectKorean": "선화 운송",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "흘수와 배수량",
+   "summary": "선화 운송의 흘수와 배수량 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.1042f99cc845dc0e6206",
+    "kr.topic.2022.high.16c1b34961f320f20091",
+    "kr.topic.2022.high.4acb1ff64463c15f4493",
+    "kr.topic.2022.high.98cb840ccc57db630c92",
+    "kr.topic.2022.high.b4d8227f903cfec9b6b6",
+    "kr.topic.2022.high.b71f6f92d431a951075c",
+    "kr.topic.2022.high.f0db72c202cb45f43ebb"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5155f6b73a48a6f877",
+   "titleKorean": "해양의 이해 — 해수의 성질과 운동",
+   "subjectKorean": "해양의 이해",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "해수의 성질과 운동",
+   "summary": "해양의 이해의 해수의 성질과 운동 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.2d5dc9ea7c03ba694115",
+    "kr.topic.2022.high.35e6daf379edeea504e6",
+    "kr.topic.2022.high.3fc2ec6269b2d295632a",
+    "kr.topic.2022.high.5c2087838d0ca0c0bb89",
+    "kr.topic.2022.high.690444336ca3190410d3",
+    "kr.topic.2022.high.759a0fc084747bb573a7",
+    "kr.topic.2022.high.81f9b302b1ce20f8a7f3",
+    "kr.topic.2022.high.95ff66d0ae3a63bfac53",
+    "kr.topic.2022.high.b48b55960ac2024f3cd0",
+    "kr.topic.2022.high.e12c2a587386425a46b9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.53474c4e948e120cbe",
+   "titleKorean": "관상 생물 기초 — 관상 생물 관리",
+   "subjectKorean": "관상 생물 기초",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "관상 생물 관리",
+   "summary": "관상 생물 기초의 관상 생물 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.1b21529adf45f3d555cb",
+    "kr.topic.2022.high.206708fe294ab25ef5f8",
+    "kr.topic.2022.high.7b81af2e4715942ed253",
+    "kr.topic.2022.high.82b3f7026caa8f9a9cba",
+    "kr.topic.2022.high.8a945de67a3af8ea9486",
+    "kr.topic.2022.high.97080a2e7397879dbd26",
+    "kr.topic.2022.high.9bb1ef015d32996ad955",
+    "kr.topic.2022.high.ab2755b79cabc8bbf53c",
+    "kr.topic.2022.high.de434f9a257bf9eba05c",
+    "kr.topic.2022.high.e297b8e957806be48e0b",
+    "kr.topic.2022.high.e5040d6037876678a8a5",
+    "kr.topic.2022.high.e8db33f9820ff2f73822"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.543ba535410de00e92",
+   "titleKorean": "활어 취급 일반 — 활어 위생 관리",
+   "subjectKorean": "활어 취급 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "활어 위생 관리",
+   "summary": "활어 취급 일반의 활어 위생 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.06bd4ff319db47511a70",
+    "kr.topic.2022.high.ad966018511344d2746a",
+    "kr.topic.2022.high.ded312f4ca319111ae23",
+    "kr.topic.2022.high.e5365b19a668bddccea4"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.54a06f7a3e7f31c71e",
+   "titleKorean": "기관 직무 일반 — 국제 해사 협약",
+   "subjectKorean": "기관 직무 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "국제 해사 협약",
+   "summary": "기관 직무 일반의 국제 해사 협약 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.049c31f48533a13cc85e",
+    "kr.topic.2022.high.425998ac2d0db5927a1b",
+    "kr.topic.2022.high.de5b06d3e45d265b772e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.56aca92064bd408f7c",
+   "titleKorean": "해사 일반 — 선박의 이해",
+   "subjectKorean": "해사 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "선박의 이해",
+   "summary": "해사 일반의 선박의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.19d66ece16f602aaf7f0",
+    "kr.topic.2022.high.35c106e98f1ac0732365",
+    "kr.topic.2022.high.435021ac8175ee79242f",
+    "kr.topic.2022.high.51250fd9be43c2c4545a",
+    "kr.topic.2022.high.540ab06b8f2491d2b9fa",
+    "kr.topic.2022.high.996caf3ecc73ca6f75b8",
+    "kr.topic.2022.high.cd88bf44b0c11dd9d909",
+    "kr.topic.2022.high.e34218da7fc75fc8256f",
+    "kr.topic.2022.high.f43b9258528091fc5a2a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.56cf004a9e6f4d2550",
+   "titleKorean": "선박 전기·전자 — 회로 이론",
+   "subjectKorean": "선박 전기·전자",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "회로 이론",
+   "summary": "선박 전기·전자의 회로 이론 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.1f2155b3f33b6786216c",
+    "kr.topic.2022.high.357a1f1c86b6c246a953",
+    "kr.topic.2022.high.497564db6231cfb598e3",
+    "kr.topic.2022.high.5bb2d46844b92d188cf1",
+    "kr.topic.2022.high.77f3b09eccd38059f808",
+    "kr.topic.2022.high.9acac1b7b42180bd4059",
+    "kr.topic.2022.high.9b35adcdf256599eb830",
+    "kr.topic.2022.high.a9e387d5d3f7a2ef1071",
+    "kr.topic.2022.high.bac97f862268a4fba7a2",
+    "kr.topic.2022.high.f983b67161bc79d1fc1e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5a338351ea48e6bc1f",
+   "titleKorean": "수산 양식 일반 — 수산 양식의 개요",
+   "subjectKorean": "수산 양식 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "수산 양식의 개요",
+   "summary": "수산 양식 일반의 수산 양식의 개요 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.19e6fbffdfc6ea1ff544",
+    "kr.topic.2022.high.7606251e01237c9fc673",
+    "kr.topic.2022.high.ff6e4c62d2d414ab9326"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5cb870b1cc67670a5b",
+   "titleKorean": "수산 경영 — 수산 경영의 회계와 수산물 원가 계산",
+   "subjectKorean": "수산 경영",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "수산 경영의 회계와 수산물 원가 계산",
+   "summary": "수산 경영의 수산 경영의 회계와 수산물 원가 계산 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.0df24114036a42d0ab14",
+    "kr.topic.2022.high.24673788ef017f37514d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5dae61f0658b338496",
+   "titleKorean": "수산･해운 산업 기초 — 선박과 수계 자원",
+   "subjectKorean": "수산･해운 산업 기초",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "선박과 수계 자원",
+   "summary": "수산･해운 산업 기초의 선박과 수계 자원 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.136259f9faf2d2a2946b",
+    "kr.topic.2022.high.26d28b97513064207bf1",
+    "kr.topic.2022.high.c37bce30de84512709d8",
+    "kr.topic.2022.high.df71d5e4ff1015a0e44e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5f31885ed308c16530",
+   "titleKorean": "해사 법규 — 해사 법규 총론",
+   "subjectKorean": "해사 법규",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "해사 법규 총론",
+   "summary": "해사 법규의 해사 법규 총론 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.04383ac36c2a9a43bb60",
+    "kr.topic.2022.high.d1bc158823695dd5a651"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5f5bfdeeab170114ae",
+   "titleKorean": "해양 오염･방제 — 해양 오염",
+   "subjectKorean": "해양 오염･방제",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "해양 오염",
+   "summary": "해양 오염･방제의 해양 오염 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.29a3ab93493bbb74276a",
+    "kr.topic.2022.high.cf819b2510c2e0bfbd18",
+    "kr.topic.2022.high.ecbb0ffb0323f0bc065d",
+    "kr.topic.2022.high.f47b987110fe90a8dd5a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6045f218049aca7f5b",
+   "titleKorean": "항해사 직무 — 영역 05",
+   "subjectKorean": "항해사 직무",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "항해사 직무의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 1,
+   "topics": [
+    "kr.topic.2022.high.4c5eaa5a05e9113d8d71"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.62557f6f01d8ad6c5c",
+   "titleKorean": "해양 레저 관광 — 해양 레저 관광 관련 법규",
+   "subjectKorean": "해양 레저 관광",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "해양 레저 관광 관련 법규",
+   "summary": "해양 레저 관광의 해양 레저 관광 관련 법규 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.1daa5813f2d528ee151d",
+    "kr.topic.2022.high.50d606bf8dc4741bc279",
+    "kr.topic.2022.high.65a4cfdb83e578667069"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6357ce1ae27431fcf8",
+   "titleKorean": "전자 통신 운용 — 해상 통신 설비",
+   "subjectKorean": "전자 통신 운용",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "해상 통신 설비",
+   "summary": "전자 통신 운용의 해상 통신 설비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.19a9f472d5ef0998adfb",
+    "kr.topic.2022.high.90cf8b1664e4d2aa19e1",
+    "kr.topic.2022.high.be375620c4c627741bd5",
+    "kr.topic.2022.high.cc451c35da65db720990"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.63d493c59889d256de",
+   "titleKorean": "항만 물류 일반 — 복합 운송과 해상 운송",
+   "subjectKorean": "항만 물류 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "복합 운송과 해상 운송",
+   "summary": "항만 물류 일반의 복합 운송과 해상 운송 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.0a30ae346baa223ebe3e",
+    "kr.topic.2022.high.8f03dff2aebd18fa7948",
+    "kr.topic.2022.high.f639d31b65673c8c6ece"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6557e2938af488e946",
+   "titleKorean": "해사 영어 — 표준 해사 통신 용어",
+   "subjectKorean": "해사 영어",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "표준 해사 통신 용어",
+   "summary": "해사 영어의 표준 해사 통신 용어 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.3462b2681ef60b0f1c2a",
+    "kr.topic.2022.high.3c36bcef4f6a1ef29326",
+    "kr.topic.2022.high.46d4753c59adf51c6e75",
+    "kr.topic.2022.high.5e50ee43ccb4f4faaa38"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.656fefc1114f24dd9c",
+   "titleKorean": "활어 취급 일반 — 활어의 성분과 저장법",
+   "subjectKorean": "활어 취급 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "활어의 성분과 저장법",
+   "summary": "활어 취급 일반의 활어의 성분과 저장법 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.3ca0494ac8784de2d324",
+    "kr.topic.2022.high.548aee2aeb534855ab68",
+    "kr.topic.2022.high.bc4b4568948d8e59e462",
+    "kr.topic.2022.high.ce3205740a135909cd09"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.676dc043a64c9dce25",
+   "titleKorean": "선박 보조 기계 — 냉동 및 공기 조화 장치",
+   "subjectKorean": "선박 보조 기계",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "냉동 및 공기 조화 장치",
+   "summary": "선박 보조 기계의 냉동 및 공기 조화 장치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.0b92fb617f4a445d5e31",
+    "kr.topic.2022.high.47921cdf5b4a68b4804c",
+    "kr.topic.2022.high.ae036c702469ab282b19"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.69afbeaa6ce128ebe7",
+   "titleKorean": "수산･해운 산업 기초 — 수산·해운 산업의 미래",
+   "subjectKorean": "수산･해운 산업 기초",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "수산·해운 산업의 미래",
+   "summary": "수산･해운 산업 기초의 수산·해운 산업의 미래 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.04466f3eb0bed53055fd",
+    "kr.topic.2022.high.27ee121080573622cc39",
+    "kr.topic.2022.high.5c30ba6a7c672e3312cd",
+    "kr.topic.2022.high.89e5834acccc1ae7fbf4"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6a5e50355996146ffc",
+   "titleKorean": "해사 법규 — 「선박의 입항 및 출항 등에 관한 법률」(약칭: 「선박 입출항법｣)",
+   "subjectKorean": "해사 법규",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "「선박의 입항 및 출항 등에 관한 법률」(약칭: 「선박 입출항법｣)",
+   "summary": "해사 법규의 「선박의 입항 및 출항 등에 관한 법률」(약칭: 「선박 입출항법｣) 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.2d8f3be090e06d33609d",
+    "kr.topic.2022.high.5913e47d380f39e3725c",
+    "kr.topic.2022.high.a21805f3207f565cefc6",
+    "kr.topic.2022.high.ee913cd1576ac9e74ca9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6ada39950184565ec5",
+   "titleKorean": "열기관 — 가솔린 기관",
+   "subjectKorean": "열기관",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "가솔린 기관",
+   "summary": "열기관의 가솔린 기관 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.3c958092122eb532136d",
+    "kr.topic.2022.high.5209b3cf56c60dd69eec",
+    "kr.topic.2022.high.57f82a27d1e81aca495e",
+    "kr.topic.2022.high.9c82010a61876c77f620",
+    "kr.topic.2022.high.a024de5a5b253a32dc89",
+    "kr.topic.2022.high.a986f48b397c4cf5914a",
+    "kr.topic.2022.high.ca2f0648af2aef62d7ca",
+    "kr.topic.2022.high.dc8518544a30f4acd9d0"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6bb961c19ae408a34d",
+   "titleKorean": "선박 보조 기계 — 선박 보조 기계의 개요",
+   "subjectKorean": "선박 보조 기계",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "선박 보조 기계의 개요",
+   "summary": "선박 보조 기계의 선박 보조 기계의 개요 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.091582b87596cc28752b",
+    "kr.topic.2022.high.e4cf43d9d0768fcb4619"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6de4cbad3bec4f5aeb",
+   "titleKorean": "기관 직무 일반 — 해상 안전",
+   "subjectKorean": "기관 직무 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "해상 안전",
+   "summary": "기관 직무 일반의 해상 안전 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.416f85720b937ff872d6",
+    "kr.topic.2022.high.5e5dbc30a9110f89ad1c",
+    "kr.topic.2022.high.a3cd3c84868d67290dbc"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6fea4df76f3c53f1f9",
+   "titleKorean": "선박 운용 — 선박의 정비",
+   "subjectKorean": "선박 운용",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "선박의 정비",
+   "summary": "선박 운용의 선박의 정비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.4838a202265d01679082",
+    "kr.topic.2022.high.4c03fe4e25fc90b89817",
+    "kr.topic.2022.high.78be93d803a88c3aa888"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.701007852bba8bde32",
+   "titleKorean": "수산물 유통 — 수산물 유통 구조와 가격 결정",
+   "subjectKorean": "수산물 유통",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "수산물 유통 구조와 가격 결정",
+   "summary": "수산물 유통의 수산물 유통 구조와 가격 결정 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.4170bf1bec86b6c6325a",
+    "kr.topic.2022.high.6d500ec4e4743af2bb33"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.70b644a00c3df877c0",
+   "titleKorean": "관상 생물 기초 — 관상 생물 개요",
+   "subjectKorean": "관상 생물 기초",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "관상 생물 개요",
+   "summary": "관상 생물 기초의 관상 생물 개요 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.16408546a8183b5968c0",
+    "kr.topic.2022.high.1f4593a2d92dd68b377d",
+    "kr.topic.2022.high.23b99586b2e3ca88db9e",
+    "kr.topic.2022.high.651a6f83ec5516398335",
+    "kr.topic.2022.high.67c6f400ca7789953b02",
+    "kr.topic.2022.high.ab09f37ba023afe11962",
+    "kr.topic.2022.high.b221290bf82b5a671b18",
+    "kr.topic.2022.high.c297886429328b366378",
+    "kr.topic.2022.high.e888e346fc736d26a1b3"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7170314e17efe1bc31",
+   "titleKorean": "항해 기초 — 전파·전자 항법 장치",
+   "subjectKorean": "항해 기초",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "전파·전자 항법 장치",
+   "summary": "항해 기초의 전파·전자 항법 장치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.13571f5af29c44ec5155",
+    "kr.topic.2022.high.313c958cd388863b0dea",
+    "kr.topic.2022.high.35f70e6d31fb0a636678",
+    "kr.topic.2022.high.b503753c7c75d394a89a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.72f173cee56a9f16b2",
+   "titleKorean": "선박 전기·전자 — 안전 관리",
+   "subjectKorean": "선박 전기·전자",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "안전 관리",
+   "summary": "선박 전기·전자의 안전 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.157c544f593c027bd6d7",
+    "kr.topic.2022.high.2cfad2feb744d94f029c",
+    "kr.topic.2022.high.5156bd4cedf1f58b9712",
+    "kr.topic.2022.high.689d9a8ec552bb7fe3c4",
+    "kr.topic.2022.high.e0d89f4b4b06a78f3e38"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.73cd46dd24efb57df3",
+   "titleKorean": "해사 법규 — ｢선박 안전법｣",
+   "subjectKorean": "해사 법규",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "｢선박 안전법｣",
+   "summary": "해사 법규의 ｢선박 안전법｣ 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.1687904903f7f4fe3858",
+    "kr.topic.2022.high.2d4d00c8aca408334196",
+    "kr.topic.2022.high.6dc4aff44d183eaa888a",
+    "kr.topic.2022.high.6e837744b693de923eca",
+    "kr.topic.2022.high.a47c20703b9f15f199c9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.746e19c5cc68837e41",
+   "titleKorean": "수산 양식 일반 — 무척추동물 양식",
+   "subjectKorean": "수산 양식 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "무척추동물 양식",
+   "summary": "수산 양식 일반의 무척추동물 양식 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.2438142b5337d272bcdf",
+    "kr.topic.2022.high.6be8ed8cae489bbf8bfb",
+    "kr.topic.2022.high.ca337990787eb1ff6edb"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.788d709eaf36d30b0d",
+   "titleKorean": "해양 오염･방제 — 해양 환경의 보전과 국제 협력",
+   "subjectKorean": "해양 오염･방제",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "해양 환경의 보전과 국제 협력",
+   "summary": "해양 오염･방제의 해양 환경의 보전과 국제 협력 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.2c87400633c2a5a4c0b5",
+    "kr.topic.2022.high.66220feb111a3a42cbf0",
+    "kr.topic.2022.high.bc7f84b2701099cdba4a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.78b60a85f6fc656092",
+   "titleKorean": "기관 직무 일반 — 기관 당직",
+   "subjectKorean": "기관 직무 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "기관 당직",
+   "summary": "기관 직무 일반의 기관 당직 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.1202bccb645b03c6d61d",
+    "kr.topic.2022.high.8892cff64a388dc13361",
+    "kr.topic.2022.high.a38dc664539bac94e6f1",
+    "kr.topic.2022.high.d57e8eb1ec1f6b0a0514"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.79ab607fa39e833761",
+   "titleKorean": "항만 물류 일반 — 항만의 다양한 기능",
+   "subjectKorean": "항만 물류 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "항만의 다양한 기능",
+   "summary": "항만 물류 일반의 항만의 다양한 기능 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.717c4c728d7aee0b775d",
+    "kr.topic.2022.high.7afd9de53debf5b326ab",
+    "kr.topic.2022.high.f333d2de4ba013ed6898",
+    "kr.topic.2022.high.fa0a5c3ec9b1acf47073"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7ab0d6fdfa24008b92",
+   "titleKorean": "잠수 기술 — 잠수와 인간",
+   "subjectKorean": "잠수 기술",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "잠수와 인간",
+   "summary": "잠수 기술의 잠수와 인간 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.0f3a010a5d829977caef",
+    "kr.topic.2022.high.0fedd4ba7b17488a8d87",
+    "kr.topic.2022.high.3132e191803683c1be34",
+    "kr.topic.2022.high.69aa18af7ed14d43f1f9",
+    "kr.topic.2022.high.9d2f4d2cbe144efe844f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7c75e65183e72cc6e0",
+   "titleKorean": "해양 생산 일반 — 어업과 어장",
+   "subjectKorean": "해양 생산 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "어업과 어장",
+   "summary": "해양 생산 일반의 어업과 어장 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.34dc963f1f8b37883ecf",
+    "kr.topic.2022.high.5b191e89392661c46578",
+    "kr.topic.2022.high.ec5abea27d8a998da0dc"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7ca85ffd0fab2bb0bd",
+   "titleKorean": "열기관 — 동력 전달 장치",
+   "subjectKorean": "열기관",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "동력 전달 장치",
+   "summary": "열기관의 동력 전달 장치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.1a4b022845868cb3e644",
+    "kr.topic.2022.high.56f3e10f8392a2257e30",
+    "kr.topic.2022.high.8ec983bc8a505f0b29ef",
+    "kr.topic.2022.high.a334769d89997331fd02",
+    "kr.topic.2022.high.c6e0556c8f9070b5efbc",
+    "kr.topic.2022.high.e72d9352f660a544a3ea"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7d184900140d5cb1be",
+   "titleKorean": "수산 양식 일반 — 종자 생산",
+   "subjectKorean": "수산 양식 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "종자 생산",
+   "summary": "수산 양식 일반의 종자 생산 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.22764a05eb5eecac92aa",
+    "kr.topic.2022.high.2ff153e9dee16640c59c",
+    "kr.topic.2022.high.b04dc23dbefbfa49bd4a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7d2d978cd00d483f94",
+   "titleKorean": "항해 기초 — 항로 표지",
+   "subjectKorean": "항해 기초",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "항로 표지",
+   "summary": "항해 기초의 항로 표지 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.81a557b314f899c77f6d",
+    "kr.topic.2022.high.d9746e67d931f39f6d5b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7d9a7a8e057920ea6d",
+   "titleKorean": "수산 해양 창업 — 사업 계획서 작성 실무",
+   "subjectKorean": "수산 해양 창업",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "사업 계획서 작성 실무",
+   "summary": "수산 해양 창업의 사업 계획서 작성 실무 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.4d9297442de5baf33399",
+    "kr.topic.2022.high.8b9bbb6e34445ef74e92",
+    "kr.topic.2022.high.b391082878c3007e586c",
+    "kr.topic.2022.high.b5d91b88a99ca7438118"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.801e7f653ee561ac4e",
+   "titleKorean": "요트 조종 — 요트의 역사",
+   "subjectKorean": "요트 조종",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "요트의 역사",
+   "summary": "요트 조종의 요트의 역사 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.d4b94a10fa9487ab3df5",
+    "kr.topic.2022.high.f75678c4613658af303d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.811e1e0276c3fa006e",
+   "titleKorean": "요트 조종 — 요트 조종술",
+   "subjectKorean": "요트 조종",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "요트 조종술",
+   "summary": "요트 조종의 요트 조종술 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.673d7440f5e02b92b020",
+    "kr.topic.2022.high.730ed3596a15789f735c",
+    "kr.topic.2022.high.7fd1693418935685705b",
+    "kr.topic.2022.high.9f2e01740d5207185cbe",
+    "kr.topic.2022.high.a6d0f227754d9c8f5296",
+    "kr.topic.2022.high.aaa68d00ddf2b23f6804",
+    "kr.topic.2022.high.ceca1a5929d89009c3f7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.812832852cb2c8f3dd",
+   "titleKorean": "전자 통신 운용 — 무선 통신 일반",
+   "subjectKorean": "전자 통신 운용",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "무선 통신 일반",
+   "summary": "전자 통신 운용의 무선 통신 일반 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.1246f0be47b3fb4a806a",
+    "kr.topic.2022.high.4c9297474b94f79521ee",
+    "kr.topic.2022.high.e93aecf76f8077e6da9f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.8328805a8e6e25479c",
+   "titleKorean": "수산･해운 산업 기초 — 초연결 시대 해운업",
+   "subjectKorean": "수산･해운 산업 기초",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "초연결 시대 해운업",
+   "summary": "수산･해운 산업 기초의 초연결 시대 해운업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.0aea178bb8898bc6cd41",
+    "kr.topic.2022.high.46caa8d3311e47b49dd9",
+    "kr.topic.2022.high.67005500b1085a0138c3",
+    "kr.topic.2022.high.9280ebd30cf964a4aecf"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.832e7d242ea020d799",
+   "titleKorean": "해사 법규 — 「해사 안전법」",
+   "subjectKorean": "해사 법규",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "「해사 안전법」",
+   "summary": "해사 법규의 「해사 안전법」 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.825a2e658cbcec2f04eb",
+    "kr.topic.2022.high.9f5754ae335b6fc2d8e2",
+    "kr.topic.2022.high.b06c24e86608fd13a39c",
+    "kr.topic.2022.high.c06e6ea9b69ddf5abf2e",
+    "kr.topic.2022.high.c5cee981cba074e18c7c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.834b5a50172a5998dc",
+   "titleKorean": "해양의 이해 — 수해양과 인류",
+   "subjectKorean": "해양의 이해",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "수해양과 인류",
+   "summary": "해양의 이해의 수해양과 인류 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.0bfaae8b8fe9aac37b73",
+    "kr.topic.2022.high.0dba76f4fd00427d616f",
+    "kr.topic.2022.high.4902a342e7a35945098c",
+    "kr.topic.2022.high.84a53ac500b30d7c6d6d",
+    "kr.topic.2022.high.a298da7dba79e01e7348",
+    "kr.topic.2022.high.a2a171832f0ac945ff48",
+    "kr.topic.2022.high.fb91ed55d29785da7724"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.85478ee7d1e6797a7d",
+   "titleKorean": "해양 생산 일반 — 어법과 어구",
+   "subjectKorean": "해양 생산 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "어법과 어구",
+   "summary": "해양 생산 일반의 어법과 어구 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.5f4bc1b307f952962894",
+    "kr.topic.2022.high.70a2eb92bf45a0d16535",
+    "kr.topic.2022.high.c71e4589c7dbfaa81639",
+    "kr.topic.2022.high.fcb8cc547ffbe87ae6de"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.864e5788e3931df64a",
+   "titleKorean": "어선 전문 — 어획물 적재·하역",
+   "subjectKorean": "어선 전문",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "어획물 적재·하역",
+   "summary": "어선 전문의 어획물 적재·하역 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.3be5277250b8ee57fa0b",
+    "kr.topic.2022.high.5a4a65112369a4b83ce1",
+    "kr.topic.2022.high.807f96882f49012247d6",
+    "kr.topic.2022.high.8142cab6333d076e406c",
+    "kr.topic.2022.high.8566826ce35adfb515a8",
+    "kr.topic.2022.high.918d944b65d045ecf45d",
+    "kr.topic.2022.high.d7a185195374c42421bb"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.8708f73f4091916057",
+   "titleKorean": "선박 운용 — 선박의 설비",
+   "subjectKorean": "선박 운용",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "선박의 설비",
+   "summary": "선박 운용의 선박의 설비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.24407543fcbe522ad81b",
+    "kr.topic.2022.high.472f39cc1cee2c063f04",
+    "kr.topic.2022.high.5d1ff90497307527a30a",
+    "kr.topic.2022.high.7021b5f58af9e57172f2",
+    "kr.topic.2022.high.72338a6742b9a5ebde66",
+    "kr.topic.2022.high.841470b4f3f80cffe6d1",
+    "kr.topic.2022.high.bc8e6a2bffe6c7b5ca8d",
+    "kr.topic.2022.high.bcfeeee6da2eeca140c6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.876c9b61b1dc435ca0",
+   "titleKorean": "잠수 기술 — 잠수 안전",
+   "subjectKorean": "잠수 기술",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "잠수 안전",
+   "summary": "잠수 기술의 잠수 안전 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 14,
+   "topics": [
+    "kr.topic.2022.high.294e38f7f57a7395fa1d",
+    "kr.topic.2022.high.318822a050da0be81b12",
+    "kr.topic.2022.high.3e30001c324ea5aff41f",
+    "kr.topic.2022.high.4c63652049bccfd4c97a",
+    "kr.topic.2022.high.739ac10e291060aa57dc",
+    "kr.topic.2022.high.8a84e916f18510b90aa5",
+    "kr.topic.2022.high.8c1c6f653224798c4648",
+    "kr.topic.2022.high.8c8d987348780b7cc18f",
+    "kr.topic.2022.high.9ee49f116963e14b0152",
+    "kr.topic.2022.high.a54fbfced7896f17a3f3",
+    "kr.topic.2022.high.a634df3652b861d1d086",
+    "kr.topic.2022.high.a776cfa23ad7ca14af04",
+    "kr.topic.2022.high.c7787ed60a9b9dfcd515",
+    "kr.topic.2022.high.cee03934c22bd0ef5cf5"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.8a429775d18ccf5304",
+   "titleKorean": "선박 전기·전자 — 반도체와 회로",
+   "subjectKorean": "선박 전기·전자",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "반도체와 회로",
+   "summary": "선박 전기·전자의 반도체와 회로 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.0ec3eabe5a44d1354cc6",
+    "kr.topic.2022.high.188e4affad2eb53dc476",
+    "kr.topic.2022.high.1ba7ec6d40748ff23989",
+    "kr.topic.2022.high.49b2305dbde28e66b537",
+    "kr.topic.2022.high.5515c6b5c90462632a9f",
+    "kr.topic.2022.high.5fd4d4431ce9d4155048",
+    "kr.topic.2022.high.731b2c0896e4e895f709",
+    "kr.topic.2022.high.74c12f01785bc2c77d3d",
+    "kr.topic.2022.high.9adec361f9a071c492a2",
+    "kr.topic.2022.high.9d7ebf697d324effe738",
+    "kr.topic.2022.high.b70039db926e02d11e6c",
+    "kr.topic.2022.high.def18cb1329a9429d928"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.8bbbff3d06d41b8288",
+   "titleKorean": "요트 조종 — 엔진 점검과 정비",
+   "subjectKorean": "요트 조종",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "엔진 점검과 정비",
+   "summary": "요트 조종의 엔진 점검과 정비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.8919cf2f4031a53b6515",
+    "kr.topic.2022.high.eab172a3fe2cdfb3bf53"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.8d626ef9e40699ac70",
+   "titleKorean": "선박 운용 — 비상 대응 및 선내 안전·위생 관리",
+   "subjectKorean": "선박 운용",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "비상 대응 및 선내 안전·위생 관리",
+   "summary": "선박 운용의 비상 대응 및 선내 안전·위생 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.0a3a6e136968a245afcf",
+    "kr.topic.2022.high.31398d0e1aa1048c5617",
+    "kr.topic.2022.high.39d9ad9b6e4c841b4d6e",
+    "kr.topic.2022.high.941efdc66a3a0122c2ae"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.8e155035fd5882ef95",
+   "titleKorean": "수산 생물 — 수산 생물의 환경",
+   "subjectKorean": "수산 생물",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "수산 생물의 환경",
+   "summary": "수산 생물의 수산 생물의 환경 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.0aa0bb1d20fc49b01b84",
+    "kr.topic.2022.high.1e8e8c07bac59ba5d363",
+    "kr.topic.2022.high.25d82a975088bf8e6194",
+    "kr.topic.2022.high.3d9109160c0664d762c0",
+    "kr.topic.2022.high.66263920fb1cfa341440",
+    "kr.topic.2022.high.680676ec4dbfd0159550",
+    "kr.topic.2022.high.6d13ed5e60928c501159",
+    "kr.topic.2022.high.827a52c58f744403a420",
+    "kr.topic.2022.high.8e4e0139f7380714723d",
+    "kr.topic.2022.high.9cca62c9b9d55ed891d8",
+    "kr.topic.2022.high.b27ffe04210ab2258f10",
+    "kr.topic.2022.high.c00140a0a14a57b34c99"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.8e985745e21d1ca163",
+   "titleKorean": "잠수 기술 — 잠수 작업",
+   "subjectKorean": "잠수 기술",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "잠수 작업",
+   "summary": "잠수 기술의 잠수 작업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 16,
+   "topics": [
+    "kr.topic.2022.high.22d949487625fafc1a0f",
+    "kr.topic.2022.high.300697a9cfde21948021",
+    "kr.topic.2022.high.3468d75c529abcf3f695",
+    "kr.topic.2022.high.6404a1b1aa9d9a3285fe",
+    "kr.topic.2022.high.67928b24bfda540f844b",
+    "kr.topic.2022.high.696a35c0f76d3edc84c7",
+    "kr.topic.2022.high.6d10d5bdbf9cafffbeb5",
+    "kr.topic.2022.high.6de3923ddd6d48dacf2f",
+    "kr.topic.2022.high.924f40300d54cfe77b61",
+    "kr.topic.2022.high.9f6be28cbc8b919214ba",
+    "kr.topic.2022.high.b2308d3b4771cd745c9a",
+    "kr.topic.2022.high.c06b8575ef6dfc3ddd43",
+    "kr.topic.2022.high.d11a7f56a0a80e14cc92",
+    "kr.topic.2022.high.da64badcbdb429e1f99f",
+    "kr.topic.2022.high.de19f5fb76a027766e28",
+    "kr.topic.2022.high.fe5fb4b38a83f3f5f2dd"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9037c2789e16528ed5",
+   "titleKorean": "해사 영어 — 항만국 통제 및 오일 메이저(oil major) 검사 회화",
+   "subjectKorean": "해사 영어",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "항만국 통제 및 오일 메이저(oil major) 검사 회화",
+   "summary": "해사 영어의 항만국 통제 및 오일 메이저(oil major) 검사 회화 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.11cf04bef601f7762b13",
+    "kr.topic.2022.high.2ec09a6b306ced272d2a",
+    "kr.topic.2022.high.dddd11a60c2670a1d801",
+    "kr.topic.2022.high.ff6caf4fb9feba8520f8"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.904576868be695af25",
+   "titleKorean": "해양 레저 관광 — 해양 관광의 이해",
+   "subjectKorean": "해양 레저 관광",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "해양 관광의 이해",
+   "summary": "해양 레저 관광의 해양 관광의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.203b5c46e0ecab684d86",
+    "kr.topic.2022.high.2d099711a4af5ab34e70",
+    "kr.topic.2022.high.3c1a050d34325c5bb479",
+    "kr.topic.2022.high.6c652640ca3665ddb1fa"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.921f910d6e23847dd2",
+   "titleKorean": "선화 운송 — 영역 05",
+   "subjectKorean": "선화 운송",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "선화 운송의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.0bdbd852b886bd1869f2",
+    "kr.topic.2022.high.49ac9d0f8cc9cddd8ad5",
+    "kr.topic.2022.high.60eb0eb4ad1d8e8ed5fd",
+    "kr.topic.2022.high.763df2e28a21315cf244"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.923bf98839334c4ba2",
+   "titleKorean": "항만 물류 일반 — 항만 물류 개요",
+   "subjectKorean": "항만 물류 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "항만 물류 개요",
+   "summary": "항만 물류 일반의 항만 물류 개요 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.145feb176abfd24ffe58",
+    "kr.topic.2022.high.89f215f1558565e216ef",
+    "kr.topic.2022.high.9a4e406e53b213e4f926"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.92d11b24de8c4025ea",
+   "titleKorean": "수산 양식 일반 — 양식 사료",
+   "subjectKorean": "수산 양식 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "양식 사료",
+   "summary": "수산 양식 일반의 양식 사료 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.8f3bffb8fcd5d6db885d",
+    "kr.topic.2022.high.99b566b1d1a23d3dd569"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.92ea4827ebe3ddc5c6",
+   "titleKorean": "열기관 — 기관의 제어 장치",
+   "subjectKorean": "열기관",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "기관의 제어 장치",
+   "summary": "열기관의 기관의 제어 장치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.7754c32edaf3d18791d1",
+    "kr.topic.2022.high.950fb60e08489ac1660a",
+    "kr.topic.2022.high.d1f43c91c8e2e715f0f4",
+    "kr.topic.2022.high.e772ccc8e9692ed04a39"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.940806343225852628",
+   "titleKorean": "해양의 이해 — 수해양 자원의 이용",
+   "subjectKorean": "해양의 이해",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "수해양 자원의 이용",
+   "summary": "해양의 이해의 수해양 자원의 이용 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.24e67b1391f19558976d",
+    "kr.topic.2022.high.3598d3af8e7266689c00",
+    "kr.topic.2022.high.51c3fe3abe0847a49627",
+    "kr.topic.2022.high.9383bd7b58e0242e974b",
+    "kr.topic.2022.high.bc5443d5616b4bb4eaa6",
+    "kr.topic.2022.high.ea3957a750dc7f467afc"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.964ca22ec330d7ef31",
+   "titleKorean": "열기관 — 영역 05",
+   "subjectKorean": "열기관",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "열기관의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.4b35c496742c06772d3e",
+    "kr.topic.2022.high.4d4f26a405e53bb6ac49",
+    "kr.topic.2022.high.7600f8c84c7ecb6203c9",
+    "kr.topic.2022.high.9c9b6c0d6fe46a307438"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.99332d4fa301f71872",
+   "titleKorean": "어선 전문 — 「어선법」",
+   "subjectKorean": "어선 전문",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "「어선법」",
+   "summary": "어선 전문의 「어선법」 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.0aee9bf7793fd27ea917",
+    "kr.topic.2022.high.7af746bcd634921d1e4e",
+    "kr.topic.2022.high.a87b85dc3a368f0607a0",
+    "kr.topic.2022.high.c2c1dcf69ab929ebb8ef",
+    "kr.topic.2022.high.cca71d846aa3d9db0a52"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9ac6d9c0114ea4ad66",
+   "titleKorean": "항해 기초 — 항해 계기",
+   "subjectKorean": "항해 기초",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "항해 계기",
+   "summary": "항해 기초의 항해 계기 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.cd17712c6512fd121838",
+    "kr.topic.2022.high.d85c2e17e7e10934779e",
+    "kr.topic.2022.high.e5263e162b8a9c0b14e9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9b46e7d8ae6bbc162e",
+   "titleKorean": "항해사 직무 — 항해 계획",
+   "subjectKorean": "항해사 직무",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "항해 계획",
+   "summary": "항해사 직무의 항해 계획 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.100df85b4d2da4558333",
+    "kr.topic.2022.high.3d7458f8df78706801b5",
+    "kr.topic.2022.high.57b8c9306c24ad3e125d",
+    "kr.topic.2022.high.5b7068ff12b7e3e0d82d",
+    "kr.topic.2022.high.5f61d2378994aa3d9e9e",
+    "kr.topic.2022.high.7797eb7d9e00232d7c06",
+    "kr.topic.2022.high.7bde9c4e73d9f86d6bb4",
+    "kr.topic.2022.high.8587e91bf1a8c1982071",
+    "kr.topic.2022.high.9c4a2b926ae02fc0d00b",
+    "kr.topic.2022.high.af85859bd5390e811ec2",
+    "kr.topic.2022.high.df66db14f23303beae71"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9b95e08bcb0d2c6dea",
+   "titleKorean": "선박 보조 기계 — 기관실 보조 기계",
+   "subjectKorean": "선박 보조 기계",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "기관실 보조 기계",
+   "summary": "선박 보조 기계의 기관실 보조 기계 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.7c50a71c7c3f61c09bb5",
+    "kr.topic.2022.high.8b487d957073d8c03439",
+    "kr.topic.2022.high.cb4b9dd24c2056a0f91d",
+    "kr.topic.2022.high.f50c9778ba1c8a419597"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9dd0eb045a5f22d846",
+   "titleKorean": "수산 경영 — 수산 경영의 특성",
+   "subjectKorean": "수산 경영",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "수산 경영의 특성",
+   "summary": "수산 경영의 수산 경영의 특성 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.620b439e45753ab0c7a6",
+    "kr.topic.2022.high.86819c9ea04ff29d8ec3"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9e3ad4f7650edfeba4",
+   "titleKorean": "수산 일반 — 수산업과 수산 자원",
+   "subjectKorean": "수산 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "수산업과 수산 자원",
+   "summary": "수산 일반의 수산업과 수산 자원 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.0dadea3fd71ce609b286",
+    "kr.topic.2022.high.5f5d6af98536e0d28ca1",
+    "kr.topic.2022.high.74f18e01448290732f4c",
+    "kr.topic.2022.high.d5e54e124be2d1bdfc39",
+    "kr.topic.2022.high.e02adbb4e2432db65222"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9e74f9a99ff82e7d46",
+   "titleKorean": "항해사 직무 — 영역 06",
+   "subjectKorean": "항해사 직무",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 06",
+   "summary": "항해사 직무의 영역 06 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.878bd98afa18960d93fd",
+    "kr.topic.2022.high.eebdbb5383a7dc140b31"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a01b86c961f4e32232",
+   "titleKorean": "항만 물류 일반 — 항만 관리와 운영",
+   "subjectKorean": "항만 물류 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "항만 관리와 운영",
+   "summary": "항만 물류 일반의 항만 관리와 운영 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.0c6072818b4bad44af49",
+    "kr.topic.2022.high.571bf53037240a44f1c4",
+    "kr.topic.2022.high.7ba15ac271a121892ab2",
+    "kr.topic.2022.high.b973d13c51440f55f459"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a113778a42468a1488",
+   "titleKorean": "해양 레저 관광 — 해양 레저 관광 안전",
+   "subjectKorean": "해양 레저 관광",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "해양 레저 관광 안전",
+   "summary": "해양 레저 관광의 해양 레저 관광 안전 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.5f81ad1ab5696e9cab45",
+    "kr.topic.2022.high.8e18aa452846750e3dff",
+    "kr.topic.2022.high.eef10702f50e0d0fac8f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a1f5f3e640b57cbadf",
+   "titleKorean": "요트 조종 — 요트 관련 법규",
+   "subjectKorean": "요트 조종",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "요트 관련 법규",
+   "summary": "요트 조종의 요트 관련 법규 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.3a9f8215ca2481a0eae9",
+    "kr.topic.2022.high.461449fea66b2e892a22",
+    "kr.topic.2022.high.ad134125399484260cbb",
+    "kr.topic.2022.high.baaf377f4549624007ee"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a2e3cdf73fe58885c5",
+   "titleKorean": "해양의 이해 — 수해양과 생물",
+   "subjectKorean": "해양의 이해",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "수해양과 생물",
+   "summary": "해양의 이해의 수해양과 생물 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 14,
+   "topics": [
+    "kr.topic.2022.high.1468ce4ce595adcc2fce",
+    "kr.topic.2022.high.1a000009b78e38c7c77f",
+    "kr.topic.2022.high.5eb5e7f0c61836ccf45f",
+    "kr.topic.2022.high.7199758442da2c022034",
+    "kr.topic.2022.high.719cb3af4be97b017054",
+    "kr.topic.2022.high.72727414bf6881914a52",
+    "kr.topic.2022.high.74afbf5ffcc7c7b894a7",
+    "kr.topic.2022.high.922a8d3b8521fd6dc4c4",
+    "kr.topic.2022.high.9976ca792156bd2cd6fd",
+    "kr.topic.2022.high.a7c5cd9416254cd84887",
+    "kr.topic.2022.high.b04e39a35dc6e2f9becc",
+    "kr.topic.2022.high.cabc1a15c3dacaad63e2",
+    "kr.topic.2022.high.d30469f4ca6902a38a29",
+    "kr.topic.2022.high.fbe276ce428199f8b552"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a3788f3cdd3d064e06",
+   "titleKorean": "기관 직무 일반 — 비상조치 및 손상 제어",
+   "subjectKorean": "기관 직무 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "비상조치 및 손상 제어",
+   "summary": "기관 직무 일반의 비상조치 및 손상 제어 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.3fb724bc096f9ee4c2da",
+    "kr.topic.2022.high.54ccea091cedef56988e",
+    "kr.topic.2022.high.a90db4f3b4773c82fc2b",
+    "kr.topic.2022.high.b4a541383c36ff883481"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a4865528f391cc2943",
+   "titleKorean": "수산･해운 산업 기초 — 미래 식량 산업 수산업",
+   "subjectKorean": "수산･해운 산업 기초",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "미래 식량 산업 수산업",
+   "summary": "수산･해운 산업 기초의 미래 식량 산업 수산업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.089596262c10174008e0",
+    "kr.topic.2022.high.5bc7aeec667e3e577260",
+    "kr.topic.2022.high.5da7f5f52c1cf8611a93",
+    "kr.topic.2022.high.7f54530e24f9a143188d",
+    "kr.topic.2022.high.9b299d9b4246c507de0d",
+    "kr.topic.2022.high.b6584ccc93c765224cd0"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a612dd9892055697cf",
+   "titleKorean": "수산 생물 — 수산 생물의 개요",
+   "subjectKorean": "수산 생물",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "수산 생물의 개요",
+   "summary": "수산 생물의 수산 생물의 개요 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.261656032fc6d16780c1",
+    "kr.topic.2022.high.439e72d828a6f283e761",
+    "kr.topic.2022.high.8d5d37ef97f275000e77",
+    "kr.topic.2022.high.96b4896c1df142e4a7de",
+    "kr.topic.2022.high.d6434e112ba68bfcb454",
+    "kr.topic.2022.high.dcac51ae5daab9027f2c",
+    "kr.topic.2022.high.fd0cbbced1dd00552df2"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.add890f57a3bda1828",
+   "titleKorean": "항만 물류 일반 — 항만 하역과 운송 작업",
+   "subjectKorean": "항만 물류 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "항만 하역과 운송 작업",
+   "summary": "항만 물류 일반의 항만 하역과 운송 작업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.2d704e2bcbae7a6b662e",
+    "kr.topic.2022.high.85431fe79f3299563a6f",
+    "kr.topic.2022.high.b9fcb40b7f51bf22f8c2",
+    "kr.topic.2022.high.e60d3bc5070cc6b78899"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.afa3776b56edec9db5",
+   "titleKorean": "양식 생물 질병 — 전염성 질병 진단 및 대책",
+   "subjectKorean": "양식 생물 질병",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "전염성 질병 진단 및 대책",
+   "summary": "양식 생물 질병의 전염성 질병 진단 및 대책 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.164ac81b23bce2bde9a3",
+    "kr.topic.2022.high.a1de2061682c403ec5e5",
+    "kr.topic.2022.high.bdc4483a7dc0dcbb3f73",
+    "kr.topic.2022.high.cf322d2cc8b49c1c0437",
+    "kr.topic.2022.high.f4bfd897539eb9f1b08f",
+    "kr.topic.2022.high.ff23f8a530c2f25589fe"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.afdcedd78bca3d8609",
+   "titleKorean": "양식 생물 질병 — 양식 생물의 진단",
+   "subjectKorean": "양식 생물 질병",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "양식 생물의 진단",
+   "summary": "양식 생물 질병의 양식 생물의 진단 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.62b8518b03729c169f92",
+    "kr.topic.2022.high.66ab576867d70b21d3da",
+    "kr.topic.2022.high.a2d1eeeed2fa70946b3c",
+    "kr.topic.2022.high.ed9f991cf78263597328"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b01867b2c7c570de04",
+   "titleKorean": "수산 해양 창업 — 수산 해양 창업 세무 회계",
+   "subjectKorean": "수산 해양 창업",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "수산 해양 창업 세무 회계",
+   "summary": "수산 해양 창업의 수산 해양 창업 세무 회계 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.2b065a6d45912e118695",
+    "kr.topic.2022.high.7b7fcfe9ccf55a712703",
+    "kr.topic.2022.high.9c34d7bdb680c3c90bd5"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b247c3624d8e19cf3a",
+   "titleKorean": "기관 실무 기초 — 기관실 배관 계통도",
+   "subjectKorean": "기관 실무 기초",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "기관실 배관 계통도",
+   "summary": "기관 실무 기초의 기관실 배관 계통도 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.993032abcaca3546f5a2",
+    "kr.topic.2022.high.dfe405ce9c27301a7645"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b2c4d43645538691d2",
+   "titleKorean": "해양 오염･방제 — 오염 물질의 움직임과 방제 활동",
+   "subjectKorean": "해양 오염･방제",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "오염 물질의 움직임과 방제 활동",
+   "summary": "해양 오염･방제의 오염 물질의 움직임과 방제 활동 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.824331f3ef5e56c4b804",
+    "kr.topic.2022.high.9c5298f302fb4cf778f7",
+    "kr.topic.2022.high.c3d6133bada95dde5022",
+    "kr.topic.2022.high.ef964f3b90718e238300"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b32009d8b14871220f",
+   "titleKorean": "항만 물류 일반 — 선화 증권과 해상 운송 계약",
+   "subjectKorean": "항만 물류 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "선화 증권과 해상 운송 계약",
+   "summary": "항만 물류 일반의 선화 증권과 해상 운송 계약 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.611e1c2e88aeae68bc6e",
+    "kr.topic.2022.high.c5e4ac8496ae3c5ed788",
+    "kr.topic.2022.high.cc05b68a37a215415027",
+    "kr.topic.2022.high.ff86b8a41c2f078748bd"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b3d40d863cc117bfd4",
+   "titleKorean": "잠수 기술 — 잠수 일반",
+   "subjectKorean": "잠수 기술",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "잠수 일반",
+   "summary": "잠수 기술의 잠수 일반 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 15,
+   "topics": [
+    "kr.topic.2022.high.0a48a8cad952a67b7b5e",
+    "kr.topic.2022.high.13f92af23bdc6c264ae1",
+    "kr.topic.2022.high.2ea639e16922877f0511",
+    "kr.topic.2022.high.3f96dd1834dfaeab0cb4",
+    "kr.topic.2022.high.a6061a6d741d075dddac",
+    "kr.topic.2022.high.b2a96c771c284cbeb807",
+    "kr.topic.2022.high.b2fc81dbd54b678a4e02",
+    "kr.topic.2022.high.c1720c9304d6f3da8fe8",
+    "kr.topic.2022.high.c5d23878f35800f39857",
+    "kr.topic.2022.high.cac5cb3cb3fec2f756f0",
+    "kr.topic.2022.high.d1fb3de985d770d1407b",
+    "kr.topic.2022.high.d4cf851f9d312c2d096f",
+    "kr.topic.2022.high.d702c1ade9f48b86fbbf",
+    "kr.topic.2022.high.ed99375abe0f9177ad0b",
+    "kr.topic.2022.high.f47fccfc2dc29208d56f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b554011eb662ac287a",
+   "titleKorean": "수산 해양 창업 — 수산 해양 창업 절차",
+   "subjectKorean": "수산 해양 창업",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "수산 해양 창업 절차",
+   "summary": "수산 해양 창업의 수산 해양 창업 절차 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.15fc9bb8c5e8538c6d1a",
+    "kr.topic.2022.high.4a2fc709c5d968808830",
+    "kr.topic.2022.high.6a624ddc8675df91f31b",
+    "kr.topic.2022.high.87d940bed41d5420e998"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b72f29f1a46abc867e",
+   "titleKorean": "선화 운송 — 적화와 복원성",
+   "subjectKorean": "선화 운송",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "적화와 복원성",
+   "summary": "선화 운송의 적화와 복원성 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.03b0831305b08a500cad",
+    "kr.topic.2022.high.7e9756397fe7f4f29539",
+    "kr.topic.2022.high.83299e43d9e71fd35fa4",
+    "kr.topic.2022.high.95a5c2c36c6b01abac06",
+    "kr.topic.2022.high.dda5eeab0d686a3684f3",
+    "kr.topic.2022.high.e60bbf4fdc7b48d710de",
+    "kr.topic.2022.high.f07274bccad20bc5133e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b7943e72b9f7efda27",
+   "titleKorean": "수산 생물 — 수산 생물의 종류",
+   "subjectKorean": "수산 생물",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "수산 생물의 종류",
+   "summary": "수산 생물의 수산 생물의 종류 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.153f59e5b2344be9767d",
+    "kr.topic.2022.high.2104850a5985f457ef70",
+    "kr.topic.2022.high.2ae5e1389d0a14a0e7c0",
+    "kr.topic.2022.high.3d63eed469218d0b33c4",
+    "kr.topic.2022.high.502d35e15c3a725ffd42",
+    "kr.topic.2022.high.7e4e4d1ac245b343d5a9",
+    "kr.topic.2022.high.84eb3bfe95a317e01056",
+    "kr.topic.2022.high.861685c2ea3938376fb8",
+    "kr.topic.2022.high.870fa8294d59567fbb02",
+    "kr.topic.2022.high.c75b3e87b9b63483081f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b79f08c1651e473ab0",
+   "titleKorean": "활어 취급 일반 — 활어 사업 운영",
+   "subjectKorean": "활어 취급 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "활어 사업 운영",
+   "summary": "활어 취급 일반의 활어 사업 운영 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.7cb52b580b34f48003f7",
+    "kr.topic.2022.high.bfd597f907d02c73fe50",
+    "kr.topic.2022.high.f6a6893dd52c51a2290d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b8c72e7edcc9cbe77e",
+   "titleKorean": "전자 통신 운용 — 항법 장치",
+   "subjectKorean": "전자 통신 운용",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "항법 장치",
+   "summary": "전자 통신 운용의 항법 장치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.5a63ee1040e9a62847fa",
+    "kr.topic.2022.high.8c9942523bfcdd60ec39",
+    "kr.topic.2022.high.98bfe1f30f04abfc34ac"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.bd92cb8d788cde3417",
+   "titleKorean": "기관 실무 기초 — 기계 설계 및 제도",
+   "subjectKorean": "기관 실무 기초",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "기계 설계 및 제도",
+   "summary": "기관 실무 기초의 기계 설계 및 제도 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.2d8d9e335e9175f028ce",
+    "kr.topic.2022.high.92dc4e1f24f56a015ebb",
+    "kr.topic.2022.high.f79bd4e0e3a5aeaad043",
+    "kr.topic.2022.high.f7f8cf3fe4fc61c4c5e9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c21b49fd61411a4afc",
+   "titleKorean": "해사 일반 — 해운 실무",
+   "subjectKorean": "해사 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "해운 실무",
+   "summary": "해사 일반의 해운 실무 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.2d61804ed37f17cbf6b6",
+    "kr.topic.2022.high.463f7573bb7efd0c8057",
+    "kr.topic.2022.high.6a9914e8b0a9a3340934",
+    "kr.topic.2022.high.768ad6aaa8cffbeb2049",
+    "kr.topic.2022.high.8aeea63e466f1eca48ef",
+    "kr.topic.2022.high.af22677c88c56abb6999",
+    "kr.topic.2022.high.c0a8ff24c13ff02df3a5",
+    "kr.topic.2022.high.c4e4d79fa4d9c84fc8bf"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c2211cda95dcdb13a9",
+   "titleKorean": "수산물 유통 — 수산물 유통",
+   "subjectKorean": "수산물 유통",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "수산물 유통",
+   "summary": "수산물 유통의 수산물 유통 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.a70b9001501d991740bd",
+    "kr.topic.2022.high.c006be2b92edbcb4ddd8",
+    "kr.topic.2022.high.d9e236552d4091c41aa8"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c2762cbc7f70c8e0ab",
+   "titleKorean": "수산 생물 — 수산 자원의 조성",
+   "subjectKorean": "수산 생물",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "수산 자원의 조성",
+   "summary": "수산 생물의 수산 자원의 조성 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.02db62306baa6a2456a8",
+    "kr.topic.2022.high.141f695cd5ca988e8a7c",
+    "kr.topic.2022.high.3344103207fa37dbeb91",
+    "kr.topic.2022.high.4b9d31a6f385d7a66376",
+    "kr.topic.2022.high.5573a20c683de645ccf6",
+    "kr.topic.2022.high.75e6c76e4fc6b8a2cb04",
+    "kr.topic.2022.high.82807f280b773716459f",
+    "kr.topic.2022.high.931630b21bf0e892bdae",
+    "kr.topic.2022.high.96269f8bab18f66fc783",
+    "kr.topic.2022.high.96c4ee6971681d9b1af6",
+    "kr.topic.2022.high.cf7c3567c190bd31cc1f",
+    "kr.topic.2022.high.ece1d0e1d802fc8e8726"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c2f1220cbb97d85d4e",
+   "titleKorean": "선박 보조 기계 — 펌프와 유공압 기계",
+   "subjectKorean": "선박 보조 기계",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "펌프와 유공압 기계",
+   "summary": "선박 보조 기계의 펌프와 유공압 기계 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.0342a000f779bac154d8",
+    "kr.topic.2022.high.1e486ea8e3f408d84778",
+    "kr.topic.2022.high.53b01eaa066694e0cd5b",
+    "kr.topic.2022.high.9418240843a2a12aaae1",
+    "kr.topic.2022.high.d8ca213bed42bbdd9a44",
+    "kr.topic.2022.high.f6b54bf400bbed4cd53f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c6547352fb6c5dc33a",
+   "titleKorean": "기관 실무 기초 — 선박 구조",
+   "subjectKorean": "기관 실무 기초",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "선박 구조",
+   "summary": "기관 실무 기초의 선박 구조 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.5841264b836c1c27f71f",
+    "kr.topic.2022.high.752fa08774b0e1b77816"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c7821bf5932c79c366",
+   "titleKorean": "해양 레저 관광 — 해양 레저 장비 및 기구 운영",
+   "subjectKorean": "해양 레저 관광",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "해양 레저 장비 및 기구 운영",
+   "summary": "해양 레저 관광의 해양 레저 장비 및 기구 운영 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.45c0d46bc9460f7fb202",
+    "kr.topic.2022.high.bcf706b6c6f3ae1a021f",
+    "kr.topic.2022.high.d4098ac5ad4e1559270f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c7a69c1ffd73c6cb6d",
+   "titleKorean": "관상 생물 기초 — 관상 생물의 종류",
+   "subjectKorean": "관상 생물 기초",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "관상 생물의 종류",
+   "summary": "관상 생물 기초의 관상 생물의 종류 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.090adaab3745bb08719f",
+    "kr.topic.2022.high.2dd982bc2c3776500127",
+    "kr.topic.2022.high.7bb79606c9fe4a7ebc54",
+    "kr.topic.2022.high.80cc3ccda065018ec86a",
+    "kr.topic.2022.high.8c6406a0caf663570c54",
+    "kr.topic.2022.high.960294f92be0828316ee",
+    "kr.topic.2022.high.e051c732ca4632e78ad7",
+    "kr.topic.2022.high.fbfd6cc0ebe114f84e18",
+    "kr.topic.2022.high.fdb841c1c35efecdb49b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c976391059bfe17064",
+   "titleKorean": "잠수 기술 — 스킨 스쿠버 잠수",
+   "subjectKorean": "잠수 기술",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "스킨 스쿠버 잠수",
+   "summary": "잠수 기술의 스킨 스쿠버 잠수 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 20,
+   "topics": [
+    "kr.topic.2022.high.1db9d93017c71d0dfa50",
+    "kr.topic.2022.high.1dc25e6d576d2c274f8c",
+    "kr.topic.2022.high.321d35d2e9d1c5ce96c8",
+    "kr.topic.2022.high.3bc2930da389c6e1f30e",
+    "kr.topic.2022.high.5112bcabbc9716e4675c",
+    "kr.topic.2022.high.59269cfd89ec3a9a8477",
+    "kr.topic.2022.high.64c8df8d9e54e170ce12",
+    "kr.topic.2022.high.657126dd7739e48d95ec",
+    "kr.topic.2022.high.75d9eaec892e12d1df92",
+    "kr.topic.2022.high.9329df2cc76a992fa513",
+    "kr.topic.2022.high.9417b7b74085d061bd7f",
+    "kr.topic.2022.high.ad862c82350737bf2cdd",
+    "kr.topic.2022.high.b04f9ce460d699261f08",
+    "kr.topic.2022.high.b349d4302490aa640703",
+    "kr.topic.2022.high.b5bb5c90d54dd0aa308c",
+    "kr.topic.2022.high.b634ae6e7377944d87b3",
+    "kr.topic.2022.high.b72192487fbdd3ef51f2",
+    "kr.topic.2022.high.c0de640a2ec6664d2844",
+    "kr.topic.2022.high.cf6bd680e657e67690ae",
+    "kr.topic.2022.high.d4ede7c5c64d55889dc4"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ca761a5c253fad467c",
+   "titleKorean": "선박 전기·전자 — 전기와 자기",
+   "subjectKorean": "선박 전기·전자",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "전기와 자기",
+   "summary": "선박 전기·전자의 전기와 자기 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.191d08a4a5718291081c",
+    "kr.topic.2022.high.27d6a5f95adfb3b85ef4",
+    "kr.topic.2022.high.46cfe8a93a8fbab68629",
+    "kr.topic.2022.high.5e3a18084cdb30ef106c",
+    "kr.topic.2022.high.addd61affde3898f2c56",
+    "kr.topic.2022.high.b205c3fe066499256b9a",
+    "kr.topic.2022.high.b97815e536ef2f99485b",
+    "kr.topic.2022.high.cbd2f654410ff6001d0d",
+    "kr.topic.2022.high.fbd368abd0afff4c037a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.cb9fcb488f3bd7967e",
+   "titleKorean": "기관 실무 기초 — 공구와 손 다듬질",
+   "subjectKorean": "기관 실무 기초",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "공구와 손 다듬질",
+   "summary": "기관 실무 기초의 공구와 손 다듬질 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.4742d0b59ca5948b29ef",
+    "kr.topic.2022.high.4f5e6699dd242b47bee4",
+    "kr.topic.2022.high.dacc7e0dc89a4cc8d3c1"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.cbc4eb3177d8a2f25d",
+   "titleKorean": "수산 경영 — 수산업의 경영 관리",
+   "subjectKorean": "수산 경영",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "수산업의 경영 관리",
+   "summary": "수산 경영의 수산업의 경영 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.35dacd2906a2d4bea83e",
+    "kr.topic.2022.high.712d928db2411a200dd0",
+    "kr.topic.2022.high.82ad1be94642097b357d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.cd5e2986994e63ebec",
+   "titleKorean": "활어 취급 일반 — 활어 산업과 식문화",
+   "subjectKorean": "활어 취급 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "활어 산업과 식문화",
+   "summary": "활어 취급 일반의 활어 산업과 식문화 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.0ca5dc10bea5030ab6ac",
+    "kr.topic.2022.high.dd53fe7a70c9d2f0a2d1"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.cf72476a6fe1b09e78",
+   "titleKorean": "해사 법규 — 「선박법」",
+   "subjectKorean": "해사 법규",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "「선박법」",
+   "summary": "해사 법규의 「선박법」 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.08dfca7cdc1143047ab0",
+    "kr.topic.2022.high.2b310b6e901a8f56f30c",
+    "kr.topic.2022.high.3a599b09e2b5bb7cca60",
+    "kr.topic.2022.high.e73b3eddc3b3f74d072d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d1460792fb1ce3cd57",
+   "titleKorean": "해사 법규 — 「해양 환경 관리법」",
+   "subjectKorean": "해사 법규",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "「해양 환경 관리법」",
+   "summary": "해사 법규의 「해양 환경 관리법」 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.1357060ac85b8eef37a0",
+    "kr.topic.2022.high.495e27c97d39e8ab994d",
+    "kr.topic.2022.high.4be3545386ea83cac8f9",
+    "kr.topic.2022.high.5aeda3fa4d86d0b5e39e",
+    "kr.topic.2022.high.d303960f5e8ec9b0969e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d36cce36b3a24bfab4",
+   "titleKorean": "선화 운송 — 적화 계획과 하역",
+   "subjectKorean": "선화 운송",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "적화 계획과 하역",
+   "summary": "선화 운송의 적화 계획과 하역 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.0a7a430487f22efdd9aa",
+    "kr.topic.2022.high.27b12971c68b74db6b54",
+    "kr.topic.2022.high.3fc607d4239a784f8d20",
+    "kr.topic.2022.high.4eccb07e05cd388f2e3e",
+    "kr.topic.2022.high.682bfc78c69274c31cab",
+    "kr.topic.2022.high.739b233e69b4b977fca4",
+    "kr.topic.2022.high.a98b6142f2c8c302b881",
+    "kr.topic.2022.high.bbfe1bf5c2f4361794be",
+    "kr.topic.2022.high.bf898a1b7fee75085b8f",
+    "kr.topic.2022.high.e5a11b3c03f2fa6a89f8",
+    "kr.topic.2022.high.fb7f6af3bcfaf0a76c2c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d3790a73697f8688a7",
+   "titleKorean": "수산물 유통 — 수산물 유통 정보",
+   "subjectKorean": "수산물 유통",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "수산물 유통 정보",
+   "summary": "수산물 유통의 수산물 유통 정보 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.3c8c80f53721fc239945",
+    "kr.topic.2022.high.b2f36bb6a7c11941be5b",
+    "kr.topic.2022.high.d076852df6cb73ca966b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d386766fc8792aa683",
+   "titleKorean": "해사 영어 — 갑판부 관련 문서",
+   "subjectKorean": "해사 영어",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "갑판부 관련 문서",
+   "summary": "해사 영어의 갑판부 관련 문서 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.1d6ac6d59e116b729ce2",
+    "kr.topic.2022.high.b93a15ea54b880c0b0e0",
+    "kr.topic.2022.high.f98ed2886cca5218077a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d44b5d35d14857a2fb",
+   "titleKorean": "수산 경영 — 수산업과 수산 경영",
+   "subjectKorean": "수산 경영",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "수산업과 수산 경영",
+   "summary": "수산 경영의 수산업과 수산 경영 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.14a5bef4b3e5c2c31c0f",
+    "kr.topic.2022.high.a53ca1d063940979ec3e",
+    "kr.topic.2022.high.c3232cc8b661bc7adfe1"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d4c17894de53a798dc",
+   "titleKorean": "해사 법규 — 「선박 직원법」",
+   "subjectKorean": "해사 법규",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "「선박 직원법」",
+   "summary": "해사 법규의 「선박 직원법」 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.ac72821c523a9f2eef6e",
+    "kr.topic.2022.high.c2fb3ac1fab6854ab6a4",
+    "kr.topic.2022.high.d570643cf942d1cf1b47",
+    "kr.topic.2022.high.f176fb51f6e94abfbef5"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d8872babac10648e78",
+   "titleKorean": "선화 운송 — 화물의 운송과 관리",
+   "subjectKorean": "선화 운송",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "화물의 운송과 관리",
+   "summary": "선화 운송의 화물의 운송과 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 18,
+   "topics": [
+    "kr.topic.2022.high.08fae88bea716f67608a",
+    "kr.topic.2022.high.0afb16f9a2010e5e65e6",
+    "kr.topic.2022.high.0b742238f9426ec2ce7b",
+    "kr.topic.2022.high.1da8c4f3749b89e73ba3",
+    "kr.topic.2022.high.2b3b7fbaa10aacd06761",
+    "kr.topic.2022.high.337d4431c4b13ef8a420",
+    "kr.topic.2022.high.3a61a3a25d617fd05ead",
+    "kr.topic.2022.high.3cc9966540ebd77b2f86",
+    "kr.topic.2022.high.577a8100a93371d891fe",
+    "kr.topic.2022.high.5ca1225b7ae49d5e9787",
+    "kr.topic.2022.high.6f5885312b75d2ab6684",
+    "kr.topic.2022.high.8333a8b5f56503db1a0d",
+    "kr.topic.2022.high.88d0cf91d9d2be44cfc3",
+    "kr.topic.2022.high.93e7e82afad0f2d54a77",
+    "kr.topic.2022.high.c2a41fd18f9d41100125",
+    "kr.topic.2022.high.cdb9b4e1def153048091",
+    "kr.topic.2022.high.f0add01ee597f03593bc",
+    "kr.topic.2022.high.f6628c789836772577fd"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d914689ab7fa4badf7",
+   "titleKorean": "수산 해양 창업 — 수산 해양 지식 재산권",
+   "subjectKorean": "수산 해양 창업",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "수산 해양 지식 재산권",
+   "summary": "수산 해양 창업의 수산 해양 지식 재산권 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.0166348255a3e90739fc",
+    "kr.topic.2022.high.1c81b39937b63ca6b2b4",
+    "kr.topic.2022.high.313fb1f2d69b0936bc0f",
+    "kr.topic.2022.high.37de04fd1ad4ccd18ea7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.db639b1d53d26e28b7",
+   "titleKorean": "관상 생물 기초 — 관상 생물 사육 장비",
+   "subjectKorean": "관상 생물 기초",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "관상 생물 사육 장비",
+   "summary": "관상 생물 기초의 관상 생물 사육 장비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.3c66ab4cace1eef0efbd",
+    "kr.topic.2022.high.44c8bcdd43e361bbf011",
+    "kr.topic.2022.high.577aafa2acad1fcb9b7b",
+    "kr.topic.2022.high.5a0f9d5c8258be07cd4c",
+    "kr.topic.2022.high.862d6f8bea4ef10c966b",
+    "kr.topic.2022.high.8c044af3ae440fd758e3",
+    "kr.topic.2022.high.9b72a3e536f25cda02ac"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.dc27c1881468e28ae5",
+   "titleKorean": "열기관 — 회전형 기관과 분사 추진형 기관",
+   "subjectKorean": "열기관",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "회전형 기관과 분사 추진형 기관",
+   "summary": "열기관의 회전형 기관과 분사 추진형 기관 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.0f86f62dca82978cc95b",
+    "kr.topic.2022.high.8790d97675c88e9ee74e",
+    "kr.topic.2022.high.a316508837d5085eca2d",
+    "kr.topic.2022.high.b0739afa3de1a2c0519b",
+    "kr.topic.2022.high.d5767b7b57c35a098e94",
+    "kr.topic.2022.high.d8c7fe3fbda1cf72678d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.dc8a0732c33c400a32",
+   "titleKorean": "해사 영어 — 기관 용어와 기관 일지",
+   "subjectKorean": "해사 영어",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "기관 용어와 기관 일지",
+   "summary": "해사 영어의 기관 용어와 기관 일지 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.4fd8c77f5992c1a1ebfb",
+    "kr.topic.2022.high.f098c4366707ed16bd81"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ddd059d00d943a4172",
+   "titleKorean": "양식 생물 질병 — 양식 생물 질병의 개요",
+   "subjectKorean": "양식 생물 질병",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "양식 생물 질병의 개요",
+   "summary": "양식 생물 질병의 양식 생물 질병의 개요 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.1313a05060dc57138760",
+    "kr.topic.2022.high.236842b9035ca9f45b87",
+    "kr.topic.2022.high.8aff18b6bf88b0d8699d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.df55068ff46d66e0cb",
+   "titleKorean": "항해 기초 — 항법의 종류",
+   "subjectKorean": "항해 기초",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "항법의 종류",
+   "summary": "항해 기초의 항법의 종류 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.347f0136ad0c52b81fdf",
+    "kr.topic.2022.high.78d03142858b85a3a46b",
+    "kr.topic.2022.high.fb4ba87ff3d095ab84f8"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e06b39643674adfe88",
+   "titleKorean": "열기관 — 디젤 기관",
+   "subjectKorean": "열기관",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "디젤 기관",
+   "summary": "열기관의 디젤 기관 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 19,
+   "topics": [
+    "kr.topic.2022.high.06b4a6b95c432f81a2c9",
+    "kr.topic.2022.high.18d1cf17666f9aceead8",
+    "kr.topic.2022.high.1dae9ad2024b12786a48",
+    "kr.topic.2022.high.35c7e936bcdd4c31f924",
+    "kr.topic.2022.high.3a81fc39c36438a4b010",
+    "kr.topic.2022.high.595b8db7ff1436cdb99c",
+    "kr.topic.2022.high.635a098c8c34c57b29c2",
+    "kr.topic.2022.high.64926bbae8d337bd6498",
+    "kr.topic.2022.high.66d7598ff9e4c1393c55",
+    "kr.topic.2022.high.7620534244030f145732",
+    "kr.topic.2022.high.777f554be25404d95342",
+    "kr.topic.2022.high.830c89978158df41c3af",
+    "kr.topic.2022.high.a9f18516bb81e66fd644",
+    "kr.topic.2022.high.ab44a9cb3da2c9c5579c",
+    "kr.topic.2022.high.b371f5b8a75a9dec19b0",
+    "kr.topic.2022.high.dc4d571560ef39074227",
+    "kr.topic.2022.high.e4b951b62ee25c01f4f7",
+    "kr.topic.2022.high.e5f085b071e7b0157fbc",
+    "kr.topic.2022.high.ede288caed20e4127c86"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e209d6cb53d3e67b2c",
+   "titleKorean": "요트 조종 — 요트의 추진 원리",
+   "subjectKorean": "요트 조종",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "요트의 추진 원리",
+   "summary": "요트 조종의 요트의 추진 원리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.083e17e6dd17684de18e",
+    "kr.topic.2022.high.9b75537c04903672a8cd"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e8c33f4ec499c9954d",
+   "titleKorean": "전자 통신 운용 — 전파 통신 관계 법규",
+   "subjectKorean": "전자 통신 운용",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "전파 통신 관계 법규",
+   "summary": "전자 통신 운용의 전파 통신 관계 법규 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.1c4b90872028627600ab",
+    "kr.topic.2022.high.25ef56c31a4383c5bce5",
+    "kr.topic.2022.high.694d1560eeb2a1b0e081",
+    "kr.topic.2022.high.97cfa64c624ced78e33f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e92ae3100fa0676bce",
+   "titleKorean": "해사 영어 — 수리 주문과 기름 기록부 작성",
+   "subjectKorean": "해사 영어",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "수리 주문과 기름 기록부 작성",
+   "summary": "해사 영어의 수리 주문과 기름 기록부 작성 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.641458a9d08e31904750",
+    "kr.topic.2022.high.c4a71a646e2413c9b982"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e9ca0a99c76024685b",
+   "titleKorean": "기관 실무 기초 — 기계 재료 및 가공",
+   "subjectKorean": "기관 실무 기초",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "기계 재료 및 가공",
+   "summary": "기관 실무 기초의 기계 재료 및 가공 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.0d1ce947f52b8cb5ef4c",
+    "kr.topic.2022.high.0eab2beba5a88de60e7e",
+    "kr.topic.2022.high.5bc0c1aa228353e14116",
+    "kr.topic.2022.high.bce022c2870d2a24b934",
+    "kr.topic.2022.high.daf9d5f4674364b9d914",
+    "kr.topic.2022.high.e392df8d71aebf098ec2"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ee0161824c7074e1b2",
+   "titleKorean": "해양 레저 관광 — 해양 관광 상품 기획 및 시설 운영",
+   "subjectKorean": "해양 레저 관광",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "해양 관광 상품 기획 및 시설 운영",
+   "summary": "해양 레저 관광의 해양 관광 상품 기획 및 시설 운영 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.07ccfc51f96b05575212",
+    "kr.topic.2022.high.4025f0b5013e33a3bbd2",
+    "kr.topic.2022.high.4ea889c1711450d35bef",
+    "kr.topic.2022.high.7aed4d60997d0f0a3bc0",
+    "kr.topic.2022.high.8f148fa377a000039f53",
+    "kr.topic.2022.high.c080edde50cbecf5a4ac",
+    "kr.topic.2022.high.dba190e82c7251f30983",
+    "kr.topic.2022.high.f0c1f6712f7d188f1a4a",
+    "kr.topic.2022.high.f25f609351572bfda372"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ef17f6759a7b1b32be",
+   "titleKorean": "선화 운송 — 해상 운송",
+   "subjectKorean": "선화 운송",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "해상 운송",
+   "summary": "선화 운송의 해상 운송 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.01acf614897a35756f18",
+    "kr.topic.2022.high.0568adb03ede6d713714",
+    "kr.topic.2022.high.3549f2d7ae2083ad3896",
+    "kr.topic.2022.high.a397c7b4bb8f1e269599",
+    "kr.topic.2022.high.ac5b49c2c0834ca9e3a3",
+    "kr.topic.2022.high.c87bb37a419ecd3e6288",
+    "kr.topic.2022.high.cc982f2eb017f7da59e7",
+    "kr.topic.2022.high.d0b0bba5c3ae491808e0",
+    "kr.topic.2022.high.d0ca04391cc520400343",
+    "kr.topic.2022.high.ebcdeffa3089b14adb61"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.efc35577a9a832252f",
+   "titleKorean": "수산 경영 — 어촌 복지 향상",
+   "subjectKorean": "수산 경영",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "어촌 복지 향상",
+   "summary": "수산 경영의 어촌 복지 향상 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.1d756881351f3eb20fcb",
+    "kr.topic.2022.high.e663a2c5806aba315ad2"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.efdd6129dcf8963b23",
+   "titleKorean": "활어 취급 일반 — 활어 취급 방법",
+   "subjectKorean": "활어 취급 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "활어 취급 방법",
+   "summary": "활어 취급 일반의 활어 취급 방법 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.616c58ec1dfc94fffe83",
+    "kr.topic.2022.high.6e3b92a5f960f77f422f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f06272dc3b83fd306a",
+   "titleKorean": "해사 영어 — 항해 일지와 벨 북 작성",
+   "subjectKorean": "해사 영어",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "항해 일지와 벨 북 작성",
+   "summary": "해사 영어의 항해 일지와 벨 북 작성 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.14960620a8e2c66a9147",
+    "kr.topic.2022.high.53bea378f954c76dcf47",
+    "kr.topic.2022.high.f2e95ca06bef3612cddf"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f1f0503eb11bd743c1",
+   "titleKorean": "항해 기초 — 항해술의 기초",
+   "subjectKorean": "항해 기초",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "항해술의 기초",
+   "summary": "항해 기초의 항해술의 기초 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.044341a95bc5863858b0",
+    "kr.topic.2022.high.6c8b608c1f23ea1cab20",
+    "kr.topic.2022.high.dc605c4baae2d99843ec",
+    "kr.topic.2022.high.fdec8979bed04310c731"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f2c9448efcce3d1d3d",
+   "titleKorean": "어선 전문 — 어획물 처리",
+   "subjectKorean": "어선 전문",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "어획물 처리",
+   "summary": "어선 전문의 어획물 처리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.08ca20cbea418be5503a",
+    "kr.topic.2022.high.45083303ada302475463",
+    "kr.topic.2022.high.bae57c12f907d01182c8",
+    "kr.topic.2022.high.e49ae6fa5a938ed56788"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f416666e7d890a5a02",
+   "titleKorean": "수산 생물 — 수산 생물의 성장과 분포",
+   "subjectKorean": "수산 생물",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "수산 생물의 성장과 분포",
+   "summary": "수산 생물의 수산 생물의 성장과 분포 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.446fdab176f0530e66af",
+    "kr.topic.2022.high.45d6c11b854679dbdbb4",
+    "kr.topic.2022.high.51123b83a42ea1e34871",
+    "kr.topic.2022.high.71c64b631a3e814cf2b9",
+    "kr.topic.2022.high.783122f2f451287fa626",
+    "kr.topic.2022.high.83003cf32db14cefe844",
+    "kr.topic.2022.high.9ab0aa4c209c6f107b13",
+    "kr.topic.2022.high.c03e6c7c49c46b120a60",
+    "kr.topic.2022.high.f32e7585e8a6adbd9562",
+    "kr.topic.2022.high.fda11bcb1f49d1e2b497"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fa2a75d18ccf5e9b45",
+   "titleKorean": "열기관 — 열기관의 개요",
+   "subjectKorean": "열기관",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "열기관의 개요",
+   "summary": "열기관의 열기관의 개요 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.1c05be79ad926e1079c1",
+    "kr.topic.2022.high.2d99b033ac48fe7ab132",
+    "kr.topic.2022.high.6560f50ad1b34e1dac6d",
+    "kr.topic.2022.high.a54a2b8d02b11cce1109",
+    "kr.topic.2022.high.b3f2c47a7bda665b57fd"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fa4ec10053c785a327",
+   "titleKorean": "수산 일반 — 수산 양식",
+   "subjectKorean": "수산 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "수산 양식",
+   "summary": "수산 일반의 수산 양식 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.06cd34d546952eef3d28",
+    "kr.topic.2022.high.2d5c7c038cf2c962f957",
+    "kr.topic.2022.high.a17bc56b54059aa47bc3"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fb8b06856af468a279",
+   "titleKorean": "항해사 직무 — 해양 기상",
+   "subjectKorean": "항해사 직무",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "해양 기상",
+   "summary": "항해사 직무의 해양 기상 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 17,
+   "topics": [
+    "kr.topic.2022.high.07d4aa8782d8a1bf12d6",
+    "kr.topic.2022.high.0e9fdfb1a71ed793c723",
+    "kr.topic.2022.high.11afa0e6b0cf9f52f52c",
+    "kr.topic.2022.high.210a223ebaba8cdbb351",
+    "kr.topic.2022.high.228a8eaaed612380a2f2",
+    "kr.topic.2022.high.298ee61863065c965919",
+    "kr.topic.2022.high.34b4937bd58d48397f78",
+    "kr.topic.2022.high.46306681cfaac1e8aa24",
+    "kr.topic.2022.high.485194de9ae0bafe5338",
+    "kr.topic.2022.high.6c20a331ddd0dcc68997",
+    "kr.topic.2022.high.7babbc5740b8e5290015",
+    "kr.topic.2022.high.9a13fc5694d2419e73f3",
+    "kr.topic.2022.high.b84de58acd3f507c716d",
+    "kr.topic.2022.high.d8be4811e67832784dbb",
+    "kr.topic.2022.high.df01f9022bad26efbcfd",
+    "kr.topic.2022.high.e79648acdb141a7bc05e",
+    "kr.topic.2022.high.f80e2a112e3659926c0d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fbc694d853953cc159",
+   "titleKorean": "항해사 직무 — 항해사 주요 업무",
+   "subjectKorean": "항해사 직무",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "항해사 주요 업무",
+   "summary": "항해사 직무의 항해사 주요 업무 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.041c9a84399122593db2",
+    "kr.topic.2022.high.14f79c607b94aede02e3",
+    "kr.topic.2022.high.175f61e9f4660efd8add",
+    "kr.topic.2022.high.1b9d8f67285a04eb4962",
+    "kr.topic.2022.high.4182b97141f3e62a42ab",
+    "kr.topic.2022.high.57f9b831ead1c67678c2",
+    "kr.topic.2022.high.73da895fe4908c4829ba",
+    "kr.topic.2022.high.8e592363b77fa92e278d",
+    "kr.topic.2022.high.93a3c0b305b4feab9f44",
+    "kr.topic.2022.high.b568d2cc2f70e37c46e2",
+    "kr.topic.2022.high.b9e1d4acceeb934fec23",
+    "kr.topic.2022.high.bf4b761b8e748c8596e8",
+    "kr.topic.2022.high.dbf3bdafd5061402080e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fbe60bf9ea79a1b28b",
+   "titleKorean": "항해사 직무 — 국제 협약과 항만국 통제",
+   "subjectKorean": "항해사 직무",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "국제 협약과 항만국 통제",
+   "summary": "항해사 직무의 국제 협약과 항만국 통제 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 14,
+   "topics": [
+    "kr.topic.2022.high.0cf1d45907af5b0e0a2d",
+    "kr.topic.2022.high.19e6091223392ae6bce1",
+    "kr.topic.2022.high.2c953fa40e63fb26bb5a",
+    "kr.topic.2022.high.806b28442701feb11d99",
+    "kr.topic.2022.high.8f7050e354fc08b92cf7",
+    "kr.topic.2022.high.9a66ae59dfbdc22f33ab",
+    "kr.topic.2022.high.aef7e8650b52a054e599",
+    "kr.topic.2022.high.b56d9286833c6a1fa9d1",
+    "kr.topic.2022.high.b5fece98b0b50310eb34",
+    "kr.topic.2022.high.b7bec3eb31ff400df3c8",
+    "kr.topic.2022.high.b8e826ea98a476e3e91a",
+    "kr.topic.2022.high.e1d8b6eb187b5d75a854",
+    "kr.topic.2022.high.fe0288d7bd77eb8bd032",
+    "kr.topic.2022.high.fe712774f91650b20dc9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fc9d21047e3a158a2b",
+   "titleKorean": "해사 일반 — 선박 검사",
+   "subjectKorean": "해사 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "선박 검사",
+   "summary": "해사 일반의 선박 검사 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.05f7accaaac177c91eb3",
+    "kr.topic.2022.high.a97ad43af8c03c15b2db",
+    "kr.topic.2022.high.ebb82ed1bdd65a8cd091",
+    "kr.topic.2022.high.fa4884e7f5e26d5be0d2"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fe3d7deda21e30066a",
+   "titleKorean": "해사 일반 — 항만의 이해",
+   "subjectKorean": "해사 일반",
+   "majorFieldSlug": "fisheries-shipping",
+   "gradeBand": "10-12",
+   "domainKorean": "항만의 이해",
+   "summary": "해사 일반의 항만의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.1216ba3d346345c87ef4",
+    "kr.topic.2022.high.1a4a63def7eef579e495",
+    "kr.topic.2022.high.230c695d02dc3ec73a50",
+    "kr.topic.2022.high.487a96d19a2ff2233421",
+    "kr.topic.2022.high.4b378a65d449723ead48",
+    "kr.topic.2022.high.59b26db25a4576519ef7",
+    "kr.topic.2022.high.6b8400a0cc3c95523d13",
+    "kr.topic.2022.high.d063045bb7522b9ce63e"
+   ]
+  }
+ ]
+}

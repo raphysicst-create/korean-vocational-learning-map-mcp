@@ -1,0 +1,316 @@
+{
+  "dataset": "korean-vocational-learning-map",
+  "taxonomyVersion": "kr-vocational-v0.1",
+  "generatedAt": "2026-08-08T13:13:11.025Z",
+  "counts": {
+    "fields": 18,
+    "curricula": 219,
+    "curriculaIndexed": 528,
+    "standards": 8425,
+    "topics": 8425,
+    "dependencies": 35,
+    "texts": 8425
+  },
+  "files": {
+    "core/major-fields.json": {
+      "bytes": 6320,
+      "sha256": "1a431e1214f034f7f5363dc3149ca10dc4f2e2463e45770630b0c5e4a47a9cd3"
+    },
+    "core/curricula.json": {
+      "bytes": 163093,
+      "sha256": "d5a352bad94026736d377af35a070b354ecaf452e7757c1836a067eb8e6f6730"
+    },
+    "core/dependencies.json": {
+      "bytes": 15750,
+      "sha256": "d5e5175b8bc0779f1770e45754d6acec7dfdb546c23a4774f3fd5c371d856503"
+    },
+    "fields/agriculture-livestock/curriculum-standards.json": {
+      "bytes": 1198951,
+      "sha256": "a7b50521216a0b8c9320eb298f93f3c91749e2e42fd13711496da2d67d5a57fe"
+    },
+    "fields/agriculture-livestock/standard-texts.json": {
+      "bytes": 339671,
+      "sha256": "1d1e204fa5b7c5bc3433c84d284a4ede1242f1d9f6e5f8e89fd1bee119f29928"
+    },
+    "fields/agriculture-livestock/topics.json": {
+      "bytes": 1558731,
+      "sha256": "ea037b7d92ea5a79edd9eb743ffd8125b30ac4d2f4ae7818f5e1801b9bf12c04"
+    },
+    "fields/agriculture-livestock/clusters.json": {
+      "bytes": 147935,
+      "sha256": "432ff97ebf2da871596ce19204d26f64da30679d8e2e2473a131486526aaa719"
+    },
+    "fields/beauty/curriculum-standards.json": {
+      "bytes": 29848,
+      "sha256": "1eeb21ffd04adb6e66ff56519822bb9222d7dc4afa23527ac961998d114956c3"
+    },
+    "fields/beauty/standard-texts.json": {
+      "bytes": 9606,
+      "sha256": "93212029fc65f76cb719a229f1525f001552971fa830bde42ea250d487d5b91b"
+    },
+    "fields/beauty/topics.json": {
+      "bytes": 41610,
+      "sha256": "74525c62f592b37a6642e1ac5268ee7ee1a5577674514d860c233d9a9ea07c4e"
+    },
+    "fields/beauty/clusters.json": {
+      "bytes": 6187,
+      "sha256": "31513556e9e7fdb7f6e59dcd477311d0c8b5bde20d04893efe57f927f80cbbf7"
+    },
+    "fields/business-finance/curriculum-standards.json": {
+      "bytes": 540350,
+      "sha256": "294547b5a4b20e67b4333fcb45ea7622e7fa14ce2710e48c36c2eaca4b1cab67"
+    },
+    "fields/business-finance/standard-texts.json": {
+      "bytes": 150296,
+      "sha256": "0be1ecec015ecafe4d733a0e1f799b4f4fbf19dd86ed903c83a20b92bd019853"
+    },
+    "fields/business-finance/topics.json": {
+      "bytes": 686943,
+      "sha256": "a568fd03360083749c1b7ec6e833c303b7ece5466ff370c75189cc0b146c053c"
+    },
+    "fields/business-finance/clusters.json": {
+      "bytes": 69721,
+      "sha256": "a7a7ab932a7f52d16ff172a77036b7d7ed6e457460b9660e5ceb3b75fb59cc66"
+    },
+    "fields/chemical-industry/curriculum-standards.json": {
+      "bytes": 263855,
+      "sha256": "99cb65320e41b0198bbc3c4aef03207b13ac2d8eed724e47da5c66a4499f8bcd"
+    },
+    "fields/chemical-industry/standard-texts.json": {
+      "bytes": 75923,
+      "sha256": "bd39c7197ba9a9dac0e71fbf4df5aabda126fdec246803e794d38a4d5b64f232"
+    },
+    "fields/chemical-industry/topics.json": {
+      "bytes": 344441,
+      "sha256": "1739c0e9cba939d038ee68e8db927fb6b02902467fa19dd7b89cde0a4bedf6cb"
+    },
+    "fields/chemical-industry/clusters.json": {
+      "bytes": 33659,
+      "sha256": "26b9bb56fc381c986a1751597ca83b1f60bdebb2fd08641ded61d032d86745c8"
+    },
+    "fields/construction-civil/curriculum-standards.json": {
+      "bytes": 633819,
+      "sha256": "5ef6de4724809bd43a62d8728f33468e04c3551dcee1c96ad55f8207d615e13a"
+    },
+    "fields/construction-civil/standard-texts.json": {
+      "bytes": 181413,
+      "sha256": "77c6be605221826554841ce34d93a7c06d90e21b8504e00e900ad11323aa491f"
+    },
+    "fields/construction-civil/topics.json": {
+      "bytes": 825646,
+      "sha256": "58175578e3c3a9c7048c2b7f00a0d77b1568cfc077984c345e9f50f7ce61cfed"
+    },
+    "fields/construction-civil/clusters.json": {
+      "bytes": 64020,
+      "sha256": "741c0aba979fc538601ca207720b9668266be1dc9cb3aa86f113bcde5de49a56"
+    },
+    "fields/convergence-ip/curriculum-standards.json": {
+      "bytes": 185423,
+      "sha256": "4bd1a1f2537cadf71e85c844da9ca9d588ca4a82513f80a5c7c1672e7d220cc9"
+    },
+    "fields/convergence-ip/standard-texts.json": {
+      "bytes": 51587,
+      "sha256": "e5f1fbaec1b0fcae164682090067dd869f18cd18ec3d15401a1aca56ad7c897a"
+    },
+    "fields/convergence-ip/topics.json": {
+      "bytes": 236948,
+      "sha256": "b8345a7d599abf48c4d54591c73da1d0138d9b8b1be8aca4b3f587d0ebca0341"
+    },
+    "fields/convergence-ip/clusters.json": {
+      "bytes": 25466,
+      "sha256": "33dba64c20d82e16e94d744d2d72fd1c33c808ca6c57062996904d400487afe6"
+    },
+    "fields/culture-arts-design-broadcast/curriculum-standards.json": {
+      "bytes": 492639,
+      "sha256": "e8bc6dc1158c6d2bdc96709060389e43098cfaf97663927f66d0ed390ca2de5f"
+    },
+    "fields/culture-arts-design-broadcast/standard-texts.json": {
+      "bytes": 146043,
+      "sha256": "5ca257e1a82ad4d3960c9cbcdd6c90f2253c88a68b3d9943de4a7a6936358883"
+    },
+    "fields/culture-arts-design-broadcast/topics.json": {
+      "bytes": 667403,
+      "sha256": "328fa62ed0f02a38c0388546f4fc19535c1d7af1428973ea89e100f48bde9ea5"
+    },
+    "fields/culture-arts-design-broadcast/clusters.json": {
+      "bytes": 59695,
+      "sha256": "1b1ee1d9a392cf0aabee068210669a1a543624e0f39696b2fcf8af182c54fd1d"
+    },
+    "fields/electrical-electronics/curriculum-standards.json": {
+      "bytes": 308331,
+      "sha256": "51ad348f6946e89cbc82e800a1f7faf1237b49c8e011d695510160964b622568"
+    },
+    "fields/electrical-electronics/standard-texts.json": {
+      "bytes": 86674,
+      "sha256": "ef9049e01b7e671d4b9affca695e81780d7574068392ec01e3b142236c879a8d"
+    },
+    "fields/electrical-electronics/topics.json": {
+      "bytes": 395756,
+      "sha256": "6d66a212045271a15e082835040d0409cdc50761eb50503e1e5f6ad5202ca21d"
+    },
+    "fields/electrical-electronics/clusters.json": {
+      "bytes": 38776,
+      "sha256": "f48f6b0c95c61f67b772ec11c618a9c82cad3d84dac682e0a3f513b3ba81f508"
+    },
+    "fields/environment-safety-fire/curriculum-standards.json": {
+      "bytes": 738720,
+      "sha256": "1cf2f5f1f3277b313e648b995a4b7f5348a55f36429502c0ce5a1a827ea25a15"
+    },
+    "fields/environment-safety-fire/standard-texts.json": {
+      "bytes": 201667,
+      "sha256": "224b70ec1f917e62d36ba550d802bcc6b23d29c176dde4afc35cf57da561127f"
+    },
+    "fields/environment-safety-fire/topics.json": {
+      "bytes": 928794,
+      "sha256": "c7782f71a37104a0e408ec49354850cc84886b70f108f3795959aaf1ea304c61"
+    },
+    "fields/environment-safety-fire/clusters.json": {
+      "bytes": 74198,
+      "sha256": "b585aff3780c857e64843cd2df665469392633061a4319bd180f9139dd9f4d2b"
+    },
+    "fields/fisheries-shipping/curriculum-standards.json": {
+      "bytes": 974469,
+      "sha256": "4c8736dba0a5276b9d5f2f53a76d990de9419be937a8d69106e2e1c21e9504de"
+    },
+    "fields/fisheries-shipping/standard-texts.json": {
+      "bytes": 291305,
+      "sha256": "5d6ea2d2230e501b6566cbd36bc8180ee0b25d9c3515b38cc46f145927082655"
+    },
+    "fields/fisheries-shipping/topics.json": {
+      "bytes": 1326636,
+      "sha256": "271823dbbc64f8187c8efdb33168f6227ae708eaa2fb33d58b15b17954438d06"
+    },
+    "fields/fisheries-shipping/clusters.json": {
+      "bytes": 134530,
+      "sha256": "06c552e252cb9e405027ae6bd795131c7e4830de33b605e442b2bd5e01355549"
+    },
+    "fields/food-cooking/curriculum-standards.json": {
+      "bytes": 535327,
+      "sha256": "04671fe250b1b4bf7ae556a9f493386ff451baf3b91030d77e59c86170617521"
+    },
+    "fields/food-cooking/standard-texts.json": {
+      "bytes": 149703,
+      "sha256": "e79c582749648761ca33c5fe4f30ec817b53f004081c1ca3fa9973fb0b606e8c"
+    },
+    "fields/food-cooking/topics.json": {
+      "bytes": 685310,
+      "sha256": "67309ee4deed95191a51cd74cb4ac2476b2657c8accaa986f902e52f4cf581b1"
+    },
+    "fields/food-cooking/clusters.json": {
+      "bytes": 53385,
+      "sha256": "53f896f7c06247e707fc27fabd63a480f06c48e30e70f48f932536973d9fe4e7"
+    },
+    "fields/health-welfare/curriculum-standards.json": {
+      "bytes": 364406,
+      "sha256": "420e382a3454356cfd2670eb6fa41399c60767c1d02679f921ffb88bc8c27e85"
+    },
+    "fields/health-welfare/standard-texts.json": {
+      "bytes": 108247,
+      "sha256": "dfafe0ea896bc65c28f2413ddca50b2374a6bb9955795cdac7837972942c08e1"
+    },
+    "fields/health-welfare/topics.json": {
+      "bytes": 495814,
+      "sha256": "e3734e94b586c29908b88163d2bd135f1b334eb6225cf119c78ee506c5563004"
+    },
+    "fields/health-welfare/clusters.json": {
+      "bytes": 66758,
+      "sha256": "f49bf5f53dd23a4e7bca431052a59f8b89fe53df99d1c0d155ad35bf3bfe2a13"
+    },
+    "fields/information-communication/curriculum-standards.json": {
+      "bytes": 282409,
+      "sha256": "2dd61353e489f78bbdb6bbd7a7f68a4071f5aba79121ade95f56e71e43459e5b"
+    },
+    "fields/information-communication/standard-texts.json": {
+      "bytes": 88563,
+      "sha256": "50b0fde1e86d9c73bbac202ec2862265e3e499f7d3479c14261e0963167b4a43"
+    },
+    "fields/information-communication/topics.json": {
+      "bytes": 399132,
+      "sha256": "11c16a3321c6a2f958b888eeacc61b98e6b8640537986bf09082b2f10b57cb26"
+    },
+    "fields/information-communication/clusters.json": {
+      "bytes": 41071,
+      "sha256": "b7476766d17e2c7797466609af347161a04781e746aa70fd9377985913429103"
+    },
+    "fields/machinery/curriculum-standards.json": {
+      "bytes": 688251,
+      "sha256": "332d3396ccdee6a711555fe46d52af97e7fbcb402d679a3ec6b598af602e5c53"
+    },
+    "fields/machinery/standard-texts.json": {
+      "bytes": 195713,
+      "sha256": "f0ce32d062cdd8fe0a630a7c30c6f755732f04ddb23c472d114ef36b869b19e4"
+    },
+    "fields/machinery/topics.json": {
+      "bytes": 887403,
+      "sha256": "1b118bbf8d9863d847ff382f4e3c5c7a51031ee266c8e6320fd54f7c9ed6543e"
+    },
+    "fields/machinery/clusters.json": {
+      "bytes": 89269,
+      "sha256": "3ff6160c014186793199a3e1855cac935939f521f1f82a94637f4b215497d620"
+    },
+    "fields/materials/curriculum-standards.json": {
+      "bytes": 119448,
+      "sha256": "3fb0614c75d08d518fe6f6cce27288eb7b1d7e46760736fa4293c7da30740652"
+    },
+    "fields/materials/standard-texts.json": {
+      "bytes": 36171,
+      "sha256": "7830e564a3ccfc3917a45fe290de5d1541f3447335f69f72be7f41fa1f521cd7"
+    },
+    "fields/materials/topics.json": {
+      "bytes": 163381,
+      "sha256": "67e8af127e357bbab00bcc117b4a727f6bfc41ff9af86bd3ea765fc5fbbf610c"
+    },
+    "fields/materials/clusters.json": {
+      "bytes": 15976,
+      "sha256": "ce3d85b44aa41b2f86e8dc9e2545f4eafe32be2a33aa55e4210f118ff4c45559"
+    },
+    "fields/specialized-common/curriculum-standards.json": {
+      "bytes": 89925,
+      "sha256": "aa3f590311fe48414c51dc8a8ef8bd862648b509e5c32218f01e4a2a0e232b14"
+    },
+    "fields/specialized-common/standard-texts.json": {
+      "bytes": 19449,
+      "sha256": "20d5c48c9c183108b2e655bdd6aac145a66f135e953777f1dc356929ae163191"
+    },
+    "fields/specialized-common/topics.json": {
+      "bytes": 113379,
+      "sha256": "a89fbd53b404ef59bd3025dff4696d9b3c1a9e23cb4b88df154f514213003801"
+    },
+    "fields/specialized-common/clusters.json": {
+      "bytes": 12277,
+      "sha256": "1cb28555aa6b0a21cf6920f00357085fdc224f54b8935b7b0152f853bec52979"
+    },
+    "fields/textile-clothing/curriculum-standards.json": {
+      "bytes": 261435,
+      "sha256": "0b2c4b88501d93f17eb9079aa6cfc73f424807e817a95809d363d69bb2ed1ce1"
+    },
+    "fields/textile-clothing/standard-texts.json": {
+      "bytes": 76772,
+      "sha256": "7f855850f62b8711377cc04dede415afcbc50d8f0d79ca6d1f21753545e29684"
+    },
+    "fields/textile-clothing/topics.json": {
+      "bytes": 346006,
+      "sha256": "14a417e887df9555f8d44a31b8b730300c53303ac66fbf3766209d40a237097c"
+    },
+    "fields/textile-clothing/clusters.json": {
+      "bytes": 33206,
+      "sha256": "75bad327c2ea5e21ea1fe83388a2446e3d54480579f09f5a2563ce578d4e984c"
+    },
+    "fields/tourism-leisure/curriculum-standards.json": {
+      "bytes": 168357,
+      "sha256": "6b3dc879e606915677969e5abf73f2d99788671160d1790d766e647607119361"
+    },
+    "fields/tourism-leisure/standard-texts.json": {
+      "bytes": 47871,
+      "sha256": "890d0305ff9e15dad33ee06996f2b07a83ceefc3d1ce343a3cc294213c8e5542"
+    },
+    "fields/tourism-leisure/topics.json": {
+      "bytes": 220265,
+      "sha256": "c3303dc6d63a0468d10407e51d3fdd9a91f9dc5c56b448f515abca4bb1480b30"
+    },
+    "fields/tourism-leisure/clusters.json": {
+      "bytes": 32037,
+      "sha256": "c38c8fe5b827448c8a1c96eeff4d6c7aa041cccca33c4db79a60725265f60cfb"
+    }
+  }
+}

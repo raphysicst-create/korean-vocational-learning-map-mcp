@@ -1,0 +1,3636 @@
+{
+ "clusters": [
+  {
+   "id": "kr.cluster.2022.high.01f71c57e39cce4315",
+   "titleKorean": "농업 토목 제도ㆍ설계 — 농업 토목 시설물",
+   "subjectKorean": "농업 토목 제도ㆍ설계",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농업 토목 시설물",
+   "summary": "농업 토목 제도ㆍ설계의 농업 토목 시설물 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.121cd402f3afb5a840f9",
+    "kr.topic.2022.high.128c46cc37549b0ce30b",
+    "kr.topic.2022.high.23f55c30d391325aff4d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.035cf65d3967615404",
+   "titleKorean": "농업 정보 관리 — 디지털 협업 도구 활용",
+   "subjectKorean": "농업 정보 관리",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "디지털 협업 도구 활용",
+   "summary": "농업 정보 관리의 디지털 협업 도구 활용 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.005d3bb33274bab42221",
+    "kr.topic.2022.high.e0feda066c2bf14aa350",
+    "kr.topic.2022.high.f227a1a8ee4fbdb53db9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.045204a67cac42b4e0",
+   "titleKorean": "농업 기계 운전 작업 — 영역 07",
+   "subjectKorean": "농업 기계 운전 작업",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 07",
+   "summary": "농업 기계 운전 작업의 영역 07 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.977f35dd28104e50e78a",
+    "kr.topic.2022.high.dd40e61189c8e39c6d81"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.049e3a3538ca55e2a9",
+   "titleKorean": "임산 가공 — 목재의 성질과 구조",
+   "subjectKorean": "임산 가공",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "목재의 성질과 구조",
+   "summary": "임산 가공의 목재의 성질과 구조 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.011f0587497ad9a231c6",
+    "kr.topic.2022.high.354521ddfad977975f32",
+    "kr.topic.2022.high.61eeac34b980ff125e2e",
+    "kr.topic.2022.high.62985e0c1da5776f730c",
+    "kr.topic.2022.high.821e1f79200801b75840",
+    "kr.topic.2022.high.88c5689fd230d915f771",
+    "kr.topic.2022.high.cd510fb7759799705508",
+    "kr.topic.2022.high.f9d26282186d76358486"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0598e597c3140fbd1f",
+   "titleKorean": "화훼 장식 기초 — 분 식물 장식의 기본 기술",
+   "subjectKorean": "화훼 장식 기초",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "분 식물 장식의 기본 기술",
+   "summary": "화훼 장식 기초의 분 식물 장식의 기본 기술 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.034c091687d23bd5e946",
+    "kr.topic.2022.high.0a3d3fb755c54a7d1e62",
+    "kr.topic.2022.high.21251a47e2f6c1cb7f83",
+    "kr.topic.2022.high.5185653b11659e5dd0f5",
+    "kr.topic.2022.high.51cc3a52eed0e28032c6",
+    "kr.topic.2022.high.5c389045ebb424c8980a",
+    "kr.topic.2022.high.b3daced361bd3b069ca6",
+    "kr.topic.2022.high.d39bcb171c2f1fc56792",
+    "kr.topic.2022.high.de866fbbd7d854a05131"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.05eb3097e5596978d5",
+   "titleKorean": "농업 창업 일반 — 농업 창업 지원",
+   "subjectKorean": "농업 창업 일반",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농업 창업 지원",
+   "summary": "농업 창업 일반의 농업 창업 지원 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.1b6c4f820a6520f649ee",
+    "kr.topic.2022.high.290115d484747095577e",
+    "kr.topic.2022.high.50781a535ce025e08a2d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.061337999ff787f93e",
+   "titleKorean": "화훼 장식 기초 — 절화 장식의 기본 기술",
+   "subjectKorean": "화훼 장식 기초",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "절화 장식의 기본 기술",
+   "summary": "화훼 장식 기초의 절화 장식의 기본 기술 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.21639f1dee427e499810",
+    "kr.topic.2022.high.2aff1555e0c77a326145",
+    "kr.topic.2022.high.3fc48bb2d144d8afbc52",
+    "kr.topic.2022.high.6efdcd6371c42b675aac",
+    "kr.topic.2022.high.827e2206ea9e6335d005",
+    "kr.topic.2022.high.bbff2a7cc4ee42b39622",
+    "kr.topic.2022.high.d0297ffa2fe6a1a200cc",
+    "kr.topic.2022.high.e5d658887082b2bb7c48",
+    "kr.topic.2022.high.e9708905479b08b58f33"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.070fb72d7fdca23713",
+   "titleKorean": "산림 자원 — 산림과 인간",
+   "subjectKorean": "산림 자원",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "산림과 인간",
+   "summary": "산림 자원의 산림과 인간 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.100610c22538407724d6",
+    "kr.topic.2022.high.4b5fd0d2df4590d1a0eb",
+    "kr.topic.2022.high.a456cbbe280a15870f9d",
+    "kr.topic.2022.high.a84e8905d61515db6fb4",
+    "kr.topic.2022.high.badd4570cd052fc22421",
+    "kr.topic.2022.high.dae8dd8a4a43515e5539",
+    "kr.topic.2022.high.edfef7e78407a4d90bde"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.07bf078d37ca6ad6bd",
+   "titleKorean": "생명 공학 기술 — 동물 생명 공학의 이용",
+   "subjectKorean": "생명 공학 기술",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "동물 생명 공학의 이용",
+   "summary": "생명 공학 기술의 동물 생명 공학의 이용 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.3bc2e7d4cad147bc57cb",
+    "kr.topic.2022.high.50a2719fa399dd6dcba8",
+    "kr.topic.2022.high.6f3887e0c26c77c7ca5d",
+    "kr.topic.2022.high.dc0f8e500cd77218d803"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0b3e57987f842357b2",
+   "titleKorean": "농산물 거래 — 현물 거래",
+   "subjectKorean": "농산물 거래",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "현물 거래",
+   "summary": "농산물 거래의 현물 거래 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.1c51254615cf9be57168",
+    "kr.topic.2022.high.4509e619ecbe9c31a00a",
+    "kr.topic.2022.high.61087e1b463a193b5fec",
+    "kr.topic.2022.high.6124235bf430a2118298",
+    "kr.topic.2022.high.8e4f3165658ced14c386",
+    "kr.topic.2022.high.a514e2aa34424a923218",
+    "kr.topic.2022.high.cb8bdda05951b90b2e49",
+    "kr.topic.2022.high.d867b4dea36d4094348b",
+    "kr.topic.2022.high.ec036440373370595180"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0b90712bbeebc754f8",
+   "titleKorean": "농업 정보 관리 — 농업 첨단 정보화 사례",
+   "subjectKorean": "농업 정보 관리",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농업 첨단 정보화 사례",
+   "summary": "농업 정보 관리의 농업 첨단 정보화 사례 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.2225f09902464256e4e4",
+    "kr.topic.2022.high.804e34dcfb69770f9e99",
+    "kr.topic.2022.high.bad267aa91bb3af33725",
+    "kr.topic.2022.high.e0d6042bfb2a63a4fbc0"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0d4a7c5c0a668f27d5",
+   "titleKorean": "재배 — 재배와 경영",
+   "subjectKorean": "재배",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "재배와 경영",
+   "summary": "재배의 재배와 경영 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.20e9581452987a186148",
+    "kr.topic.2022.high.21f52829a2014bd3b875",
+    "kr.topic.2022.high.4bf1a1144066236d2f0d",
+    "kr.topic.2022.high.6e5e3d202ca61ae87109",
+    "kr.topic.2022.high.fd1947337a72830b7a8b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.10dedeb3414333c8e1",
+   "titleKorean": "재배 — 작물의 재배",
+   "subjectKorean": "재배",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "작물의 재배",
+   "summary": "재배의 작물의 재배 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.698153bb886b6db68d89",
+    "kr.topic.2022.high.b3f517d04043a2c0217e",
+    "kr.topic.2022.high.c9fed9bdb87d542c550b",
+    "kr.topic.2022.high.e54fe34188186efe1718"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1211ee528d85ab2981",
+   "titleKorean": "조림 — 종자의 생산",
+   "subjectKorean": "조림",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "종자의 생산",
+   "summary": "조림의 종자의 생산 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.0e6a4db87e10e6c65f63",
+    "kr.topic.2022.high.102e2438b3882ce81824",
+    "kr.topic.2022.high.11998dac57db53eff4fa",
+    "kr.topic.2022.high.1fa3905d699cd6b4dbec",
+    "kr.topic.2022.high.574e7d24903809dd8ad7",
+    "kr.topic.2022.high.5927eae71f9f88a9f258",
+    "kr.topic.2022.high.7ed98dbecbfa36ffb4a3",
+    "kr.topic.2022.high.aa01078b8c2ee8550d16",
+    "kr.topic.2022.high.bb42c88c67071292fd1e",
+    "kr.topic.2022.high.fcc0f28c1f0aaa805984"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.128899515efe7ccd57",
+   "titleKorean": "조경 식물 관리 — 잔디의 분류 및 관리",
+   "subjectKorean": "조경 식물 관리",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "잔디의 분류 및 관리",
+   "summary": "조경 식물 관리의 잔디의 분류 및 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.29a4fdbf4ab6a16188a2",
+    "kr.topic.2022.high.4f0f46e966eeca24feda",
+    "kr.topic.2022.high.85333ccfedf8f19d573f",
+    "kr.topic.2022.high.be5f04dd51b8f37d3a83",
+    "kr.topic.2022.high.ea625abb8f230665c015",
+    "kr.topic.2022.high.f3ee5ccf4e4df19fe109"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1441459da7aed96c0b",
+   "titleKorean": "관광 농업 — 관광 농업 경영 사례",
+   "subjectKorean": "관광 농업",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 농업 경영 사례",
+   "summary": "관광 농업의 관광 농업 경영 사례 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.1de5b580b9642c93ac11",
+    "kr.topic.2022.high.6894f6eeada0de547059",
+    "kr.topic.2022.high.9e5f5d348d53fe3825e1",
+    "kr.topic.2022.high.f6292efc4a91a36ae552"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1539f46e6548e32743",
+   "titleKorean": "동물 자원 — 농장 동물",
+   "subjectKorean": "동물 자원",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농장 동물",
+   "summary": "동물 자원의 농장 동물 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 22,
+   "topics": [
+    "kr.topic.2022.high.0d421fa07d3962b606b2",
+    "kr.topic.2022.high.1512917f3da7170637cb",
+    "kr.topic.2022.high.154d306eea96342f8b58",
+    "kr.topic.2022.high.22d60c26bd55087db497",
+    "kr.topic.2022.high.450cb426b8264b71f7a9",
+    "kr.topic.2022.high.4e7b34e02bafb76ffc79",
+    "kr.topic.2022.high.57b9a3cc746311527db3",
+    "kr.topic.2022.high.616849ec96d8eec1b651",
+    "kr.topic.2022.high.62fd7550bc3ae7a43d20",
+    "kr.topic.2022.high.68507f54c3f169b06f80",
+    "kr.topic.2022.high.7a3a0fff7af4ec45d0f4",
+    "kr.topic.2022.high.82d63fe94eb5996cc7cb",
+    "kr.topic.2022.high.89558d252160a4974b0b",
+    "kr.topic.2022.high.8f526e595324abc4d5f6",
+    "kr.topic.2022.high.a1d7c848fc08c8b4fedd",
+    "kr.topic.2022.high.c84e3da4a6485ac94b33",
+    "kr.topic.2022.high.ceacb23616108f1417ae",
+    "kr.topic.2022.high.e6af873d5bfe6a8e7083",
+    "kr.topic.2022.high.e91ad92cb76bc8dfe5ce",
+    "kr.topic.2022.high.f72b88d7d5a084401c9b",
+    "kr.topic.2022.high.f7fb57c3d6ae27b7dda8",
+    "kr.topic.2022.high.fe532a1dce0cdf242d0b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.16e1a5ccfba71cc6d4",
+   "titleKorean": "농업 기계 운전 작업 — 농작업 사고의 예방",
+   "subjectKorean": "농업 기계 운전 작업",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농작업 사고의 예방",
+   "summary": "농업 기계 운전 작업의 농작업 사고의 예방 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 1,
+   "topics": [
+    "kr.topic.2022.high.3956b17920eb220acfcb"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.170799a53e04db1284",
+   "titleKorean": "농산물 유통 — 농산물 유통의 기초",
+   "subjectKorean": "농산물 유통",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농산물 유통의 기초",
+   "summary": "농산물 유통의 농산물 유통의 기초 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.1255d1520890ce77353a",
+    "kr.topic.2022.high.8b79d48ef845a3124b1d",
+    "kr.topic.2022.high.d0f3c8c3e84729eef2ef",
+    "kr.topic.2022.high.fdcb5eb7d214e7dc5137"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.19450932b3c7a0d40b",
+   "titleKorean": "농업 기계 운전 작업 — 농업 시설 운전·관리",
+   "subjectKorean": "농업 기계 운전 작업",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농업 시설 운전·관리",
+   "summary": "농업 기계 운전 작업의 농업 시설 운전·관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.851a679b6d807af93d26",
+    "kr.topic.2022.high.8727e07f45c4667d26cb",
+    "kr.topic.2022.high.8bbdf31234b7e1ea56a6",
+    "kr.topic.2022.high.c1127de84ce0cd185642",
+    "kr.topic.2022.high.e8a267245ca24ab0b2d8"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1a396941289618b422",
+   "titleKorean": "농업 기계 — 영역 08",
+   "subjectKorean": "농업 기계",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 08",
+   "summary": "농업 기계의 영역 08 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.15a7b9641a05e46fb7bf",
+    "kr.topic.2022.high.3e3e54020077f9c54e20",
+    "kr.topic.2022.high.63ceb29124cd55a0f3ee",
+    "kr.topic.2022.high.929a6632daa1917daa86",
+    "kr.topic.2022.high.f0a9d86795a258b53592",
+    "kr.topic.2022.high.fef07d45ce47d722f667"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1ba4a92f156a929254",
+   "titleKorean": "동물 자원 — 동물의 영양과 사료",
+   "subjectKorean": "동물 자원",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "동물의 영양과 사료",
+   "summary": "동물 자원의 동물의 영양과 사료 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.0270ce7a072805744916",
+    "kr.topic.2022.high.15f69f404c4e91de0492",
+    "kr.topic.2022.high.35bcbe90ee860c9ff7e6",
+    "kr.topic.2022.high.413aa7ce535ef8264afb",
+    "kr.topic.2022.high.8234c9d6b092831adea7",
+    "kr.topic.2022.high.864d673ce04937d394a8",
+    "kr.topic.2022.high.9ae47f8055b05bc28f4d",
+    "kr.topic.2022.high.ceabf940d3ae86572a18",
+    "kr.topic.2022.high.d7d05cdbc366abf73b0e",
+    "kr.topic.2022.high.f6d739561cd519314172"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1e30e9c5308e23f618",
+   "titleKorean": "조경 — 조경 계획과 설계 일반",
+   "subjectKorean": "조경",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "조경 계획과 설계 일반",
+   "summary": "조경의 조경 계획과 설계 일반 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.61cf15797b12b24f695e",
+    "kr.topic.2022.high.8ad979befb1326d26632",
+    "kr.topic.2022.high.8f3b61a9d86968d68372",
+    "kr.topic.2022.high.cd38a66946c3d9818e8e",
+    "kr.topic.2022.high.d0bdf459487013a14f2b",
+    "kr.topic.2022.high.d5ece92ff256ced79c02",
+    "kr.topic.2022.high.e263861795dfa7609121",
+    "kr.topic.2022.high.e704030b1359624e8d7b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1e5cc5586d2ce466ac",
+   "titleKorean": "조경 — 조경 시공",
+   "subjectKorean": "조경",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "조경 시공",
+   "summary": "조경의 조경 시공 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 15,
+   "topics": [
+    "kr.topic.2022.high.32121259e272bcc1653a",
+    "kr.topic.2022.high.3c494c56720875ec1a7e",
+    "kr.topic.2022.high.45b70e08871dab0250c7",
+    "kr.topic.2022.high.482ba611fbb19a550bea",
+    "kr.topic.2022.high.549587d4b31cbff804d6",
+    "kr.topic.2022.high.5ef8d8771beaacf0ad0f",
+    "kr.topic.2022.high.68edeaaf6d08bc3f3751",
+    "kr.topic.2022.high.733207f8f203cdd7dd8c",
+    "kr.topic.2022.high.9cd737683a083376f7fe",
+    "kr.topic.2022.high.abca5e23523c7f0ba8c4",
+    "kr.topic.2022.high.bef302a90acb11ed050c",
+    "kr.topic.2022.high.c5c0841ba6f6feb99346",
+    "kr.topic.2022.high.caff0507866f87e8645b",
+    "kr.topic.2022.high.ce33a81c7f8813d0a8c4",
+    "kr.topic.2022.high.d844bd7dfd4ed8b65643"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1fa8ccb62d649daf99",
+   "titleKorean": "조림 — 조림의 정의와 기능",
+   "subjectKorean": "조림",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "조림의 정의와 기능",
+   "summary": "조림의 조림의 정의와 기능 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.1eea4a6d1d5e9b04071f",
+    "kr.topic.2022.high.5f8251646037d15db481",
+    "kr.topic.2022.high.6658b72dec1661c0ea9c",
+    "kr.topic.2022.high.872048088f78a150b430",
+    "kr.topic.2022.high.c43a598280c046605dee",
+    "kr.topic.2022.high.d7471df3bca6afc5dd64",
+    "kr.topic.2022.high.e2b1d2ad2c25927dbc36",
+    "kr.topic.2022.high.e5f2d3df0a0841609a38"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.218cc61ef5f5de7ec3",
+   "titleKorean": "원예 — 원예 생산물의 유통",
+   "subjectKorean": "원예",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "원예 생산물의 유통",
+   "summary": "원예의 원예 생산물의 유통 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.12b5659940951101a7ee",
+    "kr.topic.2022.high.17c53600f96d34cd6126",
+    "kr.topic.2022.high.1dc32ac8e1bdb05a340c",
+    "kr.topic.2022.high.1fa9cc43d72dad9842bf",
+    "kr.topic.2022.high.524b94b2fb815b45e820",
+    "kr.topic.2022.high.524e7fb7292ac3907b42",
+    "kr.topic.2022.high.61552a5129cce2de76ba",
+    "kr.topic.2022.high.643273a3384750cf1b41"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.24bc77e55deb29adee",
+   "titleKorean": "농업 기계 공작 — 기초 기계 제도",
+   "subjectKorean": "농업 기계 공작",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "기초 기계 제도",
+   "summary": "농업 기계 공작의 기초 기계 제도 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.004d4d5e9e45acc31e54",
+    "kr.topic.2022.high.477c5d4334c4797678e1",
+    "kr.topic.2022.high.5414b2d5b187fcdfb5af",
+    "kr.topic.2022.high.61a79509351d16abb491",
+    "kr.topic.2022.high.6650fef754fe58c18e32",
+    "kr.topic.2022.high.7fa0e4201aa04bc936c4",
+    "kr.topic.2022.high.b5d2e81605c359d794de",
+    "kr.topic.2022.high.fd044d737c2a00ed115f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.25bc7c367b4226bd40",
+   "titleKorean": "친환경 농업 — 친환경 농업의 의의",
+   "subjectKorean": "친환경 농업",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "친환경 농업의 의의",
+   "summary": "친환경 농업의 친환경 농업의 의의 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.3326f7018b2e7a6c9e2d",
+    "kr.topic.2022.high.973607657ebda64a1edf",
+    "kr.topic.2022.high.b590999ac7307d1235bd",
+    "kr.topic.2022.high.fe166c36fe56b943b433"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.269889a9cf6884839b",
+   "titleKorean": "반려동물 관리 — 반려동물의 보호",
+   "subjectKorean": "반려동물 관리",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "반려동물의 보호",
+   "summary": "반려동물 관리의 반려동물의 보호 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.24579a77c45c83b4aa1a",
+    "kr.topic.2022.high.4563080b1201ad561bcf",
+    "kr.topic.2022.high.4821aae7828c7593c0a1"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.276e7a68960f4b9e8c",
+   "titleKorean": "임산 가공 — 목재의 보존 및 가공",
+   "subjectKorean": "임산 가공",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "목재의 보존 및 가공",
+   "summary": "임산 가공의 목재의 보존 및 가공 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.09acdec5536c1b379341",
+    "kr.topic.2022.high.455e86e8c81790e65a9f",
+    "kr.topic.2022.high.60e5599afa935d3e100e",
+    "kr.topic.2022.high.69d42f9ae03b5eadd98f",
+    "kr.topic.2022.high.79c8291bb934d4e72c73",
+    "kr.topic.2022.high.81b0ed59a2ffaead7e93",
+    "kr.topic.2022.high.c4b836429ecef7d43875",
+    "kr.topic.2022.high.cdffa54bffaa8537bf23",
+    "kr.topic.2022.high.d0ee99991c84eb43daa6",
+    "kr.topic.2022.high.dbf2e889e046a29967a2",
+    "kr.topic.2022.high.de2327cae4c4133ef367"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.28045a621a57319d80",
+   "titleKorean": "농업 생산 환경 일반 — 농업 시설",
+   "subjectKorean": "농업 생산 환경 일반",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농업 시설",
+   "summary": "농업 생산 환경 일반의 농업 시설 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.04d6900d9800f87a8070",
+    "kr.topic.2022.high.d3f2e86c72cc3d29eafc",
+    "kr.topic.2022.high.e0e7d914d1eb5d4659cc"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.28fec977ec723bfcdb",
+   "titleKorean": "농업 창업 일반 — 농업 창업의 실제",
+   "subjectKorean": "농업 창업 일반",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농업 창업의 실제",
+   "summary": "농업 창업 일반의 농업 창업의 실제 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.0a14eee451bcf8294e6b",
+    "kr.topic.2022.high.0a3f9153c2ba833fdeaf",
+    "kr.topic.2022.high.d805b6342755a7994a7d",
+    "kr.topic.2022.high.ef9e30dc0c9048d9a168"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.29e5c2cb7a5a787660",
+   "titleKorean": "재배 — 작물의 생육",
+   "subjectKorean": "재배",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "작물의 생육",
+   "summary": "재배의 작물의 생육 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.03cb1ecc807e074e09ec",
+    "kr.topic.2022.high.2ca11bf590c0e0f5636b",
+    "kr.topic.2022.high.79a4122d2e00e43284d6",
+    "kr.topic.2022.high.b8133d6d2f9bb9d3bdc3",
+    "kr.topic.2022.high.e358723152408359576e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2be7ad9168d1cd532c",
+   "titleKorean": "농산물 유통 — 주요 농산물 유통",
+   "subjectKorean": "농산물 유통",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "주요 농산물 유통",
+   "summary": "농산물 유통의 주요 농산물 유통 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.268da0db0819a88d1703",
+    "kr.topic.2022.high.30c6fc158a4029ac3e23",
+    "kr.topic.2022.high.428f92663ef4f350c935",
+    "kr.topic.2022.high.e31ebf5a16fa96aa70d4"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2ca492153522575f4b",
+   "titleKorean": "관광 농업 — 농업과 관광",
+   "subjectKorean": "관광 농업",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농업과 관광",
+   "summary": "관광 농업의 농업과 관광 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.2bf0bf3f619e8178ed18",
+    "kr.topic.2022.high.366553e6434fc8280c63",
+    "kr.topic.2022.high.536e08875d1e01aa401f",
+    "kr.topic.2022.high.69c236432cce51f90c00",
+    "kr.topic.2022.high.a83103c46d3660857a13",
+    "kr.topic.2022.high.b633db01f0abb82adf20"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2ed8fb2683ad6e5bc6",
+   "titleKorean": "화훼 장식 기초 — 화훼 장식 상품 판매",
+   "subjectKorean": "화훼 장식 기초",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "화훼 장식 상품 판매",
+   "summary": "화훼 장식 기초의 화훼 장식 상품 판매 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.12954f8b014b97adc4d9",
+    "kr.topic.2022.high.25752c4b6f3df2cf24a3",
+    "kr.topic.2022.high.60f84824ee80fcaf668f",
+    "kr.topic.2022.high.898b1b485ddd7b99c1c2",
+    "kr.topic.2022.high.ee716ddef110b50f61c1"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2fb5347b1828d0409a",
+   "titleKorean": "농업 창업 일반 — 농업 창업 사례",
+   "subjectKorean": "농업 창업 일반",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농업 창업 사례",
+   "summary": "농업 창업 일반의 농업 창업 사례 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.13c5bd13fa88700558f7",
+    "kr.topic.2022.high.4dcd773754ce78403abe",
+    "kr.topic.2022.high.6e9b746e501cfb1e6eb0",
+    "kr.topic.2022.high.7627d68287cc94e24af3"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2fd86c12ad7a6685fb",
+   "titleKorean": "농업 정보 관리 — 농산업 분야에서의 정보 활용",
+   "subjectKorean": "농업 정보 관리",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농산업 분야에서의 정보 활용",
+   "summary": "농업 정보 관리의 농산업 분야에서의 정보 활용 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.2ffa38390de05d2f1ea2",
+    "kr.topic.2022.high.c50e82d9bf6e652aa661",
+    "kr.topic.2022.high.c8b255984dcff07eb6cf"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.333e80ad8ab3c620aa",
+   "titleKorean": "반려동물 관리 — 반려묘 관리",
+   "subjectKorean": "반려동물 관리",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "반려묘 관리",
+   "summary": "반려동물 관리의 반려묘 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.21f0d1285ddda1254b5c",
+    "kr.topic.2022.high.649dd00d10caf3efd115",
+    "kr.topic.2022.high.766302ca75db5f1ed3ef",
+    "kr.topic.2022.high.867803a687d07397cc6a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3505919d1358e90091",
+   "titleKorean": "농업 기계 공작 — 영역 06",
+   "subjectKorean": "농업 기계 공작",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 06",
+   "summary": "농업 기계 공작의 영역 06 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 1,
+   "topics": [
+    "kr.topic.2022.high.211d79b9c1a5db71e383"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.38f3b793b9379e9417",
+   "titleKorean": "농산물 거래 — 농산물 마케팅",
+   "subjectKorean": "농산물 거래",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농산물 마케팅",
+   "summary": "농산물 거래의 농산물 마케팅 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.44e55573e4820b8df892",
+    "kr.topic.2022.high.5043473aa7946b966133",
+    "kr.topic.2022.high.639c8548e39b4b8ef1a9",
+    "kr.topic.2022.high.7cac932552becd682c00",
+    "kr.topic.2022.high.8a20e3350aba5fb84e52",
+    "kr.topic.2022.high.bb9715ff8e11586d2424"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.39be0f95fb62fa59ed",
+   "titleKorean": "조림 — 묘목의 식재",
+   "subjectKorean": "조림",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "묘목의 식재",
+   "summary": "조림의 묘목의 식재 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.01b6a695b591e499d728",
+    "kr.topic.2022.high.044365f303eb67bfc605",
+    "kr.topic.2022.high.0825792f570a24328e07",
+    "kr.topic.2022.high.09d704cd8603157d89c6",
+    "kr.topic.2022.high.8ae6b8998d8fdab5d6c1",
+    "kr.topic.2022.high.a3f9a270ee59b268bf40",
+    "kr.topic.2022.high.a939f9ad5f754768b57e",
+    "kr.topic.2022.high.b28d2ca7cc6965c25d90",
+    "kr.topic.2022.high.bc9daadeba080e713df4",
+    "kr.topic.2022.high.e8a5820d79f22cc01242",
+    "kr.topic.2022.high.f12804f16399a5d6534a",
+    "kr.topic.2022.high.fc142a269277e150b124"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3b2a81e19747c7812d",
+   "titleKorean": "농업 기계 운전 작업 — 동력 경운기와 관리기",
+   "subjectKorean": "농업 기계 운전 작업",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "동력 경운기와 관리기",
+   "summary": "농업 기계 운전 작업의 동력 경운기와 관리기 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.00e8bd2a5c1f3248a249",
+    "kr.topic.2022.high.2a48879044682425c3a3",
+    "kr.topic.2022.high.2e30eee5d98e10fa3164",
+    "kr.topic.2022.high.41c7366b919d3ee38e14",
+    "kr.topic.2022.high.ddd27a2b8225ab022ce4",
+    "kr.topic.2022.high.ef2995a4115175469a1e",
+    "kr.topic.2022.high.f1bdfc94cb7d004e32b9",
+    "kr.topic.2022.high.f57c338f36149384becf"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3b7cb079fd32863f94",
+   "titleKorean": "농업 기초 기술 — 영역 04",
+   "subjectKorean": "농업 기초 기술",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 04",
+   "summary": "농업 기초 기술의 영역 04 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 1,
+   "topics": [
+    "kr.topic.2022.high.7e0a0768fda27b12c08b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3b9c7eca352ae693c7",
+   "titleKorean": "관광 농업 — 관광 농업 경영",
+   "subjectKorean": "관광 농업",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 농업 경영",
+   "summary": "관광 농업의 관광 농업 경영 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.0ccd1d781090aff3f0cd",
+    "kr.topic.2022.high.1c2d01ac9a1dbfa32a8d",
+    "kr.topic.2022.high.6c66da1d5f45f1ebd870",
+    "kr.topic.2022.high.7953aee5ac8536392dca",
+    "kr.topic.2022.high.7b15b9763949579b0b17"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3d9900fa5a8b325021",
+   "titleKorean": "원예 — 원예의 기초",
+   "subjectKorean": "원예",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "원예의 기초",
+   "summary": "원예의 원예의 기초 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.21214ff3fbf76be4c46e",
+    "kr.topic.2022.high.2f7b17ae8238b69f2515",
+    "kr.topic.2022.high.35a1b5eb328fd74c579b",
+    "kr.topic.2022.high.3d46dea99270658a0831",
+    "kr.topic.2022.high.6455addf1681879c90fd",
+    "kr.topic.2022.high.6460e7a9032cfec23d34",
+    "kr.topic.2022.high.8dd0f3f67e3a4fb24aa5",
+    "kr.topic.2022.high.9e82b6cf56ba086c3e3c",
+    "kr.topic.2022.high.a71d8d9c88616d3153cf"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3dcebf165518ce539d",
+   "titleKorean": "임산 가공 — 목재의 접착",
+   "subjectKorean": "임산 가공",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "목재의 접착",
+   "summary": "임산 가공의 목재의 접착 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.4696cbd1d1f23d7e2844",
+    "kr.topic.2022.high.657bb0a46971cfbcc60d",
+    "kr.topic.2022.high.95c0d4602e03ff2bee9c",
+    "kr.topic.2022.high.d2620323e83f68775638",
+    "kr.topic.2022.high.e83d9c77bafd4d8c2bd7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.40afcd7a2d47ca7fd6",
+   "titleKorean": "화훼 장식 기초 — 화훼 장식의 개념",
+   "subjectKorean": "화훼 장식 기초",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "화훼 장식의 개념",
+   "summary": "화훼 장식 기초의 화훼 장식의 개념 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.25a4c7742862e0017272",
+    "kr.topic.2022.high.4893150dab0b6b060dda",
+    "kr.topic.2022.high.559204ad5ffd8a5a87db",
+    "kr.topic.2022.high.65ddb8aef66dd81f4b20",
+    "kr.topic.2022.high.a40d9b463495578441b7",
+    "kr.topic.2022.high.b6d1bd063201f7b386a2",
+    "kr.topic.2022.high.de24f1e3c6b5481eecd8",
+    "kr.topic.2022.high.e09ba020b37e2a56a219",
+    "kr.topic.2022.high.ef07676c103ec9f4f2db",
+    "kr.topic.2022.high.fc271da73ad72cfbc570"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4477b7c7ee0ce14894",
+   "titleKorean": "농업 기계 공작 — 비금속 공작 작업",
+   "subjectKorean": "농업 기계 공작",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "비금속 공작 작업",
+   "summary": "농업 기계 공작의 비금속 공작 작업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.1f2426036d2e4db564bc",
+    "kr.topic.2022.high.21ca1a1c5acc9a7aa8cb",
+    "kr.topic.2022.high.836b10c608c71d9cc539",
+    "kr.topic.2022.high.a9f66abe673d982d6a32",
+    "kr.topic.2022.high.f7a3fa26f267f8edb1ff",
+    "kr.topic.2022.high.ffd2d72e0f7c9d9c1f26"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.458ce44dedc8606491",
+   "titleKorean": "농업 창업 일반 — 창업과 농업 창업",
+   "subjectKorean": "농업 창업 일반",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "창업과 농업 창업",
+   "summary": "농업 창업 일반의 창업과 농업 창업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.4debd6b4dd1c57ff7947",
+    "kr.topic.2022.high.55e5097a35aa58b597a1",
+    "kr.topic.2022.high.91ea9587f6e5dcbc8b28"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.45f412bee262f969c0",
+   "titleKorean": "농업 이해 — 농업 학습과 청소년 활동",
+   "subjectKorean": "농업 이해",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농업 학습과 청소년 활동",
+   "summary": "농업 이해의 농업 학습과 청소년 활동 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.0e53c09e8bac8e45629f",
+    "kr.topic.2022.high.1acb8505ecdcfa68a422",
+    "kr.topic.2022.high.1f303ede4aee42e11227",
+    "kr.topic.2022.high.21c2d7cb527ad0dc5afb",
+    "kr.topic.2022.high.2b8dbe9b1704a628d374",
+    "kr.topic.2022.high.4ae7fbf956563ad60e00",
+    "kr.topic.2022.high.8fb36091d6f03ad0743f",
+    "kr.topic.2022.high.c89c9097947bc3104dc8"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.466a7a81420aa20068",
+   "titleKorean": "농업 기계 공작 — 기계요소",
+   "subjectKorean": "농업 기계 공작",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "기계요소",
+   "summary": "농업 기계 공작의 기계요소 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.0db5d3abbca8548603f7",
+    "kr.topic.2022.high.11f2e079bab40100b4c6",
+    "kr.topic.2022.high.b3d32636b3e08dc9c408",
+    "kr.topic.2022.high.e7b6856b1ef79b21f94c",
+    "kr.topic.2022.high.ece88b9875e811f330d8"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.48a521d8275a2a2c47",
+   "titleKorean": "농업용 전기ㆍ전자 — 시퀀스 제어",
+   "subjectKorean": "농업용 전기ㆍ전자",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "시퀀스 제어",
+   "summary": "농업용 전기ㆍ전자의 시퀀스 제어 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.2fd78bc7f4d4ae677a76",
+    "kr.topic.2022.high.a6087de62a772509842b",
+    "kr.topic.2022.high.a8556875cda0ee2e1af4",
+    "kr.topic.2022.high.e4b0dec6969d37037505",
+    "kr.topic.2022.high.e8ed253ebe4c494ac8af"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.492ee08362f2f16fb8",
+   "titleKorean": "조경 — 조경의 양식과 조경미",
+   "subjectKorean": "조경",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "조경의 양식과 조경미",
+   "summary": "조경의 조경의 양식과 조경미 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.14bcd8b293c102fd48f7",
+    "kr.topic.2022.high.4b46a13a572d8089a1b8",
+    "kr.topic.2022.high.6f8d6f060f74284b07a9",
+    "kr.topic.2022.high.7b40cd0a9f9fcde7f077",
+    "kr.topic.2022.high.81b9b5eb3d83510ba3b6",
+    "kr.topic.2022.high.956e206e5af2acd79cd3",
+    "kr.topic.2022.high.971d20c86462e103ba24",
+    "kr.topic.2022.high.ca81430282aea8c3d83c",
+    "kr.topic.2022.high.dc882c9266bf03d3f9de",
+    "kr.topic.2022.high.fe188c04bab3c3ba80eb"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.494f5013e992211fdc",
+   "titleKorean": "농업 기계 — 영역 09",
+   "subjectKorean": "농업 기계",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 09",
+   "summary": "농업 기계의 영역 09 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 1,
+   "topics": [
+    "kr.topic.2022.high.e60b739a1a202613e6d5"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4a8017998373ec19de",
+   "titleKorean": "반려동물 관리 — 반려동물의 개념",
+   "subjectKorean": "반려동물 관리",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "반려동물의 개념",
+   "summary": "반려동물 관리의 반려동물의 개념 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.7b4de8d76e351e3d4d4f",
+    "kr.topic.2022.high.9ea5998c8da9521cb479",
+    "kr.topic.2022.high.ff1b8dfbcfc75627a2d9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4badd83bf100bb6d85",
+   "titleKorean": "산림 휴양 — 산림 휴양 시설 관리",
+   "subjectKorean": "산림 휴양",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "산림 휴양 시설 관리",
+   "summary": "산림 휴양의 산림 휴양 시설 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.0b50a3317eaf37f711cb",
+    "kr.topic.2022.high.0f732146c2362f2e094e",
+    "kr.topic.2022.high.67c0387f8c7cf7804ca9",
+    "kr.topic.2022.high.7b40454e24e7263bbbdb",
+    "kr.topic.2022.high.7f155bebfd53e7def476",
+    "kr.topic.2022.high.db3559bc2dca68289aaf",
+    "kr.topic.2022.high.df423897dec4b08486da",
+    "kr.topic.2022.high.ed1ba338df36781fb820"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4c4ce7393e44d1fcb4",
+   "titleKorean": "농업 창업 일반 — 농업 창업의 시작",
+   "subjectKorean": "농업 창업 일반",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농업 창업의 시작",
+   "summary": "농업 창업 일반의 농업 창업의 시작 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.02a00f03552c80947115",
+    "kr.topic.2022.high.315e699462e958e24b87",
+    "kr.topic.2022.high.571937596cfa88baaafc"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4e2546e7c175518087",
+   "titleKorean": "곤충 산업 일반 — 양봉 및 양잠",
+   "subjectKorean": "곤충 산업 일반",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "양봉 및 양잠",
+   "summary": "곤충 산업 일반의 양봉 및 양잠 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.0bbc1dee792bf93a11a1",
+    "kr.topic.2022.high.96417287422690b1fe46",
+    "kr.topic.2022.high.a14178def93ac59ef8fa",
+    "kr.topic.2022.high.f99bdcd2eca186b879a5"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4f5afef3c536b859d8",
+   "titleKorean": "조림 — 묘목의 생산",
+   "subjectKorean": "조림",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "묘목의 생산",
+   "summary": "조림의 묘목의 생산 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.062288276bb125a4fe17",
+    "kr.topic.2022.high.0ca6a4823807de36982e",
+    "kr.topic.2022.high.1cc2c4f7060ff88762da",
+    "kr.topic.2022.high.46315601d94415d278ce",
+    "kr.topic.2022.high.7ee4136aef9cebebc361",
+    "kr.topic.2022.high.8cefb8bdf785d126b932",
+    "kr.topic.2022.high.a93f8149d6936b1a064b",
+    "kr.topic.2022.high.bfc02f7cf76605a1bbb1",
+    "kr.topic.2022.high.ca0e155b1e4720041ef2",
+    "kr.topic.2022.high.d5408b5c3af59d01e10f",
+    "kr.topic.2022.high.daae4fe3436fc3facbf1",
+    "kr.topic.2022.high.df2f480eef7bfe9099de"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4fc458840055248e00",
+   "titleKorean": "농업 기계 — 농업의 기계화",
+   "subjectKorean": "농업 기계",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농업의 기계화",
+   "summary": "농업 기계의 농업의 기계화 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.278db54e993c7ed1f8fb",
+    "kr.topic.2022.high.8e25b3b75e4d4981404f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4fcb2f39f7ebc5a1ae",
+   "titleKorean": "화훼 장식 기초 — 화훼 장식 관련 산업",
+   "subjectKorean": "화훼 장식 기초",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "화훼 장식 관련 산업",
+   "summary": "화훼 장식 기초의 화훼 장식 관련 산업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.046b16734d67d354f7bf",
+    "kr.topic.2022.high.1286f76744d49e67abcf",
+    "kr.topic.2022.high.1bfb2eab1509ac9db987",
+    "kr.topic.2022.high.650c22eb717de143897c",
+    "kr.topic.2022.high.6e4128d6ca1350945171",
+    "kr.topic.2022.high.7e2b11be93b437350455",
+    "kr.topic.2022.high.c882f1f7c2acc783da20",
+    "kr.topic.2022.high.f36d5df119ed63bb127c",
+    "kr.topic.2022.high.f7e7155baf0239359cb9",
+    "kr.topic.2022.high.f8d91416879d8c683042"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.500bffada8d8af3b33",
+   "titleKorean": "농업 생산 환경 일반 — 농업 수질 보전",
+   "subjectKorean": "농업 생산 환경 일반",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농업 수질 보전",
+   "summary": "농업 생산 환경 일반의 농업 수질 보전 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.3c3181ac1b8eea79d101",
+    "kr.topic.2022.high.683da4f74f5e2488528a",
+    "kr.topic.2022.high.a9e641623ef4bbe49eb7",
+    "kr.topic.2022.high.efdd05a12edcd9687eef",
+    "kr.topic.2022.high.f5ceb05c0608729d63cc"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.53c3571cd9948db48e",
+   "titleKorean": "농업 기계 공작 — 금속 공작 작업",
+   "subjectKorean": "농업 기계 공작",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "금속 공작 작업",
+   "summary": "농업 기계 공작의 금속 공작 작업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.02083fbe921e21c6ef3b",
+    "kr.topic.2022.high.28e6c1f7cfccad5d4caf",
+    "kr.topic.2022.high.5e85ddc7b2a9ed92f97b",
+    "kr.topic.2022.high.74d05f8b2ee4fceb4ca8",
+    "kr.topic.2022.high.bd6bcd76646b814b2de4",
+    "kr.topic.2022.high.e05d9a4c254700c52b85",
+    "kr.topic.2022.high.f331355496c278cb2da7",
+    "kr.topic.2022.high.ff5ea3ea8c42bd8ea8e4"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5589b5dd2a22cc4028",
+   "titleKorean": "생명 공학 기술 — 식물 생명 공학의 이용",
+   "subjectKorean": "생명 공학 기술",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "식물 생명 공학의 이용",
+   "summary": "생명 공학 기술의 식물 생명 공학의 이용 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.9ad8e0eaf5e9abb4726d",
+    "kr.topic.2022.high.d11e79ec0b9d4ee9e837",
+    "kr.topic.2022.high.d355fdc2c4a8dec02c1a",
+    "kr.topic.2022.high.ff8b7bb2911b4129092a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5665ff0fa11fb2b022",
+   "titleKorean": "친환경 농업 — 친환경 농업 생산물과 품질 인증",
+   "subjectKorean": "친환경 농업",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "친환경 농업 생산물과 품질 인증",
+   "summary": "친환경 농업의 친환경 농업 생산물과 품질 인증 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.29663d2fca6632e59b71",
+    "kr.topic.2022.high.3a598fb23a018e2688d2",
+    "kr.topic.2022.high.8d3f4ee68d13bb2ea1b5",
+    "kr.topic.2022.high.fad8e29e0d1de5ab476d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.571e435d22f4b53cbd",
+   "titleKorean": "곤충 산업 일반 — 산업 곤충의 창업",
+   "subjectKorean": "곤충 산업 일반",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "산업 곤충의 창업",
+   "summary": "곤충 산업 일반의 산업 곤충의 창업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.168ef56804faa2be6092",
+    "kr.topic.2022.high.4ab2acbedab37ced9555",
+    "kr.topic.2022.high.e3545c6a95e962553f35",
+    "kr.topic.2022.high.e971a93e0f972ee5fdb3",
+    "kr.topic.2022.high.f4546fe47331c063bc25"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.581f1599e29ac12286",
+   "titleKorean": "산림 휴양 — 산림 휴양 이용객 관리",
+   "subjectKorean": "산림 휴양",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "산림 휴양 이용객 관리",
+   "summary": "산림 휴양의 산림 휴양 이용객 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.031f7e719b24bf1b3a4c",
+    "kr.topic.2022.high.131212e08abbb9501122",
+    "kr.topic.2022.high.1d85210b571436812023",
+    "kr.topic.2022.high.3cbe029ce87c359ba02d",
+    "kr.topic.2022.high.3e365d6e6ead093348b7",
+    "kr.topic.2022.high.57e06e9e86001454cddd",
+    "kr.topic.2022.high.6590cb67297ef50f1fa3",
+    "kr.topic.2022.high.6987776cd0246e13055f",
+    "kr.topic.2022.high.9d8cc2abd46e3d4ba943",
+    "kr.topic.2022.high.b3c0409793cbef31fb12",
+    "kr.topic.2022.high.d442039496c1fce0168c",
+    "kr.topic.2022.high.f406e228f737d0e7ca22"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.583316e82a0db3da14",
+   "titleKorean": "생명 공학 기술 — 생명 공학의 기초",
+   "subjectKorean": "생명 공학 기술",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "생명 공학의 기초",
+   "summary": "생명 공학 기술의 생명 공학의 기초 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.049285f32d910022bc78",
+    "kr.topic.2022.high.2973a0fa8b80ebc03f66",
+    "kr.topic.2022.high.ab89851142b2a6c4ca3f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.587614dd981b81efdd",
+   "titleKorean": "산림 자원 — 산림 자원 조성과 관리",
+   "subjectKorean": "산림 자원",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "산림 자원 조성과 관리",
+   "summary": "산림 자원의 산림 자원 조성과 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.2c2a4d16c12e3291c600",
+    "kr.topic.2022.high.3039ee3245e795847e30",
+    "kr.topic.2022.high.3d30c49300beca172a53",
+    "kr.topic.2022.high.87d1d52bc8c2710b2b5a",
+    "kr.topic.2022.high.b2d45aec499e84694575",
+    "kr.topic.2022.high.c50a1b97943686908336",
+    "kr.topic.2022.high.f9f944b802a3d093abd9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5926ebd136c71f7993",
+   "titleKorean": "화훼 장식 기초 — 화훼 장식 재료",
+   "subjectKorean": "화훼 장식 기초",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "화훼 장식 재료",
+   "summary": "화훼 장식 기초의 화훼 장식 재료 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.1d16ab6fc36433c91ac7",
+    "kr.topic.2022.high.5272bb07dc693391548a",
+    "kr.topic.2022.high.6f2a9f84f03117499a3b",
+    "kr.topic.2022.high.88b8b182c4163f7405fa",
+    "kr.topic.2022.high.ae38ae3fa9a93f9dda3f",
+    "kr.topic.2022.high.b4342fb0d60492b32b2a",
+    "kr.topic.2022.high.bc7003227ba4d2f071c1"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.598dd48655b61e5912",
+   "titleKorean": "임산 가공 — 임산 공업",
+   "subjectKorean": "임산 가공",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "임산 공업",
+   "summary": "임산 가공의 임산 공업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.00052093dd75d80df7e8",
+    "kr.topic.2022.high.09f04534ab4e51950d0f",
+    "kr.topic.2022.high.38561c1b9d7bc6bac01d",
+    "kr.topic.2022.high.3d0d4033f71f958c680b",
+    "kr.topic.2022.high.44b1d354a7cecd0226b5",
+    "kr.topic.2022.high.5082dfafa4a8b29c17f4",
+    "kr.topic.2022.high.87f22173adfc7ad368fc",
+    "kr.topic.2022.high.96ae58d08e7e4ee3ff19",
+    "kr.topic.2022.high.a525f4bef9f5559541c7",
+    "kr.topic.2022.high.d9a1cd3197e2b4b6eb2d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5cfe5af7c7c6c98065",
+   "titleKorean": "화훼 장식 기초 — 화훼 장식 디자인",
+   "subjectKorean": "화훼 장식 기초",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "화훼 장식 디자인",
+   "summary": "화훼 장식 기초의 화훼 장식 디자인 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.15daa6c672c45802a149",
+    "kr.topic.2022.high.57932164b8ad55482027",
+    "kr.topic.2022.high.5d91b498308d1f21037d",
+    "kr.topic.2022.high.f93a255291fd907d5c94"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.602ae0ce19c5635f27",
+   "titleKorean": "농업 경영 — 농업 생산과 비용",
+   "subjectKorean": "농업 경영",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농업 생산과 비용",
+   "summary": "농업 경영의 농업 생산과 비용 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.7627fd16d9ff54e72f5c",
+    "kr.topic.2022.high.7de1e1228b1ffe5ef57a",
+    "kr.topic.2022.high.8580b37550ea3f6c44c3",
+    "kr.topic.2022.high.99a8dc4571f66864e743",
+    "kr.topic.2022.high.bc1836f35d1818be67d1",
+    "kr.topic.2022.high.c4a1db7fab8c7503f6f8",
+    "kr.topic.2022.high.cf5cecc16ccaeda11ce4",
+    "kr.topic.2022.high.d975ccc1b60022a60122",
+    "kr.topic.2022.high.dbda6d786ba0dde833b3"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.60c5f71f08202faa74",
+   "titleKorean": "농업 생산 환경 일반 — 농지의 개발과 보전",
+   "subjectKorean": "농업 생산 환경 일반",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농지의 개발과 보전",
+   "summary": "농업 생산 환경 일반의 농지의 개발과 보전 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 15,
+   "topics": [
+    "kr.topic.2022.high.0449fca10ff5287f256e",
+    "kr.topic.2022.high.1c7d2885670a5c1af24d",
+    "kr.topic.2022.high.3452a339f25c7395ef77",
+    "kr.topic.2022.high.3a6be2a5ac2f815633fb",
+    "kr.topic.2022.high.701d18758234f8b8942b",
+    "kr.topic.2022.high.70cc5c417a8331978d64",
+    "kr.topic.2022.high.71c911673c7a226ebe91",
+    "kr.topic.2022.high.9582ed021766e89999e3",
+    "kr.topic.2022.high.bb3449aa35c0163a7cf1",
+    "kr.topic.2022.high.ceabfe698d5ec3c13cc0",
+    "kr.topic.2022.high.d668c53710f23866a56f",
+    "kr.topic.2022.high.d7a231be683bdda58dba",
+    "kr.topic.2022.high.d81181e70c314ce0b5c4",
+    "kr.topic.2022.high.de072269d7f7b7fbfc02",
+    "kr.topic.2022.high.eab0ddf5319e3bbf086e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.61dfe84dc8093ddbce",
+   "titleKorean": "산림 휴양 — 산림 휴양 지역 관리",
+   "subjectKorean": "산림 휴양",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "산림 휴양 지역 관리",
+   "summary": "산림 휴양의 산림 휴양 지역 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.17df768ff31458cdc97f",
+    "kr.topic.2022.high.1ef13b87f15f4c5fbfa8",
+    "kr.topic.2022.high.5986b4808ca8b8275734",
+    "kr.topic.2022.high.915ffb7f718a22259562",
+    "kr.topic.2022.high.92854f973b986ea30174",
+    "kr.topic.2022.high.b4fa2f79f6355b1021c6",
+    "kr.topic.2022.high.ca9c866c8625333e4fd8",
+    "kr.topic.2022.high.da7634111c8ba6dd8e85",
+    "kr.topic.2022.high.e0e427d2bbe06c5a9ee5"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.62d546858f04f30e1a",
+   "titleKorean": "원예 — 원예 작물의 생육 환경",
+   "subjectKorean": "원예",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "원예 작물의 생육 환경",
+   "summary": "원예의 원예 작물의 생육 환경 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 21,
+   "topics": [
+    "kr.topic.2022.high.21e5170767a28e44658a",
+    "kr.topic.2022.high.29a4a573efb56a734d4f",
+    "kr.topic.2022.high.41d28c8d80d5dc72ff79",
+    "kr.topic.2022.high.41eee81369a2000e7297",
+    "kr.topic.2022.high.49bc7b35412ef4196456",
+    "kr.topic.2022.high.578a0fc48ae6be251578",
+    "kr.topic.2022.high.699d93ff3050a27fd723",
+    "kr.topic.2022.high.6a2096c814dce51ce0ec",
+    "kr.topic.2022.high.6c9eefebddc21af7e4cb",
+    "kr.topic.2022.high.6fe033d6ad6edd8219d4",
+    "kr.topic.2022.high.7f7741aa100d6e663fbd",
+    "kr.topic.2022.high.9f57622a021ab6a57298",
+    "kr.topic.2022.high.a67833e47f62d8f3906f",
+    "kr.topic.2022.high.c25edcca718bd133e618",
+    "kr.topic.2022.high.cdf4d0fc53b77167082e",
+    "kr.topic.2022.high.d93e061b7db7702cc345",
+    "kr.topic.2022.high.e2cf32f6f75728768b36",
+    "kr.topic.2022.high.e994f0a4c7c27f273eef",
+    "kr.topic.2022.high.ea5ffe43e855cf430599",
+    "kr.topic.2022.high.eb641d6da2d1ddf27319",
+    "kr.topic.2022.high.f2ff4e462d7af9160174"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.65fd253683a5acb7e2",
+   "titleKorean": "곤충 산업 일반 — 곤충의 이해",
+   "subjectKorean": "곤충 산업 일반",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "곤충의 이해",
+   "summary": "곤충 산업 일반의 곤충의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.297ebdb349aec08c7cbc",
+    "kr.topic.2022.high.2c8490b53c80ec75bb76",
+    "kr.topic.2022.high.5837f6c866ee045d6ae8",
+    "kr.topic.2022.high.b91de396f5ad5db19e23",
+    "kr.topic.2022.high.d1ee5fde49472ef5abf8",
+    "kr.topic.2022.high.df4706558713edd4477a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6769596d837cca74d8",
+   "titleKorean": "농업 기계 — 농업 동력기",
+   "subjectKorean": "농업 기계",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농업 동력기",
+   "summary": "농업 기계의 농업 동력기 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.30883145ae09026d1c9e",
+    "kr.topic.2022.high.903e6ebaa657151b4576",
+    "kr.topic.2022.high.d039f6bd261eeb0f8e4d",
+    "kr.topic.2022.high.fe9b2150fa32d49a6984"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6af41cdb7ed527eb05",
+   "titleKorean": "농업 이해 — 농업 과학 기술",
+   "subjectKorean": "농업 이해",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농업 과학 기술",
+   "summary": "농업 이해의 농업 과학 기술 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.225f29ccdd3660ce8124",
+    "kr.topic.2022.high.2e7b5a32e29b82a99f53",
+    "kr.topic.2022.high.7a5483d3e0934cb1cd32",
+    "kr.topic.2022.high.9219900183fdf1bad11d",
+    "kr.topic.2022.high.b63585fee47c26f0f557",
+    "kr.topic.2022.high.ccef78bbdbbf10781e1d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6ef0548e5f5f5f64c6",
+   "titleKorean": "농업 기계 운전 작업 — 트랙터",
+   "subjectKorean": "농업 기계 운전 작업",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "트랙터",
+   "summary": "농업 기계 운전 작업의 트랙터 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.12265cdbf6ff45f02b3a",
+    "kr.topic.2022.high.3d01e44bc03ff691adfb",
+    "kr.topic.2022.high.b01c86e58ed72f3c1d33",
+    "kr.topic.2022.high.b635c8c42ca018b7450f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6f05234e038595fe47",
+   "titleKorean": "농업 이해 — 외국의 농업",
+   "subjectKorean": "농업 이해",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "외국의 농업",
+   "summary": "농업 이해의 외국의 농업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.602666b4e591e37826f1",
+    "kr.topic.2022.high.69d76a614f2d750fce20",
+    "kr.topic.2022.high.9ce7c09682d10c2c3a98",
+    "kr.topic.2022.high.9da035abcfe0b267b7cd"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6fb05c784cc3f3fba0",
+   "titleKorean": "농업 토목 제도ㆍ설계 — 물량 산출",
+   "subjectKorean": "농업 토목 제도ㆍ설계",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "물량 산출",
+   "summary": "농업 토목 제도ㆍ설계의 물량 산출 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.d7c45dea6855bf21e36b",
+    "kr.topic.2022.high.e217e898448c6cec4844"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7295e1a83fc03a01e8",
+   "titleKorean": "산림 자원 — 산림 자원의 이용 및 전망",
+   "subjectKorean": "산림 자원",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "산림 자원의 이용 및 전망",
+   "summary": "산림 자원의 산림 자원의 이용 및 전망 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.12ec54603a1a6bed3522",
+    "kr.topic.2022.high.3cf4d4d4f7533ea22830",
+    "kr.topic.2022.high.69562799a2a60d9c8872",
+    "kr.topic.2022.high.7231f704720ba1dc849f",
+    "kr.topic.2022.high.800024a11840d9daab4f",
+    "kr.topic.2022.high.cf2c9f313ad0e48922a5",
+    "kr.topic.2022.high.fa3cf434d3cb9109a7ea"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7335452e61daea72cf",
+   "titleKorean": "산림 휴양 — 산림 휴양 활동과 자원",
+   "subjectKorean": "산림 휴양",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "산림 휴양 활동과 자원",
+   "summary": "산림 휴양의 산림 휴양 활동과 자원 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 16,
+   "topics": [
+    "kr.topic.2022.high.196401aab6dbde5ac854",
+    "kr.topic.2022.high.2c4b6f093a1e5bb6fd6f",
+    "kr.topic.2022.high.43a0ff327e820b8c57c2",
+    "kr.topic.2022.high.51c8bd0a34c2f03eea94",
+    "kr.topic.2022.high.6c993145547fea1b28fc",
+    "kr.topic.2022.high.7d58b28bca68672dec09",
+    "kr.topic.2022.high.7f9191fd049a39ce8e93",
+    "kr.topic.2022.high.866bffb453946f649ce9",
+    "kr.topic.2022.high.8d5215ae3ccc25bd1f5e",
+    "kr.topic.2022.high.a739303e4e2e392966db",
+    "kr.topic.2022.high.bc7fb22aa0f3070934db",
+    "kr.topic.2022.high.bd8994f174ce27775fbe",
+    "kr.topic.2022.high.c0b2176930cc5abc0601",
+    "kr.topic.2022.high.c6a110c0960badb98547",
+    "kr.topic.2022.high.f19e7cc1ee035fa95f00",
+    "kr.topic.2022.high.f8853b44031c6b430123"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.74870ff202b9e90fa4",
+   "titleKorean": "생산 자재 — 비료",
+   "subjectKorean": "생산 자재",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "비료",
+   "summary": "생산 자재의 비료 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.35e5a4a3a84dcdd83881",
+    "kr.topic.2022.high.36cf024c68396f32eb39",
+    "kr.topic.2022.high.6310a697b42b2cad8de6",
+    "kr.topic.2022.high.632e7e5d70cd7fdfedb8",
+    "kr.topic.2022.high.78e6548bcd5918a0d575",
+    "kr.topic.2022.high.8414c4153fc265cfa1a5",
+    "kr.topic.2022.high.a7a4e6bfd1314e51527e",
+    "kr.topic.2022.high.b5f41db91a87cefb7d52",
+    "kr.topic.2022.high.b7e5431afaf2e48f4b7f",
+    "kr.topic.2022.high.edec8ce836a87058c006"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7795068a732c367d42",
+   "titleKorean": "농업 기계 공작 — 영역 07",
+   "subjectKorean": "농업 기계 공작",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 07",
+   "summary": "농업 기계 공작의 영역 07 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.03be7ab99eeb6619ab2c",
+    "kr.topic.2022.high.e66837ff0518a754753d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.78d90849ae5d719b44",
+   "titleKorean": "농업 창업 일반 — 농업 마케팅",
+   "subjectKorean": "농업 창업 일반",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농업 마케팅",
+   "summary": "농업 창업 일반의 농업 마케팅 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.7fb4fc926a1e8954e8d3",
+    "kr.topic.2022.high.95a8cbf0a552967d55fa",
+    "kr.topic.2022.high.f592a0370a243f8fde7b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.797efa7f302d216542",
+   "titleKorean": "동물 자원 — 축산물의 가공과 이용",
+   "subjectKorean": "동물 자원",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "축산물의 가공과 이용",
+   "summary": "동물 자원의 축산물의 가공과 이용 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.1b6fcafd9df9cfede8f9",
+    "kr.topic.2022.high.2705abc2db253c0de667",
+    "kr.topic.2022.high.65a15f79cac62b6ec9fa",
+    "kr.topic.2022.high.785537f2e852f36de3c4",
+    "kr.topic.2022.high.78cbd6510528282f4ac5",
+    "kr.topic.2022.high.af360a18944c900f041b",
+    "kr.topic.2022.high.bda2a666c660375f0644",
+    "kr.topic.2022.high.ef76bd7b7ce12d665c00",
+    "kr.topic.2022.high.f634b0c839333171fe32"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7a40b81d30caf5db1e",
+   "titleKorean": "농업 경영 — 농업 경영 요소",
+   "subjectKorean": "농업 경영",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농업 경영 요소",
+   "summary": "농업 경영의 농업 경영 요소 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.088d76c24b4f470e97f8",
+    "kr.topic.2022.high.23b3f91b4349f6893cc0",
+    "kr.topic.2022.high.431dbcc75eb22a58a600",
+    "kr.topic.2022.high.7205fff7b178c5b48131",
+    "kr.topic.2022.high.97d64e1670fda80dbed9",
+    "kr.topic.2022.high.a29be9792766d3d5d914",
+    "kr.topic.2022.high.a731e9f384945e2cc0b8",
+    "kr.topic.2022.high.e7a8451c1d18026faf23",
+    "kr.topic.2022.high.eb33b80dc4ef158a8a06",
+    "kr.topic.2022.high.f3579b227eaba7bb758f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7ab2a467499f41f477",
+   "titleKorean": "생산 자재 — 농약",
+   "subjectKorean": "생산 자재",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농약",
+   "summary": "생산 자재의 농약 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.41f23893504bb3cba4c7",
+    "kr.topic.2022.high.4e711d8c213913dcbb78",
+    "kr.topic.2022.high.56159434ca24cfd91606",
+    "kr.topic.2022.high.6589d21d0de6d5784937",
+    "kr.topic.2022.high.714957e4fb49f36325f2",
+    "kr.topic.2022.high.78c45b3054920d8c2e13",
+    "kr.topic.2022.high.bc685a2ad7eca851109d",
+    "kr.topic.2022.high.c0b2370ddc7bac6718a8",
+    "kr.topic.2022.high.c1941b875ca924ef8498",
+    "kr.topic.2022.high.c4a1d569816e399987f5",
+    "kr.topic.2022.high.c87823cece128952ea6c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7bbc8ccdfdabc190c0",
+   "titleKorean": "농업 정보 관리 — 4차 산업 혁명 시대와 농업",
+   "subjectKorean": "농업 정보 관리",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "4차 산업 혁명 시대와 농업",
+   "summary": "농업 정보 관리의 4차 산업 혁명 시대와 농업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.7ad35a59063f7f1ef6a0",
+    "kr.topic.2022.high.b1ad8896c260b114eb0a",
+    "kr.topic.2022.high.bc4c8477e56c20256ba4"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7c1f4409afc0f320f1",
+   "titleKorean": "동물 자원 — 동물의 번식과 개량",
+   "subjectKorean": "동물 자원",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "동물의 번식과 개량",
+   "summary": "동물 자원의 동물의 번식과 개량 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.1c27c1ede7228168cb8a",
+    "kr.topic.2022.high.5d402177080981ee1862",
+    "kr.topic.2022.high.6321d75a7a7cfca10722",
+    "kr.topic.2022.high.6396ae36647398e99c73",
+    "kr.topic.2022.high.73821b97b5af775578cd",
+    "kr.topic.2022.high.7410bb305bb657aa1543",
+    "kr.topic.2022.high.820c6c6a29de7b3cf6ba",
+    "kr.topic.2022.high.9612f7c039c507c6b8ef",
+    "kr.topic.2022.high.b1d19fa5d6bb73801a5f",
+    "kr.topic.2022.high.b51e35433938c9b7e9bf",
+    "kr.topic.2022.high.ca236722b9e2c49034a6",
+    "kr.topic.2022.high.e0978e22bca2e5f5f9bc",
+    "kr.topic.2022.high.ee1268ced9d2e8a7a6bd"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7c37603ceb9f782dac",
+   "titleKorean": "반려동물 관리 — 관상조 관리",
+   "subjectKorean": "반려동물 관리",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "관상조 관리",
+   "summary": "반려동물 관리의 관상조 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.027e8eeee1a220c4ab52",
+    "kr.topic.2022.high.8b12ab819d3036ccf73b",
+    "kr.topic.2022.high.cbd704f40079796dbe09",
+    "kr.topic.2022.high.ed8a0d41fce8d6b6b8e8"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.8025e39c76689a80ec",
+   "titleKorean": "곤충 산업 일반 — 산업 곤충의 종류",
+   "subjectKorean": "곤충 산업 일반",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "산업 곤충의 종류",
+   "summary": "곤충 산업 일반의 산업 곤충의 종류 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.0f705f5d484824de15b0",
+    "kr.topic.2022.high.10c817977734247edc9a",
+    "kr.topic.2022.high.8c54a895886f90796b93",
+    "kr.topic.2022.high.ad0b82d900b6ce5a1497",
+    "kr.topic.2022.high.e4f136456d30e6ee2307",
+    "kr.topic.2022.high.f9b47494c8da88c738f9",
+    "kr.topic.2022.high.fb7498f589a5ec00c1c8"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.808b084c46c0071f97",
+   "titleKorean": "생명 공학 기술 — 생명 공학의 발달",
+   "subjectKorean": "생명 공학 기술",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "생명 공학의 발달",
+   "summary": "생명 공학 기술의 생명 공학의 발달 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.1d461f4d638f53d34b49",
+    "kr.topic.2022.high.3f949a6e80d41127336d",
+    "kr.topic.2022.high.917ed8defd2202a11c14"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.8178b74bd0a4a11331",
+   "titleKorean": "농업 경영 — 농업 경영 전략 및 계획",
+   "subjectKorean": "농업 경영",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농업 경영 전략 및 계획",
+   "summary": "농업 경영의 농업 경영 전략 및 계획 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.0640717f7c19ad240037",
+    "kr.topic.2022.high.46c1746d2f596dbd5282",
+    "kr.topic.2022.high.4a37e12a5930fb126573",
+    "kr.topic.2022.high.8217425734bf64f03c00",
+    "kr.topic.2022.high.a7db597423c74efd6b5e",
+    "kr.topic.2022.high.a94f8bedc98550a45416",
+    "kr.topic.2022.high.c8618d699446395b8412",
+    "kr.topic.2022.high.cc52cceab40e55f4034c",
+    "kr.topic.2022.high.f1ecec94a7e6ba03e302"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.81b9932abd4e9fb320",
+   "titleKorean": "농업용 전기ㆍ전자 — 전기ㆍ전자 기본 이론",
+   "subjectKorean": "농업용 전기ㆍ전자",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "전기ㆍ전자 기본 이론",
+   "summary": "농업용 전기ㆍ전자의 전기ㆍ전자 기본 이론 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.24c9642f93bac508002f",
+    "kr.topic.2022.high.525acc8c96150434c4f2",
+    "kr.topic.2022.high.8702321549267186c969",
+    "kr.topic.2022.high.a49cb9861d5a9540c0db",
+    "kr.topic.2022.high.ab013dfe4625b443fb03",
+    "kr.topic.2022.high.cf04cc561487816f80b2"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.821f9c4556de8582d4",
+   "titleKorean": "농업 토목 시공ㆍ측량 — 농업 토목 시공",
+   "subjectKorean": "농업 토목 시공ㆍ측량",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농업 토목 시공",
+   "summary": "농업 토목 시공ㆍ측량의 농업 토목 시공 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.6bc66f0d69cc384e83cf",
+    "kr.topic.2022.high.bbcb54491fbe0557f50f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.84d8c976483b5c8c11",
+   "titleKorean": "농업 생산 환경 일반 — 농업 수리",
+   "subjectKorean": "농업 생산 환경 일반",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농업 수리",
+   "summary": "농업 생산 환경 일반의 농업 수리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.504da3742bced3133278",
+    "kr.topic.2022.high.5772e334676b778e9fff",
+    "kr.topic.2022.high.9d0e53228916dcef87c6",
+    "kr.topic.2022.high.bd68310ce91d916599a1",
+    "kr.topic.2022.high.c9952b36e4f9b47df664",
+    "kr.topic.2022.high.cf2ac56eed7e0a5a47d8",
+    "kr.topic.2022.high.da27cfaf9f5e092f6d06",
+    "kr.topic.2022.high.fe63b97bb99412b4cb40"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.84ebda369fa2456ac9",
+   "titleKorean": "반려동물 관리 — 기타 반려동물 관리",
+   "subjectKorean": "반려동물 관리",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "기타 반려동물 관리",
+   "summary": "반려동물 관리의 기타 반려동물 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.1d3c3ed75ae09191e192",
+    "kr.topic.2022.high.47593200ef6cc5ce378e",
+    "kr.topic.2022.high.7a79a57d39db9527efb6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.866e9fa022a41eab5f",
+   "titleKorean": "조경 — 조경 관리",
+   "subjectKorean": "조경",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "조경 관리",
+   "summary": "조경의 조경 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.04f38e732606c184b255",
+    "kr.topic.2022.high.0faaec1392847b7c47c8",
+    "kr.topic.2022.high.11e51a5f4fde4367c52b",
+    "kr.topic.2022.high.2eec631f063cab19c3dc",
+    "kr.topic.2022.high.4ec88e7157e7c1cbed8e",
+    "kr.topic.2022.high.546ca1116b85edebc282",
+    "kr.topic.2022.high.996d66349216e9790468",
+    "kr.topic.2022.high.9adf9a66a62e6df3040a",
+    "kr.topic.2022.high.aed63d093bfe1d2e4456",
+    "kr.topic.2022.high.c4e568134ffa9552c1c7",
+    "kr.topic.2022.high.c9f0eae16037ab73d5ea",
+    "kr.topic.2022.high.cdf485aa8d7f106c60c0",
+    "kr.topic.2022.high.d7cf82aa064f2aabefc1"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.86ad80be9a38de78e2",
+   "titleKorean": "조경 식물 관리 — 조경 식물의 분류 및 재배 관리",
+   "subjectKorean": "조경 식물 관리",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "조경 식물의 분류 및 재배 관리",
+   "summary": "조경 식물 관리의 조경 식물의 분류 및 재배 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.3057032f7878f4a5dabc",
+    "kr.topic.2022.high.c22d7fc8916b93c31323",
+    "kr.topic.2022.high.c4dd47b2251dc0a8d58c",
+    "kr.topic.2022.high.c8440c8dd291486fdf81",
+    "kr.topic.2022.high.d18b512e0de2d04f5fef"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.88530e168ac0cd7fc6",
+   "titleKorean": "조경 식물 관리 — 조경 식물 관리의 의미와 범주",
+   "subjectKorean": "조경 식물 관리",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "조경 식물 관리의 의미와 범주",
+   "summary": "조경 식물 관리의 조경 식물 관리의 의미와 범주 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.0873bba5527688101943",
+    "kr.topic.2022.high.2a700c8af2814c47ee28",
+    "kr.topic.2022.high.4a9f356c87f088dc5749",
+    "kr.topic.2022.high.5862b2b9079e70b04fc2",
+    "kr.topic.2022.high.6392b832140eac19d062",
+    "kr.topic.2022.high.6ea344e82ef03128627a",
+    "kr.topic.2022.high.87bf876ad39bcef64e1b",
+    "kr.topic.2022.high.b3898287487415ff34b6",
+    "kr.topic.2022.high.da245b3366499e81fd03"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.88b0d23fd271c0be11",
+   "titleKorean": "농업 기초 기술 — 실험･실습의 기초",
+   "subjectKorean": "농업 기초 기술",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "실험･실습의 기초",
+   "summary": "농업 기초 기술의 실험･실습의 기초 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.21c7444be623db54b1fd",
+    "kr.topic.2022.high.24de0413a54cb13f8686",
+    "kr.topic.2022.high.4fd276cca341965e6032",
+    "kr.topic.2022.high.69712db9aa61cbf8a214",
+    "kr.topic.2022.high.7a151be588b32640afe2",
+    "kr.topic.2022.high.a33298494fc4bb8b6cbd",
+    "kr.topic.2022.high.a532f8fd2519cb2cad2f",
+    "kr.topic.2022.high.ba41baa5c5e931de0f66",
+    "kr.topic.2022.high.c70834933a205c374e68",
+    "kr.topic.2022.high.dac3ba7e44a00aa48a16"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.8eb5cfcc9c110fafd3",
+   "titleKorean": "원예 — 원예 종묘 생산",
+   "subjectKorean": "원예",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "원예 종묘 생산",
+   "summary": "원예의 원예 종묘 생산 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.111c63b13c6c18cbdd3f",
+    "kr.topic.2022.high.24a08b44451590f0a93d",
+    "kr.topic.2022.high.48d9a709a3de0cb40fc3",
+    "kr.topic.2022.high.56fb5276e994494c4769",
+    "kr.topic.2022.high.69016098f0a502d4a70c",
+    "kr.topic.2022.high.6e370b5f8782015e4713",
+    "kr.topic.2022.high.a703855ca83255c0a9b8",
+    "kr.topic.2022.high.aad94724b082f96ae9af",
+    "kr.topic.2022.high.b81f7a64f9bd8987809d",
+    "kr.topic.2022.high.beb0137e21141c55b259",
+    "kr.topic.2022.high.f8517a5ecc3814b12d21",
+    "kr.topic.2022.high.f87e3382e5f681839a92"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9021ee74ffadc2a082",
+   "titleKorean": "농업 기계 운전 작업 — 영역 06",
+   "subjectKorean": "농업 기계 운전 작업",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 06",
+   "summary": "농업 기계 운전 작업의 영역 06 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 1,
+   "topics": [
+    "kr.topic.2022.high.16a46c88ee840a61ed94"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9087d122aea37564ce",
+   "titleKorean": "농업 토목 제도ㆍ설계 — 기초 제도",
+   "subjectKorean": "농업 토목 제도ㆍ설계",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "기초 제도",
+   "summary": "농업 토목 제도ㆍ설계의 기초 제도 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.049eba0172e3f2301150",
+    "kr.topic.2022.high.df88c031c02fc2833b2f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.91d9962a4a9b8ebe38",
+   "titleKorean": "농업 기초 기술 — 농업 기계 기술",
+   "subjectKorean": "농업 기초 기술",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농업 기계 기술",
+   "summary": "농업 기초 기술의 농업 기계 기술 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.0cb1432fb527e702bcbc",
+    "kr.topic.2022.high.1c195a9d81484be9bd84",
+    "kr.topic.2022.high.6081747fee925f7106d2",
+    "kr.topic.2022.high.9586d04db4998a307dbd",
+    "kr.topic.2022.high.a002429cb73f302c53f9",
+    "kr.topic.2022.high.aedd0cf12ee69f00bfc2",
+    "kr.topic.2022.high.b31621faa173ae960219",
+    "kr.topic.2022.high.c6d1f948adb2b74d6fb4",
+    "kr.topic.2022.high.df6ef8305469ea95df24"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9510cb92af6c6ee156",
+   "titleKorean": "농업 이해 — 농업과 진로",
+   "subjectKorean": "농업 이해",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농업과 진로",
+   "summary": "농업 이해의 농업과 진로 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.191587a833c0d4531cda",
+    "kr.topic.2022.high.54d7497578b3be7c1765",
+    "kr.topic.2022.high.86c1383b6b5132b8ae37",
+    "kr.topic.2022.high.abcff91af51c0b259256",
+    "kr.topic.2022.high.c675a7b996df64f8808d",
+    "kr.topic.2022.high.c6982d6bdae49d57a18a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.966b136f534c9af6b1",
+   "titleKorean": "농업 토목 제도ㆍ설계 — 철근 콘크리트",
+   "subjectKorean": "농업 토목 제도ㆍ설계",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "철근 콘크리트",
+   "summary": "농업 토목 제도ㆍ설계의 철근 콘크리트 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.1e75cefd5500dcae63fd",
+    "kr.topic.2022.high.ea48aba21566cd62aa13",
+    "kr.topic.2022.high.f2cf257f49f107f358f2"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.969811af07c6018ff9",
+   "titleKorean": "농업용 전기ㆍ전자 — 제어 시스템의 종류와 제어용 기기",
+   "subjectKorean": "농업용 전기ㆍ전자",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "제어 시스템의 종류와 제어용 기기",
+   "summary": "농업용 전기ㆍ전자의 제어 시스템의 종류와 제어용 기기 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.42cda9a72a7e63b5ea00",
+    "kr.topic.2022.high.93ad89d737f9378192f3",
+    "kr.topic.2022.high.ac85008087c1967bab20"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9943680fadfdfbbded",
+   "titleKorean": "농업 토목 제도ㆍ설계 — 컴퓨터 제도",
+   "subjectKorean": "농업 토목 제도ㆍ설계",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "컴퓨터 제도",
+   "summary": "농업 토목 제도ㆍ설계의 컴퓨터 제도 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.082786d781e08ca88640",
+    "kr.topic.2022.high.4088f5ab07cc765f32c5"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9bcfb20d0d27d94fb9",
+   "titleKorean": "조경 — 조경의 개념과 공간 이해",
+   "subjectKorean": "조경",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "조경의 개념과 공간 이해",
+   "summary": "조경의 조경의 개념과 공간 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.06dcfffd20bdb3ce78dc",
+    "kr.topic.2022.high.1318bd101a4702831862",
+    "kr.topic.2022.high.20bd9a63e656f429f4ad",
+    "kr.topic.2022.high.3c083befa56914ac272b",
+    "kr.topic.2022.high.5d1e8d3f07781bb3346d",
+    "kr.topic.2022.high.611139f3d9ca6db72090",
+    "kr.topic.2022.high.8ac62305d5ca7a8cef14",
+    "kr.topic.2022.high.a305e1d03ae5397c7c05",
+    "kr.topic.2022.high.e2d8de3076dec40031db",
+    "kr.topic.2022.high.ff4ef7fe2bc9f9a5863f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9cd9ad1a9b3421f605",
+   "titleKorean": "친환경 농업 — 친환경 농업과 토양 관리",
+   "subjectKorean": "친환경 농업",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "친환경 농업과 토양 관리",
+   "summary": "친환경 농업의 친환경 농업과 토양 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.40b83c3c6fabcbff3231",
+    "kr.topic.2022.high.4b1885712553f4b16123",
+    "kr.topic.2022.high.59591dabf8358487a16e",
+    "kr.topic.2022.high.624bfdcd6cfecd11db25",
+    "kr.topic.2022.high.791b6644dc127a7dcf55",
+    "kr.topic.2022.high.8911573858f93d5e069a",
+    "kr.topic.2022.high.96d48426e9005bda64bd",
+    "kr.topic.2022.high.efdbff265e86e40f4f70"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9e07117c8017861123",
+   "titleKorean": "동물 자원 — 동물과 산업",
+   "subjectKorean": "동물 자원",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "동물과 산업",
+   "summary": "동물 자원의 동물과 산업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.07fd2e23266b87206bda",
+    "kr.topic.2022.high.297205a197b0218817ba",
+    "kr.topic.2022.high.5c14181570cf6ca302fd",
+    "kr.topic.2022.high.954c1678bd8ba839e09e",
+    "kr.topic.2022.high.b85dbc881a6add380a79",
+    "kr.topic.2022.high.cdf94e1d6f562a4b68d0",
+    "kr.topic.2022.high.ede693a0e80a88749443"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9e94e175c8f5f1ccbf",
+   "titleKorean": "생산 자재 — 작물 재배 관리용 자재",
+   "subjectKorean": "생산 자재",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "작물 재배 관리용 자재",
+   "summary": "생산 자재의 작물 재배 관리용 자재 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.008a08f268dc0206c447",
+    "kr.topic.2022.high.14470159dc6cc954f424",
+    "kr.topic.2022.high.16da36a23366cc7e2212",
+    "kr.topic.2022.high.1a625bdd1ab6974f62a8",
+    "kr.topic.2022.high.1c361978fb49b2cd582d",
+    "kr.topic.2022.high.321e0332bbf388279ab2",
+    "kr.topic.2022.high.80efdab7f61368df44bb",
+    "kr.topic.2022.high.876f820c25179c5ec05b",
+    "kr.topic.2022.high.89b5661a14024f6381da",
+    "kr.topic.2022.high.e7eb58000af2dc67a478"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9ea6d2b0281393d0af",
+   "titleKorean": "생명 공학 기술 — 미생물 생명 공학의 이용",
+   "subjectKorean": "생명 공학 기술",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "미생물 생명 공학의 이용",
+   "summary": "생명 공학 기술의 미생물 생명 공학의 이용 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.33a5d8b9861002009382",
+    "kr.topic.2022.high.f75698ca64cf827d918a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9eaf7048949baf8551",
+   "titleKorean": "임산 가공 — 목재의 품질 확인 및 제재",
+   "subjectKorean": "임산 가공",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "목재의 품질 확인 및 제재",
+   "summary": "임산 가공의 목재의 품질 확인 및 제재 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.5d7370a6951fd0720600",
+    "kr.topic.2022.high.6fafd66136bb30e156a9",
+    "kr.topic.2022.high.9404e77c2b981222f689",
+    "kr.topic.2022.high.9464d1dd37c654fb69ef",
+    "kr.topic.2022.high.aaca3a2ced1bd24b8579",
+    "kr.topic.2022.high.c658128bcf77c8cbbad1"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9f11ce483671beeb2b",
+   "titleKorean": "관광 농업 — 관광 농원 개발",
+   "subjectKorean": "관광 농업",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 농원 개발",
+   "summary": "관광 농업의 관광 농원 개발 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.4744d3f459b545705928",
+    "kr.topic.2022.high.48513215fce999c990d9",
+    "kr.topic.2022.high.8c2bf5ae2b93e3a2f622",
+    "kr.topic.2022.high.ac1dbfea9762cbcebc14"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a093ef63467759d336",
+   "titleKorean": "농업 기계 — 농업용 트랙터",
+   "subjectKorean": "농업 기계",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농업용 트랙터",
+   "summary": "농업 기계의 농업용 트랙터 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.0c0a26d43d9e49011a07",
+    "kr.topic.2022.high.19ea515d2fe48a074fb5",
+    "kr.topic.2022.high.33fa5e09afca696e066e",
+    "kr.topic.2022.high.367961fdc98165f44c0b",
+    "kr.topic.2022.high.3c6004edc16a38507fc4",
+    "kr.topic.2022.high.63d372a35da8bfe9828f",
+    "kr.topic.2022.high.781dbf74e3742d00efdb",
+    "kr.topic.2022.high.b06eeaa4b79db654032e",
+    "kr.topic.2022.high.c5b66628b675365aa6a0",
+    "kr.topic.2022.high.d852a62ecb7820cf0de6",
+    "kr.topic.2022.high.f0152e4c0b133a4d18ec"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a0fd31cc2c92cbac7b",
+   "titleKorean": "농업 기초 기술 — 농업 관련 기술",
+   "subjectKorean": "농업 기초 기술",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농업 관련 기술",
+   "summary": "농업 기초 기술의 농업 관련 기술 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.0436d1e3b46004dd1910",
+    "kr.topic.2022.high.32616c7e341638ea22e6",
+    "kr.topic.2022.high.35561e2c3c682e22f46e",
+    "kr.topic.2022.high.71c817c652a64934eaa9",
+    "kr.topic.2022.high.743c4ffff717202367c0",
+    "kr.topic.2022.high.9f7b9eb8678856c113ed",
+    "kr.topic.2022.high.eae479dc0d5e18bdc1b1",
+    "kr.topic.2022.high.f34bd72a0958d00f6f06",
+    "kr.topic.2022.high.f9ceb0d3bd14f2f41921"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a1be98d9d56476b0d6",
+   "titleKorean": "농산물 유통 — 농산물 유통 정보",
+   "subjectKorean": "농산물 유통",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농산물 유통 정보",
+   "summary": "농산물 유통의 농산물 유통 정보 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.37989cc4bfcac44940a5",
+    "kr.topic.2022.high.4a1def05a6d9c86642d0",
+    "kr.topic.2022.high.768e279495eee644e01e",
+    "kr.topic.2022.high.842d5b8f93115c955b7b",
+    "kr.topic.2022.high.e73ad279b8729f9b127e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a1c666af00a46452e7",
+   "titleKorean": "농업 기계 — 영역 07",
+   "subjectKorean": "농업 기계",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 07",
+   "summary": "농업 기계의 영역 07 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 1,
+   "topics": [
+    "kr.topic.2022.high.847de658d1e3e34886a3"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a2133b50e79e2a6236",
+   "titleKorean": "농업 정보 관리 — 스마트 팜 운영 기술",
+   "subjectKorean": "농업 정보 관리",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 팜 운영 기술",
+   "summary": "농업 정보 관리의 스마트 팜 운영 기술 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.ae4b98da7eb39e02a2f3",
+    "kr.topic.2022.high.c9bf2276d33273a3796e",
+    "kr.topic.2022.high.e175cd5aab57e40e540d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a3fbbd5cc38bb3b4fa",
+   "titleKorean": "농산물 거래 — 선물 거래 및 옵션 거래",
+   "subjectKorean": "농산물 거래",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "선물 거래 및 옵션 거래",
+   "summary": "농산물 거래의 선물 거래 및 옵션 거래 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.6a366540eab6ce1ea1c7",
+    "kr.topic.2022.high.73520391abe94fda59cf",
+    "kr.topic.2022.high.84748b1aa3b56ead0365",
+    "kr.topic.2022.high.9e4a81f54be6ce37e7fa",
+    "kr.topic.2022.high.a5d4e417286f647beb41",
+    "kr.topic.2022.high.bcd7ac25944d70d1abf1",
+    "kr.topic.2022.high.fd24a68a90ad5316dbdd"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a42298df158a29a7ab",
+   "titleKorean": "농업 경영 — 농업 경영 분석",
+   "subjectKorean": "농업 경영",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농업 경영 분석",
+   "summary": "농업 경영의 농업 경영 분석 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 17,
+   "topics": [
+    "kr.topic.2022.high.231dcea88ea692804bc0",
+    "kr.topic.2022.high.3235ddb9089503b348aa",
+    "kr.topic.2022.high.3e977bf111427bcbcbce",
+    "kr.topic.2022.high.5177cc6fd79973a7177b",
+    "kr.topic.2022.high.5c7b8451de00291e6271",
+    "kr.topic.2022.high.649d947155ac61e602b0",
+    "kr.topic.2022.high.6b476296d2de395f53b6",
+    "kr.topic.2022.high.72593a90bcbfdc797c09",
+    "kr.topic.2022.high.795a98fce96bc3ef78b6",
+    "kr.topic.2022.high.7fb0a29f62a4bd93372a",
+    "kr.topic.2022.high.abab7ece10a1b5f9dc61",
+    "kr.topic.2022.high.bcd565f09dcf1fbe9801",
+    "kr.topic.2022.high.bf4f04c3b191a460e7e8",
+    "kr.topic.2022.high.d9f7771c2106650c30d5",
+    "kr.topic.2022.high.f21699f172fd289f40fa",
+    "kr.topic.2022.high.f4fee5dda7e495414222",
+    "kr.topic.2022.high.fa6506b15581dabdb6a0"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a63fe0a14a34ddf2d3",
+   "titleKorean": "조경 식물 관리 — 조경 수목 병해충 관리",
+   "subjectKorean": "조경 식물 관리",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "조경 수목 병해충 관리",
+   "summary": "조경 식물 관리의 조경 수목 병해충 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.2ad490112769825deb8d",
+    "kr.topic.2022.high.2d862edccd9c70d3e2a9",
+    "kr.topic.2022.high.31cf0b836e2b25a4192b",
+    "kr.topic.2022.high.4eb87aa8a0d1dc3ccc8c",
+    "kr.topic.2022.high.94b3b63e61c5743344dc",
+    "kr.topic.2022.high.a03f9254a54890d43cf3",
+    "kr.topic.2022.high.aebca3d16f9f76385a67",
+    "kr.topic.2022.high.bd6da24b32cf602b9362",
+    "kr.topic.2022.high.bfb2c0925b363f238ded",
+    "kr.topic.2022.high.f0d2c5cf5b9f754b958a",
+    "kr.topic.2022.high.f1c1b8edeee4cdccebc8"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a6d36c97240aa224f4",
+   "titleKorean": "동물 자원 — 축산 경영과 유통",
+   "subjectKorean": "동물 자원",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "축산 경영과 유통",
+   "summary": "동물 자원의 축산 경영과 유통 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.0d32ac397d2a47dfc941",
+    "kr.topic.2022.high.296fae7b9b25c4f2ebb0",
+    "kr.topic.2022.high.4ca98bb4f18a21969379",
+    "kr.topic.2022.high.541fee58ad99483317d5",
+    "kr.topic.2022.high.af7c244b24c45b5a595c",
+    "kr.topic.2022.high.be5476813e361cebd849",
+    "kr.topic.2022.high.d57d4b529c8a71b5c9f9",
+    "kr.topic.2022.high.d6cd634432382aad57e4",
+    "kr.topic.2022.high.d827014c22a9c7380ea9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a91ab5691bbc9f8657",
+   "titleKorean": "생산 자재 — 토양과 용토",
+   "subjectKorean": "생산 자재",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "토양과 용토",
+   "summary": "생산 자재의 토양과 용토 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.181192acda092a425b48",
+    "kr.topic.2022.high.2a297b5531396ff25bdb",
+    "kr.topic.2022.high.3469edc61db0369ce7b0",
+    "kr.topic.2022.high.3b54d0e6267fe6230ea2",
+    "kr.topic.2022.high.43d5c194c7f8dca6d109",
+    "kr.topic.2022.high.65bd706289b6045e7ecd",
+    "kr.topic.2022.high.aa0f145b87b2bb5dfe19",
+    "kr.topic.2022.high.b85e2ddf2d7cd280ad6a",
+    "kr.topic.2022.high.bd04eda414a2e41f127c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.aa1759504e6979361c",
+   "titleKorean": "생명 공학 기술 — 조직 배양의 기초",
+   "subjectKorean": "생명 공학 기술",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "조직 배양의 기초",
+   "summary": "생명 공학 기술의 조직 배양의 기초 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.1486290eb8b032f6ce2e",
+    "kr.topic.2022.high.1898be1449dcbe7343ce",
+    "kr.topic.2022.high.f5d65f155d124924092c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ab184c4b2cdfd559b3",
+   "titleKorean": "농산물 거래 — 직거래",
+   "subjectKorean": "농산물 거래",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "직거래",
+   "summary": "농산물 거래의 직거래 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.11126abc54c6671322f3",
+    "kr.topic.2022.high.201aaf5657162420ce1f",
+    "kr.topic.2022.high.21ae4ed08b3a2db1c46e",
+    "kr.topic.2022.high.371163141b6dd741e907",
+    "kr.topic.2022.high.75261d7910a7b4b519a4",
+    "kr.topic.2022.high.a3031fcb86f5e95f56dc",
+    "kr.topic.2022.high.d656f2bc13801cd61f6b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ab5f1316bb2fd90c78",
+   "titleKorean": "농업 기계 공작 — 작업 안전",
+   "subjectKorean": "농업 기계 공작",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "작업 안전",
+   "summary": "농업 기계 공작의 작업 안전 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.abf529e708be787ea6fe",
+    "kr.topic.2022.high.db339e682577d411d450"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ad40e25823b7301658",
+   "titleKorean": "농산물 거래 — 농산물 무역",
+   "subjectKorean": "농산물 거래",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농산물 무역",
+   "summary": "농산물 거래의 농산물 무역 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.6d242515d101c33a67be",
+    "kr.topic.2022.high.86b49a218a6e02d45886",
+    "kr.topic.2022.high.ddfc84f67cbe1666f037",
+    "kr.topic.2022.high.ea3b1b19a63740ad0f6e",
+    "kr.topic.2022.high.f23da7baaf8594373670"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.adc5a03db8e92ee1cc",
+   "titleKorean": "동물 자원 — 동물 복지와 친환경적 사육",
+   "subjectKorean": "동물 자원",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "동물 복지와 친환경적 사육",
+   "summary": "동물 자원의 동물 복지와 친환경적 사육 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.326f441b40c3b4fa509b",
+    "kr.topic.2022.high.3486bd3093b65a84a75b",
+    "kr.topic.2022.high.483394426d7698fef7e0",
+    "kr.topic.2022.high.626d6af8cbb258e89d9f",
+    "kr.topic.2022.high.91b157b2abad68fc701f",
+    "kr.topic.2022.high.cd5d523d2a3712096779"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b04242c08a9e543e75",
+   "titleKorean": "농업 기계 — 농업 시설 및 설비",
+   "subjectKorean": "농업 기계",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농업 시설 및 설비",
+   "summary": "농업 기계의 농업 시설 및 설비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.04b73912186c8c8bc486",
+    "kr.topic.2022.high.3baf08c9b0a64b8bc901",
+    "kr.topic.2022.high.6878563efa9befe13128",
+    "kr.topic.2022.high.8906abb047ea5e171917",
+    "kr.topic.2022.high.afa766c00312c1b3c239",
+    "kr.topic.2022.high.bc6edf712eb6ac45df04",
+    "kr.topic.2022.high.fc573b3b4a088b6e38a9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b06f5f0b589f04ebe8",
+   "titleKorean": "조경 — 조경 재료",
+   "subjectKorean": "조경",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "조경 재료",
+   "summary": "조경의 조경 재료 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.0ce3bff3e6fde5ef7553",
+    "kr.topic.2022.high.654d34f244fe0bcb246b",
+    "kr.topic.2022.high.67233cba78deb0cf2b64",
+    "kr.topic.2022.high.714d38f8af2bcb570f4f",
+    "kr.topic.2022.high.9026c84c273b9a9879e4",
+    "kr.topic.2022.high.a054ecb970c817bedf72",
+    "kr.topic.2022.high.abb6bad71def08455129",
+    "kr.topic.2022.high.b14c9f9ffabb37874847",
+    "kr.topic.2022.high.df186d235ec6661a7c14",
+    "kr.topic.2022.high.e35edbb6ed724901fb2d",
+    "kr.topic.2022.high.ece9cfe2347381e64f87"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b1898133a46e346ef9",
+   "titleKorean": "농업 토목 시공ㆍ측량 — 기본 측량",
+   "subjectKorean": "농업 토목 시공ㆍ측량",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "기본 측량",
+   "summary": "농업 토목 시공ㆍ측량의 기본 측량 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.dbdf322d17aa880b5a16",
+    "kr.topic.2022.high.f0a0ac29b8f9839c783c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b46d7ce0b5031298bf",
+   "titleKorean": "농업 기계 공작 — 용접 작업",
+   "subjectKorean": "농업 기계 공작",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "용접 작업",
+   "summary": "농업 기계 공작의 용접 작업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.02ae34916101faba8a68",
+    "kr.topic.2022.high.2ad87d47705240c1deb8",
+    "kr.topic.2022.high.ac4732a855ecb9791f1f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b4a9d5ae6c9595470a",
+   "titleKorean": "농업 기계 운전 작업 — 농작업 기계",
+   "subjectKorean": "농업 기계 운전 작업",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농작업 기계",
+   "summary": "농업 기계 운전 작업의 농작업 기계 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.6593f5fed73e599f07d0",
+    "kr.topic.2022.high.ab7206d1c5f9fd7819a5",
+    "kr.topic.2022.high.c5042f11229935d7354c",
+    "kr.topic.2022.high.dcf56f4585457b28ce42",
+    "kr.topic.2022.high.e0ff98de9fe33944fb69",
+    "kr.topic.2022.high.fd33f037330f558ba3c6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b4bb75273c994f60d4",
+   "titleKorean": "산림 자원 — 산림 자원의 이해",
+   "subjectKorean": "산림 자원",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "산림 자원의 이해",
+   "summary": "산림 자원의 산림 자원의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.6047a408fa569b50c835",
+    "kr.topic.2022.high.750e6e12b5f915b56bf8",
+    "kr.topic.2022.high.a942aaa4cbcdb355a756",
+    "kr.topic.2022.high.cbce92b83bc1b1c180d4",
+    "kr.topic.2022.high.f1b81478fc8f785d1b71",
+    "kr.topic.2022.high.f38d2264cbde0cc25720",
+    "kr.topic.2022.high.fadbe8911574eafaf593"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b65d7011c75bc8908d",
+   "titleKorean": "생산 자재 — 재배 시설 자재",
+   "subjectKorean": "생산 자재",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "재배 시설 자재",
+   "summary": "생산 자재의 재배 시설 자재 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.0d81ce347fe2e6ae80eb",
+    "kr.topic.2022.high.25c47869b1ca9090376d",
+    "kr.topic.2022.high.446890ca83ea2f96b3fb",
+    "kr.topic.2022.high.5adf7aee6e8b55eb6a4e",
+    "kr.topic.2022.high.6fe118eac4f742bc2e75",
+    "kr.topic.2022.high.802fc949ddc92d5210c0",
+    "kr.topic.2022.high.8211d20997d99600acb2",
+    "kr.topic.2022.high.9f1cd9f964a82f0e2c4a",
+    "kr.topic.2022.high.ac08abf0eb9b53c103ae",
+    "kr.topic.2022.high.adf64f0f4ae8f2db6883",
+    "kr.topic.2022.high.c871d5faa6037942d5bc",
+    "kr.topic.2022.high.d5a5f64d5d7fc12c875d",
+    "kr.topic.2022.high.f7309696c43f60afc86b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b874865ab9b9d9cbd0",
+   "titleKorean": "생산 자재 — 농업 생산 자재",
+   "subjectKorean": "생산 자재",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농업 생산 자재",
+   "summary": "생산 자재의 농업 생산 자재 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.0bf2ae533e6207b7db7a",
+    "kr.topic.2022.high.abf6db98d7552292514a",
+    "kr.topic.2022.high.d6c37f94bc7711c6de58",
+    "kr.topic.2022.high.fbf7c9568d722d2f5fe8",
+    "kr.topic.2022.high.fc5aba6b6c820eb6122e",
+    "kr.topic.2022.high.fd06dde813eeccab5fb1"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ba8e271fa47c1900d2",
+   "titleKorean": "화훼 장식 기초 — 화훼 장식 절화 기본 상품 제작",
+   "subjectKorean": "화훼 장식 기초",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "화훼 장식 절화 기본 상품 제작",
+   "summary": "화훼 장식 기초의 화훼 장식 절화 기본 상품 제작 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.14df7932b49ecf5382b5",
+    "kr.topic.2022.high.1e983e031439a54729d9",
+    "kr.topic.2022.high.61a2f1faacf0325e9dfb",
+    "kr.topic.2022.high.75636a2e1195460a885d",
+    "kr.topic.2022.high.7e6a7cf9c5aac1f8198b",
+    "kr.topic.2022.high.8fa4a9e0e00f696650e5",
+    "kr.topic.2022.high.efafa0842aa54cc13297",
+    "kr.topic.2022.high.f4f6f5a953c580dc5846",
+    "kr.topic.2022.high.f817608ffead50f734da"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.bfd3745f9bea527cd6",
+   "titleKorean": "농업 기초 기술 — 식품 가공 기술",
+   "subjectKorean": "농업 기초 기술",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "식품 가공 기술",
+   "summary": "농업 기초 기술의 식품 가공 기술 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.04aefe12f5d0df1b22bd",
+    "kr.topic.2022.high.2f2d6a3d92d66f43c107",
+    "kr.topic.2022.high.78896131eaa5acb48a83",
+    "kr.topic.2022.high.c9aafa195312a7a41b35",
+    "kr.topic.2022.high.d7ee089a22156ff1a93c",
+    "kr.topic.2022.high.e4601cbbcbf2834edae6",
+    "kr.topic.2022.high.e4dcd959695f865be009",
+    "kr.topic.2022.high.e894da863bde5ce93561"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c18d132c865133c46c",
+   "titleKorean": "관광 농업 — 관광 농업의 유형과 전망",
+   "subjectKorean": "관광 농업",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 농업의 유형과 전망",
+   "summary": "관광 농업의 관광 농업의 유형과 전망 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.0101596f3d8e2d962879",
+    "kr.topic.2022.high.02cd91572d0bbf4a687a",
+    "kr.topic.2022.high.1ac2cf0d96a0c1154a7c",
+    "kr.topic.2022.high.38abf726a8026e3c49c1",
+    "kr.topic.2022.high.4cbf521f407fc92220d6",
+    "kr.topic.2022.high.5eede1ed553fb2cc21c4",
+    "kr.topic.2022.high.8e0f3dc65cc5e7cee06e",
+    "kr.topic.2022.high.b7c0f218019fb76b364e",
+    "kr.topic.2022.high.cead5c9f54b245968e69"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c22cb3d2792fec9153",
+   "titleKorean": "생산 자재 — 친환경 농자재",
+   "subjectKorean": "생산 자재",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "친환경 농자재",
+   "summary": "생산 자재의 친환경 농자재 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.1634e6055bd99da1b2bd",
+    "kr.topic.2022.high.1657d3c37f8cc9c8d2fb",
+    "kr.topic.2022.high.2ea84e41f0ea278aafec",
+    "kr.topic.2022.high.6aa72e61b664dc337d91",
+    "kr.topic.2022.high.766a5f9dc75acc4fd1f6",
+    "kr.topic.2022.high.82d9530302b65b872427",
+    "kr.topic.2022.high.964b75b9c6b5e530e24d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c31032c87d04cffa99",
+   "titleKorean": "농산물 거래 — 전자 상거래",
+   "subjectKorean": "농산물 거래",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "전자 상거래",
+   "summary": "농산물 거래의 전자 상거래 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.1502f2260f0cf2ed8fda",
+    "kr.topic.2022.high.179ed2eac86e1dbae6e7",
+    "kr.topic.2022.high.2ea2ccb74f96abb4e44f",
+    "kr.topic.2022.high.8b3f00f85ab35a528495",
+    "kr.topic.2022.high.b50e6bbe7d0da086a69a",
+    "kr.topic.2022.high.bc60b2bfa30ae1cc7d22"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c49c9c4e4d756fd6b0",
+   "titleKorean": "농업 기계 — 연료와 윤활유",
+   "subjectKorean": "농업 기계",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "연료와 윤활유",
+   "summary": "농업 기계의 연료와 윤활유 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.1064c12d983c55167fb2",
+    "kr.topic.2022.high.234a352e547ca340e6d2"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c54566c8a68a47a849",
+   "titleKorean": "농업 기계 공작 — 영역 08",
+   "subjectKorean": "농업 기계 공작",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 08",
+   "summary": "농업 기계 공작의 영역 08 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.1652b8a23d99dbc128fb",
+    "kr.topic.2022.high.7d9cb3be8ed2dd9045d7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.cc0ef1c27133233b73",
+   "titleKorean": "재배 — 작물 재배",
+   "subjectKorean": "재배",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "작물 재배",
+   "summary": "재배의 작물 재배 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.6431468884df4a62ef2d",
+    "kr.topic.2022.high.64aecfc1f72ad9e4bbf0",
+    "kr.topic.2022.high.a62c82031e5320951c79",
+    "kr.topic.2022.high.b07da1177faf9b535a12",
+    "kr.topic.2022.high.dd5d61ec9b2fe0878b88",
+    "kr.topic.2022.high.e3f8a7d431daa2509764"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ccf1948e121248e6bd",
+   "titleKorean": "산림 자원 — 산림 보호",
+   "subjectKorean": "산림 자원",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "산림 보호",
+   "summary": "산림 자원의 산림 보호 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.063a09aaa8fd80bd0d06",
+    "kr.topic.2022.high.30b39db8c3792c578bec",
+    "kr.topic.2022.high.3ee7769c999bd7e4af1e",
+    "kr.topic.2022.high.9f598e99df1f8696b3d4",
+    "kr.topic.2022.high.fa558d80b840665d1e75"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d3ad10fc3e3d861e4b",
+   "titleKorean": "농업 기계 운전 작업 — 농업용 중장비와 멀티콥터",
+   "subjectKorean": "농업 기계 운전 작업",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농업용 중장비와 멀티콥터",
+   "summary": "농업 기계 운전 작업의 농업용 중장비와 멀티콥터 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.11002fed45d70179ae58",
+    "kr.topic.2022.high.15228b596b4ea139bc09",
+    "kr.topic.2022.high.9cc0bcc1e69313dea5f0",
+    "kr.topic.2022.high.9d20b5cd74b006902a02",
+    "kr.topic.2022.high.a883b85d500814b10dde",
+    "kr.topic.2022.high.acf15d385ce406558629",
+    "kr.topic.2022.high.fd3f2535aaedee80eb6c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d7715a9d0ecb9f6d3a",
+   "titleKorean": "농업 생산 환경 일반 — 농촌 지역 개발",
+   "subjectKorean": "농업 생산 환경 일반",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농촌 지역 개발",
+   "summary": "농업 생산 환경 일반의 농촌 지역 개발 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.127174fb37fb8891de21",
+    "kr.topic.2022.high.2a8d56136e9f0741a37e",
+    "kr.topic.2022.high.2d73031fb9f408782641",
+    "kr.topic.2022.high.594836d75113d1732abd",
+    "kr.topic.2022.high.6511bfe9ec56a48b6662",
+    "kr.topic.2022.high.9f2fe5c71bbd14a28eae",
+    "kr.topic.2022.high.a187f38e8463068378bc",
+    "kr.topic.2022.high.cd367f05af2b2290bd91"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d8f892916ea4ca3037",
+   "titleKorean": "조림 — 숲의 갱신",
+   "subjectKorean": "조림",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "숲의 갱신",
+   "summary": "조림의 숲의 갱신 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.6566d084a84d1dca6e74",
+    "kr.topic.2022.high.9bd9c278b1eee5eb3d05",
+    "kr.topic.2022.high.c0494d10ca4bcf0f5f76",
+    "kr.topic.2022.high.ec8a436ee949f43a3351",
+    "kr.topic.2022.high.f886cb434fbf124c9ed6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d912c218e6a167c46d",
+   "titleKorean": "농산물 유통 — 농산물 품질 관리",
+   "subjectKorean": "농산물 유통",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농산물 품질 관리",
+   "summary": "농산물 유통의 농산물 품질 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.8d2813f79a7686911e97",
+    "kr.topic.2022.high.99b50205b6aa65607429",
+    "kr.topic.2022.high.c798e8aac6e7ba0440f1",
+    "kr.topic.2022.high.d5902e02cb8c26765e35",
+    "kr.topic.2022.high.ebdba384961c1117bb43",
+    "kr.topic.2022.high.faa523da4f9f5509396b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.da67031285bdeecfb5",
+   "titleKorean": "농업 기계 — 영역 06",
+   "subjectKorean": "농업 기계",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 06",
+   "summary": "농업 기계의 영역 06 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.0e9b3cd9f2495ee50ff4",
+    "kr.topic.2022.high.8b11eabd5fc320f727ac",
+    "kr.topic.2022.high.ab0783e5e3c9583569fd"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.da6cc412fc24693cc1",
+   "titleKorean": "농업 기초 기술 — 식물 자원 기술",
+   "subjectKorean": "농업 기초 기술",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "식물 자원 기술",
+   "summary": "농업 기초 기술의 식물 자원 기술 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 15,
+   "topics": [
+    "kr.topic.2022.high.12f6757bbf315b0cdb11",
+    "kr.topic.2022.high.14176b0409082a1d4b24",
+    "kr.topic.2022.high.142f5a25079cfbb920e4",
+    "kr.topic.2022.high.1b6b9b64bf2faebe0a7b",
+    "kr.topic.2022.high.301e120b2435b67cf3a2",
+    "kr.topic.2022.high.372c94b15ea329171ba6",
+    "kr.topic.2022.high.6095552a1b3dd705c16a",
+    "kr.topic.2022.high.99b599f6c75bae030e22",
+    "kr.topic.2022.high.ac01a9bac1a130ba757a",
+    "kr.topic.2022.high.c7d19db84464f323c068",
+    "kr.topic.2022.high.cab49b2b11aacd5e930d",
+    "kr.topic.2022.high.cce55a847630a0a1e8e4",
+    "kr.topic.2022.high.d93bdace75923c002d86",
+    "kr.topic.2022.high.e53754a702e0cd7d6100",
+    "kr.topic.2022.high.f16464693711463a1aa0"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.db642fdfd9988052b2",
+   "titleKorean": "반려동물 관리 — 관상어 관리",
+   "subjectKorean": "반려동물 관리",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "관상어 관리",
+   "summary": "반려동물 관리의 관상어 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.0a645235d8bf805b9b65",
+    "kr.topic.2022.high.279ed11fb0fdf0250300",
+    "kr.topic.2022.high.6cdc50b15ec7cd05691a",
+    "kr.topic.2022.high.a731da92fdea753d4fc1"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.dc08a236e3f69d70ce",
+   "titleKorean": "농업 기계 운전 작업 — 농업 동력기",
+   "subjectKorean": "농업 기계 운전 작업",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농업 동력기",
+   "summary": "농업 기계 운전 작업의 농업 동력기 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.0f79e8715fbbcf49815f",
+    "kr.topic.2022.high.20a849b0b860ca55d2e4",
+    "kr.topic.2022.high.294cf5bc9680a274af20",
+    "kr.topic.2022.high.71fc0e2d86804fa0f687",
+    "kr.topic.2022.high.8b64a0ee3df34f2e668f",
+    "kr.topic.2022.high.92432a1b7b86bdcc020e",
+    "kr.topic.2022.high.c3c8471e1e1bcfd91f5d",
+    "kr.topic.2022.high.d8de4cc081cdfa102799",
+    "kr.topic.2022.high.dd4f299be4bab42feb8c",
+    "kr.topic.2022.high.e6da2e4236e6a13bd16a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.dd4a3b99e547bae7c3",
+   "titleKorean": "임산 가공 — 목재의 건조",
+   "subjectKorean": "임산 가공",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "목재의 건조",
+   "summary": "임산 가공의 목재의 건조 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.0231d30f2d09554359ec",
+    "kr.topic.2022.high.184a2c3965c1a2a66bf2",
+    "kr.topic.2022.high.1f5aeb34843ab37ebd47",
+    "kr.topic.2022.high.617358ef3b3816bf643d",
+    "kr.topic.2022.high.8064521291864714d21b",
+    "kr.topic.2022.high.91f376d47f581abe50de",
+    "kr.topic.2022.high.a3282a87bca3027763a1",
+    "kr.topic.2022.high.a57c972cae0ffb4667dc",
+    "kr.topic.2022.high.b0521df60932271aa63a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ddad433351de7ed51b",
+   "titleKorean": "농업용 전기ㆍ전자 — 영역 06",
+   "subjectKorean": "농업용 전기ㆍ전자",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 06",
+   "summary": "농업용 전기ㆍ전자의 영역 06 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.da34d3be1be93af566b2",
+    "kr.topic.2022.high.e966be0940c89f6c3b99"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ddd02fcbda04763c67",
+   "titleKorean": "농업용 전기ㆍ전자 — 농작업 기계에서의 전기ㆍ전자 제어",
+   "subjectKorean": "농업용 전기ㆍ전자",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농작업 기계에서의 전기ㆍ전자 제어",
+   "summary": "농업용 전기ㆍ전자의 농작업 기계에서의 전기ㆍ전자 제어 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.07a2112ef902b4485b0f",
+    "kr.topic.2022.high.153d179e463cdf8629be",
+    "kr.topic.2022.high.2652206c03b047d70dd0",
+    "kr.topic.2022.high.40feb28fb4bdd88c11cd",
+    "kr.topic.2022.high.573ebb728ba49dae00cd",
+    "kr.topic.2022.high.a34b656b6f6623cdd62b",
+    "kr.topic.2022.high.bfbe195cf5c973ee96e6",
+    "kr.topic.2022.high.c006c110c3acbdd62a13",
+    "kr.topic.2022.high.fc84e232901edc21ecc3"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.de248edd0b2f23a395",
+   "titleKorean": "농업 이해 — 농업과 인간",
+   "subjectKorean": "농업 이해",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농업과 인간",
+   "summary": "농업 이해의 농업과 인간 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.3e59d277842242ef62ad",
+    "kr.topic.2022.high.632864745cd40dd34ff8",
+    "kr.topic.2022.high.98eb75c605de03c8a75a",
+    "kr.topic.2022.high.bc669059758cdb78d193",
+    "kr.topic.2022.high.d35c5a90905db6118735"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.de9c08117953d4b8ca",
+   "titleKorean": "농업 기계 — 농작업 기계",
+   "subjectKorean": "농업 기계",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농작업 기계",
+   "summary": "농업 기계의 농작업 기계 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.65a6325a59065ad77412",
+    "kr.topic.2022.high.727740397628e8813729",
+    "kr.topic.2022.high.7e2070fdb34f6b29da4a",
+    "kr.topic.2022.high.84846c37a2feefd22704",
+    "kr.topic.2022.high.9166550fd9011d46e811",
+    "kr.topic.2022.high.aef921516ace4d60caab",
+    "kr.topic.2022.high.c44b460b7492ab4c29a6",
+    "kr.topic.2022.high.cb317238957a13da3b01",
+    "kr.topic.2022.high.e0e8803bd27fe4d37634"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e04aed5940cbc03e3d",
+   "titleKorean": "농업 토목 제도ㆍ설계 — 응용 역학의 기초",
+   "subjectKorean": "농업 토목 제도ㆍ설계",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "응용 역학의 기초",
+   "summary": "농업 토목 제도ㆍ설계의 응용 역학의 기초 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.33ad8d9fef30edba4531",
+    "kr.topic.2022.high.5a70e7eb4e3aea80e9c0",
+    "kr.topic.2022.high.941e5bdc863e06e5fa5f",
+    "kr.topic.2022.high.e9559a1aa51fac830136"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e091212fa698c42860",
+   "titleKorean": "산림 휴양 — 산림 휴양의 기본 개념",
+   "subjectKorean": "산림 휴양",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "산림 휴양의 기본 개념",
+   "summary": "산림 휴양의 산림 휴양의 기본 개념 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 14,
+   "topics": [
+    "kr.topic.2022.high.17b8369f641b5e7ed7d8",
+    "kr.topic.2022.high.393d758aeebcc56a167c",
+    "kr.topic.2022.high.54312a782d6c4ad4d3f0",
+    "kr.topic.2022.high.811567877ed57e9d0c13",
+    "kr.topic.2022.high.8192cc92dae4eff48d1f",
+    "kr.topic.2022.high.8756e0986d387e9a8d64",
+    "kr.topic.2022.high.a26bd5a038fed09f24e8",
+    "kr.topic.2022.high.bd45c1a9642617c67ca9",
+    "kr.topic.2022.high.bf2fdc873ef619772d96",
+    "kr.topic.2022.high.c76fe22a26882e1948a1",
+    "kr.topic.2022.high.cfde4dc58d891e3e30e5",
+    "kr.topic.2022.high.defb94ae5b8b71d286de",
+    "kr.topic.2022.high.f281ce7408da26e06bdb",
+    "kr.topic.2022.high.ffa9b4261165c3b6c202"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e1071cef754aeae3d2",
+   "titleKorean": "곤충 산업 일반 — 산업 곤충의 질병",
+   "subjectKorean": "곤충 산업 일반",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "산업 곤충의 질병",
+   "summary": "곤충 산업 일반의 산업 곤충의 질병 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.14b02a48b6ad4be4318b",
+    "kr.topic.2022.high.4d8183125cd8d5764654",
+    "kr.topic.2022.high.9bf5a814bfa556eed013",
+    "kr.topic.2022.high.a8374865514824cdde5f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e3c9684c3d3ab15afc",
+   "titleKorean": "농업 기계 — 농업 기계의 기초",
+   "subjectKorean": "농업 기계",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농업 기계의 기초",
+   "summary": "농업 기계의 농업 기계의 기초 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.47563194d7e2ca5783a0",
+    "kr.topic.2022.high.550f206cac3a2d6cec8e",
+    "kr.topic.2022.high.5879e198b67c34fcc6c8",
+    "kr.topic.2022.high.80f99b535032f494d4b6",
+    "kr.topic.2022.high.ce702d8423531206360d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e5d97f0d60a828e3ca",
+   "titleKorean": "조림 — 숲 가꾸기",
+   "subjectKorean": "조림",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "숲 가꾸기",
+   "summary": "조림의 숲 가꾸기 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.0072cc458315fb111674",
+    "kr.topic.2022.high.066e3547efa1400f021b",
+    "kr.topic.2022.high.101a3e9fd9a29f49021d",
+    "kr.topic.2022.high.544fe610015cd800b90f",
+    "kr.topic.2022.high.561bb10aba34c53a515f",
+    "kr.topic.2022.high.756d12078180e54a2498",
+    "kr.topic.2022.high.75e1de1ee79c8834d94c",
+    "kr.topic.2022.high.cae8e6798efe6ca50a9a",
+    "kr.topic.2022.high.cb648a6bd60191b0152f",
+    "kr.topic.2022.high.cd94f86adda42b335326",
+    "kr.topic.2022.high.fcae1f5664f5938e54f6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e735d0974555bcb243",
+   "titleKorean": "농업 기계 — 농업 기계의 관리와 안전",
+   "subjectKorean": "농업 기계",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농업 기계의 관리와 안전",
+   "summary": "농업 기계의 농업 기계의 관리와 안전 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.5e9db0289e643199960a",
+    "kr.topic.2022.high.faa13de216e7faf0e69d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ebb44614e9b52447dc",
+   "titleKorean": "반려동물 관리 — 반려견 관리",
+   "subjectKorean": "반려동물 관리",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "반려견 관리",
+   "summary": "반려동물 관리의 반려견 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.67e2fe5b93727e1b82da",
+    "kr.topic.2022.high.a66ad48ddf68667e6bf7",
+    "kr.topic.2022.high.b07ca40dff584e74ae3f",
+    "kr.topic.2022.high.e3a819fecd9adde5bd05"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ed6d3a10c672c0c30f",
+   "titleKorean": "농업 토목 시공ㆍ측량 — 건설 재료 및 토질",
+   "subjectKorean": "농업 토목 시공ㆍ측량",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "건설 재료 및 토질",
+   "summary": "농업 토목 시공ㆍ측량의 건설 재료 및 토질 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.136a7636cac30f45342e",
+    "kr.topic.2022.high.eee229c47ed5803527f6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.edce156cd862861e70",
+   "titleKorean": "산림 휴양 — 산림 휴양 수용력",
+   "subjectKorean": "산림 휴양",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "산림 휴양 수용력",
+   "summary": "산림 휴양의 산림 휴양 수용력 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.090d66c61b8fbe5e0472",
+    "kr.topic.2022.high.1b04b7f1adda6ea38978",
+    "kr.topic.2022.high.4abd30adf34a491ae166",
+    "kr.topic.2022.high.7b005ffe274c06588d9a",
+    "kr.topic.2022.high.981af6db77c328e378b9",
+    "kr.topic.2022.high.b27cd886dd5301453bfc",
+    "kr.topic.2022.high.c99dd3a317a768b5d1d8",
+    "kr.topic.2022.high.dd527c39025949a165ba",
+    "kr.topic.2022.high.e30f9af5380a707b200d",
+    "kr.topic.2022.high.e372bd57750a2efa43b7",
+    "kr.topic.2022.high.e4c08fd92601878b7b16",
+    "kr.topic.2022.high.eda67f34767b6ee0a1e0",
+    "kr.topic.2022.high.fb6174bc6dffbd484239"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.edf41a574f182bf75e",
+   "titleKorean": "관광 농업 — 관광 농원 관리",
+   "subjectKorean": "관광 농업",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 농원 관리",
+   "summary": "관광 농업의 관광 농원 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.33ea7758b057eb1aabe7",
+    "kr.topic.2022.high.3d87de95403bc8d318e8",
+    "kr.topic.2022.high.b28ce70dd7eac3080dda",
+    "kr.topic.2022.high.bb1daa65c9e530bbebfb",
+    "kr.topic.2022.high.fa513f5ff18544a68e30"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ee1ce5da0ff63569bf",
+   "titleKorean": "재배 — 재배 기술 기초",
+   "subjectKorean": "재배",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "재배 기술 기초",
+   "summary": "재배의 재배 기술 기초 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.33050cae3b695d051807",
+    "kr.topic.2022.high.42c8293ded9218efde47",
+    "kr.topic.2022.high.663c903f65fe348c68d6",
+    "kr.topic.2022.high.c5c2a2361883ae494b85",
+    "kr.topic.2022.high.cf7da8ccb2b6a0def20e",
+    "kr.topic.2022.high.d91b52e2235880c2573a",
+    "kr.topic.2022.high.f24af73195359a3d5ce7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ef4ffbefa6d67130e8",
+   "titleKorean": "농업 생산 환경 일반 — 농업 수문",
+   "subjectKorean": "농업 생산 환경 일반",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농업 수문",
+   "summary": "농업 생산 환경 일반의 농업 수문 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.576a2430386fd0a863b6",
+    "kr.topic.2022.high.7b1291ece8bd2f89f6c2",
+    "kr.topic.2022.high.8eca3317a8f0a33816d3",
+    "kr.topic.2022.high.9dc1f883b89d1e57b0b2",
+    "kr.topic.2022.high.ba3817ad4e1526937fa8",
+    "kr.topic.2022.high.db11019bddce53fe89f0",
+    "kr.topic.2022.high.f178cc48605d78700b26",
+    "kr.topic.2022.high.fc32b1b75a9e365f4cf2"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f0e7a544a37d5ad045",
+   "titleKorean": "농업 이해 — 지속가능한 농업",
+   "subjectKorean": "농업 이해",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "지속가능한 농업",
+   "summary": "농업 이해의 지속가능한 농업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.3d063e24b952eac5a058",
+    "kr.topic.2022.high.5c7b8641fcd81db8b7cc",
+    "kr.topic.2022.high.6f03f5d2d76fbfc8cafe",
+    "kr.topic.2022.high.d41e6001d329a1dbd65d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f2cb11c3c206ce6668",
+   "titleKorean": "재배 — 재배 환경",
+   "subjectKorean": "재배",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "재배 환경",
+   "summary": "재배의 재배 환경 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.06ac2d8274d56f6f345f",
+    "kr.topic.2022.high.38c4c20471d9a1e5ba42",
+    "kr.topic.2022.high.ef1ecbe3c70a383fc6f4",
+    "kr.topic.2022.high.f3f1c0824441e8bd4cfb",
+    "kr.topic.2022.high.fb0005c65ca7b5c01041"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f2d32ca5b6fa4fdbc9",
+   "titleKorean": "농산물 유통 — 농산물 거래",
+   "subjectKorean": "농산물 유통",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농산물 거래",
+   "summary": "농산물 유통의 농산물 거래 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.1ece547615b2186dff24",
+    "kr.topic.2022.high.44bb76b7676383cce9b1",
+    "kr.topic.2022.high.4a8514627c40a28c7517",
+    "kr.topic.2022.high.7ef61735ad4275d8c175",
+    "kr.topic.2022.high.83163da5ca2f4dbcfbfb",
+    "kr.topic.2022.high.9b90604bfc41257234bb",
+    "kr.topic.2022.high.c6281469ea2ed238b6c9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f7082cc055bfe87ce1",
+   "titleKorean": "원예 — 원예 시설",
+   "subjectKorean": "원예",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "원예 시설",
+   "summary": "원예의 원예 시설 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.090524f79a53a530fdb8",
+    "kr.topic.2022.high.09936d279e856e56068e",
+    "kr.topic.2022.high.116bc2b3cb897d108f7f",
+    "kr.topic.2022.high.3c2fa53261b62e0bbc85",
+    "kr.topic.2022.high.6395c1971e3dffa67988",
+    "kr.topic.2022.high.a8e3c70a49861853c227",
+    "kr.topic.2022.high.acef01b31e12d4a9344d",
+    "kr.topic.2022.high.af74ac9d4d63711df7d5",
+    "kr.topic.2022.high.b20e551604fc7d2749dd",
+    "kr.topic.2022.high.c6fb640a432b15ba1cf3",
+    "kr.topic.2022.high.ed3ab9475b1f3881b628",
+    "kr.topic.2022.high.f1a9e1b644797548ba7f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f711dcf76c7f5d1bc6",
+   "titleKorean": "친환경 농업 — 친환경 농업의 경종 기술",
+   "subjectKorean": "친환경 농업",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "친환경 농업의 경종 기술",
+   "summary": "친환경 농업의 친환경 농업의 경종 기술 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.24c97ab4727897f19f3b",
+    "kr.topic.2022.high.5d141f9a1fc4a89a57db",
+    "kr.topic.2022.high.7f7687ba10210b00654e",
+    "kr.topic.2022.high.94b881608c76dcf740d5",
+    "kr.topic.2022.high.ab14181ca3ac20d30764",
+    "kr.topic.2022.high.cc486191fc6f5d9ac7b1",
+    "kr.topic.2022.high.f77dccfbd329daac7006"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f7703ce75f9353a5c3",
+   "titleKorean": "농업용 전기ㆍ전자 — 농업 시설에서의 전기ㆍ전자 제어",
+   "subjectKorean": "농업용 전기ㆍ전자",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농업 시설에서의 전기ㆍ전자 제어",
+   "summary": "농업용 전기ㆍ전자의 농업 시설에서의 전기ㆍ전자 제어 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.072b8ab4d2926418bd53",
+    "kr.topic.2022.high.0e1ba3221d6d57eb506d",
+    "kr.topic.2022.high.7b4bba92f10975e253cb",
+    "kr.topic.2022.high.bddd29aeeb4f0c531b1a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f8495dc1f0d747314e",
+   "titleKorean": "농업 토목 시공ㆍ측량 — 농촌 지역 공간 정보",
+   "subjectKorean": "농업 토목 시공ㆍ측량",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농촌 지역 공간 정보",
+   "summary": "농업 토목 시공ㆍ측량의 농촌 지역 공간 정보 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.48c96bf6d0fc1802523c",
+    "kr.topic.2022.high.c2683159513e207da98b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f85bff593e7878cbb0",
+   "titleKorean": "농업 기초 기술 — 동물 자원 기술",
+   "subjectKorean": "농업 기초 기술",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "동물 자원 기술",
+   "summary": "농업 기초 기술의 동물 자원 기술 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.137338b01aae1642694f",
+    "kr.topic.2022.high.153afa2453b1e0d949ad",
+    "kr.topic.2022.high.2e50597dba70c520c3af",
+    "kr.topic.2022.high.6b815ee877be5e74c8f7",
+    "kr.topic.2022.high.c361e79c8732e294442b",
+    "kr.topic.2022.high.c640357d86b0f07a0718",
+    "kr.topic.2022.high.cf21e8fcacd48617372a",
+    "kr.topic.2022.high.d6f2103311810a40cd84"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f89b835042b5b6b1be",
+   "titleKorean": "산림 자원 — 산림의 기능",
+   "subjectKorean": "산림 자원",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "산림의 기능",
+   "summary": "산림 자원의 산림의 기능 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.11551d8320b2a52bc588",
+    "kr.topic.2022.high.8bf0d1c18c180a3d67b1",
+    "kr.topic.2022.high.9f5e4e292d464752bd5a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f95c7f745ff1e7e83e",
+   "titleKorean": "친환경 농업 — 친환경 농업의 실제",
+   "subjectKorean": "친환경 농업",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "친환경 농업의 실제",
+   "summary": "친환경 농업의 친환경 농업의 실제 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.011b2f2448c4d5dc100f",
+    "kr.topic.2022.high.023fd1f1e920d3e6fc3e",
+    "kr.topic.2022.high.50fbf73825c81b3d755b",
+    "kr.topic.2022.high.67db35687a6784901060",
+    "kr.topic.2022.high.6d373be3a8961f2cf3dc",
+    "kr.topic.2022.high.c1af38c168a3fb926948",
+    "kr.topic.2022.high.c7eaf83c2697fb825f85",
+    "kr.topic.2022.high.e400b610b2403fbe6abd"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fac1e98a2ad1cb3274",
+   "titleKorean": "농업 생산 환경 일반 — 농지 관개 배수",
+   "subjectKorean": "농업 생산 환경 일반",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농지 관개 배수",
+   "summary": "농업 생산 환경 일반의 농지 관개 배수 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.0b070c9b412bcc330db8",
+    "kr.topic.2022.high.17107e693efb461e0a03",
+    "kr.topic.2022.high.183de45d215b46084b25",
+    "kr.topic.2022.high.5172af8079dbf90f3eca",
+    "kr.topic.2022.high.74f5630921840b241f34",
+    "kr.topic.2022.high.ad50eca94e59f976229c",
+    "kr.topic.2022.high.b8ddb734eb22c203c704",
+    "kr.topic.2022.high.d267d3f8cc26ee1a7fa4",
+    "kr.topic.2022.high.dd5e263b5488f57f575e",
+    "kr.topic.2022.high.e63ec11c05e4ecf13dd4",
+    "kr.topic.2022.high.ec36a5c266f2078cd938",
+    "kr.topic.2022.high.f961b54a0fba816e675f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fbb3bfe690d36c504a",
+   "titleKorean": "원예 — 원예 작물 재배",
+   "subjectKorean": "원예",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "원예 작물 재배",
+   "summary": "원예의 원예 작물 재배 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.06be02260cccdae2ee6e",
+    "kr.topic.2022.high.0f35f8da13c9653554eb",
+    "kr.topic.2022.high.1337deca263cfaf9d9b0",
+    "kr.topic.2022.high.4cd9d036746e6ca9b85d",
+    "kr.topic.2022.high.5d5bde8fc7459394bebf",
+    "kr.topic.2022.high.70ffe20a51422f656e24",
+    "kr.topic.2022.high.81b78288b5eb55a71a68",
+    "kr.topic.2022.high.924c35a46b9c89dfc1a1",
+    "kr.topic.2022.high.b3eeb9b2d1bf796d2758",
+    "kr.topic.2022.high.fb540daadac7e9b97038"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fc525c4ce341985997",
+   "titleKorean": "동물 자원 — 반려동물과 실험동물",
+   "subjectKorean": "동물 자원",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "반려동물과 실험동물",
+   "summary": "동물 자원의 반려동물과 실험동물 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.0543c60e716f17364304",
+    "kr.topic.2022.high.1c95c440d63298436112",
+    "kr.topic.2022.high.2c18878326131b4db466",
+    "kr.topic.2022.high.347d1184449285526553",
+    "kr.topic.2022.high.375a0f5baeed23d4df18",
+    "kr.topic.2022.high.4c2efff406a5134c0f24",
+    "kr.topic.2022.high.53e022c5e008e829bd58",
+    "kr.topic.2022.high.550b55000683471d2d40",
+    "kr.topic.2022.high.9145d7c65ee1e8350aa0",
+    "kr.topic.2022.high.bc97e032c075de8f2e47",
+    "kr.topic.2022.high.db91c3d59b6bdec521d8",
+    "kr.topic.2022.high.e5e5cce3dec5d2f17e6d",
+    "kr.topic.2022.high.ee66e9d802d754d35166"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fd54b269c8521feeb5",
+   "titleKorean": "농산물 유통 — 농산물 유통의 기능과 조직",
+   "subjectKorean": "농산물 유통",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농산물 유통의 기능과 조직",
+   "summary": "농산물 유통의 농산물 유통의 기능과 조직 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.3a9504322ab6d7b1280e",
+    "kr.topic.2022.high.9ca25aeb653244ac6057",
+    "kr.topic.2022.high.b53938d627fce280f6a8"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fe2ffd03fca7522cfc",
+   "titleKorean": "친환경 농업 — 친환경 농업과 친환경 자재",
+   "subjectKorean": "친환경 농업",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "친환경 농업과 친환경 자재",
+   "summary": "친환경 농업의 친환경 농업과 친환경 자재 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.29ed9dc3b7eda00855e9",
+    "kr.topic.2022.high.38d0ab64ecbea84528a7",
+    "kr.topic.2022.high.538d2ef06f9f47ff0229",
+    "kr.topic.2022.high.5604de479993479964a6",
+    "kr.topic.2022.high.6401be8874711b1a6392",
+    "kr.topic.2022.high.a488d42ccab923f2b808",
+    "kr.topic.2022.high.a910ef26f0aa8b6b0076",
+    "kr.topic.2022.high.b82ea2c6acebbefa10d0",
+    "kr.topic.2022.high.ec5e278c384b3152e450",
+    "kr.topic.2022.high.fcd4329331481c67a1e1",
+    "kr.topic.2022.high.ff43ca7be06adc56040f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fe509db2171579440a",
+   "titleKorean": "농업 기계 공작 — 공작 재료",
+   "subjectKorean": "농업 기계 공작",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "공작 재료",
+   "summary": "농업 기계 공작의 공작 재료 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.09de363606555f4f620b",
+    "kr.topic.2022.high.3cf2aea2dbfbf1aca0ca",
+    "kr.topic.2022.high.600f6e43fc13a4a263d1",
+    "kr.topic.2022.high.b34942d1618a8dd7916e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fe764b2365cbb2e848",
+   "titleKorean": "농업 경영 — 농업 경영의 기초",
+   "subjectKorean": "농업 경영",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농업 경영의 기초",
+   "summary": "농업 경영의 농업 경영의 기초 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.3f1c553315a420d272af",
+    "kr.topic.2022.high.438ad7ef236594b5b155",
+    "kr.topic.2022.high.7e9f43402ff023c5cd43",
+    "kr.topic.2022.high.85428d258c0cbe1d8cf3",
+    "kr.topic.2022.high.abfadeb0bf05c3105efd",
+    "kr.topic.2022.high.b5da97008a54aeed18c4",
+    "kr.topic.2022.high.c5478936768fcf055474",
+    "kr.topic.2022.high.ed7957a19dcd133bb7fb",
+    "kr.topic.2022.high.f3ed1790351a9f76cf6f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ffc1c317eeeb44eb7f",
+   "titleKorean": "농업 경영 — 농업 경영 지원 사업",
+   "subjectKorean": "농업 경영",
+   "majorFieldSlug": "agriculture-livestock",
+   "gradeBand": "10-12",
+   "domainKorean": "농업 경영 지원 사업",
+   "summary": "농업 경영의 농업 경영 지원 사업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.71af004d1291cddc31ce",
+    "kr.topic.2022.high.8ec96dade1706feb9cb5",
+    "kr.topic.2022.high.ae972b4232096889df8d",
+    "kr.topic.2022.high.b72482fc4753b2fcc1c0",
+    "kr.topic.2022.high.bdbf20a57d28b31b890d",
+    "kr.topic.2022.high.eaaadec0a7a034f8c718",
+    "kr.topic.2022.high.ed964312350a0664fcb4",
+    "kr.topic.2022.high.f0a99a8adc84c9a63e8c",
+    "kr.topic.2022.high.f22797e59abf6c9d588d",
+    "kr.topic.2022.high.f9d0fec3ce0c85eed6b9"
+   ]
+  }
+ ]
+}

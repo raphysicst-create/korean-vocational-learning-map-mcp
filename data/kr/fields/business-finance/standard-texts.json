@@ -1,0 +1,4122 @@
+{
+ "version": "kr-vocational-standard-texts-v1",
+ "sourceNote": "국가교육위원회 고시 제2024-3호 초·중등학교 교육과정 별책23~39(전문교과) PDF에서 추출한 성취기준 본문. 공공저작물로서 저작권법 제24조의2에 따라 출처를 표기해 이용한다.",
+ "texts": [
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 01-01-01]",
+   "code": "[금일 01-01-01]",
+   "text": "국민 경제의 3대 주체(가계, 기업, 정부) 간의 상호 관계에서 발생하는 화폐의 흐름과 주 체별 역할을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 01-01-02]",
+   "code": "[금일 01-01-02]",
+   "text": "금융이 경제생활에 미치는 영향을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 01-01-03]",
+   "code": "[금일 01-01-03]",
+   "text": "금융의 종류를 기준에 따라 구분할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 01-02-01]",
+   "code": "[금일 01-02-01]",
+   "text": "금융 시장의 개념을 설명하고 종류를 구분할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 01-02-02]",
+   "code": "[금일 01-02-02]",
+   "text": "직접 금융 시장과 간접 금융 시장의 특징과 사례를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 01-03-01]",
+   "code": "[금일 01-03-01]",
+   "text": "금융 기관을 종류별로 구분하고 주요 업무를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 01-03-02]",
+   "code": "[금일 01-03-02]",
+   "text": "중앙은행이 수행하는 역할과 경기 상황에 따라 실시하는 금융 정책을 조사하여 보고할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 01-03-03]",
+   "code": "[금일 01-03-03]",
+   "text": "금융 감독 기관이 수행하는 역할을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 01-03-04]",
+   "code": "[금일 01-03-04]",
+   "text": "금융 관련 법령을 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 02-01-01]",
+   "code": "[금일 02-01-01]",
+   "text": "소득의 의미를 알고 소득의 종류를 예를 들어 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 02-01-02]",
+   "code": "[금일 02-01-02]",
+   "text": "소득과 직업의 관계에 대해 토의·토론할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 02-01-03]",
+   "code": "[금일 02-01-03]",
+   "text": "소득 향상을 위한 자기 개발 계획을 세우고 이를 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 02-01-04]",
+   "code": "[금일 02-01-04]",
+   "text": "소득에 따른 세금 부과 방법과 기능을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 02-02-01]",
+   "code": "[금일 02-02-01]",
+   "text": "합리적 소비의 중요성을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 02-02-02]",
+   "code": "[금일 02-02-02]",
+   "text": "소비 과정에서 발생하는 다양한 지불 방법의 종류와 장단점을 비교 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 02-02-03]",
+   "code": "[금일 02-02-03]",
+   "text": "합리적 소비를 위한 지출 계획을 세워 지출 계획서를 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 02-02-04]",
+   "code": "[금일 02-02-04]",
+   "text": "소비자 권리와 책무의 종류와 필요성을 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 02-03-01]",
+   "code": "[금일 02-03-01]",
+   "text": "신용 관리의 중요성을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 02-03-02]",
+   "code": "[금일 02-03-02]",
+   "text": "신용 정보가 활용되는 분야를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 02-03-03]",
+   "code": "[금일 02-03-03]",
+   "text": "신용 불량자의 제한 사항과 구제 제도에 대한 구체적인 사례를 조사하고 신용 관리 실천 계획을 수립할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 03-01-01]",
+   "code": "[금일 03-01-01]",
+   "text": "예금의 의미와 필요성에 대해 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 03-01-02]",
+   "code": "[금일 03-01-02]",
+   "text": "예금 상품을 종류별로 구분하고 합리적인 예금 상품 포트폴리오를 구성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 03-01-03]",
+   "code": "[금일 03-01-03]",
+   "text": "대출의 의미와 필요성에 대해 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 03-01-04]",
+   "code": "[금일 03-01-04]",
+   "text": "대출 상품을 기준에 따라 구분하고 금리를 적용하여 이자를 계산할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 03-02-01]",
+   "code": "[금일 03-02-01]",
+   "text": "환율의 개념을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 03-02-02]",
+   "code": "[금일 03-02-02]",
+   "text": "환율이 국내 경제 및 세계 경제에 미치는 영향을 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 03-02-03]",
+   "code": "[금일 03-02-03]",
+   "text": "환전 절차를 이해하고, 환전 과정이 포함된 여행 계획서를 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 03-03-01]",
+   "code": "[금일 03-03-01]",
+   "text": "신탁의 개념과 종류를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 03-03-02]",
+   "code": "[금일 03-03-02]",
+   "text": "신용 카드의 종류와 거래 구조를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 03-03-03]",
+   "code": "[금일 03-03-03]",
+   "text": "지로 및 공과금 납부 서비스에 대하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 03-03-04]",
+   "code": "[금일 03-03-04]",
+   "text": "은행 관련 법규와 제도를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 04-01-01]",
+   "code": "[금일 04-01-01]",
+   "text": "증권 시장의 종류와 특징을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 04-01-02]",
+   "code": "[금일 04-01-02]",
+   "text": "증권 유통 시장과 증권 발행 시장을 비교하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 04-02-01]",
+   "code": "[금일 04-02-01]",
+   "text": "증권 투자 상품을 구분할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 04-02-02]",
+   "code": "[금일 04-02-02]",
+   "text": "주식과 채권의 특징을 비교하고 개인별 포트폴리오를 구성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 04-02-03]",
+   "code": "[금일 04-02-03]",
+   "text": "간접 투자 상품의 특징을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 04-02-04]",
+   "code": "[금일 04-02-04]",
+   "text": "단기 금융 상품의 종류별 특징을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 04-02-05]",
+   "code": "[금일 04-02-05]",
+   "text": "파생 금융 상품의 종류별 특징을 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 04-03-01]",
+   "code": "[금일 04-03-01]",
+   "text": "주식 거래를 위한 증권 계좌 개설 방법을 설명하고 계좌를 개설할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 04-03-02]",
+   "code": "[금일 04-03-02]",
+   "text": "주식 거래에 사용되는 용어와 거래 절차를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 04-03-03]",
+   "code": "[금일 04-03-03]",
+   "text": "증권 거래를 위한 개인별 포트폴리오를 구성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 04-04-04]",
+   "code": "[금일 04-04-04]",
+   "text": "증권 관련 법규와 제도를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 05-01-01]",
+   "code": "[금일 05-01-01]",
+   "text": "위험 관리의 필요성과 보험의 원리를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 05-01-02]",
+   "code": "[금일 05-01-02]",
+   "text": "보험의 기능을 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 05-01-03]",
+   "code": "[금일 05-01-03]",
+   "text": "보험 관련 법규와 제도를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 05-02-01]",
+   "code": "[금일 05-02-01]",
+   "text": "보험을 목적과 이용 방식에 따라 분류하고 특징을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 05-03-01]",
+   "code": "[금일 05-03-01]",
+   "text": "생명 보험과 손해 보험의 종류와 특징을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 05-03-02]",
+   "code": "[금일 05-03-02]",
+   "text": "제3보험의 특징을 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 05-03-03]",
+   "code": "[금일 05-03-03]",
+   "text": "연금 보험의 종류와 특징을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 05-03-04]",
+   "code": "[금일 05-03-04]",
+   "text": "개인별 상황에 적합한 보험 설계서를 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 06-01-01]",
+   "code": "[금일 06-01-01]",
+   "text": "전자 금융의 의미와 특징을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 06-01-02]",
+   "code": "[금일 06-01-02]",
+   "text": "인터넷 은행의 사례를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 06-02-01]",
+   "code": "[금일 06-02-01]",
+   "text": "핀테크의 의미를 알고 핀테크가 적용된 사례를 보고서로 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 06-02-02]",
+   "code": "[금일 06-02-02]",
+   "text": "빅 데이터가 금융에 적용된 사례를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 06-02-03]",
+   "code": "[금일 06-02-03]",
+   "text": "블록체인 기술이 가상 화폐와 NFT에 적용되는 방식을 설명하고 활용 사례를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 06-03-01]",
+   "code": "[금일 06-03-01]",
+   "text": "금융 범죄 유형에 대해 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-금융-일반:[금일 06-03-02]",
+   "code": "[금일 06-03-02]",
+   "text": "금융 소비자 입장과 금융 업무 담당자 입장을 구분하여 금융 범죄를 예방하기 위한 수칙을 정하고 실천 방안을 제시할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 01-01-01]",
+   "code": "[기자 01-01-01]",
+   "text": "기업 자원 통합 관리의 개념과 발전 과정을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 01-01-02]",
+   "code": "[기자 01-01-02]",
+   "text": "다양한 기업의 경영 혁신 전략을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 01-02-01]",
+   "code": "[기자 01-02-01]",
+   "text": "기업 자원 통합 관리의 필요성에 대하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 01-02-02]",
+   "code": "[기자 01-02-02]",
+   "text": "기업 자원 통합 관리의 특징을 기능적 특징과 기술적 특징으로 구분하여 제시할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 01-03-01]",
+   "code": "[기자 01-03-01]",
+   "text": "기업 자원 통합 관리 시스템의 구축 절차를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 01-03-02]",
+   "code": "[기자 01-03-02]",
+   "text": "기업 자원 통합 관리 시스템의 모듈별 기능을 구분하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 01-03-03]",
+   "code": "[기자 01-03-03]",
+   "text": "시스템 관리에 필요한 정보를 등록할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 01-03-04]",
+   "code": "[기자 01-03-04]",
+   "text": "기초 데이터를 백업 및 복구할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 02-01-01]",
+   "code": "[기자 02-01-01]",
+   "text": "인적 자원 관리의 개념과 영역을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 02-01-02]",
+   "code": "[기자 02-01-02]",
+   "text": "인적 자원의 확보 및 개발 업무를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 02-02-01]",
+   "code": "[기자 02-02-01]",
+   "text": "임금 관리 체계를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 02-02-02]",
+   "code": "[기자 02-02-02]",
+   "text": "복리 후생 유형과 4대 보험을 분류할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 02-02-03]",
+   "code": "[기자 02-02-03]",
+   "text": "종업원의 급여 지급 시 공제되는 세금을 계산하고 연말 정산 절차를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 02-02-04]",
+   "code": "[기자 02-02-04]",
+   "text": "신규 입사자와 퇴사자에 대한 행정적인 업무를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 02-03-01]",
+   "code": "[기자 02-03-01]",
+   "text": "인사 관리 모듈의 흐름을 이해하고 인사 관리 업무를 수행할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 02-03-02]",
+   "code": "[기자 02-03-02]",
+   "text": "급여 관리 업무를 수행할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 02-03-03]",
+   "code": "[기자 02-03-03]",
+   "text": "연말 정산 관리 업무를 수행할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 03-01-01]",
+   "code": "[기자 03-01-01]",
+   "text": "물류 관리의 개념에 대하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 03-01-02]",
+   "code": "[기자 03-01-02]",
+   "text": "물류 관리의 흐름과 영역을 파악하고 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 03-02-01]",
+   "code": "[기자 03-02-01]",
+   "text": "시장의 수요와 판매를 예측할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 03-02-02]",
+   "code": "[기자 03-02-02]",
+   "text": "판매 계획을 수립할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 03-03-01]",
+   "code": "[기자 03-03-01]",
+   "text": "구매 관리의 개념과 특징을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 03-03-02]",
+   "code": "[기자 03-03-02]",
+   "text": "자재 관리와 재고 관리의 개념과 특징을 구분하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 03-04-01]",
+   "code": "[기자 03-04-01]",
+   "text": "물류 관리 모듈의 흐름을 이해하고 물류 기초 정보를 등록할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 03-04-02]",
+   "code": "[기자 03-04-02]",
+   "text": "자재 관리 업무를 수행할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 03-04-03]",
+   "code": "[기자 03-04-03]",
+   "text": "영업 관리 업무를 수행할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 03-04-04]",
+   "code": "[기자 03-04-04]",
+   "text": "구매 관리 업무를 수행할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 04-01-01]",
+   "code": "[기자 04-01-01]",
+   "text": "생산 관리 개념을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 04-01-02]",
+   "code": "[기자 04-01-02]",
+   "text": "생산 관리 시스템을 유형별로 구분하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 04-02-01]",
+   "code": "[기자 04-02-01]",
+   "text": "생산 계획의 종류를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 04-02-02]",
+   "code": "[기자 04-02-02]",
+   "text": "공정 관리의 개념과 종류를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 04-02-03]",
+   "code": "[기자 04-02-03]",
+   "text": "품질 관리의 개념과 종류를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 04-03-01]",
+   "code": "[기자 04-03-01]",
+   "text": "생산 기초 정보를 등록할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 04-03-02]",
+   "code": "[기자 04-03-02]",
+   "text": "생산 관리 업무를 수행할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 05-01-01]",
+   "code": "[기자 05-01-01]",
+   "text": "회계의 구분과 재무제표의 기본 가정을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 05-01-02]",
+   "code": "[기자 05-01-02]",
+   "text": "회계의 순환 과정에 대하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 05-02-01]",
+   "code": "[기자 05-02-01]",
+   "text": "부가 가치세 개념을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 05-02-02]",
+   "code": "[기자 05-02-02]",
+   "text": "부가 가치세의 납부 세액을 산출할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 05-03-01]",
+   "code": "[기자 05-03-01]",
+   "text": "일반적인 거래의 회계 관리 업무를 수행할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 05-03-02]",
+   "code": "[기자 05-03-02]",
+   "text": "부가 가치세 관리 업무를 수행할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 05-03-03]",
+   "code": "[기자 05-03-03]",
+   "text": "자금 및 예산 관리 업무를 수행할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업-자원-통합-관리:[기자 05-03-04]",
+   "code": "[기자 05-03-04]",
+   "text": "결산과 재무제표 업무를 수행할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업과-경영:[기경 01-01-01]",
+   "code": "[기경 01-01-01]",
+   "text": "기업을 설립 주체, 역할, 규모, 상법 등에 따라 구분할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업과-경영:[기경 01-01-02]",
+   "code": "[기경 01-01-02]",
+   "text": "경영의 개념을 설명하고, 경영 관리의 순환 과정을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업과-경영:[기경 01-02-01]",
+   "code": "[기경 01-02-01]",
+   "text": "경영 환경의 요소를 구분하고, ESG 경영의 실천 방안에 대하여 토론할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업과-경영:[기경 01-03-01]",
+   "code": "[기경 01-03-01]",
+   "text": "기업의 사회적 책임을 설명하고 경영 혁신의 사례를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업과-경영:[기경 02-01-01]",
+   "code": "[기경 02-01-01]",
+   "text": "경영 계획의 특성과 단계를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업과-경영:[기경 02-01-02]",
+   "code": "[기경 02-01-02]",
+   "text": "경영 전략 수립 방법과 기법에 대해 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업과-경영:[기경 02-02-01]",
+   "code": "[기경 02-02-01]",
+   "text": "조직 설계의 구성 요소, 형태를 설명하고 경영 조직의 사례를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업과-경영:[기경 02-02-02]",
+   "code": "[기경 02-02-02]",
+   "text": "조직화의 과정과 원칙을 설명하고 조직 문화와 조직 갈등 관리 방법을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업과-경영:[기경 02-03-01]",
+   "code": "[기경 02-03-01]",
+   "text": "지휘의 개념과 동기 부여 방법을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업과-경영:[기경 02-03-02]",
+   "code": "[기경 02-03-02]",
+   "text": "리더십의 유형을 설명하고 바람직한 리더십과 소통에 대해 토론할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업과-경영:[기경 02-04-01]",
+   "code": "[기경 02-04-01]",
+   "text": "경영 통제의 유형 및 기법에 대해 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업과-경영:[기경 03-01-01]",
+   "code": "[기경 03-01-01]",
+   "text": "인적 자원 관리의 개념과 인사 고과의 사례를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업과-경영:[기경 03-01-02]",
+   "code": "[기경 03-01-02]",
+   "text": "직무 관리의 과정, 고용 관리의 원칙, 보상 관리 방법을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업과-경영:[기경 03-01-03]",
+   "code": "[기경 03-01-03]",
+   "text": "「근로 기준법」의 개념을 설명하고 노동 분쟁 해결 방안에 대하여 토론할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업과-경영:[기경 03-02-01]",
+   "code": "[기경 03-02-01]",
+   "text": "생산 관리의 개념, 생산 활동의 과정을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업과-경영:[기경 03-02-02]",
+   "code": "[기경 03-02-02]",
+   "text": "생산 시스템 설계 방법, 품질 관리 방법, 재고 관리 방법을 설명하고 상품 생산 공정 사례 를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업과-경영:[기경 03-03-01]",
+   "code": "[기경 03-03-01]",
+   "text": "마케팅의 개념과 관리 전략, 마케팅 믹스 요소를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업과-경영:[기경 03-03-02]",
+   "code": "[기경 03-03-02]",
+   "text": "소비자 행동 특성을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업과-경영:[기경 03-04-01]",
+   "code": "[기경 03-04-01]",
+   "text": "재무 관리의 개념을 설명하고 재무 활동에 대한 사례를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업과-경영:[기경 03-04-02]",
+   "code": "[기경 03-04-02]",
+   "text": "재무 계획과 통제 방법에 대하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업과-경영:[기경 03-04-03]",
+   "code": "[기경 03-04-03]",
+   "text": "기업의 자본 조달 방법을 구분할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업과-경영:[기경 03-05-01]",
+   "code": "[기경 03-05-01]",
+   "text": "회계 관련 규정과 재무제표의 구성, 회계 정보 관리 방법에 대하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업과-경영:[기경 04-01-01]",
+   "code": "[기경 04-01-01]",
+   "text": "국제 환경 변화에 따른 기업의 대응 방안에 대하여 토론할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기업과-경영:[기경 04-02-01]",
+   "code": "[기경 04-02-01]",
+   "text": "기업의 국제화 과정과 글로벌 경영 사례를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-마케팅과-광고:[마팅 01-01-01]",
+   "code": "[마팅 01-01-01]",
+   "text": "마케팅의 의미와 중요성을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-마케팅과-광고:[마팅 01-01-02]",
+   "code": "[마팅 01-01-02]",
+   "text": "마케팅 개념의 발전 과정을 이해하고 마케팅 관리의 개념을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-마케팅과-광고:[마팅 01-01-03]",
+   "code": "[마팅 01-01-03]",
+   "text": "다양한 마케팅 종류를 구분하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-마케팅과-광고:[마팅 01-02-01]",
+   "code": "[마팅 01-02-01]",
+   "text": "마케팅 활동을 둘러싼 다양한 환경 변화를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-마케팅과-광고:[마팅 01-02-02]",
+   "code": "[마팅 01-02-02]",
+   "text": "ESG 경영을 실천하는 기업의 마케팅 환경 변화에 대해 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-마케팅과-광고:[마팅 01-02-03]",
+   "code": "[마팅 01-02-03]",
+   "text": "정보화 시대의 디지털 혁명에 따른 마케팅 환경 변화를 파악하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-마케팅과-광고:[마팅 02-01-01]",
+   "code": "[마팅 02-01-01]",
+   "text": "디지털 마케팅 환경에서 활용되는 빅 데이터의 개념을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-마케팅과-광고:[마팅 02-01-02]",
+   "code": "[마팅 02-01-02]",
+   "text": "빅 데이터를 통해 다양한 소비 트렌드를 분석하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-마케팅과-광고:[마팅 02-02-01]",
+   "code": "[마팅 02-02-01]",
+   "text": "4차 산업 혁명의 기반이 되는 빅 데이터 기술의 중요성을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-마케팅과-광고:[마팅 02-02-02]",
+   "code": "[마팅 02-02-02]",
+   "text": "빅 데이터의 안전한 활용을 위한 보안의 중요성을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-마케팅과-광고:[마팅 02-03-01]",
+   "code": "[마팅 02-03-01]",
+   "text": "다양한 분야에서 활용되는 빅 데이터의 사례를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-마케팅과-광고:[마팅 02-03-02]",
+   "code": "[마팅 02-03-02]",
+   "text": "빅 데이터가 열어 갈 미래를 마케팅 측면에서 어떻게 준비해야 하는지 토론할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-마케팅과-광고:[마팅 03-01-01]",
+   "code": "[마팅 03-01-01]",
+   "text": "소비자의 구매 행동을 파악하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-마케팅과-광고:[마팅 03-01-02]",
+   "code": "[마팅 03-01-02]",
+   "text": "소비자 정보 처리 과정을 분석하여 사례를 들어 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-마케팅과-광고:[마팅 03-02-01]",
+   "code": "[마팅 03-02-01]",
+   "text": "소비자 구매 의사 결정을 단계별로 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-마케팅과-광고:[마팅 03-02-02]",
+   "code": "[마팅 03-02-02]",
+   "text": "온라인 소비자의 구매 의사 결정 과정을 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-마케팅과-광고:[마팅 03-03-01]",
+   "code": "[마팅 03-03-01]",
+   "text": "소비자의 권리와 소비자 보호의 중요성에 대하여 사례를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-마케팅과-광고:[마팅 03-03-02]",
+   "code": "[마팅 03-03-02]",
+   "text": "디지털 시대의 소비자 운동의 특징과 유형을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-마케팅과-광고:[마팅 04-01-01]",
+   "code": "[마팅 04-01-01]",
+   "text": "SWOT 분석을 통해 마케팅 환경을 파악하고 전략 포트폴리오를 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-마케팅과-광고:[마팅 04-01-02]",
+   "code": "[마팅 04-01-02]",
+   "text": "BCG 매트릭스 분석을 통해 사업 포트폴리오를 분석하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-마케팅과-광고:[마팅 04-01-03]",
+   "code": "[마팅 04-01-03]",
+   "text": "GE 매트릭스 분석을 통해 사업 포트폴리오를 분석하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-마케팅과-광고:[마팅 04-02-01]",
+   "code": "[마팅 04-02-01]",
+   "text": "시장 세분화의 개념과 소비자 시장 세분화 기준을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-마케팅과-광고:[마팅 04-02-02]",
+   "code": "[마팅 04-02-02]",
+   "text": "표적 시장 선정 마케팅 전략의 사례를 유형별로 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-마케팅과-광고:[마팅 04-02-03]",
+   "code": "[마팅 04-02-03]",
+   "text": "포지셔닝의 개념과 포지셔닝 전략 유형을 사례를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-마케팅과-광고:[마팅 04-03-01]",
+   "code": "[마팅 04-03-01]",
+   "text": "제품의 의미와 종류를 파악하고 제품 수명 주기에 따른 마케팅 전략을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-마케팅과-광고:[마팅 04-03-02]",
+   "code": "[마팅 04-03-02]",
+   "text": "가격 정책의 의미와 종류를 파악하고, 가격 결정에 영향을 미치는 요인을 분석하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-마케팅과-광고:[마팅 04-03-03]",
+   "code": "[마팅 04-03-03]",
+   "text": "유통 경로의 의미와 기능을 파악하고 유통 경로의 형태 및 유형을 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-마케팅과-광고:[마팅 04-03-04]",
+   "code": "[마팅 04-03-04]",
+   "text": "촉진의 의미와 중요성을 파악하고, 촉진 수단별 주요 특징에 의한 촉진 믹스 전략을 수립할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-마케팅과-광고:[마팅 04-04-01]",
+   "code": "[마팅 04-04-01]",
+   "text": "빅 데이터 사이트에서 다양한 소비 동향을 찾아 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-마케팅과-광고:[마팅 04-04-02]",
+   "code": "[마팅 04-04-02]",
+   "text": "빅 데이터를 활용한 다양한 마케팅 전략을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-마케팅과-광고:[마팅 05-01-01]",
+   "code": "[마팅 05-01-01]",
+   "text": "광고와 미디어의 환경 변화를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-마케팅과-광고:[마팅 05-01-02]",
+   "code": "[마팅 05-01-02]",
+   "text": "빅 데이터 시대 새로운 광고 전략을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-마케팅과-광고:[마팅 05-02-01]",
+   "code": "[마팅 05-02-01]",
+   "text": "스마트 미디어의 사례를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-마케팅과-광고:[마팅 05-02-02]",
+   "code": "[마팅 05-02-02]",
+   "text": "디지털 미디어를 활용한 광고를 제작하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-마케팅과-광고:[마팅 05-02-03]",
+   "code": "[마팅 05-02-03]",
+   "text": "디지털 시대 새로운 광고 매체와 유형에 대해 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 01-01-01]",
+   "code": "[무영 01-01-01]",
+   "text": "통신문의 구성 요소를 구분하고 구성 요소 역할과 위치를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 01-01-02]",
+   "code": "[무영 01-01-02]",
+   "text": "통신문의 형식을 구분하고 형식에 맞게 통신문을 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 01-02-01]",
+   "code": "[무영 01-02-01]",
+   "text": "해외 시장 조사를 실시하고 조사 결과를 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 01-02-02]",
+   "code": "[무영 01-02-02]",
+   "text": "해외 시장 조사에 대한 통신문을 해석하고 주요 표현을 영문으로 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 01-03-01]",
+   "code": "[무영 01-03-01]",
+   "text": "신용 조회의 3C’s를 파악하고 거래처의 신용을 조회하는 방법을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 01-03-02]",
+   "code": "[무영 01-03-02]",
+   "text": "신용 조회 의뢰 및 답변에 관한 통신문을 해석하고 주요 표현을 영문으로 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 02-01-01]",
+   "code": "[무영 02-01-01]",
+   "text": "거래 제의에 관한 통신문을 해석하고 주요 표현을 영문으로 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 02-01-02]",
+   "code": "[무영 02-01-02]",
+   "text": "거래 조회에 관한 통신문을 해석하고 주요 표현을 영문으로 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 02-02-01]",
+   "code": "[무영 02-02-01]",
+   "text": "청약의 종류에 대해 파악하고 종류별 차이점을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 02-02-02]",
+   "code": "[무영 02-02-02]",
+   "text": "청약과 승낙에 관한 통신문을 해석하고 주요 표현을 영어로 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 02-03-01]",
+   "code": "[무영 02-03-01]",
+   "text": "무역 계약에 관한 통신문을 해석하고 주요 표현을 영어로 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 02-03-02]",
+   "code": "[무영 02-03-02]",
+   "text": "주문에 관한 통신문을 해석하고 주요 표현을 영어로 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 02-04-01]",
+   "code": "[무영 02-04-01]",
+   "text": "품질 결정 방법을 구분하고 품질 조건과 관련된 용어를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 02-04-02]",
+   "code": "[무영 02-04-02]",
+   "text": "품질 조건에 관한 통신문을 해석하고 주요 표현을 영어로 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 02-05-01]",
+   "code": "[무영 02-05-01]",
+   "text": "수량 조건의 종류를 파악하고 용어를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 02-05-02]",
+   "code": "[무영 02-05-02]",
+   "text": "수량 조건에 관한 통신문을 해석하고 주요 표현을 영어로 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 02-06-01]",
+   "code": "[무영 02-06-01]",
+   "text": "가격 조건의 종류를 파악하고 차이점을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 02-06-02]",
+   "code": "[무영 02-06-02]",
+   "text": "인코텀즈 2020 원문 일부를 우리말로 해석하고 각 조건의 특징을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 02-07-01]",
+   "code": "[무영 02-07-01]",
+   "text": "인도 조건의 종류를 구분하고 용어를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 02-07-02]",
+   "code": "[무영 02-07-02]",
+   "text": "인도 조건에 관한 통신문을 해석하고 주요 표현을 영문으로 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 02-08-01]",
+   "code": "[무영 02-08-01]",
+   "text": "포장 조건의 종류를 파악하고 화인을 영어로 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 02-08-02]",
+   "code": "[무영 02-08-02]",
+   "text": "포장 조건에 관한 통신문을 해석하고 주요 표현을 영문으로 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 03-01-01]",
+   "code": "[무영 03-01-01]",
+   "text": "송금 결제의 종류를 구분하고 용어를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 03-01-02]",
+   "code": "[무영 03-01-02]",
+   "text": "송금 결제에 관한 서식을 해석하고 영문 서식을 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 03-02-01]",
+   "code": "[무영 03-02-01]",
+   "text": "신용장의 종류를 구별하고 신용장의 당사자를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 03-02-02]",
+   "code": "[무영 03-02-02]",
+   "text": "신용장 결제에 관한 통신문을 해석하고 주요 표현을 영어로 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 03-02-03]",
+   "code": "[무영 03-02-03]",
+   "text": "신용장 발행 신청서를 해석하고 서식에 맞게 영어로 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 03-02-04]",
+   "code": "[무영 03-02-04]",
+   "text": "신용장 통지서를 해석하고 주요 표현을 영어로 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 03-03-01]",
+   "code": "[무영 03-03-01]",
+   "text": "추심 결제의 종류를 구별하고 추심의 당사자를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 03-03-02]",
+   "code": "[무영 03-03-02]",
+   "text": "추심 결제에 관한 통신문을 해석하고 주요 표현을 영어로 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 03-04-01]",
+   "code": "[무영 03-04-01]",
+   "text": "환어음의 당사자를 파악하고 필수 기재 사항을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 03-04-02]",
+   "code": "[무영 03-04-02]",
+   "text": "환어음 영문 서식의 내용을 파악하고 환어음 서식을 영문으로 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 03-05-01]",
+   "code": "[무영 03-05-01]",
+   "text": "국제 팩토링의 결제 방식을 파악하고 국제 팩토링 결제의 당사자와 장점을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 03-05-02]",
+   "code": "[무영 03-05-02]",
+   "text": "포페이팅의 결제 방식을 파악하고 포페이팅 결제의 당사자와 장점을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 04-01-01]",
+   "code": "[무영 04-01-01]",
+   "text": "해상 운송과 항공 운송의 특징을 비교하여 설명하고 관련된 용어를 영어로 설명할 수 있 다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 04-01-02]",
+   "code": "[무영 04-01-02]",
+   "text": "컨테이너 운송에 대한 용어를 파악하고 각 용어를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 04-01-03]",
+   "code": "[무영 04-01-03]",
+   "text": "해상 운송과 항공 운송에 관한 통신문을 해석하고 주요 표현을 영어로 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 04-01-04]",
+   "code": "[무영 04-01-04]",
+   "text": "운송 서류의 종류를 파악하고 각 서류의 역할을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 04-01-05]",
+   "code": "[무영 04-01-05]",
+   "text": "운송 서류를 해석하고 서식에 맞게 영어로 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 04-02-01]",
+   "code": "[무영 04-02-01]",
+   "text": "해상 보험에 관한 용어를 파악하고 영어로 표현할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 04-02-02]",
+   "code": "[무영 04-02-02]",
+   "text": "해상 보험과 관련된 통신문을 해석하고 주요 표현을 영어로 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 04-02-03]",
+   "code": "[무영 04-02-03]",
+   "text": "해상 적화 보험 증권을 해석하고 영문 서식을 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 05-01-01]",
+   "code": "[무영 05-01-01]",
+   "text": "무역 클레임의 개념을 파악하고 주요 원인을 구분하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 05-01-02]",
+   "code": "[무영 05-01-02]",
+   "text": "무역 클레임 제기와 관련된 통신문을 해석하고 주요 표현을 영어로 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 05-02-01]",
+   "code": "[무영 05-02-01]",
+   "text": "무역 클레임을 해결하는 방법을 파악하고 상황에 맞는 해결 방안을 제시할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-영어:[무영 05-02-02]",
+   "code": "[무영 05-02-02]",
+   "text": "무역 클레임 해결과 관련된 통신문을 해석하고 주요 표현을 영어로 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 01-01-01]",
+   "code": "[무일 01-01-01]",
+   "text": "무역의 뜻과 기능을 파악하고, 무역의 종류를 구분하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 01-01-02]",
+   "code": "[무일 01-01-02]",
+   "text": "무역이 국민 경제에 미치는 영향을 파악하고, 국제 수지에 대하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 01-01-03]",
+   "code": "[무일 01-01-03]",
+   "text": "자유 무역주의와 보호 무역주의 및 신보호 무역주의의 개념을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 01-01-04]",
+   "code": "[무일 01-01-04]",
+   "text": "무역 관련 국제기구의 역할을 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 01-01-05]",
+   "code": "[무일 01-01-05]",
+   "text": "우리나라 무역의 발전 과정을 파악하고 우리나라의 무역 구조와 수출입 추이를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 01-02-01]",
+   "code": "[무일 01-02-01]",
+   "text": "해외 시장 조사의 내용을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 01-02-02]",
+   "code": "[무일 01-02-02]",
+   "text": "거래처 발굴 절차와 발굴 방법을 나열할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 01-02-03]",
+   "code": "[무일 01-02-03]",
+   "text": "수입 업자 신용 조사 내용과 방법을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 01-02-04]",
+   "code": "[무일 01-02-04]",
+   "text": "거래 제의 및 거래 조회의 의미와 내용을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 01-03-01]",
+   "code": "[무일 01-03-01]",
+   "text": "무역과 관련된 법규의 필요성을 설명하고 여러 법규를 제시할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 01-03-02]",
+   "code": "[무일 01-03-02]",
+   "text": "전자 무역과 관련된 국내 법규를 제시할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 02-01-01]",
+   "code": "[무일 02-01-01]",
+   "text": "무역 계약의 개념과 법적 성격을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 02-01-02]",
+   "code": "[무일 02-01-02]",
+   "text": "청약과 승낙의 개념을 설명하고 청약의 종류를 구분할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 02-01-03]",
+   "code": "[무일 02-01-03]",
+   "text": "계약서의 개념과 작성 원칙을 파악하고 일반 거래 조건 협정서의 내용을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 02-02-01]",
+   "code": "[무일 02-02-01]",
+   "text": "품질 결정 방법의 유형별 특징과 최종 품질 결정 시기의 유형별 특징을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 02-02-02]",
+   "code": "[무일 02-02-02]",
+   "text": "수량 단위의 종류와 최종 수량 결정 시점의 유형을 파악하고 과부족 용인 조건을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 02-03-01]",
+   "code": "[무일 02-03-01]",
+   "text": "가격 표시 통화의 개념을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 02-03-02]",
+   "code": "[무일 02-03-02]",
+   "text": "인코텀스 2020 가격 조건의 종류를 파악하고 위험 부담 분기점과 비용 부담 분기점을 구분할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 02-04-01]",
+   "code": "[무일 02-04-01]",
+   "text": "운송 조건을 선적 시기와 선적 방법에 따라 구분할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 02-04-02]",
+   "code": "[무일 02-04-02]",
+   "text": "보험과 보험 금액의 개념을 파악하고 보험의 가격 조건별로 책임 당사자를 연계시킬 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 02-05-01]",
+   "code": "[무일 02-05-01]",
+   "text": "대금 지급 시기의 유형을 구분하여 제시할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 02-05-02]",
+   "code": "[무일 02-05-02]",
+   "text": "대금 결제 방식에 따른 유형을 구분하여 제시할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 02-06-01]",
+   "code": "[무일 02-06-01]",
+   "text": "청약서를 예시한 내용에 따라 작성하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 02-06-02]",
+   "code": "[무일 02-06-02]",
+   "text": "수출 계약서를 예시한 내용에 따라 작성하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 03-01-01]",
+   "code": "[무일 03-01-01]",
+   "text": "전자 무역의 개념을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 03-01-02]",
+   "code": "[무일 03-01-02]",
+   "text": "전자 무역의 단계별 절차를 구분하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 03-02-01]",
+   "code": "[무일 03-02-01]",
+   "text": "웹 EDI의 의미를 파악하고 이용 방법과 특징을 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 03-02-02]",
+   "code": "[무일 03-02-02]",
+   "text": "전자 무역 플랫폼인 유트레이드 허브의 의미와 주요 특징 및 구성 요소를 조사하여 발표 할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 03-03-01]",
+   "code": "[무일 03-03-01]",
+   "text": "전자 무역을 통해 이루어지는 수출 사례와 관련된 서식들을 제시할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 03-03-02]",
+   "code": "[무일 03-03-02]",
+   "text": "전자 무역을 통해 이루어지는 수입 사례와 관련된 서식들을 제시할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 04-01-01]",
+   "code": "[무일 04-01-01]",
+   "text": "수출 절차와 수입 절차를 순서대로 나열할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 04-01-02]",
+   "code": "[무일 04-01-02]",
+   "text": "신용장의 개념과 신용장의 거래 과정을 파악하고 신용장 당사자의 역할을 설명할 수 있 다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 04-01-03]",
+   "code": "[무일 04-01-03]",
+   "text": "신용장의 종류를 나열할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 04-01-04]",
+   "code": "[무일 04-01-04]",
+   "text": "수출입 승인의 개념과 신청 절차를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 04-02-01]",
+   "code": "[무일 04-02-01]",
+   "text": "각 국가별 문화와 특성을 파악하고 각 국가별 국제 비즈니스 매너를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 04-02-02]",
+   "code": "[무일 04-02-02]",
+   "text": "해외 시장 현황을 조사하여 수출 환경에 관한 분석 보고서를 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 04-02-03]",
+   "code": "[무일 04-02-03]",
+   "text": "국내 시장 현황 조사서 등을 바탕으로 수입 제품과 수입 대상국을 선택할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 04-03-01]",
+   "code": "[무일 04-03-01]",
+   "text": "수출입 대금 회수 및 지급 절차를 순서대로 나열할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 04-03-02]",
+   "code": "[무일 04-03-02]",
+   "text": "환어음의 개념과 종류를 파악하고 환어음의 기재 사항을 나열할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 04-03-03]",
+   "code": "[무일 04-03-03]",
+   "text": "선적 서류의 개념과 종류에 대해 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 04-03-04]",
+   "code": "[무일 04-03-04]",
+   "text": "외국환 은행의 선적 서류 매입 시 심사 내용을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 04-04-01]",
+   "code": "[무일 04-04-01]",
+   "text": "수출입 통관 절차를 순서대로 나열할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 04-04-02]",
+   "code": "[무일 04-04-02]",
+   "text": "관세의 개념과 종류에 대해 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 04-04-03]",
+   "code": "[무일 04-04-03]",
+   "text": "관세 환급의 개념과 환급금의 지급에 대해 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 04-05-01]",
+   "code": "[무일 04-05-01]",
+   "text": "무역 금융의 개념과 수출 신용장 제출 서류를 구분하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 04-05-02]",
+   "code": "[무일 04-05-02]",
+   "text": "수출 사후 관리의 절차에 따라 개설 은행의 서류 접수, 결제, 인수 여부를 확인할 수 있 다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 04-06-01]",
+   "code": "[무일 04-06-01]",
+   "text": "수출 승인(신청)서를 예시한 내용에 따라 작성하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 04-06-02]",
+   "code": "[무일 04-06-02]",
+   "text": "선화 증권 서식을 예시한 내용에 따라 작성하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 04-06-03]",
+   "code": "[무일 04-06-03]",
+   "text": "상업 송장 서식을 예시한 내용에 따라 작성하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 04-06-04]",
+   "code": "[무일 04-06-04]",
+   "text": "신용장 발행 신청서를 예시한 내용에 따라 작성하고, 유의 사항에 대해 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 04-06-05]",
+   "code": "[무일 04-06-05]",
+   "text": "수입 승인(신청)서를 예시한 내용에 따라 작성하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 05-01-01]",
+   "code": "[무일 05-01-01]",
+   "text": "무역 클레임의 개요와 무역 클레임의 종류에 대해 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 05-01-02]",
+   "code": "[무일 05-01-02]",
+   "text": "무역 분쟁 시 해결 방법을 제시할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 05-02-01]",
+   "code": "[무일 05-02-01]",
+   "text": "무역 분쟁 사례에 따른 해결 방안을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-무역-일반:[무일 05-02-02]",
+   "code": "[무일 05-02-02]",
+   "text": "무역 분쟁 해결에 따른 각종 서식을 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-보험-일반:[보일 01-01-01]",
+   "code": "[보일 01-01-01]",
+   "text": "보험의 개념 및 기능을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-보험-일반:[보일 01-01-02]",
+   "code": "[보일 01-01-02]",
+   "text": "보험이 경제생활에 미치는 영향을 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-보험-일반:[보일 01-01-03]",
+   "code": "[보일 01-01-03]",
+   "text": "보험의 종류를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-보험-일반:[보일 01-02-01]",
+   "code": "[보일 01-02-01]",
+   "text": "보험 계약의 기본 요소를 알고, 보험 계약 관계자를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-보험-일반:[보일 01-02-02]",
+   "code": "[보일 01-02-02]",
+   "text": "보험 관련 용어를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-보험-일반:[보일 02-01-01]",
+   "code": "[보일 02-01-01]",
+   "text": "생명 보험, 손해 보험, 제3보험 규정을 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-보험-일반:[보일 02-01-02]",
+   "code": "[보일 02-01-02]",
+   "text": "사망 보험, 생존 보험, 생사 혼합 보험을 구분하고 각각의 특징을 조사하고 보고서를 작 성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-보험-일반:[보일 02-01-03]",
+   "code": "[보일 02-01-03]",
+   "text": "화재 보험, 해상 보험, 자동차 보험, 기타 손해 보험을 구분하고 각각의 특징을 조사하고 보고서를 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-보험-일반:[보일 02-01-04]",
+   "code": "[보일 02-01-04]",
+   "text": "제3보험의 개념 및 상해 보험, 질병 보험, 간병 보험, CI 보험을 구분하고 각각의 특징을 조사하고 보고서를 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-보험-일반:[보일 02-02-01]",
+   "code": "[보일 02-02-01]",
+   "text": "사회 보험의 개념 및 필요성을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-보험-일반:[보일 02-02-02]",
+   "code": "[보일 02-02-02]",
+   "text": "사회 보험의 종류 및 특징을 사례를 조사하고 발표를 할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-보험-일반:[보일 03-01-01]",
+   "code": "[보일 03-01-01]",
+   "text": "청약 업무 지원 내용을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-보험-일반:[보일 03-01-02]",
+   "code": "[보일 03-01-02]",
+   "text": "보험 계약의 법적 성질을 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-보험-일반:[보일 03-02-01]",
+   "code": "[보일 03-02-01]",
+   "text": "보험 계약 체결 절차 및 보험 계약 성립 요건을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-보험-일반:[보일 03-02-02]",
+   "code": "[보일 03-02-02]",
+   "text": "보험금 청구 과정 및 보험의 해약 내용을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-보험-일반:[보일 03-03-01]",
+   "code": "[보일 03-03-01]",
+   "text": "손해 보상의 개념을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-보험-일반:[보일 03-03-02]",
+   "code": "[보일 03-03-02]",
+   "text": "담보와 손해 보상의 관계를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-보험-일반:[보일 04-01-01]",
+   "code": "[보일 04-01-01]",
+   "text": "고객 상담을 위한 상담 준비 자료를 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-보험-일반:[보일 04-01-02]",
+   "code": "[보일 04-01-02]",
+   "text": "고객의 요구(needs)를 파악하기 위한 설문지를 만들 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-보험-일반:[보일 04-01-03]",
+   "code": "[보일 04-01-03]",
+   "text": "고객 상담을 위한 제안서를 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-보험-일반:[보일 04-01-04]",
+   "code": "[보일 04-01-04]",
+   "text": "보험 모집을 위한 청약 업무 내용을 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-보험-일반:[보일 04-02-01]",
+   "code": "[보일 04-02-01]",
+   "text": "보험 마케팅의 개념을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-보험-일반:[보일 04-02-02]",
+   "code": "[보일 04-02-02]",
+   "text": "보험 마케팅 전략을 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-보험-일반:[보일 04-02-03]",
+   "code": "[보일 04-02-03]",
+   "text": "자본 시장 통합법을 조사하여 도표화할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-보험-일반:[보일 04-02-04]",
+   "code": "[보일 04-02-04]",
+   "text": "세계 보험 시장의 변화에 대해 토론할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-비즈니스-커뮤니케이션:[비커 01-01-01]",
+   "code": "[비커 01-01-01]",
+   "text": "비즈니스 커뮤니케이션의 개념을 이해하고 주요 특징을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-비즈니스-커뮤니케이션:[비커 01-01-02]",
+   "code": "[비커 01-01-02]",
+   "text": "비즈니스 커뮤니케이션의 역할과 조직 문화에 끼치는 영향을 디지털 도구를 이용하여 조 사한 후 토론할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-비즈니스-커뮤니케이션:[비커 01-02-01]",
+   "code": "[비커 01-02-01]",
+   "text": "비즈니스 커뮤니케이션의 유형을 다양한 기준을 적용하여 구분해 보고, 각각의 특징과 사례를 제시할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-비즈니스-커뮤니케이션:[비커 01-02-02]",
+   "code": "[비커 01-02-02]",
+   "text": "비즈니스 커뮤니케이션에 사용되는 매체를 조사한 후 매체별 특징을 비교할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-비즈니스-커뮤니케이션:[비커 01-03-01]",
+   "code": "[비커 01-03-01]",
+   "text": "비즈니스 커뮤니케이션을 구성하는 요소를 나열하고, 요소 간의 상관관계를 표현할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-비즈니스-커뮤니케이션:[비커 01-03-02]",
+   "code": "[비커 01-03-02]",
+   "text": "비즈니스 커뮤니케이션을 촉진하는 요인과 방해하는 요인을 조사한 후 각 요인이 커뮤니 케이션에 끼치는 영향력을 토론할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-비즈니스-커뮤니케이션:[비커 02-01-01]",
+   "code": "[비커 02-01-01]",
+   "text": "비즈니스에 필요한 매너와 에티켓의 종류별 특징을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-비즈니스-커뮤니케이션:[비커 02-01-02]",
+   "code": "[비커 02-01-02]",
+   "text": "비즈니스 과정에서 발생하는 상황에 따라 필요한 매너와 에티켓을 적용할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-비즈니스-커뮤니케이션:[비커 02-02-01]",
+   "code": "[비커 02-02-01]",
+   "text": "세계 여러 나라의 비즈니스 매너의 특징과 인사 방법을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-비즈니스-커뮤니케이션:[비커 02-02-02]",
+   "code": "[비커 02-02-02]",
+   "text": "세계 여러 나라의 테이블 매너 및 식사 예절을 적용할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-비즈니스-커뮤니케이션:[비커 03-01-01]",
+   "code": "[비커 03-01-01]",
+   "text": "이미지 메이킹의 개념과 특징을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-비즈니스-커뮤니케이션:[비커 03-01-02]",
+   "code": "[비커 03-01-02]",
+   "text": "직업인의 이미지 메이킹을 다양한 형태로 표현할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-비즈니스-커뮤니케이션:[비커 03-02-01]",
+   "code": "[비커 03-02-01]",
+   "text": "표정의 개념과 특징을 설명하고 상황에 맞게 적용할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-비즈니스-커뮤니케이션:[비커 03-02-02]",
+   "code": "[비커 03-02-02]",
+   "text": "음성의 개념과 특징을 설명하고 좋은 음성을 내기 위한 목소리 훈련법을 안내할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-비즈니스-커뮤니케이션:[비커 03-03-01]",
+   "code": "[비커 03-03-01]",
+   "text": "복장의 중요성과 좋은 복장을 갖추기 위한 조건을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-비즈니스-커뮤니케이션:[비커 03-03-02]",
+   "code": "[비커 03-03-02]",
+   "text": "직무에 따른 복장 코디네이션 방법을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-비즈니스-커뮤니케이션:[비커 04-01-01]",
+   "code": "[비커 04-01-01]",
+   "text": "직장 생활의 올바른 출퇴근 예절을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-비즈니스-커뮤니케이션:[비커 04-01-02]",
+   "code": "[비커 04-01-02]",
+   "text": "회사 출근과 관련된 근태의 종류를 나열하고, 각각의 처리 방법을 사례를 적용하여 설명 할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-비즈니스-커뮤니케이션:[비커 04-02-01]",
+   "code": "[비커 04-02-01]",
+   "text": "직장 내외에서 만나게 되는 직원에 대한 올바른 인사 및 호칭 예절을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-비즈니스-커뮤니케이션:[비커 04-02-02]",
+   "code": "[비커 04-02-02]",
+   "text": "비즈니스 과정에서 만나게 되는 외부 관계자에 대한 올바른 인사 및 호칭 예절을 이미지 나 영상 자료로 표현할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-비즈니스-커뮤니케이션:[비커 04-03-01]",
+   "code": "[비커 04-03-01]",
+   "text": "직무 수행 과정에서 발생하는 다양한 상황별 업무 예절을 종류별로 구분하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-비즈니스-커뮤니케이션:[비커 05-01-01]",
+   "code": "[비커 05-01-01]",
+   "text": "비즈니스 대화법의 특징을 설명하고, 비즈니스 대화법의 종류별 특징과 사례를 제시할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-비즈니스-커뮤니케이션:[비커 05-02-01]",
+   "code": "[비커 05-02-01]",
+   "text": "효과적인 대화를 위한 바른 자세를 설명하고 이미지나 역할극으로 표현할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-비즈니스-커뮤니케이션:[비커 05-02-02]",
+   "code": "[비커 05-02-02]",
+   "text": "상대방에게 호감을 줄 수 있는 표정 및 언어 구사 방법을 조사한 후 이미지나 영상 자료로 표현할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-비즈니스-커뮤니케이션:[비커 05-03-01]",
+   "code": "[비커 05-03-01]",
+   "text": "경청의 중요성과 필요성을 설명하고, 경청 자세를 의사소통 과정과 연계해서 사례로 제시 할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-비즈니스-커뮤니케이션:[비커 05-03-02]",
+   "code": "[비커 05-03-02]",
+   "text": "원활한 소통을 위한 효과적인 표현과 비효과적인 표현을 찾아 비교해 보고, 각 표현 방법 으로 발생하게 되는 사례를 제시할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-비즈니스-커뮤니케이션:[비커 06-01-01]",
+   "code": "[비커 06-01-01]",
+   "text": "회의의 개념과 특징을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-비즈니스-커뮤니케이션:[비커 06-01-02]",
+   "code": "[비커 06-01-02]",
+   "text": "회의 유형별 종류를 제시하고 각각의 장단점을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-비즈니스-커뮤니케이션:[비커 06-02-01]",
+   "code": "[비커 06-02-01]",
+   "text": "회의 계획 수립에 필요한 사전 준비 사항을 확인할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-비즈니스-커뮤니케이션:[비커 06-02-02]",
+   "code": "[비커 06-02-02]",
+   "text": "회의 진행 절차와 요령을 파악할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-비즈니스-커뮤니케이션:[비커 06-03-01]",
+   "code": "[비커 06-03-01]",
+   "text": "회의 종류별 진행 절차와 회의 예절을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-비즈니스-커뮤니케이션:[비커 06-03-02]",
+   "code": "[비커 06-03-02]",
+   "text": "회의 목적에 맞는 회의 방법을 선택한 후 회의를 진행할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-비즈니스-커뮤니케이션:[비커 07-01-01]",
+   "code": "[비커 07-01-01]",
+   "text": "비즈니스 프레젠테이션의 특징과 구성 요소를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-비즈니스-커뮤니케이션:[비커 07-02-01]",
+   "code": "[비커 07-02-01]",
+   "text": "프레젠테이션의 효과를 높이기 위한 콘셉트 제작 및 발표 방법을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사무-관리:[사관 01-01-01]",
+   "code": "[사관 01-01-01]",
+   "text": "사무 관리의 뜻과 기능을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사무-관리:[사관 01-01-02]",
+   "code": "[사관 01-01-02]",
+   "text": "사무 관리의 종류와 특징을 나열할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사무-관리:[사관 01-02-01]",
+   "code": "[사관 01-02-01]",
+   "text": "기업의 사무 자동화 방법 및 특징을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사무-관리:[사관 01-02-02]",
+   "code": "[사관 01-02-02]",
+   "text": "사무 관리 기술의 종류를 구분하고 활용 방법을 적용할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사무-관리:[사관 02-01-01]",
+   "code": "[사관 02-01-01]",
+   "text": "워드 프로세서의 기능과 구성 요소를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사무-관리:[사관 02-01-02]",
+   "code": "[사관 02-01-02]",
+   "text": "워드 프로세서의 기본 기능을 활용하여 문서를 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사무-관리:[사관 02-02-01]",
+   "code": "[사관 02-02-01]",
+   "text": "워드 프로세서의 고급 기능을 활용하여 문서를 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사무-관리:[사관 03-01-01]",
+   "code": "[사관 03-01-01]",
+   "text": "스프레드시트의 기능과 구성 요소를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사무-관리:[사관 03-01-02]",
+   "code": "[사관 03-01-02]",
+   "text": "스프레드시트의 기본 기능을 활용하여 문서를 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사무-관리:[사관 03-02-01]",
+   "code": "[사관 03-02-01]",
+   "text": "스프레드시트의 고급 기능을 활용하여 문서를 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사무-관리:[사관 04-01-01]",
+   "code": "[사관 04-01-01]",
+   "text": "프레젠테이션의 기능과 구성 요소를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사무-관리:[사관 04-01-02]",
+   "code": "[사관 04-01-02]",
+   "text": "프레젠테이션의 기본 기능을 활용하여 문서를 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사무-관리:[사관 04-02-01]",
+   "code": "[사관 04-02-01]",
+   "text": "프레젠테이션의 고급 기능을 활용하여 문서를 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사무-관리:[사관 04-02-02]",
+   "code": "[사관 04-02-02]",
+   "text": "프레젠테이션을 기획하고 슬라이드를 제작하여 청중 앞에서 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사무-관리:[사관 05-01-01]",
+   "code": "[사관 05-01-01]",
+   "text": "문서의 의의와 문서 처리 원칙에 대해 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사무-관리:[사관 05-01-02]",
+   "code": "[사관 05-01-02]",
+   "text": "사무 관리 규정의 주요 내용에 대해 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사무-관리:[사관 05-02-01]",
+   "code": "[사관 05-02-01]",
+   "text": "문서 작성 원칙에 따라 실제로 문서를 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사무-관리:[사관 05-02-02]",
+   "code": "[사관 05-02-02]",
+   "text": "문서 관리 원칙에 따라 문서 관리 방법을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사무-관리:[사관 05-03-01]",
+   "code": "[사관 05-03-01]",
+   "text": "인터넷 활용 문서의 종류를 조사한 후 매체별 특징을 비교할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사무-관리:[사관 05-03-02]",
+   "code": "[사관 05-03-02]",
+   "text": "사회관계망 서비스(SNS) 및 클라우드 서비스를 활용한 문서 작성 방법을 조사하여 토론할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-상업-경제:[상경 01-01-01]",
+   "code": "[상경 01-01-01]",
+   "text": "경제 활동의 주체와 객체를 구분하고 경제 활동의 순환 과정을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-상업-경제:[상경 01-01-02]",
+   "code": "[상경 01-01-02]",
+   "text": "수요와 공급의 원리를 파악하고 경제 원칙에 대하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-상업-경제:[상경 01-02-01]",
+   "code": "[상경 01-02-01]",
+   "text": "상업의 기능과 종류 및 상업의 주체와 객체를 구분할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-상업-경제:[상경 01-02-02]",
+   "code": "[상경 01-02-02]",
+   "text": "상업과 관련된 기관의 업무를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-상업-경제:[상경 01-03-01]",
+   "code": "[상경 01-03-01]",
+   "text": "우리나라의 경제 지표를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-상업-경제:[상경 01-03-02]",
+   "code": "[상경 01-03-02]",
+   "text": "산업 구조의 변화에 따른 경제 발전과 환경 오염의 인과 관계를 파악하고 환경 문제를 해결하기 위한 국제적인 환경 관련 협약의 목적과 내용을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-상업-경제:[상경 02-01-01]",
+   "code": "[상경 02-01-01]",
+   "text": "기업과 경영의 개념 및 기업 경영의 중요성을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-상업-경제:[상경 02-01-02]",
+   "code": "[상경 02-01-02]",
+   "text": "기업을 다양한 관점에서 분류할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-상업-경제:[상경 02-02-01]",
+   "code": "[상경 02-02-01]",
+   "text": "경영 관리 순환 과정을 알고 기업의 경영 환경에 속하는 요인들을 구분하여 제시할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-상업-경제:[상경 02-02-02]",
+   "code": "[상경 02-02-02]",
+   "text": "기업 내에서 이루어지는 총무, 사무 행정과 같은 기본적인 직무와 기업의 인적 자원, 생산, 마케팅, 재무 관리, 회계 정보 관리 등과 같은 기업의 부문별 활동을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-상업-경제:[상경 02-03-01]",
+   "code": "[상경 02-03-01]",
+   "text": "기업가 정신과 기업의 사회적 책임 및 지속가능한 발전을 위한 ESG 경영 사례를 수집할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-상업-경제:[상경 03-01-01]",
+   "code": "[상경 03-01-01]",
+   "text": "매입 절차와 판매 절차를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-상업-경제:[상경 03-01-02]",
+   "code": "[상경 03-01-02]",
+   "text": "매매 대금 결제 수단의 특징을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-상업-경제:[상경 03-02-01]",
+   "code": "[상경 03-02-01]",
+   "text": "유통 기관의 특징과 유통 관리 활동인 구매 조달, 자재 관리, 공정 관리, 품질 관리, 공급망 관리 등의 개념을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-상업-경제:[상경 03-02-02]",
+   "code": "[상경 03-02-02]",
+   "text": "유통 정보 시스템 및 우리나라의 유통 산업 현황을 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-상업-경제:[상경 03-03-01]",
+   "code": "[상경 03-03-01]",
+   "text": "운송 수단별 특징을 파악하고 보관･하역 관리의 사례를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-상업-경제:[상경 03-03-02]",
+   "code": "[상경 03-03-02]",
+   "text": "물류 정보 시스템 활용의 사례를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-상업-경제:[상경 04-01-01]",
+   "code": "[상경 04-01-01]",
+   "text": "금융의 기능과 금융 및 금융 관련 기관의 업무를 구분하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-상업-경제:[상경 04-02-01]",
+   "code": "[상경 04-02-01]",
+   "text": "한국은행의 주요 업무를 구분하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-상업-경제:[상경 04-02-02]",
+   "code": "[상경 04-02-02]",
+   "text": "일반 은행, 특수 은행, 비은행 예금 취급 기관의 업무를 구분하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-상업-경제:[상경 04-03-01]",
+   "code": "[상경 04-03-01]",
+   "text": "주식과 채권의 특징을 비교하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-상업-경제:[상경 04-03-02]",
+   "code": "[상경 04-03-02]",
+   "text": "증권 시장의 종류와 역할을 이해하고 증권 회사의 업무에 대하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-상업-경제:[상경 04-04-01]",
+   "code": "[상경 04-04-01]",
+   "text": "생명 보험과 손해 보험, 사회 보험을 구분하고 각각의 특징을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-상업-경제:[상경 04-04-02]",
+   "code": "[상경 04-04-02]",
+   "text": "보험 모집과 보험 청약 업무에 대하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-상업-경제:[상경 04-05-01]",
+   "code": "[상경 04-05-01]",
+   "text": "외환 시장의 특징을 이해하고 환율 변동 원인과 환율 변동이 경제에 미치는 영향에 대하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-상업-경제:[상경 05-01-01]",
+   "code": "[상경 05-01-01]",
+   "text": "기업의 마케팅 전략을 구분하고 사례를 수집할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-상업-경제:[상경 05-01-02]",
+   "code": "[상경 05-01-02]",
+   "text": "기업의 고객 관리 사례, 광고와 PR 사례를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-상업-경제:[상경 05-02-01]",
+   "code": "[상경 05-02-01]",
+   "text": "상품 특성에 따른 매장 선택 방법을 이해하고 인터넷 쇼핑몰 운영 사례를 수집할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-상업-경제:[상경 06-01-01]",
+   "code": "[상경 06-01-01]",
+   "text": "무역의 형태별 특성을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-상업-경제:[상경 06-01-02]",
+   "code": "[상경 06-01-02]",
+   "text": "수출입 계약을 파악하고 수출입 절차를 순서대로 나열할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-상업-경제:[상경 06-02-01]",
+   "code": "[상경 06-02-01]",
+   "text": "국제 수지의 개념을 알고 우리나라의 국제 수지 변동이 경제에 미치는 영향에 대하여 설 명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-상업-경제:[상경 06-03-01]",
+   "code": "[상경 06-03-01]",
+   "text": "세계 경제 환경의 변화에 따른 경제 통합의 형태를 구분하고 우리나라의 FTA 현황에 대 하여 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-상업-경제:[상경 06-03-02]",
+   "code": "[상경 06-03-02]",
+   "text": "기업의 글로벌 경영 전략을 구분하고 기업 사례를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 01-01-01]",
+   "code": "[세일 01-01-01]",
+   "text": "조세의 개념을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 01-01-02]",
+   "code": "[세일 01-01-02]",
+   "text": "조세를 분류하고 특징을 나열할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 01-02-01]",
+   "code": "[세일 01-02-01]",
+   "text": "조세법의 기본 원칙을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 01-02-02]",
+   "code": "[세일 01-02-02]",
+   "text": "납세 의무의 성립·확정·소멸 과정을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 01-03-01]",
+   "code": "[세일 01-03-01]",
+   "text": "기업 회계와 세무 회계의 의의를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 01-03-02]",
+   "code": "[세일 01-03-02]",
+   "text": "기업 회계와 세무 회계의 차이점을 구분하여 제시할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 02-01-01]",
+   "code": "[세일 02-01-01]",
+   "text": "부가 가치세의 개념과 특징을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 02-01-02]",
+   "code": "[세일 02-01-02]",
+   "text": "부가 가치세의 과세 유형을 구분하여 나열할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 02-01-03]",
+   "code": "[세일 02-01-03]",
+   "text": "부가 가치세를 전 단계 세액 공제법으로 계산할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 02-02-01]",
+   "code": "[세일 02-02-01]",
+   "text": "부가 가치세의 납세 의무자와 과세 기간을 구분하여 제시할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 02-02-02]",
+   "code": "[세일 02-02-02]",
+   "text": "과세 거래의 종류를 사례별로 구분할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 02-02-03]",
+   "code": "[세일 02-02-03]",
+   "text": "부가 가치세의 간이 과세자와 일반 과세자를 구분하여 납부 세액을 계산할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 02-03-01]",
+   "code": "[세일 02-03-01]",
+   "text": "사업장의 범위를 구분하고 사업자 등록 방법을 제시할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 02-03-02]",
+   "code": "[세일 02-03-02]",
+   "text": "거래의 종류에 따른 과세 유형을 구분할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 02-04-01]",
+   "code": "[세일 02-04-01]",
+   "text": "과세 표준의 대상을 분류하여 계산할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 02-04-02]",
+   "code": "[세일 02-04-02]",
+   "text": "부가 가치세 납부 세액을 계산 구조에 따라 산출할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 02-05-01]",
+   "code": "[세일 02-05-01]",
+   "text": "부가 가치세 증빙 서류인 세금 계산서의 기재 사항을 서식에 맞추어 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 02-05-02]",
+   "code": "[세일 02-05-02]",
+   "text": "부가 가치세 신고 및 납부를 절차에 따라 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 03-01-01]",
+   "code": "[세일 03-01-01]",
+   "text": "소득세의 개념을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 03-01-02]",
+   "code": "[세일 03-01-02]",
+   "text": "「소득세법」상 과세 유형 및 과세 방법을 제시할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 03-01-03]",
+   "code": "[세일 03-01-03]",
+   "text": "종합 소득, 퇴직 소득, 양도 소득의 개념을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 03-02-01]",
+   "code": "[세일 03-02-01]",
+   "text": "소득세의 계산 구조를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 03-02-02]",
+   "code": "[세일 03-02-02]",
+   "text": "종합 소득의 수입 시기를 알고 해당 소득 금액을 계산할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 03-03-01]",
+   "code": "[세일 03-03-01]",
+   "text": "종합 소득 공제의 종류를 구분할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 03-03-02]",
+   "code": "[세일 03-03-02]",
+   "text": "종합 소득 공제 금액을 계산할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 03-03-03]",
+   "code": "[세일 03-03-03]",
+   "text": "종합 소득 과세 표준 및 산출 세액을 계산할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 03-03-04]",
+   "code": "[세일 03-03-04]",
+   "text": "종합 소득 납부 세액을 계산할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 03-04-01]",
+   "code": "[세일 03-04-01]",
+   "text": "종합 소득세의 신고와 납부 업무를 수행할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 03-04-02]",
+   "code": "[세일 03-04-02]",
+   "text": "소득세의 결정, 경정, 징수, 환급의 개념을 비교하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 04-01-01]",
+   "code": "[세일 04-01-01]",
+   "text": "법인세의 개념과 특징을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 04-01-02]",
+   "code": "[세일 04-01-02]",
+   "text": "법인세의 사업 연도를 계산할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 04-02-01]",
+   "code": "[세일 04-02-01]",
+   "text": "각 사업 연도의 소득 금액 계산 구조를 제시할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 04-02-02]",
+   "code": "[세일 04-02-02]",
+   "text": "익금 산입과 익금 불산입 항목을 구분하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 04-02-03]",
+   "code": "[세일 04-02-03]",
+   "text": "손금 산입과 손금 불산입 항목을 구분하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 04-03-01]",
+   "code": "[세일 04-03-01]",
+   "text": "법인세 과세 표준을 계산할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 04-03-02]",
+   "code": "[세일 04-03-02]",
+   "text": "법인세 산출 세액의 구조를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 04-03-03]",
+   "code": "[세일 04-03-03]",
+   "text": "법인세 세액 공제와 세액 감면의 종류를 구분하여 제시할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 04-04-01]",
+   "code": "[세일 04-04-01]",
+   "text": "법인세의 신고 및 납부 절차에 대하여 토의하고 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 04-04-02]",
+   "code": "[세일 04-04-02]",
+   "text": "사업 연도 중도의 신고와 납부에 대해 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세무-일반:[세일 04-04-03]",
+   "code": "[세일 04-04-03]",
+   "text": "법인세의 결정, 경정, 징수, 환급의 개념을 비교하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 01-01-01]",
+   "code": "[유일 01-01-01]",
+   "text": "유통의 개념과 기능을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 01-01-02]",
+   "code": "[유일 01-01-02]",
+   "text": "유통의 역할을 파악하고 사례를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 01-02-01]",
+   "code": "[유일 01-02-01]",
+   "text": "유통 경로의 유용성과 필요성을 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 01-02-02]",
+   "code": "[유일 01-02-02]",
+   "text": "유통 경로의 구조와 유통 정책에 대해 사례를 들어 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 01-03-01]",
+   "code": "[유일 01-03-01]",
+   "text": "유통 기관을 상적 유통 기관, 물적 유통 기관, 유통 조성 기관으로 구분하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 01-03-02]",
+   "code": "[유일 01-03-02]",
+   "text": "수집 기관, 중계 기관, 분산 기관의 종류별 특징을 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 01-03-03]",
+   "code": "[유일 01-03-03]",
+   "text": "소매상과 도매상을 구분하여 각각의 특징과 역할을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 01-04-01]",
+   "code": "[유일 01-04-01]",
+   "text": "유통업자가 지켜야 할 상도덕에 대하여 토론할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 01-04-02]",
+   "code": "[유일 01-04-02]",
+   "text": "유통 관련 법규를 구분하여 제시할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 01-05-01]",
+   "code": "[유일 01-05-01]",
+   "text": "상적 유통 관리의 정의와 목표를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 01-05-02]",
+   "code": "[유일 01-05-02]",
+   "text": "물적 유통 관리의 정의와 목표를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 01-05-03]",
+   "code": "[유일 01-05-03]",
+   "text": "물적 유통 관리를 구성하고 있는 운송, 보관, 하역, 포장, 유통 가공, 정보 활동의 특성을 구분하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 02-01-01]",
+   "code": "[유일 02-01-01]",
+   "text": "상권의 개념을 파악하고 상권을 구분하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 02-01-02]",
+   "code": "[유일 02-01-02]",
+   "text": "상품 구성 기획의 개념 및 목적에 대해 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 02-01-03]",
+   "code": "[유일 02-01-03]",
+   "text": "매장 및 상품 특성에 따른 상품 구색 계획 수립 방법을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 02-02-01]",
+   "code": "[유일 02-02-01]",
+   "text": "매장 관리의 개념과 목적을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 02-02-02]",
+   "code": "[유일 02-02-02]",
+   "text": "매장 연출 관리 및 매장 활동 지원에 대해 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 02-02-03]",
+   "code": "[유일 02-02-03]",
+   "text": "매장 안전 관리 및 보안 관리 방안에 대해 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 02-03-01]",
+   "code": "[유일 02-03-01]",
+   "text": "판매 촉진의 개념 및 유형을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 02-03-02]",
+   "code": "[유일 02-03-02]",
+   "text": "촉진 믹스의 활용 방법에 대해 토의하고 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 02-04-01]",
+   "code": "[유일 02-04-01]",
+   "text": "고객 관리 개념 및 중요성을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 02-04-02]",
+   "code": "[유일 02-04-02]",
+   "text": "고객 응대의 중요성을 파악하여 고객 관계 관리(CRM)를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 02-04-03]",
+   "code": "[유일 02-04-03]",
+   "text": "블랙 컨슈머(Black Consumer) 관리와 불만 고객 응대 기법에 대한 사례를 조사하여 발 표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 03-01-01]",
+   "code": "[유일 03-01-01]",
+   "text": "유통 정보의 개념 및 중요성을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 03-01-02]",
+   "code": "[유일 03-01-02]",
+   "text": "유통 활동에서 나타나는 유통 정보의 유형을 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 03-02-01]",
+   "code": "[유일 03-02-01]",
+   "text": "유통 정보 관련 기술의 종류에 대해 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 03-02-02]",
+   "code": "[유일 03-02-02]",
+   "text": "유통 정보 기술 활용 사례를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 03-03-01]",
+   "code": "[유일 03-03-01]",
+   "text": "유통 정보 시스템의 종류를 구분하여 각각의 특징을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 03-03-02]",
+   "code": "[유일 03-03-02]",
+   "text": "물류 정보 시스템의 종류를 구분하여 각각의 특징을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 04-01-01]",
+   "code": "[유일 04-01-01]",
+   "text": "구매 조달 개념 및 구매 조달 업무에 대해 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 04-01-02]",
+   "code": "[유일 04-01-02]",
+   "text": "구매 조달 활용 사례를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 04-02-01]",
+   "code": "[유일 04-02-01]",
+   "text": "자재 관리의 개념 및 자재 관리 업무에 대해 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 04-02-02]",
+   "code": "[유일 04-02-02]",
+   "text": "자재 관리 활용 사례를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 04-03-01]",
+   "code": "[유일 04-03-01]",
+   "text": "공정 관리의 개념 및 공정 관리 업무에 대해 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 04-03-02]",
+   "code": "[유일 04-03-02]",
+   "text": "공정 관리 활용 사례를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 04-04-01]",
+   "code": "[유일 04-04-01]",
+   "text": "품질 관리의 개념 및 품질 관리 업무에 대해 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 04-04-02]",
+   "code": "[유일 04-04-02]",
+   "text": "품질 관리 활용 사례를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 04-05-01]",
+   "code": "[유일 04-05-01]",
+   "text": "공급망 관리의 개념 및 공급망 관리 업무에 대해 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 04-05-02]",
+   "code": "[유일 04-05-02]",
+   "text": "공급망 관리 활용 사례를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 05-01-01]",
+   "code": "[유일 05-01-01]",
+   "text": "유통 산업 환경 변화의 개념과 구성 요소를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 05-01-02]",
+   "code": "[유일 05-01-02]",
+   "text": "유통 산업 환경 변화의 주요 요인 사례를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 05-02-01]",
+   "code": "[유일 05-02-01]",
+   "text": "유통 산업의 현대화 방안에 대해 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 05-02-02]",
+   "code": "[유일 05-02-02]",
+   "text": "유통 산업의 현대화가 기업에 미치는 영향 사례를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 05-03-01]",
+   "code": "[유일 05-03-01]",
+   "text": "유통 산업의 미래를 전망하고 환경 변화의 주요 요인을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유통-일반:[유일 05-03-02]",
+   "code": "[유일 05-03-02]",
+   "text": "디지털 기술을 활용한 유통 산업의 변화 방향을 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 01-01-01]",
+   "code": "[전상 01-01-01]",
+   "text": "전자 상거래의 개념과 특징을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 01-01-02]",
+   "code": "[전상 01-01-02]",
+   "text": "거래 주체와 거래 상품에 따라 전자 상거래의 유형을 구분하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 01-01-03]",
+   "code": "[전상 01-01-03]",
+   "text": "전자 상거래의 기능적, 조직적, 사회적 기반 요소를 구분하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 01-02-01]",
+   "code": "[전상 01-02-01]",
+   "text": "기업 측면에서 전자 상거래의 기대 효과를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 01-02-02]",
+   "code": "[전상 01-02-02]",
+   "text": "소비자 측면에서 전자 상거래의 기대 효과를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 01-02-03]",
+   "code": "[전상 01-02-03]",
+   "text": "정부 측면에서 전자 상거래의 기대 효과를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 01-03-01]",
+   "code": "[전상 01-03-01]",
+   "text": "사이버 윤리와 사이버 범죄의 개념을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 01-03-02]",
+   "code": "[전상 01-03-02]",
+   "text": "사이버 폭력의 개념과 예방 대책을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 01-03-03]",
+   "code": "[전상 01-03-03]",
+   "text": "저작권 침해에 대해 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 02-01-01]",
+   "code": "[전상 02-01-01]",
+   "text": "전자 매체의 종류별 특징을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 02-01-02]",
+   "code": "[전상 02-01-02]",
+   "text": "전자 매체별 이용 현황을 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 02-02-01]",
+   "code": "[전상 02-02-01]",
+   "text": "인터넷과 모바일 쇼핑몰의 특징과 유형을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 02-02-02]",
+   "code": "[전상 02-02-02]",
+   "text": "인터넷과 모바일 커뮤니티 운영 목적을 이해하고, 커뮤니티 운영 사례를 조사하여 발 표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 02-03-01]",
+   "code": "[전상 02-03-01]",
+   "text": "머천트(merchant) 서버의 구성 요소를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 02-03-02]",
+   "code": "[전상 02-03-02]",
+   "text": "웹 호스팅 서비스의 개념과 절차를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 02-03-03]",
+   "code": "[전상 02-03-03]",
+   "text": "전자 화폐의 기능과 도입 효과를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 03-01-01]",
+   "code": "[전상 03-01-01]",
+   "text": "비즈니스 모델의 개념을 이해하고 성공적인 비즈니스 모델의 구성 요소를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 03-02-01]",
+   "code": "[전상 03-02-01]",
+   "text": "인터넷 비즈니스 모델과 모바일 비즈니스 모델의 개념과 특징을 비교하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 03-02-02]",
+   "code": "[전상 03-02-02]",
+   "text": "인터넷 비즈니스 모델과 모바일 비즈니스 모델의 유형을 사례를 들어 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 03-02-03]",
+   "code": "[전상 03-02-03]",
+   "text": "인터넷 비즈니스 모델과 모바일 비즈니스 모델의 단계별 활동을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 03-03-01]",
+   "code": "[전상 03-03-01]",
+   "text": "인터넷 비즈니스 모델과 모바일 비즈니스 모델의 성공 요인을 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 03-03-02]",
+   "code": "[전상 03-03-02]",
+   "text": "인터넷 비즈니스 모델과 모바일 비즈니스 모델의 특허 전략에 대해 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 04-01-01]",
+   "code": "[전상 04-01-01]",
+   "text": "인터넷 마케팅과 모바일 마케팅의 개념을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 04-01-02]",
+   "code": "[전상 04-01-02]",
+   "text": "인터넷 마케팅과 모바일 마케팅의 특징별 사례를 제시할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 04-02-01]",
+   "code": "[전상 04-02-01]",
+   "text": "인터넷 마케팅과 모바일 마케팅 전략을 단계별로 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 04-02-02]",
+   "code": "[전상 04-02-02]",
+   "text": "STP 전략의 개념과 단계별 전략 수립 방법을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 04-02-03]",
+   "code": "[전상 04-02-03]",
+   "text": "인터넷 마케팅과 모바일 마케팅의 마케팅 믹스(4P) 요인별 전략 방법을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 04-03-01]",
+   "code": "[전상 04-03-01]",
+   "text": "고객 관리의 개념을 설명하고, 중요성을 제시할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 04-03-02]",
+   "code": "[전상 04-03-02]",
+   "text": "고객 관계 관리의 개념과 기술에 대해 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 04-03-03]",
+   "code": "[전상 04-03-03]",
+   "text": "고객 관계 관리를 위한 서비스 요인을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 05-01-01]",
+   "code": "[전상 05-01-01]",
+   "text": "상품 구매 관리의 개념과 상품 구매 관리 과정을 순서대로 나열할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 05-01-02]",
+   "code": "[전상 05-01-02]",
+   "text": "상품 판매 관리의 개념과 상품 판매 관리 과정을 순서대로 나열할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 05-02-01]",
+   "code": "[전상 05-02-01]",
+   "text": "물류 관리의 개념과 범위를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 05-02-02]",
+   "code": "[전상 05-02-02]",
+   "text": "물류 관리의 목표와 원칙을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 05-02-03]",
+   "code": "[전상 05-02-03]",
+   "text": "물류 표준화와 물류 공동화의 개념을 비교하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 05-02-04]",
+   "code": "[전상 05-02-04]",
+   "text": "물류 운영 형태를 구분하고 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 05-02-05]",
+   "code": "[전상 05-02-05]",
+   "text": "물류 정보 시스템의 개념과 구성 요소들의 유기적 관계를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 05-03-01]",
+   "code": "[전상 05-03-01]",
+   "text": "전자 결제 시스템의 개념을 알고 종류별로 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 05-04-01]",
+   "code": "[전상 05-04-01]",
+   "text": "전자 상거래 보안의 개념과 기능을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 05-04-02]",
+   "code": "[전상 05-04-02]",
+   "text": "암호화 기술을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-상거래-일반:[전상 05-04-03]",
+   "code": "[전상 05-04-03]",
+   "text": "전자 서명과 인증을 비교하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-창업-일반:[창일 01-01-01]",
+   "code": "[창일 01-01-01]",
+   "text": "창업의 정의를 이해하고 목적을 제시할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-창업-일반:[창일 01-01-02]",
+   "code": "[창일 01-01-02]",
+   "text": "창업의 요소를 나열할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-창업-일반:[창일 01-01-03]",
+   "code": "[창일 01-01-03]",
+   "text": "창업 환경의 변화가 창업에 미치는 영향을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-창업-일반:[창일 01-02-01]",
+   "code": "[창일 01-02-01]",
+   "text": "기업가 정신의 뜻과 중요성을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-창업-일반:[창일 01-02-02]",
+   "code": "[창일 01-02-02]",
+   "text": "기업가의 자질과 특성을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-창업-일반:[창일 01-02-03]",
+   "code": "[창일 01-02-03]",
+   "text": "기업 윤리의 중요성을 파악하고 사례를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-창업-일반:[창일 01-02-04]",
+   "code": "[창일 01-02-04]",
+   "text": "기업의 사회적 책임의 영역과 중요성을 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-창업-일반:[창일 02-01-01]",
+   "code": "[창일 02-01-01]",
+   "text": "창업의 기본 절차를 파악하고 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-창업-일반:[창일 02-01-02]",
+   "code": "[창일 02-01-02]",
+   "text": "창업 아이템을 선정하고 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-창업-일반:[창일 02-01-03]",
+   "code": "[창일 02-01-03]",
+   "text": "사업 타당성 분석의 뜻을 이해하고 필요성을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-창업-일반:[창일 02-01-04]",
+   "code": "[창일 02-01-04]",
+   "text": "사업 타당성 분석 과정과 평가 항목을 나열할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-창업-일반:[창일 02-02-01]",
+   "code": "[창일 02-02-01]",
+   "text": "창업 시 기업의 내․외부 환경을 나열하고 특징을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-창업-일반:[창일 02-03-01]",
+   "code": "[창일 02-03-01]",
+   "text": "개인 기업과 법인 기업의 설립 방법을 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-창업-일반:[창일 02-04-01]",
+   "code": "[창일 02-04-01]",
+   "text": "창업 자금의 종류와 조달 방법을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-창업-일반:[창일 02-04-02]",
+   "code": "[창일 02-04-02]",
+   "text": "창업 자금의 효율적인 운영 사례를 조사하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-창업-일반:[창일 03-01-01]",
+   "code": "[창일 03-01-01]",
+   "text": "개인 사업자가 알아야 할 세금의 종류를 구분할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-창업-일반:[창일 03-01-02]",
+   "code": "[창일 03-01-02]",
+   "text": "부가 가치세의 특징과 과세 기간 및 납세 의무자를 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-창업-일반:[창일 03-01-03]",
+   "code": "[창일 03-01-03]",
+   "text": "원천 징수에 대하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-창업-일반:[창일 03-02-01]",
+   "code": "[창일 03-02-01]",
+   "text": "법인세의 의미를 파악하여 과세 체계를 구분하고 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-창업-일반:[창일 03-02-02]",
+   "code": "[창일 03-02-02]",
+   "text": "법인세의 신고와 납부 방법을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-창업-일반:[창일 03-03-01]",
+   "code": "[창일 03-03-01]",
+   "text": "중소기업 창업 지원법에 대하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-창업-일반:[창일 04-01-01]",
+   "code": "[창일 04-01-01]",
+   "text": "아이디어 창출 기법을 제시하고 활용하여 아이디어를 창출해 낼 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-창업-일반:[창일 04-02-01]",
+   "code": "[창일 04-02-01]",
+   "text": "산업 재산권을 분류하고 보호의 필요성을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-창업-일반:[창일 04-02-02]",
+   "code": "[창일 04-02-02]",
+   "text": "지식 재산권을 분류하고 보호의 필요성을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-창업-일반:[창일 04-02-03]",
+   "code": "[창일 04-02-03]",
+   "text": "신지식 재산권을 분류하고 보호의 필요성을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-창업-일반:[창일 05-01-01]",
+   "code": "[창일 05-01-01]",
+   "text": "사업 계획서의 뜻과 필요성을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-창업-일반:[창일 05-02-01]",
+   "code": "[창일 05-02-01]",
+   "text": "사업 계획서의 구성 요소와 작성 원칙을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-창업-일반:[창일 05-03-01]",
+   "code": "[창일 05-03-01]",
+   "text": "사업 계획서의 작성 단계에 의해 작성하여 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-창업-일반:[창일 05-04-01]",
+   "code": "[창일 05-04-01]",
+   "text": "온라인 창업 과정을 이해하고 창업 사례를 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-창업-일반:[창일 05-04-02]",
+   "code": "[창일 05-04-02]",
+   "text": "오프라인 창업 과정을 이해하고 발전 과정에 대하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-창업-일반:[창일 05-04-03]",
+   "code": "[창일 05-04-03]",
+   "text": "프랜차이즈 기업의 창업 과정을 설명하고 운영할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-창업-일반:[창일 05-04-04]",
+   "code": "[창일 05-04-04]",
+   "text": "플랫폼 기업의 창업 과정과 수익 모델을 구분할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 01-01-01]",
+   "code": "[회원 01-01-01]",
+   "text": "회계의 개념과 목적을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 01-01-02]",
+   "code": "[회원 01-01-02]",
+   "text": "회계 정보 이용자를 분류할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 01-01-03]",
+   "code": "[회원 01-01-03]",
+   "text": "회계의 종류를 구분하고 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 01-02-01]",
+   "code": "[회원 01-02-01]",
+   "text": "재무 상태표 계정과 작성 방법을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 01-02-02]",
+   "code": "[회원 01-02-02]",
+   "text": "손익 계산서 계정과 작성 방법을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 01-02-03]",
+   "code": "[회원 01-02-03]",
+   "text": "기업의 순손익 계산 방법을 통해 재무 상태표와 손익 계산서의 관계를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 01-03-01]",
+   "code": "[회원 01-03-01]",
+   "text": "거래의 뜻과 종류를 설명하고, 거래 요소의 결합 관계를 파악할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 01-03-02]",
+   "code": "[회원 01-03-02]",
+   "text": "계정 종류별 특징과 계정별 차·대변 항목을 구분할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 01-03-03]",
+   "code": "[회원 01-03-03]",
+   "text": "거래 내용을 분석하여 분개한 후 전기할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 01-03-04]",
+   "code": "[회원 01-03-04]",
+   "text": "회계의 순환 과정을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 01-04-01]",
+   "code": "[회원 01-04-01]",
+   "text": "회계 윤리의 중요성을 사례를 들어 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 01-04-02]",
+   "code": "[회원 01-04-02]",
+   "text": "회계 기준의 의미와 중요성을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 02-01-01]",
+   "code": "[회원 02-01-01]",
+   "text": "유동 자산의 뜻을 설명하고 종류를 분류할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 02-01-02]",
+   "code": "[회원 02-01-02]",
+   "text": "당좌 자산의 거래에 대하여 회계 처리할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 02-01-03]",
+   "code": "[회원 02-01-03]",
+   "text": "재고 자산의 거래에 대하여 회계 처리할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 02-02-01]",
+   "code": "[회원 02-02-01]",
+   "text": "비유동 자산의 개념을 설명하고, 종류를 발표할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 02-02-02]",
+   "code": "[회원 02-02-02]",
+   "text": "투자 자산 거래에 대하여 회계 처리할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 02-02-03]",
+   "code": "[회원 02-02-03]",
+   "text": "유형 자산의 거래에 대하여 회계 처리할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 02-02-04]",
+   "code": "[회원 02-02-04]",
+   "text": "무형 자산의 거래에 대하여 회계 처리할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 02-02-05]",
+   "code": "[회원 02-02-05]",
+   "text": "기타 비유동 자산의 거래에 대하여 회계 처리할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 03-01-01]",
+   "code": "[회원 03-01-01]",
+   "text": "유동 부채의 뜻을 설명하고 종류를 분류할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 03-01-02]",
+   "code": "[회원 03-01-02]",
+   "text": "매입 채무 거래에 대하여 회계 처리할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 03-01-03]",
+   "code": "[회원 03-01-03]",
+   "text": "매입 채무 이외의 채무 거래에 대하여 회계 처리할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 03-02-01]",
+   "code": "[회원 03-02-01]",
+   "text": "비유동 부채의 뜻을 설명하고 종류를 분류할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 03-02-02]",
+   "code": "[회원 03-02-02]",
+   "text": "비유동 부채 거래에 대하여 회계 처리할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 04-01-01]",
+   "code": "[회원 04-01-01]",
+   "text": "자본의 뜻과 종류를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 04-01-02]",
+   "code": "[회원 04-01-02]",
+   "text": "개인 기업의 자본에 대하여 회계 처리할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 04-02-01]",
+   "code": "[회원 04-02-01]",
+   "text": "주식회사 자본에 대하여 회계 처리할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 05-01-01]",
+   "code": "[회원 05-01-01]",
+   "text": "수익의 뜻을 설명하고 종류를 분류할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 05-01-02]",
+   "code": "[회원 05-01-02]",
+   "text": "영업 수익과 영업 외 수익을 구분하여 회계 처리할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 05-02-01]",
+   "code": "[회원 05-02-01]",
+   "text": "비용의 뜻을 설명하고 비용을 분류할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 05-02-02]",
+   "code": "[회원 05-02-02]",
+   "text": "영업 비용과 영업 외 비용을 구분하여 회계 처리할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 05-02-03]",
+   "code": "[회원 05-02-03]",
+   "text": "법인세 비용에 대하여 회계 처리할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 06-01-01]",
+   "code": "[회원 06-01-01]",
+   "text": "결산의 뜻과 절차에 대하여 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 06-01-02]",
+   "code": "[회원 06-01-02]",
+   "text": "시산표의 종류를 구분하고 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 06-01-03]",
+   "code": "[회원 06-01-03]",
+   "text": "결산 수정 분개를 할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 06-01-04]",
+   "code": "[회원 06-01-04]",
+   "text": "정산표를 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 06-01-05]",
+   "code": "[회원 06-01-05]",
+   "text": "장부를 마감할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 06-02-01]",
+   "code": "[회원 06-02-01]",
+   "text": "재무제표의 뜻과 작성 원칙을 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 06-02-02]",
+   "code": "[회원 06-02-02]",
+   "text": "재무 상태표를 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 06-02-03]",
+   "code": "[회원 06-02-03]",
+   "text": "손익 계산서를 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-원리:[회원 06-02-04]",
+   "code": "[회원 06-02-04]",
+   "text": "현금 흐름표, 자본 변동표, 주석을 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-정보-처리-시스템:[회정 01-01-01]",
+   "code": "[회정 01-01-01]",
+   "text": "회계 정보 처리 시스템의 개념을 파악하고 프로그램을 설치 및 실행할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-정보-처리-시스템:[회정 01-02-01]",
+   "code": "[회정 01-02-01]",
+   "text": "회계 프로그램을 활용하여 기업의 기초 정보를 등록할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-정보-처리-시스템:[회정 02-01-01]",
+   "code": "[회정 02-01-01]",
+   "text": "자산 계정의 종류를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-정보-처리-시스템:[회정 02-01-02]",
+   "code": "[회정 02-01-02]",
+   "text": "자산의 거래에 대하여 회계 프로그램으로 처리할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-정보-처리-시스템:[회정 02-02-01]",
+   "code": "[회정 02-02-01]",
+   "text": "부채 계정의 종류를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-정보-처리-시스템:[회정 02-02-02]",
+   "code": "[회정 02-02-02]",
+   "text": "부채의 거래에 대하여 회계 프로그램으로 처리할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-정보-처리-시스템:[회정 02-03-01]",
+   "code": "[회정 02-03-01]",
+   "text": "자본의 종류를 분류하고 자본 거래에 대하여 회계 프로그램으로 처리할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-정보-처리-시스템:[회정 03-01-01]",
+   "code": "[회정 03-01-01]",
+   "text": "수익 계정과 비용 계정의 종류를 설명할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-정보-처리-시스템:[회정 03-01-02]",
+   "code": "[회정 03-01-02]",
+   "text": "매출액과 매출 원가를 회계 프로그램으로 처리할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-정보-처리-시스템:[회정 03-02-01]",
+   "code": "[회정 03-02-01]",
+   "text": "판매비와 관리비의 종류를 파악하고 회계 프로그램으로 처리할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-정보-처리-시스템:[회정 03-03-01]",
+   "code": "[회정 03-03-01]",
+   "text": "영업 외 수익의 종류를 파악하고 회계 프로그램으로 처리할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-정보-처리-시스템:[회정 03-03-02]",
+   "code": "[회정 03-03-02]",
+   "text": "영업 외 비용의 종류를 파악하고 회계 프로그램으로 처리할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-정보-처리-시스템:[회정 04-01-01]",
+   "code": "[회정 04-01-01]",
+   "text": "부가 가치세의 기초 개념과 과세 거래에 대해 파악하고 세금 계산서를 작성할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-정보-처리-시스템:[회정 04-02-01]",
+   "code": "[회정 04-02-01]",
+   "text": "부가 가치세의 과세 표준과 납부 세액을 산출할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-정보-처리-시스템:[회정 04-02-02]",
+   "code": "[회정 04-02-02]",
+   "text": "부가 가치세에 대하여 회계 프로그램으로 처리할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-정보-처리-시스템:[회정 05-01-01]",
+   "code": "[회정 05-01-01]",
+   "text": "결산의 절차를 파악하고 결산 정리 사항에 대하여 회계 프로그램으로 처리할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-회계-정보-처리-시스템:[회정 05-02-01]",
+   "code": "[회정 05-02-01]",
+   "text": "손익 계산서, 재무 상태표를 조회하고 데이터를 백업, 복구할 수 있다.",
+   "sourceId": "annex23",
+   "locator": "pattern-match"
+  }
+ ]
+}

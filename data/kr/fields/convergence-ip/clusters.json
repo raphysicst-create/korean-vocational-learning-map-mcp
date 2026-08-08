@@ -1,0 +1,605 @@
+{
+ "clusters": [
+  {
+   "id": "kr.cluster.2022.high.09a1bcb45d59643391",
+   "titleKorean": "발명과 디자인 — 발명 디자인 과정",
+   "subjectKorean": "발명과 디자인",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명 디자인 과정",
+   "summary": "발명과 디자인의 발명 디자인 과정 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.7c0aed2c0f774887306e",
+    "kr.topic.2022.high.a912c966756250832c8b",
+    "kr.topic.2022.high.bf330f9fcac07a8b7feb",
+    "kr.topic.2022.high.fbfcfc765859aecb6514"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1fcbcc2a4f9c032a0e",
+   "titleKorean": "발명과 기업가 정신 — 발명과 기업가 정신의 이해",
+   "subjectKorean": "발명과 기업가 정신",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명과 기업가 정신의 이해",
+   "summary": "발명과 기업가 정신의 발명과 기업가 정신의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.74663a788524081a7ea0",
+    "kr.topic.2022.high.be16e4134253ad8dcdde",
+    "kr.topic.2022.high.cd5f14b586a2ca8deb20"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.21ffd2f03b84403de0",
+   "titleKorean": "스마트 공장 운용 — 스마트 공장 시스템",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 공장 시스템",
+   "summary": "스마트 공장 운용의 스마트 공장 시스템 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.2467005c78f67cad3b72",
+    "kr.topic.2022.high.274654d6cbd069bcda7e",
+    "kr.topic.2022.high.2ab181b03aa27e0262c2",
+    "kr.topic.2022.high.5e9cb2ac616df5a3fd7d",
+    "kr.topic.2022.high.82b33adfab6059948fa1",
+    "kr.topic.2022.high.88ea798674935e461fa9",
+    "kr.topic.2022.high.8a405fa43aee3e967072",
+    "kr.topic.2022.high.8c9001b5fa485362924b",
+    "kr.topic.2022.high.aa50726166b0364faa21",
+    "kr.topic.2022.high.ec3cec45cae888de736e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.27ff84e064aafb4127",
+   "titleKorean": "스마트 공장 운용 — 데이터 전 주기 관리",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "데이터 전 주기 관리",
+   "summary": "스마트 공장 운용의 데이터 전 주기 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.02e8758ef4a2adb3ba34",
+    "kr.topic.2022.high.229f902123d2ebf98692",
+    "kr.topic.2022.high.2cf784785b3c7ceb13b4",
+    "kr.topic.2022.high.6f4d1d2a9a63913ac866",
+    "kr.topic.2022.high.b5a890f767cca7bb99f0",
+    "kr.topic.2022.high.b7d499ad2fd0901d7765",
+    "kr.topic.2022.high.e81ea203a14536ec1959",
+    "kr.topic.2022.high.f97b0d2a9d5c0809ede4"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2b7841a9f185b1af2f",
+   "titleKorean": "발명과 기업가 정신 — 창업 프로젝트",
+   "subjectKorean": "발명과 기업가 정신",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "창업 프로젝트",
+   "summary": "발명과 기업가 정신의 창업 프로젝트 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.0e7e7b9f9efeac75b878",
+    "kr.topic.2022.high.2e38ed67ee349319b0bb",
+    "kr.topic.2022.high.75fc0dcdd110782d20da",
+    "kr.topic.2022.high.af6b8d35a2ddb3de4c0b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2cc388f2b92a98f75d",
+   "titleKorean": "발명과 디자인 — 발명 디자인 제품화",
+   "subjectKorean": "발명과 디자인",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명 디자인 제품화",
+   "summary": "발명과 디자인의 발명 디자인 제품화 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.573c19c24401d0484cec",
+    "kr.topic.2022.high.86214ccc5d5a71996ec9",
+    "kr.topic.2022.high.d6f178e5fa23f729f137"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.325862811c3a380396",
+   "titleKorean": "발명과 기업가 정신 — 기업가 정신과 창업",
+   "subjectKorean": "발명과 기업가 정신",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "기업가 정신과 창업",
+   "summary": "발명과 기업가 정신의 기업가 정신과 창업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.14e6f2ed9a58bbafd62e",
+    "kr.topic.2022.high.50ac292eb38c7db80ec4",
+    "kr.topic.2022.high.895f3ff0a3d18d85f7a0",
+    "kr.topic.2022.high.8d98eb0837765b62c47e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.35d08d5d77b0015599",
+   "titleKorean": "발명･특허 기초 — 특허의 이해",
+   "subjectKorean": "발명･특허 기초",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "특허의 이해",
+   "summary": "발명･특허 기초의 특허의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.2e6a7f85bed752ad4dcb",
+    "kr.topic.2022.high.3c0f1fb177159565e14e",
+    "kr.topic.2022.high.b59597c82e89a7168d22",
+    "kr.topic.2022.high.bf47d4f37b46ff48c3fa",
+    "kr.topic.2022.high.dc87c67b00723e69bfb5"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.395f4caf275e2813b0",
+   "titleKorean": "스마트 공장 운용 — 생산 관리 기술",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "생산 관리 기술",
+   "summary": "스마트 공장 운용의 생산 관리 기술 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 14,
+   "topics": [
+    "kr.topic.2022.high.01e3183f9fc09a83199f",
+    "kr.topic.2022.high.0cf34e481c1f97445145",
+    "kr.topic.2022.high.1a148d378b6c14344e36",
+    "kr.topic.2022.high.2f2a4dfd89e121393792",
+    "kr.topic.2022.high.3991abe75b609ff5f30f",
+    "kr.topic.2022.high.4d0f10d253a58967f58b",
+    "kr.topic.2022.high.4f880c3c5e896d03aeca",
+    "kr.topic.2022.high.539edbb76c80ca93364a",
+    "kr.topic.2022.high.71df7aae25147031b913",
+    "kr.topic.2022.high.75b14a343a20b53fd4ea",
+    "kr.topic.2022.high.9a3d9b6b423ddd83ac84",
+    "kr.topic.2022.high.ad2b2eeefef89b97c540",
+    "kr.topic.2022.high.b3432c25511eb7ab4bd3",
+    "kr.topic.2022.high.fb6394008ee0edc355be"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3bca7b6270bbb27670",
+   "titleKorean": "스마트 공장 설계와 구축 — 스마트 설비 제어 시스템 구축",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 설비 제어 시스템 구축",
+   "summary": "스마트 공장 설계와 구축의 스마트 설비 제어 시스템 구축 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.30d86be79efb603a9e10",
+    "kr.topic.2022.high.36ad950ce5f36fdc7714",
+    "kr.topic.2022.high.458a30f3f745d061efd5",
+    "kr.topic.2022.high.4d267e435555c38f4b78",
+    "kr.topic.2022.high.76d60a5aca8b09b1514f",
+    "kr.topic.2022.high.e60854a3fbddc58d442a",
+    "kr.topic.2022.high.fc80053251971e4a8c36"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3f7636cf13ddbdad76",
+   "titleKorean": "발명과 디자인 — 발명 캡스톤 디자인",
+   "subjectKorean": "발명과 디자인",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명 캡스톤 디자인",
+   "summary": "발명과 디자인의 발명 캡스톤 디자인 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.0f2eec22e192402cfb98",
+    "kr.topic.2022.high.34bac385c49142d4f823"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3fd52497119dfd7e47",
+   "titleKorean": "발명･특허 기초 — 발명 아이디어 창출",
+   "subjectKorean": "발명･특허 기초",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명 아이디어 창출",
+   "summary": "발명･특허 기초의 발명 아이디어 창출 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.59363a107a181b997d9b",
+    "kr.topic.2022.high.a688371c97f03044ff12",
+    "kr.topic.2022.high.d176239bf84cd75ae868",
+    "kr.topic.2022.high.e6672ca56664bacfb583"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4245d8b2747c178666",
+   "titleKorean": "스마트 공장 설계와 구축 — 스마트 설비 제어 설계",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 설비 제어 설계",
+   "summary": "스마트 공장 설계와 구축의 스마트 설비 제어 설계 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.10ef76a691454378c6f5",
+    "kr.topic.2022.high.172fbbffda9a5853f0b9",
+    "kr.topic.2022.high.1a5f807591f1a528ad96",
+    "kr.topic.2022.high.489814629ce71b1d512e",
+    "kr.topic.2022.high.4ebb20db3fb0ef3c19b4",
+    "kr.topic.2022.high.5eb313f7c400e96d42c4",
+    "kr.topic.2022.high.62dbcaa399e48c0051a7",
+    "kr.topic.2022.high.d7114e7463448ffc2127",
+    "kr.topic.2022.high.df89ce5f37961ee5727f",
+    "kr.topic.2022.high.e2925164106c237050a4",
+    "kr.topic.2022.high.ee70bd732cfd176ca77c",
+    "kr.topic.2022.high.fed7a35f8e454ded94ce"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4d53493fc793739f1c",
+   "titleKorean": "스마트 공장 운용 — 영역 05",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "스마트 공장 운용의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.00254239b6af3080bf14",
+    "kr.topic.2022.high.d676d30909ebe9fd9abf",
+    "kr.topic.2022.high.fe23c725c42a8900c944"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.55e4e1c1af141dbc2c",
+   "titleKorean": "스마트 공장 운용 — 빅 데이터와 인공지능",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "빅 데이터와 인공지능",
+   "summary": "스마트 공장 운용의 빅 데이터와 인공지능 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.0462ff70d12e46cc79f5",
+    "kr.topic.2022.high.21e059aabfa365ad8ef1",
+    "kr.topic.2022.high.47e27de40bc4c5c26fcc",
+    "kr.topic.2022.high.ac4217f1e975d7b3d4e8",
+    "kr.topic.2022.high.c42499281a2facc6bb7d",
+    "kr.topic.2022.high.cb1670022a82094daa78"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5fdbcdea5998418a45",
+   "titleKorean": "발명과 메이커 — 발명 메이커 프로젝트",
+   "subjectKorean": "발명과 메이커",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명 메이커 프로젝트",
+   "summary": "발명과 메이커의 발명 메이커 프로젝트 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.4004f91e49a0edce0d18",
+    "kr.topic.2022.high.4cd3d17577f415a75bf4",
+    "kr.topic.2022.high.91b9074ecf591e799713",
+    "kr.topic.2022.high.bb17694ad90ae6389230"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.603ef7b6068a2fd808",
+   "titleKorean": "스마트 공장 일반 — 스마트 공장 관련 핵심 기술",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 공장 관련 핵심 기술",
+   "summary": "스마트 공장 일반의 스마트 공장 관련 핵심 기술 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.08bf05aaa6cb6c981576",
+    "kr.topic.2022.high.1ffdf3cbe3a3d0e18d1e",
+    "kr.topic.2022.high.21dc531187a6953aa84e",
+    "kr.topic.2022.high.3432be037b5f94ddad97",
+    "kr.topic.2022.high.4035d2e7bf158981209f",
+    "kr.topic.2022.high.87a5258745fe19f2d44d",
+    "kr.topic.2022.high.dc123676cefb1a19af1b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.62a327bdccd948dd19",
+   "titleKorean": "스마트 공장 일반 — 스마트 공장(Smart Factory)",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 공장(Smart Factory)",
+   "summary": "스마트 공장 일반의 스마트 공장(Smart Factory) 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.02efb6d99871ebd16463",
+    "kr.topic.2022.high.30014de1215368226f49",
+    "kr.topic.2022.high.496567d459a67620750d",
+    "kr.topic.2022.high.943a8a4da8246e2f68a9",
+    "kr.topic.2022.high.a3928dda2ee147024dde",
+    "kr.topic.2022.high.bf3bb2d005b178694d8b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.69be73f72b5d44ce33",
+   "titleKorean": "스마트 공장 일반 — 4차 산업 혁명의 이해",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "4차 산업 혁명의 이해",
+   "summary": "스마트 공장 일반의 4차 산업 혁명의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.1c042e6c84d17f1cad78",
+    "kr.topic.2022.high.2126088f0f5db43d846d",
+    "kr.topic.2022.high.32abd314e1bfdd788af6",
+    "kr.topic.2022.high.48f4f6d0a9df31d14a73",
+    "kr.topic.2022.high.815d0b7947cfdb43e1ca"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.71a098d099d2927bc7",
+   "titleKorean": "발명과 메이커 — 발명과 문제 해결의 이해",
+   "subjectKorean": "발명과 메이커",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명과 문제 해결의 이해",
+   "summary": "발명과 메이커의 발명과 문제 해결의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.9797337f9d456fd432cc",
+    "kr.topic.2022.high.abc7b46983beeb2c280b",
+    "kr.topic.2022.high.e8f940863aa8d03f014a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7368c00c416246cf4a",
+   "titleKorean": "발명･특허 기초 — 발명의 이해",
+   "subjectKorean": "발명･특허 기초",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명의 이해",
+   "summary": "발명･특허 기초의 발명의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.00302f1cde97400b0d66",
+    "kr.topic.2022.high.9673739fc0b4b6f1c81f",
+    "kr.topic.2022.high.9880fdb1e5812396dd6f",
+    "kr.topic.2022.high.e359f60ac313c90cadd7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.76780de6350c85ee2b",
+   "titleKorean": "스마트 공장 일반 — 스마트 공장 응용 시스템",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 공장 응용 시스템",
+   "summary": "스마트 공장 일반의 스마트 공장 응용 시스템 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.63f28c10029cc79a5512",
+    "kr.topic.2022.high.8d8eaec66268721d84c9",
+    "kr.topic.2022.high.8fc72e0075ebe44c671a",
+    "kr.topic.2022.high.a2e9f75f8c135e87fb55",
+    "kr.topic.2022.high.bfeeac8ea56643ae1b40",
+    "kr.topic.2022.high.cf2b0a02e4c3dd00ad9c",
+    "kr.topic.2022.high.d3e97dc7a736cccc76aa",
+    "kr.topic.2022.high.fd9e9c6b67f284b39d4e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7e41f88055a2b80dbc",
+   "titleKorean": "스마트 공장 설계와 구축 — 감시 제어 시스템 설계",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "감시 제어 시스템 설계",
+   "summary": "스마트 공장 설계와 구축의 감시 제어 시스템 설계 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.13115621d85d17448fdf",
+    "kr.topic.2022.high.27e915fb5b4fc9748ab4",
+    "kr.topic.2022.high.52c8e6f0e69f7336e23f",
+    "kr.topic.2022.high.7ca6e51bc92cf0d5415e",
+    "kr.topic.2022.high.80082d25f3a0f863705a",
+    "kr.topic.2022.high.ad15dac911aeb764aed8",
+    "kr.topic.2022.high.c0bb0b07cca836793658",
+    "kr.topic.2022.high.ce63849278e37212bee4",
+    "kr.topic.2022.high.f08854e5870b67f48f75"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.855ecf50d51956e933",
+   "titleKorean": "발명과 메이커 — 메이커 활동과 발명품 제작",
+   "subjectKorean": "발명과 메이커",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "메이커 활동과 발명품 제작",
+   "summary": "발명과 메이커의 메이커 활동과 발명품 제작 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.32870866aec605b03bb2",
+    "kr.topic.2022.high.5e8771178738a54faf90",
+    "kr.topic.2022.high.a719fcde732667baa75c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.8b607eae7e18a248da",
+   "titleKorean": "발명과 기업가 정신 — 사업 타당성 분석과 사업 계획서",
+   "subjectKorean": "발명과 기업가 정신",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "사업 타당성 분석과 사업 계획서",
+   "summary": "발명과 기업가 정신의 사업 타당성 분석과 사업 계획서 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.07a1e012017dec65e95e",
+    "kr.topic.2022.high.75b561f9b6217858b355",
+    "kr.topic.2022.high.f5254ca0d1e50a8b3659",
+    "kr.topic.2022.high.fd50475221daaf32eafa"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.8d1744f699618909f3",
+   "titleKorean": "스마트 공장 운용 — 산업용 IoT 활용 기술",
+   "subjectKorean": "스마트 공장 운용",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "산업용 IoT 활용 기술",
+   "summary": "스마트 공장 운용의 산업용 IoT 활용 기술 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.29dda347e17bbb938aeb",
+    "kr.topic.2022.high.687ac605bb65eceac008",
+    "kr.topic.2022.high.7ffd5c45bd3e6d457e43",
+    "kr.topic.2022.high.81ecf8c21c703e4e5e02",
+    "kr.topic.2022.high.a7671f3b0e1101262b5c",
+    "kr.topic.2022.high.aec5a62776db57314825",
+    "kr.topic.2022.high.c77c0ff35a9af9643a3a",
+    "kr.topic.2022.high.d6c9bae252c139e57bfe"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9f997977e803c95a57",
+   "titleKorean": "발명･특허 기초 — 특허 출원의 이해",
+   "subjectKorean": "발명･특허 기초",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "특허 출원의 이해",
+   "summary": "발명･특허 기초의 특허 출원의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.05762959a59fe86f00d5",
+    "kr.topic.2022.high.19babde4b2f5a8652585",
+    "kr.topic.2022.high.5d369816d5eaed53a3cf",
+    "kr.topic.2022.high.78a589059a0146ba3976",
+    "kr.topic.2022.high.96489baece5c120f6f9b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a2dfeec25e4dd3a3ca",
+   "titleKorean": "스마트 공장 일반 — 스마트 제조 자동화 기술",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 제조 자동화 기술",
+   "summary": "스마트 공장 일반의 스마트 제조 자동화 기술 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.03bfd978295bf84a77e8",
+    "kr.topic.2022.high.ab90d0f8bbcb1a53f257",
+    "kr.topic.2022.high.afa630201a3f9d56f392",
+    "kr.topic.2022.high.b8ef4abcbd43a8f8e4fb",
+    "kr.topic.2022.high.cfc1634d439ad53cca96",
+    "kr.topic.2022.high.e9e57047ea82207ed7b1"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ae4b1b3652b49ab496",
+   "titleKorean": "발명과 디자인 — 발명 디자인의 발상과 시각화",
+   "subjectKorean": "발명과 디자인",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명 디자인의 발상과 시각화",
+   "summary": "발명과 디자인의 발명 디자인의 발상과 시각화 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.6f02adde0491c7cd0770",
+    "kr.topic.2022.high.8a767c79cc96c5f3179c",
+    "kr.topic.2022.high.aabda1daa0f0ea4c71a3"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.af08f2151e47515b82",
+   "titleKorean": "스마트 공장 설계와 구축 — 디지털 트윈 구축",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "디지털 트윈 구축",
+   "summary": "스마트 공장 설계와 구축의 디지털 트윈 구축 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.0ffa90d996811303470b",
+    "kr.topic.2022.high.691036f45633228b7316",
+    "kr.topic.2022.high.72a91139f9f681be4d8b",
+    "kr.topic.2022.high.855878a7d590087bdee4",
+    "kr.topic.2022.high.8e14d98dc456818677ad",
+    "kr.topic.2022.high.bbadb3ad25f7ab0b7caa",
+    "kr.topic.2022.high.bd4a22cd0dad63306ab6",
+    "kr.topic.2022.high.d8e0019191b2d79b84ea"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b413f1d2e449e7e844",
+   "titleKorean": "스마트 공장 일반 — 스마트 제조 시스템",
+   "subjectKorean": "스마트 공장 일반",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 제조 시스템",
+   "summary": "스마트 공장 일반의 스마트 제조 시스템 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.006a7a3bf0c5ffe83efd",
+    "kr.topic.2022.high.4878c4c6e6724094845c",
+    "kr.topic.2022.high.993a9b9c135e96c014a8",
+    "kr.topic.2022.high.a05b1b9ce8ee10bc2c32",
+    "kr.topic.2022.high.ea8ff8051eaa1cff1694",
+    "kr.topic.2022.high.fc7b3015e72f318fd01a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c897750bf77aef4836",
+   "titleKorean": "발명과 디자인 — 발명 디자인의 이해",
+   "subjectKorean": "발명과 디자인",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명 디자인의 이해",
+   "summary": "발명과 디자인의 발명 디자인의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.0a9da3fb15e02f7a66e0",
+    "kr.topic.2022.high.2a2c67f9162cd92ac4f0",
+    "kr.topic.2022.high.2eb7a62681436b8d8db6",
+    "kr.topic.2022.high.71133f92eb686520a8eb"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d5fae710a6ee47dbca",
+   "titleKorean": "스마트 공장 설계와 구축 — 스마트 설비 메커니즘 설계",
+   "subjectKorean": "스마트 공장 설계와 구축",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 설비 메커니즘 설계",
+   "summary": "스마트 공장 설계와 구축의 스마트 설비 메커니즘 설계 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.080db0230d88f842a89e",
+    "kr.topic.2022.high.08b0d2dca08b6674d11f",
+    "kr.topic.2022.high.29f7fdfc675a19da11cb",
+    "kr.topic.2022.high.4a1ddaec333b62fe8dc6",
+    "kr.topic.2022.high.5217296d8e0c48a50148",
+    "kr.topic.2022.high.7cb4a24a413ddfc58b15",
+    "kr.topic.2022.high.ef0c299a55d304bc827c",
+    "kr.topic.2022.high.f59ae38402d8ac604083"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f59c782086a7707053",
+   "titleKorean": "발명과 메이커 — 디자인 씽킹을 통한 발명 아이디어 창출",
+   "subjectKorean": "발명과 메이커",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "디자인 씽킹을 통한 발명 아이디어 창출",
+   "summary": "발명과 메이커의 디자인 씽킹을 통한 발명 아이디어 창출 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.333dcf0d6a6f97bf74e9",
+    "kr.topic.2022.high.e4f9f3e66318952b801d",
+    "kr.topic.2022.high.e8c1754ab421c33f2664"
+   ]
+  }
+ ]
+}

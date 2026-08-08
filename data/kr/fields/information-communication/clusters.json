@@ -1,0 +1,1022 @@
+{
+ "clusters": [
+  {
+   "id": "kr.cluster.2022.high.06ae187df5ffa1729f",
+   "titleKorean": "알고리즘 설계 — 알고리즘 설계 기법",
+   "subjectKorean": "알고리즘 설계",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "알고리즘 설계 기법",
+   "summary": "알고리즘 설계의 알고리즘 설계 기법 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.4afe042af113d589bac1",
+    "kr.topic.2022.high.9127cd613f7619923f5b",
+    "kr.topic.2022.high.c540fcca9d6466438abe"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.10bf1347fb97e4532f",
+   "titleKorean": "정보 통신 — 근거리 통신망 구축",
+   "subjectKorean": "정보 통신",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "근거리 통신망 구축",
+   "summary": "정보 통신의 근거리 통신망 구축 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.1d7fa15a826579ec16e7",
+    "kr.topic.2022.high.29cab0240c725a1ab301",
+    "kr.topic.2022.high.3ae403860bceef7378b6",
+    "kr.topic.2022.high.4a8737d002dbe932c4dc",
+    "kr.topic.2022.high.8221065412878efd1809",
+    "kr.topic.2022.high.85e887193edf13343dfa",
+    "kr.topic.2022.high.ad533b5b0fa99fb7b46d",
+    "kr.topic.2022.high.f29ff59a4d7164d1419f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1dddfc5b39461c920b",
+   "titleKorean": "정보 통신 — 정보 통신 응용",
+   "subjectKorean": "정보 통신",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "정보 통신 응용",
+   "summary": "정보 통신의 정보 통신 응용 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.1991c5bffa7c2e0a49ea",
+    "kr.topic.2022.high.438358121613be640491",
+    "kr.topic.2022.high.457abe11e3d2f95d2732",
+    "kr.topic.2022.high.63882cfd5b116dfb90c4",
+    "kr.topic.2022.high.6c2327e76e0c90edb887",
+    "kr.topic.2022.high.c354fc58166b5dc670a5",
+    "kr.topic.2022.high.d34d4a4697b09690af82",
+    "kr.topic.2022.high.e576f03a16a2ddca2390",
+    "kr.topic.2022.high.e89cb3dc5c8b36cf1c8c",
+    "kr.topic.2022.high.f0f62086d4a5724d0dc2"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1fb80ce9af4e8438d1",
+   "titleKorean": "사물 인터넷과 센서 제어 — 영역 07",
+   "subjectKorean": "사물 인터넷과 센서 제어",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 07",
+   "summary": "사물 인터넷과 센서 제어의 영역 07 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.8ecb474ef87b8dbffc59",
+    "kr.topic.2022.high.da25589ac4cee68e7d28",
+    "kr.topic.2022.high.ec26867176991d62b2a9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.25141470cf7bb90fe2",
+   "titleKorean": "정보 처리와 관리 — 데이터베이스 활용",
+   "subjectKorean": "정보 처리와 관리",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "데이터베이스 활용",
+   "summary": "정보 처리와 관리의 데이터베이스 활용 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.5686615db24061ec6ebe",
+    "kr.topic.2022.high.933bae0bc1e211387139",
+    "kr.topic.2022.high.eaab42b8777a12267fa5"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.261285528f81f49ad7",
+   "titleKorean": "컴퓨터 네트워크 — 네트워크 계층 구조",
+   "subjectKorean": "컴퓨터 네트워크",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "네트워크 계층 구조",
+   "summary": "컴퓨터 네트워크의 네트워크 계층 구조 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.3f808c43e5942a39c39f",
+    "kr.topic.2022.high.465ca052cc5064b3d53d",
+    "kr.topic.2022.high.ea049418a036bef988e2",
+    "kr.topic.2022.high.eb941a8ca2291b8b45de"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.27de74bef39821e2a2",
+   "titleKorean": "통신 일반 — 전송 방식",
+   "subjectKorean": "통신 일반",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "전송 방식",
+   "summary": "통신 일반의 전송 방식 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.2697e93b1ef044e84527",
+    "kr.topic.2022.high.71d5e6f2e9985ab7e11e",
+    "kr.topic.2022.high.84da4c3880009ac65b35",
+    "kr.topic.2022.high.8c3dbf106765c5dbe95c",
+    "kr.topic.2022.high.980721aae0e5468e17a7",
+    "kr.topic.2022.high.c58a988e344f9013c54e",
+    "kr.topic.2022.high.d1ebc574685a610636fa",
+    "kr.topic.2022.high.de5a26df782a15e4ba1a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2b4a3aae7a58c29703",
+   "titleKorean": "컴퓨터 구조 — 제어 장치",
+   "subjectKorean": "컴퓨터 구조",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "제어 장치",
+   "summary": "컴퓨터 구조의 제어 장치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.530a3efd625a07346ac9",
+    "kr.topic.2022.high.9620e44a941bd3d00845",
+    "kr.topic.2022.high.9b66045bf41e277724b4",
+    "kr.topic.2022.high.d7e736ac45c132afb1d9",
+    "kr.topic.2022.high.ef0836bd31820dc469b3"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2d45ff5f4bd581a44d",
+   "titleKorean": "자료 구조 — 자료 정렬",
+   "subjectKorean": "자료 구조",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "자료 정렬",
+   "summary": "자료 구조의 자료 정렬 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.1f6dc0257081267f5bf3",
+    "kr.topic.2022.high.90b182384453d7380207"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2dde0eef7ae29c0a85",
+   "titleKorean": "컴퓨터 구조 — 기억 장치",
+   "subjectKorean": "컴퓨터 구조",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "기억 장치",
+   "summary": "컴퓨터 구조의 기억 장치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.60d363d871c107588885",
+    "kr.topic.2022.high.66a29472c8885eda5124",
+    "kr.topic.2022.high.a5a312bbd516a19cc56b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.30ad8c6e63ce148cb9",
+   "titleKorean": "컴퓨터 네트워크 — 네트워크의 이해",
+   "subjectKorean": "컴퓨터 네트워크",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "네트워크의 이해",
+   "summary": "컴퓨터 네트워크의 네트워크의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.03c51c168f751ccac522",
+    "kr.topic.2022.high.0496557bb8979cc54781",
+    "kr.topic.2022.high.1af02246abbb44f9a5ac",
+    "kr.topic.2022.high.2f0eda822380896d2544"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.353c6faa6b51ff040f",
+   "titleKorean": "컴퓨터 시스템 일반 — 정보의 표현",
+   "subjectKorean": "컴퓨터 시스템 일반",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "정보의 표현",
+   "summary": "컴퓨터 시스템 일반의 정보의 표현 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.3df01e628bdc3cc7ab04",
+    "kr.topic.2022.high.86afbf9b09ee2e12dfb8",
+    "kr.topic.2022.high.d0d5c06fe5413c4ad120"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.386efe64590c54c8f0",
+   "titleKorean": "통신 시스템 — 위성 통신 시스템",
+   "subjectKorean": "통신 시스템",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "위성 통신 시스템",
+   "summary": "통신 시스템의 위성 통신 시스템 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.0cff960c32bdcabcac19",
+    "kr.topic.2022.high.1c8d179f3bbf1ebf9d04",
+    "kr.topic.2022.high.54262a0838d88072b386",
+    "kr.topic.2022.high.7af0bde27e8dcf184252",
+    "kr.topic.2022.high.b5ca81fd36a404551ffc",
+    "kr.topic.2022.high.ee10427e209249615dca"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3b1da0abcb2b6621c9",
+   "titleKorean": "사물 인터넷과 센서 제어 — 사물 인터넷 디바이스",
+   "subjectKorean": "사물 인터넷과 센서 제어",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "사물 인터넷 디바이스",
+   "summary": "사물 인터넷과 센서 제어의 사물 인터넷 디바이스 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.10674978c6cfad11f13c",
+    "kr.topic.2022.high.426926e5771cc0a20c7a",
+    "kr.topic.2022.high.5360f796ecb2b144ea64",
+    "kr.topic.2022.high.94d8fd8630c22033e113",
+    "kr.topic.2022.high.a43f1cec625f9bd620f8"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.40308ea94170bbfe78",
+   "titleKorean": "컴퓨터 시스템 일반 — 운영 체제 운용",
+   "subjectKorean": "컴퓨터 시스템 일반",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "운영 체제 운용",
+   "summary": "컴퓨터 시스템 일반의 운영 체제 운용 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.2e01d5e5b6b314ca7a9e",
+    "kr.topic.2022.high.4c8a7dcaec8f0cc5210c",
+    "kr.topic.2022.high.797c9082f48df64484c0",
+    "kr.topic.2022.high.d04d2959521cdc8ca4f0",
+    "kr.topic.2022.high.d1e504ba9df6a93a125c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.440a6b3f20a9ece46c",
+   "titleKorean": "컴퓨터 시스템 일반 — 운영 체제의 자원 관리",
+   "subjectKorean": "컴퓨터 시스템 일반",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "운영 체제의 자원 관리",
+   "summary": "컴퓨터 시스템 일반의 운영 체제의 자원 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.59aaf3a0ea510033234b",
+    "kr.topic.2022.high.7f45f3f2ecba0273e5c1",
+    "kr.topic.2022.high.90f4c5d942194e8864aa",
+    "kr.topic.2022.high.f2579591b0449f88d193",
+    "kr.topic.2022.high.f4ee6ca0ea02b55005b9",
+    "kr.topic.2022.high.fd4ac8a3d20e655dfdfe"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.488e9130f21140a259",
+   "titleKorean": "알고리즘 설계 — 알고리즘 기초",
+   "subjectKorean": "알고리즘 설계",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "알고리즘 기초",
+   "summary": "알고리즘 설계의 알고리즘 기초 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.0827cde0ee60df37c619",
+    "kr.topic.2022.high.27f367a74ead74fa3ff3",
+    "kr.topic.2022.high.a45a4727c54579ef2aa4",
+    "kr.topic.2022.high.bec18f5227d174db6022"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.529439f6e3f03306c0",
+   "titleKorean": "사물 인터넷과 센서 제어 — 영역 05",
+   "subjectKorean": "사물 인터넷과 센서 제어",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "사물 인터넷과 센서 제어의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.707652be5188997c1f40",
+    "kr.topic.2022.high.b21855b3078316f2fbe2",
+    "kr.topic.2022.high.d677d584e1358a9b74ba"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.57200fc1335ac127d1",
+   "titleKorean": "정보 통신 — 정보 보안",
+   "subjectKorean": "정보 통신",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "정보 보안",
+   "summary": "정보 통신의 정보 보안 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.191660c5ef3fce87c520",
+    "kr.topic.2022.high.527260aa5d8ececcd449",
+    "kr.topic.2022.high.6ecced6664d8c5fb8a55",
+    "kr.topic.2022.high.96895569423263c60521",
+    "kr.topic.2022.high.b85e3247717aa8f70389",
+    "kr.topic.2022.high.d23241e778865c4392dd",
+    "kr.topic.2022.high.da6eb7ecdc60aea1a1d3",
+    "kr.topic.2022.high.fd8e6eb120a0c3fda017"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5b2c0c5aba23864388",
+   "titleKorean": "통신 일반 — 통신 방식",
+   "subjectKorean": "통신 일반",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "통신 방식",
+   "summary": "통신 일반의 통신 방식 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.6af513d192285c22e669",
+    "kr.topic.2022.high.8868e482caf873d37fb6",
+    "kr.topic.2022.high.8f4a408d0aa09623d633",
+    "kr.topic.2022.high.ab7e0ea2b705d821499b",
+    "kr.topic.2022.high.b1a8d60202b98892a4d9",
+    "kr.topic.2022.high.f15e3c941edb13d0b021"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5c70bbeac866ffbf34",
+   "titleKorean": "사물 인터넷과 센서 제어 — 영역 06",
+   "subjectKorean": "사물 인터넷과 센서 제어",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 06",
+   "summary": "사물 인터넷과 센서 제어의 영역 06 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.5ecae7dc280992c369ae",
+    "kr.topic.2022.high.c05e67c39159b4eb859f",
+    "kr.topic.2022.high.db9574e853b5ce56e089"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.613287a7b54001c7fb",
+   "titleKorean": "정보 처리와 관리 — 정보 산업과 정보 윤리",
+   "subjectKorean": "정보 처리와 관리",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "정보 산업과 정보 윤리",
+   "summary": "정보 처리와 관리의 정보 산업과 정보 윤리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.bbc4a24a2cd85714ddf6",
+    "kr.topic.2022.high.c0d7fa821618558615a6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.65402599f4573010d4",
+   "titleKorean": "사물 인터넷과 센서 제어 — 사물 인터넷의 이해",
+   "subjectKorean": "사물 인터넷과 센서 제어",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "사물 인터넷의 이해",
+   "summary": "사물 인터넷과 센서 제어의 사물 인터넷의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.2049b73db2c30f7dcd35",
+    "kr.topic.2022.high.63f96f516aefae0f552c",
+    "kr.topic.2022.high.6e71fe5a194bb95513ae",
+    "kr.topic.2022.high.87a7ddf80e642fe6b86a",
+    "kr.topic.2022.high.cca9f5f93b45bce0f75d",
+    "kr.topic.2022.high.d043fe301e3eeee08e53"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6558962c1ae5610bcc",
+   "titleKorean": "사물 인터넷과 센서 제어 — 영역 04",
+   "subjectKorean": "사물 인터넷과 센서 제어",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 04",
+   "summary": "사물 인터넷과 센서 제어의 영역 04 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.22a935e1ddb5aabb2c97",
+    "kr.topic.2022.high.826836ad0f2cab2bc31d",
+    "kr.topic.2022.high.c0f6ae34adfbb272df87"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6a42ee5c75a7e3dcac",
+   "titleKorean": "통신 일반 — 통신의 기초",
+   "subjectKorean": "통신 일반",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "통신의 기초",
+   "summary": "통신 일반의 통신의 기초 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.69a4b90f05ce8d755d11",
+    "kr.topic.2022.high.98641814d51f9f4b0cff",
+    "kr.topic.2022.high.989b0d2e8e58a5242ff6",
+    "kr.topic.2022.high.99fbee6c777e8551708a",
+    "kr.topic.2022.high.b0e5a97da6a271619f20",
+    "kr.topic.2022.high.c2742602f42049400300"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6c671e3521f4694f15",
+   "titleKorean": "자료 구조 — 비선형 구조",
+   "subjectKorean": "자료 구조",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "비선형 구조",
+   "summary": "자료 구조의 비선형 구조 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.a9012c8b7f54c7bb7b88",
+    "kr.topic.2022.high.c15d9b94551afa793da9",
+    "kr.topic.2022.high.c5e0f8d57a719b969ef4"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6fa00d53306a1e7bad",
+   "titleKorean": "사물 인터넷과 센서 제어 — 센서의 이해",
+   "subjectKorean": "사물 인터넷과 센서 제어",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "센서의 이해",
+   "summary": "사물 인터넷과 센서 제어의 센서의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.299933ea5896f2db4eb3",
+    "kr.topic.2022.high.50e48cb013c60ed43f3c",
+    "kr.topic.2022.high.779d19b5e8566d23d013",
+    "kr.topic.2022.high.d64fded9f4fc971d16cf",
+    "kr.topic.2022.high.d8c20fee8a3c2bb33608",
+    "kr.topic.2022.high.f292eaa6953b7344e4c8"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.70e7ebbcdaa3c07be4",
+   "titleKorean": "통신 시스템 — 유선 통신 시스템",
+   "subjectKorean": "통신 시스템",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "유선 통신 시스템",
+   "summary": "통신 시스템의 유선 통신 시스템 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.1514d125a4a0e1e8399d",
+    "kr.topic.2022.high.1da1b119107e61dc6a68",
+    "kr.topic.2022.high.4e9e5306037bc7da5b6d",
+    "kr.topic.2022.high.5786d6f0c33b3714f794",
+    "kr.topic.2022.high.73848d1b92f17185afcd",
+    "kr.topic.2022.high.e44752b5484329ac16ed"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.719874a76bb752c1ea",
+   "titleKorean": "자료 구조 — 선형 구조",
+   "subjectKorean": "자료 구조",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "선형 구조",
+   "summary": "자료 구조의 선형 구조 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.6dbf398761dfc56e1368",
+    "kr.topic.2022.high.8363baac88b9ab1aae84",
+    "kr.topic.2022.high.9ef8ce5aeee25f38a553",
+    "kr.topic.2022.high.a3d6ebe6eb83dcdffc3e",
+    "kr.topic.2022.high.d146323f77c8c804f785"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.81bb7c820aaa50da9a",
+   "titleKorean": "컴퓨터 구조 — 입출력 장치",
+   "subjectKorean": "컴퓨터 구조",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "입출력 장치",
+   "summary": "컴퓨터 구조의 입출력 장치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.6621645c9fbb49823e0b",
+    "kr.topic.2022.high.6a349e606b33ac8e7525",
+    "kr.topic.2022.high.cf89602a8b9c0ffb8127",
+    "kr.topic.2022.high.e465fdeff8ee59231631"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.861730e4d371317761",
+   "titleKorean": "프로그래밍 — 프로그래밍의 개요",
+   "subjectKorean": "프로그래밍",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "프로그래밍의 개요",
+   "summary": "프로그래밍의 프로그래밍의 개요 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.6c633b8774191db7a551",
+    "kr.topic.2022.high.9157e8cea9ffd84ed8f4",
+    "kr.topic.2022.high.b08da57b28b1ed401235",
+    "kr.topic.2022.high.c5d1cb51ad269bb5c55c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.88a2d0cdf21aeacb8b",
+   "titleKorean": "정보 통신 — 인터넷 통신",
+   "subjectKorean": "정보 통신",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "인터넷 통신",
+   "summary": "정보 통신의 인터넷 통신 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.0218bf1757a6aa4dc42c",
+    "kr.topic.2022.high.3166a1e59e0d7c629ba2",
+    "kr.topic.2022.high.6dc2c459e61d2bab45cd",
+    "kr.topic.2022.high.b6604b5307d0868c8598",
+    "kr.topic.2022.high.ba2ac8b6ebea8ef30435",
+    "kr.topic.2022.high.c6fdbec0f3dda6f01c00",
+    "kr.topic.2022.high.d0a3d6137584f2ec7433",
+    "kr.topic.2022.high.d9a76c4aa79a1bcb04a2"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.8b73fed1811140d8b1",
+   "titleKorean": "통신 시스템 — 무선 통신 시스템",
+   "subjectKorean": "통신 시스템",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "무선 통신 시스템",
+   "summary": "통신 시스템의 무선 통신 시스템 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.1c53ef32e801a51402f9",
+    "kr.topic.2022.high.378e96bb0441d8c75a93",
+    "kr.topic.2022.high.3d9068eaef1b21818666",
+    "kr.topic.2022.high.570566a60f2b066f9a11",
+    "kr.topic.2022.high.8296315e426fef97caf8",
+    "kr.topic.2022.high.8578ab947cb9e0253fd3",
+    "kr.topic.2022.high.c0c6d11c0d7753183f28",
+    "kr.topic.2022.high.d970ebdf155bf1b35c56",
+    "kr.topic.2022.high.e82d2bb8c93227097d7b",
+    "kr.topic.2022.high.ff9a2ba0c93a83e18321"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9163327dc672a58f08",
+   "titleKorean": "통신 일반 — 정보 통신",
+   "subjectKorean": "통신 일반",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "정보 통신",
+   "summary": "통신 일반의 정보 통신 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.0089d0439cef8182fd66",
+    "kr.topic.2022.high.3b50fe1e595561af6a61",
+    "kr.topic.2022.high.42560fd3e8d80876a345",
+    "kr.topic.2022.high.6134f2db3152fc91a02e",
+    "kr.topic.2022.high.8575a3016af47774085d",
+    "kr.topic.2022.high.8f4cdf27f94fe29a60f9",
+    "kr.topic.2022.high.9bed1a6bcc12325a3dfa"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9166b9363cbaf6692b",
+   "titleKorean": "정보 통신 — 정보 통신의 기초",
+   "subjectKorean": "정보 통신",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "정보 통신의 기초",
+   "summary": "정보 통신의 정보 통신의 기초 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.1428f07bf1422729c9d0",
+    "kr.topic.2022.high.1b2d819f75f67249e1f9",
+    "kr.topic.2022.high.1f4163d6b923a906f4f9",
+    "kr.topic.2022.high.65da4db17c9e7b9e3d01",
+    "kr.topic.2022.high.6c02d09ff58a114e1adb",
+    "kr.topic.2022.high.920079213ae637cc7ee7",
+    "kr.topic.2022.high.9fef9fbe408739abf7a7",
+    "kr.topic.2022.high.a320b5cb9c14b170c6a4"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.95346d677bf879d4f9",
+   "titleKorean": "정보 처리와 관리 — 문서 공유와 활용",
+   "subjectKorean": "정보 처리와 관리",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "문서 공유와 활용",
+   "summary": "정보 처리와 관리의 문서 공유와 활용 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.0d922f0d9fe5be76eac0",
+    "kr.topic.2022.high.6dd3ed22a9e216e0a2bd",
+    "kr.topic.2022.high.c1fce3e5f0f21eac790c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.97bb5edd36218c29be",
+   "titleKorean": "정보 처리와 관리 — 스프레드시트 활용",
+   "subjectKorean": "정보 처리와 관리",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "스프레드시트 활용",
+   "summary": "정보 처리와 관리의 스프레드시트 활용 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.079a792edbff72617d4c",
+    "kr.topic.2022.high.1870c2d9dd696bd08462",
+    "kr.topic.2022.high.57d206b14dbd38da6e7c",
+    "kr.topic.2022.high.e211f1ecfd9f5c1f0c6c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9a2c70cbf2a233ad27",
+   "titleKorean": "인공지능 일반 — 인공지능 데이터",
+   "subjectKorean": "인공지능 일반",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "인공지능 데이터",
+   "summary": "인공지능 일반의 인공지능 데이터 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.0f5a91285d1f7c1220ba",
+    "kr.topic.2022.high.23ed037e63dae018a7db",
+    "kr.topic.2022.high.aa08916815e058a9ef7f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a20984d7dd908af3b3",
+   "titleKorean": "알고리즘 설계 — 추상화와 모델링",
+   "subjectKorean": "알고리즘 설계",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "추상화와 모델링",
+   "summary": "알고리즘 설계의 추상화와 모델링 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.7768d31bb9b8886c7a67",
+    "kr.topic.2022.high.8be1eeea3b3fad3da4c7",
+    "kr.topic.2022.high.98659c8b591336f5bf8f",
+    "kr.topic.2022.high.b2550b49dbde6fa84607"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a37ddb2cc31102b101",
+   "titleKorean": "통신 시스템 — 광 통신 시스템",
+   "subjectKorean": "통신 시스템",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "광 통신 시스템",
+   "summary": "통신 시스템의 광 통신 시스템 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.1cef0b79e8ba250777cc",
+    "kr.topic.2022.high.38ad197d7069e3c1048b",
+    "kr.topic.2022.high.675c91aeae10269a7cb3",
+    "kr.topic.2022.high.70fe136180361902ab62",
+    "kr.topic.2022.high.747eac65a2c5f65741d1",
+    "kr.topic.2022.high.8b83e7c4e6b6349876f2",
+    "kr.topic.2022.high.9aed629e0bd938870b2d",
+    "kr.topic.2022.high.9cd221122c3c216e9585"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a6b84c1ec7637a3c92",
+   "titleKorean": "정보 처리와 관리 — 프레젠테이션 활용",
+   "subjectKorean": "정보 처리와 관리",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "프레젠테이션 활용",
+   "summary": "정보 처리와 관리의 프레젠테이션 활용 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.26b66175997bae04d46e",
+    "kr.topic.2022.high.40b062ea6bfb33893d05",
+    "kr.topic.2022.high.758f9df51c3c83545312"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ae1c646a9b5763665f",
+   "titleKorean": "인공지능 일반 — 딥 러닝",
+   "subjectKorean": "인공지능 일반",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "딥 러닝",
+   "summary": "인공지능 일반의 딥 러닝 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.01fd46d67df51eae36cd",
+    "kr.topic.2022.high.1a40ed7cf1b9f3ebf928",
+    "kr.topic.2022.high.215c2809a8b7e055f70c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ae336b859e847500b0",
+   "titleKorean": "자료 구조 — 자료 탐색",
+   "subjectKorean": "자료 구조",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "자료 탐색",
+   "summary": "자료 구조의 자료 탐색 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.d4a3df4e4114a0fa57e6",
+    "kr.topic.2022.high.d89146eaa07fd5c4e0c5"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ae76a850ecd21caee4",
+   "titleKorean": "프로그래밍 — 프로그램 설계와 구현",
+   "subjectKorean": "프로그래밍",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "프로그램 설계와 구현",
+   "summary": "프로그래밍의 프로그램 설계와 구현 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.1ea51e0b48dd1997df5e",
+    "kr.topic.2022.high.68d9d42fa3cd794afa66",
+    "kr.topic.2022.high.bf931635a172d0b18e11",
+    "kr.topic.2022.high.c2f7b39e99e464ce4e4b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ae7f9278ecb00aefd0",
+   "titleKorean": "인공지능 일반 — 기계 학습",
+   "subjectKorean": "인공지능 일반",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "기계 학습",
+   "summary": "인공지능 일반의 기계 학습 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.04d91f8f1c1b86bf007a",
+    "kr.topic.2022.high.39833b7a77204ec38c5f",
+    "kr.topic.2022.high.6ba063510d5bc4fe85fa",
+    "kr.topic.2022.high.7ca462673a5a14e7694c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b78e99e593b764e6a3",
+   "titleKorean": "프로그래밍 — 프로그래밍의 기초",
+   "subjectKorean": "프로그래밍",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "프로그래밍의 기초",
+   "summary": "프로그래밍의 프로그래밍의 기초 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.272d25abbf9a0faf30a8",
+    "kr.topic.2022.high.45fac3702d1a31d7ddc2",
+    "kr.topic.2022.high.a33bd182120d8a34f1d1",
+    "kr.topic.2022.high.c5e8ab4f10f425c5177c",
+    "kr.topic.2022.high.c6a873d4d016fed11939",
+    "kr.topic.2022.high.cc107e3627119d8ee90d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.be9883caa02c5f5a0c",
+   "titleKorean": "컴퓨터 네트워크 — LAN",
+   "subjectKorean": "컴퓨터 네트워크",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "LAN",
+   "summary": "컴퓨터 네트워크의 LAN 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.02040797d36510253f39",
+    "kr.topic.2022.high.9be480a9b6d2377fe14e",
+    "kr.topic.2022.high.b69f294aebd772b3bf8f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c278643b79126b0376",
+   "titleKorean": "컴퓨터 구조 — 연산 장치",
+   "subjectKorean": "컴퓨터 구조",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "연산 장치",
+   "summary": "컴퓨터 구조의 연산 장치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.6192bff44cd612315ad4",
+    "kr.topic.2022.high.e8813d0ee2cf934a8418",
+    "kr.topic.2022.high.ebd4b969998312b4d5bc"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c368ab2e0a48b9029e",
+   "titleKorean": "정보 처리와 관리 — 워드 프로세서 활용",
+   "subjectKorean": "정보 처리와 관리",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "워드 프로세서 활용",
+   "summary": "정보 처리와 관리의 워드 프로세서 활용 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.121ec99edd7012eba3c9",
+    "kr.topic.2022.high.278321e4303457975d22",
+    "kr.topic.2022.high.8c89d7421067f0e085f0",
+    "kr.topic.2022.high.f9bdff3d761f583aebef"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c6f9a8788a176119b9",
+   "titleKorean": "알고리즘 설계 — 알고리즘 개요",
+   "subjectKorean": "알고리즘 설계",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "알고리즘 개요",
+   "summary": "알고리즘 설계의 알고리즘 개요 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.4196634524f124d58664",
+    "kr.topic.2022.high.7b5b9acdec2439bb443f",
+    "kr.topic.2022.high.cc1d6349e8fa94242e14"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ce0ffbc3ed349a0394",
+   "titleKorean": "컴퓨터 시스템 일반 — 컴퓨팅 시스템",
+   "subjectKorean": "컴퓨터 시스템 일반",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "컴퓨팅 시스템",
+   "summary": "컴퓨터 시스템 일반의 컴퓨팅 시스템 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.08365cbc271debfb7357",
+    "kr.topic.2022.high.b10e56ed5e744a612d26",
+    "kr.topic.2022.high.c842224e8a873e1888a7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d49a20bc7d98a3e7c8",
+   "titleKorean": "알고리즘 설계 — 알고리즘 윤리",
+   "subjectKorean": "알고리즘 설계",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "알고리즘 윤리",
+   "summary": "알고리즘 설계의 알고리즘 윤리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.25903c5a514cd833c749",
+    "kr.topic.2022.high.49c2c65af4fde80d5edc",
+    "kr.topic.2022.high.7e8a1ce7272be7f71e69"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.db372c1094216bfae4",
+   "titleKorean": "통신 시스템 — 통신 시스템의 개요",
+   "subjectKorean": "통신 시스템",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "통신 시스템의 개요",
+   "summary": "통신 시스템의 통신 시스템의 개요 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.29af6014aabd5e78ff86",
+    "kr.topic.2022.high.32fbdea951d151eb337b",
+    "kr.topic.2022.high.42a2ea3aa48ae6952196",
+    "kr.topic.2022.high.a30b9ff3c8afb594e9e8",
+    "kr.topic.2022.high.d76b307910ae3ae51b5d",
+    "kr.topic.2022.high.f40d94993c455f66b3e6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.dd41897a4e9accbe1a",
+   "titleKorean": "컴퓨터 네트워크 — 네트워크의 주소 표현",
+   "subjectKorean": "컴퓨터 네트워크",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "네트워크의 주소 표현",
+   "summary": "컴퓨터 네트워크의 네트워크의 주소 표현 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.106f58a6e530f01de4a2",
+    "kr.topic.2022.high.18895a82ea5626e684fc",
+    "kr.topic.2022.high.3cb03eb408ea38375416"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e057372048431b771c",
+   "titleKorean": "자료 구조 — 자료와 자료 구조",
+   "subjectKorean": "자료 구조",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "자료와 자료 구조",
+   "summary": "자료 구조의 자료와 자료 구조 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.18179413806bcfa3981e",
+    "kr.topic.2022.high.88fa418b698a40f21fd0",
+    "kr.topic.2022.high.e8faf7298098e73118fd"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e13b41ae01b8fa02fc",
+   "titleKorean": "통신 일반 — 통신 이용과 절차",
+   "subjectKorean": "통신 일반",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "통신 이용과 절차",
+   "summary": "통신 일반의 통신 이용과 절차 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.0494b977beea967fc25f",
+    "kr.topic.2022.high.2379281c1f3a402635a3",
+    "kr.topic.2022.high.45db0673814d54b44650",
+    "kr.topic.2022.high.47853ac507c26d225710",
+    "kr.topic.2022.high.699c7e48bcdd0fe61988",
+    "kr.topic.2022.high.9d5977ca2e5bc62e40db",
+    "kr.topic.2022.high.a06501c46b6385cd0c81",
+    "kr.topic.2022.high.c0aa17cb591c07e3ac7e",
+    "kr.topic.2022.high.cfe4008de9aa796246d0",
+    "kr.topic.2022.high.eaf3ce3035c3a5f15933"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e5176b0b098e1a341b",
+   "titleKorean": "사물 인터넷과 센서 제어 — 센서 제어",
+   "subjectKorean": "사물 인터넷과 센서 제어",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "센서 제어",
+   "summary": "사물 인터넷과 센서 제어의 센서 제어 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.003304ff56b22f2ad47d",
+    "kr.topic.2022.high.142581a1d33aa25121da",
+    "kr.topic.2022.high.22955b72a7188f249924",
+    "kr.topic.2022.high.32e9151f7619f40d53cb",
+    "kr.topic.2022.high.3fb949a28146bae25d50",
+    "kr.topic.2022.high.b46db32e7ffaddb3fbb0",
+    "kr.topic.2022.high.e2f11fac83b31d092749",
+    "kr.topic.2022.high.eeee0a06e41103a43307",
+    "kr.topic.2022.high.f4b43ec9a745276b157c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ea76e2d62e11d9a3ed",
+   "titleKorean": "컴퓨터 네트워크 — 네트워크 구축",
+   "subjectKorean": "컴퓨터 네트워크",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "네트워크 구축",
+   "summary": "컴퓨터 네트워크의 네트워크 구축 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.42b1030ef60ef22af7d8",
+    "kr.topic.2022.high.9656afd91f90ec1023bf",
+    "kr.topic.2022.high.e3da140e284cdb7141d1"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f19ca00924d97878f5",
+   "titleKorean": "컴퓨터 구조 — 컴퓨터 시스템의 개요",
+   "subjectKorean": "컴퓨터 구조",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "컴퓨터 시스템의 개요",
+   "summary": "컴퓨터 구조의 컴퓨터 시스템의 개요 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.a3ad532f2438418d5b43",
+    "kr.topic.2022.high.bb84ba178c00f1947e0c",
+    "kr.topic.2022.high.cee0b563d5c59a5003db",
+    "kr.topic.2022.high.e42b0201c4bc33b0e70f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f7e4d01fe6706bde5c",
+   "titleKorean": "인공지능 일반 — 인공지능 이해",
+   "subjectKorean": "인공지능 일반",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "인공지능 이해",
+   "summary": "인공지능 일반의 인공지능 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.35aa2fce7f6c2cdbbe98",
+    "kr.topic.2022.high.4cb028cd15d39f7b10a0",
+    "kr.topic.2022.high.f7709a3a1804d666b26d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fccd5268935c1fe6a4",
+   "titleKorean": "인공지능 일반 — 인공지능 프로젝트",
+   "subjectKorean": "인공지능 일반",
+   "majorFieldSlug": "information-communication",
+   "gradeBand": "10-12",
+   "domainKorean": "인공지능 프로젝트",
+   "summary": "인공지능 일반의 인공지능 프로젝트 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.2e7041b47829492f7764",
+    "kr.topic.2022.high.759b32935adabf94b7cc"
+   ]
+  }
+ ]
+}

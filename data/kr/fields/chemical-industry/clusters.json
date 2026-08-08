@@ -1,0 +1,825 @@
+{
+ "clusters": [
+  {
+   "id": "kr.cluster.2022.high.0637d390365357222d",
+   "titleKorean": "스마트 공정 제어 — 화공 계측",
+   "subjectKorean": "스마트 공정 제어",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "화공 계측",
+   "summary": "스마트 공정 제어의 화공 계측 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.00b9431fe9695b49125a",
+    "kr.topic.2022.high.1ca937c6790d91756200",
+    "kr.topic.2022.high.2a4303370e0c2549ff94",
+    "kr.topic.2022.high.3aed286b2440c80f3612",
+    "kr.topic.2022.high.6728bd4f38dabb89d474",
+    "kr.topic.2022.high.6c104bff34d58115d9c1",
+    "kr.topic.2022.high.6cdd8335f8ec3eb936b0",
+    "kr.topic.2022.high.8bdbe383e5211b02e220",
+    "kr.topic.2022.high.b57b287162ca76d757d6",
+    "kr.topic.2022.high.e8a5ca9883da96aeb6ba"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.07f49db1ee318f223c",
+   "titleKorean": "바이오 기초 화학 — 생명의 화학",
+   "subjectKorean": "바이오 기초 화학",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "생명의 화학",
+   "summary": "바이오 기초 화학의 생명의 화학 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.23a7fccf4aec811b32e4",
+    "kr.topic.2022.high.60f6f46946a0976f2c84",
+    "kr.topic.2022.high.ab46b839741bc64d7a6a",
+    "kr.topic.2022.high.d8231ba12a390aa3e02f",
+    "kr.topic.2022.high.df9bef9e2818e527ec1d",
+    "kr.topic.2022.high.eb890a34d7a028f6cc72"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0c2df17eb67178f126",
+   "titleKorean": "스마트 공정 제어 — 공정 자동화",
+   "subjectKorean": "스마트 공정 제어",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "공정 자동화",
+   "summary": "스마트 공정 제어의 공정 자동화 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.20026e44e7c425e1664b",
+    "kr.topic.2022.high.245a21d61363692998ec",
+    "kr.topic.2022.high.4757ebaeb6debe6b6bc2",
+    "kr.topic.2022.high.669dc496ceaeee8da253",
+    "kr.topic.2022.high.7a6b803cb58a52fad8f8",
+    "kr.topic.2022.high.d0a08bf7cd6800f6c28e",
+    "kr.topic.2022.high.d42e2823f9d3cc2afa51"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0c989485517224da1b",
+   "titleKorean": "에너지 화공 소재 생산 — 수소 생산 및 저장 소재",
+   "subjectKorean": "에너지 화공 소재 생산",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "수소 생산 및 저장 소재",
+   "summary": "에너지 화공 소재 생산의 수소 생산 및 저장 소재 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.426f4b3ca813ad68538b",
+    "kr.topic.2022.high.abe188fb79e297862234"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.22cf46a27b1c7915cb",
+   "titleKorean": "화공 플랜트 기계 — 화공 플랜트 기계요소",
+   "subjectKorean": "화공 플랜트 기계",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "화공 플랜트 기계요소",
+   "summary": "화공 플랜트 기계의 화공 플랜트 기계요소 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.1b029d798ea5c3a60d4c",
+    "kr.topic.2022.high.25a5ccd498250d98ed00",
+    "kr.topic.2022.high.5a1965a4ef4b51474284",
+    "kr.topic.2022.high.993585f61efb8166f2e0",
+    "kr.topic.2022.high.9a06a4fa3d15a2c841e0",
+    "kr.topic.2022.high.a8d29d63dc328fc2791d",
+    "kr.topic.2022.high.c04af82463894f90934b",
+    "kr.topic.2022.high.f100144f658add567332"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.247fc069040ec00c9f",
+   "titleKorean": "바이오 기초 화학 — 물의 화학",
+   "subjectKorean": "바이오 기초 화학",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "물의 화학",
+   "summary": "바이오 기초 화학의 물의 화학 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.1bcb527728470bc583ba",
+    "kr.topic.2022.high.30120fd4dda92aacc3f7",
+    "kr.topic.2022.high.68df415e93f2fab9f77d",
+    "kr.topic.2022.high.6a38fe30ca1b2fce0784",
+    "kr.topic.2022.high.aff67db7c9ef9aaccf01",
+    "kr.topic.2022.high.fd19abe502e2324d1b29"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.25342115008f9c5feb",
+   "titleKorean": "제조 화학 — 전기 화학 공업",
+   "subjectKorean": "제조 화학",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "전기 화학 공업",
+   "summary": "제조 화학의 전기 화학 공업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 15,
+   "topics": [
+    "kr.topic.2022.high.02e71e377489dc641d84",
+    "kr.topic.2022.high.135d270fbaa2cba8c7b6",
+    "kr.topic.2022.high.1ab72d688d3e09c7b2bf",
+    "kr.topic.2022.high.410bcedc863064d4869d",
+    "kr.topic.2022.high.4c08dc154135970a735b",
+    "kr.topic.2022.high.6474093ed9abffc45887",
+    "kr.topic.2022.high.7f07ddd905da46077eb3",
+    "kr.topic.2022.high.9115bd2583e4ad0c38a1",
+    "kr.topic.2022.high.9e5fa519daf69d782704",
+    "kr.topic.2022.high.a3a19df47c2318b8d65d",
+    "kr.topic.2022.high.a3b1a720a8e73fb1f397",
+    "kr.topic.2022.high.af84ea1a46e22ec07af0",
+    "kr.topic.2022.high.c052e0b313ff0ccaf469",
+    "kr.topic.2022.high.d4813ec5739e239fd345",
+    "kr.topic.2022.high.fda4896d9904faf828df"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2c139eb189034ead67",
+   "titleKorean": "바이오 기초 화학 — 세포",
+   "subjectKorean": "바이오 기초 화학",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "세포",
+   "summary": "바이오 기초 화학의 세포 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.59c746b5b6c209b2d8da",
+    "kr.topic.2022.high.7649dc850899dd05fb24",
+    "kr.topic.2022.high.9f927ebbb0610a4b9aab",
+    "kr.topic.2022.high.ac34010cb2d6bcc50381",
+    "kr.topic.2022.high.bdb39849d94699cb714b",
+    "kr.topic.2022.high.cb71dbdc52a1900acb1c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2fbb88a064f52a4765",
+   "titleKorean": "화공 플랜트 전기 — 화공 플랜트 전기 기기",
+   "subjectKorean": "화공 플랜트 전기",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "화공 플랜트 전기 기기",
+   "summary": "화공 플랜트 전기의 화공 플랜트 전기 기기 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.08a211af44259e38deba",
+    "kr.topic.2022.high.21a7d3f7183bd4517242",
+    "kr.topic.2022.high.21cd3b430de32fc558fe",
+    "kr.topic.2022.high.7a4dc449d2ff16707bc9",
+    "kr.topic.2022.high.b74c72c5c04d5e2830b6",
+    "kr.topic.2022.high.e1f807aa45b55db031de"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.31dca7d9a56b1e6ffe",
+   "titleKorean": "에너지 화공 소재 생산 — 에너지 화공 소재 개요",
+   "subjectKorean": "에너지 화공 소재 생산",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "에너지 화공 소재 개요",
+   "summary": "에너지 화공 소재 생산의 에너지 화공 소재 개요 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.4e584bb605f943086473",
+    "kr.topic.2022.high.50d18d8e3bdc5db928ca",
+    "kr.topic.2022.high.67dfd8293be1b3133d21"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.340987f853708c7a62",
+   "titleKorean": "제조 화학 — 제조 화학의 개요",
+   "subjectKorean": "제조 화학",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "제조 화학의 개요",
+   "summary": "제조 화학의 제조 화학의 개요 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.209c559807e9352b4556",
+    "kr.topic.2022.high.2629b7ab7d86611f46ec",
+    "kr.topic.2022.high.5aa41a10e26788614f7a",
+    "kr.topic.2022.high.63ced3bf0c3f53290b7d",
+    "kr.topic.2022.high.7961e7b1fc4b916e702a",
+    "kr.topic.2022.high.89b6378eb7b3d659b85e",
+    "kr.topic.2022.high.8c3a693c7f558af868db",
+    "kr.topic.2022.high.ae5316960ec029c81f49",
+    "kr.topic.2022.high.d27829445f88eb3f6f2b",
+    "kr.topic.2022.high.d5e6a0841589ce95bc2b",
+    "kr.topic.2022.high.f1c91dd1f6a8b16a7565",
+    "kr.topic.2022.high.fbc6a0f27aab3a860385"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3c2a4d255b06b57ba3",
+   "titleKorean": "화공 플랜트 기계 — 보일러",
+   "subjectKorean": "화공 플랜트 기계",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "보일러",
+   "summary": "화공 플랜트 기계의 보일러 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.4722ff0de461128ff0c6",
+    "kr.topic.2022.high.76189b2a7fc14449663d",
+    "kr.topic.2022.high.bd0a788c267fd055ae24",
+    "kr.topic.2022.high.bfb633b95943179bd6cd"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3c8233b0282eaff4fb",
+   "titleKorean": "에너지 공업 기초 — 에너지 개요",
+   "subjectKorean": "에너지 공업 기초",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "에너지 개요",
+   "summary": "에너지 공업 기초의 에너지 개요 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.a46bedbf38c73f1801aa",
+    "kr.topic.2022.high.c7717c1011e2c6a8e9d0",
+    "kr.topic.2022.high.c80fd6be16cae38ac75d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.446efcb34ca36257f6",
+   "titleKorean": "스마트 공정 제어 — 제어 장치",
+   "subjectKorean": "스마트 공정 제어",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "제어 장치",
+   "summary": "스마트 공정 제어의 제어 장치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.072a529f958bd15eff66",
+    "kr.topic.2022.high.0a2acdc7a7a563d014a0",
+    "kr.topic.2022.high.187db017a27bcfbd001e",
+    "kr.topic.2022.high.298ca9a0ed457998f7b3",
+    "kr.topic.2022.high.35b9b418adb33f584bbf",
+    "kr.topic.2022.high.3895cad58d1bce7d6c4d",
+    "kr.topic.2022.high.3de1aab7c413439e4e40",
+    "kr.topic.2022.high.58ff60a25fc8a75e9ef1",
+    "kr.topic.2022.high.80e74620613d12636d4a",
+    "kr.topic.2022.high.8f91ea60bfe76f947cfd",
+    "kr.topic.2022.high.914102825ad856e84fea",
+    "kr.topic.2022.high.d93256df8a464ac68457",
+    "kr.topic.2022.high.e2af5d45137674da48c7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.457040127730e2074a",
+   "titleKorean": "에너지 공업 기초 — 원자력 에너지",
+   "subjectKorean": "에너지 공업 기초",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "원자력 에너지",
+   "summary": "에너지 공업 기초의 원자력 에너지 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.22fb1d89e509cd931e14",
+    "kr.topic.2022.high.ad614c28d5bf9a7813c7",
+    "kr.topic.2022.high.e529ff7abdb57c3d0a05"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.47b1aad5823b94b913",
+   "titleKorean": "바이오 기초 화학 — 뉴클레오티드와 핵산",
+   "subjectKorean": "바이오 기초 화학",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "뉴클레오티드와 핵산",
+   "summary": "바이오 기초 화학의 뉴클레오티드와 핵산 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.2fdf19f915918902e6c0",
+    "kr.topic.2022.high.3fa34569df5a6b9686c8",
+    "kr.topic.2022.high.7beb71bc220d9284ee55",
+    "kr.topic.2022.high.c345ffe2c0c40cca6d94"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4ea0708e5471d2d1f1",
+   "titleKorean": "화공 플랜트 기계 — 화공 플랜트 기계 일반",
+   "subjectKorean": "화공 플랜트 기계",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "화공 플랜트 기계 일반",
+   "summary": "화공 플랜트 기계의 화공 플랜트 기계 일반 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.289e47adc82657c47176",
+    "kr.topic.2022.high.7cb8b7b0b002a1a3d4ba",
+    "kr.topic.2022.high.89b056eb247988870398",
+    "kr.topic.2022.high.c81a90b2a78b716e9a59",
+    "kr.topic.2022.high.cabbab87faa9fb8935d3",
+    "kr.topic.2022.high.d89dfe9ee9542de7b4ee",
+    "kr.topic.2022.high.f97395b22fc97f8140d1",
+    "kr.topic.2022.high.fd61ed12c8557f0c46c6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4f9dfba393d6cc1214",
+   "titleKorean": "에너지 화공 소재 생산 — 연료 전지 소재",
+   "subjectKorean": "에너지 화공 소재 생산",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "연료 전지 소재",
+   "summary": "에너지 화공 소재 생산의 연료 전지 소재 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.356aea8b7da333afecad",
+    "kr.topic.2022.high.4d134882d735e50f1c01",
+    "kr.topic.2022.high.ed91f9258ccb54d3afb1"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.55cc40ba296a60f179",
+   "titleKorean": "바이오 기초 화학 — 바이오 기기 분석의 기초",
+   "subjectKorean": "바이오 기초 화학",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "바이오 기기 분석의 기초",
+   "summary": "바이오 기초 화학의 바이오 기기 분석의 기초 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.16fad92e43a0592e4942",
+    "kr.topic.2022.high.3e206df8cee7f5d7e7fa",
+    "kr.topic.2022.high.7e27a78383b830bab987",
+    "kr.topic.2022.high.8599b6878f0c2ce88285",
+    "kr.topic.2022.high.b337908f5a933a18422f",
+    "kr.topic.2022.high.fbbdad887a0951209ea2"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.595f6f6b4daccc5c8f",
+   "titleKorean": "에너지 공업 기초 — 에너지 수송 및 저장",
+   "subjectKorean": "에너지 공업 기초",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "에너지 수송 및 저장",
+   "summary": "에너지 공업 기초의 에너지 수송 및 저장 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.128b49ef19bb8d378dfa",
+    "kr.topic.2022.high.6d8d8d1b3e3fa3fb7f6f",
+    "kr.topic.2022.high.db7efbe0231247069dde"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7ac6d9caf6d12eae10",
+   "titleKorean": "스마트 공정 제어 — 공정 제어",
+   "subjectKorean": "스마트 공정 제어",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "공정 제어",
+   "summary": "스마트 공정 제어의 공정 제어 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.0ec264a8b9f8c4915eb8",
+    "kr.topic.2022.high.11db6a59ff986defcdae",
+    "kr.topic.2022.high.60a5478203eb7379c859",
+    "kr.topic.2022.high.6ae074604f2da0972f97",
+    "kr.topic.2022.high.727661c4e67a36136fb9",
+    "kr.topic.2022.high.7678375465b9130ac788",
+    "kr.topic.2022.high.8bb317e0f56cbdc8a1a4",
+    "kr.topic.2022.high.b68bdac2c27c12b38044",
+    "kr.topic.2022.high.c45f752245e9b5f6dac2",
+    "kr.topic.2022.high.c6d04ff185322f99fe6d",
+    "kr.topic.2022.high.c8d81cf9aa4b2197804c",
+    "kr.topic.2022.high.d95b1b3ffd80d13cfd57",
+    "kr.topic.2022.high.f30f0f047cf6a3b15e57"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7f1b673d6c550239fe",
+   "titleKorean": "공업 화학 — 측정과 계측",
+   "subjectKorean": "공업 화학",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "측정과 계측",
+   "summary": "공업 화학의 측정과 계측 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.ba8a45a387a8747273e0",
+    "kr.topic.2022.high.bb4a76c0200aa8b229c5",
+    "kr.topic.2022.high.fbb2d1c9f26a95c8012b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.82b96712f14e1feb75",
+   "titleKorean": "화공 플랜트 전기 — 화공 플랜트 전기 설비",
+   "subjectKorean": "화공 플랜트 전기",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "화공 플랜트 전기 설비",
+   "summary": "화공 플랜트 전기의 화공 플랜트 전기 설비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.149992c78e6cb46afbe7",
+    "kr.topic.2022.high.18e91434c387736393e1",
+    "kr.topic.2022.high.1c6b9e42895b033f6f6f",
+    "kr.topic.2022.high.b828772a25da28423140",
+    "kr.topic.2022.high.cb4e8892a9dbde1fdc24",
+    "kr.topic.2022.high.f3d06142bcf068ada91a",
+    "kr.topic.2022.high.f6ea598e4534603e5cc6",
+    "kr.topic.2022.high.fab48a62a1a1048a7236"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.839a8ad2ebaf5d41b8",
+   "titleKorean": "에너지 공업 기초 — 에너지와 환경",
+   "subjectKorean": "에너지 공업 기초",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "에너지와 환경",
+   "summary": "에너지 공업 기초의 에너지와 환경 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.28577e7a1b51e5a75439",
+    "kr.topic.2022.high.89c5e889bc56d4770881"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.8dfd18344b18d13a5f",
+   "titleKorean": "에너지 공업 기초 — 화석 연료",
+   "subjectKorean": "에너지 공업 기초",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "화석 연료",
+   "summary": "에너지 공업 기초의 화석 연료 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.25c6fd924b22975287cc",
+    "kr.topic.2022.high.44be25380e8012268661",
+    "kr.topic.2022.high.495d80ae42b1888313a9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9461036c1383e23068",
+   "titleKorean": "제조 화학 — 유기 화합물 제조",
+   "subjectKorean": "제조 화학",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "유기 화합물 제조",
+   "summary": "제조 화학의 유기 화합물 제조 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 19,
+   "topics": [
+    "kr.topic.2022.high.028e73ca5c78b5dab968",
+    "kr.topic.2022.high.17267f96314cba9902e2",
+    "kr.topic.2022.high.334fed07c72925307d64",
+    "kr.topic.2022.high.4808d9fea3c0abfe4839",
+    "kr.topic.2022.high.53d4bd7bbd8de9e9e310",
+    "kr.topic.2022.high.592ad64a1b41c2ea5b22",
+    "kr.topic.2022.high.71c124dd3fb9a39e45c8",
+    "kr.topic.2022.high.aab12c7a594b3aef68e4",
+    "kr.topic.2022.high.acb94243a01b1f7fccd8",
+    "kr.topic.2022.high.ae6393f4ecd56bebd49f",
+    "kr.topic.2022.high.ae73ba3dbe2fe3d1e331",
+    "kr.topic.2022.high.ba7f0172a480fbda7a7e",
+    "kr.topic.2022.high.c6e6317b45441f4ac640",
+    "kr.topic.2022.high.c9b36c4a16b1fabf20f6",
+    "kr.topic.2022.high.d1e40d1bdc9e19a2c7f6",
+    "kr.topic.2022.high.e5d6bbb90c3d2c322a94",
+    "kr.topic.2022.high.e84898a71b73537614c3",
+    "kr.topic.2022.high.e882b7121f3ab3af0dc0",
+    "kr.topic.2022.high.ec2174d0cb1403eb4013"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9a7e933bcee67e8d00",
+   "titleKorean": "바이오 기초 화학 — 아미노산과 단백질",
+   "subjectKorean": "바이오 기초 화학",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "아미노산과 단백질",
+   "summary": "바이오 기초 화학의 아미노산과 단백질 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.9051a771c0dd24614884",
+    "kr.topic.2022.high.abcb35d22820e622b700",
+    "kr.topic.2022.high.bc3e66b792f8174c7583",
+    "kr.topic.2022.high.ecd923c4198d4aef540c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9b1fc2d00edab56495",
+   "titleKorean": "에너지 공업 기초 — 신재생 에너지",
+   "subjectKorean": "에너지 공업 기초",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "신재생 에너지",
+   "summary": "에너지 공업 기초의 신재생 에너지 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.0bebfa505ac9b53d405d",
+    "kr.topic.2022.high.46be5994e560524a937f",
+    "kr.topic.2022.high.4cd1aa417a1e59e90bba",
+    "kr.topic.2022.high.8cd655875dc5e56314da",
+    "kr.topic.2022.high.dc2d05d39d57565031b9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a4b1e26a0f8d761de8",
+   "titleKorean": "공업 화학 — 무기 화학",
+   "subjectKorean": "공업 화학",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "무기 화학",
+   "summary": "공업 화학의 무기 화학 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.064577277228050efd53",
+    "kr.topic.2022.high.12b4503b4a21b989064e",
+    "kr.topic.2022.high.66052b8f9917185fc263",
+    "kr.topic.2022.high.ca6af05021daf2b12b04",
+    "kr.topic.2022.high.f6929c5ab12a6eb5dab8"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a6788177e91bc69468",
+   "titleKorean": "공업 화학 — 화학 반응",
+   "subjectKorean": "공업 화학",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "화학 반응",
+   "summary": "공업 화학의 화학 반응 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.1fb520e6c04aa8af0e8f",
+    "kr.topic.2022.high.52fc0ae554598063c432",
+    "kr.topic.2022.high.672a6c85a76535a96301",
+    "kr.topic.2022.high.75908883ad872ecd4fd0"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.aedc75de0a6b95dc42",
+   "titleKorean": "에너지 화공 소재 생산 — 이차 전지 소재",
+   "subjectKorean": "에너지 화공 소재 생산",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "이차 전지 소재",
+   "summary": "에너지 화공 소재 생산의 이차 전지 소재 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.1785110b719fe97167ce",
+    "kr.topic.2022.high.503e8a2f9f75c01d532b",
+    "kr.topic.2022.high.c721deb95982f83d88d2",
+    "kr.topic.2022.high.d2e4ab631d7afe1d6201",
+    "kr.topic.2022.high.e63b2ca89b02d0894421"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b0c75584e250777ad8",
+   "titleKorean": "화공 플랜트 기계 — 수송 장치",
+   "subjectKorean": "화공 플랜트 기계",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "수송 장치",
+   "summary": "화공 플랜트 기계의 수송 장치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.42b5a903729cbc52c1ef",
+    "kr.topic.2022.high.6eca5456a4d4123a0baf",
+    "kr.topic.2022.high.a1e21a355f0090fdf981",
+    "kr.topic.2022.high.bd634d05ca1c65ea79e6",
+    "kr.topic.2022.high.c9648ae90bed4f7c8ffd"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b1a68cab4a017a3083",
+   "titleKorean": "화공 플랜트 전기 — 화공 플랜트 전자 기초",
+   "subjectKorean": "화공 플랜트 전기",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "화공 플랜트 전자 기초",
+   "summary": "화공 플랜트 전기의 화공 플랜트 전자 기초 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.054d3002cc8fc6bbcca6",
+    "kr.topic.2022.high.25fd76a798eac9df93ae",
+    "kr.topic.2022.high.3a6a806cc13299cf3a4f",
+    "kr.topic.2022.high.469c919e9a1120b2e687",
+    "kr.topic.2022.high.5feb001f761619dfa8f7",
+    "kr.topic.2022.high.682bbda949e73f777a20",
+    "kr.topic.2022.high.715ca23178b7b0342a9d",
+    "kr.topic.2022.high.d33075fda130774838bd",
+    "kr.topic.2022.high.ed1e8e5f3d1e696ca1e9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b338dd2b45edc3b55f",
+   "titleKorean": "화공 플랜트 전기 — 화공 플랜트 자동화 설비",
+   "subjectKorean": "화공 플랜트 전기",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "화공 플랜트 자동화 설비",
+   "summary": "화공 플랜트 전기의 화공 플랜트 자동화 설비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.035b60032f4ffeb89c44",
+    "kr.topic.2022.high.0fc200dd00b1eb9abd90",
+    "kr.topic.2022.high.183141a664f0a423bc32",
+    "kr.topic.2022.high.384c4ac023e2add2ee84",
+    "kr.topic.2022.high.aeddc145fd76067dbfe7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b8b64e31c70e719c09",
+   "titleKorean": "화공 플랜트 전기 — 화공 플랜트 전기 기초",
+   "subjectKorean": "화공 플랜트 전기",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "화공 플랜트 전기 기초",
+   "summary": "화공 플랜트 전기의 화공 플랜트 전기 기초 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.232c56ba95c691f0616f",
+    "kr.topic.2022.high.3f92226a4bc410a8cf7e",
+    "kr.topic.2022.high.42357a73f1d6c2fd9810",
+    "kr.topic.2022.high.471eb4765b93ac46524d",
+    "kr.topic.2022.high.816c872ea66ef25e2c77",
+    "kr.topic.2022.high.9d361f25f6d0f43139f9",
+    "kr.topic.2022.high.a53f97637a3376a3aec3",
+    "kr.topic.2022.high.e6cf03ad345324db4cba",
+    "kr.topic.2022.high.f1cb174e31b717c8ee56"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.be99c16f30eda1b43b",
+   "titleKorean": "공업 화학 — 화학 공업 양론",
+   "subjectKorean": "공업 화학",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "화학 공업 양론",
+   "summary": "공업 화학의 화학 공업 양론 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.162e64efcef1a7ac7717",
+    "kr.topic.2022.high.aea1477bf34159708ea8",
+    "kr.topic.2022.high.b2532f11c62a1150c41c",
+    "kr.topic.2022.high.c3eeb62fadea5417d81e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c0416af6d4323b501b",
+   "titleKorean": "공업 화학 — 유기 화학",
+   "subjectKorean": "공업 화학",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "유기 화학",
+   "summary": "공업 화학의 유기 화학 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.06ac45714210a68d5ba0",
+    "kr.topic.2022.high.0d9f91f86cf5942476ee",
+    "kr.topic.2022.high.3807d54f2365e494506e",
+    "kr.topic.2022.high.3e4b41384da4a1910884",
+    "kr.topic.2022.high.3f47f0b906f43357805d",
+    "kr.topic.2022.high.480fa1c16e9f5afba717"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c292cdd5852f296852",
+   "titleKorean": "에너지 화공 소재 생산 — 화석 연료 에너지 화공 소재",
+   "subjectKorean": "에너지 화공 소재 생산",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "화석 연료 에너지 화공 소재",
+   "summary": "에너지 화공 소재 생산의 화석 연료 에너지 화공 소재 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.2e19af82928d99690b12",
+    "kr.topic.2022.high.9de80fb1ad31f659ecdb",
+    "kr.topic.2022.high.e34c43970f2e09c3d3fb"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ce97282dcfff0823ac",
+   "titleKorean": "제조 화학 — 무기 화합물 제조",
+   "subjectKorean": "제조 화학",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "무기 화합물 제조",
+   "summary": "제조 화학의 무기 화합물 제조 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.004c2928c170eefe1094",
+    "kr.topic.2022.high.130d92604fa097581c15",
+    "kr.topic.2022.high.134e99e8803424085ced",
+    "kr.topic.2022.high.1af6418cc73c162498cb",
+    "kr.topic.2022.high.2c96b103722e7a33c7b2",
+    "kr.topic.2022.high.8a2ec2331888ca6de0b2",
+    "kr.topic.2022.high.90ff9f2f6ffb42ec6ad1",
+    "kr.topic.2022.high.a1fc4a21d651e081b469",
+    "kr.topic.2022.high.c60d7dcc07d706ec2217",
+    "kr.topic.2022.high.dbdd164cb51f088db498",
+    "kr.topic.2022.high.ebd0498dbca90895772f",
+    "kr.topic.2022.high.f6227afd57ee3ee62a0a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.de7e27f3db996b0349",
+   "titleKorean": "화공 플랜트 기계 — 냉동 장치",
+   "subjectKorean": "화공 플랜트 기계",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "냉동 장치",
+   "summary": "화공 플랜트 기계의 냉동 장치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.27e57c98f8ad92ac01d7",
+    "kr.topic.2022.high.5ebf9e2132afbb608566",
+    "kr.topic.2022.high.89026fb211ec448d761b",
+    "kr.topic.2022.high.c88df5e28400335059c7",
+    "kr.topic.2022.high.fadd9535d5b302499ddb"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e323d18186383d7f0f",
+   "titleKorean": "에너지 화공 소재 생산 — 태양 전지 소재",
+   "subjectKorean": "에너지 화공 소재 생산",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "태양 전지 소재",
+   "summary": "에너지 화공 소재 생산의 태양 전지 소재 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.26ac8cd0f4ed46a9f0ce",
+    "kr.topic.2022.high.65ea85c257b238422122",
+    "kr.topic.2022.high.c0e2ddec1f3b88a6d489"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f70ed0d5d2a156b3de",
+   "titleKorean": "바이오 기초 화학 — 효소, 탄수화물과 지질",
+   "subjectKorean": "바이오 기초 화학",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "효소, 탄수화물과 지질",
+   "summary": "바이오 기초 화학의 효소, 탄수화물과 지질 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.213b6ce564f84c19ef77",
+    "kr.topic.2022.high.4ba3f03ff054fd3d336b",
+    "kr.topic.2022.high.5137bcd3df6edbaa6bab",
+    "kr.topic.2022.high.6ffa8adb7c2aaf28dbc0",
+    "kr.topic.2022.high.8f1997ae09c695ed1441",
+    "kr.topic.2022.high.d997ca92d3b3c9135ae9",
+    "kr.topic.2022.high.f99a79e4a99dfbcc34bf"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fabdf8164e0856b89d",
+   "titleKorean": "공업 화학 — 물질의 구조",
+   "subjectKorean": "공업 화학",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "물질의 구조",
+   "summary": "공업 화학의 물질의 구조 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.1e2467cfe1e1db5d020b",
+    "kr.topic.2022.high.508d9c931e9e5c2328ea",
+    "kr.topic.2022.high.a3c4ce48b958cdb83716",
+    "kr.topic.2022.high.c5a1fad0ed091df754da"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fc7950ab9835faa041",
+   "titleKorean": "공업 화학 — 환경과 안전",
+   "subjectKorean": "공업 화학",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "환경과 안전",
+   "summary": "공업 화학의 환경과 안전 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.006556a60403f78b81dd",
+    "kr.topic.2022.high.16cafc681ed068bab78b",
+    "kr.topic.2022.high.1ec7f08654a3c56ba6ab",
+    "kr.topic.2022.high.c9782b77d8bf41b451a7",
+    "kr.topic.2022.high.ed2fc9b263ff76a2ae39"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fca3814e66d37d1217",
+   "titleKorean": "공업 화학 — 물질의 상태와 용액",
+   "subjectKorean": "공업 화학",
+   "majorFieldSlug": "chemical-industry",
+   "gradeBand": "10-12",
+   "domainKorean": "물질의 상태와 용액",
+   "summary": "공업 화학의 물질의 상태와 용액 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.35aafc52a5521e28960a",
+    "kr.topic.2022.high.659d5fe5c8a80fd3ac97",
+    "kr.topic.2022.high.6ceec83129f4779b94b4",
+    "kr.topic.2022.high.f63d0f2a056db2db179b",
+    "kr.topic.2022.high.fde4ff60e6b282be5c02"
+   ]
+  }
+ ]
+}

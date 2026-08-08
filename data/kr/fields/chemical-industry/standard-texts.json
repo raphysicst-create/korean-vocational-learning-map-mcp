@@ -1,0 +1,1973 @@
+{
+ "version": "kr-vocational-standard-texts-v1",
+ "sourceNote": "국가교육위원회 고시 제2024-3호 초·중등학교 교육과정 별책23~39(전문교과) PDF에서 추출한 성취기준 본문. 공공저작물로서 저작권법 제24조의2에 따라 출처를 표기해 이용한다.",
+ "texts": [
+  {
+   "key": "kr-2022-voc-공업-화학:[공화 01-01-01]",
+   "code": "[공화 01-01-01]",
+   "text": "물질 변화에서 물리적인 변화와 화학적인 변화를 각각 정의할 수 있으며, 물질 변화의 현상과 결과를 관찰하여 물리·화학적 변화를 구분할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-화학:[공화 01-01-02]",
+   "code": "[공화 01-01-02]",
+   "text": "화학 반응에서 반응물과 생성물의 관계를 화학 방정식으로 나타낼 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-화학:[공화 01-02-01]",
+   "code": "[공화 01-02-01]",
+   "text": "물질을 이루는 원소와 분자 간의 화학적 결합에서 이온 결합, 공유 결합, 금속 결합 및 그 밖의 결합의 원리를 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-화학:[공화 01-02-02]",
+   "code": "[공화 01-02-02]",
+   "text": "화학 결합 종류에 따라 물질의 물리적·화학적 성질을 서로 비교하여 그 차이점을 설명 할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-화학:[공화 02-01-01]",
+   "code": "[공화 02-01-01]",
+   "text": "물질의 상태를 기체, 액체, 고체로 구분하는 기준을 물리적 변화의 원리를 이용하여 설명 할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-화학:[공화 02-01-02]",
+   "code": "[공화 02-01-02]",
+   "text": "압력, 온도의 변화에 따라 물질의 상태를 예측할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-화학:[공화 02-02-01]",
+   "code": "[공화 02-02-01]",
+   "text": "용질, 용매, 용액을 정의하고, 용액의 종류를 제시할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-화학:[공화 02-02-02]",
+   "code": "[공화 02-02-02]",
+   "text": "용해도를 이해하고, 용질과 용매의 성질에 따라 용해도의 변화를 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-화학:[공화 02-02-03]",
+   "code": "[공화 02-02-03]",
+   "text": "용액의 다양한 농도와 농도 단위의 개념을 이해하고, 서로 다른 농도 단위 간의 관계를 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-화학:[공화 03-01-01]",
+   "code": "[공화 03-01-01]",
+   "text": "우리 주변 물질의 변화에서 흡열 반응과 발열 반응을 구별할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-화학:[공화 03-01-02]",
+   "code": "[공화 03-01-02]",
+   "text": "화학 반응에 수반되는 열의 출입을 엔탈피 변화로 나타내고, 헤스의 법칙을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-화학:[공화 03-02-01]",
+   "code": "[공화 03-02-01]",
+   "text": "화학 반응 속도에 영향을 주는 인자의 종류를 규명하고, 인자의 변화와 화학 반응 속도와 의 관계를 이해할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-화학:[공화 03-02-02]",
+   "code": "[공화 03-02-02]",
+   "text": "화학 평형의 개념과 르샤틀리에 법칙에 의한 화학 평형의 이동에 대해 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-화학:[공화 04-01-01]",
+   "code": "[공화 04-01-01]",
+   "text": "무기 화합물을 정의하고 물질의 분자식을 분석하여 무기 화합물을 구분할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-화학:[공화 04-01-02]",
+   "code": "[공화 04-01-02]",
+   "text": "무기 화합물의 화학적 특성에 따라 용도별 종류를 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-화학:[공화 04-01-03]",
+   "code": "[공화 04-01-03]",
+   "text": "무기 화합물을 명명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-화학:[공화 04-02-01]",
+   "code": "[공화 04-02-01]",
+   "text": "할로겐 원소와 화합물, 원소 주기율에서 제6족 원소에 해당하는 황과 황화물, 제4족 원소 에 해당하는 탄소, 규소, 주석, 납 등 비금속 화합물의 물리·화학적 성질, 제조 방법 및 용도 등을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-화학:[공화 04-03-01]",
+   "code": "[공화 04-03-01]",
+   "text": "금속의 종류 및 분류 방법을 알고 금속의 물리·화학적 성질과 이온화 경향을 이해하며, 금속 화합물의 성질, 제조 방법 및 그 용도 등을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-화학:[공화 05-01-01]",
+   "code": "[공화 05-01-01]",
+   "text": "유기 화합물을 정의하고 물질의 분자식을 분석하여 유기 화합물을 구분할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-화학:[공화 05-01-02]",
+   "code": "[공화 05-01-02]",
+   "text": "유기 화합물의 화학적 특성에 따라 용도별 종류를 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-화학:[공화 05-02-01]",
+   "code": "[공화 05-02-01]",
+   "text": "지방족 탄화수소를 정의하고 명명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-화학:[공화 05-02-02]",
+   "code": "[공화 05-02-02]",
+   "text": "지방족 탄화수소 유도체의 종류와 특성, 지방족 화합물에 존재하는 작용기의 종류와 특성 을 이해할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-화학:[공화 05-03-01]",
+   "code": "[공화 05-03-01]",
+   "text": "방향족 탄화수소를 정의하고 명명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-화학:[공화 05-03-02]",
+   "code": "[공화 05-03-02]",
+   "text": "방향족 탄화수소의 물리·화학적 성질을 이해하고, 방향족 화합물 및 그 유도체의 종류와 특성을 이해할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-화학:[공화 06-01-01]",
+   "code": "[공화 06-01-01]",
+   "text": "대표적인 화학 공정의 구성과 원료의 투입, 생산 공정의 원리를 이해할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-화학:[공화 06-01-02]",
+   "code": "[공화 06-01-02]",
+   "text": "공학용 계산기의 사용법에 대해 학습하고, 기본적인 계산을 수행할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-화학:[공화 06-02-01]",
+   "code": "[공화 06-02-01]",
+   "text": "공학용 계산기를 이용하여 화학 공정의 물질 수지를 원료 기준으로 계산할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-화학:[공화 06-03-01]",
+   "code": "[공화 06-03-01]",
+   "text": "공학용 계산기를 이용하여 화학 공정의 기초적인 에너지 수지를 계산할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-화학:[공화 07-01-01]",
+   "code": "[공화 07-01-01]",
+   "text": "화학 공정에 사용되는 계측 장비의 종류를 제시할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-화학:[공화 07-01-02]",
+   "code": "[공화 07-01-02]",
+   "text": "각각의 계측 장비의 용도에 맞추어 측정과 계측에 적절하게 사용할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-화학:[공화 07-02-01]",
+   "code": "[공화 07-02-01]",
+   "text": "유체의 물성을 측정할 수 있고, 흐름 특성을 계측 장비를 이용하여 측정할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-화학:[공화 08-01-01]",
+   "code": "[공화 08-01-01]",
+   "text": "산업 현장에서 숙지하여야 할 환경 법규를 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-화학:[공화 08-02-01]",
+   "code": "[공화 08-02-01]",
+   "text": "화학 물질을 취급하고 관리하는 기본적인 절차와 안전사고 발생 방지 및 대처법을 제시 할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-화학:[공화 08-02-02]",
+   "code": "[공화 08-02-02]",
+   "text": "실험실 안전 수칙을 확인할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-화학:[공화 08-02-03]",
+   "code": "[공화 08-02-03]",
+   "text": "실험에 사용되는 개인 보호 장구의 사용 방법을 파악할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-공업-화학:[공화 08-02-04]",
+   "code": "[공화 08-02-04]",
+   "text": "실험 장비와 기구의 사용 주의 사항을 파악할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 01-01-01]",
+   "code": "[바기 01-01-01]",
+   "text": "바이오의 개념과 의미를 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 01-01-02]",
+   "code": "[바기 01-01-02]",
+   "text": "바이오 화학의 중요성을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 01-02-01]",
+   "code": "[바기 01-02-01]",
+   "text": "생명 공학의 범위와 생명 공학의 분류에 대한 내용을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 01-02-02]",
+   "code": "[바기 01-02-02]",
+   "text": "생명 공학의 분류별 특징을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 01-03-01]",
+   "code": "[바기 01-03-01]",
+   "text": "생명 공학 기술의 발달 과정과 현재 실용화되고 있는 생명 공학 기술과 그 효과에 대하여 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 01-03-02]",
+   "code": "[바기 01-03-02]",
+   "text": "미래의 생명 공학 기술의 전망과 발전 효과를 제시할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 02-01-01]",
+   "code": "[바기 02-01-01]",
+   "text": "생물과 무생물의 차이 및 생명체의 특징을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 02-01-02]",
+   "code": "[바기 02-01-02]",
+   "text": "세포의 종류와 차이를 이해할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 02-02-01]",
+   "code": "[바기 02-02-01]",
+   "text": "세포를 이루는 소기관의 구조와 기능에 대하여 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 02-02-02]",
+   "code": "[바기 02-02-02]",
+   "text": "세포의 분화 과정을 이해하고 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 02-03-01]",
+   "code": "[바기 02-03-01]",
+   "text": "미생물의 정의를 이해하고 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 02-03-02]",
+   "code": "[바기 02-03-02]",
+   "text": "미생물의 분류와 특징을 이해하고 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 03-01-01]",
+   "code": "[바기 03-01-01]",
+   "text": "물의 구조와 그 특성에 대해 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 03-01-02]",
+   "code": "[바기 03-01-02]",
+   "text": "물의 생물학적 중요성과 용매로서의 물에 대해 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 03-02-01]",
+   "code": "[바기 03-02-01]",
+   "text": "수소 이온의 농도에 대해 이해하고, 산과 염기의 개념을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 03-02-02]",
+   "code": "[바기 03-02-02]",
+   "text": "이온화 및 산-염기의 개념을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 03-03-01]",
+   "code": "[바기 03-03-01]",
+   "text": "물의 생체 내에서의 완충 작용에 대해 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 03-03-02]",
+   "code": "[바기 03-03-02]",
+   "text": "전해질의 역할에 대해 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 04-01-01]",
+   "code": "[바기 04-01-01]",
+   "text": "아미노산의 종류와 구조를 이해하고 분류할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 04-01-02]",
+   "code": "[바기 04-01-02]",
+   "text": "아미노산의 구조에 따른 화학적 성질을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 04-02-01]",
+   "code": "[바기 04-02-01]",
+   "text": "단백질의 종류와 구조를 이해하고 분류할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 04-02-02]",
+   "code": "[바기 04-02-02]",
+   "text": "단백질의 물리·화학적 성질을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 05-01-01]",
+   "code": "[바기 05-01-01]",
+   "text": "효소의 분류와 특징에 대해 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 05-01-02]",
+   "code": "[바기 05-01-02]",
+   "text": "효소 반응의 성격과 특징에 대해 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 05-01-03]",
+   "code": "[바기 05-01-03]",
+   "text": "생물 전환, 효소의 고정화에 대한 내용을 이해하고 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 05-02-01]",
+   "code": "[바기 05-02-01]",
+   "text": "탄수화물의 정의를 이해하고, 탄수화물의 구조와 종류를 분류할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 05-02-02]",
+   "code": "[바기 05-02-02]",
+   "text": "탄수화물의 종류에 따른 물리·화학적 성질을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 05-03-01]",
+   "code": "[바기 05-03-01]",
+   "text": "지질의 정의를 이해하고, 지질의 구조와 종류를 분류할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 05-03-02]",
+   "code": "[바기 05-03-02]",
+   "text": "지질의 종류에 따른 물리·화학적 성질을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 06-01-01]",
+   "code": "[바기 06-01-01]",
+   "text": "DNA와 RNA의 구조와 그 특징들을 이해하고 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 06-01-02]",
+   "code": "[바기 06-01-02]",
+   "text": "핵산의 물리·화학적 성질과 역할을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 06-02-01]",
+   "code": "[바기 06-02-01]",
+   "text": "유전 정보의 전달 과정을 통한 단백질의 합성 과정을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 06-02-02]",
+   "code": "[바기 06-02-02]",
+   "text": "유전자 변형 기술의 원리를 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 07-01-01]",
+   "code": "[바기 07-01-01]",
+   "text": "흡수 분광법의 분석 원리와 분석 장치의 구성에 대해 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 07-01-02]",
+   "code": "[바기 07-01-02]",
+   "text": "흡수 분광법의 분석 방법을 이해하고, 분광기를 조작할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 07-02-01]",
+   "code": "[바기 07-02-01]",
+   "text": "크로마토그래피의 분석 원리와 종류에 대해 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 07-02-02]",
+   "code": "[바기 07-02-02]",
+   "text": "크로마토그래피의 종류에 다른 특징과 분석 방법을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 07-03-01]",
+   "code": "[바기 07-03-01]",
+   "text": "현미경의 분석 원리와 종류에 대해 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-바이오-기초-화학:[바기 07-03-02]",
+   "code": "[바기 07-03-02]",
+   "text": "현미경의 종류에 따른 특징과 분석 방법을 이해하고 조작할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 01-01-01]",
+   "code": "[공제 01-01-01]",
+   "text": "계측과 제어의 개념을 파악하고, 필요성에 대해 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 01-01-02]",
+   "code": "[공제 01-01-02]",
+   "text": "공정 제어계의 기본 요소를 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 01-01-03]",
+   "code": "[공제 01-01-03]",
+   "text": "공정 제어 장치의 기본 기호와 상세 기호에 대해 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 01-02-01]",
+   "code": "[공제 01-02-01]",
+   "text": "정성적 제어와 정량적 제어의 차이점과 종류에 대해 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 01-02-02]",
+   "code": "[공제 01-02-02]",
+   "text": "수동 제어와 자동 제어의 특징을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 01-02-03]",
+   "code": "[공제 01-02-03]",
+   "text": "아날로그 제어와 디지털 제어의 특징을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 01-03-01]",
+   "code": "[공제 01-03-01]",
+   "text": "자동 제어의 필요성과 장점에 대해 제시할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 01-03-02]",
+   "code": "[공제 01-03-02]",
+   "text": "자동 제어의 분류 방법에 대해 제시하고, 열린 회로 제어와 닫힘 회로 제어를 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 01-03-03]",
+   "code": "[공제 01-03-03]",
+   "text": "자동 제어 응용 분야에 대해 제시할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 01-04-01]",
+   "code": "[공제 01-04-01]",
+   "text": "화학 공정 제어의 목적과 특징에 대해 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 01-04-02]",
+   "code": "[공제 01-04-02]",
+   "text": "공정 제어 시스템의 구성에 대해 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 01-05-01]",
+   "code": "[공제 01-05-01]",
+   "text": "공정 흐름도(PFD) 도면에 표시하는 기호와 작성되는 일반적인 원칙을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 01-05-02]",
+   "code": "[공제 01-05-02]",
+   "text": "공정 배관 계장도(P&ID) 도면에 표시하는 기호와 작성되는 일반적인 원칙을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 02-01-01]",
+   "code": "[공제 02-01-01]",
+   "text": "센서의 기능, 종류, 용도를 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 02-01-02]",
+   "code": "[공제 02-01-02]",
+   "text": "스마트 센서의 종류와 활용 분야에 대해 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 02-02-01]",
+   "code": "[공제 02-02-01]",
+   "text": "공정 변량의 개념과 공정 변량 계측의 필요성에 대하여 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 02-02-02]",
+   "code": "[공제 02-02-02]",
+   "text": "화학 공정에서의 공정 변량 계측의 종류를 구분할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 02-03-01]",
+   "code": "[공제 02-03-01]",
+   "text": "계측 신호 변환의 개념과 그 과정을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 02-03-02]",
+   "code": "[공제 02-03-02]",
+   "text": "계측 시스템의 구성과 측정값의 변환과 전송에 대해 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 02-03-03]",
+   "code": "[공제 02-03-03]",
+   "text": "화학 공정의 분산 제어 시스템(DCS)을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 02-04-01]",
+   "code": "[공제 02-04-01]",
+   "text": "화학 공정에 활용되는 계측기의 구성과 성능에 대해 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 02-04-02]",
+   "code": "[공제 02-04-02]",
+   "text": "화학 공장에서 공정 변량의 계측 방법을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 02-04-03]",
+   "code": "[공제 02-04-03]",
+   "text": "간단한 물리량을 제어할 수 있는 장치를 제작할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 03-01-01]",
+   "code": "[공제 03-01-01]",
+   "text": "시퀀스 제어를 사례를 들어 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 03-01-02]",
+   "code": "[공제 03-01-02]",
+   "text": "화학 공정의 시퀀스 제어용 기기의 종류를 제시하고, 구조와 특징을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 03-01-03]",
+   "code": "[공제 03-01-03]",
+   "text": "화학 공정의 간단한 시퀀스도를 작성하고, 기기 식별 문자를 표기할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 03-02-01]",
+   "code": "[공제 03-02-01]",
+   "text": "마이크로프로세서의 기본 원리와 구성 요소, 기능에 대하여 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 03-02-02]",
+   "code": "[공제 03-02-02]",
+   "text": "화학 공정의 마이크로프로세서 프로그램 언어에 대하여 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 03-03-01]",
+   "code": "[공제 03-03-01]",
+   "text": "PLC의 정의와 활용 분야에 대하여 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 03-03-02]",
+   "code": "[공제 03-03-02]",
+   "text": "PLC의 구성 기기에 대하여 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 03-03-03]",
+   "code": "[공제 03-03-03]",
+   "text": "화학 공정의 PLC 프로그래밍 언어와 명령어를 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 03-04-01]",
+   "code": "[공제 03-04-01]",
+   "text": "전기 공기압 시스템을 정의하고, 구성 요소에 대하여 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 03-04-02]",
+   "code": "[공제 03-04-02]",
+   "text": "스위치, 감지기, 액추에이터의 종류를 제시하고, 각각의 특징을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 03-04-03]",
+   "code": "[공제 03-04-03]",
+   "text": "제어 밸브의 종류와 구조, 기능 등을 알고 제어할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 03-05-01]",
+   "code": "[공제 03-05-01]",
+   "text": "화학 공정의 제어 기기의 종류와 특징에 대해 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 03-05-02]",
+   "code": "[공제 03-05-02]",
+   "text": "변환기, 조절기, 조작 기기, 서보 기구의 특징과 종류를 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 04-01-01]",
+   "code": "[공제 04-01-01]",
+   "text": "PLC를 이용한 제어 시스템에 대하여 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 04-01-02]",
+   "code": "[공제 04-01-02]",
+   "text": "디지털 직접 제어(DDC)를 이용한 제어 시스템에 대하여 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 04-01-03]",
+   "code": "[공제 04-01-03]",
+   "text": "PC/PLC를 이용한 제어 시스템에 대하여 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 04-02-01]",
+   "code": "[공제 04-02-01]",
+   "text": "분산 제어 시스템의 구성 및 특징에 대해 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 04-02-02]",
+   "code": "[공제 04-02-02]",
+   "text": "분산 제어 시스템의 주요 기능과 시스템 적용 방법에 대해 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 04-03-01]",
+   "code": "[공제 04-03-01]",
+   "text": "데이터 자동 추출 도구를 통해 수집된 정보를 정리할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-공정-제어:[공제 04-03-02]",
+   "code": "[공제 04-03-02]",
+   "text": "축적된 데이터를 이용한 고정 최적화 방법에 대해 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-공업-기초:[에기 01-01]",
+   "code": "[에기 01-01]",
+   "text": "에너지를 분류할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-공업-기초:[에기 01-02]",
+   "code": "[에기 01-02]",
+   "text": "에너지의 역할에 대하여 이해하고 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-공업-기초:[에기 01-03]",
+   "code": "[에기 01-03]",
+   "text": "에너지의 변환 개념을 이해하고, 에너지 보존 법칙을 적용해 계산할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-공업-기초:[에기 02-01]",
+   "code": "[에기 02-01]",
+   "text": "석탄을 활용하는 에너지에 대하여 이해하고, 적용 사례를 발표할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-공업-기초:[에기 02-02]",
+   "code": "[에기 02-02]",
+   "text": "석유를 활용하는 에너지에 대하여 이해하고, 적용 분야 및 특징을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-공업-기초:[에기 02-03]",
+   "code": "[에기 02-03]",
+   "text": "천연가스를 활용하는 에너지에 대하여 이해하고, 적용 분야 및 특징을 발표할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-공업-기초:[에기 03-01]",
+   "code": "[에기 03-01]",
+   "text": "원자력의 원리에 대하여 이해할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-공업-기초:[에기 03-02]",
+   "code": "[에기 03-02]",
+   "text": "발전용 원자로 구조 및 특징에 대하여 이해할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-공업-기초:[에기 03-03]",
+   "code": "[에기 03-03]",
+   "text": "방사선의 종류와 위험성을 파악하고, 안전 관리 방법을 제시할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-공업-기초:[에기 04-01]",
+   "code": "[에기 04-01]",
+   "text": "수소 생산, 저장 및 활용에 대하여 이해하고, 적용 사례를 발표할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-공업-기초:[에기 04-02]",
+   "code": "[에기 04-02]",
+   "text": "태양 에너지의 종류에 대하여 이해하고, 적용 사례를 발표할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-공업-기초:[에기 04-03]",
+   "code": "[에기 04-03]",
+   "text": "풍력 발전기의 구조 및 원리에 대하여 이해하고, 적용 사례를 발표할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-공업-기초:[에기 04-04]",
+   "code": "[에기 04-04]",
+   "text": "수력 에너지의 특징에 대하여 이해하고, 적용 사례를 발표할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-공업-기초:[에기 04-05]",
+   "code": "[에기 04-05]",
+   "text": "기타 신재생 에너지의 종류 및 특징에 대하여 이해하고, 적용 사례를 발표할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-공업-기초:[에기 05-01]",
+   "code": "[에기 05-01]",
+   "text": "에너지 수송 방법을 파악하고, 각 에너지 수송 기술을 비교하여 차이점을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-공업-기초:[에기 05-02]",
+   "code": "[에기 05-02]",
+   "text": "에너지 저장 방법을 파악하고, 각 에너지 저장 기술을 비교하여 차이점을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-공업-기초:[에기 05-03]",
+   "code": "[에기 05-03]",
+   "text": "분산형 발전의 필요성 및 특징을 파악하고, 스마트 그리드에 대하여 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-공업-기초:[에기 06-01]",
+   "code": "[에기 06-01]",
+   "text": "탄소 배출의 원인 및 문제점을 이해하고, 지구 온난화 및 기후변화를 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-공업-기초:[에기 06-02]",
+   "code": "[에기 06-02]",
+   "text": "탄소 중립 방안 및 기술을 비교하고, 적용 사례를 발표할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-화공-소재-생산:[에화 01-01]",
+   "code": "[에화 01-01]",
+   "text": "에너지 화공 소재의 종류에 대하여 이해하고 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-화공-소재-생산:[에화 01-02]",
+   "code": "[에화 01-02]",
+   "text": "에너지 화공 소재 합성법에 대하여 이해할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-화공-소재-생산:[에화 01-03]",
+   "code": "[에화 01-03]",
+   "text": "에너지 화공 소재 특성 평가법에 대하여 이해할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-화공-소재-생산:[에화 02-01]",
+   "code": "[에화 02-01]",
+   "text": "석유 화학 촉매의 종류 및 특징에 대하여 이해할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-화공-소재-생산:[에화 02-02]",
+   "code": "[에화 02-02]",
+   "text": "흡착제의 종류 및 적용 분야를 조사하고 발표할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-화공-소재-생산:[에화 02-03]",
+   "code": "[에화 02-03]",
+   "text": "정화 촉매의 종류와 특징을 파악하고, 각 촉매의 차이점을 비교 분석할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-화공-소재-생산:[에화 03-01]",
+   "code": "[에화 03-01]",
+   "text": "이차 전지 양극재의 종류 및 기능에 대하여 이해하고 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-화공-소재-생산:[에화 03-02]",
+   "code": "[에화 03-02]",
+   "text": "이차 전지 음극재의 역할 및 생산에 대하여 조사·분석할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-화공-소재-생산:[에화 03-03]",
+   "code": "[에화 03-03]",
+   "text": "이차 전지 전해질의 종류 및 기능에 대하여 이해하고 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-화공-소재-생산:[에화 03-04]",
+   "code": "[에화 03-04]",
+   "text": "이차 전지 분리막의 종류를 파악하고, 차이점을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-화공-소재-생산:[에화 03-05]",
+   "code": "[에화 03-05]",
+   "text": "이차 전지 도전재, 집전체 등 기타 소재의 종류 및 기능에 대하여 이해하고 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-화공-소재-생산:[에화 04-01]",
+   "code": "[에화 04-01]",
+   "text": "실리콘 정제 방법에 대하여 이해할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-화공-소재-생산:[에화 04-02]",
+   "code": "[에화 04-02]",
+   "text": "단결정 및 다결정 실리콘 제조 방법을 구분할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-화공-소재-생산:[에화 04-03]",
+   "code": "[에화 04-03]",
+   "text": "특수 화합물 태양 전지 소재에 대하여 이해하고 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-화공-소재-생산:[에화 05-01]",
+   "code": "[에화 05-01]",
+   "text": "수소 생산 소재의 종류를 비교하고, 적용 사례를 발표할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-화공-소재-생산:[에화 05-02]",
+   "code": "[에화 05-02]",
+   "text": "수소 저장 소재의 특징을 파악할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-화공-소재-생산:[에화 06-01]",
+   "code": "[에화 06-01]",
+   "text": "연료 전지 촉매 종류와 제조법에 대하여 이해할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-화공-소재-생산:[에화 06-02]",
+   "code": "[에화 06-02]",
+   "text": "연료 전지 전해질에 대하여 이해하고 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-에너지-화공-소재-생산:[에화 06-03]",
+   "code": "[에화 06-03]",
+   "text": "연료 전지 탄소 소재를 비교하여 차이점을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 01-01-01]",
+   "code": "[제화 01-01-01]",
+   "text": "화학 공업의 분야별 산업과 관련하여 제조 화학의 의의를 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 01-01-02]",
+   "code": "[제화 01-01-02]",
+   "text": "제조 화학과 관련된 화학 공업 산업 분야를 제품군에 따라 구분할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 01-02-01]",
+   "code": "[제화 01-02-01]",
+   "text": "원자, 분자, 화합물 등에 대해 정의하고, 각각의 화학적 관계를 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 01-02-02]",
+   "code": "[제화 01-02-02]",
+   "text": "다양한 화학 반응의 원리를 이해하고, 종류를 제시할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 01-02-03]",
+   "code": "[제화 01-02-03]",
+   "text": "화학 반응식을 세우고, 반응의 조건을 제시할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 01-02-04]",
+   "code": "[제화 01-02-04]",
+   "text": "화학 반응에서 반응물과 생성물의 물질 수지를 계산할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 01-02-05]",
+   "code": "[제화 01-02-05]",
+   "text": "화학 반응에서 질량 보존의 법칙에 따라 성분 물질 수지식을 세울 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 01-02-06]",
+   "code": "[제화 01-02-06]",
+   "text": "실제 화학 반응을 통하여 제조 화학 산업 분야에 사용되는 기초 물질을 제조할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 01-02-07]",
+   "code": "[제화 01-02-07]",
+   "text": "이온화 경향의 정의를 설명하며, 실험을 통해 여러 금속의 이온화 경향 크기를 순서대로 나열할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 01-03-01]",
+   "code": "[제화 01-03-01]",
+   "text": "화학 제품 생산과 관련하여 제조 화학 공정을 정의할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 01-03-02]",
+   "code": "[제화 01-03-02]",
+   "text": "제조 화학 단위 공정의 종류를 예를 들어 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 01-03-03]",
+   "code": "[제화 01-03-03]",
+   "text": "제조 화학 공정을 통해 생산되는 화학 제품의 생산 과정을 단계별로 제시할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 02-01-01]",
+   "code": "[제화 02-01-01]",
+   "text": "무기 화합물의 화학적 특성을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 02-01-02]",
+   "code": "[제화 02-01-02]",
+   "text": "무기 화합물의 종류를 예를 들어 제시할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 02-01-03]",
+   "code": "[제화 02-01-03]",
+   "text": "화학 반응을 통하여 간단한 무기 화합물을 제조할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 02-02-01]",
+   "code": "[제화 02-02-01]",
+   "text": "산과 알칼리를 정의하고, 물리·화학적 특징을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 02-02-02]",
+   "code": "[제화 02-02-02]",
+   "text": "산과 알칼리를 제조하는 화학 반응의 원리를 이해하고, 화학 반응을 통하여 산과 알칼리 를 제조할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 02-02-03]",
+   "code": "[제화 02-02-03]",
+   "text": "화학 공업에서 사용되는 산과 알칼리의 역할을 예를 들어 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 02-03-01]",
+   "code": "[제화 02-03-01]",
+   "text": "화학 비료를 구성하는 화학 성분에 따라 비료의 종류를 구분할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 02-03-02]",
+   "code": "[제화 02-03-02]",
+   "text": "화학 비료를 제조하는 화학 반응의 원리를 이해하고, 화학 반응을 통하여 실제 화학 비료 공장에서 생산되는 기초 물질을 제조할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 02-04-01]",
+   "code": "[제화 02-04-01]",
+   "text": "나노 화합물을 정의하고, 나노 화합물이 활용되는 분야를 예를 들어 제시할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 02-04-02]",
+   "code": "[제화 02-04-02]",
+   "text": "나노 화합물의 제조 과정을 이해하고, 분자 구조를 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 02-05-01]",
+   "code": "[제화 02-05-01]",
+   "text": "화학 반응에서 촉매의 역할을 설명하고, 실제 화학 공업에 활용되는 분야를 예를 들어 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 02-05-02]",
+   "code": "[제화 02-05-02]",
+   "text": "활성탄의 제조 방법을 설명하고, 실제 화학 공업에 활용되는 분야를 예를 들어 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 03-01-01]",
+   "code": "[제화 03-01-01]",
+   "text": "유기 화합물을 정의하고, 다양한 유기 화합물을 명명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 03-01-02]",
+   "code": "[제화 03-01-02]",
+   "text": "작용기의 종류를 제시하고, 그 화학적 특징과 반응의 특징을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 03-01-03]",
+   "code": "[제화 03-01-03]",
+   "text": "유기 화합물의 구조식을 이해하고, 여러 가지 유기 화학 반응을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 03-01-04]",
+   "code": "[제화 03-01-04]",
+   "text": "탄화수소 유도체의 종류를 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 03-02-01]",
+   "code": "[제화 03-02-01]",
+   "text": "유지의 채취 및 정제 방법을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 03-02-02]",
+   "code": "[제화 03-02-02]",
+   "text": "유지 가공법과 유지 제품에 대하여 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 03-02-03]",
+   "code": "[제화 03-02-03]",
+   "text": "콩에 용매를 사용하여 식물성 기름을 추출할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 03-02-04]",
+   "code": "[제화 03-02-04]",
+   "text": "페인트의 제조 원리를 이해하고, 페인트를 제조할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 03-03-01]",
+   "code": "[제화 03-03-01]",
+   "text": "석유를 정의할 수 있고, 원유의 조성과 종류에 관해 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 03-03-02]",
+   "code": "[제화 03-03-02]",
+   "text": "석유 화학 공업을 정의할 수 있고, 석유 화학 공업의 대표적 특징을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 03-03-03]",
+   "code": "[제화 03-03-03]",
+   "text": "단증류의 원리를 설명하고, 실제 석유 화학 공업에서 생산되는 기초 물질을 이용하여 단증류 실습 장치를 조작할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 03-03-04]",
+   "code": "[제화 03-03-04]",
+   "text": "석유 화학 공업의 원료인 기초 유분의 종류를 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 03-04-01]",
+   "code": "[제화 03-04-01]",
+   "text": "고분자를 정의하고, 고분자의 성질을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 03-04-02]",
+   "code": "[제화 03-04-02]",
+   "text": "고분자 중합 방법에 대해 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 03-04-03]",
+   "code": "[제화 03-04-03]",
+   "text": "합성 고분자와 천연 고분자의 종류와 특성에 대해서 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 03-05-01]",
+   "code": "[제화 03-05-01]",
+   "text": "계면 활성제를 정의하고, 구조를 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 03-05-02]",
+   "code": "[제화 03-05-02]",
+   "text": "비누의 제조 원리를 설명하고, 비누를 제조할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 03-05-03]",
+   "code": "[제화 03-05-03]",
+   "text": "화장품의 제조 원리를 설명하고, 화장품을 제조할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 03-05-04]",
+   "code": "[제화 03-05-04]",
+   "text": "나일론의 합성법에 의해 나일론을 제조할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 04-01-01]",
+   "code": "[제화 04-01-01]",
+   "text": "전기 화학 공업을 분류할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 04-01-02]",
+   "code": "[제화 04-01-02]",
+   "text": "산화와 환원 반응을 구분하며, 전자 전달 반응을 예를 들어 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 04-02-01]",
+   "code": "[제화 04-02-01]",
+   "text": "전해 분해의 특징을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 04-02-02]",
+   "code": "[제화 04-02-02]",
+   "text": "물의 전기 분해 반응식을 세울 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 04-02-03]",
+   "code": "[제화 04-02-03]",
+   "text": "식염의 전해 반응식을 세울 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 04-02-04]",
+   "code": "[제화 04-02-04]",
+   "text": "용융염의 전해 반응을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 04-02-05]",
+   "code": "[제화 04-02-05]",
+   "text": "전해 반응의 원리를 이용하여 화학 제품을 제조할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 04-03-01]",
+   "code": "[제화 04-03-01]",
+   "text": "부식의 메커니즘과 이를 방지할 수 있는 방법들을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 04-03-02]",
+   "code": "[제화 04-03-02]",
+   "text": "도금의 원리와 방법에 대해 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 04-03-03]",
+   "code": "[제화 04-03-03]",
+   "text": "도금의 원리를 이용하여 화학 제품을 제조할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 04-04-01]",
+   "code": "[제화 04-04-01]",
+   "text": "전지의 원리를 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 04-04-02]",
+   "code": "[제화 04-04-02]",
+   "text": "1차 전지와 2차 전지의 종류와 특징을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 04-04-03]",
+   "code": "[제화 04-04-03]",
+   "text": "연료 전지를 분류하고, 그 특징을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 04-04-04]",
+   "code": "[제화 04-04-04]",
+   "text": "염화나트륨 수용액을 이용하여 다니엘 전지를 만들어 전기를 발생시킬 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-제조-화학:[제화 04-04-05]",
+   "code": "[제화 04-04-05]",
+   "text": "전지의 원리를 이용하여 전지와 원료 전지를 제조할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-기계:[화기 01-01-01]",
+   "code": "[화기 01-01-01]",
+   "text": "열역학에 사용되는 기초 단위 및 중요 용어의 개념을 정의하고, 국제 표준 단위계의 기 본 단위와 유도 단위를 비교할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-기계:[화기 01-01-02]",
+   "code": "[화기 01-01-02]",
+   "text": "엔탈피, 엔트로피의 개념을 통하여 열역학 제1, 2 법칙을 익히고, 이상 기체의 성질을 통하여 보일·샤를 법칙 등을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-기계:[화기 01-01-03]",
+   "code": "[화기 01-01-03]",
+   "text": "열전달의 원리를 이해하고, 전도와 대류 및 복사의 개념을 비교, 분석할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-기계:[화기 01-02-01]",
+   "code": "[화기 01-02-01]",
+   "text": "공기 조화 부하의 개념과 분류를 설명하고, 실내 적정 온습도를 유지하기 위하여 필요한 냉각, 가열, 감습, 가습을 위한 열량을 계산할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-기계:[화기 01-02-02]",
+   "code": "[화기 01-02-02]",
+   "text": "냉방 부하의 구성 요인과 설계 조건을 바탕으로 여러 가지 조건을 고려하여 실내 온도 및 습도 조절에 필요한 부하 계산을 할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-기계:[화기 01-02-03]",
+   "code": "[화기 01-02-03]",
+   "text": "난방 부하의 구성 요인과 설계 조건을 바탕으로 여러 가지 조건을 고려하여 실내 온도 및 습도 조절에 필요한 부하 계산을 할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-기계:[화기 01-03-01]",
+   "code": "[화기 01-03-01]",
+   "text": "유체 기계의 종류와 산업체에서 활용되고 있는 유체 기계에 대한 조사 활동, 탐구 활동 등을 통하여 유체 기계의 종류를 나열하고 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-기계:[화기 01-03-02]",
+   "code": "[화기 01-03-02]",
+   "text": "유체의 물리적 성질, 유체의 압력, 유체의 압력 측정 방법 등을 알고, 유체의 흐름, 유량 의 측정 등 유체 기계의 기초 이론을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-기계:[화기 02-01-01]",
+   "code": "[화기 02-01-01]",
+   "text": "파이프 커터의 구조와 명칭을 설명하고, 쇠톱과 파이프 커터를 사용하여 치수에 맞게 파 이프를 절단할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-기계:[화기 02-01-02]",
+   "code": "[화기 02-01-02]",
+   "text": "강관의 구부림 길이를 계산하고, 냉간 굽힘의 방법으로 굽힘 작업을 할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-기계:[화기 02-01-03]",
+   "code": "[화기 02-01-03]",
+   "text": "파이프의 절단 길이를 계산하고, 강관에 나사를 절삭하고 이음쇠를 사용하여 조립할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-기계:[화기 02-02-01]",
+   "code": "[화기 02-02-01]",
+   "text": "공압 제어 밸브의 종류와 특징, 밸브의 사용 방법을 이해하고, 공압 제어 밸브를 선정할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-기계:[화기 02-02-02]",
+   "code": "[화기 02-02-02]",
+   "text": "유압 제어 밸브의 종류와 기능, 밸브의 구조와 작동 원리 및 각종 제어 밸브의 표시 방법 을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-기계:[화기 02-02-03]",
+   "code": "[화기 02-02-03]",
+   "text": "팽창 밸브의 작용, 수동 팽창 밸브와 자동식 팽창 밸브의 종류 및 특성을 파악하여, 모세 관과 팽창 밸브를 비교할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-기계:[화기 02-03-01]",
+   "code": "[화기 02-03-01]",
+   "text": "반응기의 목적과 운전 변수를 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-기계:[화기 02-03-02]",
+   "code": "[화기 02-03-02]",
+   "text": "반응기를 목적에 맞게 선택하여 사용할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-기계:[화기 03-01-01]",
+   "code": "[화기 03-01-01]",
+   "text": "기체 수송 장치의 목적과 원리를 요약하여 정리할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-기계:[화기 03-01-02]",
+   "code": "[화기 03-01-02]",
+   "text": "통풍기, 송풍기, 압축기, 진공 펌프를 사용 범위와 한계에 맞게 선택할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-기계:[화기 03-02-01]",
+   "code": "[화기 03-02-01]",
+   "text": "액체 수송 장치의 목적과 원리를 요약하여 정리할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-기계:[화기 03-02-02]",
+   "code": "[화기 03-02-02]",
+   "text": "압력 손실, 유량, 액체의 성질, 높이 차 등을 고려하여 원심 펌프, 왕복 펌프, 회전 펌프, 특수 펌프 등을 선택할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-기계:[화기 03-03-01]",
+   "code": "[화기 03-03-01]",
+   "text": "다양한 고체 수송 장치의 특성을 활용하여 효율성이 높은 연속 수송 방법을 선택할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-기계:[화기 04-01-01]",
+   "code": "[화기 04-01-01]",
+   "text": "냉동 장치(또는 냉동 사이클)의 구조를 보면서 냉동 원리를 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-기계:[화기 04-02-01]",
+   "code": "[화기 04-02-01]",
+   "text": "냉매의 구비 조건을 과학적 원리에 입각하여 해석할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-기계:[화기 04-03-01]",
+   "code": "[화기 04-03-01]",
+   "text": "압축기의 작용, 압축기의 분류를 통해서 압축기의 구조를 익히고, 왕복동식 압축기, 스크 루 압축기, 스크롤 압축기의 장단점을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-기계:[화기 04-03-02]",
+   "code": "[화기 04-03-02]",
+   "text": "응축기의 작용, 수냉식 응축기, 증발식 응축기, 공랭식 응축기의 형식과 특징을 비교하고, 각 응축기의 장단점을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-기계:[화기 04-03-03]",
+   "code": "[화기 04-03-03]",
+   "text": "증발기의 작용과 성능, 건식 증발기, 만액식 증발기, 냉매액 강제 순환식 증발기, 냉매 분사식 증발기의 구조와 특성을 이해하여 구조에 따른 분류를 하고, 각종 증발기의 종류 와 특성을 장단점으로 나눠 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-기계:[화기 05-01-01]",
+   "code": "[화기 05-01-01]",
+   "text": "보일러의 원리를 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-기계:[화기 05-02-01]",
+   "code": "[화기 05-02-01]",
+   "text": "보일러의 구조를 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-기계:[화기 05-02-02]",
+   "code": "[화기 05-02-02]",
+   "text": "공정에 따라 조업 조건을 기준으로 보일러, 분해로의 구조와 기능을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-기계:[화기 05-03-01]",
+   "code": "[화기 05-03-01]",
+   "text": "보일러의 종류별 특성을 고려하여 필요한 보일러의 종류를 선택할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 01-01-01]",
+   "code": "[화전 01-01-01]",
+   "text": "전기의 어원과 역사에 대하여 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 01-01-02]",
+   "code": "[화전 01-01-02]",
+   "text": "전기장에 대한 정의를 내릴 수 있고, 전기장의 세기와 방향을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 01-01-03]",
+   "code": "[화전 01-01-03]",
+   "text": "자기장에 대한 정의를 내릴 수 있고, 자기장의 세기와 방향을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 01-02-01]",
+   "code": "[화전 01-02-01]",
+   "text": "전압, 전류, 저항에 대하여 설명할 수 있고, 옴의 법칙에 적용할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 01-02-02]",
+   "code": "[화전 01-02-02]",
+   "text": "직류 회로를 정의할 수 있고, 각종 소자의 적용에 대해 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 01-02-03]",
+   "code": "[화전 01-02-03]",
+   "text": "교류 회로를 정의할 수 있고. 각종 소자의 적용에 대해 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 01-03-01]",
+   "code": "[화전 01-03-01]",
+   "text": "측정에 대한 개념, 종류를 알고 측정할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 01-03-02]",
+   "code": "[화전 01-03-02]",
+   "text": "측정 기구를 아날로그와 디지털 기구로 구분하여 측정 방법을 학습하고 측정할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 01-03-03]",
+   "code": "[화전 01-03-03]",
+   "text": "전압, 전류, 저항의 측정 방법을 학습하고 측정할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 02-01-01]",
+   "code": "[화전 02-01-01]",
+   "text": "소자의 종류에 대하여 이해하고, 특성에 대하여 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 02-01-02]",
+   "code": "[화전 02-01-02]",
+   "text": "소자별로 구조와 동작을 이해하고, 용도에 맞게 활용할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 02-01-03]",
+   "code": "[화전 02-01-03]",
+   "text": "소자를 이용한 간단한 회로를 제시하고, 동작 원리를 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 02-02-01]",
+   "code": "[화전 02-02-01]",
+   "text": "집적 회로의 종류와 특성을 이해하고, 제조 공정을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 02-02-02]",
+   "code": "[화전 02-02-02]",
+   "text": "정류 회로와 평활 회로를 이해하고, 출력 전압과 파형의 특성을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 02-02-03]",
+   "code": "[화전 02-02-03]",
+   "text": "D/A 변환 회로와 A/D 변환 회로의 구성과 동작 원리를 이해할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 02-03-01]",
+   "code": "[화전 02-03-01]",
+   "text": "디지털 시스템의 정의를 내릴 수 있고, 아날로그 신호와 디지털 신호의 차이점을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 02-03-02]",
+   "code": "[화전 02-03-02]",
+   "text": "불 대수의 연산 게이트를 이해하고 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 02-03-03]",
+   "code": "[화전 02-03-03]",
+   "text": "불 대수를 활용하여 논리 회로를 설계할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 03-01-01]",
+   "code": "[화전 03-01-01]",
+   "text": "화공 플랜트에서의 전기 설비를 정의할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 03-01-02]",
+   "code": "[화전 03-01-02]",
+   "text": "화공 플랜트에서의 전기 설비를 분류할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 03-02-01]",
+   "code": "[화전 03-02-01]",
+   "text": "화공 플랜트에서의 전력 계통에 대하여 이해하고, 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 03-02-02]",
+   "code": "[화전 03-02-02]",
+   "text": "송전, 배전 설비에 대하여 정의하고, 종류와 특성에 대해 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 03-02-03]",
+   "code": "[화전 03-02-03]",
+   "text": "수전, 변전 설비에 대하여 정의하고, 종류와 특성에 대해 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 03-03-01]",
+   "code": "[화전 03-03-01]",
+   "text": "화공 플랜트 동력 배선 설비의 정의를 이해하고, 개요에 대해 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 03-03-02]",
+   "code": "[화전 03-03-02]",
+   "text": "화공 플랜트 동력 배선 설비의 구성도를 제시하고, 설계할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 03-03-03]",
+   "code": "[화전 03-03-03]",
+   "text": "화공 플랜트 동력 배선 설비 설계를 토대로 직접 구성할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 04-01-01]",
+   "code": "[화전 04-01-01]",
+   "text": "화공 플랜트에서 사용하는 발전기의 원리를 이해하고, 종류를 나열할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 04-01-02]",
+   "code": "[화전 04-01-02]",
+   "text": "화공 플랜트에서 사용하는 발전기의 특성을 알고 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 04-02-01]",
+   "code": "[화전 04-02-01]",
+   "text": "화공 플랜트에서 사용하는 변압기의 원리를 이해하고, 종류를 나열할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 04-02-02]",
+   "code": "[화전 04-02-02]",
+   "text": "화공 플랜트에서 사용하는 변압기의 특성을 알고 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 04-03-01]",
+   "code": "[화전 04-03-01]",
+   "text": "화공 플랜트에서 사용하는 유도 전동기의 원리를 이해하고, 종류를 나열할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 04-03-02]",
+   "code": "[화전 04-03-02]",
+   "text": "화공 플랜트에서 사용하는 유도 전동기의 특성을 알고 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 05-01-01]",
+   "code": "[화전 05-01-01]",
+   "text": "화공 플랜트에서의 자동화를 정의하고, 필요성과 목적에 대하여 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 05-01-02]",
+   "code": "[화전 05-01-02]",
+   "text": "화공 플랜트 자동화 기술에 대하여 이해하고, 적용한 실제 사례를 제시하고 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 05-02-01]",
+   "code": "[화전 05-02-01]",
+   "text": "화공 플랜트에서 사용하는 시퀀스 제어를 정의하고, 사례를 들어 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 05-02-02]",
+   "code": "[화전 05-02-02]",
+   "text": "화공 플랜트에서 사용하는 시퀀스 제어 접점의 종류를 구분하고, 도면을 작성할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-화공-플랜트-전기:[화전 05-02-03]",
+   "code": "[화전 05-02-03]",
+   "text": "화공 플랜트에서 사용하는 시퀀스 제어용 기기의 종류를 알고, 구조와 특성을 설명할 수 있다.",
+   "sourceId": "annex32",
+   "locator": "pattern-match"
+  }
+ ]
+}

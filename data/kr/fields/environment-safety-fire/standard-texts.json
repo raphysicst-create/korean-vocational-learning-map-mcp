@@ -1,0 +1,5760 @@
+{
+ "version": "kr-vocational-standard-texts-v1",
+ "sourceNote": "국가교육위원회 고시 제2024-3호 초·중등학교 교육과정 별책23~39(전문교과) PDF에서 추출한 성취기준 본문. 공공저작물로서 저작권법 제24조의2에 따라 출처를 표기해 이용한다.",
+ "texts": [
+  {
+   "key": "kr-2022-voc-산업-안전-보건-기초:[산안 01-01]",
+   "code": "[산안 01-01]",
+   "text": "산업 안전 보건 관리의 목표를 설명하고, 안전 관리와 재해 방지의 기본 원칙에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-안전-보건-기초:[산안 01-02]",
+   "code": "[산안 01-02]",
+   "text": "산업 안전 보건 관리와 기업 경영의 관계를 설명하고, 산업 재해에 의한 손실에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-안전-보건-기초:[산안 01-03]",
+   "code": "[산안 01-03]",
+   "text": "산업 안전 보건 관리와 관련된 법령에 대한 이론을 이해하고, 개념을 성명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-안전-보건-기초:[산안 02-01]",
+   "code": "[산안 02-01]",
+   "text": "산업 재해에 대한 기본 이론을 설명하고, 이를 기반으로 산업 재해의 원인을 제시할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-안전-보건-기초:[산안 02-02]",
+   "code": "[산안 02-02]",
+   "text": "재해 조사 및 재해 통계의 목적과 유의 사항을 설명하고, 그 사례를 제시할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-안전-보건-기초:[산안 03-01]",
+   "code": "[산안 03-01]",
+   "text": "위험성 평가 제도를 이해하고, 목적을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-안전-보건-기초:[산안 03-02]",
+   "code": "[산안 03-02]",
+   "text": "위험성 평가의 절차를 이해하고, 사례를 기반으로 위험성 평가 지원 시스템을 통한 위험 성 평가를 수행할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-안전-보건-기초:[산안 04-01]",
+   "code": "[산안 04-01]",
+   "text": "직업병의 사례를 기반으로 작업 환경 관리의 필요성을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-안전-보건-기초:[산안 04-02]",
+   "code": "[산안 04-02]",
+   "text": "작업 환경 유해 인자의 종류와 그에 따른 관리 및 대책에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-안전-보건-기초:[산안 05-01]",
+   "code": "[산안 05-01]",
+   "text": "무재해의 정의와 무재해 운동의 목적을 설명하고, 무재해 운동의 원칙을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-안전-보건-기초:[산안 05-02]",
+   "code": "[산안 05-02]",
+   "text": "무재해 운동의 기법을 설명하고, 이를 실시할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-안전-보건-기초:[산안 06-01]",
+   "code": "[산안 06-01]",
+   "text": "산업 안전 보건 교육의 법적 교육 시간과 내용을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-안전-보건-기초:[산안 06-02]",
+   "code": "[산안 06-02]",
+   "text": "교육 훈련의 기법에 대해 설명하고, 상황에 따른 적절한 교육 기법을 제시할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-안전-보건-기초:[산안 07-01]",
+   "code": "[산안 07-01]",
+   "text": "보호구의 개요 및 종류별 특성을 이해하고, 사용법을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-안전-보건-기초:[산안 07-02]",
+   "code": "[산안 07-02]",
+   "text": "안전 보건 표지의 종류, 용도 및 적용에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 01-01-01]",
+   "code": "[소건 01-01-01]",
+   "text": "건축의 의의에 대해 토론할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 01-01-02]",
+   "code": "[소건 01-01-02]",
+   "text": "건축의 목적에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 01-01-03]",
+   "code": "[소건 01-01-03]",
+   "text": "건축을 구성하는 요소에 대해 알아보고 나열할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 01-02-01]",
+   "code": "[소건 01-02-01]",
+   "text": "건축의 일련의 과정을 살펴보고 건축 계획의 과정을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 01-02-02]",
+   "code": "[소건 01-02-02]",
+   "text": "건축 설계의 기본 설계와 실시 설계의 과정과 차이점을 비교할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 01-02-03]",
+   "code": "[소건 01-02-03]",
+   "text": "건축 설계 도서에 대해 조사하고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 01-02-04]",
+   "code": "[소건 01-02-04]",
+   "text": "건축 공사 표준 시방서에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 01-02-05]",
+   "code": "[소건 01-02-05]",
+   "text": "건축물의 용도와 규모를 고려한 건축 구조의 구성을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 01-02-06]",
+   "code": "[소건 01-02-06]",
+   "text": "건축에서 적용되는 여러 가지 힘의 종류를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 01-02-07]",
+   "code": "[소건 01-02-07]",
+   "text": "건축의 종류를 법에 따라 알아보고 발표할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 01-03-01]",
+   "code": "[소건 01-03-01]",
+   "text": "건축물에 있어서 건축과 소방의 역할과 필요성을 이해할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 01-03-02]",
+   "code": "[소건 01-03-02]",
+   "text": "건축, 건축 설비, 소방 시설의 관계에 대해 비교하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 01-03-03]",
+   "code": "[소건 01-03-03]",
+   "text": "건축 허가 신청과 승인 사항에 건축법을 활용하여 찾아보고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 01-03-04]",
+   "code": "[소건 01-03-04]",
+   "text": "건축 감리 실시와 사용 승인 사항에 대해 알아보고 찾아낼 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 01-03-05]",
+   "code": "[소건 01-03-05]",
+   "text": "도면에 활용되는 소방 도시 기호에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 01-03-06]",
+   "code": "[소건 01-03-06]",
+   "text": "건축에서 소방 도시 기호가 포함된 도면을 살펴보고 분석할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 01-03-07]",
+   "code": "[소건 01-03-07]",
+   "text": "초고층 건물에 따른 소방 업무의 범위를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 01-03-08]",
+   "code": "[소건 01-03-08]",
+   "text": "초고층 건축물에 적용되는 성능 위주의 설계에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 01-03-09]",
+   "code": "[소건 01-03-09]",
+   "text": "초고층 건축물에 적용되어 활용되는 화재 시뮬레이션, 피난 시뮬레이션, 덕트 시뮬레이 션에 대해 알아보고 조사할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 01-04-01]",
+   "code": "[소건 01-04-01]",
+   "text": "건축의 기본적인 개념을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 01-04-02]",
+   "code": "[소건 01-04-02]",
+   "text": "과거의 건축물부터 현재까지의 시대에 따른 특징을 발견할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 01-04-03]",
+   "code": "[소건 01-04-03]",
+   "text": "내력벽과 비내력벽의 차이점을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 01-04-04]",
+   "code": "[소건 01-04-04]",
+   "text": "건축물 마감재의 종류와 창호의 모양, 창호도를 조사하여 발표할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 01-04-05]",
+   "code": "[소건 01-04-05]",
+   "text": "현대 건축물들을 조사해 보고 구조적, 기능적, 미적 특징을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 01-04-06]",
+   "code": "[소건 01-04-06]",
+   "text": "커튼 월 구조의 건물 사례를 조사하고 발표할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 01-05-01]",
+   "code": "[소건 01-05-01]",
+   "text": "목재의 성질에 대해 이해할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 01-05-02]",
+   "code": "[소건 01-05-02]",
+   "text": "목구조의 장단점을 알고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 01-05-03]",
+   "code": "[소건 01-05-03]",
+   "text": "목재의 함수율과 섬유 포화점에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 01-05-04]",
+   "code": "[소건 01-05-04]",
+   "text": "조적식 구조의 종류에 대해 이해할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 01-05-05]",
+   "code": "[소건 01-05-05]",
+   "text": "조적식 구조의 특징에 대해 알아보고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 01-05-06]",
+   "code": "[소건 01-05-06]",
+   "text": "벽돌 구조 건물의 균열 원인과 대책에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 01-05-07]",
+   "code": "[소건 01-05-07]",
+   "text": "벽돌 구조, 블록 구조, 돌구조 건축물에 대해 비교하여 이해할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 01-05-08]",
+   "code": "[소건 01-05-08]",
+   "text": "철근 콘크리트의 성질에 대해 이해하고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 01-05-09]",
+   "code": "[소건 01-05-09]",
+   "text": "콘크리트의 내구성 저하 요인에 대해 알 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 01-05-10]",
+   "code": "[소건 01-05-10]",
+   "text": "각종 콘크리트의 종류에 따른 성질을 비교하여 분석할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 02-01-01]",
+   "code": "[소건 02-01-01]",
+   "text": "방재의 의의에 대해 조사하고 발표할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 02-01-02]",
+   "code": "[소건 02-01-02]",
+   "text": "방재 규정의 연혁에 대해 조사할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 02-01-03]",
+   "code": "[소건 02-01-03]",
+   "text": "방재 구획을 형성하는 구조체에 요구되는 성능을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 02-02-01]",
+   "code": "[소건 02-02-01]",
+   "text": "방재 계획의 수립 방법에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 02-02-02]",
+   "code": "[소건 02-02-02]",
+   "text": "내장재의 종류에 따른 발열량에 대해 발표할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 02-02-03]",
+   "code": "[소건 02-02-03]",
+   "text": "불연재의 성능을 비교하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 02-03-01]",
+   "code": "[소건 02-03-01]",
+   "text": "내화 설계에 대한 정의를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 02-03-02]",
+   "code": "[소건 02-03-02]",
+   "text": "요구 내화 시간에 대해 조사할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 02-03-03]",
+   "code": "[소건 02-03-03]",
+   "text": "방재 센터와 중앙 관리실 설치 목적과 구조에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 02-03-04]",
+   "code": "[소건 02-03-04]",
+   "text": "소방 안전 관리자의 역할과 체계에 대해 조사할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 02-04-01]",
+   "code": "[소건 02-04-01]",
+   "text": "사무소 빌딩 방재 계획에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 02-04-02]",
+   "code": "[소건 02-04-02]",
+   "text": "호텔 방재 계획에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 02-04-03]",
+   "code": "[소건 02-04-03]",
+   "text": "박물관, 미술관, 대규모 점포의 방재 계획에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 02-04-04]",
+   "code": "[소건 02-04-04]",
+   "text": "고층 공동 주택, 병원, 학교의 방재 계획에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 02-05-01]",
+   "code": "[소건 02-05-01]",
+   "text": "건축물의 주요 구조부에 사용된 재료가 건축법에서 규정하고 있는 재료를 사용하고 있 는지를 조사할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 02-05-02]",
+   "code": "[소건 02-05-02]",
+   "text": "건축 자재의 품질 관리 등에 따른 복합 자재에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 02-05-03]",
+   "code": "[소건 02-05-03]",
+   "text": "건축 자재 성능 시험 기관인 한국건설기술연구원에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 02-06-01]",
+   "code": "[소건 02-06-01]",
+   "text": "방화 구획 등의 설치에 대해 조사할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 02-06-02]",
+   "code": "[소건 02-06-02]",
+   "text": "방화에 장애가 되는 용도의 경우 사례를 통하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 02-06-03]",
+   "code": "[소건 02-06-03]",
+   "text": "방화 지구의 건축물에 해당하는 사례를 조사할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 03-01-01]",
+   "code": "[소건 03-01-01]",
+   "text": "피난 기구의 화재 안전 기준에 대해 조사할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 03-01-02]",
+   "code": "[소건 03-01-02]",
+   "text": "건축물 안에서의 피난 기구 설치 개수 및 기준에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 03-01-03]",
+   "code": "[소건 03-01-03]",
+   "text": "건축물 안에서의 피난 기구 설치 감소 기준에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 03-02-01]",
+   "code": "[소건 03-02-01]",
+   "text": "직통 계단의 정의와 설치 기준에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 03-02-02]",
+   "code": "[소건 03-02-02]",
+   "text": "피난 계단과 특별 피난 계단의 정의와 설치 기준에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 03-02-03]",
+   "code": "[소건 03-02-03]",
+   "text": "옥외 피난 계단 설치 기준에 대해 조사할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 03-03-01]",
+   "code": "[소건 03-03-01]",
+   "text": "비상용 승강기의 설치 기준을 조사하고 건축물에 적용할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 03-03-02]",
+   "code": "[소건 03-03-02]",
+   "text": "피난용 승강기의 설치 기준에 대해 조사할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 03-03-03]",
+   "code": "[소건 03-03-03]",
+   "text": "피난용 승강기의 구조와 전용 예비 전원에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-01-01]",
+   "code": "[소건 04-01-01]",
+   "text": "건축 설계 도면의 종류에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-01-02]",
+   "code": "[소건 04-01-02]",
+   "text": "건축 설계 도면의 용도를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-01-03]",
+   "code": "[소건 04-01-03]",
+   "text": "축척, 배척, 현척에 대해 이해하고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-01-04]",
+   "code": "[소건 04-01-04]",
+   "text": "선의 형태와 용도에 따라 종류를 분류할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-01-05]",
+   "code": "[소건 04-01-05]",
+   "text": "건축 도면의 종류와 기본 도면에 대해 알아보고 발표할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-01-06]",
+   "code": "[소건 04-01-06]",
+   "text": "소방 도면에서 사용되는 설비 도면을 살펴보고 분석할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-01-07]",
+   "code": "[소건 04-01-07]",
+   "text": "정투상도, 등각 투상도, 사투상도의 특징에 대해 조사한다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-01-08]",
+   "code": "[소건 04-01-08]",
+   "text": "설계 도면을 활용하여 평면도, 입면도, 배치도, 단면 상세도 등의 도면을 이해할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-02-01]",
+   "code": "[소건 04-02-01]",
+   "text": "건축 CAD의 개념과 특징을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-02-02]",
+   "code": "[소건 04-02-02]",
+   "text": "건축 CAD가 토목 설계, 전기, 자동차, 건축, 소방에서 응용되고 있는 사례를 조사할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-02-03]",
+   "code": "[소건 04-02-03]",
+   "text": "CAD 프로그램의 종류에 대해 알아보고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-02-04]",
+   "code": "[소건 04-02-04]",
+   "text": "건축 CAD의 이용 효과를 조사하고 토론할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-02-05]",
+   "code": "[소건 04-02-05]",
+   "text": "건축 CAD 도면의 관리 방법을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-02-06]",
+   "code": "[소건 04-02-06]",
+   "text": "BIM 설계의 개념와 활용 범위를 조사해 보고 발표할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-03-01]",
+   "code": "[소건 04-03-01]",
+   "text": "건축 CAD 프로그램의 시작과 기본 명령어를 이해하고 실행할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-03-02]",
+   "code": "[소건 04-03-02]",
+   "text": "명령어의 구성과 좌표 체계의 구분, 표시 형식을 알고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-03-03]",
+   "code": "[소건 04-03-03]",
+   "text": "도면의 환경 설정, 객체 스냅 명령어를 활용하여 작업을 반복할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-03-04]",
+   "code": "[소건 04-03-04]",
+   "text": "선 종류 중 중심선, 숨은선을 설정하고 도면에 그려 본다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-03-05]",
+   "code": "[소건 04-03-05]",
+   "text": "도면 층에 색상과 선 종류, 굵기를 설정하는 방법을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-03-06]",
+   "code": "[소건 04-03-06]",
+   "text": "주어진 도면을 보고 선과 도형 그리기를 통해 작업을 해결할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-03-07]",
+   "code": "[소건 04-03-07]",
+   "text": "수정 명령어를 알고 도면에 기본이 되는 도면의 양식을 그려 본다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-03-08]",
+   "code": "[소건 04-03-08]",
+   "text": "CAD에 문자를 기입하는 방법을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-03-09]",
+   "code": "[소건 04-03-09]",
+   "text": "명령어 해치의 패턴을 활용한 도면 작업을 수행할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-03-10]",
+   "code": "[소건 04-03-10]",
+   "text": "도면을 작성하고 주요 부위의 길이, 각도의 치수를 표시하는 방법을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-03-11]",
+   "code": "[소건 04-03-11]",
+   "text": "도면 출력 방법을 알고 다양한 도면의 크기에 맞게 출력할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-04-01]",
+   "code": "[소건 04-04-01]",
+   "text": "소방 도시 기호에 대해 알고 도면에 표시할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-04-02]",
+   "code": "[소건 04-04-02]",
+   "text": "소화 설비의 정의를 말할 수 있고 종류를 나열할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-04-03]",
+   "code": "[소건 04-04-03]",
+   "text": "소화기, 자동 확산 소화기. 자동 소화 장치의 특징과 기호를 작성할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-04-04]",
+   "code": "[소건 04-04-04]",
+   "text": "옥내·외 소화전 설비 호스 구경, 방수량과 기호에 대해 알고 도면에 작성할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-04-05]",
+   "code": "[소건 04-04-05]",
+   "text": "감지기의 종류와 기호에 대해 작성할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-04-06]",
+   "code": "[소건 04-04-06]",
+   "text": "소방 전기 설비 기호에 대해 작성할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-04-07]",
+   "code": "[소건 04-04-07]",
+   "text": "급수 설비의 종류와 특징에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-04-08]",
+   "code": "[소건 04-04-08]",
+   "text": "펌프류의 표시 방법을 알고 도면에 표현할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-04-09]",
+   "code": "[소건 04-04-09]",
+   "text": "급수 펌프를 작동 원리에 따라 분류하고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-04-10]",
+   "code": "[소건 04-04-10]",
+   "text": "제연 설비 설치 장소의 제연 구역 구획에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-05-01]",
+   "code": "[소건 04-05-01]",
+   "text": "소방 전기 설비 계통도를 분석하고 CAD로 작성할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-05-02]",
+   "code": "[소건 04-05-02]",
+   "text": "제연 설비 계통도를 분석하고 CAD로 작성할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-05-03]",
+   "code": "[소건 04-05-03]",
+   "text": "수계 소화 설비 계통도를 분석하고 CAD로 작성할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-05-04]",
+   "code": "[소건 04-05-04]",
+   "text": "경보 설비 계통도를 분석하고 CAD로 작성할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-06-01]",
+   "code": "[소건 04-06-01]",
+   "text": "소방 전기 설비 평면도를 분석하고 CAD로 작성할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-06-02]",
+   "code": "[소건 04-06-02]",
+   "text": "제연 설비 평면도를 분석하고 CAD로 작성할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-06-03]",
+   "code": "[소건 04-06-03]",
+   "text": "수계 소화 설비 평면도를 분석하고 CAD로 작성할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-건축:[소건 04-06-04]",
+   "code": "[소건 04-06-04]",
+   "text": "경보 설비 평면도를 분석하고 CAD로 작성할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 01-01-01]",
+   "code": "[소계 01-01-01]",
+   "text": "유체의 정의에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 01-01-02]",
+   "code": "[소계 01-01-02]",
+   "text": "유체의 성질을 나타내는 유체의 특성을 바르게 알고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 01-01-03]",
+   "code": "[소계 01-01-03]",
+   "text": "온도와 압력에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 01-02-01]",
+   "code": "[소계 01-02-01]",
+   "text": "유체의 유동을 바르게 알고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 01-02-02]",
+   "code": "[소계 01-02-02]",
+   "text": "유동의 종류와 특징에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 01-03-01]",
+   "code": "[소계 01-03-01]",
+   "text": "유체의 질량 보존 법칙을 바르게 알고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 01-03-02]",
+   "code": "[소계 01-03-02]",
+   "text": "연속 방정식의 정의와 유체의 흐름에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 01-04-01]",
+   "code": "[소계 01-04-01]",
+   "text": "유체의 에너지 보존 법칙을 바르게 알고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 01-04-02]",
+   "code": "[소계 01-04-02]",
+   "text": "베르누이 방정식을 이용한 유체 에너지 계산에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 01-05-01]",
+   "code": "[소계 01-05-01]",
+   "text": "운동량의 원리를 바르게 알고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 01-05-02]",
+   "code": "[소계 01-05-02]",
+   "text": "다양한 배관에 작용하는 힘에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 01-05-03]",
+   "code": "[소계 01-05-03]",
+   "text": "운동량과 충격량 계산에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 01-06-01]",
+   "code": "[소계 01-06-01]",
+   "text": "수평 원관 속 유동에 따른 에너지 손실에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 01-06-02]",
+   "code": "[소계 01-06-02]",
+   "text": "부차적 손실과 관의 등가 길이에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 01-07-01]",
+   "code": "[소계 01-07-01]",
+   "text": "유체의 압력, 속도, 유량 측정 원리를 바르게 알고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 01-07-02]",
+   "code": "[소계 01-07-02]",
+   "text": "유체의 압력, 속도, 유량 측정에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 01-08-01]",
+   "code": "[소계 01-08-01]",
+   "text": "압력과 깊이의 관계를 바르게 알고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 01-08-02]",
+   "code": "[소계 01-08-02]",
+   "text": "정압과 수두를 바르게 알고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 01-08-03]",
+   "code": "[소계 01-08-03]",
+   "text": "수직으로 잠겨 있는 면에 작용하는 힘을 바르게 알고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 01-08-04]",
+   "code": "[소계 01-08-04]",
+   "text": "압력 중심의 위치에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 01-08-05]",
+   "code": "[소계 01-08-05]",
+   "text": "상대적 평형 운동을 바르게 알고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 01-09-01]",
+   "code": "[소계 01-09-01]",
+   "text": "잠열, 현열, 승화열을 바르게 알고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 01-09-02]",
+   "code": "[소계 01-09-02]",
+   "text": "잠열 및 현열과 상변화의 관계에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 01-09-03]",
+   "code": "[소계 01-09-03]",
+   "text": "열역학 제0, 제1, 제2 법칙을 바르게 알고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 01-09-04]",
+   "code": "[소계 01-09-04]",
+   "text": "이상 기체 상태 방정식에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 01-09-05]",
+   "code": "[소계 01-09-05]",
+   "text": "열전달 현상을 바르게 알고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-01-01]",
+   "code": "[소계 02-01-01]",
+   "text": "소화 기구의 개념과 용어에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-01-02]",
+   "code": "[소계 02-01-02]",
+   "text": "소화기의 구조 및 원리, 사용 방법에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-01-03]",
+   "code": "[소계 02-01-03]",
+   "text": "간이 소화 용구의 종류에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-01-04]",
+   "code": "[소계 02-01-04]",
+   "text": "자동 소화 장치의 개념 및 종류에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-01-05]",
+   "code": "[소계 02-01-05]",
+   "text": "소화 기구의 능력단위에 대하여 이해하고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-01-06]",
+   "code": "[소계 02-01-06]",
+   "text": "소화 기구의 설치 기준에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-02-01]",
+   "code": "[소계 02-02-01]",
+   "text": "펌프의 종류를 바르게 알고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-02-02]",
+   "code": "[소계 02-02-02]",
+   "text": "소방용 펌프에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-02-03]",
+   "code": "[소계 02-02-03]",
+   "text": "펌프의 작동 원리를 이해하고 펌프의 제 현상에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-03-01]",
+   "code": "[소계 02-03-01]",
+   "text": "물을 소화수로 사용하는 소화 설비에 대한 개념을 이해할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-03-02]",
+   "code": "[소계 02-03-02]",
+   "text": "수계 소화 설비의 구성 요소 및 작동 원리에 대하여 이해할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-03-03]",
+   "code": "[소계 02-03-03]",
+   "text": "소화수를 공급하는 가압 송수 장치를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-03-04]",
+   "code": "[소계 02-03-04]",
+   "text": "펌프를 기준으로 흡입 측과 토출 측에 설치된 장치의 기능과 역할에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-03-05]",
+   "code": "[소계 02-03-05]",
+   "text": "펌프의 성능 시험 방법을 바르게 알고 성능 시험 배관을 이용해 펌프의 성능을 확인할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-03-06]",
+   "code": "[소계 02-03-06]",
+   "text": "기동용 수압 개폐 장치를 바르게 알고 펌프의 기동과 정지 압력을 설정할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-03-07]",
+   "code": "[소계 02-03-07]",
+   "text": "수계 소화 설비에 사용하는 배관의 종류와 재료별 이음 및 용접법을 조사하고, 적절한 디지털 도구 및 기술을 이용하여 탐구 보고서를 작성할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-03-08]",
+   "code": "[소계 02-03-08]",
+   "text": "수계 소화 설비에 사용하는 배관의 이음 및 용접법을 바르게 알고 배관을 구성할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-04-01]",
+   "code": "[소계 02-04-01]",
+   "text": "옥내 소화전 설비의 개념과 사용 방법에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-04-02]",
+   "code": "[소계 02-04-02]",
+   "text": "옥내 소화전 설비의 적용 대상물별 설치 기준에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-04-03]",
+   "code": "[소계 02-04-03]",
+   "text": "옥내 소화전 설비의 수원의 양을 계산할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-05-01]",
+   "code": "[소계 02-05-01]",
+   "text": "옥외 소화전 설비의 개념과 종류에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-05-02]",
+   "code": "[소계 02-05-02]",
+   "text": "옥외 소화전 설비의 적용 대상물에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-05-03]",
+   "code": "[소계 02-05-03]",
+   "text": "옥외 소화전 설비의 수원의 양을 계산할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-06-01]",
+   "code": "[소계 02-06-01]",
+   "text": "스프링클러 설비의 개념과 장단점을 바르게 알고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-06-02]",
+   "code": "[소계 02-06-02]",
+   "text": "스프링클러 헤드의 종류별 특징과 원리에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-06-03]",
+   "code": "[소계 02-06-03]",
+   "text": "스프링클러 설비의 종류별 구조 및 작동 원리를 바르게 알고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-06-04]",
+   "code": "[소계 02-06-04]",
+   "text": "스프링클러 설비의 수원의 양을 계산할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-07-01]",
+   "code": "[소계 02-07-01]",
+   "text": "물 분무 소화 설비의 정의와 소화 효과, 장단점에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-07-02]",
+   "code": "[소계 02-07-02]",
+   "text": "물 분무 소화 설비의 적용 대상물별 수원 계산 방법에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-08-01]",
+   "code": "[소계 02-08-01]",
+   "text": "미분무 소화 설비의 정의와 소화 원리에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-08-02]",
+   "code": "[소계 02-08-02]",
+   "text": "미분무 소화 설비의 수원의 양을 계산할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-09-01]",
+   "code": "[소계 02-09-01]",
+   "text": "포 소화 설비의 개념과 소화 원리에 대하여 이해할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-09-02]",
+   "code": "[소계 02-09-02]",
+   "text": "포 소화 약제의 종류와 포 소화 설비의 종류, 포 혼합 장치의 종류에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-09-03]",
+   "code": "[소계 02-09-03]",
+   "text": "포 소화 설비의 수원과 약제량을 계산할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-10-01]",
+   "code": "[소계 02-10-01]",
+   "text": "소화 약제로서 가스를 사용하는 소화 설비에 대한 개념을 이해할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-10-02]",
+   "code": "[소계 02-10-02]",
+   "text": "가스계 소화 설비의 구성 요소 및 작동 원리에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-10-03]",
+   "code": "[소계 02-10-03]",
+   "text": "가스계 소화 설비에 사용하는 배관의 종류와 재료별 이음 및 용접법을 조사하고, 적절 한 디지털 도구 및 기술을 이용하여 탐구 보고서를 작성할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-10-04]",
+   "code": "[소계 02-10-04]",
+   "text": "가스계 소화 설비에 사용하는 배관의 이음 및 용접법을 바르게 알고 배관을 구성할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-11-01]",
+   "code": "[소계 02-11-01]",
+   "text": "이산화탄소 소화 설비의 개념과 소화 원리, 설치 기준에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-11-02]",
+   "code": "[소계 02-11-02]",
+   "text": "이산화탄소 소화 설비의 약제량을 계산할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-12-01]",
+   "code": "[소계 02-12-01]",
+   "text": "할론 소화 설비의 개념과 소화 원리, 설치 기준에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-12-02]",
+   "code": "[소계 02-12-02]",
+   "text": "할론 소화 약제의 명명법에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-12-03]",
+   "code": "[소계 02-12-03]",
+   "text": "할론 소화 설비의 약제량을 계산할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-12-04]",
+   "code": "[소계 02-12-04]",
+   "text": "할론 소화 약제의 생산 및 사용이 중지된 이유를 조사하고, 적절한 디지털 도구 및 기술 을 이용하여 탐구 보고서를 작성할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-13-01]",
+   "code": "[소계 02-13-01]",
+   "text": "할로겐 화합물 및 불활성 기체 소화 설비의 개념과 소화 원리, 설치 기준에 대하여 설명 할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-13-02]",
+   "code": "[소계 02-13-02]",
+   "text": "할로겐 화합물 및 불활성 기체 소화 약제의 명명법에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-13-03]",
+   "code": "[소계 02-13-03]",
+   "text": "할로겐 화합물 및 불활성 기체 소화 설비의 약제량을 계산할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-14-01]",
+   "code": "[소계 02-14-01]",
+   "text": "분말 소화 설비의 개념과 소화 원리, 적응성에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 02-14-02]",
+   "code": "[소계 02-14-02]",
+   "text": "분말 소화 약제의 종류별 특징과 소화 효과에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 03-01-01]",
+   "code": "[소계 03-01-01]",
+   "text": "피난 기구의 종류 및 설치 기준에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 03-01-02]",
+   "code": "[소계 03-01-02]",
+   "text": "피난 기구의 종류별 사용법과 적용 사례를 조사하고, 적절한 디지털 도구 및 기술을 이용하여 탐구 보고서를 작성할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 03-01-03]",
+   "code": "[소계 03-01-03]",
+   "text": "피난 기구의 적용 대상물에 대하여 이해할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 03-01-04]",
+   "code": "[소계 03-01-04]",
+   "text": "소방 대상물의 설치 장소별 피난 기구의 적응성에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 03-02-01]",
+   "code": "[소계 03-02-01]",
+   "text": "인명 구조 기구의 종류 및 설치 기준에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 03-02-02]",
+   "code": "[소계 03-02-02]",
+   "text": "인명 구조 기구의 종류별 사용법과 적용 사례를 조사하고, 적절한 디지털 도구 및 기술 을 이용하여 탐구 보고서를 작성할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 04-01-01]",
+   "code": "[소계 04-01-01]",
+   "text": "소화 수조 설비 사용에 대하여 이해할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 04-01-02]",
+   "code": "[소계 04-01-02]",
+   "text": "소화 수조 설비의 설치 기준 및 설치 면제에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 04-01-03]",
+   "code": "[소계 04-01-03]",
+   "text": "소화 수조 설비의 수원의 양을 계산할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 04-02-01]",
+   "code": "[소계 04-02-01]",
+   "text": "상수도 소화용수 사용에 대하여 이해할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 04-02-02]",
+   "code": "[소계 04-02-02]",
+   "text": "상수도 소화용수 설비의 설치 기준 및 설치 면제에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 04-02-03]",
+   "code": "[소계 04-02-03]",
+   "text": "상수도 소화용수 설비의 적용 대상물에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 05-01-01]",
+   "code": "[소계 05-01-01]",
+   "text": "제연 설비의 개념과 원리에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 05-01-02]",
+   "code": "[소계 05-01-02]",
+   "text": "제연 구역의 구획 기준에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 05-01-03]",
+   "code": "[소계 05-01-03]",
+   "text": "제연 설비의 설치 장소 및 설치 제외 또는 면제에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 05-02-01]",
+   "code": "[소계 05-02-01]",
+   "text": "연결 살수 설비의 개념과 원리, 구성에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 05-02-02]",
+   "code": "[소계 05-02-02]",
+   "text": "연결 살수 설비 헤드의 종류 및 설치 기준에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 05-02-03]",
+   "code": "[소계 05-02-03]",
+   "text": "연결 살수 설비의 설치 장소 및 설치 면제에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 05-03-01]",
+   "code": "[소계 05-03-01]",
+   "text": "연결 송수관 설비의 개념과 원리에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 05-03-02]",
+   "code": "[소계 05-03-02]",
+   "text": "연결 송수관 설비의 구성과 종류에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 05-03-03]",
+   "code": "[소계 05-03-03]",
+   "text": "송수구와 방수구, 방수 기구함의 설치 기준에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 05-03-04]",
+   "code": "[소계 05-03-04]",
+   "text": "연결 송수관 설비의 설치 장소 및 설치 면제에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 05-04-01]",
+   "code": "[소계 05-04-01]",
+   "text": "연소 방지 설비의 개념과 원리, 설치 기준에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 05-04-02]",
+   "code": "[소계 05-04-02]",
+   "text": "연소 방지 도료의 도포 기준, 방화벽의 설치 기준에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 05-04-03]",
+   "code": "[소계 05-04-03]",
+   "text": "지하구의 통합 감시 시설 구축에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 05-05-01]",
+   "code": "[소계 05-05-01]",
+   "text": "비상 콘센트 설비의 개념과 설치 기준에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기계:[소계 05-05-02]",
+   "code": "[소계 05-05-02]",
+   "text": "무선 통신 보조 설비의 개념과 원리, 설치 기준에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 01-01-01]",
+   "code": "[소초 01-01-01]",
+   "text": "소방의 개념 및 필요성에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 01-01-02]",
+   "code": "[소초 01-01-02]",
+   "text": "소방 조직의 발전 과정을 시대별로 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 01-02-01]",
+   "code": "[소초 01-02-01]",
+   "text": "우리나라 소방 행정 조직의 종류와 업무 범위를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 01-02-02]",
+   "code": "[소초 01-02-02]",
+   "text": "소방 행정 조직의 목적 및 특성을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 01-03-01]",
+   "code": "[소초 01-03-01]",
+   "text": "소방 공무원의 계급을 알고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 01-03-02]",
+   "code": "[소초 01-03-02]",
+   "text": "소방 공무원의 의무를 이해하고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 01-04-01]",
+   "code": "[소초 01-04-01]",
+   "text": "화재의 예방, 경계, 진압 조사 활동에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 01-04-02]",
+   "code": "[소초 01-04-02]",
+   "text": "소방 시설의 설치 유지 및 안전 관리에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 01-04-03]",
+   "code": "[소초 01-04-03]",
+   "text": "구조·구급 활동에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 02-01-01]",
+   "code": "[소초 02-01-01]",
+   "text": "재난과 재해의 뜻을 구분하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 02-01-02]",
+   "code": "[소초 02-01-02]",
+   "text": "존스와 아네스에 의한 재난의 유형을 분류하고 이를 비교하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 02-01-03]",
+   "code": "[소초 02-01-03]",
+   "text": "재난 관리 4단계와 단계별 관리 사항을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 02-01-04]",
+   "code": "[소초 02-01-04]",
+   "text": "재난 및 안전 관리별, 책임별 권한을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 02-02-01]",
+   "code": "[소초 02-02-01]",
+   "text": "우리나라 안전 관리 기구와 기능을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 02-02-02]",
+   "code": "[소초 02-02-02]",
+   "text": "안전 관리 계획, 재난의 예방, 대비, 응급 대책, 복구에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 02-02-03]",
+   "code": "[소초 02-02-03]",
+   "text": "최근 우리나라의 주요 재난에 대해 조사하고, 재난 관련 탐구 보고서를 작성할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 03-01-01]",
+   "code": "[소초 03-01-01]",
+   "text": "연소의 정의 및 산화 반응, 발열 반응, 흡열 반응을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 03-01-02]",
+   "code": "[소초 03-01-02]",
+   "text": "연소 시 완전 연소와 불완전 연소를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 03-02-01]",
+   "code": "[소초 03-02-01]",
+   "text": "연소의 3대 요소와 4대 요소를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 03-02-02]",
+   "code": "[소초 03-02-02]",
+   "text": "가연물의 구비 조건과 특성에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 03-02-03]",
+   "code": "[소초 03-02-03]",
+   "text": "산소 공급원은 어떤 것들이 있는지 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 03-02-04]",
+   "code": "[소초 03-02-04]",
+   "text": "점화원의 종류와 형태를 분류할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 03-02-05]",
+   "code": "[소초 03-02-05]",
+   "text": "순조로운 연쇄 반응을 위한 연소의 종류를 비교 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 03-03-01]",
+   "code": "[소초 03-03-01]",
+   "text": "기체 연소, 액체 연소, 고체 연소에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 03-03-02]",
+   "code": "[소초 03-03-02]",
+   "text": "인화점, 연소점, 발화점의 용어를 비교 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 03-03-03]",
+   "code": "[소초 03-03-03]",
+   "text": "연소 시 산소량과 공기비를 계산하는 방법과 연소 방정식을 작성하고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 03-04-01]",
+   "code": "[소초 03-04-01]",
+   "text": "연소 가스의 연소 범위를 알고 위험도를 계산할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 03-04-02]",
+   "code": "[소초 03-04-02]",
+   "text": "보일･샤를의 법칙과 이상 기체 상태 방정식을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 03-04-03]",
+   "code": "[소초 03-04-03]",
+   "text": "화염의 확대 원인에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 03-04-04]",
+   "code": "[소초 03-04-04]",
+   "text": "열의 정의와 열전달 형태를 설명하고 열용량을 계산할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 03-04-05]",
+   "code": "[소초 03-04-05]",
+   "text": "연기와 제연 방식에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 04-01-01]",
+   "code": "[소초 04-01-01]",
+   "text": "화재의 정의에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 04-01-02]",
+   "code": "[소초 04-01-02]",
+   "text": "급수에 따른 화재를 분류할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 04-02-01]",
+   "code": "[소초 04-02-01]",
+   "text": "일반 화재의 원인과 성상에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 04-02-02]",
+   "code": "[소초 04-02-02]",
+   "text": "목조 건축물 화재와 내화 구조 건축물 화재의 특성에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 04-02-03]",
+   "code": "[소초 04-02-03]",
+   "text": "유류 화재의 이상 현상 등 성상에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 04-02-04]",
+   "code": "[소초 04-02-04]",
+   "text": "전기 화재의 원인과 성상에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 04-02-05]",
+   "code": "[소초 04-02-05]",
+   "text": "금속 화재의 원인과 성상에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 04-02-06]",
+   "code": "[소초 04-02-06]",
+   "text": "가스 화재의 원인과 성상에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 04-02-07]",
+   "code": "[소초 04-02-07]",
+   "text": "주방 화재의 원인과 성상에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 04-03-01]",
+   "code": "[소초 04-03-01]",
+   "text": "피난의 일반 원칙에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 04-03-02]",
+   "code": "[소초 04-03-02]",
+   "text": "건축물의 방화 계획, 방재 계획에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 04-03-03]",
+   "code": "[소초 04-03-03]",
+   "text": "내화 구조와 방화 구조를 구분하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 04-04-01]",
+   "code": "[소초 04-04-01]",
+   "text": "위험물의 류별 특성과 소화 방법에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 04-04-02]",
+   "code": "[소초 04-04-02]",
+   "text": "위험물 화재의 특수 현상과 대처법에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 04-05-01]",
+   "code": "[소초 04-05-01]",
+   "text": "폭발의 개념과 분류를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 04-05-02]",
+   "code": "[소초 04-05-02]",
+   "text": "블레비 현상에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 04-05-03]",
+   "code": "[소초 04-05-03]",
+   "text": "폭연과 폭굉에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 05-01-01]",
+   "code": "[소초 05-01-01]",
+   "text": "소화의 정의를 연소 현상을 이용하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 05-01-02]",
+   "code": "[소초 05-01-02]",
+   "text": "소화의 방법을 구분하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 05-02-01]",
+   "code": "[소초 05-02-01]",
+   "text": "소화 약제의 정의와 특징을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 05-02-02]",
+   "code": "[소초 05-02-02]",
+   "text": "물 소화 약제의 장단점과 물을 주수 형태로 구분하여 특징들에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 05-02-03]",
+   "code": "[소초 05-02-03]",
+   "text": "포 소화 약제의 구비 조건과 종류에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 05-02-04]",
+   "code": "[소초 05-02-04]",
+   "text": "강화액 소화 약제의 소화 효과 및 기준에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 05-02-05]",
+   "code": "[소초 05-02-05]",
+   "text": "이산화탄소 소화 약제의 특징 및 적응 화재에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 05-02-06]",
+   "code": "[소초 05-02-06]",
+   "text": "할론 소화 약제 및 불활성 기체 소화 약제에 대해 비교하고, 각각의 종류 및 특징에 대해 구분하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 05-02-07]",
+   "code": "[소초 05-02-07]",
+   "text": "분말 소화 약제의 특징 및 종류를 구분하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 06-01-01]",
+   "code": "[소초 06-01-01]",
+   "text": "소화 설비의 정의를 말할 수 있으며 종류에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 06-01-02]",
+   "code": "[소초 06-01-02]",
+   "text": "소화기를 능력단위에 따라 구분할 수 있으며, 소화기를 어느 곳에 설치해야 하는지에 대 해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 06-01-03]",
+   "code": "[소초 06-01-03]",
+   "text": "옥내 소화전의 구조, 작동 원리, 수원 저장 기준, 부속 장치의 종류와 기능에 대해 설명 할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 06-01-04]",
+   "code": "[소초 06-01-04]",
+   "text": "스프링클러의 종류를 구분할 수 있으며, 특징 및 작동 원리를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 06-01-05]",
+   "code": "[소초 06-01-05]",
+   "text": "물 분무 소화 설비의 구조 및 작동 원리에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 06-02-01]",
+   "code": "[소초 06-02-01]",
+   "text": "비상 경보 설비 및 단독 경보형 감지기의 종류와 작동 원리에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 06-02-02]",
+   "code": "[소초 06-02-02]",
+   "text": "자동 화재 속보 설비의 특징 및 설치 대상에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 06-02-03]",
+   "code": "[소초 06-02-03]",
+   "text": "자동 화재 탐지 설비의 작동 원리와 구성 요소에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 06-02-04]",
+   "code": "[소초 06-02-04]",
+   "text": "감지기의 종류 및 특징에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 06-02-05]",
+   "code": "[소초 06-02-05]",
+   "text": "P형 수신기와 R형 수신기, 발신기에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 06-03-01]",
+   "code": "[소초 06-03-01]",
+   "text": "피난 사닥다리, 구조대, 완강기의 구조 및 종류와 사용법에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 06-03-02]",
+   "code": "[소초 06-03-02]",
+   "text": "인명 구조 기구의 종류에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 06-03-03]",
+   "code": "[소초 06-03-03]",
+   "text": "설치 장소에 따른 유도등 및 유도 표지의 종류에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 06-03-04]",
+   "code": "[소초 06-03-04]",
+   "text": "비상 조명등 및 휴대용 비상 조명등에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 06-04-01]",
+   "code": "[소초 06-04-01]",
+   "text": "소화용수 설비의 종류와 사용법을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 06-05-01]",
+   "code": "[소초 06-05-01]",
+   "text": "제연 설비 설치 장소의 제연 구역 구획에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 06-05-02]",
+   "code": "[소초 06-05-02]",
+   "text": "연결 송수관 설비의 구성 요소와 건식과 습식 시스템의 차이점에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 06-05-03]",
+   "code": "[소초 06-05-03]",
+   "text": "연결 살수 설비의 구성 요소와 설치 대상에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 06-05-04]",
+   "code": "[소초 06-05-04]",
+   "text": "비상 콘센트 설비 전원 설치 기준과 설치 대상에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-기초:[소초 06-05-05]",
+   "code": "[소초 06-05-05]",
+   "text": "무선 통신 보조 설비 용어의 정의와 구성 요소에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 01-01-01]",
+   "code": "[소법 01-01-01]",
+   "text": "입법 과정에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 01-01-02]",
+   "code": "[소법 01-01-02]",
+   "text": "의원 발의 입법 과정에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 01-02-01]",
+   "code": "[소법 01-02-01]",
+   "text": "법의 위계에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 01-02-02]",
+   "code": "[소법 01-02-02]",
+   "text": "헌법, 법률, 명령, 조례, 규칙의 위계에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 01-02-03]",
+   "code": "[소법 01-02-03]",
+   "text": "법률 제·개정 절차에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 02-01-01]",
+   "code": "[소법 02-01-01]",
+   "text": "소방의 목적과 정의를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 02-01-02]",
+   "code": "[소법 02-01-02]",
+   "text": "소방 대상물과 관계 지역과 소방대를 알고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 02-01-03]",
+   "code": "[소법 02-01-03]",
+   "text": "119 종합상황실의 설치와 운영에 대해 발표할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 02-01-04]",
+   "code": "[소법 02-01-04]",
+   "text": "소방 업무에 관한 종합 계획에 대한 종합적 방향을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 02-02-01]",
+   "code": "[소법 02-02-01]",
+   "text": "소방력 계획 수립자를 조사하고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 02-02-02]",
+   "code": "[소법 02-02-02]",
+   "text": "소방 장비의 국고 보조 대상 사업 범위를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 02-02-03]",
+   "code": "[소법 02-02-03]",
+   "text": "소방용수 시설 설치와 관리를 조사하고 발표할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 02-02-04]",
+   "code": "[소법 02-02-04]",
+   "text": "소방 업무의 응원 체계와 상호 응원 협정에 대해 조사할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 02-02-05]",
+   "code": "[소법 02-02-05]",
+   "text": "소방력 동원의 개요를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 02-03-01]",
+   "code": "[소법 02-03-01]",
+   "text": "화재의 예방 조치에 관한 법을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 02-03-02]",
+   "code": "[소법 02-03-02]",
+   "text": "화재 경계 지구의 지정에 대해 조사하고 발표할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 02-03-03]",
+   "code": "[소법 02-03-03]",
+   "text": "소방 특별 조사·훈련과 교육에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 02-03-04]",
+   "code": "[소법 02-03-04]",
+   "text": "특수 가연물의 저장·취급 기준에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 02-04-01]",
+   "code": "[소법 02-04-01]",
+   "text": "소방 활동과 소방 지원 활동에 대해 구별할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 02-04-02]",
+   "code": "[소법 02-04-02]",
+   "text": "생활 안전 활동의 범위에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 02-04-03]",
+   "code": "[소법 02-04-03]",
+   "text": "소방 교육 훈련의 종류를 조사해서 발표할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 02-04-04]",
+   "code": "[소법 02-04-04]",
+   "text": "소방 안전 교육사의 응시 자격에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 02-04-05]",
+   "code": "[소법 02-04-05]",
+   "text": "소방 신호의 목적을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 02-04-06]",
+   "code": "[소법 02-04-06]",
+   "text": "소방 자동차의 우선 통행을 알아보고 실제 도로 현장에 적용해 본다",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 02-05-01]",
+   "code": "[소법 02-05-01]",
+   "text": "한국소방안전원 설립에 대한 목적과 업무를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 02-05-02]",
+   "code": "[소법 02-05-02]",
+   "text": "소방 기본법의 벌칙과 시행령 별표에 대해 조사할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 03-01-01]",
+   "code": "[소법 03-01-01]",
+   "text": "화재의 예방과 안전 관리의 정의에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 03-01-02]",
+   "code": "[소법 03-01-02]",
+   "text": "화재의 예방과 안전 관리 기본 계획의 수립·시행을 조사할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 03-01-03]",
+   "code": "[소법 03-01-03]",
+   "text": "화재 예방 정책에 대해 조사하고 발표할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 03-01-04]",
+   "code": "[소법 03-01-04]",
+   "text": "기본 계획과 시행 수립에 필요한 기초 자료 확보를 위한 실태 조사에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 03-02-01]",
+   "code": "[소법 03-02-01]",
+   "text": "화재 안전 조사의 정의에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 03-02-02]",
+   "code": "[소법 03-02-02]",
+   "text": "화재 안전 조사의 방법·절차를 조사하고 발표할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 03-02-03]",
+   "code": "[소법 03-02-03]",
+   "text": "화재 안전 조사 결과에 따른 조치 명령에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 03-02-04]",
+   "code": "[소법 03-02-04]",
+   "text": "화재 안전 조사 결과 공개에 대해 조사할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 03-03-01]",
+   "code": "[소법 03-03-01]",
+   "text": "화재의 예방 조치에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 03-03-02]",
+   "code": "[소법 03-03-02]",
+   "text": "화재 예방 강화 지구의 지정 등에 대해 실제 사례를 통해 적용시켜 볼 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 03-03-03]",
+   "code": "[소법 03-03-03]",
+   "text": "화재 안전 평가와 심의회에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 03-04-01]",
+   "code": "[소법 03-04-01]",
+   "text": "특정 소방 대상물의 소방 안전 관리에 대해 발표할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 03-04-02]",
+   "code": "[소법 03-04-02]",
+   "text": "소방 안전 관리자 선임 신고와 건설 현장 소방 안전 관리에 대해 이해하고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 03-04-03]",
+   "code": "[소법 03-04-03]",
+   "text": "소방 안전 관리자 자격과 자격증 발급에 대한 기준을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 03-04-04]",
+   "code": "[소법 03-04-04]",
+   "text": "소방 안전 관리자 자격의 정지와 취소 상황에 대해 조사할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 03-04-05]",
+   "code": "[소법 03-04-05]",
+   "text": "소방 안전 관리자 자격 시험에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 03-05-01]",
+   "code": "[소법 03-05-01]",
+   "text": "특별 관리 시설물의 대상을 알고 찾아볼 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 03-05-02]",
+   "code": "[소법 03-05-02]",
+   "text": "화재 예방 안전 진단의 범위에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 03-05-03]",
+   "code": "[소법 03-05-03]",
+   "text": "진단 기관의 지정과 취소에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 03-05-04]",
+   "code": "[소법 03-05-04]",
+   "text": "보칙과 벌칙에 대해 조사할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 04-01-01]",
+   "code": "[소법 04-01-01]",
+   "text": "소방 시설 설치와 관리에 관한 법률의 목적에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 04-01-02]",
+   "code": "[소법 04-01-02]",
+   "text": "소방 시설에 대한 정의를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 04-01-03]",
+   "code": "[소법 04-01-03]",
+   "text": "소방 시설 등의 설치·관리의 정책에 대해 조사할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 04-02-01]",
+   "code": "[소법 04-02-01]",
+   "text": "건축 허가에 대해 조사할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 04-02-02]",
+   "code": "[소법 04-02-02]",
+   "text": "소방 시설의 내진 설계 기준에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 04-02-03]",
+   "code": "[소법 04-02-03]",
+   "text": "소방 시설 성능 위주 설계에 대해 조사하고 발표할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 04-02-04]",
+   "code": "[소법 04-02-04]",
+   "text": "주택과 자동차에 설치하는 소화기와 소방 시설에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 04-03-01]",
+   "code": "[소법 04-03-01]",
+   "text": "특정 소방 대상물에 설치하는 소방 시설 대상물에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 04-03-02]",
+   "code": "[소법 04-03-02]",
+   "text": "소방 시설 기준 적용의 특례에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 04-03-03]",
+   "code": "[소법 04-03-03]",
+   "text": "특별 소방 대상물별로 설치하여야 하는 소방 시설의 정비에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 04-03-04]",
+   "code": "[소법 04-03-04]",
+   "text": "피난 시설, 방화 구획과 방화 시설 관리의 정의에 대해 조사할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 04-03-05]",
+   "code": "[소법 04-03-05]",
+   "text": "특정 소방 대상물의 방염과 방염 성능의 검사에 대해 조사할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 04-03-06]",
+   "code": "[소법 04-03-06]",
+   "text": "소방 시설의 자체 점검에 대해 조사할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 04-03-07]",
+   "code": "[소법 04-03-07]",
+   "text": "소방 시설 자체 점검 결과의 조치에 대해 조사할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 04-04-01]",
+   "code": "[소법 04-04-01]",
+   "text": "소방 시설 관리사에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 04-04-02]",
+   "code": "[소법 04-04-02]",
+   "text": "관리사의 결격 사유와 취소 정지에 대해 조사할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 04-04-03]",
+   "code": "[소법 04-04-03]",
+   "text": "소방 시설 관리업의 등록 절차에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 04-04-04]",
+   "code": "[소법 04-04-04]",
+   "text": "등록의 결격 사유에 대해 조사할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 04-04-05]",
+   "code": "[소법 04-04-05]",
+   "text": "과징금 처분에 대해 조사할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 04-05-01]",
+   "code": "[소법 04-05-01]",
+   "text": "소방용품의 형식 승인에 대해 조사하여 발표할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 04-05-02]",
+   "code": "[소법 04-05-02]",
+   "text": "소방용품의 형식 승인 변경과 취소에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 04-05-03]",
+   "code": "[소법 04-05-03]",
+   "text": "소방용품의 성능 인증에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 04-05-04]",
+   "code": "[소법 04-05-04]",
+   "text": "성능 인증 변경과 취소에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 04-05-05]",
+   "code": "[소법 04-05-05]",
+   "text": "우수 품질 제품에 대한 인증과 지원에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 05-01-01]",
+   "code": "[소법 05-01-01]",
+   "text": "소방 시설 공사업법의 목적과 용어에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 05-01-02]",
+   "code": "[소법 05-01-02]",
+   "text": "소방 시설업 등록 기준과 서류에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 05-01-03]",
+   "code": "[소법 05-01-03]",
+   "text": "소방 시설업의 결격 사유에 대해 조사할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 05-02-01]",
+   "code": "[소법 05-02-01]",
+   "text": "소방 시설 공사의 착공 신고에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 05-02-02]",
+   "code": "[소법 05-02-02]",
+   "text": "완공 검사의 절차에 대해 조사할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 05-02-03]",
+   "code": "[소법 05-02-03]",
+   "text": "공사의 하자 보수와 보증에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 05-02-04]",
+   "code": "[소법 05-02-04]",
+   "text": "시도 등록 기준에 따른 감리업을 구분할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 05-02-05]",
+   "code": "[소법 05-02-05]",
+   "text": "감리의 업무에 대해 조사하여 발표할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 05-02-06]",
+   "code": "[소법 05-02-06]",
+   "text": "공사 감리자의 지정에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 05-02-07]",
+   "code": "[소법 05-02-07]",
+   "text": "위반 사항에 대한 조치를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 05-02-08]",
+   "code": "[소법 05-02-08]",
+   "text": "하도급 제한에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 05-02-09]",
+   "code": "[소법 05-02-09]",
+   "text": "시공 능력 평가와 방법에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 05-03-01]",
+   "code": "[소법 05-03-01]",
+   "text": "소방 기술 경력 인정 범위에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 05-03-02]",
+   "code": "[소법 05-03-02]",
+   "text": "소방시설업자협회의 업무에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 05-03-03]",
+   "code": "[소법 05-03-03]",
+   "text": "소방 기술 인정 자격 취소를 통한 청문에 대해 조사할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 05-03-04]",
+   "code": "[소법 05-03-04]",
+   "text": "소방시설업자협회의 설립에 대해 조사할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 06-01-01]",
+   "code": "[소법 06-01-01]",
+   "text": "위험물 안전 관리법의 목적과 용어에 대한 정의를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 06-01-02]",
+   "code": "[소법 06-01-02]",
+   "text": "취급소와 저장소의 종류를 분류할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 06-01-03]",
+   "code": "[소법 06-01-03]",
+   "text": "위험물 사고를 예방하기 위한 국가의 책무에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 06-01-04]",
+   "code": "[소법 06-01-04]",
+   "text": "위험물 저장과 취급의 제한이 되는 것을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 06-01-05]",
+   "code": "[소법 06-01-05]",
+   "text": "위험물 설치와 변경에 대해 조사하고 발표할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 06-01-06]",
+   "code": "[소법 06-01-06]",
+   "text": "탱크 안전 성능 검사의 종류에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 06-01-07]",
+   "code": "[소법 06-01-07]",
+   "text": "제조소 등의 완공 검사에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 06-02-01]",
+   "code": "[소법 06-02-01]",
+   "text": "위험물 안전 관리자에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 06-02-02]",
+   "code": "[소법 06-02-02]",
+   "text": "탱크 시험자의 등록에 대해 조사할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 06-02-03]",
+   "code": "[소법 06-02-03]",
+   "text": "제조소 예방 규정에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 06-02-04]",
+   "code": "[소법 06-02-04]",
+   "text": "정기 점검과 정기 검사에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 06-02-05]",
+   "code": "[소법 06-02-05]",
+   "text": "자체 소방대에 관한 정의를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 06-02-06]",
+   "code": "[소법 06-02-06]",
+   "text": "화학 소방 자동차와 인원을 조사할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 06-03-01]",
+   "code": "[소법 06-03-01]",
+   "text": "위험물 운반의 중요 기준에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 06-03-02]",
+   "code": "[소법 06-03-02]",
+   "text": "위험물 운송에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 06-03-03]",
+   "code": "[소법 06-03-03]",
+   "text": "무허가 장소의 위험물에 대한 기준을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 06-03-04]",
+   "code": "[소법 06-03-04]",
+   "text": "위험물 저장 취급 장소의 출입과 검사 규정에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-법규:[소법 06-03-05]",
+   "code": "[소법 06-03-05]",
+   "text": "안전 관리자, 탱크 시험자, 위험물 운송자의 안전 교육에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 01-01-01]",
+   "code": "[소전 01-01-01]",
+   "text": "전압, 전류, 저항의 개념에 관해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 01-01-02]",
+   "code": "[소전 01-01-02]",
+   "text": "옴의 법칙과 전압 강하를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 01-01-03]",
+   "code": "[소전 01-01-03]",
+   "text": "저항의 직렬, 병렬 접속 회로에서 합성 저항, 전압 강하, 전류를 계산할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 01-01-04]",
+   "code": "[소전 01-01-04]",
+   "text": "키르히호프의 전류 법칙, 전압 법칙을 설명하고, 간단한 폐회로망의 전류와 전압의 크 기를 계산할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 01-02-01]",
+   "code": "[소전 01-02-01]",
+   "text": "회로 시험기에 대해 이해하고 전압, 전류, 저항을 측정하는 방법을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 01-02-02]",
+   "code": "[소전 01-02-02]",
+   "text": "배율기와 분류기에 대해 이해하고 활용하여 측정할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 01-02-03]",
+   "code": "[소전 01-02-03]",
+   "text": "저항 색띠의 값을 읽고 저항을 측정하여 비교할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 01-03-01]",
+   "code": "[소전 01-03-01]",
+   "text": "전력과 전력량에 관해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 01-03-02]",
+   "code": "[소전 01-03-02]",
+   "text": "전류의 발열 작용과 줄의 법칙에 대해 이해하고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 01-03-03]",
+   "code": "[소전 01-03-03]",
+   "text": "고유 저항, 전도율, 저항의 온도 계수에 관해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 01-03-04]",
+   "code": "[소전 01-03-04]",
+   "text": "열전 효과의 원리에 관해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 01-03-05]",
+   "code": "[소전 01-03-05]",
+   "text": "전류의 화학 작용을 설명하고 축전지에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 01-03-06]",
+   "code": "[소전 01-03-06]",
+   "text": "전기 화재의 원인에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 01-04-01]",
+   "code": "[소전 01-04-01]",
+   "text": "정현파 교류의 발생 원리를 설명하고, 정현파 전압과 전류를 파형으로 나타낼 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 01-04-02]",
+   "code": "[소전 01-04-02]",
+   "text": "주파수, 주기, 각속도, 위상차에 대해 이해하고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 01-04-03]",
+   "code": "[소전 01-04-03]",
+   "text": "순싯값, 평균값, 실횻값, 최댓값을 파형으로 나타낼 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 01-04-04]",
+   "code": "[소전 01-04-04]",
+   "text": "파고율과 파형률에 대해 이해하고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 01-05-01]",
+   "code": "[소전 01-05-01]",
+   "text": "저항, 인덕터, 커패시터의 종류와 특성을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 01-05-02]",
+   "code": "[소전 01-05-02]",
+   "text": "인덕터, 커패시터의 접속 방법과 축적되는 에너지를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 01-05-03]",
+   "code": "[소전 01-05-03]",
+   "text": "임피던스와 리액턴스에 관해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 01-05-04]",
+   "code": "[소전 01-05-04]",
+   "text": "RLC 기본 회로의 전압, 전류, 위상차를 파형으로 나타낼 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 01-06-01]",
+   "code": "[소전 01-06-01]",
+   "text": "피상 전력, 유효 전력, 무효 전력에 대해 이해하고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 01-06-02]",
+   "code": "[소전 01-06-02]",
+   "text": "복소 전력 및 최대 전력에 대해 이해하고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 01-06-03]",
+   "code": "[소전 01-06-03]",
+   "text": "역률 개선용 커패시터 용량에 대해 이해하고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 01-06-04]",
+   "code": "[소전 01-06-04]",
+   "text": "3상 교류의 발생 원리를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 01-06-05]",
+   "code": "[소전 01-06-05]",
+   "text": "Y 결선, Δ 결선, V 결선 회로를 구성하고, 각각의 전원 및 부하 특성을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 01-06-06]",
+   "code": "[소전 01-06-06]",
+   "text": "3상 교류 전력을 계산할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 02-01-01]",
+   "code": "[소전 02-01-01]",
+   "text": "전기장과 자기장에 대해 비교하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 02-01-02]",
+   "code": "[소전 02-01-02]",
+   "text": "전기장에서의 쿨롱의 법칙과 두 점 전하 사이에 작용하는 힘의 종류를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 02-01-03]",
+   "code": "[소전 02-01-03]",
+   "text": "자기장에서의 쿨롱의 법칙과 두 자극 사이에 작용하는 힘의 종류를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 02-01-04]",
+   "code": "[소전 02-01-04]",
+   "text": "앙페르의 오른나사의 법칙에 대해 이해하고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 02-01-05]",
+   "code": "[소전 02-01-05]",
+   "text": "플레밍의 왼손 법칙과 플레밍의 오른손 법칙에 대해 이해하고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 02-01-06]",
+   "code": "[소전 02-01-06]",
+   "text": "코일에 전류가 흐를 때 기전력이 발생하는 전자 유도에 대해 이해하고 관련 법칙을 설명 할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 02-01-07]",
+   "code": "[소전 02-01-07]",
+   "text": "자기 인덕턴스와 상호 인덕턴스를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 02-02-01]",
+   "code": "[소전 02-02-01]",
+   "text": "변압기의 구조 및 원리에 대해 이해하고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 02-02-02]",
+   "code": "[소전 02-02-02]",
+   "text": "변압기의 전압 변동률에 관해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 02-02-03]",
+   "code": "[소전 02-02-03]",
+   "text": "변압기의 손실과 효율에 관해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 02-02-04]",
+   "code": "[소전 02-02-04]",
+   "text": "변압기의 결선에 관해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 02-03-01]",
+   "code": "[소전 02-03-01]",
+   "text": "직류 전동기의 구조 및 원리에 대해 이해하고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 02-03-02]",
+   "code": "[소전 02-03-02]",
+   "text": "직류 전동기를 분류하고, 그 용도를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 02-03-03]",
+   "code": "[소전 02-03-03]",
+   "text": "직류 전동기의 속도 제어에 대해 이해하고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 02-03-04]",
+   "code": "[소전 02-03-04]",
+   "text": "직류 전동기의 제동에 대해 이해하고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 02-04-01]",
+   "code": "[소전 02-04-01]",
+   "text": "유도 전동기의 회전 원리에 관해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 02-04-02]",
+   "code": "[소전 02-04-02]",
+   "text": "유도 전동기의 속도를 계산할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 02-04-03]",
+   "code": "[소전 02-04-03]",
+   "text": "3상 유도 전동기의 구조 및 기동 방법에 관해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 02-04-04]",
+   "code": "[소전 02-04-04]",
+   "text": "펌프용 전동기와 제연 설비용 전동기의 용량을 계산할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 02-04-05]",
+   "code": "[소전 02-04-05]",
+   "text": "단상 유도 전동기의 원리를 이해하고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 02-05-01]",
+   "code": "[소전 02-05-01]",
+   "text": "시퀀스 제어의 제어 요소와 제어용 스위치의 종류에 관해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 02-05-02]",
+   "code": "[소전 02-05-02]",
+   "text": "전자 계전기, 전자 접촉기, 전자 개폐기, 타이머의 동작 원리를 이해하고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 02-05-03]",
+   "code": "[소전 02-05-03]",
+   "text": "기본적인 시퀀스도를 보고 기기 식별 문자를 표시하고, 작동 과정을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 02-05-04]",
+   "code": "[소전 02-05-04]",
+   "text": "시퀀스도를 불 대수와 논리 회로를 적용하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 02-06-01]",
+   "code": "[소전 02-06-01]",
+   "text": "소방 설비의 동력 제어 장치의 종류와 특징을 구분지어 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 02-06-02]",
+   "code": "[소전 02-06-02]",
+   "text": "전동기의 기동 정지 회로를 결선하고 동작 원리를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 02-06-03]",
+   "code": "[소전 02-06-03]",
+   "text": "자동 양수 회로를 결선하고 동작 원리를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 02-06-04]",
+   "code": "[소전 02-06-04]",
+   "text": "방화 셔터용 전동기의 정역 운전 회로를 결선하고 동작 원리를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 02-06-05]",
+   "code": "[소전 02-06-05]",
+   "text": "수계 펌프기의 Y-Δ 기동 회로를 결선하고 동작 원리를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 03-01-01]",
+   "code": "[소전 03-01-01]",
+   "text": "비상 경보 설비, 단독 경보형 감지기의 구조 및 작동 원리를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 03-01-02]",
+   "code": "[소전 03-01-02]",
+   "text": "자동 화재 속보 설비의 특징과 설치 기준을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 03-01-03]",
+   "code": "[소전 03-01-03]",
+   "text": "자동 화재 탐지 설비의 구성과 작동 원리를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 03-01-04]",
+   "code": "[소전 03-01-04]",
+   "text": "비상 방송 설비의 구성과 작동 원리를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 03-01-05]",
+   "code": "[소전 03-01-05]",
+   "text": "가스 누설 경보기의 종류와 작동 원리를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 03-01-07]",
+   "code": "[소전 03-01-07]",
+   "text": "감지기에 사용되는 반도체 소자의 종류와 사용 용도를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 03-01-08]",
+   "code": "[소전 03-01-08]",
+   "text": "감지기의 종류를 분류하고 구조 및 원리를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 03-02-01]",
+   "code": "[소전 03-02-01]",
+   "text": "유도등과 유도 표지의 종류에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 03-02-02]",
+   "code": "[소전 03-02-02]",
+   "text": "유도등을 설치해야 하는 장소 및 설치 기준을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 03-02-03]",
+   "code": "[소전 03-02-03]",
+   "text": "유도등의 회로를 배선할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 03-02-04]",
+   "code": "[소전 03-02-04]",
+   "text": "비상 조명등의 개념과 설치 기준을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 03-02-05]",
+   "code": "[소전 03-02-05]",
+   "text": "휴대용 비상 조명등의 설치 장소 및 설치 기준을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 03-03-01]",
+   "code": "[소전 03-03-01]",
+   "text": "비상 콘센트 설비의 개요 및 구성을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 03-03-02]",
+   "code": "[소전 03-03-02]",
+   "text": "무선 통신 보조 설비의 개요 및 구성을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 04-01-01]",
+   "code": "[소전 04-01-01]",
+   "text": "소방 회로와 일반 회로의 전원 공급의 차이점을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 04-01-02]",
+   "code": "[소전 04-01-02]",
+   "text": "비상 전원의 종류를 구분하고 종류별로 설계할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 04-01-03]",
+   "code": "[소전 04-01-03]",
+   "text": "내화 배선과 내열 배선을 구분하고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 04-01-04]",
+   "code": "[소전 04-01-04]",
+   "text": "과전류 차단기, 누전 차단기의 동작 원리를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 04-02-01]",
+   "code": "[소전 04-02-01]",
+   "text": "경보 설비에서 사용되는 송배전 방식과 교차 회로 배선 방식을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 04-02-02]",
+   "code": "[소전 04-02-02]",
+   "text": "수신기의 회로를 배선할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 04-02-03]",
+   "code": "[소전 04-02-03]",
+   "text": "발신기의 회로를 배선할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 04-02-04]",
+   "code": "[소전 04-02-04]",
+   "text": "감지기의 회로를 배선할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 04-02-05]",
+   "code": "[소전 04-02-05]",
+   "text": "자동 화재 탐지 설비의 구성 요소를 연결하는 배선을 할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 04-03-01]",
+   "code": "[소전 04-03-01]",
+   "text": "옥내 소화전 설비의 배선을 할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 04-03-02]",
+   "code": "[소전 04-03-02]",
+   "text": "스프링클러 설비의 배선을 할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 04-03-03]",
+   "code": "[소전 04-03-03]",
+   "text": "가스계 소화 설비의 배선을 할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-소방-전기:[소전 04-03-04]",
+   "code": "[소전 04-03-04]",
+   "text": "제연 설비의 배선을 할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 01-01-01]",
+   "code": "[인과 01-01-01]",
+   "text": "환경의 의미를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 01-01-02]",
+   "code": "[인과 01-01-02]",
+   "text": "환경의 종류를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 01-01-03]",
+   "code": "[인과 01-01-03]",
+   "text": "환경의 특성에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 01-02-01]",
+   "code": "[인과 01-02-01]",
+   "text": "지구 환경의 구성 요소를 구분하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 01-02-02]",
+   "code": "[인과 01-02-02]",
+   "text": "환경 오염 일반 항목 분석법을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 01-03-01]",
+   "code": "[인과 01-03-01]",
+   "text": "자연환경의 구성 요소를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 01-03-02]",
+   "code": "[인과 01-03-02]",
+   "text": "생활 환경의 구성 요소를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 02-01-01]",
+   "code": "[인과 02-01-01]",
+   "text": "인구 증가에 의해 발생하는 환경 문제를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 02-01-02]",
+   "code": "[인과 02-01-02]",
+   "text": "도시화에 의해 발생하는 환경 문제를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 02-02-01]",
+   "code": "[인과 02-02-01]",
+   "text": "개발에 의해 발생하는 환경 문제를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 02-02-02]",
+   "code": "[인과 02-02-02]",
+   "text": "경제 성장에 의해 발생하는 환경 문제를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 02-02-03]",
+   "code": "[인과 02-02-03]",
+   "text": "환경 영향 평가의 필요성을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 02-03-01]",
+   "code": "[인과 02-03-01]",
+   "text": "에너지 자원 실태를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 02-03-02]",
+   "code": "[인과 02-03-02]",
+   "text": "에너지 고갈로 인한 환경 문제를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 03-01-01]",
+   "code": "[인과 03-01-01]",
+   "text": "대기권의 구조에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 03-01-02]",
+   "code": "[인과 03-01-02]",
+   "text": "대기권의 역할에 대해 이해하고 환경 오염 물질 측정 기술을 살펴보고 현장에 적용할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 03-02-01]",
+   "code": "[인과 03-02-01]",
+   "text": "오존층의 역할에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 03-02-02]",
+   "code": "[인과 03-02-02]",
+   "text": "오존층의 역할에 대해 이해하여 환경 오염 물질 측정 실무에 활용할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 03-03-01]",
+   "code": "[인과 03-03-01]",
+   "text": "오존층을 파괴하는 원인 물질에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 03-03-02]",
+   "code": "[인과 03-03-02]",
+   "text": "오존층 파괴로 인한 피해 사례를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 03-04-01]",
+   "code": "[인과 03-04-01]",
+   "text": "오존층을 보호하기 위한 국제 협약을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 03-04-02]",
+   "code": "[인과 03-04-02]",
+   "text": "오존층을 보호하기 위한 우리나라 정책을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 03-05-01]",
+   "code": "[인과 03-05-01]",
+   "text": "오존층 파괴에 따른 환경 오염 물질 측정 기술에 대해 이해하여 산업 현장에 적용할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 04-01-01]",
+   "code": "[인과 04-01-01]",
+   "text": "공기의 구성 성분을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 04-01-02]",
+   "code": "[인과 04-01-02]",
+   "text": "대류권의 특징을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 04-01-03]",
+   "code": "[인과 04-01-03]",
+   "text": "대류권의 기상 현상을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 04-02-01]",
+   "code": "[인과 04-02-01]",
+   "text": "온실 효과를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 04-02-02]",
+   "code": "[인과 04-02-02]",
+   "text": "온실 효과가 발생하는 원인을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 04-02-03]",
+   "code": "[인과 04-02-03]",
+   "text": "온실 효과를 일으키는 온실가스를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 04-03-01]",
+   "code": "[인과 04-03-01]",
+   "text": "지구 온난화의 의미를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 04-03-02]",
+   "code": "[인과 04-03-02]",
+   "text": "지구 온난화의 발생과 가중 원인을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 04-04-01]",
+   "code": "[인과 04-04-01]",
+   "text": "지구 온난화에 의해 나타나는 현상을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 04-04-02]",
+   "code": "[인과 04-04-02]",
+   "text": "지구 온난화에 의한 인간의 피해 현상을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 04-04-03]",
+   "code": "[인과 04-04-03]",
+   "text": "지구 온난화가 생태계에 미치는 영향을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 04-04-04]",
+   "code": "[인과 04-04-04]",
+   "text": "지구 온난화 방지를 위한 정책과 국제 협약을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 04-04-05]",
+   "code": "[인과 04-04-05]",
+   "text": "대기 환경 오염 물질 측정 기술을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 05-01-01]",
+   "code": "[인과 05-01-01]",
+   "text": "대기 오염 현상을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 05-01-02]",
+   "code": "[인과 05-01-02]",
+   "text": "산성비의 정의에 대해 이해하고 우리나라의 산성비 특징을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 05-02-01]",
+   "code": "[인과 05-02-01]",
+   "text": "산성비의 원인을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 05-02-02]",
+   "code": "[인과 05-02-02]",
+   "text": "산성비의 생성 과정을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 05-03-01]",
+   "code": "[인과 05-03-01]",
+   "text": "산성비가 인체에 미치는 영향을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 05-03-02]",
+   "code": "[인과 05-03-02]",
+   "text": "산성비가 환경에 끼치는 영향을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 05-03-03]",
+   "code": "[인과 05-03-03]",
+   "text": "우리나라의 산성비 피해 현황을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 05-04-01]",
+   "code": "[인과 05-04-01]",
+   "text": "산성비 방지 활동을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 05-04-02]",
+   "code": "[인과 05-04-02]",
+   "text": "산성비와 관련된 환경 오염 물질 측정 기술을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 06-01-01]",
+   "code": "[인과 06-01-01]",
+   "text": "물의 특성과 순환을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 06-01-02]",
+   "code": "[인과 06-01-02]",
+   "text": "부영양화의 의미를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 06-02-01]",
+   "code": "[인과 06-02-01]",
+   "text": "수질 오염원의 종류를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 06-02-02]",
+   "code": "[인과 06-02-02]",
+   "text": "물의 자정 작용에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 06-02-03]",
+   "code": "[인과 06-02-03]",
+   "text": "부영양화의 원인을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 06-03-01]",
+   "code": "[인과 06-03-01]",
+   "text": "부영양화로 인한 피해에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 06-03-02]",
+   "code": "[인과 06-03-02]",
+   "text": "수질 오염 지표의 종류에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 06-04-01]",
+   "code": "[인과 06-04-01]",
+   "text": "부영양화의 예방 및 방지 활동의 물리적 처리 방법에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 06-04-02]",
+   "code": "[인과 06-04-02]",
+   "text": "부영양화의 예방 및 방지 활동의 화학적 처리 방법에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 06-04-03]",
+   "code": "[인과 06-04-03]",
+   "text": "부영양화의 예방 및 방지 활동의 생물학적 처리 방법에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 06-04-04]",
+   "code": "[인과 06-04-04]",
+   "text": "부영양화에 의한 수질 오염 물질을 측정할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 07-01-01]",
+   "code": "[인과 07-01-01]",
+   "text": "호르몬의 의미를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 07-01-02]",
+   "code": "[인과 07-01-02]",
+   "text": "호르몬의 기능을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 07-01-03]",
+   "code": "[인과 07-01-03]",
+   "text": "환경 호르몬의 의미를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 07-02-01]",
+   "code": "[인과 07-02-01]",
+   "text": "환경 호르몬 원인 물질의 종류를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 07-02-02]",
+   "code": "[인과 07-02-02]",
+   "text": "환경 호르몬 발생 과정을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 07-03-01]",
+   "code": "[인과 07-03-01]",
+   "text": "환경 호르몬의 흡수 경로를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 07-03-02]",
+   "code": "[인과 07-03-02]",
+   "text": "환경 호르몬으로 인한 피해에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 07-04-01]",
+   "code": "[인과 07-04-01]",
+   "text": "환경 호르몬 방지 활동에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 07-04-02]",
+   "code": "[인과 07-04-02]",
+   "text": "환경 호르몬 발생 방지를 위한 생활 수칙을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 07-05-01]",
+   "code": "[인과 07-05-01]",
+   "text": "환경 호르몬 물질 측정 절차에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 07-05-02]",
+   "code": "[인과 07-05-02]",
+   "text": "환경 호르몬 물질 측정 기술에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 07-05-03]",
+   "code": "[인과 07-05-03]",
+   "text": "환경 호르몬 물질의 측정 방법을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 08-01-01]",
+   "code": "[인과 08-01-01]",
+   "text": "토양의 정의를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 08-01-02]",
+   "code": "[인과 08-01-02]",
+   "text": "토양의 특성을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 08-01-03]",
+   "code": "[인과 08-01-03]",
+   "text": "토양의 기능과 조성을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 08-02-01]",
+   "code": "[인과 08-02-01]",
+   "text": "토양 오염의 의미를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 08-02-02]",
+   "code": "[인과 08-02-02]",
+   "text": "토양 오염의 특징을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 08-02-03]",
+   "code": "[인과 08-02-03]",
+   "text": "토양 오염 물질의 종류를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 08-03-01]",
+   "code": "[인과 08-03-01]",
+   "text": "농약의 의미를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 08-03-02]",
+   "code": "[인과 08-03-02]",
+   "text": "농약의 종류를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 08-03-03]",
+   "code": "[인과 08-03-03]",
+   "text": "농약에 의한 환경 오염을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 08-04-01]",
+   "code": "[인과 08-04-01]",
+   "text": "비료의 의미를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 08-04-02]",
+   "code": "[인과 08-04-02]",
+   "text": "비료의 종류를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 08-04-03]",
+   "code": "[인과 08-04-03]",
+   "text": "비료에 의한 환경 오염을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 08-05-01]",
+   "code": "[인과 08-05-01]",
+   "text": "유기 농업의 의미를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 08-05-02]",
+   "code": "[인과 08-05-02]",
+   "text": "친환경 농산물의 의미를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 08-05-03]",
+   "code": "[인과 08-05-03]",
+   "text": "친환경 농법의 종류를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 08-06-01]",
+   "code": "[인과 08-06-01]",
+   "text": "친환경 농법의 사례에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 08-06-02]",
+   "code": "[인과 08-06-02]",
+   "text": "농약과 비료에 의한 토양 오염 물질 측정 기술을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 09-01-01]",
+   "code": "[인과 09-01-01]",
+   "text": "유해 화학 물질의 종류에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 09-01-02]",
+   "code": "[인과 09-01-02]",
+   "text": "유해 화학 물질의 관리에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 09-01-03]",
+   "code": "[인과 09-01-03]",
+   "text": "유해 화학 물질의 중독에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 09-02-01]",
+   "code": "[인과 09-02-01]",
+   "text": "유해 화학 물질의 취급 기준을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 09-02-02]",
+   "code": "[인과 09-02-02]",
+   "text": "유해 화학 물질의 누출 사례에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 09-02-03]",
+   "code": "[인과 09-02-03]",
+   "text": "유해 화학 물질의 누출 시 비상 대응 요령을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 09-03-01]",
+   "code": "[인과 09-03-01]",
+   "text": "유해 화학 물질 노출 시 대응 요령에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 09-03-02]",
+   "code": "[인과 09-03-02]",
+   "text": "개인 보호구의 종류를 나열하고 사용 방법을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 09-03-03]",
+   "code": "[인과 09-03-03]",
+   "text": "유해 화학 물질 탐지 기술에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-인간과-환경:[인과 09-03-04]",
+   "code": "[인과 09-03-04]",
+   "text": "유해 화학 물질 분석 기술에 대해 이해하여 환경 오염 물질 측정 실무에 활용할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 01-01-01]",
+   "code": "[환기 01-01-01]",
+   "text": "환경 오염의 정의를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 01-01-02]",
+   "code": "[환기 01-01-02]",
+   "text": "환경 오염의 종류를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 01-01-03]",
+   "code": "[환기 01-01-03]",
+   "text": "환경 오염이 인체와 생태계에 미치는 영향 및 피해 현상에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 01-02-01]",
+   "code": "[환기 01-02-01]",
+   "text": "수질 관리, 대기 관리에 필요한 디지털 활용 환경 기술에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 01-02-02]",
+   "code": "[환기 01-02-02]",
+   "text": "폐기물 처리, 토양 및 지하수 오염 방지에 필요한 디지털 활용 환경 기술에 대하여 설명 할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 01-03-01]",
+   "code": "[환기 01-03-01]",
+   "text": "환경 보전을 위한 국내 법규와 정책에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 01-03-02]",
+   "code": "[환기 01-03-02]",
+   "text": "환경 보전을 위한 국제적 협약에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 02-01-01]",
+   "code": "[환기 02-01-01]",
+   "text": "물의 특성에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 02-01-02]",
+   "code": "[환기 02-01-02]",
+   "text": "수질 오염원의 종류 및 배출원과 영향에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 02-01-03]",
+   "code": "[환기 02-01-03]",
+   "text": "지표수의 특성에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 02-01-04]",
+   "code": "[환기 02-01-04]",
+   "text": "지하수의 특성에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 02-01-05]",
+   "code": "[환기 02-01-05]",
+   "text": "바닷물의 특성에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 02-01-06]",
+   "code": "[환기 02-01-06]",
+   "text": "수질 오염 지표 중 물리학적 지표의 종류와 특성에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 02-01-07]",
+   "code": "[환기 02-01-07]",
+   "text": "수질 오염 지표 중 화학적 지표의 종류와 특성에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 02-01-08]",
+   "code": "[환기 02-01-08]",
+   "text": "하천의 자정 작용 및 하천의 수질 관리 방안에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 02-01-09]",
+   "code": "[환기 02-01-09]",
+   "text": "호수의 부영양화 현상 및 호수의 수질 관리 방안에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 02-01-10]",
+   "code": "[환기 02-01-10]",
+   "text": "해양의 유류 오염 및 적조 현상을 이해하고, 해양의 수질 관리 방안에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 02-02-01]",
+   "code": "[환기 02-02-01]",
+   "text": "상수도 기본 계획을 위한 급수 인구 추정 및 급수량 산정 방법을 알고 계산할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 02-02-02]",
+   "code": "[환기 02-02-02]",
+   "text": "상수 처리 공정을 이해하고, 상수 처리 시설을 계통도로 만들어 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 02-02-03]",
+   "code": "[환기 02-02-03]",
+   "text": "하수의 배제 방식을 비교할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 02-02-04]",
+   "code": "[환기 02-02-04]",
+   "text": "하수도 기본 계획을 위한 우수량, 오수량 산정 방법을 알고 계산할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 02-03-01]",
+   "code": "[환기 02-03-01]",
+   "text": "하수 처리 공정을 이해하고, 하수 처리 시설을 계통도로 만들어 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 02-03-02]",
+   "code": "[환기 02-03-02]",
+   "text": "물리적 처리 공정에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 02-03-03]",
+   "code": "[환기 02-03-03]",
+   "text": "화학적 처리 공정에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 02-03-04]",
+   "code": "[환기 02-03-04]",
+   "text": "생물학적 처리 공정에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 02-03-05]",
+   "code": "[환기 02-03-05]",
+   "text": "고도 처리의 종류 및 특성에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 02-03-06]",
+   "code": "[환기 02-03-06]",
+   "text": "슬러지 처리 공정에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 02-03-07]",
+   "code": "[환기 02-03-07]",
+   "text": "분뇨 및 축산 폐수 처리의 특성에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 03-01-01]",
+   "code": "[환기 03-01-01]",
+   "text": "입자상 오염 물질의 종류 및 특성에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 03-01-02]",
+   "code": "[환기 03-01-02]",
+   "text": "가스상 오염 물질의 종류 및 특성에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 03-01-03]",
+   "code": "[환기 03-01-03]",
+   "text": "2차 오염의 종류 및 발생 과정에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 03-01-04]",
+   "code": "[환기 03-01-04]",
+   "text": "대기 오염 배출원 및 대기 오염 물질에 따른 영향을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 03-02-01]",
+   "code": "[환기 03-02-01]",
+   "text": "기상 현상 및 대기의 안정도에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 03-02-02]",
+   "code": "[환기 03-02-02]",
+   "text": "기상 현상과 대기 오염의 상관도 분석을 위해 필요한 디지털 기술 역량에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 03-02-03]",
+   "code": "[환기 03-02-03]",
+   "text": "세계적으로 유명한 대기 오염 사례를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 03-02-04]",
+   "code": "[환기 03-02-04]",
+   "text": "LA 스모그 사건과 런던 스모그 사건을 비교할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 03-03-01]",
+   "code": "[환기 03-03-01]",
+   "text": "연료의 종류 및 특성에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 03-03-02]",
+   "code": "[환기 03-03-02]",
+   "text": "연소 형태를 분류하고, 연소에 관련된 용어를 정의할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 03-03-03]",
+   "code": "[환기 03-03-03]",
+   "text": "이론 산소량과 이론 공기량, 공기비를 계산할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 03-03-04]",
+   "code": "[환기 03-03-04]",
+   "text": "연소 가스양, 공연비, 발열량을 계산할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 03-03-05]",
+   "code": "[환기 03-03-05]",
+   "text": "연소 장치의 종류와 특성에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 03-04-01]",
+   "code": "[환기 03-04-01]",
+   "text": "입자 및 집진의 기초 이론에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 03-04-02]",
+   "code": "[환기 03-04-02]",
+   "text": "집진 기술의 종류에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 03-04-03]",
+   "code": "[환기 03-04-03]",
+   "text": "집진 장치의 종류에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 03-04-04]",
+   "code": "[환기 03-04-04]",
+   "text": "집진 장치의 유지 관리에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 03-05-01]",
+   "code": "[환기 03-05-01]",
+   "text": "유해 가스의 특성 및 처리 이론에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 03-05-02]",
+   "code": "[환기 03-05-02]",
+   "text": "유해 가스의 종류에 따른 처리 방법을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 03-05-03]",
+   "code": "[환기 03-05-03]",
+   "text": "유해 가스 처리 장치의 종류 및 특성에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 04-01-01]",
+   "code": "[환기 04-01-01]",
+   "text": "폐기물의 분류 체계에 따라 폐기물을 분류할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 04-01-02]",
+   "code": "[환기 04-01-02]",
+   "text": "지정 폐기물을 정의하고 유해성에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 04-01-03]",
+   "code": "[환기 04-01-03]",
+   "text": "폐기물 발생량 예측 방법 및 발생량 조사 방법에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 04-01-04]",
+   "code": "[환기 04-01-04]",
+   "text": "폐기물의 특성에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 04-01-05]",
+   "code": "[환기 04-01-05]",
+   "text": "폐기물 수거 및 운반, 적환장, 폐기물 관리 체계에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 04-02-01]",
+   "code": "[환기 04-02-01]",
+   "text": "폐기물의 압축, 파쇄 및 절단, 선별 공정에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 04-02-02]",
+   "code": "[환기 04-02-02]",
+   "text": "폐기물의 고형화, 응집, 침전 공정에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 04-02-03]",
+   "code": "[환기 04-02-03]",
+   "text": "폐기물의 자원화에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 04-02-04]",
+   "code": "[환기 04-02-04]",
+   "text": "폐기물의 매립 공정에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 04-03-01]",
+   "code": "[환기 04-03-01]",
+   "text": "폐기물 소각 장치에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 04-03-02]",
+   "code": "[환기 04-03-02]",
+   "text": "폐기물의 열분해 및 폐열 회수 장치에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 04-03-03]",
+   "code": "[환기 04-03-03]",
+   "text": "폐기물 소각 공정에서 발생하는 오염 물질 처리법에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 04-03-04]",
+   "code": "[환기 04-03-04]",
+   "text": "폐기물 소각 공정에서 발생하는 오염 물질 제거 장치에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 05-01-01]",
+   "code": "[환기 05-01-01]",
+   "text": "소음의 발생과 특성에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 05-01-02]",
+   "code": "[환기 05-01-02]",
+   "text": "소음의 영향 및 평가 방법에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 05-01-03]",
+   "code": "[환기 05-01-03]",
+   "text": "진동의 크기 측정 방법에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 05-01-04]",
+   "code": "[환기 05-01-04]",
+   "text": "진동의 영향에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 05-02-01]",
+   "code": "[환기 05-02-01]",
+   "text": "소음 방지 대책에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 05-02-02]",
+   "code": "[환기 05-02-02]",
+   "text": "소음 방지 기술에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 05-02-03]",
+   "code": "[환기 05-02-03]",
+   "text": "방음 재료 및 시설에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 05-03-01]",
+   "code": "[환기 05-03-01]",
+   "text": "진동 방지 대책에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 05-03-02]",
+   "code": "[환기 05-03-02]",
+   "text": "진동 방지 기술에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 05-03-03]",
+   "code": "[환기 05-03-03]",
+   "text": "방진 재료 및 시설에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 06-01-01]",
+   "code": "[환기 06-01-01]",
+   "text": "토양의 특성에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 06-01-02]",
+   "code": "[환기 06-01-02]",
+   "text": "토양 미생물을 분류하고 미생물에 따른 정화 특성을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 06-02-01]",
+   "code": "[환기 06-02-01]",
+   "text": "토양 오염의 특성 및 영향에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 06-02-02]",
+   "code": "[환기 06-02-02]",
+   "text": "토양 오염원의 종류 및 환경 위해성 평가에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 06-02-03]",
+   "code": "[환기 06-02-03]",
+   "text": "지하수 오염의 특성에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 06-03-01]",
+   "code": "[환기 06-03-01]",
+   "text": "토양 및 지하수의 물리, 화학적 처리 기술에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 06-03-02]",
+   "code": "[환기 06-03-02]",
+   "text": "토양 및 지하수의 생물학적 처리 기술에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-기술:[환기 06-03-03]",
+   "code": "[환기 06-03-03]",
+   "text": "토양의 열적 처리 기술에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 01-01-01]",
+   "code": "[환화 01-01-01]",
+   "text": "질량의 기본 개념을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 01-01-02]",
+   "code": "[환화 01-01-02]",
+   "text": "질량의 측정 단위를 이해할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 01-02-01]",
+   "code": "[환화 01-02-01]",
+   "text": "부피의 기본 개념을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 01-02-02]",
+   "code": "[환화 01-02-02]",
+   "text": "부피의 측정 단위를 이해할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 01-03-01]",
+   "code": "[환화 01-03-01]",
+   "text": "측정 단위를 물질의 측정에 활용할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 01-04-01]",
+   "code": "[환화 01-04-01]",
+   "text": "용액의 농도 종류에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 01-05-01]",
+   "code": "[환화 01-05-01]",
+   "text": "물 오염 물질에 대한 농도 단위를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 01-05-02]",
+   "code": "[환화 01-05-02]",
+   "text": "대기 오염 물질의 농도 단위에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 01-06-01]",
+   "code": "[환화 01-06-01]",
+   "text": "측정 자료의 정확도를 이해하고 계측 자료를 나타낼 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 01-06-02]",
+   "code": "[환화 01-06-02]",
+   "text": "측정 자료의 정밀도를 이해하고 계측 자료를 나타낼 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 02-01-01]",
+   "code": "[환화 02-01-01]",
+   "text": "원자 번호와 질량에 관한 학습을 통하여 주기율표로부터 원소에 대해 필요한 정보를 얻을 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 02-01-02]",
+   "code": "[환화 02-01-02]",
+   "text": "원자 번호와 질량에 대한 이해를 통하여 환경 오염 물질의 측정 기술을 알고 현장에 적용 할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 02-02-01]",
+   "code": "[환화 02-02-01]",
+   "text": "물리적 변화를 구분할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 02-02-02]",
+   "code": "[환화 02-02-02]",
+   "text": "화학적 변화를 구분할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 02-03-01]",
+   "code": "[환화 02-03-01]",
+   "text": "화학 반응의 종류를 구분할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 02-04-01]",
+   "code": "[환화 02-04-01]",
+   "text": "몰의 개념을 이해하여 화학 반응식의 표현에 적용할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 02-05-01]",
+   "code": "[환화 02-05-01]",
+   "text": "질량 보존 법칙을 이해할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 02-06-01]",
+   "code": "[환화 02-06-01]",
+   "text": "일정 성분비의 법칙을 이해할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 02-07-01]",
+   "code": "[환화 02-07-01]",
+   "text": "배수 비례의 법칙을 이해할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 02-08-01]",
+   "code": "[환화 02-08-01]",
+   "text": "기체 반응의 법칙을 이해할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 03-01-01]",
+   "code": "[환화 03-01-01]",
+   "text": "화학 반응식의 균형을 이해할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 03-02-01]",
+   "code": "[환화 03-02-01]",
+   "text": "화학 반응식의 균형 이해를 통해 균형 화학 반응식을 완성할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 03-03-01]",
+   "code": "[환화 03-03-01]",
+   "text": "화학 반응식에서 분자의 몰수를 환산할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 03-04-01]",
+   "code": "[환화 03-04-01]",
+   "text": "화학 반응식에서 분자의 질량을 환산할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 03-05-01]",
+   "code": "[환화 03-05-01]",
+   "text": "화학량론을 통한 화학식량을 산출할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 03-06-01]",
+   "code": "[환화 03-06-01]",
+   "text": "질량을 물리량으로 산출할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 03-06-02]",
+   "code": "[환화 03-06-02]",
+   "text": "부피를 물리량으로 산출할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 03-07-01]",
+   "code": "[환화 03-07-01]",
+   "text": "이론적 수득량과 실제 수득량을 통하여 백분 수득률을 계산할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 03-08-01]",
+   "code": "[환화 03-08-01]",
+   "text": "용액 속의 용질의 몰수를 계산할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 03-08-02]",
+   "code": "[환화 03-08-02]",
+   "text": "용액 속의 용질의 몰수를 이용하여 몰 농도를 계산할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 03-09-01]",
+   "code": "[환화 03-09-01]",
+   "text": "용액의 몰 농도를 계산할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 03-09-02]",
+   "code": "[환화 03-09-02]",
+   "text": "용액의 몰 농도를 용질의 질량으로 환산할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 03-10-01]",
+   "code": "[환화 03-10-01]",
+   "text": "용액의 농도를 계산할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 03-10-02]",
+   "code": "[환화 03-10-02]",
+   "text": "용액의 농도 계산법을 이해하여 환경 오염 물질 농도 환산 및 적정 실험 결과의 농도를 산출할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 04-01-01]",
+   "code": "[환화 04-01-01]",
+   "text": "이온 결합에 대해 이해할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 04-02-01]",
+   "code": "[환화 04-02-01]",
+   "text": "이온의 크기에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 04-03-01]",
+   "code": "[환화 04-03-01]",
+   "text": "이온 결합 물질의 구조에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 04-03-02]",
+   "code": "[환화 04-03-02]",
+   "text": "이온 결합 물질의 성질에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 04-04-01]",
+   "code": "[환화 04-04-01]",
+   "text": "공유 결합과 루이스 전자점식에 대해 이해할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 04-05-01]",
+   "code": "[환화 04-05-01]",
+   "text": "극성 공유 결합과 전기 음성도에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 04-06-01]",
+   "code": "[환화 04-06-01]",
+   "text": "무극성 공유 결합과 전기 음성도에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 04-07-01]",
+   "code": "[환화 04-07-01]",
+   "text": "공유 결합 물질의 구조에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 04-08-01]",
+   "code": "[환화 04-08-01]",
+   "text": "배위 결합에 대해 이해할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 04-09-01]",
+   "code": "[환화 04-09-01]",
+   "text": "배위 결합의 구조에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 04-10-01]",
+   "code": "[환화 04-10-01]",
+   "text": "배위 결합 물질에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 05-01-01]",
+   "code": "[환화 05-01-01]",
+   "text": "중화 반응에 대해 이해할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 05-02-01]",
+   "code": "[환화 05-02-01]",
+   "text": "산과 염기에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 05-03-01]",
+   "code": "[환화 05-03-01]",
+   "text": "표준 용액에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 05-04-01]",
+   "code": "[환화 05-04-01]",
+   "text": "pH에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 05-05-01]",
+   "code": "[환화 05-05-01]",
+   "text": "중화 적정으로 환경 오염 물질을 측정할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 05-06-01]",
+   "code": "[환화 05-06-01]",
+   "text": "산화와 환원에 대해 이해할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 05-06-02]",
+   "code": "[환화 05-06-02]",
+   "text": "산화 환원 반응에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 05-06-03]",
+   "code": "[환화 05-06-03]",
+   "text": "산화제와 환원제에 대해 이해할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 05-07-01]",
+   "code": "[환화 05-07-01]",
+   "text": "산화 환원 적정으로 환경 오염 물질을 측정할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 05-08-01]",
+   "code": "[환화 05-08-01]",
+   "text": "침전 형성의 원리에 대해 이해할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 05-09-01]",
+   "code": "[환화 05-09-01]",
+   "text": "침전 적정법의 종류를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 05-10-01]",
+   "code": "[환화 05-10-01]",
+   "text": "침전 적정으로 환경 오염 물질을 측정할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 06-01-01]",
+   "code": "[환화 06-01-01]",
+   "text": "화학 평형의 의미를 이해할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 06-01-02]",
+   "code": "[환화 06-01-02]",
+   "text": "화학 평형의 의미 이해를 통하여 환경 오염 현상을 이해하는 데 활용할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 06-02-01]",
+   "code": "[환화 06-02-01]",
+   "text": "평형 상수에 대해 이해할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 06-02-02]",
+   "code": "[환화 06-02-02]",
+   "text": "평형 상수의 이해를 통하여 환경 오염 현상의 측정에 적용할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 06-03-01]",
+   "code": "[환화 06-03-01]",
+   "text": "완충 용액에 대하여 이해할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 06-03-02]",
+   "code": "[환화 06-03-02]",
+   "text": "완충 용액의 이해를 통하여 탄산염의 평형과 관련된 학습에 활용할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 06-04-01]",
+   "code": "[환화 06-04-01]",
+   "text": "탄산염과 탄산수소염에 대해 이해할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 06-05-01]",
+   "code": "[환화 06-05-01]",
+   "text": "탄산염과 탄산수소염의 이해를 통하여 환경 오염 현상을 이해하는 데 활용하고 환경 오염 현상의 측정에 적용할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 06-06-01]",
+   "code": "[환화 06-06-01]",
+   "text": "불균일 평형에 대해 이해할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 06-06-02]",
+   "code": "[환화 06-06-02]",
+   "text": "불균일 평형의 이해를 통하여 환경 오염 현상을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 06-07-01]",
+   "code": "[환화 06-07-01]",
+   "text": "불균일 평형 반응의 평형 상수에 대해 이해할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 06-07-02]",
+   "code": "[환화 06-07-02]",
+   "text": "불균일 평형 반응의 평형 상수의 이해를 통하여 환경 오염 현상의 측정에 적용할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 07-01-01]",
+   "code": "[환화 07-01-01]",
+   "text": "수질 환경 오염 물질의 종류를 특성에 따라 구분할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 07-01-02]",
+   "code": "[환화 07-01-02]",
+   "text": "대기 환경 오염 물질의 종류를 특성에 따라 구분할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 07-02-01]",
+   "code": "[환화 07-02-01]",
+   "text": "환경 오염 물질의 물리적 변화를 이해하고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 07-03-01]",
+   "code": "[환화 07-03-01]",
+   "text": "환경 오염 물질의 물리적 처리를 이해하고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 07-04-01]",
+   "code": "[환화 07-04-01]",
+   "text": "환경 오염 물질의 화학적 변화를 이해하고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 07-05-01]",
+   "code": "[환화 07-05-01]",
+   "text": "환경 오염 물질의 화학적 처리를 이해하고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 08-01-01]",
+   "code": "[환화 08-01-01]",
+   "text": "기체의 압력에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 08-01-02]",
+   "code": "[환화 08-01-02]",
+   "text": "기체의 부분 압력에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 08-02-01]",
+   "code": "[환화 08-02-01]",
+   "text": "압력에 따른 기체의 부피 변화를 보일의 법칙으로 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 08-03-01]",
+   "code": "[환화 08-03-01]",
+   "text": "온도에 따른 기체의 부피에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 08-04-01]",
+   "code": "[환화 08-04-01]",
+   "text": "온도에 따른 기체의 부피 변화를 샤를의 법칙으로 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 08-05-01]",
+   "code": "[환화 08-05-01]",
+   "text": "보일･샤를의 법칙을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 08-06-01]",
+   "code": "[환화 08-06-01]",
+   "text": "이상 기체 상태 방정식을 이용하여 기체의 성질을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 08-07-01]",
+   "code": "[환화 08-07-01]",
+   "text": "온도의 변화에 따른 기체의 밀도 변화에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 08-07-02]",
+   "code": "[환화 08-07-02]",
+   "text": "압력의 변화에 따른 기체의 밀도 변화에 대하여 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 09-01-01]",
+   "code": "[환화 09-01-01]",
+   "text": "유해한 무기 화합물의 정의를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 09-01-02]",
+   "code": "[환화 09-01-02]",
+   "text": "유해한 무기 화합물의 종류를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 09-02-01]",
+   "code": "[환화 09-02-01]",
+   "text": "유해한 무기 화합물을 검출하는 방법을 알 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 09-03-01]",
+   "code": "[환화 09-03-01]",
+   "text": "유해한 무기 화합물의 농도를 측정하는 방법을 알 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 09-04-01]",
+   "code": "[환화 09-04-01]",
+   "text": "유해한 유기 화합물의 정의를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 09-05-01]",
+   "code": "[환화 09-05-01]",
+   "text": "유해한 유기 화합물의 종류를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 09-06-01]",
+   "code": "[환화 09-06-01]",
+   "text": "유해한 유기 화합물을 검출하는 방법을 알 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 09-07-01]",
+   "code": "[환화 09-07-01]",
+   "text": "유해한 유기 화합물의 농도를 측정하는 방법을 알 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 09-08-01]",
+   "code": "[환화 09-08-01]",
+   "text": "유해한 무기 화합물의 명명법을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 09-09-01]",
+   "code": "[환화 09-09-01]",
+   "text": "유해한 유기 화합물의 명명법을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경-화학-기초:[환화 09-10-01]",
+   "code": "[환화 09-10-01]",
+   "text": "화합물 명명법을 이해하여 환경 오염 물질의 측정과 현장에 적용할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 01-01-01]",
+   "code": "[환과 01-01-01]",
+   "text": "생태계의 기본 개념을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 01-01-02]",
+   "code": "[환과 01-01-02]",
+   "text": "생태계를 이루고 있는 구성 요소를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 01-01-03]",
+   "code": "[환과 01-01-03]",
+   "text": "생태계를 항상성과 안정성 간의 관계를 이해하고 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 01-02-01]",
+   "code": "[환과 01-02-01]",
+   "text": "태양 에너지와 생태계의 기본적 관계를 알고 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 01-02-02]",
+   "code": "[환과 01-02-02]",
+   "text": "생태계 내에서 에너지의 흐름을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 01-02-03]",
+   "code": "[환과 01-02-03]",
+   "text": "태양 에너지 사용에 따른 생태계의 구분을 할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 01-03-01]",
+   "code": "[환과 01-03-01]",
+   "text": "먹이 연쇄를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 01-03-02]",
+   "code": "[환과 01-03-02]",
+   "text": "먹이 연쇄를 통한 에너지의 분배와 효율성을 이해하고 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 01-03-03]",
+   "code": "[환과 01-03-03]",
+   "text": "영양 구조를 기준으로 생태적 피라미드를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 02-01-01]",
+   "code": "[환과 02-01-01]",
+   "text": "물질 순환의 원리를 알고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 02-01-02]",
+   "code": "[환과 02-01-02]",
+   "text": "지구 환경 시스템(닫힌계)의 특징을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 02-02-01]",
+   "code": "[환과 02-02-01]",
+   "text": "물질 순환에서 미생물의 역할을 알고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 02-02-02]",
+   "code": "[환과 02-02-02]",
+   "text": "생태계 내에서 탄소의 순환을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 02-02-03]",
+   "code": "[환과 02-02-03]",
+   "text": "생태계 내에서 질소의 순환을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 02-02-04]",
+   "code": "[환과 02-02-04]",
+   "text": "생태계 내에서 산소의 순환을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 02-02-05]",
+   "code": "[환과 02-02-05]",
+   "text": "생태계 내에서 물의 순환을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 02-02-06]",
+   "code": "[환과 02-02-06]",
+   "text": "생태계 내에서 인, 칼슘의 순환을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 02-02-07]",
+   "code": "[환과 02-02-07]",
+   "text": "생태계 내에서 황의 순환을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 02-03-01]",
+   "code": "[환과 02-03-01]",
+   "text": "모델링 프로그램을 통한 물질 순환의 예측 가능성을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 03-01-01]",
+   "code": "[환과 03-01-01]",
+   "text": "개체군의 개념을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 03-01-02]",
+   "code": "[환과 03-01-02]",
+   "text": "개체군의 상호 작용과 특성을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 03-01-03]",
+   "code": "[환과 03-01-03]",
+   "text": "개체군의 밀도를 조절하는 원리를 알고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 03-01-04]",
+   "code": "[환과 03-01-04]",
+   "text": "개체군의 다양한 구조를 알고 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 03-02-01]",
+   "code": "[환과 03-02-01]",
+   "text": "개체군의 생장 모델 2가지를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 03-02-02]",
+   "code": "[환과 03-02-02]",
+   "text": "개체군의 생장 모델과 환경 저항의 역학적 관계를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 03-03-01]",
+   "code": "[환과 03-03-01]",
+   "text": "생물 군집의 개념을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 03-03-02]",
+   "code": "[환과 03-03-02]",
+   "text": "생물 군집의 유형별 특징을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 03-03-03]",
+   "code": "[환과 03-03-03]",
+   "text": "에너지 흐름에 따른 생태계 발전의 순서를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 03-04-01]",
+   "code": "[환과 03-04-01]",
+   "text": "군집의 생태적 천이와 안정성을 이해하고 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 03-04-02]",
+   "code": "[환과 03-04-02]",
+   "text": "극상 생태계를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 03-05-01]",
+   "code": "[환과 03-05-01]",
+   "text": "식물 군집 조사 방법을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 03-05-02]",
+   "code": "[환과 03-05-02]",
+   "text": "동물 군집 조사 방법을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 03-05-03]",
+   "code": "[환과 03-05-03]",
+   "text": "생태계 기능 조사 방법을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 03-05-04]",
+   "code": "[환과 03-05-04]",
+   "text": "생태계 환경 요인 조사 방법을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 04-01-01]",
+   "code": "[환과 04-01-01]",
+   "text": "동물의 계통 분류학 역사를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 04-01-02]",
+   "code": "[환과 04-01-02]",
+   "text": "식물의 계통 분류학 역사를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 04-02-01]",
+   "code": "[환과 04-02-01]",
+   "text": "종의 사전적 의미를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 04-02-02]",
+   "code": "[환과 04-02-02]",
+   "text": "종을 구별할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 04-03-01]",
+   "code": "[환과 04-03-01]",
+   "text": "집단의 단위를 구별할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 04-03-02]",
+   "code": "[환과 04-03-02]",
+   "text": "종의 분화에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 04-04-01]",
+   "code": "[환과 04-04-01]",
+   "text": "현대 계통 분류학의 개념을 알 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 04-04-02]",
+   "code": "[환과 04-04-02]",
+   "text": "현대 계통 분류학의 발전 과정을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 05-01-01]",
+   "code": "[환과 05-01-01]",
+   "text": "육상 생태계의 구성 요소와 특징을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 05-01-02]",
+   "code": "[환과 05-01-02]",
+   "text": "생물 다양성의 중요성과 유지 방안에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 05-01-03]",
+   "code": "[환과 05-01-03]",
+   "text": "육상 생태계의 보전 방안에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 05-02-01]",
+   "code": "[환과 05-02-01]",
+   "text": "담수 생태계를 이해하고 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 05-02-02]",
+   "code": "[환과 05-02-02]",
+   "text": "하천수와 호소수를 구별하고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 05-02-03]",
+   "code": "[환과 05-02-03]",
+   "text": "담수 생태계의 군집을 변동시키는 외부적 요인(환경 오염)을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 05-03-01]",
+   "code": "[환과 05-03-01]",
+   "text": "산림 생태계의 구성 요소와 특징을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 05-03-02]",
+   "code": "[환과 05-03-02]",
+   "text": "산림 생태계의 물질 순환을 이해하고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 05-03-03]",
+   "code": "[환과 05-03-03]",
+   "text": "산림 생태계의 복원 방법에 대해 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 05-03-04]",
+   "code": "[환과 05-03-04]",
+   "text": "탄소 중립과 산림 생태계의 관계를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 05-04-01]",
+   "code": "[환과 05-04-01]",
+   "text": "해양 생태계의 구성 요소와 특징을 이해하고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 05-04-02]",
+   "code": "[환과 05-04-02]",
+   "text": "기수역의 중요성과 보전의 경제학 가치를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 05-04-03]",
+   "code": "[환과 05-04-03]",
+   "text": "탄소의 저장 창고인 해양 생태계의 중요성을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 05-05-01]",
+   "code": "[환과 05-05-01]",
+   "text": "도시 생태계의 구성 요소와 특징을 이해하고 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 05-05-02]",
+   "code": "[환과 05-05-02]",
+   "text": "도심형 하천과 복원을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 05-05-03]",
+   "code": "[환과 05-05-03]",
+   "text": "비오톱에 대해 이야기할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 05-05-04]",
+   "code": "[환과 05-05-04]",
+   "text": "인간에 의해 인위적으로 구성된 도시 생태계의 지속가능성에 의문을 제기할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 06-01-01]",
+   "code": "[환과 06-01-01]",
+   "text": "인간의 활동으로 인한 생태계의 변화를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 06-01-02]",
+   "code": "[환과 06-01-02]",
+   "text": "인간의 활동으로 인한 환경 오염과 변화의 역학적 관계를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 06-02-01]",
+   "code": "[환과 06-02-01]",
+   "text": "기후변화로 인한 생태계 변화를 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 06-03-01]",
+   "code": "[환과 06-03-01]",
+   "text": "생물종 다양성 감소의 문제점을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 06-04-01]",
+   "code": "[환과 06-04-01]",
+   "text": "생태계를 보호하고 관리하는 방법을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-환경과-생태:[환과 06-04-02]",
+   "code": "[환과 06-04-02]",
+   "text": "자연 환경 보전법을 알고 보전 방안을 설명할 수 있다.",
+   "sourceId": "annex36",
+   "locator": "pattern-match"
+  }
+ ]
+}

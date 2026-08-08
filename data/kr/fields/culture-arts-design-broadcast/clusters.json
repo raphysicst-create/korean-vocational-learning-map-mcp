@@ -1,0 +1,1433 @@
+{
+ "clusters": [
+  {
+   "id": "kr.cluster.2022.high.01005c7065ba721271",
+   "titleKorean": "문화 콘텐츠 산업 일반 — 문화 콘텐츠 상품의 개발",
+   "subjectKorean": "문화 콘텐츠 산업 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "문화 콘텐츠 상품의 개발",
+   "summary": "문화 콘텐츠 산업 일반의 문화 콘텐츠 상품의 개발 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.0bec2f000cf59bd17e04",
+    "kr.topic.2022.high.21542f5c1974d1b151f6",
+    "kr.topic.2022.high.247cb03e914958dbbc1a",
+    "kr.topic.2022.high.2ba6da9544d7beab60ab",
+    "kr.topic.2022.high.cc6a4451376b203e652f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.027339a82b355d6204",
+   "titleKorean": "문화 콘텐츠 산업 일반 — 영역 05",
+   "subjectKorean": "문화 콘텐츠 산업 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "문화 콘텐츠 산업 일반의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.b92672e07541fdd4d5f5",
+    "kr.topic.2022.high.f992b996f1a61a48c413"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0311698ae5891595bf",
+   "titleKorean": "영상 제작 기초 — 후반 작업",
+   "subjectKorean": "영상 제작 기초",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "후반 작업",
+   "summary": "영상 제작 기초의 후반 작업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.362fadace8286caa0083",
+    "kr.topic.2022.high.537bd6561ad2ad345b58",
+    "kr.topic.2022.high.563fbef922fa2150657d",
+    "kr.topic.2022.high.8bc2629255a8ce85384a",
+    "kr.topic.2022.high.98212a6a02ad9c8e9c70",
+    "kr.topic.2022.high.9fee7cdd85e03d696901",
+    "kr.topic.2022.high.b3b3c9ed8e38e593bf35",
+    "kr.topic.2022.high.c32599957f4f891c5f60",
+    "kr.topic.2022.high.ea7b361ec212839da30b",
+    "kr.topic.2022.high.efc106e1373d698b1c71",
+    "kr.topic.2022.high.fd365252cfb5708045ae"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0eeb32d59f8a4508b1",
+   "titleKorean": "디자인 일반 — 디자인 분야",
+   "subjectKorean": "디자인 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "디자인 분야",
+   "summary": "디자인 일반의 디자인 분야 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.2f6ae618fa3f56b60612",
+    "kr.topic.2022.high.8afa07cb283a0c15b0e0",
+    "kr.topic.2022.high.979bdecf3cff763212a2",
+    "kr.topic.2022.high.9ab9a5b413e9d6b99c2d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.10ed173ecefd60fc23",
+   "titleKorean": "컴퓨터 그래픽 — 컴퓨터 그래픽의 원리",
+   "subjectKorean": "컴퓨터 그래픽",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "컴퓨터 그래픽의 원리",
+   "summary": "컴퓨터 그래픽의 컴퓨터 그래픽의 원리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.30470479207d3460bb35",
+    "kr.topic.2022.high.3f6b6edc94abce4a19c2",
+    "kr.topic.2022.high.ae2e93fc7a5a3261ddd8",
+    "kr.topic.2022.high.e37e0cbcb3ed4957fdbc"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.18c42bef8f984f0d6f",
+   "titleKorean": "공예 일반 — 금속 공예의 종류와 특성",
+   "subjectKorean": "공예 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "금속 공예의 종류와 특성",
+   "summary": "공예 일반의 금속 공예의 종류와 특성 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.1374b980e3fdfd73bba3",
+    "kr.topic.2022.high.2c74d22b51626b469541",
+    "kr.topic.2022.high.5f2223a4cad4155b6aa6",
+    "kr.topic.2022.high.7aea69d1149987111e50"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.199639c3468dab0b15",
+   "titleKorean": "색채 일반 — 디지털 색채",
+   "subjectKorean": "색채 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "디지털 색채",
+   "summary": "색채 일반의 디지털 색채 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.0fa7200c69f8146d6e77",
+    "kr.topic.2022.high.25356798ed8f7040e44f",
+    "kr.topic.2022.high.40a16a9c57b65f89a623",
+    "kr.topic.2022.high.4585ba629f7959871c9b",
+    "kr.topic.2022.high.8c8ab03365b9117a23fe",
+    "kr.topic.2022.high.a8fb062c7f666c121202",
+    "kr.topic.2022.high.d808b44e9342f106f4c7",
+    "kr.topic.2022.high.dd0eeac0cac9429c62c8",
+    "kr.topic.2022.high.e8df3f4661423be0a528"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.20b6b7adbb848f3070",
+   "titleKorean": "조형 — 표현 연습",
+   "subjectKorean": "조형",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "표현 연습",
+   "summary": "조형의 표현 연습 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.4d932baa1dee74409da2",
+    "kr.topic.2022.high.81f5b1d4df369522e27a",
+    "kr.topic.2022.high.a8e8e62bc4ffac3a1e4d",
+    "kr.topic.2022.high.c67873baac9c02bd6dc1",
+    "kr.topic.2022.high.de5aae1585fbe6ce6921",
+    "kr.topic.2022.high.e126cd62c70ca61c2ae8",
+    "kr.topic.2022.high.f47482009a01f6025e73"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.21f9f752602e08cc42",
+   "titleKorean": "색채 일반 — 색채 관리",
+   "subjectKorean": "색채 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "색채 관리",
+   "summary": "색채 일반의 색채 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.2a6aff4fd96c6b598451",
+    "kr.topic.2022.high.470e63dc17db7c52804d",
+    "kr.topic.2022.high.647487abe890b635ceb1",
+    "kr.topic.2022.high.7658945c874fbd97d570",
+    "kr.topic.2022.high.7dbd63f87ed0096f21a9",
+    "kr.topic.2022.high.7fd0f2720a38f393c204",
+    "kr.topic.2022.high.87cc045f881eabf59858",
+    "kr.topic.2022.high.bdd7fcf359b996f1e940",
+    "kr.topic.2022.high.c440b2e5c37e2f71058e",
+    "kr.topic.2022.high.f38c15e5ca8e2934408d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.276784f263ecdbf1b5",
+   "titleKorean": "컴퓨터 그래픽 — 컴퓨터 그래픽 디자인 활용",
+   "subjectKorean": "컴퓨터 그래픽",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "컴퓨터 그래픽 디자인 활용",
+   "summary": "컴퓨터 그래픽의 컴퓨터 그래픽 디자인 활용 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.1e5a15c4adfd926ba3b6",
+    "kr.topic.2022.high.2cb06f71ecf986a9aec3",
+    "kr.topic.2022.high.c501001099412d0e84f2",
+    "kr.topic.2022.high.f728bb702d479da09176"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.284f75a6cdcf832a25",
+   "titleKorean": "디자인 제도 — 도학",
+   "subjectKorean": "디자인 제도",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "도학",
+   "summary": "디자인 제도의 도학 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.2c13b28aa526c4fd37a7",
+    "kr.topic.2022.high.60a84abc7c6e5c8a0b40",
+    "kr.topic.2022.high.b3a0c9ef1bb2334bfe5f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2f2fb18e6c1ce0768c",
+   "titleKorean": "미디어 콘텐츠 일반 — 미디어 콘텐츠 기획",
+   "subjectKorean": "미디어 콘텐츠 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "미디어 콘텐츠 기획",
+   "summary": "미디어 콘텐츠 일반의 미디어 콘텐츠 기획 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.113f7d4f4a28e479644e",
+    "kr.topic.2022.high.172a46cf65dc590b0ba2",
+    "kr.topic.2022.high.3b76d66900f9804e9047",
+    "kr.topic.2022.high.8d51a3d8c2ce1d47fd86",
+    "kr.topic.2022.high.9eb795bd5eb59d0d0f50",
+    "kr.topic.2022.high.a439de8bbb0136da1fe2",
+    "kr.topic.2022.high.ab4a519100b7d84eefae",
+    "kr.topic.2022.high.d983870df9094a76cca0",
+    "kr.topic.2022.high.d9e44ce9f6df31678237",
+    "kr.topic.2022.high.efac20cf5abd74217f07"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.305dcf61ac6294d5fb",
+   "titleKorean": "문화 콘텐츠 산업 일반 — 영역 06",
+   "subjectKorean": "문화 콘텐츠 산업 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 06",
+   "summary": "문화 콘텐츠 산업 일반의 영역 06 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.0cc32dcc809c0ef6e30d",
+    "kr.topic.2022.high.33ec1f67d4014aa1f34f",
+    "kr.topic.2022.high.81af82fd962ed4157165",
+    "kr.topic.2022.high.a40cd1574e17aece202e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.31053302bb7acee95e",
+   "titleKorean": "조형 — 조형의 이해",
+   "subjectKorean": "조형",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "조형의 이해",
+   "summary": "조형의 조형의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.043f954095deb73f08d1",
+    "kr.topic.2022.high.16207019fb850374bdf2",
+    "kr.topic.2022.high.2fa1628d9f49156ef01f",
+    "kr.topic.2022.high.6019c96ddf95ffba44c1",
+    "kr.topic.2022.high.967e89d4da421e1ee452",
+    "kr.topic.2022.high.a3f2329e9641ab3cf984",
+    "kr.topic.2022.high.cec39c5385bfc12a2af7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.31d725f4669f222524",
+   "titleKorean": "애니메이션 기초 — 애니메이션 영상 제작",
+   "subjectKorean": "애니메이션 기초",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "애니메이션 영상 제작",
+   "summary": "애니메이션 기초의 애니메이션 영상 제작 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.4f5395d6b58e63f278f2",
+    "kr.topic.2022.high.51ec29b0581d5e699d94",
+    "kr.topic.2022.high.5f88173523eb9ae2c5dd",
+    "kr.topic.2022.high.94fc45c039bdab160aac",
+    "kr.topic.2022.high.f4fe0abf4919db3fdd78"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3235f46e492ab87646",
+   "titleKorean": "방송 일반 — 방송 촬영",
+   "subjectKorean": "방송 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "방송 촬영",
+   "summary": "방송 일반의 방송 촬영 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.4c51067f8ec3b09803e0",
+    "kr.topic.2022.high.5ff80c387e01623907f1",
+    "kr.topic.2022.high.8e575b1424458ac9c663",
+    "kr.topic.2022.high.e75a153831e9dfe6465f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.34a63da0eb32b2f2e3",
+   "titleKorean": "문화 콘텐츠 산업 일반 — 문화 콘텐츠 산업 분야별 이해",
+   "subjectKorean": "문화 콘텐츠 산업 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "문화 콘텐츠 산업 분야별 이해",
+   "summary": "문화 콘텐츠 산업 일반의 문화 콘텐츠 산업 분야별 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.1b27ab81c1f87a3bc851",
+    "kr.topic.2022.high.29d43ade7bc817dbeb51",
+    "kr.topic.2022.high.4373b941c7db046223d9",
+    "kr.topic.2022.high.8ad33f5c0c6f196dfc0a",
+    "kr.topic.2022.high.93b261727c37bd79e23e",
+    "kr.topic.2022.high.cd0419abd0679eaede8b",
+    "kr.topic.2022.high.d268d2e710a8ba323672",
+    "kr.topic.2022.high.e8d0e8dcbc55a879025e",
+    "kr.topic.2022.high.f7557e1efc9903749dab",
+    "kr.topic.2022.high.fbab104891838d8380ee"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3d7ade2bf9c32711a1",
+   "titleKorean": "공예 일반 — 공예의 개요",
+   "subjectKorean": "공예 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "공예의 개요",
+   "summary": "공예 일반의 공예의 개요 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.0ce6acac1f00a9316392",
+    "kr.topic.2022.high.3a67c0033f66f71a00ed",
+    "kr.topic.2022.high.9e322695a66ed9aa5125",
+    "kr.topic.2022.high.a947d63d0066344e8cf4",
+    "kr.topic.2022.high.e3cbe4bcb4c39dc14b08"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3f0d7789a3ba75f832",
+   "titleKorean": "영상 제작 기초 — 영상 기획",
+   "subjectKorean": "영상 제작 기초",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "영상 기획",
+   "summary": "영상 제작 기초의 영상 기획 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.039ff545b67425f6145a",
+    "kr.topic.2022.high.1e9cebbd74f078cd34bf",
+    "kr.topic.2022.high.3a8463073cad9a93634b",
+    "kr.topic.2022.high.47fe1bd3eb0bc0c79b3c",
+    "kr.topic.2022.high.9fd643fd96d2a5e412ee",
+    "kr.topic.2022.high.becdce0e5d3ec35f8286",
+    "kr.topic.2022.high.d70bf8e857bd92c958aa",
+    "kr.topic.2022.high.e0d26597ed96f6ba5f59"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.51ec678d46b17e6255",
+   "titleKorean": "애니메이션 기초 — 애니메이션 제작 과정",
+   "subjectKorean": "애니메이션 기초",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "애니메이션 제작 과정",
+   "summary": "애니메이션 기초의 애니메이션 제작 과정 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.231e211f3a4ba01db02e",
+    "kr.topic.2022.high.46cb7b3c24929fd38da1",
+    "kr.topic.2022.high.67654ea180ca9e0bcafd",
+    "kr.topic.2022.high.d1b939ebd057f0cf81c5",
+    "kr.topic.2022.high.fde0d79e887653270df1"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5a1d07ea70d2c26e7c",
+   "titleKorean": "미디어 콘텐츠 일반 — 미디어 콘텐츠 구성 요소",
+   "subjectKorean": "미디어 콘텐츠 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "미디어 콘텐츠 구성 요소",
+   "summary": "미디어 콘텐츠 일반의 미디어 콘텐츠 구성 요소 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.08a11be41ec5d94cda67",
+    "kr.topic.2022.high.0e75fcf0173333094c37",
+    "kr.topic.2022.high.17d1d33cc4b6911b3d3f",
+    "kr.topic.2022.high.2957b74ce996243eef20",
+    "kr.topic.2022.high.57bb6d6e20b50da37a33",
+    "kr.topic.2022.high.5c631a722e6df1966997",
+    "kr.topic.2022.high.8090833a4e25b073205b",
+    "kr.topic.2022.high.86cd1122191df4908b02",
+    "kr.topic.2022.high.e37d638c904ef221667d",
+    "kr.topic.2022.high.e449e4c9f9a6991258fd",
+    "kr.topic.2022.high.e6d482ee6a2ce413146c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5adba61a6db84772ca",
+   "titleKorean": "영상 제작 기초 — 영상 음향",
+   "subjectKorean": "영상 제작 기초",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "영상 음향",
+   "summary": "영상 제작 기초의 영상 음향 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.232365f05c43312ea356",
+    "kr.topic.2022.high.6e4d6d538cacb281c2f6",
+    "kr.topic.2022.high.6f00629ede67b4e7aa2b",
+    "kr.topic.2022.high.74629b44e367fb8c44d2",
+    "kr.topic.2022.high.a91bc12430122648f694",
+    "kr.topic.2022.high.ce3aaceb3ffbd0f044f5",
+    "kr.topic.2022.high.edfe683f901c00508993"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5c4a77fe04c696694c",
+   "titleKorean": "공예 일반 — 유리 공예의 종류와 특성",
+   "subjectKorean": "공예 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "유리 공예의 종류와 특성",
+   "summary": "공예 일반의 유리 공예의 종류와 특성 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.1c523ae08d966fc0ae09",
+    "kr.topic.2022.high.52a4ef8226c5eee427bc",
+    "kr.topic.2022.high.affbe255ac6fc4009dcf",
+    "kr.topic.2022.high.bcb2633f38a8120a136d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5d2afddd85f3a48624",
+   "titleKorean": "음악 콘텐츠 제작 기초 — 디지털 악기의 활용",
+   "subjectKorean": "음악 콘텐츠 제작 기초",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "디지털 악기의 활용",
+   "summary": "음악 콘텐츠 제작 기초의 디지털 악기의 활용 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.187cbf542b73dbf7aee7",
+    "kr.topic.2022.high.208f5b1477ab16ab3d8d",
+    "kr.topic.2022.high.2faad0de149ac95305d6",
+    "kr.topic.2022.high.469b05eca310d4487dec",
+    "kr.topic.2022.high.79c3cfa1163bbad92f0c",
+    "kr.topic.2022.high.9689ac653bf31546eb36",
+    "kr.topic.2022.high.9800327257d737febecd",
+    "kr.topic.2022.high.9dff092eedd9912a62f5",
+    "kr.topic.2022.high.dc3a6d312f879bd15a9f",
+    "kr.topic.2022.high.f9fd2c383a4653dd45a6",
+    "kr.topic.2022.high.ffb9632512758fb4a82f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5ff13fba7185e772c8",
+   "titleKorean": "조형 — 표현의 세계",
+   "subjectKorean": "조형",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "표현의 세계",
+   "summary": "조형의 표현의 세계 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.16a04f1e1d8a4e6173cd",
+    "kr.topic.2022.high.27116c9a5bb8b2a168c6",
+    "kr.topic.2022.high.37ee7da8b2cdf2e8ac81",
+    "kr.topic.2022.high.577ba346d7cacb544465",
+    "kr.topic.2022.high.7e8c54debb1e026293ca",
+    "kr.topic.2022.high.908d6beea75f797af763",
+    "kr.topic.2022.high.ad10c04290b7781eda3d",
+    "kr.topic.2022.high.e0f1b2f07be21e04a75d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.64c9b01bf613df76f1",
+   "titleKorean": "미디어 콘텐츠 일반 — 영역 05",
+   "subjectKorean": "미디어 콘텐츠 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "미디어 콘텐츠 일반의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.27c28fccf5d7f62c17df",
+    "kr.topic.2022.high.87c59b3c9a959bfc972d",
+    "kr.topic.2022.high.aa415a59d3319d8417b2",
+    "kr.topic.2022.high.eeb2fe850a5353f9990b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.658a6580dcd9e83879",
+   "titleKorean": "색채 일반 — 색채 지각",
+   "subjectKorean": "색채 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "색채 지각",
+   "summary": "색채 일반의 색채 지각 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.0bb6e670e2191fe935dc",
+    "kr.topic.2022.high.2d0fc03bcf02bbf37f05",
+    "kr.topic.2022.high.61d90b60577f0c4dfaee",
+    "kr.topic.2022.high.7fc98a9f0f2695f2f203",
+    "kr.topic.2022.high.a0c123cc100e70d74369",
+    "kr.topic.2022.high.b5fd5a4c1c13505772ae",
+    "kr.topic.2022.high.c0a05f1e2d54b1d837e4",
+    "kr.topic.2022.high.c89099d12b6581b5285e",
+    "kr.topic.2022.high.d1ad01150b1edb83bcc3"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6712d92ad8f4fd95d9",
+   "titleKorean": "방송 일반 — 방송의 개념",
+   "subjectKorean": "방송 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "방송의 개념",
+   "summary": "방송 일반의 방송의 개념 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.7888b988a07a12814715",
+    "kr.topic.2022.high.97c5305780966e1b993c",
+    "kr.topic.2022.high.be9a63d5657b0dea62bf",
+    "kr.topic.2022.high.d3b8ee1d981405ae8ede"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.67d41882fb171cf8b7",
+   "titleKorean": "공예 재료와 도구 — 도자기 공예 재료와 도구",
+   "subjectKorean": "공예 재료와 도구",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "도자기 공예 재료와 도구",
+   "summary": "공예 재료와 도구의 도자기 공예 재료와 도구 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.0230aec918c550ec3cf6",
+    "kr.topic.2022.high.0cb832c6e1acdf73e081",
+    "kr.topic.2022.high.392d1675e61bd94f88a5",
+    "kr.topic.2022.high.51b602a7e7ba4e96d040",
+    "kr.topic.2022.high.60e1c91b63712db636f8",
+    "kr.topic.2022.high.81dc696266f6e4ccd76d",
+    "kr.topic.2022.high.bd7900f8b7b31a129aeb",
+    "kr.topic.2022.high.be5e187b616180f94f46",
+    "kr.topic.2022.high.ea0d1093ff994ca7b299"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6f9cf554d8467f98cf",
+   "titleKorean": "방송 일반 — 방송 기획과 제작",
+   "subjectKorean": "방송 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "방송 기획과 제작",
+   "summary": "방송 일반의 방송 기획과 제작 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.6c2bae18d421d4d87efa",
+    "kr.topic.2022.high.ded130124e73e3c8b245"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6febd8be8a061e4aca",
+   "titleKorean": "미디어 콘텐츠 일반 — 미디어 콘텐츠 실무",
+   "subjectKorean": "미디어 콘텐츠 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "미디어 콘텐츠 실무",
+   "summary": "미디어 콘텐츠 일반의 미디어 콘텐츠 실무 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.38e4f29012fe21b1da4f",
+    "kr.topic.2022.high.54015e047afac309dbc7",
+    "kr.topic.2022.high.64be1ccd651a94dbcef4",
+    "kr.topic.2022.high.eee388e79f0c2fbbf9b9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.74714323d4a43a5c6c",
+   "titleKorean": "음악 콘텐츠 제작 기초 — 음악 콘텐츠 제작 실무",
+   "subjectKorean": "음악 콘텐츠 제작 기초",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "음악 콘텐츠 제작 실무",
+   "summary": "음악 콘텐츠 제작 기초의 음악 콘텐츠 제작 실무 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.18803a44d0f156563630",
+    "kr.topic.2022.high.46dcf3877060d739f383",
+    "kr.topic.2022.high.4c757206ee95d58b61de",
+    "kr.topic.2022.high.6f82d241dea64ffb2840",
+    "kr.topic.2022.high.734b8d3441f3221c1399",
+    "kr.topic.2022.high.798306bec729f240de99",
+    "kr.topic.2022.high.a899b228115a0e63cff7",
+    "kr.topic.2022.high.b2c643a957254b5766c1",
+    "kr.topic.2022.high.bad17f057f3aea8a2ec7",
+    "kr.topic.2022.high.d7e5849406d36d703c75",
+    "kr.topic.2022.high.e62cd09108d67fa736cf",
+    "kr.topic.2022.high.fdb20a603f3cacf5f8fa"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.79e4dd0f268bf1ca84",
+   "titleKorean": "디자인 제도 — 디자인 제도의 이해",
+   "subjectKorean": "디자인 제도",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "디자인 제도의 이해",
+   "summary": "디자인 제도의 디자인 제도의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.443c3c142750a7033dba",
+    "kr.topic.2022.high.8f7331f0212ecc45668f",
+    "kr.topic.2022.high.c64475dde67066b151e1"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7d85ce903048b28ce9",
+   "titleKorean": "음악 콘텐츠 제작 기초 — 사운드 디자인의 기초",
+   "subjectKorean": "음악 콘텐츠 제작 기초",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "사운드 디자인의 기초",
+   "summary": "음악 콘텐츠 제작 기초의 사운드 디자인의 기초 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.0121b221c73c456c79dd",
+    "kr.topic.2022.high.2dd2fc4553a99896f9a9",
+    "kr.topic.2022.high.4570a1b9173010c7ede8",
+    "kr.topic.2022.high.48ceb0b30a1e6bc708ab",
+    "kr.topic.2022.high.4c1fb7aedc35ac7ed9f8",
+    "kr.topic.2022.high.569fe3b22b7fc30bdc9b",
+    "kr.topic.2022.high.66390299ee85bfb35c42",
+    "kr.topic.2022.high.7c4d71593541e48f64d6",
+    "kr.topic.2022.high.d45f20d9bb0363853c6f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7f016a49ad0ba2a234",
+   "titleKorean": "색채 일반 — 색채 체계",
+   "subjectKorean": "색채 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "색채 체계",
+   "summary": "색채 일반의 색채 체계 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.035ee6cc877f75edd32c",
+    "kr.topic.2022.high.3664d56cfa5934bd0f2e",
+    "kr.topic.2022.high.67bf5dd144006744c355",
+    "kr.topic.2022.high.96e3da2dd73c1b7704f0",
+    "kr.topic.2022.high.ab9315d0b76c8d8f0b3d",
+    "kr.topic.2022.high.c80a511cbbfbc76aff78",
+    "kr.topic.2022.high.d71c2a37875d8e0cb883",
+    "kr.topic.2022.high.db43eae37f48b2db1e68"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.8dd9c9454cc8feb976",
+   "titleKorean": "컴퓨터 그래픽 — 컴퓨터 그래픽의 이해",
+   "subjectKorean": "컴퓨터 그래픽",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "컴퓨터 그래픽의 이해",
+   "summary": "컴퓨터 그래픽의 컴퓨터 그래픽의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.3bedb906a6ae6753c1d6",
+    "kr.topic.2022.high.982c67bf88ab1aa93988",
+    "kr.topic.2022.high.b89486e26c8605c6fb59",
+    "kr.topic.2022.high.d7eef7d8d0cd19ebd66c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.93cf6299101657ba4d",
+   "titleKorean": "영상 제작 기초 — 조명과 미술",
+   "subjectKorean": "영상 제작 기초",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "조명과 미술",
+   "summary": "영상 제작 기초의 조명과 미술 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.011098d012f00d912077",
+    "kr.topic.2022.high.0dbddb54d6b5fa6f3b05",
+    "kr.topic.2022.high.7159c9c78ce79df57fff",
+    "kr.topic.2022.high.80455d88545da940ccd2",
+    "kr.topic.2022.high.80ab15f7a6ea7f3058fc",
+    "kr.topic.2022.high.9862c60dc17e137df279",
+    "kr.topic.2022.high.9b61353ee0e910522b6b",
+    "kr.topic.2022.high.a28c9ec0e47acb47a838",
+    "kr.topic.2022.high.dd242d2fb61d3721229d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9594afb9d940dff43c",
+   "titleKorean": "음악 콘텐츠 제작 기초 — 영역 04",
+   "subjectKorean": "음악 콘텐츠 제작 기초",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 04",
+   "summary": "음악 콘텐츠 제작 기초의 영역 04 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.309606a4a9fbf3ee9696",
+    "kr.topic.2022.high.772ef5dde5afafb519db",
+    "kr.topic.2022.high.b997271e71af7c862975",
+    "kr.topic.2022.high.c7848b6ef054b9697714",
+    "kr.topic.2022.high.f86fb89cdc97d9297240",
+    "kr.topic.2022.high.fadff58eaa8efe12d70b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9603ac06b6d09a1921",
+   "titleKorean": "문화 콘텐츠 산업 일반 — 문화 콘텐츠 산업 기획",
+   "subjectKorean": "문화 콘텐츠 산업 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "문화 콘텐츠 산업 기획",
+   "summary": "문화 콘텐츠 산업 일반의 문화 콘텐츠 산업 기획 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.08c2f191918a5b6f4646",
+    "kr.topic.2022.high.16d1888a89577a784a78",
+    "kr.topic.2022.high.605439e9047518eababe",
+    "kr.topic.2022.high.72c64f8810b062c0dbd9",
+    "kr.topic.2022.high.a78a7fd4649afd69bd35",
+    "kr.topic.2022.high.bdac25ba584f21ec4d8a",
+    "kr.topic.2022.high.d358654a9719f5dba01d",
+    "kr.topic.2022.high.e3f23b42e8ee7505b6db",
+    "kr.topic.2022.high.eb0d46096b664e825fa9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.97236fca12aef0b49f",
+   "titleKorean": "공예 재료와 도구 — 금속 공예 재료와 도구",
+   "subjectKorean": "공예 재료와 도구",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "금속 공예 재료와 도구",
+   "summary": "공예 재료와 도구의 금속 공예 재료와 도구 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.354e3ae1baa4b3b87775",
+    "kr.topic.2022.high.5e526d52dd222ccacb38",
+    "kr.topic.2022.high.66f40883c4bf06b5fb9c",
+    "kr.topic.2022.high.68597533c6fd9c0fec2b",
+    "kr.topic.2022.high.8e709f68dfec750ad375",
+    "kr.topic.2022.high.c6021e1aaa596c5a6287",
+    "kr.topic.2022.high.c6d92bebd475581cb426",
+    "kr.topic.2022.high.d3dba1af4c38ce98516a",
+    "kr.topic.2022.high.db3c076131d28e2437dd"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.987163f556671cf3e6",
+   "titleKorean": "컴퓨터 그래픽 — 컴퓨터 그래픽 응용 표현",
+   "subjectKorean": "컴퓨터 그래픽",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "컴퓨터 그래픽 응용 표현",
+   "summary": "컴퓨터 그래픽의 컴퓨터 그래픽 응용 표현 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.2c363253ae8ece7c84a7",
+    "kr.topic.2022.high.6ea18b3449ad86b045f4",
+    "kr.topic.2022.high.d1c59e0f8cc7eb53d1b1",
+    "kr.topic.2022.high.e745f9b5ca1d9944e796"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9d43f2752e713b9616",
+   "titleKorean": "영상 제작 기초 — 제작 준비",
+   "subjectKorean": "영상 제작 기초",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "제작 준비",
+   "summary": "영상 제작 기초의 제작 준비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.1650aa16f7e8e8b9e47b",
+    "kr.topic.2022.high.360a4c5d9ab46c526cfb",
+    "kr.topic.2022.high.3d0c514297929657d0c2",
+    "kr.topic.2022.high.4d05aac3194ebc168d19",
+    "kr.topic.2022.high.54b39c8234c16cca5dcb",
+    "kr.topic.2022.high.93cb703cd56d28423f7b",
+    "kr.topic.2022.high.b70a613b24075a1efd56",
+    "kr.topic.2022.high.c3b9581b0880879a3a0c",
+    "kr.topic.2022.high.e6ea6acb8e1cd1b0aa5b",
+    "kr.topic.2022.high.f9981e77363e2cf6c6fc",
+    "kr.topic.2022.high.fd09f3a80215cafa4017"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a6908deb3cb15d776e",
+   "titleKorean": "미디어 콘텐츠 일반 — 미디어 콘텐츠 제작",
+   "subjectKorean": "미디어 콘텐츠 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "미디어 콘텐츠 제작",
+   "summary": "미디어 콘텐츠 일반의 미디어 콘텐츠 제작 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.079b1ae054bc4102b43c",
+    "kr.topic.2022.high.2135f3aa608c776beddb",
+    "kr.topic.2022.high.2cfd2583ea738d23b870",
+    "kr.topic.2022.high.3ea17c068e6196bd97c7",
+    "kr.topic.2022.high.55b6ee867237fc8b6906",
+    "kr.topic.2022.high.8b602164d247ce023f13",
+    "kr.topic.2022.high.a222025cf2701611cf41",
+    "kr.topic.2022.high.e1894af5957a75d1170d",
+    "kr.topic.2022.high.ec8ec5cef834ec380eba",
+    "kr.topic.2022.high.f630ef946aaa4a227c6a",
+    "kr.topic.2022.high.fdf1bcf6611a7d94d1f0"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ad4c405f0a1cf504ed",
+   "titleKorean": "디자인 일반 — 디자인의 개요",
+   "subjectKorean": "디자인 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "디자인의 개요",
+   "summary": "디자인 일반의 디자인의 개요 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.58411de88c7352ca5250",
+    "kr.topic.2022.high.64daa91e7f7eaccbaa23",
+    "kr.topic.2022.high.8548dd5e946014592663",
+    "kr.topic.2022.high.93a4719b2d59e43ab533",
+    "kr.topic.2022.high.fa304b6ac26abad97495"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ae07c11809732c72f5",
+   "titleKorean": "공예 일반 — 목공예의 종류와 특성",
+   "subjectKorean": "공예 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "목공예의 종류와 특성",
+   "summary": "공예 일반의 목공예의 종류와 특성 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.315d998c7ae8095a5f41",
+    "kr.topic.2022.high.445d935cc6bf4a0de9d5",
+    "kr.topic.2022.high.4d407565fd3edb3ab67a",
+    "kr.topic.2022.high.7a4b7a562d9c0a692db0",
+    "kr.topic.2022.high.9764fa5fefc8749a2ed3",
+    "kr.topic.2022.high.9c46558744e101ec37e7",
+    "kr.topic.2022.high.bb54740070487cf6b787",
+    "kr.topic.2022.high.f223f46ab6d44c7f934d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b060e07cb393d52e0e",
+   "titleKorean": "문화 콘텐츠 산업 일반 — 문화 콘텐츠 상품의 마케팅, 유통, 판매",
+   "subjectKorean": "문화 콘텐츠 산업 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "문화 콘텐츠 상품의 마케팅, 유통, 판매",
+   "summary": "문화 콘텐츠 산업 일반의 문화 콘텐츠 상품의 마케팅, 유통, 판매 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.37ea542f7f8b39de385d",
+    "kr.topic.2022.high.50dd6458c19451d25983",
+    "kr.topic.2022.high.5f971d138bb23f578808",
+    "kr.topic.2022.high.97185793e4fea5fea47a",
+    "kr.topic.2022.high.ca6949fe7391df3eb11c",
+    "kr.topic.2022.high.d9f5dcb7c625b4f76a42",
+    "kr.topic.2022.high.df63223bd482c5dc5057"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b3dd5434a65a2e80cc",
+   "titleKorean": "공예 일반 — 섬유 공예의 종류와 특성",
+   "subjectKorean": "공예 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "섬유 공예의 종류와 특성",
+   "summary": "공예 일반의 섬유 공예의 종류와 특성 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.1c50608fb765cc81a259",
+    "kr.topic.2022.high.3a1275c4445361120365",
+    "kr.topic.2022.high.3ba1ffb52ecd89fb9017",
+    "kr.topic.2022.high.6da7ff2837720bd6b862",
+    "kr.topic.2022.high.c2299b47014452f8bd33",
+    "kr.topic.2022.high.cee0679750f90c9bbb4d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b78622c47bb4c969eb",
+   "titleKorean": "디자인 일반 — 디자인의 역사",
+   "subjectKorean": "디자인 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "디자인의 역사",
+   "summary": "디자인 일반의 디자인의 역사 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.0a022d296e49651fd177",
+    "kr.topic.2022.high.1f6d13166af70b60c99d",
+    "kr.topic.2022.high.e764edc081f175942626",
+    "kr.topic.2022.high.ff502ef8fdde0507b210"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.babbbc2f320f6d5f14",
+   "titleKorean": "공예 일반 — 도자기 공예의 종류와 특성",
+   "subjectKorean": "공예 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "도자기 공예의 종류와 특성",
+   "summary": "공예 일반의 도자기 공예의 종류와 특성 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.08f0cd131f9711c689b6",
+    "kr.topic.2022.high.27e52319bf3c24fc575f",
+    "kr.topic.2022.high.496712446631f4050ffc",
+    "kr.topic.2022.high.92db6e543f2cd05e9c69",
+    "kr.topic.2022.high.c889fc7d67c802fac323",
+    "kr.topic.2022.high.e990ab07274e56d3caa7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.bbec3da6d7edf21af9",
+   "titleKorean": "애니메이션 기초 — 애니메이션 역사",
+   "subjectKorean": "애니메이션 기초",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "애니메이션 역사",
+   "summary": "애니메이션 기초의 애니메이션 역사 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.19cea18b80eeb7a2363e",
+    "kr.topic.2022.high.3a246625a3a6052fb2bd",
+    "kr.topic.2022.high.566a268afca2edf8e026",
+    "kr.topic.2022.high.6e9ec670078f2b5fc729",
+    "kr.topic.2022.high.7fbc99a189c326de2f11",
+    "kr.topic.2022.high.9213fd21e29e49066755",
+    "kr.topic.2022.high.a746b37d22a040072f17"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.bd8794b2c8d55c4760",
+   "titleKorean": "조형 — 환경과 조형",
+   "subjectKorean": "조형",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "환경과 조형",
+   "summary": "조형의 환경과 조형 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.0a051fdf80ff4de2dd56",
+    "kr.topic.2022.high.24b4b42b2a16d2e8e0d9",
+    "kr.topic.2022.high.58ad0a4c3fa72bc73f67",
+    "kr.topic.2022.high.6359e1aef922c9b37b5e",
+    "kr.topic.2022.high.6f5cdb31bc191b3d31e5",
+    "kr.topic.2022.high.9179d208da3835be139a",
+    "kr.topic.2022.high.c08bb5552dbd93f8ab6e",
+    "kr.topic.2022.high.e57afc63ff863a448a71",
+    "kr.topic.2022.high.f97ce10fad3abc952aa7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c24f6d71b4c5311c0e",
+   "titleKorean": "디자인 일반 — 디자인의 방법 및 전개 과정",
+   "subjectKorean": "디자인 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "디자인의 방법 및 전개 과정",
+   "summary": "디자인 일반의 디자인의 방법 및 전개 과정 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.6c4de27947d57e362203",
+    "kr.topic.2022.high.8ed9027355b9cc2571c9",
+    "kr.topic.2022.high.a624d857f547ab218ec3"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c4116367b32752856e",
+   "titleKorean": "색채 일반 — 색채 심리",
+   "subjectKorean": "색채 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "색채 심리",
+   "summary": "색채 일반의 색채 심리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.09e887480c6c9ca203c7",
+    "kr.topic.2022.high.280c24ecd89ba562f369",
+    "kr.topic.2022.high.37bfa033d73c5ab012e9",
+    "kr.topic.2022.high.4ade19cc3cda0e76e823",
+    "kr.topic.2022.high.7e5d57bfb9b862c58a87",
+    "kr.topic.2022.high.8c2f4616ff997c4b4ce7",
+    "kr.topic.2022.high.d92e084ab69466f8a86a",
+    "kr.topic.2022.high.f29c04b4590eb950f3f8"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c8147d55a2ef69c039",
+   "titleKorean": "공예 재료와 도구 — 섬유 공예 재료와 도구",
+   "subjectKorean": "공예 재료와 도구",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "섬유 공예 재료와 도구",
+   "summary": "공예 재료와 도구의 섬유 공예 재료와 도구 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.23daece1d10b108c21c6",
+    "kr.topic.2022.high.6a7238ecab34b5863d5c",
+    "kr.topic.2022.high.8dce7d7734e5cadee0a6",
+    "kr.topic.2022.high.905c146c0c84f4853d94",
+    "kr.topic.2022.high.b5c9e8bc2065968632cb",
+    "kr.topic.2022.high.b9d215daefbce5b02d5c",
+    "kr.topic.2022.high.bd4034ad5f11402d65ec",
+    "kr.topic.2022.high.c733f9a2515730632b97",
+    "kr.topic.2022.high.d14e0d9d65397e647423"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ca537d0941c955f573",
+   "titleKorean": "음악 콘텐츠 제작 기초 — 음악 콘텐츠의 이해",
+   "subjectKorean": "음악 콘텐츠 제작 기초",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "음악 콘텐츠의 이해",
+   "summary": "음악 콘텐츠 제작 기초의 음악 콘텐츠의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.72dd77291ce10be379a5",
+    "kr.topic.2022.high.9ddcf6e2b2877a45cfa5",
+    "kr.topic.2022.high.c58d0f62cdad24f88a80",
+    "kr.topic.2022.high.f3919c7808a9f2996577"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.cbb31afbaf90609a3d",
+   "titleKorean": "미디어 콘텐츠 일반 — 미디어와 콘텐츠의 이해",
+   "subjectKorean": "미디어 콘텐츠 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "미디어와 콘텐츠의 이해",
+   "summary": "미디어 콘텐츠 일반의 미디어와 콘텐츠의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.0f5fcdb4170f01b870bd",
+    "kr.topic.2022.high.11aaa6ac3947dabf57de",
+    "kr.topic.2022.high.1c76d197d1fe7357f9ba",
+    "kr.topic.2022.high.52d0959adaeffb304799",
+    "kr.topic.2022.high.5a2afb396b2053f59f53",
+    "kr.topic.2022.high.5d52de250aec7f5b5fd2",
+    "kr.topic.2022.high.601c0ad99e54bb23a275",
+    "kr.topic.2022.high.6d8e81f808f30e9506d0"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.cc09a88248d6534809",
+   "titleKorean": "영상 제작 기초 — 스토리보드",
+   "subjectKorean": "영상 제작 기초",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "스토리보드",
+   "summary": "영상 제작 기초의 스토리보드 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.0bfca5aa6c042534ac6e",
+    "kr.topic.2022.high.160812aec5cab412c7f4",
+    "kr.topic.2022.high.39397c006bf8377df343",
+    "kr.topic.2022.high.50dfbceed6d01a886a3c",
+    "kr.topic.2022.high.5c7290a49d10cfe7e086",
+    "kr.topic.2022.high.7f0e122296c942bba830",
+    "kr.topic.2022.high.81fac9f19b7ea8d8ba5b",
+    "kr.topic.2022.high.c3af5b6fee5a6d70a0d0",
+    "kr.topic.2022.high.e0dc5edc5d919d9e931b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.cc93b6ba3ed84e2a67",
+   "titleKorean": "방송 일반 — 방송 음향",
+   "subjectKorean": "방송 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "방송 음향",
+   "summary": "방송 일반의 방송 음향 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.1ce3c5eecb14c6e1a9c2",
+    "kr.topic.2022.high.96ae27a44d57e534800e",
+    "kr.topic.2022.high.a321266a32b5a5cd7114"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.cda49730304969bda4",
+   "titleKorean": "디자인 제도 — 디자인 제도의 확장",
+   "subjectKorean": "디자인 제도",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "디자인 제도의 확장",
+   "summary": "디자인 제도의 디자인 제도의 확장 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.1bfb5a0d8ad69065caaa",
+    "kr.topic.2022.high.d41bde62354db6d4374c",
+    "kr.topic.2022.high.f655dab329fcabe5ff8d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e11fae307f18a8bcb7",
+   "titleKorean": "애니메이션 기초 — 애니메이션 동작과 배경 투시",
+   "subjectKorean": "애니메이션 기초",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "애니메이션 동작과 배경 투시",
+   "summary": "애니메이션 기초의 애니메이션 동작과 배경 투시 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.64dd9affaae16f51ef32",
+    "kr.topic.2022.high.829ead34553bd2d14711",
+    "kr.topic.2022.high.b83d3aad8c7d67c8460a",
+    "kr.topic.2022.high.bf831cd1999dea58fd8d",
+    "kr.topic.2022.high.d78ee1c15e1ce6727b4b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e128ad3b1138e03cb9",
+   "titleKorean": "색채 일반 — 색채 조화",
+   "subjectKorean": "색채 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "색채 조화",
+   "summary": "색채 일반의 색채 조화 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.07b799bc2fa89dc5888c",
+    "kr.topic.2022.high.2bbd3d2f648fc288b785",
+    "kr.topic.2022.high.9e539a6d9671236a94cb",
+    "kr.topic.2022.high.a26043b1272fff3b14c6",
+    "kr.topic.2022.high.a3a5bf12c254bf73a6b4",
+    "kr.topic.2022.high.aae181470be5352fba53",
+    "kr.topic.2022.high.b5d8ebd63ae40620c783",
+    "kr.topic.2022.high.bfbce46923fb0ca33c6e",
+    "kr.topic.2022.high.d2d3496b3d0831c2aade"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e3a2a617ea466b1a19",
+   "titleKorean": "애니메이션 기초 — 스토리 작성과 전개",
+   "subjectKorean": "애니메이션 기초",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "스토리 작성과 전개",
+   "summary": "애니메이션 기초의 스토리 작성과 전개 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.43265b4872a7a3cd27ef",
+    "kr.topic.2022.high.665b65d21da520c517e0",
+    "kr.topic.2022.high.6b1c97c0faec45d9c41d",
+    "kr.topic.2022.high.6eace481dcbddeb00369",
+    "kr.topic.2022.high.827f15d44250a9e16354"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e5c35861def30a2aa2",
+   "titleKorean": "조형 — 조형 연습",
+   "subjectKorean": "조형",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "조형 연습",
+   "summary": "조형의 조형 연습 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.0e8af265f2f318d672e1",
+    "kr.topic.2022.high.7fb98ad960eeaf1058cf",
+    "kr.topic.2022.high.8371d6273d60fae802aa",
+    "kr.topic.2022.high.a1f38458681708bfcf96",
+    "kr.topic.2022.high.b2de03e1f314cc264bc7",
+    "kr.topic.2022.high.b6a816b5c0abba96b1ce"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e6cc85543094efb571",
+   "titleKorean": "애니메이션 기초 — 캐릭터 설정과 연출",
+   "subjectKorean": "애니메이션 기초",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "캐릭터 설정과 연출",
+   "summary": "애니메이션 기초의 캐릭터 설정과 연출 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.083f265c3eca741c500e",
+    "kr.topic.2022.high.219df2de1e1860906790",
+    "kr.topic.2022.high.9e269790b77bbd137389",
+    "kr.topic.2022.high.b5e010847aa314853968",
+    "kr.topic.2022.high.c14f672381348e43f550",
+    "kr.topic.2022.high.e1e74a592cc9369c273b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e790de000e05d273dc",
+   "titleKorean": "음악 콘텐츠 제작 기초 — 영역 05",
+   "subjectKorean": "음악 콘텐츠 제작 기초",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "음악 콘텐츠 제작 기초의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.4a6ff44eaaa995807541",
+    "kr.topic.2022.high.4a8f8d190812caad7558",
+    "kr.topic.2022.high.8882369621108b350baa",
+    "kr.topic.2022.high.8b6f470a6977c7520151",
+    "kr.topic.2022.high.ac171d7ddc8b9c2e600c",
+    "kr.topic.2022.high.c77b68a950b6e776ed71",
+    "kr.topic.2022.high.ed0ed1bde0739d6b1cd0"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e945474d99c348e923",
+   "titleKorean": "영상 제작 기초 — 촬영과 카메라",
+   "subjectKorean": "영상 제작 기초",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "촬영과 카메라",
+   "summary": "영상 제작 기초의 촬영과 카메라 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.01f321b7c76cb57bf68a",
+    "kr.topic.2022.high.04d9aac566fdc06fdb7a",
+    "kr.topic.2022.high.06cf5da4a19180104cdf",
+    "kr.topic.2022.high.0bef4593d82c1fe368fd",
+    "kr.topic.2022.high.12c29e82063990496c70",
+    "kr.topic.2022.high.151a47fa7dfdd1243fec",
+    "kr.topic.2022.high.59b534a56efe5aaa320a",
+    "kr.topic.2022.high.7f46d5883a691d585d6a",
+    "kr.topic.2022.high.8e3ae7fcdd3039ef6aff",
+    "kr.topic.2022.high.d12971396eb86445a7b5",
+    "kr.topic.2022.high.d2cdf632401af809ebee"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.eb58da607de7c7e8e0",
+   "titleKorean": "디자인 일반 — 디자인의 요소 및 원리",
+   "subjectKorean": "디자인 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "디자인의 요소 및 원리",
+   "summary": "디자인 일반의 디자인의 요소 및 원리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.3d420c458caca9e34992",
+    "kr.topic.2022.high.4956177c5512b34a7436",
+    "kr.topic.2022.high.f51b0b6a314d398ba3c1"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.eb6f53a1bbcee710c7",
+   "titleKorean": "방송 일반 — 방송 편집",
+   "subjectKorean": "방송 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "방송 편집",
+   "summary": "방송 일반의 방송 편집 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.1edf2c5b24d3236b0f0d",
+    "kr.topic.2022.high.292c5d9cb784f31047ca",
+    "kr.topic.2022.high.ec9d498230104f5cc259"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.edd63cb4d9817d3e77",
+   "titleKorean": "음악 콘텐츠 제작 기초 — 음악 콘텐츠 제작 기초",
+   "subjectKorean": "음악 콘텐츠 제작 기초",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "음악 콘텐츠 제작 기초",
+   "summary": "음악 콘텐츠 제작 기초의 음악 콘텐츠 제작 기초 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.06f648f561b0f61fce1b",
+    "kr.topic.2022.high.13adc53ce83570f7abf5",
+    "kr.topic.2022.high.25871bedaf7fc7d12bcc",
+    "kr.topic.2022.high.2b82b8f72678106fef20",
+    "kr.topic.2022.high.2d4173d0590542b965c9",
+    "kr.topic.2022.high.34d8970370d593fdaa62",
+    "kr.topic.2022.high.991f1410f62a3a12ed3c",
+    "kr.topic.2022.high.ba452cd943396822389f",
+    "kr.topic.2022.high.f5af490acbe34f33f713",
+    "kr.topic.2022.high.f9059303cb416bc8d817"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.efc154de27557d983b",
+   "titleKorean": "색채 일반 — 디자인과 색채",
+   "subjectKorean": "색채 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "디자인과 색채",
+   "summary": "색채 일반의 디자인과 색채 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.34c560d77dcee19a0879",
+    "kr.topic.2022.high.49db8967f6bf76b2b876",
+    "kr.topic.2022.high.6dc21f8762b4fe07f91a",
+    "kr.topic.2022.high.93a7945a1fb23b66e1d9",
+    "kr.topic.2022.high.9977e2748625786c1f66",
+    "kr.topic.2022.high.a80e1a105612951cae93",
+    "kr.topic.2022.high.b4cc49865974574a0828",
+    "kr.topic.2022.high.c6ba4c893c41ada4baa8"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f289678d08853fd5f5",
+   "titleKorean": "공예 재료와 도구 — 목공예 재료와 도구",
+   "subjectKorean": "공예 재료와 도구",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "목공예 재료와 도구",
+   "summary": "공예 재료와 도구의 목공예 재료와 도구 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.1d0d7e6928f978c616c1",
+    "kr.topic.2022.high.3c1bb536868b13eac51e",
+    "kr.topic.2022.high.694931b7f14bcadd6464",
+    "kr.topic.2022.high.6d333107dcc6d4592b96",
+    "kr.topic.2022.high.84a6f1146becab6cb0c8",
+    "kr.topic.2022.high.99b91d53e20ec5184cf5",
+    "kr.topic.2022.high.d678574c8ba5f7076d8b",
+    "kr.topic.2022.high.da6e52fcc616d940001b",
+    "kr.topic.2022.high.e33a0448209121a25aef"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f47ef81b527b22a7bc",
+   "titleKorean": "공예 재료와 도구 — 유리 공예 재료와 도구",
+   "subjectKorean": "공예 재료와 도구",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "유리 공예 재료와 도구",
+   "summary": "공예 재료와 도구의 유리 공예 재료와 도구 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.0cfedefba26f30bc21c2",
+    "kr.topic.2022.high.3296780f51cff8860034",
+    "kr.topic.2022.high.404c8031243dc4c8612c",
+    "kr.topic.2022.high.95642e70605fa1b6834e",
+    "kr.topic.2022.high.b03aeff617f2eb08a857",
+    "kr.topic.2022.high.c2a4b3c18e232bc1651f",
+    "kr.topic.2022.high.da0bd58e93afd06c6c13",
+    "kr.topic.2022.high.e3315417050cc6d873c1",
+    "kr.topic.2022.high.fa981f8716145d2a13ff"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f701abf9f278714309",
+   "titleKorean": "문화 콘텐츠 산업 일반 — 문화 콘텐츠 산업의 개요와 현황",
+   "subjectKorean": "문화 콘텐츠 산업 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "문화 콘텐츠 산업의 개요와 현황",
+   "summary": "문화 콘텐츠 산업 일반의 문화 콘텐츠 산업의 개요와 현황 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.0b162886b631fe30ca12",
+    "kr.topic.2022.high.18e32402da974c231335",
+    "kr.topic.2022.high.512073e15dc1803cb776",
+    "kr.topic.2022.high.6b03d98d6fb56142807b",
+    "kr.topic.2022.high.9e98e250178897f8135c",
+    "kr.topic.2022.high.e77152557ad426fb912a",
+    "kr.topic.2022.high.eb142cb000469f7059db",
+    "kr.topic.2022.high.f334f3121bab2c4feb37",
+    "kr.topic.2022.high.f96114f213eb63a78be9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f72754e0b3d96eb0a1",
+   "titleKorean": "애니메이션 기초 — 스토리보드 제작과 레이아웃 제작",
+   "subjectKorean": "애니메이션 기초",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "스토리보드 제작과 레이아웃 제작",
+   "summary": "애니메이션 기초의 스토리보드 제작과 레이아웃 제작 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.06bf83b255e3cccc1b8d",
+    "kr.topic.2022.high.1b4923f1e36e675fa4c0",
+    "kr.topic.2022.high.71b6ea1dada30a22fdb8",
+    "kr.topic.2022.high.8b261883eeaf0e6d2f23",
+    "kr.topic.2022.high.9b06a6e3e9146d5ae00a",
+    "kr.topic.2022.high.acbad2dc891ce946a598",
+    "kr.topic.2022.high.e3b93f73382a65a1525a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f82730a1550e8259c3",
+   "titleKorean": "디자인 제도 — 도면의 종류",
+   "subjectKorean": "디자인 제도",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "도면의 종류",
+   "summary": "디자인 제도의 도면의 종류 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.7d88007e6826698bdf4c",
+    "kr.topic.2022.high.94eaef4a167add631160",
+    "kr.topic.2022.high.bf8a86235896825b0f2a",
+    "kr.topic.2022.high.c5e83c7525cfa902743c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fe820fc0b0a6475620",
+   "titleKorean": "방송 일반 — 방송 조명",
+   "subjectKorean": "방송 일반",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "방송 조명",
+   "summary": "방송 일반의 방송 조명 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.4e29262e0ee44d3a42b5",
+    "kr.topic.2022.high.a3420e43d95988cb6bc9",
+    "kr.topic.2022.high.d039f6de28517192d12e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fec24dc59e01db66b8",
+   "titleKorean": "디자인 제도 — 치수의 기입",
+   "subjectKorean": "디자인 제도",
+   "majorFieldSlug": "culture-arts-design-broadcast",
+   "gradeBand": "10-12",
+   "domainKorean": "치수의 기입",
+   "summary": "디자인 제도의 치수의 기입 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.43dd5a1e88024e5c8a9f",
+    "kr.topic.2022.high.530696746d7e2150db23",
+    "kr.topic.2022.high.e5eb668b4418def6031b"
+   ]
+  }
+ ]
+}

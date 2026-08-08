@@ -1,0 +1,895 @@
+{
+ "version": "kr-vocational-standard-texts-v1",
+ "sourceNote": "국가교육위원회 고시 제2024-3호 초·중등학교 교육과정 별책23~39(전문교과) PDF에서 추출한 성취기준 본문. 공공저작물로서 저작권법 제24조의2에 따라 출처를 표기해 이용한다.",
+ "texts": [
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 01-01-01]",
+   "code": "[세원 01-01-01]",
+   "text": "공업용으로 쓰이는 재료를 화학적·물리적 특성에 따라 분류할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 01-01-02]",
+   "code": "[세원 01-01-02]",
+   "text": "공업용 재료의 분류에 따라 그 특성을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 01-02-01]",
+   "code": "[세원 01-02-01]",
+   "text": "세라믹의 의미를 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 01-02-02]",
+   "code": "[세원 01-02-02]",
+   "text": "세라믹 제품을 종류별로 구분하여 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 01-03-01]",
+   "code": "[세원 01-03-01]",
+   "text": "세라믹 소재의 공학적 발달 과정을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 01-03-02]",
+   "code": "[세원 01-03-02]",
+   "text": "산업 분야에서의 세라믹 소재의 전망을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 02-01-01]",
+   "code": "[세원 02-01-01]",
+   "text": "원자 구조를 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 02-01-02]",
+   "code": "[세원 02-01-02]",
+   "text": "원자, 분자, 이온을 구분하여 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 02-01-03]",
+   "code": "[세원 02-01-03]",
+   "text": "입자 단위(몰, mol), 화학 반응식의 기초를 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 02-02-01]",
+   "code": "[세원 02-02-01]",
+   "text": "주기율표에 대하여 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 02-02-02]",
+   "code": "[세원 02-02-02]",
+   "text": "화학 결합의 종류와 특성을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 02-03-01]",
+   "code": "[세원 02-03-01]",
+   "text": "결정 기본 구조를 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 02-03-02]",
+   "code": "[세원 02-03-02]",
+   "text": "단결정, 다결정, 비결정질을 구분하여 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 02-04-01]",
+   "code": "[세원 02-04-01]",
+   "text": "열역학 기초 이론 및 열역학 각 법칙을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 02-04-02]",
+   "code": "[세원 02-04-02]",
+   "text": "상평형의 원리와 상평형도를 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 03-01-01]",
+   "code": "[세원 03-01-01]",
+   "text": "세라믹 원료의 특성을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 03-01-02]",
+   "code": "[세원 03-01-02]",
+   "text": "세라믹 원료를 종류별로 분류할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 03-02-01]",
+   "code": "[세원 03-02-01]",
+   "text": "고체로부터의 원료 합성 및 제조에 대해 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 03-02-02]",
+   "code": "[세원 03-02-02]",
+   "text": "액체로부터의 원료 합성 및 제조에 대해 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 03-02-03]",
+   "code": "[세원 03-02-03]",
+   "text": "기체로부터의 원료 합성 및 제조에 대해 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 04-01-01]",
+   "code": "[세원 04-01-01]",
+   "text": "소성·소결 세라믹 원료의 처리에 대하여 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 04-01-02]",
+   "code": "[세원 04-01-02]",
+   "text": "소성·소결 세라믹 배토의 조제에 대하여 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 04-02-01]",
+   "code": "[세원 04-02-01]",
+   "text": "소성·소결 세라믹 성형의 개념에 대하여 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 04-02-02]",
+   "code": "[세원 04-02-02]",
+   "text": "소성·소결 세라믹 성형의 종류에 대하여 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 04-03-01]",
+   "code": "[세원 04-03-01]",
+   "text": "소성·소결 세라믹 건조의 개념에 대하여 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 04-03-02]",
+   "code": "[세원 04-03-02]",
+   "text": "소성·소결 세라믹 건조의 방법에 대하여 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 04-04-01]",
+   "code": "[세원 04-04-01]",
+   "text": "소성·소결의 개념에 대하여 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 04-04-02]",
+   "code": "[세원 04-04-02]",
+   "text": "소성·소결 장치를 이용한 소성·소결 방법을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 04-05-01]",
+   "code": "[세원 04-05-01]",
+   "text": "소성·소결 세라믹에 사용하는 유약에 대하여 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 04-05-02]",
+   "code": "[세원 04-05-02]",
+   "text": "소성·소결 세라믹에 사용하는 장식에 대하여 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 05-01-01]",
+   "code": "[세원 05-01-01]",
+   "text": "소성·소결의 기초 이론을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 05-01-02]",
+   "code": "[세원 05-01-02]",
+   "text": "소성·소결 중 일어나는 현상과 변화를 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 05-02-01]",
+   "code": "[세원 05-02-01]",
+   "text": "소성·소결 장치를 구분하여 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 05-02-02]",
+   "code": "[세원 05-02-02]",
+   "text": "소성·소결 방법을 구분하여 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 06-01-01]",
+   "code": "[세원 06-01-01]",
+   "text": "세라믹 원료 분체의 제조 과정을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 06-01-02]",
+   "code": "[세원 06-01-02]",
+   "text": "세라믹 원료 분체의 특성 평가 장치와 방법을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 06-02-01]",
+   "code": "[세원 06-02-01]",
+   "text": "세라믹 미세 조직의 관찰 장치와 방법을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 06-02-02]",
+   "code": "[세원 06-02-02]",
+   "text": "세라믹 미세 조직의 특성 평가 장치와 방법을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 06-03-01]",
+   "code": "[세원 06-03-01]",
+   "text": "세라믹의 강도 측정 장치와 방법을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 06-03-02]",
+   "code": "[세원 06-03-02]",
+   "text": "세라믹의 경도 측정 장치와 방법을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 06-04-01]",
+   "code": "[세원 06-04-01]",
+   "text": "세라믹의 유전성 측정 장치와 방법을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 06-04-02]",
+   "code": "[세원 06-04-02]",
+   "text": "세라믹의 압전성 측정 장치와 방법을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 06-05-01]",
+   "code": "[세원 06-05-01]",
+   "text": "세라믹의 열팽창 측정 장치와 방법을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 06-05-02]",
+   "code": "[세원 06-05-02]",
+   "text": "세라믹의 강열 감량 측정 장치와 방법을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 06-06-01]",
+   "code": "[세원 06-06-01]",
+   "text": "소성·소결 시 색 측정 장치와 방법을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 06-06-02]",
+   "code": "[세원 06-06-02]",
+   "text": "세라믹의 밀도와 비중 측정 장치와 방법을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 06-06-03]",
+   "code": "[세원 06-06-03]",
+   "text": "세라믹의 흡수율과 기공률 측정 장치와 방법을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-원리-공정:[세원 06-06-04]",
+   "code": "[세원 06-06-04]",
+   "text": "세라믹의 결함과 소결성 측정 장치와 방법을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-재료:[세재 01-01]",
+   "code": "[세재 01-01]",
+   "text": "세라믹 재료를 전통 세라믹 및 파인 세라믹으로 구분하여 종류를 알고, 그 분야의 기초 용어 를 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-재료:[세재 01-02]",
+   "code": "[세재 01-02]",
+   "text": "세라믹 재료 및 제품을 분류할 때 제품이 가지는 특성과 연계된 재료 및 원료의 종류를 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-재료:[세재 01-03]",
+   "code": "[세재 01-03]",
+   "text": "세라믹 재료를 전통 세라믹과 파인 세라믹으로 구분하여 그 특성에 따른 재료의 용도를 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-재료:[세재 02-01]",
+   "code": "[세재 02-01]",
+   "text": "세라믹 재료를 금속, 폴리머, 유기 재료 등과 구분하여 그 특성을 알 수 있고, 각종 기초 용어 를 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-재료:[세재 02-02]",
+   "code": "[세재 02-02]",
+   "text": "세라믹 재료를 결정 구조에 따라 분류할 수 있고, 결정 구조에 따른 특성을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-재료:[세재 03-01]",
+   "code": "[세재 03-01]",
+   "text": "규산질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-재료:[세재 03-02]",
+   "code": "[세재 03-02]",
+   "text": "알루미나질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-재료:[세재 03-03]",
+   "code": "[세재 03-03]",
+   "text": "장석질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-재료:[세재 03-04]",
+   "code": "[세재 03-04]",
+   "text": "점토질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-재료:[세재 03-05]",
+   "code": "[세재 03-05]",
+   "text": "납석질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-재료:[세재 03-06]",
+   "code": "[세재 03-06]",
+   "text": "석회질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-재료:[세재 03-07]",
+   "code": "[세재 03-07]",
+   "text": "마그네시아질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-재료:[세재 03-08]",
+   "code": "[세재 03-08]",
+   "text": "탄소질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-재료:[세재 03-09]",
+   "code": "[세재 03-09]",
+   "text": "도토의 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-재료:[세재 03-10]",
+   "code": "[세재 03-10]",
+   "text": "기타 원료의 종류와 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-재료:[세재 04-01]",
+   "code": "[세재 04-01]",
+   "text": "세라믹 원료를 제조하기 위한 원료 출토, 분쇄, 혼합, 여과, 조제 등에 관한 지식과 기술을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-재료:[세재 04-02]",
+   "code": "[세재 04-02]",
+   "text": "세라믹 원료를 성형 및 정형하기 위한 주입 성형, 물레 성형, 가압 성형, 기타 성형 등에 관한 지식과 기술을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-재료:[세재 04-03]",
+   "code": "[세재 04-03]",
+   "text": "성형 및 정형 과정을 거친 세라믹 제품을 건조하기 위한 기초 이론, 건조 방법, 건조 기기 등에 관한 지식과 기술을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-재료:[세재 04-04]",
+   "code": "[세재 04-04]",
+   "text": "장식 기법들이 활용되는 세라믹 제품에 관한 지식과 기술을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-재료:[세재 04-05]",
+   "code": "[세재 04-05]",
+   "text": "유약의 조합, 유약의 종류 및 특성, 각종 시유 기법에 관한 지식과 기술을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-재료:[세재 04-06]",
+   "code": "[세재 04-06]",
+   "text": "다양한 소성 방법의 종류 및 특성에 관한 지식과 기술을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-재료:[세재 05-01]",
+   "code": "[세재 05-01]",
+   "text": "다양한 소성용 노(爐, furnace)의 종류 및 특성에 관한 지식과 기술을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-재료:[세재 05-02]",
+   "code": "[세재 05-02]",
+   "text": "대량 생산을 위한 각종 공업용 가마의 종류 및 특성에 관한 지식과 기술을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-재료:[세재 05-03]",
+   "code": "[세재 05-03]",
+   "text": "가마를 제조하기 위해 사용하는 각종 가마용 내화재의 종류 및 특성에 관한 지식과 기술을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-세라믹-재료:[세재 05-04]",
+   "code": "[세재 05-04]",
+   "text": "기타 다양한 세라믹 제조 기기의 종류 및 특성에 관한 지식과 기술을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-시험:[재시 01-01]",
+   "code": "[재시 01-01]",
+   "text": "기계 재료의 종류를 설명할 수 있고, 재료의 시험 및 성질을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-시험:[재시 01-02]",
+   "code": "[재시 01-02]",
+   "text": "재료 시험의 목적을 설명할 수 있고, 재료 시험법의 종류를 구분할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-시험:[재시 01-03]",
+   "code": "[재시 01-03]",
+   "text": "재료 시험할 때의 주의 사항, 시험편의 채취, 시험편의 치수 측정, 시험기 취급, 재료 시험 의 규격 등을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-시험:[재시 01-04]",
+   "code": "[재시 01-04]",
+   "text": "재료 시험 결과의 데이터 처리, 측정값 정리를 할 수 있으며, 시험편을 보존할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-시험:[재시 02-01]",
+   "code": "[재시 02-01]",
+   "text": "재료의 기계적 성질 시험의 목적을 이해하고, 종류에 따른 특징을 구분하여 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-시험:[재시 02-02]",
+   "code": "[재시 02-02]",
+   "text": "응력·변형률 선도를 이해하고, 인장 시험 결괏값을 통한 인장 강도를 계산할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-시험:[재시 02-03]",
+   "code": "[재시 02-03]",
+   "text": "경도 시험의 종류와 특징을 설명할 수 있으며, 경도 시험 결괏값을 통한 경돗값을 계산하여 재료의 경돗값을 판별할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-시험:[재시 02-04]",
+   "code": "[재시 02-04]",
+   "text": "충격 시험의 원리를 이해하고, 충격 에너지와 충격값을 계산하여 연성 및 취성의 기계적 성 질을 판별할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-시험:[재시 02-05]",
+   "code": "[재시 02-05]",
+   "text": "피로 시험의 원리와 특징을 설명할 수 있고, 피도 한도와 기계적 성질의 관계를 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-시험:[재시 02-06]",
+   "code": "[재시 02-06]",
+   "text": "그 밖의 기계적 성질 시험의 특성을 이해하고, 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-시험:[재시 03-01]",
+   "code": "[재시 03-01]",
+   "text": "조직 시험의 목적을 이해하고, 시험의 종류와 특징을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-시험:[재시 03-02]",
+   "code": "[재시 03-02]",
+   "text": "현미경의 구조와 작동법을 이해하고, 시험편의 제작과 시험을 수행할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-시험:[재시 03-03]",
+   "code": "[재시 03-03]",
+   "text": "매크로 조직 검사, 비금속 개재물 시험 및 설퍼 프린트법의 원리를 이해하고 시험법을 설명 할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-시험:[재시 03-04]",
+   "code": "[재시 03-04]",
+   "text": "강의 페라이트 결정 입도 측정법을 이해하고 계산할 수 있으며, 조직량 측정법을 이해하고 계산할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-시험:[재시 03-05]",
+   "code": "[재시 03-05]",
+   "text": "전자 현미경의 종류 및 각각의 원리를 이해하고 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-시험:[재시 04-01]",
+   "code": "[재시 04-01]",
+   "text": "비파괴 시험 시험법의 목적을 이해하고, 종류 및 적용 특성을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-시험:[재시 04-02]",
+   "code": "[재시 04-02]",
+   "text": "방사선 투과 시험의 원리를 설명하고, 시험 결과를 성적서로 작성할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-시험:[재시 04-03]",
+   "code": "[재시 04-03]",
+   "text": "초음파 탐상 시험의 원리를 설명하고, 시험 결과를 성적서로 작성할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-시험:[재시 04-04]",
+   "code": "[재시 04-04]",
+   "text": "침투 탐상 시험의 원리를 설명하고, 시험 결과를 성적서로 작성할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-시험:[재시 04-05]",
+   "code": "[재시 04-05]",
+   "text": "자기 탐상 시험의 원리를 설명하고, 시험 결과를 성적서로 작성할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-시험:[재시 04-06]",
+   "code": "[재시 04-06]",
+   "text": "기타 비파괴 시험의 각각의 원리를 이해하고, 적용 방법에 대해 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-시험:[재시 05-01]",
+   "code": "[재시 05-01]",
+   "text": "강의 불꽃 시험 원리를 이해하여 시험 결과를 해석하여 성적서로 작성할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-시험:[재시 05-02]",
+   "code": "[재시 05-02]",
+   "text": "파면의 매크로 관찰을 통해 파단면을 분석하여 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-시험:[재시 05-03]",
+   "code": "[재시 05-03]",
+   "text": "경화능 시험의 원리를 설명하고, 측정 결과를 성적서로 작성할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-시험:[재시 05-04]",
+   "code": "[재시 05-04]",
+   "text": "분광 및 성분 분석법을 분류하여 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-시험:[재시 05-05]",
+   "code": "[재시 05-05]",
+   "text": "코딩 두께 시험의 원리를 설명하고, 측정 결과를 성적서로 작성할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-일반:[금신 11-01-01]",
+   "code": "[금신 11-01-01]",
+   "text": "광학 현미경의 기본적 구조 및 기능을 파악할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-일반:[재일 01-01]",
+   "code": "[재일 01-01]",
+   "text": "산업 현장에서 활용되고 있는 금속 및 비금속 공업 재료의 종류, 성질, 용도에 대해 알고 최 근 공업 재료의 변화에 대해 디지털 기기를 활용하여 정보를 검색하여 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-일반:[재일 01-02]",
+   "code": "[재일 01-02]",
+   "text": "금속 재료의 종류, 용도, 일반적인 특징과 결정 구조에 따른 성질을 구분하여 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-일반:[재일 01-03]",
+   "code": "[재일 01-03]",
+   "text": "비금속 재료의 종류, 용도, 일반적인 특징과 공업 재료로서 비금속 재료의 중요성을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-일반:[재일 02-01]",
+   "code": "[재일 02-01]",
+   "text": "인장, 경도, 충격 및 기타 기계적 시험의 종류와 특징을 알고 기계적 시험이 왜 필요한지 개 념을 명확히 이해하며, 시험법에 따라 안전하게 검사를 수행할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-일반:[재일 02-02]",
+   "code": "[재일 02-02]",
+   "text": "육안 검사, 방사선 비파괴 검사, 초음파 비파괴 검사, 자기 비파괴 검사, 침투 비파괴 검사 및 기타 비파괴 시험의 종류와 시험법을 이해하고 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-일반:[재일 02-03]",
+   "code": "[재일 02-03]",
+   "text": "금속 현미경 조직 시험의 개념과 특징을 알고 주요 금속의 현미경 조직 시험을 통해 금속 조직과 성질의 변화를 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-일반:[재일 02-04]",
+   "code": "[재일 02-04]",
+   "text": "정보 기술 및 디지털 기기를 활용한 다양한 재료 시험 방법에 대해 알고 재료 시험법의 응용 과 활용도를 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-일반:[재일 03-01]",
+   "code": "[재일 03-01]",
+   "text": "금속 재료의 가장 기본적이고 중요한 철강의 분류법과 용도에 대해 이해하고, 용도별 재료의 특성과 제조 방법을 간략히 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-일반:[재일 03-02]",
+   "code": "[재일 03-02]",
+   "text": "철과 철에 포함되는 5대 원소의 영향을 이해하고, 공업적 용도의 순철과 탄소강의 조직 및 철-탄소 평형 상태도를 통해 철강 재료에 관해 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-일반:[재일 03-03]",
+   "code": "[재일 03-03]",
+   "text": "탄소강에서 얻을 수 없는 특정한 성질을 얻기 위해 첨가하는 합금 원소의 종류와 재료 명칭 등에 대해 이해하고, 각각의 용도와 처리 방법을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-일반:[재일 03-04]",
+   "code": "[재일 03-04]",
+   "text": "철-탄소 평형 상태도를 이용하여 주철과 주강을 구분하여 설명할 수 있고, 각각의 종류와 용도 및 처리 방법을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-일반:[재일 04-01]",
+   "code": "[재일 04-01]",
+   "text": "알루미늄 합금의 일반적인 특성을 알고 그에 따른 종류와 용도 및 가공 방법을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-일반:[재일 04-02]",
+   "code": "[재일 04-02]",
+   "text": "구리 합금의 일반적인 특성을 알고 그에 따른 종류와 용도 및 처리 방법을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-일반:[재일 04-03]",
+   "code": "[재일 04-03]",
+   "text": "공업 재료로서 활용도가 높은 비철 경합금 및 고융점 합금 등 각종 비철 금속의 종류와 성질을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-일반:[재일 05-01]",
+   "code": "[재일 05-01]",
+   "text": "금속을 바탕으로 한 금속, 비금속 등의 이종 재료를 복합하여 필요한 재료 특성을 얻기 위한 금속 기지 복합 재료를 이해하고, 그 종류와 용도 및 제조 방법을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-일반:[재일 05-02]",
+   "code": "[재일 05-02]",
+   "text": "형상 기억 효과의 원리와 이론을 이해하고, 실제 적용되는 범위 및 활용도에 대해 디지털 도구를 이용하여 조사하고 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-일반:[재일 05-03]",
+   "code": "[재일 05-03]",
+   "text": "제진 원리와 제진 기구에 대하여 이해하고, 제진 합금의 종류와 용도 및 공업적 응용 방법을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-일반:[재일 05-04]",
+   "code": "[재일 05-04]",
+   "text": "결정 구조를 갖지 않는 비정질 재료의 제조 원리와 이론을 이해하고, 비정질 합금의 종류와 용도 및 제조 방법을 디지털 도구를 이용하여 조사하고 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-일반:[재일 05-05]",
+   "code": "[재일 05-05]",
+   "text": "초전도 현상의 이론적 배경을 이해하고, 초전도 재료의 종류와 용도 및 실제 응용 부분을 디지털 도구를 이용하여 조사하고 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-일반:[재일 05-06]",
+   "code": "[재일 05-06]",
+   "text": "공업적으로 널리 이용되는 경질･연질 자성 재료에 요구되는 보자력, 자기력선속 밀도, 투자 율, 이력 손실 등을 이해하고 설명할 수 있으며, 자성 재료의 종류와 실제 활용되는 부분을 디지털 도구를 이용하여 조사하고 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-일반:[재일 05-07]",
+   "code": "[재일 05-07]",
+   "text": "의학적으로 인체에 활용되고 있는 생체 합금의 종류와 성질 및 용도를 이해하고, 실용 사례를 사진 및 시청각 자료를 활용하여 이해하고 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-일반:[재일 05-08]",
+   "code": "[재일 05-08]",
+   "text": "고도 산업 사회에 요구되는 반도체 재료, 기타 생명 공학 및 첨단 산업에 요구되는 기능성 신금속의 종류와 용도 및 제조 방법을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-일반:[재일 06-01]",
+   "code": "[재일 06-01]",
+   "text": "광학 섬유, 세라믹, 강화 유리, 강화 재료 등 첨단 산업에서 요구되는 세라믹 공업 재료를 이해하며, 그 종류와 용도 및 제조 방법을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-일반:[재일 06-02]",
+   "code": "[재일 06-02]",
+   "text": "강화 플라스틱, 탄소 섬유, 자기 테이프, 발포 플라스틱 등 공업용 유기 재료를 이해하며, 그 종류와 용도 및 제조 방법을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-일반:[재일 06-03]",
+   "code": "[재일 06-03]",
+   "text": "비금속을 바탕으로 금속 또는 비금속 등의 이종 재료로 구성된 비금속 기지 복합 재료를 이해하며, 그 종류와 용도 및 제조 방법을 설명할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-일반:[제강 01-03-05]",
+   "code": "[제강 01-03-05]",
+   "text": "전로 주원료 장입 성분에 따라 산소 사용량을 산정할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-재료-일반:[제선 15-04-01]",
+   "code": "[제선 15-04-01]",
+   "text": "고로 장입 연·원료의 종류와 구비 조건을 이해하고 관리할 수 있다.",
+   "sourceId": "annex31",
+   "locator": "pattern-match"
+  }
+ ]
+}

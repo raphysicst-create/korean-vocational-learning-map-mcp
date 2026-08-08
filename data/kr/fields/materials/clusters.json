@@ -1,0 +1,407 @@
+{
+ "clusters": [
+  {
+   "id": "kr.cluster.2022.high.075d46a535b70fb11f",
+   "titleKorean": "재료 일반 — 공업 재료",
+   "subjectKorean": "재료 일반",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "공업 재료",
+   "summary": "재료 일반의 공업 재료 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.3e0a729ccba976881bda",
+    "kr.topic.2022.high.3f2397af2f35ec21d077",
+    "kr.topic.2022.high.5b33f0609a430fcf2d83"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.09597d8491bed17614",
+   "titleKorean": "세라믹 원리·공정 — 세라믹 소성·소결",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 소성·소결",
+   "summary": "세라믹 원리·공정의 세라믹 소성·소결 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.2c7ed47e4a2b9c7d807a",
+    "kr.topic.2022.high.2ed4605b790188759b98",
+    "kr.topic.2022.high.a5beea09eb651a82b290",
+    "kr.topic.2022.high.d499666cd1c961d64fed"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0a013be55b36edbde9",
+   "titleKorean": "재료 일반 — 비철 금속 재료",
+   "subjectKorean": "재료 일반",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "비철 금속 재료",
+   "summary": "재료 일반의 비철 금속 재료 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.04e20d7d84c18f292def",
+    "kr.topic.2022.high.351fa489b6af8b0c8692",
+    "kr.topic.2022.high.a1efaa361a231c1f8c5b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0eaaad735b9ddebe5f",
+   "titleKorean": "재료 일반 — 철강 재료",
+   "subjectKorean": "재료 일반",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "철강 재료",
+   "summary": "재료 일반의 철강 재료 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.0e12c28c4383f3a84477",
+    "kr.topic.2022.high.3f4a10b0cc539dafc74d",
+    "kr.topic.2022.high.5a4427630d04a961a253",
+    "kr.topic.2022.high.a6165e14a0e2fd35ce55",
+    "kr.topic.2022.high.b67153932d946ded76a7",
+    "kr.topic.2022.high.dcce99c08b010d2495fa"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.289ab9e1f9a7ea94d7",
+   "titleKorean": "재료 시험 — 재료 시험의 개요",
+   "subjectKorean": "재료 시험",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "재료 시험의 개요",
+   "summary": "재료 시험의 재료 시험의 개요 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.33fa373e5d455856c4c8",
+    "kr.topic.2022.high.4fbae44ec295038d40d1",
+    "kr.topic.2022.high.6eb1e7bb4dda59d3679f",
+    "kr.topic.2022.high.7abfc17a25c99ad7f76b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4bc76d29e5fd606516",
+   "titleKorean": "재료 시험 — 조직 시험",
+   "subjectKorean": "재료 시험",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "조직 시험",
+   "summary": "재료 시험의 조직 시험 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.3b8c0158e53812d23ee6",
+    "kr.topic.2022.high.b05f9e841720d56c1239",
+    "kr.topic.2022.high.b33163ca048c5184b52a",
+    "kr.topic.2022.high.c13351884a9c2c200586",
+    "kr.topic.2022.high.e7abc64e753ebb27832c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.61b030ec1dfc98ab6d",
+   "titleKorean": "세라믹 재료 — 세라믹 제조 기기",
+   "subjectKorean": "세라믹 재료",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 제조 기기",
+   "summary": "세라믹 재료의 세라믹 제조 기기 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.620a82fbe2c73161b9fe",
+    "kr.topic.2022.high.7ce09d377c4c04c94f21",
+    "kr.topic.2022.high.9b4cd8a5111316c62e9c",
+    "kr.topic.2022.high.fac2eeb300946a5d05f0"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6b75d22936439034dc",
+   "titleKorean": "세라믹 재료 — 세라믹 재료의 개요",
+   "subjectKorean": "세라믹 재료",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 재료의 개요",
+   "summary": "세라믹 재료의 세라믹 재료의 개요 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.224e57a3066fd4e244ee",
+    "kr.topic.2022.high.3fb7b86644552de5b821",
+    "kr.topic.2022.high.84cf5137d206d74e3935"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6c51c7b09eb9ee47c8",
+   "titleKorean": "재료 시험 — 그 밖의 시험",
+   "subjectKorean": "재료 시험",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "그 밖의 시험",
+   "summary": "재료 시험의 그 밖의 시험 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.03f7cb9e4f429791e475",
+    "kr.topic.2022.high.4ed330344ee8a772d5fe",
+    "kr.topic.2022.high.c06e39adf3ade520c169",
+    "kr.topic.2022.high.de2a32bce0248797e9de",
+    "kr.topic.2022.high.e77348daf80323fad977"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7382080ea87cbea87d",
+   "titleKorean": "재료 일반 — 재료 시험과 검사",
+   "subjectKorean": "재료 일반",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "재료 시험과 검사",
+   "summary": "재료 일반의 재료 시험과 검사 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.54e057195b5758a93005",
+    "kr.topic.2022.high.9e5d9a6b17f2f00bb531",
+    "kr.topic.2022.high.be3368e510d1ed0a7463",
+    "kr.topic.2022.high.cea68a7740cdeb6ae2d7",
+    "kr.topic.2022.high.d27c4c267fede38eeee6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.764a253fc4df6d5f29",
+   "titleKorean": "재료 일반 — 기타 공업 재료",
+   "subjectKorean": "재료 일반",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "기타 공업 재료",
+   "summary": "재료 일반의 기타 공업 재료 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.bc13e8c02084fb60bc1f",
+    "kr.topic.2022.high.e08b11e4a91c77b87c8d",
+    "kr.topic.2022.high.e6dc0e99a89667915d59"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.797794fb3ece1d221b",
+   "titleKorean": "세라믹 원리·공정 — 영역 06",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 06",
+   "summary": "세라믹 원리·공정의 영역 06 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.2ef84775b7a33abddd05",
+    "kr.topic.2022.high.3e6d3a98071d6fe42c6f",
+    "kr.topic.2022.high.e1f05ade52af0cb000cd",
+    "kr.topic.2022.high.e252dc9b37914b371490"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.906d05213586cc0248",
+   "titleKorean": "세라믹 재료 — 세라믹 제조 공정",
+   "subjectKorean": "세라믹 재료",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 제조 공정",
+   "summary": "세라믹 재료의 세라믹 제조 공정 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.0c2b02e527e7bed62b3a",
+    "kr.topic.2022.high.2137f1244df97a976c34",
+    "kr.topic.2022.high.4956caca289d37cacfb3",
+    "kr.topic.2022.high.6841b248bd74ca545b6a",
+    "kr.topic.2022.high.c886d531f008e41c5513",
+    "kr.topic.2022.high.f67cb1024f19a8f707f5"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.afb4ff854268b2d6cd",
+   "titleKorean": "세라믹 원리·공정 — 세라믹 원료 제조",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 원료 제조",
+   "summary": "세라믹 원리·공정의 세라믹 원료 제조 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.0f49159255304c1adbe7",
+    "kr.topic.2022.high.401adb915333c080be6a",
+    "kr.topic.2022.high.8bac374a06e2ac9c2ab5",
+    "kr.topic.2022.high.b10abf68716cc24c8aa3",
+    "kr.topic.2022.high.d8a6ec5cbd27550eab37"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.bacdbf586a6ce38ba8",
+   "titleKorean": "세라믹 원리·공정 — 소성·소결 세라믹 제조 공정",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "소성·소결 세라믹 제조 공정",
+   "summary": "세라믹 원리·공정의 소성·소결 세라믹 제조 공정 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.156384a0ea6aa3b872ac",
+    "kr.topic.2022.high.20b08aeb954f975bab09",
+    "kr.topic.2022.high.358f2071b86db4a594b9",
+    "kr.topic.2022.high.39722e8a9107f163959b",
+    "kr.topic.2022.high.4fb7343517843995c432",
+    "kr.topic.2022.high.77af85d7b36576961ce2",
+    "kr.topic.2022.high.7a014f243a24d1a85e10",
+    "kr.topic.2022.high.7b1d97719aefdf78ca67",
+    "kr.topic.2022.high.7d89ab06fc77952a1ad6",
+    "kr.topic.2022.high.d220a16510f402a76397"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.be5406362239f5c791",
+   "titleKorean": "세라믹 원리·공정 — 세라믹 화학의 기초",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 화학의 기초",
+   "summary": "세라믹 원리·공정의 세라믹 화학의 기초 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.02acd81e2628524875bd",
+    "kr.topic.2022.high.31387b80f128857839d3",
+    "kr.topic.2022.high.403a8726c2bfaa8fa5de",
+    "kr.topic.2022.high.817a74c34a5a1e19b4a0",
+    "kr.topic.2022.high.844d017ae4f722c829a6",
+    "kr.topic.2022.high.cda165768753aefbce85",
+    "kr.topic.2022.high.ce8cfbf3b2d877285dff",
+    "kr.topic.2022.high.d3ffaec87d9318c29c80",
+    "kr.topic.2022.high.d40e340a9ee8380afde0"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c9c618d45084e8f2f1",
+   "titleKorean": "세라믹 재료 — 세라믹 재료의 특성 및 결정 구조",
+   "subjectKorean": "세라믹 재료",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 재료의 특성 및 결정 구조",
+   "summary": "세라믹 재료의 세라믹 재료의 특성 및 결정 구조 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.ea729ef39afb978b5667",
+    "kr.topic.2022.high.f60755b65d066c01d53b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.dee4bfa44b77d9ffdb",
+   "titleKorean": "세라믹 원리·공정 — 세라믹의 개요",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹의 개요",
+   "summary": "세라믹 원리·공정의 세라믹의 개요 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.203648b25124479abead",
+    "kr.topic.2022.high.37bfef5217a6a8b61603",
+    "kr.topic.2022.high.5ced7bb52a934a7034ee",
+    "kr.topic.2022.high.66d004ec1a77e9fa0b5d",
+    "kr.topic.2022.high.b77c0f83672bfe9bb1ea",
+    "kr.topic.2022.high.d3167737c6eefb2e7d6e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e82d83c183b5465308",
+   "titleKorean": "세라믹 재료 — 세라믹 재료",
+   "subjectKorean": "세라믹 재료",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 재료",
+   "summary": "세라믹 재료의 세라믹 재료 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.0288776a6d753eb0d935",
+    "kr.topic.2022.high.05d152228fc056f957d9",
+    "kr.topic.2022.high.190421da7bc816dfd674",
+    "kr.topic.2022.high.4dd686119362700baef4",
+    "kr.topic.2022.high.4e5464367c7a9c2b88e6",
+    "kr.topic.2022.high.5ef39808e6bacab51cbe",
+    "kr.topic.2022.high.8c112b8a5a118bec329e",
+    "kr.topic.2022.high.b2b9ee2c1748aac7476c",
+    "kr.topic.2022.high.ccd8f55333804ea2d653",
+    "kr.topic.2022.high.fbdf27fbf56ccf8154f6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ed8ca77787eb12db0e",
+   "titleKorean": "세라믹 원리·공정 — 세라믹 재료 평가",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "세라믹 재료 평가",
+   "summary": "세라믹 원리·공정의 세라믹 재료 평가 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.0513033586ad84578197",
+    "kr.topic.2022.high.0cd12978ffa5f7f29cc9",
+    "kr.topic.2022.high.1087307f92bbd36189cc",
+    "kr.topic.2022.high.38a9dfea6f6d3f870f47",
+    "kr.topic.2022.high.5fb6ead18b2ae31601b3",
+    "kr.topic.2022.high.99122be93061b9b5c09e",
+    "kr.topic.2022.high.bfe12fc370aa907f9e1b",
+    "kr.topic.2022.high.cb81fdf92edb376c9628",
+    "kr.topic.2022.high.d922ea3d5a0dc098b91a",
+    "kr.topic.2022.high.f69752937b5eb62ffa13"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f2d06401ca32d9f929",
+   "titleKorean": "재료 일반 — 기능성 금속 재료",
+   "subjectKorean": "재료 일반",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "기능성 금속 재료",
+   "summary": "재료 일반의 기능성 금속 재료 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.182c1e522600a5622bb7",
+    "kr.topic.2022.high.1f4f802f49f8383f9ea2",
+    "kr.topic.2022.high.2585f3bc51cec3ee3a8a",
+    "kr.topic.2022.high.4b389e59b8e83a915bbc",
+    "kr.topic.2022.high.522a15576317480fd79c",
+    "kr.topic.2022.high.77544c583fae14208f3f",
+    "kr.topic.2022.high.c744237d7ca913119c47",
+    "kr.topic.2022.high.d71dd25cba071eb81c4c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fa1d22e768367bcc89",
+   "titleKorean": "재료 시험 — 비파괴 시험",
+   "subjectKorean": "재료 시험",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "비파괴 시험",
+   "summary": "재료 시험의 비파괴 시험 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.2585dccf2fe5dcec52bc",
+    "kr.topic.2022.high.3bbbef720c97758665ad",
+    "kr.topic.2022.high.3e8052d60ca5541136ac",
+    "kr.topic.2022.high.a51010d062b75f0e4d81",
+    "kr.topic.2022.high.c4360f328c576c2bc8cc",
+    "kr.topic.2022.high.dafa1df8f040f3db03d9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fd564d961bc745fc17",
+   "titleKorean": "재료 시험 — 기계적 시험",
+   "subjectKorean": "재료 시험",
+   "majorFieldSlug": "materials",
+   "gradeBand": "10-12",
+   "domainKorean": "기계적 시험",
+   "summary": "재료 시험의 기계적 시험 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.5bef24702872c1fdabb1",
+    "kr.topic.2022.high.63543806b450e6bfb1c0",
+    "kr.topic.2022.high.64b0bddbd10ffd85a8ec",
+    "kr.topic.2022.high.dd1a24f1c617609ed6b9",
+    "kr.topic.2022.high.e755a78bac33961eb628",
+    "kr.topic.2022.high.ec9e077e32a0e8aa0c6b"
+   ]
+  }
+ ]
+}

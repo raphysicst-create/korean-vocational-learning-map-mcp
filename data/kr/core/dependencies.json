@@ -1,0 +1,319 @@
+{
+ "dependencies": [
+  {
+   "topicId": "kr.topic.2022.high.6ba063510d5bc4fe85fa",
+   "prerequisiteId": "kr.topic.2022.high.39833b7a77204ec38c5f",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "비지도 학습 알고리즘 선정 결과를 모델 검증·최적화에 활용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책35 정보·통신전문교과 성취기준 해설 p.141"
+  },
+  {
+   "topicId": "kr.topic.2022.high.7d88007e6826698bdf4c",
+   "prerequisiteId": "kr.topic.2022.high.2c13b28aa526c4fd37a7",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "정투상 개념을 학습한 뒤 3면도 작성에 적용하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.113"
+  },
+  {
+   "topicId": "kr.topic.2022.high.f0169036c1621eb81c24",
+   "prerequisiteId": "kr.topic.2022.high.7280812183ebd73ed2a6",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "마이크로프로세서 동작 원리를 토대로 명령어와 데이터 처리 과정을 학습한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책30 기계전문교과 성취기준 해설 p.96"
+  },
+  {
+   "topicId": "kr.topic.2022.high.30d86be79efb603a9e10",
+   "prerequisiteId": "kr.topic.2022.high.fc80053251971e4a8c36",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "논리·기본 제어 회로 학습을 PLC 기반 제어 프로그램 작성에 반영한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책39 융복합·지식재산전문교과 성취기준 해설 p.81"
+  },
+  {
+   "topicId": "kr.topic.2022.high.0a3f9153c2ba833fdeaf",
+   "prerequisiteId": "kr.topic.2022.high.315e699462e958e24b87",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "농업 법인 등록 조건 학습을 실제 법인 사례 조사와 인터뷰의 토대로 삼는다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책37 농림·축산전문교과 성취기준 해설 p.159"
+  },
+  {
+   "topicId": "kr.topic.2022.high.aa64f6148b5ebadc422c",
+   "prerequisiteId": "kr.topic.2022.high.c8c26a5754c6060f1b6a",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "평면 설계로 만든 하의 패턴을 샘플 하의 패턴에 활용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책33 섬유·의류전문교과 성취기준 해설 p.111"
+  },
+  {
+   "topicId": "kr.topic.2022.high.32274ad413cbd4b94d10",
+   "prerequisiteId": "kr.topic.2022.high.4bc542cc8fe470b27d20",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "그루브 심으로 만든 부품을 사용한 뒤 더블 심 작업을 하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책30 기계전문교과 성취기준 해설 p.82"
+  },
+  {
+   "topicId": "kr.topic.2022.high.a19c84bb8edaeecd60cb",
+   "prerequisiteId": "kr.topic.2022.high.7280812183ebd73ed2a6",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "마이크로프로세서 동작 원리를 토대로 제어·연산·입출력 기능을 학습한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책30 기계전문교과 성취기준 해설 p.96"
+  },
+  {
+   "topicId": "kr.topic.2022.high.8e14d98dc456818677ad",
+   "prerequisiteId": "kr.topic.2022.high.bd4a22cd0dad63306ab6",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "PC 언어 스크립트 작성 결과를 공정 재구성 성능 변화 분석에 활용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책39 융복합·지식재산전문교과 성취기준 해설 p.84"
+  },
+  {
+   "topicId": "kr.topic.2022.high.ab89851142b2a6c4ca3f",
+   "prerequisiteId": "kr.topic.2022.high.2973a0fa8b80ebc03f66",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "세포의 기능과 분화 이해를 단백질 구조와 기능 탐구의 바탕으로 삼는다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책37 농림·축산전문교과 성취기준 해설 p.141"
+  },
+  {
+   "topicId": "kr.topic.2022.high.d8a4d2844258c1019ad3",
+   "prerequisiteId": "kr.topic.2022.high.77d09617cd1f0b975b22",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "다트·목둘레선·칼라 설계 결과를 샘플 상의 패턴에 활용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책33 섬유·의류전문교과 성취기준 해설 p.112"
+  },
+  {
+   "topicId": "kr.topic.2022.high.b59597c82e89a7168d22",
+   "prerequisiteId": "kr.topic.2022.high.3c0f1fb177159565e14e",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "지식 재산의 개념과 유형 이해를 발명과 지식재산권 관계 학습에 연결한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책39 융복합·지식재산전문교과 성취기준 해설 p.89"
+  },
+  {
+   "topicId": "kr.topic.2022.high.5e3a18084cdb30ef106c",
+   "prerequisiteId": "kr.topic.2022.high.27d6a5f95adfb3b85ef4",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "자기의 기본 개념 이해를 전자력 계산과 자화 곡선 학습의 바탕으로 삼는다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책38 수산·해운전문교과 성취기준 해설 p.374"
+  },
+  {
+   "topicId": "kr.topic.2022.high.6058c28d513c1bee4a10",
+   "prerequisiteId": "kr.topic.2022.high.917217f30cebfacfc4d2",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "유아기 발달 특징에 근거하여 유아의 행동 경향을 이해한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.83"
+  },
+  {
+   "topicId": "kr.topic.2022.high.6ba063510d5bc4fe85fa",
+   "prerequisiteId": "kr.topic.2022.high.7ca462673a5a14e7694c",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "강화 학습 알고리즘 선정 결과를 모델 검증·최적화에 활용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책35 정보·통신전문교과 성취기준 해설 p.141"
+  },
+  {
+   "topicId": "kr.topic.2022.high.c0bb0b07cca836793658",
+   "prerequisiteId": "kr.topic.2022.high.489814629ce71b1d512e",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "설비 운전 방식 결정을 운전 방식별 감시 화면 구성에 연계한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책39 융복합·지식재산전문교과 성취기준 해설 p.82"
+  },
+  {
+   "topicId": "kr.topic.2022.high.6ba063510d5bc4fe85fa",
+   "prerequisiteId": "kr.topic.2022.high.04d91f8f1c1b86bf007a",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "지도 학습 알고리즘 선정 결과를 모델 검증·최적화에 활용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책35 정보·통신전문교과 성취기준 해설 p.141"
+  },
+  {
+   "topicId": "kr.topic.2022.high.0089d0439cef8182fd66",
+   "prerequisiteId": "kr.topic.2022.high.2697e93b1ef044e84527",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "유선 전송 방식 학습을 확인한 뒤 LAN 구성 실습을 준비한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책35 정보·통신전문교과 성취기준 해설 p.58"
+  },
+  {
+   "topicId": "kr.topic.2022.high.64c8a26e685de6f4f149",
+   "prerequisiteId": "kr.topic.2022.high.1018901f98f1af162fad",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "유압 액추에이터 도면·설치 방법을 익힌 뒤 자동화 시스템에 적용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책30 기계전문교과 성취기준 해설 p.95"
+  },
+  {
+   "topicId": "kr.topic.2022.high.aa64f6148b5ebadc422c",
+   "prerequisiteId": "kr.topic.2022.high.79eefe69eff984d37110",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "입체 재단으로 추출한 하의 패턴을 샘플 하의 패턴에 활용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책33 섬유·의류전문교과 성취기준 해설 p.111"
+  },
+  {
+   "topicId": "kr.topic.2022.high.38f4dded92f9325187da",
+   "prerequisiteId": "kr.topic.2022.high.30a4e72853320ed0c44f",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "공압 액추에이터 도면·설치 방법을 익힌 뒤 자동화 시스템에 적용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책30 기계전문교과 성취기준 해설 p.94"
+  },
+  {
+   "topicId": "kr.topic.2022.high.80082d25f3a0f863705a",
+   "prerequisiteId": "kr.topic.2022.high.ee70bd732cfd176ca77c",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "제어 동작 흐름도를 참고하여 시퀀스별 제어 화면을 설계한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책39 융복합·지식재산전문교과 성취기준 해설 p.82"
+  },
+  {
+   "topicId": "kr.topic.2022.high.15e45024a788c54e08f6",
+   "prerequisiteId": "kr.topic.2022.high.a2d69495b724dbd1b43f",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "센서 신호 처리 개념을 익힌 뒤 아날로그·디지털 신호 차이를 설명한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책30 기계전문교과 성취기준 해설 p.94"
+  },
+  {
+   "topicId": "kr.topic.2022.high.76d60a5aca8b09b1514f",
+   "prerequisiteId": "kr.topic.2022.high.fc80053251971e4a8c36",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "논리·기본 제어 회로 학습을 PC 기반 제어 프로그램 작성에 반영한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책39 융복합·지식재산전문교과 성취기준 해설 p.81"
+  },
+  {
+   "topicId": "kr.topic.2022.high.d8a4d2844258c1019ad3",
+   "prerequisiteId": "kr.topic.2022.high.e01ca9097e92f37c3712",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "상의·소매 원형 설계 결과를 샘플 상의 패턴에 활용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책33 섬유·의류전문교과 성취기준 해설 p.112"
+  },
+  {
+   "topicId": "kr.topic.2022.high.2e7041b47829492f7764",
+   "prerequisiteId": "kr.topic.2022.high.759b32935adabf94b7cc",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "사전 학습 모델의 이해와 활용을 프로젝트 개발에 적용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책35 정보·통신전문교과 성취기준 해설 p.142"
+  },
+  {
+   "topicId": "kr.topic.2022.high.855878a7d590087bdee4",
+   "prerequisiteId": "kr.topic.2022.high.08b0d2dca08b6674d11f",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "앞서 개발한 복합 구동 메커니즘 도면을 가상 컴포넌트 설계에 활용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책39 융복합·지식재산전문교과 성취기준 해설 p.83"
+  },
+  {
+   "topicId": "kr.topic.2022.high.a5907ceea002c788f643",
+   "prerequisiteId": "kr.topic.2022.high.0fb9612c25c4628e7d62",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "영아기 발달 특징에 근거하여 영아의 행동 경향을 이해한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.83"
+  },
+  {
+   "topicId": "kr.topic.2022.high.049285f32d910022bc78",
+   "prerequisiteId": "kr.topic.2022.high.2973a0fa8b80ebc03f66",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "세포의 기능과 분화 이해를 유전자 구조와 형질 발현 탐구의 바탕으로 삼는다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책37 농림·축산전문교과 성취기준 해설 p.141"
+  },
+  {
+   "topicId": "kr.topic.2022.high.f08854e5870b67f48f75",
+   "prerequisiteId": "kr.topic.2022.high.489814629ce71b1d512e",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "설비 운전 방식의 구성과 기능을 파악한 뒤 프로그램 방법을 결정한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책39 융복합·지식재산전문교과 성취기준 해설 p.83"
+  },
+  {
+   "topicId": "kr.topic.2022.high.665f10f57afab169138a",
+   "prerequisiteId": "kr.topic.2022.high.99868312abdd2c079d4f",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "자기·전류의 기초 개념을 토대로 전동기의 회전 원리와 구조를 학습한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책30 기계전문교과 성취기준 해설 p.95"
+  },
+  {
+   "topicId": "kr.topic.2022.high.855878a7d590087bdee4",
+   "prerequisiteId": "kr.topic.2022.high.ef0c299a55d304bc827c",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "앞서 작성한 부품 배치도를 가상 물리 공간의 컴포넌트 설계에 활용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책39 융복합·지식재산전문교과 성취기준 해설 p.83"
+  },
+  {
+   "topicId": "kr.topic.2022.high.c5d23878f35800f39857",
+   "prerequisiteId": "kr.topic.2022.high.a6061a6d741d075dddac",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "기체의 압력·부피 변화 계산을 잠수 질환의 물리적 원인 이해에 적용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책38 수산·해운전문교과 성취기준 해설 p.233"
+  },
+  {
+   "topicId": "kr.topic.2022.high.d8a4d2844258c1019ad3",
+   "prerequisiteId": "kr.topic.2022.high.c6f7963fbf3de0fb1086",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "소매 설계 결과를 샘플 상의 패턴에 활용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책33 섬유·의류전문교과 성취기준 해설 p.112"
+  },
+  {
+   "topicId": "kr.topic.2022.high.224e57a3066fd4e244ee",
+   "prerequisiteId": "kr.topic.2022.high.3fb7b86644552de5b821",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "세라믹 재료의 종류와 기초 용어를 익힌 뒤 재료의 용도를 지도한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책31 재료전문교과 성취기준 해설 p.73"
+  }
+ ]
+}

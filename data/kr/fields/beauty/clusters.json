@@ -1,0 +1,167 @@
+{
+ "clusters": [
+  {
+   "id": "kr.cluster.2022.high.0132a9f29c236a409a",
+   "titleKorean": "미용 안전·보건 — 미용업 환경 위생",
+   "subjectKorean": "미용 안전·보건",
+   "majorFieldSlug": "beauty",
+   "gradeBand": "10-12",
+   "domainKorean": "미용업 환경 위생",
+   "summary": "미용 안전·보건의 미용업 환경 위생 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.0d27c1f0043e1ccf4417",
+    "kr.topic.2022.high.177e058c23987b9b530f",
+    "kr.topic.2022.high.21e612e84da05fc05a99",
+    "kr.topic.2022.high.73d5e4b42d4eb2dc8f92",
+    "kr.topic.2022.high.77459063930fd35ba514"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.415b7bbc91fe5f0553",
+   "titleKorean": "미용 안전·보건 — 공중 보건의 이해",
+   "subjectKorean": "미용 안전·보건",
+   "majorFieldSlug": "beauty",
+   "gradeBand": "10-12",
+   "domainKorean": "공중 보건의 이해",
+   "summary": "미용 안전·보건의 공중 보건의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.29cdbf6612ecadf1e63e",
+    "kr.topic.2022.high.d4dc3dd04b7146b5b488",
+    "kr.topic.2022.high.f64b187b7c546667ee0e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4587652c4dcb380c13",
+   "titleKorean": "미용 안전·보건 — 미용업 위생 관리",
+   "subjectKorean": "미용 안전·보건",
+   "majorFieldSlug": "beauty",
+   "gradeBand": "10-12",
+   "domainKorean": "미용업 위생 관리",
+   "summary": "미용 안전·보건의 미용업 위생 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.c1f9597978a305672dca",
+    "kr.topic.2022.high.f8fdd32f19bd3d082a1a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4aac56d62ae54e101f",
+   "titleKorean": "미용의 기초 — 피부의 이해",
+   "subjectKorean": "미용의 기초",
+   "majorFieldSlug": "beauty",
+   "gradeBand": "10-12",
+   "domainKorean": "피부의 이해",
+   "summary": "미용의 기초의 피부의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.1b18acfc94f505ef4519",
+    "kr.topic.2022.high.3d13fe1dcf045856d710",
+    "kr.topic.2022.high.6d9005b898397e946986"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6df0f7497c8f1fdca2",
+   "titleKorean": "미용 안전·보건 — 산업 보건",
+   "subjectKorean": "미용 안전·보건",
+   "majorFieldSlug": "beauty",
+   "gradeBand": "10-12",
+   "domainKorean": "산업 보건",
+   "summary": "미용 안전·보건의 산업 보건 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.4d41767a835707d3e67d",
+    "kr.topic.2022.high.bb3ddba78682879b8fa7",
+    "kr.topic.2022.high.db5d0a9bb0aa56eb9465",
+    "kr.topic.2022.high.f1f642586b8ee2afdf12"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.8bd077e19776d3ab50",
+   "titleKorean": "미용의 기초 — 모발의 이해",
+   "subjectKorean": "미용의 기초",
+   "majorFieldSlug": "beauty",
+   "gradeBand": "10-12",
+   "domainKorean": "모발의 이해",
+   "summary": "미용의 기초의 모발의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.190db8d678ee97d3f32e",
+    "kr.topic.2022.high.217eef09ace33bb1ef1e",
+    "kr.topic.2022.high.7c59e973a4173360f216"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.930fce70e16aa59c32",
+   "titleKorean": "미용 안전·보건 — 감염병 관리",
+   "subjectKorean": "미용 안전·보건",
+   "majorFieldSlug": "beauty",
+   "gradeBand": "10-12",
+   "domainKorean": "감염병 관리",
+   "summary": "미용 안전·보건의 감염병 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.747e95742ee90d191c68",
+    "kr.topic.2022.high.dfbfcface5c68f671adc"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b8a6c13a2e535fab83",
+   "titleKorean": "미용의 기초 — 손발톱의 이해",
+   "subjectKorean": "미용의 기초",
+   "majorFieldSlug": "beauty",
+   "gradeBand": "10-12",
+   "domainKorean": "손발톱의 이해",
+   "summary": "미용의 기초의 손발톱의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.04538e874d502e7d0206",
+    "kr.topic.2022.high.684e23ab12cbef0c35ad"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.bbb916de7aa9ca23dc",
+   "titleKorean": "미용의 기초 — 고객 응대",
+   "subjectKorean": "미용의 기초",
+   "majorFieldSlug": "beauty",
+   "gradeBand": "10-12",
+   "domainKorean": "고객 응대",
+   "summary": "미용의 기초의 고객 응대 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.be16eca5599f924ade09",
+    "kr.topic.2022.high.c15c07bcb41b26da8abe"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d054b781fb7edc39af",
+   "titleKorean": "미용의 기초 — 미용의 의의와 발달",
+   "subjectKorean": "미용의 기초",
+   "majorFieldSlug": "beauty",
+   "gradeBand": "10-12",
+   "domainKorean": "미용의 의의와 발달",
+   "summary": "미용의 기초의 미용의 의의와 발달 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.4bb5a6de7c40aec5208d",
+    "kr.topic.2022.high.a6cfc3fe69137d6dd9dc",
+    "kr.topic.2022.high.b26efb522f7d16397c62"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f1b72b03197881aa51",
+   "titleKorean": "미용의 기초 — 메이크업과 색채",
+   "subjectKorean": "미용의 기초",
+   "majorFieldSlug": "beauty",
+   "gradeBand": "10-12",
+   "domainKorean": "메이크업과 색채",
+   "summary": "미용의 기초의 메이크업과 색채 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.b84259379a98da451135",
+    "kr.topic.2022.high.df77c20bc1c8a71788a7"
+   ]
+  }
+ ]
+}

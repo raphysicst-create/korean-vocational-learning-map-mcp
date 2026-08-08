@@ -1,0 +1,5305 @@
+{
+ "version": "kr-vocational-standard-texts-v1",
+ "sourceNote": "국가교육위원회 고시 제2024-3호 초·중등학교 교육과정 별책23~39(전문교과) PDF에서 추출한 성취기준 본문. 공공저작물로서 저작권법 제24조의2에 따라 출처를 표기해 이용한다.",
+ "texts": [
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 01-01-01]",
+   "code": "[기공 01-01-01]",
+   "text": "직접 측정하는 측정기의 종류와 구조를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 01-01-02]",
+   "code": "[기공 01-01-02]",
+   "text": "측정 정밀도에 알맞은 측정기를 선정할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 01-01-03]",
+   "code": "[기공 01-01-03]",
+   "text": "다양한 측정기를 사용하여 공작물의 길이를 측정할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 01-02-01]",
+   "code": "[기공 01-02-01]",
+   "text": "각도 측정에 사용되는 측정기의 종류와 구조를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 01-02-02]",
+   "code": "[기공 01-02-02]",
+   "text": "직각자와 각도기를 이용하여 공작물의 직각도와 각도를 측정할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 01-02-03]",
+   "code": "[기공 01-02-03]",
+   "text": "사인 바를 이용하여 각도를 측정할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 01-03-01]",
+   "code": "[기공 01-03-01]",
+   "text": "테이퍼의 의미를 알고, 테이퍼가 사용되는 예를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 01-03-02]",
+   "code": "[기공 01-03-02]",
+   "text": "테이퍼 측정에 사용되는 측정기와 측정 방법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 01-03-03]",
+   "code": "[기공 01-03-03]",
+   "text": "핀 게이지와 블록 게이지를 이용하여 테이퍼를 정밀하게 측정할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 01-04-01]",
+   "code": "[기공 01-04-01]",
+   "text": "형상 공차의 표시 방법을 알고, 그 공차 개념을 바르게 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 01-04-02]",
+   "code": "[기공 01-04-02]",
+   "text": "공작물의 진원도, 원통도 및 동심도를 측정할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 01-04-03]",
+   "code": "[기공 01-04-03]",
+   "text": "공작물의 평행도를 측정할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 02-01-01]",
+   "code": "[기공 02-01-01]",
+   "text": "금 긋기 공구와 톱의 종류 및 톱날의 구조를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 02-01-02]",
+   "code": "[기공 02-01-02]",
+   "text": "금 긋기 바늘을 사용하여 정확하게 금 긋기를 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 02-01-03]",
+   "code": "[기공 02-01-03]",
+   "text": "톱을 사용하여 금 긋기 선을 따라 절단할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 02-02-01]",
+   "code": "[기공 02-02-01]",
+   "text": "줄의 구조와 종류를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 02-02-02]",
+   "code": "[기공 02-02-02]",
+   "text": "줄 작업 자세와 동작을 바르게 수행할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 02-02-03]",
+   "code": "[기공 02-02-03]",
+   "text": "공작물의 기준면에 평행과 직각이 되도록 줄 작업하여 도면의 치수대로 가공할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 02-03-01]",
+   "code": "[기공 02-03-01]",
+   "text": "드릴링 머신의 구조와 작업의 종류를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 02-03-02]",
+   "code": "[기공 02-03-02]",
+   "text": "펀치 작업과 드릴 작업을 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 02-03-03]",
+   "code": "[기공 02-03-03]",
+   "text": "리머의 종류와 사용 방법을 알고, 리머 작업을 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 02-03-04]",
+   "code": "[기공 02-03-04]",
+   "text": "카운터 보어와 카운터 싱크를 사용하여 규격에 맞는 자리파기 작업을 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 02-04-01]",
+   "code": "[기공 02-04-01]",
+   "text": "탭(tap)의 구조와 종류를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 02-04-02]",
+   "code": "[기공 02-04-02]",
+   "text": "다이스(dies)의 구조와 종류를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 02-04-03]",
+   "code": "[기공 02-04-03]",
+   "text": "탭과 다이스를 사용하여 규격에 맞는 나사를 가공할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 03-01-01]",
+   "code": "[기공 03-01-01]",
+   "text": "선반의 각부 명칭과 주요 부분의 기능을 알고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 03-01-02]",
+   "code": "[기공 03-01-02]",
+   "text": "선반의 점검과 급유 방법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 03-01-03]",
+   "code": "[기공 03-01-03]",
+   "text": "선반의 각부를 안전하게 조작할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 03-02-01]",
+   "code": "[기공 03-02-01]",
+   "text": "척 작업을 통하여 공작물의 중심을 맞출 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 03-02-02]",
+   "code": "[기공 03-02-02]",
+   "text": "선반의 이송 핸들에 있는 마이크로칼라 눈금을 조정하여 치수를 맞출 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 03-02-03]",
+   "code": "[기공 03-02-03]",
+   "text": "수동 이송 작업으로 공작물의 바깥지름을 가공할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 03-03-01]",
+   "code": "[기공 03-03-01]",
+   "text": "홈 바이트의 사용 및 가공 방법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 03-03-02]",
+   "code": "[기공 03-03-02]",
+   "text": "홈 바이트의 절삭 조건을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 03-03-03]",
+   "code": "[기공 03-03-03]",
+   "text": "홈 바이트를 사용하여 홈 가공을 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 03-04-01]",
+   "code": "[기공 03-04-01]",
+   "text": "안지름 측정 방법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 03-04-02]",
+   "code": "[기공 03-04-02]",
+   "text": "선반에서 드릴 작업을 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 03-04-03]",
+   "code": "[기공 03-04-03]",
+   "text": "안지름 바이트를 사용하여 안지름을 가공할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 04-01-01]",
+   "code": "[기공 04-01-01]",
+   "text": "수직 밀링 머신의 구조와 주요 부분의 기능을 알고 조작할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 04-01-02]",
+   "code": "[기공 04-01-02]",
+   "text": "밀링 공구의 종류를 알고 설치할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 04-01-03]",
+   "code": "[기공 04-01-03]",
+   "text": "마이크로칼라의 최소 눈금을 알고 영점 세팅(zero setting)을 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 04-02-01]",
+   "code": "[기공 04-02-01]",
+   "text": "공작물을 바이스에 고정할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 04-02-02]",
+   "code": "[기공 04-02-02]",
+   "text": "공작물의 모든 면이 서로 평행 또는 직각이 되도록 가공할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 04-02-03]",
+   "code": "[기공 04-02-03]",
+   "text": "공작물을 주어진 도면의 치수대로 가공할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 04-03-01]",
+   "code": "[기공 04-03-01]",
+   "text": "상향 절삭과 하향 절삭을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 04-03-02]",
+   "code": "[기공 04-03-02]",
+   "text": "엔드밀을 사용하여 홈을 가공할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 05-01-01]",
+   "code": "[기공 05-01-01]",
+   "text": "공작물의 재질에 따라 숫돌바퀴를 바르게 선택할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 05-01-02]",
+   "code": "[기공 05-01-02]",
+   "text": "숫돌바퀴의 균형을 맞출 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 05-01-03]",
+   "code": "[기공 05-01-03]",
+   "text": "숫돌바퀴를 연삭기에 안전하게 설치할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 05-02-01]",
+   "code": "[기공 05-02-01]",
+   "text": "평면 연삭기의 구조와 기능을 바르게 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 05-02-02]",
+   "code": "[기공 05-02-02]",
+   "text": "공작물을 테이블 위에 안전하게 고정할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 05-02-03]",
+   "code": "[기공 05-02-03]",
+   "text": "평면 연삭기를 수동 및 자동으로 운전할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 05-03-01]",
+   "code": "[기공 05-03-01]",
+   "text": "평면 연삭기를 바르게 조작할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 05-03-02]",
+   "code": "[기공 05-03-02]",
+   "text": "육면체를 평행과 직각을 맞추어 연삭하는 방법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 05-03-03]",
+   "code": "[기공 05-03-03]",
+   "text": "평면 연삭기를 이용하여 육면체를 도면의 치수로 연삭할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 05-04-01]",
+   "code": "[기공 05-04-01]",
+   "text": "평면 연삭기에 공작물을 고정하고 드레싱을 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 05-04-02]",
+   "code": "[기공 05-04-02]",
+   "text": "공작물의 평행도를 정밀하게 측정할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 05-04-03]",
+   "code": "[기공 05-04-03]",
+   "text": "평면 연삭기를 이용하여 평행대를 도면의 치수로 연삭할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 06-01-01]",
+   "code": "[기공 06-01-01]",
+   "text": "아크 용접기의 구성 요소 및 각부 명칭을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 06-01-02]",
+   "code": "[기공 06-01-02]",
+   "text": "아크 용접기의 아크 발생 현상을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 06-01-03]",
+   "code": "[기공 06-01-03]",
+   "text": "아크 용접기를 작동할 수 있으며, 전류를 조절할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 06-01-04]",
+   "code": "[기공 06-01-04]",
+   "text": "아크 발생 및 끊기를 연속적으로 수행할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 06-02-01]",
+   "code": "[기공 06-02-01]",
+   "text": "아래 보기 자세의 특성을 알고 운봉을 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 06-02-02]",
+   "code": "[기공 06-02-02]",
+   "text": "비드 시점과 종점의 크레이터 처리를 바르게 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 06-02-03]",
+   "code": "[기공 06-02-03]",
+   "text": "아래 보기 자세로 아크 용접을 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 06-03-01]",
+   "code": "[기공 06-03-01]",
+   "text": "가스 용접기의 구조와 사용 방법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 06-03-02]",
+   "code": "[기공 06-03-02]",
+   "text": "압력 조정기의 눈금을 정확히 맞출 수 있고, 가스 용접 토치의 불꽃을 조절할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 06-03-03]",
+   "code": "[기공 06-03-03]",
+   "text": "가스 용접기를 안전하고 정확하게 설치할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 06-04-01]",
+   "code": "[기공 06-04-01]",
+   "text": "가스 용접 방법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 06-04-02]",
+   "code": "[기공 06-04-02]",
+   "text": "폭과 높이가 일정하고 결함이 없는 비드를 만들 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 06-04-03]",
+   "code": "[기공 06-04-03]",
+   "text": "가스 용접기를 사용하여 아래 보기 자세로 용접할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 07-01-01]",
+   "code": "[기공 07-01-01]",
+   "text": "만능 제도기의 사용 방법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 07-01-02]",
+   "code": "[기공 07-01-02]",
+   "text": "평행선법을 이용한 전개도를 작도할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 07-01-03]",
+   "code": "[기공 07-01-03]",
+   "text": "방사선법을 이용한 전개도를 작도할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 07-01-04]",
+   "code": "[기공 07-01-04]",
+   "text": "삼각형법을 이용한 전개도를 작도할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 07-02-01]",
+   "code": "[기공 07-02-01]",
+   "text": "강판으로 그루브 심(groove seam) 작업을 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 07-02-02]",
+   "code": "[기공 07-02-02]",
+   "text": "강판으로 더블 심(double seam) 작업을 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 07-02-03]",
+   "code": "[기공 07-02-03]",
+   "text": "사각 용기를 만들 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 07-03-01]",
+   "code": "[기공 07-03-01]",
+   "text": "강판으로 보텀 더블 심(bottom double seam) 작업을 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 07-03-02]",
+   "code": "[기공 07-03-02]",
+   "text": "강판에 비딩(beading) 작업을 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 07-03-03]",
+   "code": "[기공 07-03-03]",
+   "text": "강판으로 원통 용기를 만들 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 08-01-01]",
+   "code": "[기공 08-01-01]",
+   "text": "쇠톱의 사용 방법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 08-01-02]",
+   "code": "[기공 08-01-02]",
+   "text": "파이프 커터의 구조와 명칭을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 08-01-03]",
+   "code": "[기공 08-01-03]",
+   "text": "쇠톱과 파이프 커터를 사용하여 치수에 맞게 파이프를 절단할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 08-02-01]",
+   "code": "[기공 08-02-01]",
+   "text": "냉간 굽힘용 기계의 구조와 기능을 알고 조작할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 08-02-02]",
+   "code": "[기공 08-02-02]",
+   "text": "강관의 구부림 길이를 계산할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 08-02-03]",
+   "code": "[기공 08-02-03]",
+   "text": "강관을 냉간 굽힘의 방법으로 굽힘 작업을 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 08-03-01]",
+   "code": "[기공 08-03-01]",
+   "text": "자동 나사 절삭기의 구조와 사용 방법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 08-03-02]",
+   "code": "[기공 08-03-02]",
+   "text": "파이프의 절단 길이를 계산할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 08-03-03]",
+   "code": "[기공 08-03-03]",
+   "text": "강관에 나사를 절삭하고 이음쇠를 사용하여 조립할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 09-01-01]",
+   "code": "[기공 09-01-01]",
+   "text": "목형 제작에 필요한 현도를 그릴 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 09-01-02]",
+   "code": "[기공 09-01-02]",
+   "text": "사포를 사용하여 목형을 다듬질할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 09-01-03]",
+   "code": "[기공 09-01-03]",
+   "text": "목형 공구를 사용하여 다양한 형상의 목형을 제작할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 09-02-01]",
+   "code": "[기공 09-02-01]",
+   "text": "주형 공구와 주물사를 이용한 주형 제작 방법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 09-02-02]",
+   "code": "[기공 09-02-02]",
+   "text": "틀 주형 작업으로 조형 작업을 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 09-03-01]",
+   "code": "[기공 09-03-01]",
+   "text": "전기 도가니로를 사용하여 알루미늄 합금을 용해할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-공작:[기공 09-03-02]",
+   "code": "[기공 09-03-02]",
+   "text": "단체형으로 알루미늄 합금 주물을 제작할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-역학:[기기 01-01]",
+   "code": "[기기 01-01]",
+   "text": "역학의 정의와 종류를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-역학:[기기 01-02]",
+   "code": "[기기 01-02]",
+   "text": "역학의 기본 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-역학:[기기 01-03]",
+   "code": "[기기 01-03]",
+   "text": "역학에서 다루어지는 단위와 단위계, 단위 간의 관계를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-역학:[기기 01-04]",
+   "code": "[기기 01-04]",
+   "text": "벡터의 정의와 기본 개념을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-역학:[기기 02-01]",
+   "code": "[기기 02-01]",
+   "text": "합력에 대한 개념과 원리를 이해하고 합력을 계산할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-역학:[기기 02-02]",
+   "code": "[기기 02-02]",
+   "text": "모멘트의 기본 개념을 설명하고 계산할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-역학:[기기 02-03]",
+   "code": "[기기 02-03]",
+   "text": "강체의 개념을 설명하고 강체에서의 힘의 평형식을 적용하여 반력을 계산할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-역학:[기기 02-04]",
+   "code": "[기기 02-04]",
+   "text": "무게중심의 개념과 도심의 개념을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-역학:[기기 02-05]",
+   "code": "[기기 02-05]",
+   "text": "트러스와 프레임의 개념과 차이를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-역학:[기기 03-01]",
+   "code": "[기기 03-01]",
+   "text": "응력의 정의와 개념, 종류를 설명하고 하중을 받는 부재의 응력을 구할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-역학:[기기 03-02]",
+   "code": "[기기 03-02]",
+   "text": "축 방향 하중을 받는 부재에 대하여 응력과 변형률의 관계를 설명하고 이를 계산할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-역학:[기기 03-03]",
+   "code": "[기기 03-03]",
+   "text": "비틀림 하중을 받는 부재의 응력과 변형률을 이해하고 이를 계산할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-역학:[기기 03-04]",
+   "code": "[기기 03-04]",
+   "text": "굽힘 하중을 받는 부재의 응력과 변형률을 이해하고 이를 계산할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-역학:[기기 04-01]",
+   "code": "[기기 04-01]",
+   "text": "유체의 개념과 특성을 이해하며 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-역학:[기기 04-02]",
+   "code": "[기기 04-02]",
+   "text": "멈추어 있는 유체가 표면에 가하는 힘을 이해하고 계산할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-역학:[기기 04-03]",
+   "code": "[기기 04-03]",
+   "text": "유체 유동 시스템의 원리와 유체 유동의 여러 특성을 이해하고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-역학:[기기 04-04]",
+   "code": "[기기 04-04]",
+   "text": "유체 기계의 종류와 특성을 설명하고 유체 기계의 에너지 변환 방식을 파악할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-역학:[기기 05-01]",
+   "code": "[기기 05-01]",
+   "text": "일과 에너지의 정의와 단위를 설명하고 에너지의 종류를 이해하며 이를 계산할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-역학:[기기 05-02]",
+   "code": "[기기 05-02]",
+   "text": "열역학의 기본 법칙을 이해하고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-역학:[기기 05-03]",
+   "code": "[기기 05-03]",
+   "text": "순수 물질과 상(phase)의 개념을 이해하고 상변화 과정과 상태량 선도를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-역학:[기기 05-04]",
+   "code": "[기기 05-04]",
+   "text": "기체의 상태 변화에 대한 기본 법칙과 이상 기체의 상태 방정식을 이해하고 계산할 수 있으며, 이상 기체의 상태 변화 과정을 이해할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-기초-역학:[기기 05-05]",
+   "code": "[기기 05-05]",
+   "text": "열기관의 종류와 원리를 이해하고 열기관 사이클의 각 과정을 설명하고 계산할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-일반:[기일 01-01]",
+   "code": "[기일 01-01]",
+   "text": "공작 기계의 발달 과정과 생산 방식의 변천을 알아보고 앞으로의 기술 발전 경향을 예측할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-일반:[기일 01-02]",
+   "code": "[기일 01-02]",
+   "text": "일반적인 기계 공업의 분류를 알아보고 기계 공업과 다른 공업과의 관계를 살펴보며 기계 공업의 발달 과정을 조사하여 토의하고 발표할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-일반:[기일 02-01]",
+   "code": "[기일 02-01]",
+   "text": "기계 재료에 필요한 성질과 재료의 시험과 검사 방법을 이해하고 설명할 수 있다. 또한 각종 기계 재료의 종류와 특성 및 용도를 알 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-일반:[기일 02-02]",
+   "code": "[기일 02-02]",
+   "text": "금속의 성질에 따른 기계 가공의 종류와 방법을 알고, 측정·검사에 쓰이는 측정기와 각종 가공 법을 이해한다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-일반:[기일 03-01]",
+   "code": "[기일 03-01]",
+   "text": "기계 설계와 제작 과정에 대하여 알아보고 설명할 수 있다. 또한 기계 공장의 조직과 공정을 이해한다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-일반:[기일 03-02]",
+   "code": "[기일 03-02]",
+   "text": "기계와 기구의 차이점과 여러 가지 동력 전달 기구를 알아보고, 기계요소의 종류와 용도 등에 대하여 이해한다. 특히 기계의 간단한 구조와 부품의 조합으로 움직이는 기계적인 기구 운동 을 통하여 기구와 기계요소의 상호 관계를 이해한다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-일반:[기일 04-01]",
+   "code": "[기일 04-01]",
+   "text": "열 원동기의 동력 발생 원리와 에너지 변환을 이해하고 열 원동기의 종류와 특징 및 용도를 알 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-일반:[기일 04-02]",
+   "code": "[기일 04-02]",
+   "text": "유체의 성질을 알아보고 유체 기계의 에너지 변환을 이해할 수 있다. 또한 유체 기계의 종류 와 특징 및 용도를 알고, 이를 기계에 적용할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-일반:[기일 04-03]",
+   "code": "[기일 04-03]",
+   "text": "공기 조화의 정의, 공기 조화의 조건과 방식을 알고, 공기 조화 설비의 종류와 기능을 알 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 01-01-01]",
+   "code": "[기계 01-01-01]",
+   "text": "한국 산업 규격에 규정되어 있는 제도 통칙을 바탕으로 도면의 규격 및 양식을 선정할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 01-01-02]",
+   "code": "[기계 01-01-02]",
+   "text": "도면의 크기에 따라 그림의 크기를 선정하고 도면을 접을 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 01-02-01]",
+   "code": "[기계 01-02-01]",
+   "text": "투상법의 개념(원리, 분류)을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 01-02-02]",
+   "code": "[기계 01-02-02]",
+   "text": "제1각법과 제3각법을 구분하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 01-02-03]",
+   "code": "[기계 01-02-03]",
+   "text": "투상도의 자세와 배열 위치를 습득하여 제품의 형상에 따라 도면을 그릴 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 01-03-01]",
+   "code": "[기계 01-03-01]",
+   "text": "단면도의 원리를 이해할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 01-03-02]",
+   "code": "[기계 01-03-02]",
+   "text": "단면도의 종류를 구분하고 제품의 단면도를 그릴 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 01-04-01]",
+   "code": "[기계 01-04-01]",
+   "text": "전개 원리와 이음을 위한 여유 마련하기를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 01-04-02]",
+   "code": "[기계 01-04-02]",
+   "text": "다양한 전개 방법과 전개도를 표시하는 방법을 습득하여 전개도를 그릴 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 01-05-01]",
+   "code": "[기계 01-05-01]",
+   "text": "치수 기입의 원리와 원칙을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 01-05-02]",
+   "code": "[기계 01-05-02]",
+   "text": "치수 배치와 기입 방법을 실습을 통해 도면에 적용할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 01-05-03]",
+   "code": "[기계 01-05-03]",
+   "text": "제품의 가공 및 조립 기준에 필요한 치수를 기입할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 01-05-04]",
+   "code": "[기계 01-05-04]",
+   "text": "물체의 모양에 따라 치수를 수정하고 부품 번호를 기입할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 01-06-01]",
+   "code": "[기계 01-06-01]",
+   "text": "표면 거칠기 및 거칠기값의 의미를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 01-06-02]",
+   "code": "[기계 01-06-02]",
+   "text": "도면에 적용하는 표면 거칠기 및 거칠기값 지시 기호를 기입할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 01-07-01]",
+   "code": "[기계 01-07-01]",
+   "text": "치수 공차에 관해 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 01-07-02]",
+   "code": "[기계 01-07-02]",
+   "text": "끼워 맞춤 공차에 관해 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 01-07-03]",
+   "code": "[기계 01-07-03]",
+   "text": "치수 공차와 끼워 맞춤 공차 기호를 도면에 표시할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 01-08-01]",
+   "code": "[기계 01-08-01]",
+   "text": "기하 공차 기입의 필요성을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 01-08-02]",
+   "code": "[기계 01-08-02]",
+   "text": "다양한 기하 공차의 기호를 도면에 표시할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 01-08-03]",
+   "code": "[기계 01-08-03]",
+   "text": "기하 공차 기호의 지시와 해석하는 방법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 01-09-01]",
+   "code": "[기계 01-09-01]",
+   "text": "기계 재료의 종류와 용도를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 01-09-02]",
+   "code": "[기계 01-09-02]",
+   "text": "기계 재료의 기호와 열처리 표시 방법을 습득하여 도면에 표시할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 02-01-01]",
+   "code": "[기계 02-01-01]",
+   "text": "결합용 기계요소의 종류와 용도를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 02-01-02]",
+   "code": "[기계 02-01-02]",
+   "text": "결합용 기계요소를 KS 규격에 따라 제도할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 02-02-01]",
+   "code": "[기계 02-02-01]",
+   "text": "축용 기계요소의 종류와 용도를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 02-02-02]",
+   "code": "[기계 02-02-02]",
+   "text": "축용 기계요소를 KS 규격에 따라 제도할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 02-03-01]",
+   "code": "[기계 02-03-01]",
+   "text": "전동용 기계요소의 종류와 용도를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 02-03-02]",
+   "code": "[기계 02-03-02]",
+   "text": "전동용 기계요소를 KS 규격에 따라 제도할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 02-04-01]",
+   "code": "[기계 02-04-01]",
+   "text": "관 및 관용 기계요소의 종류와 규격, 도시 및 표시 방법을 알고 제도할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 02-04-02]",
+   "code": "[기계 02-04-02]",
+   "text": "공·유압 기기의 종류와 규격, 도시 및 표시 방법을 알고 제도할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 02-04-03]",
+   "code": "[기계 02-04-03]",
+   "text": "캠, 스프링, 브레이크에 대해 이해하고 제도할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 02-05-01]",
+   "code": "[기계 02-05-01]",
+   "text": "운동 전달 장치와 운동 변환 장치에 대해 분류하고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 02-05-02]",
+   "code": "[기계 02-05-02]",
+   "text": "각종 동력 전달 장치의 종류와 표시 방법을 알고 도면을 작성할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 03-01-01]",
+   "code": "[기계 03-01-01]",
+   "text": "2차원 CAD의 주요 기능과 적용 범위를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 03-01-02]",
+   "code": "[기계 03-01-02]",
+   "text": "2차원 CAD의 도면 화면 및 주요 명령어를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 03-01-03]",
+   "code": "[기계 03-01-03]",
+   "text": "2차원 CAD로 도면을 그릴 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 03-02-01]",
+   "code": "[기계 03-02-01]",
+   "text": "3차원 CAD의 모델링 기법을 이해하고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 03-02-02]",
+   "code": "[기계 03-02-02]",
+   "text": "3차원 CAD를 이용하여 부품을 모델링하고 조립할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 04-01-01]",
+   "code": "[기계 04-01-01]",
+   "text": "금형의 뜻과 종류를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 04-01-02]",
+   "code": "[기계 04-01-02]",
+   "text": "컴퓨터를 활용한 프레스 금형과 사출 금형에 관한 제도 방법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 04-02-01]",
+   "code": "[기계 04-02-01]",
+   "text": "금형의 제작 과정을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 04-02-02]",
+   "code": "[기계 04-02-02]",
+   "text": "금형의 주요 부품을 작도하고 치수 공차와 끼워 맞춤 공차를 적용할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 05-01-01]",
+   "code": "[기계 05-01-01]",
+   "text": "용접 이음의 종류 및 자세, 용접 기호, 용접부의 기호를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 05-01-02]",
+   "code": "[기계 05-01-02]",
+   "text": "각종 용접 이음 기호를 사용하여 도면을 작성하고 산업 현장에 적용할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 05-02-01]",
+   "code": "[기계 05-02-01]",
+   "text": "배관과 밸브의 종류와 기호를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 05-02-02]",
+   "code": "[기계 05-02-02]",
+   "text": "배관 및 밸브 기호를 사용하여 도면을 작성할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 06-01-01]",
+   "code": "[기계 06-01-01]",
+   "text": "검도와 도면의 검사 순서를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 06-01-02]",
+   "code": "[기계 06-01-02]",
+   "text": "제품의 구조와 모양이 정확하게 표현될 수 있도록 검사 항목을 선정하고 오류를 수정할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 06-02-01]",
+   "code": "[기계 06-02-01]",
+   "text": "도면의 관리 업무 절차와 도면의 변경 방법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-기계-제도:[기계 06-02-02]",
+   "code": "[기계 06-02-02]",
+   "text": "컴퓨터와 마이크로필름을 이용한 도면 관리 방법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-냉동-공조-일반:[냉일 01-01]",
+   "code": "[냉일 01-01]",
+   "text": "냉각과 냉동의 의미를 이해하고, 공기 조화의 4요소인 온도, 습도, 기류 및 청정도의 개념을 이해할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-냉동-공조-일반:[냉일 01-02]",
+   "code": "[냉일 01-02]",
+   "text": "어떤 물체로부터 인위적으로 열을 빼앗음으로써 그 물체의 온도를 주위의 온도보다 낮게 유 지하는 원리를 이해할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-냉동-공조-일반:[냉일 01-03]",
+   "code": "[냉일 01-03]",
+   "text": "냉매의 구비 조건과 냉동기유의 역할과 특성을 이해하고, 대체 냉매의 종류와 필요성을 이해 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-냉동-공조-일반:[냉일 02-01]",
+   "code": "[냉일 02-01]",
+   "text": "열역학에 사용되는 기초 단위 및 중요 용어의 개념을 이해하고, 국제 표준 단위계의 기본 단위와 유도 단위를 비교할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-냉동-공조-일반:[냉일 02-02]",
+   "code": "[냉일 02-02]",
+   "text": "열적 평형, 에너지 보존 법칙을 이해하고, 엔탈피와 엔트로피의 개념을 통하여 열역학 제1법 칙, 제2법칙을 익히며, 이상 기체의 성질을 통하여 보일·샤를 법칙 등을 이해할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-냉동-공조-일반:[냉일 02-03]",
+   "code": "[냉일 02-03]",
+   "text": "표준 냉동 사이클과 P-h 선도를 이해하고 해석하여 냉동 능력을 계산할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-냉동-공조-일반:[냉일 02-04]",
+   "code": "[냉일 02-04]",
+   "text": "열전달의 원리를 이해하고, 전도와 대류 및 복사의 개념을 비교, 분석할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-냉동-공조-일반:[냉일 03-01]",
+   "code": "[냉일 03-01]",
+   "text": "공기 조화 부하의 개념과 분류를 이해하고, 실내 적정 온습도를 유지하는 데 필요한 냉각, 가열, 감습, 가습을 위한 열량을 계산하는 방법을 알 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-냉동-공조-일반:[냉일 03-02]",
+   "code": "[냉일 03-02]",
+   "text": "냉방 부하의 구성 요인과 설계 조건을 이해하고, 사무실과 산업용의 외기 설계, 실내 설계의 조건을 적용하여 실내 온도 및 습도 조절에 필요한 부하 계산을 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-냉동-공조-일반:[냉일 03-03]",
+   "code": "[냉일 03-03]",
+   "text": "난방 부하의 구성 요인과 설계 조건을 이해하고, 사무실과 산업용의 외기 설계, 실내 설계의 조건을 적용하여 실내 온도 및 습도 조절에 필요한 부하 계산을 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-냉동-공조-일반:[냉일 03-04]",
+   "code": "[냉일 03-04]",
+   "text": "습공기 선도의 구성 요소를 파악하고, 습공기 선도 자료를 바탕으로 공조기 및 냉동기의 부 하 용량을 분석할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-냉동-공조-일반:[냉일 04-01]",
+   "code": "[냉일 04-01]",
+   "text": "압축기의 작용, 압축기의 분류를 통해서 압축기의 구조를 파악하고, 각 압축기의 특징과 장단 점을 이해할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-냉동-공조-일반:[냉일 04-02]",
+   "code": "[냉일 04-02]",
+   "text": "응축기의 작용, 수냉식 응축기, 증발식 응축기, 공랭식 응축기의 형식과 특징을 비교하고, 각 응축기의 장단점을 이해할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-냉동-공조-일반:[냉일 04-03]",
+   "code": "[냉일 04-03]",
+   "text": "증발기의 작용, 구조와 특성을 이해하고, 각 증발기의 장단점을 이해할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-냉동-공조-일반:[냉일 04-04]",
+   "code": "[냉일 04-04]",
+   "text": "팽창 밸브의 작용, 수동 팽창 밸브와 자동식 팽창 밸브의 종류 및 특성을 파악하고, 팽창 밸브 선정 시 고려 사항을 이해하며, 모세관과 팽창 밸브를 비교할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-냉동-공조-일반:[냉일 04-05]",
+   "code": "[냉일 04-05]",
+   "text": "수액기와 유분리기 및 액분리기의 역할과 구조를 이해하고 중간 냉각기와 불응축 가스 분리 기의 역할을 설명하며, 냉매 건조기와 냉각탑의 역할을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-냉동-공조-일반:[냉일 05-01]",
+   "code": "[냉일 05-01]",
+   "text": "공기 조화기의 종류 및 구조를 이해하고, 공기 조화기의 구성 요소인 에어 필터, 공기 냉각기, 가열기, 가습기에 대한 설계를 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-냉동-공조-일반:[냉일 05-02]",
+   "code": "[냉일 05-02]",
+   "text": "송풍기의 구조 및 원리를 이해하고, 송풍기의 종류와 특징을 비교하여 각 송풍기의 장단점을 이해할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-냉동-공조-일반:[냉일 05-03]",
+   "code": "[냉일 05-03]",
+   "text": "펌프의 구조와 원리를 이해하고, 구조에 따라 분류하여 각종 펌프의 종류와 특성에 대한 장단 점을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-냉동-공조-일반:[냉일 05-04]",
+   "code": "[냉일 05-04]",
+   "text": "취출구의 작용과 종류 및 특성을 파악하고, 각각의 장단점을 통해 설치 위치, 확산 반지름, 소음 레벨을 고려하여 선정 방법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-냉동-공조-일반:[냉일 05-05]",
+   "code": "[냉일 05-05]",
+   "text": "가습기, 열교환기의 종류 및 특징을 학습하여 설계 시 선정 요령을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-냉동-공조-일반:[냉일 06-01]",
+   "code": "[냉일 06-01]",
+   "text": "자동 제어에 대한 기초 이론, 냉동 공조기의 자동 제어 시스템의 구성, 형식과 제어의 종류 등을 알고 동작 원리를 이해할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-냉동-공조-일반:[냉일 06-02]",
+   "code": "[냉일 06-02]",
+   "text": "전자 밸브, 소형 전동 밸브, 전동 조작기, 공기 조절 밸브 등과 같은 조작기와 온도 조절기, 습도 조절기, 중량 조절기 등과 같은 조절기의 역할을 이해할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-냉동-공조-일반:[냉일 06-03]",
+   "code": "[냉일 06-03]",
+   "text": "3상 유도 전동기의 기동 회로 구성을 통해서 3상 유도 전동기의 기동 특성과 각종 기동법 을 이해할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 01-01-01]",
+   "code": "[산설 01-01-01]",
+   "text": "산업 설비의 개념과 산업 설비의 적용 예를 디지털 도구를 활용하여 검색하고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 01-02-01]",
+   "code": "[산설 01-02-01]",
+   "text": "산업 설비 시공의 개념과 방법 등 기초 지식을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 01-03-01]",
+   "code": "[산설 01-03-01]",
+   "text": "산업 설비의 시험과 검사를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 01-03-02]",
+   "code": "[산설 01-03-02]",
+   "text": "산업 설비와 부품에 대한 시험과 검사를 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 02-01-01]",
+   "code": "[산설 02-01-01]",
+   "text": "피복 아크 용접의 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 02-01-02]",
+   "code": "[산설 02-01-02]",
+   "text": "용접의 원리 및 특징에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 02-01-03]",
+   "code": "[산설 02-01-03]",
+   "text": "용접의 종류를 알고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 02-01-04]",
+   "code": "[산설 02-01-04]",
+   "text": "용접 자세의 종류에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 02-01-05]",
+   "code": "[산설 02-01-05]",
+   "text": "피복 아크 용접기를 설치, 점검하고 아크를 발생시킬 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 02-02-01]",
+   "code": "[산설 02-02-01]",
+   "text": "피복 아크 용접의 원리 및 특징을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 02-02-02]",
+   "code": "[산설 02-02-02]",
+   "text": "아크 발생의 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 02-02-03]",
+   "code": "[산설 02-02-03]",
+   "text": "피복 아크 용접기의 구조를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 02-02-04]",
+   "code": "[산설 02-02-04]",
+   "text": "아래 보기 자세로 피복 아크 용접을 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 02-03-01]",
+   "code": "[산설 02-03-01]",
+   "text": "피복 아크 용접봉의 분류 및 역할을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 02-03-02]",
+   "code": "[산설 02-03-02]",
+   "text": "각 자세에 맞는 운봉법으로 용접할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 02-03-03]",
+   "code": "[산설 02-03-03]",
+   "text": "수직 자세의 범위를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 02-03-04]",
+   "code": "[산설 02-03-04]",
+   "text": "수직 자세로 피복 아크 용접을 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 02-04-01]",
+   "code": "[산설 02-04-01]",
+   "text": "피복 아크 용접봉 기구를 용도에 맞게 사용할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 02-04-02]",
+   "code": "[산설 02-04-02]",
+   "text": "피복 아크 용접에 영향을 주는 요소를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 02-04-03]",
+   "code": "[산설 02-04-03]",
+   "text": "수평 자세로 피복 아크 용접을 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 02-05-01]",
+   "code": "[산설 02-05-01]",
+   "text": "필릿 피복 아크 용접으로 이음을 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 03-01-01]",
+   "code": "[산설 03-01-01]",
+   "text": "가스 용접 방법에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 03-01-02]",
+   "code": "[산설 03-01-02]",
+   "text": "가스의 종류에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 03-01-03]",
+   "code": "[산설 03-01-03]",
+   "text": "가스 용접 장치에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 03-02-01]",
+   "code": "[산설 03-02-01]",
+   "text": "가스 용접기의 혼합 가스비를 조절하여 중성 불꽃을 만들 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 03-02-02]",
+   "code": "[산설 03-02-02]",
+   "text": "가스 용접기의 중성 불꽃을 이용하여 용접 비드를 만들 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 03-02-03]",
+   "code": "[산설 03-02-03]",
+   "text": "가스 용접의 용접봉과 용제의 기능을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 03-03-01]",
+   "code": "[산설 03-03-01]",
+   "text": "줄과 그라인더를 이용하여 용접 시험편을 만들 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 03-03-02]",
+   "code": "[산설 03-03-02]",
+   "text": "가용접 및 역변형을 주어 용접 변형을 방지할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 03-03-03]",
+   "code": "[산설 03-03-03]",
+   "text": "운봉 각도 및 키홀을 일정하게 유지할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 03-04-01]",
+   "code": "[산설 03-04-01]",
+   "text": "수동 가스 절단 장치를 이용하여 직선을 절단할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 03-04-02]",
+   "code": "[산설 03-04-02]",
+   "text": "가스 절단 장치를 사용하여 용접 시편의 용접면을 가공할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 03-04-03]",
+   "code": "[산설 03-04-03]",
+   "text": "가스 절단 장치의 원리를 알고 예열 불꽃을 조절할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 04-01-01]",
+   "code": "[산설 04-01-01]",
+   "text": "가스 텅스텐 아크 용접의 원리를 알고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 04-01-02]",
+   "code": "[산설 04-01-02]",
+   "text": "가스 텅스텐 아크 용접의 장치 및 기능을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 04-01-03]",
+   "code": "[산설 04-01-03]",
+   "text": "가스 텅스텐 아크 용접의 장치를 이용하여 아래 보기 자세로 용접을 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 04-02-01]",
+   "code": "[산설 04-02-01]",
+   "text": "가스 텅스텐 아크 용접 장치를 이용하여 수직 자세로 용접을 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 04-03-01]",
+   "code": "[산설 04-03-01]",
+   "text": "가스 텅스텐 아크 용접 장치를 이용하여 수평 자세로 용접을 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 04-04-01]",
+   "code": "[산설 04-04-01]",
+   "text": "가스 텅스텐 아크 용접 장치를 이용하여 필릿 용접을 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 05-01-01]",
+   "code": "[산설 05-01-01]",
+   "text": "이산화탄소 용접의 원리를 알고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 05-01-02]",
+   "code": "[산설 05-01-02]",
+   "text": "이산화탄소 용접 장치 및 기능을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 05-01-03]",
+   "code": "[산설 05-01-03]",
+   "text": "이산화탄소 용접 장치를 이용하여 아래 보기 자세로 용접을 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 05-02-01]",
+   "code": "[산설 05-02-01]",
+   "text": "이산화탄소 용접 장치를 이용하여 수직 자세로 용접을 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 05-03-01]",
+   "code": "[산설 05-03-01]",
+   "text": "이산화탄소 용접 장치를 이용하여 수평 자세로 용접을 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 05-04-01]",
+   "code": "[산설 05-04-01]",
+   "text": "이산화탄소 용접 장치를 이용하여 필릿 용접을 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 06-01-01]",
+   "code": "[산설 06-01-01]",
+   "text": "판금 공작에 대하여 무엇인지 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 06-01-02]",
+   "code": "[산설 06-01-02]",
+   "text": "판금 가공의 원리를 이해하고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 06-01-03]",
+   "code": "[산설 06-01-03]",
+   "text": "판금용 재료의 종류별 특징을 이해하고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 06-02-01]",
+   "code": "[산설 06-02-01]",
+   "text": "판금 전개도의 종류를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 06-02-02]",
+   "code": "[산설 06-02-02]",
+   "text": "평행선 전개법의 원리와 특징을 이해하고, 원통의 전개도를 그릴 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 06-02-03]",
+   "code": "[산설 06-02-03]",
+   "text": "연강판을 가공하여 원통 관을 만들 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 06-03-01]",
+   "code": "[산설 06-03-01]",
+   "text": "판금 가공용 공구의 종류와 사용법에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 06-03-02]",
+   "code": "[산설 06-03-02]",
+   "text": "판금 가공용 기계의 종류와 특징에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 06-03-03]",
+   "code": "[산설 06-03-03]",
+   "text": "연강판을 이용하여 사각 환기통을 제작할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 06-04-01]",
+   "code": "[산설 06-04-01]",
+   "text": "판금 가공법의 종류와 특징에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 06-04-02]",
+   "code": "[산설 06-04-02]",
+   "text": "각종 판금 가공법을 적용하여 편심 감쇠기를 제작할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 07-01-01]",
+   "code": "[산설 07-01-01]",
+   "text": "배관 설비의 종류와 활용되는 분야를 디지털 기기를 활용하여 검색하고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 07-01-02]",
+   "code": "[산설 07-01-02]",
+   "text": "배관도의 종류와 관의 도시 방법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 07-02-01]",
+   "code": "[산설 07-02-01]",
+   "text": "관의 특징과 용도를 알고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 07-02-02]",
+   "code": "[산설 07-02-02]",
+   "text": "강관 이음 공구의 종류와 용도를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 07-02-03]",
+   "code": "[산설 07-02-03]",
+   "text": "나사 이음으로 강관을 접합할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 07-03-01]",
+   "code": "[산설 07-03-01]",
+   "text": "구리관의 특징과 용도를 알고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 07-03-02]",
+   "code": "[산설 07-03-02]",
+   "text": "구리관 이음 공구의 종류와 용도를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 07-03-03]",
+   "code": "[산설 07-03-03]",
+   "text": "경납땜으로 구리관을 이음할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 07-04-01]",
+   "code": "[산설 07-04-01]",
+   "text": "PVC관의 특징과 용도를 알고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 07-04-02]",
+   "code": "[산설 07-04-02]",
+   "text": "PVC관 이음 공구의 종류와 용도를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 07-04-03]",
+   "code": "[산설 07-04-03]",
+   "text": "PVC관의 냉간, 열간 이음을 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 07-04-04]",
+   "code": "[산설 07-04-04]",
+   "text": "PVC관의 용접 이음을 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 07-05-01]",
+   "code": "[산설 07-05-01]",
+   "text": "폴리에틸렌관과 PE-X관의 특징과 용도를 알고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 07-05-02]",
+   "code": "[산설 07-05-02]",
+   "text": "폴리에틸렌관과 PE-X관 이음 공구의 종류와 용도를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-산업-설비:[산설 07-05-03]",
+   "code": "[산설 07-05-03]",
+   "text": "폴리에틸렌관의 용착 이음을 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 01-01-01]",
+   "code": "[선건 01-01-01]",
+   "text": "조선 공업의 특징과 조선소의 입지 조건에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 01-01-02]",
+   "code": "[선건 01-01-02]",
+   "text": "우리나라 조선 공업의 발달 과정을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 01-02-01]",
+   "code": "[선건 01-02-01]",
+   "text": "조선소의 공장 배치와 시설·설비에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 01-02-02]",
+   "code": "[선건 01-02-02]",
+   "text": "조선소의 조직과 직종에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 01-02-03]",
+   "code": "[선건 01-02-03]",
+   "text": "선급 협회에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 01-03-01]",
+   "code": "[선건 01-03-01]",
+   "text": "선박 수주와 설계 과정에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 01-03-02]",
+   "code": "[선건 01-03-02]",
+   "text": "선체 조립 공사, 진수 공사, 의장 공사에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 02-01-01]",
+   "code": "[선건 02-01-01]",
+   "text": "가공 공사의 전체적인 개요에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 02-01-02]",
+   "code": "[선건 02-01-02]",
+   "text": "강재 하역에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 02-01-03]",
+   "code": "[선건 02-01-03]",
+   "text": "강재 전처리 공정에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 02-02-01]",
+   "code": "[선건 02-02-01]",
+   "text": "기계 절단에 대해 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 02-02-02]",
+   "code": "[선건 02-02-02]",
+   "text": "가스 절단에 대해 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 02-02-03]",
+   "code": "[선건 02-02-03]",
+   "text": "NC 절단에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 02-03-01]",
+   "code": "[선건 02-03-01]",
+   "text": "마킹의 종류와 방법에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 02-03-02]",
+   "code": "[선건 02-03-02]",
+   "text": "기계에 의한 굽힘을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 02-03-03]",
+   "code": "[선건 02-03-03]",
+   "text": "가스 가열에 의한 굽힘에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 02-04-01]",
+   "code": "[선건 02-04-01]",
+   "text": "수동 가스 절단 장치를 사용하여 도면에 따라 철판을 직선 절단할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 02-04-02]",
+   "code": "[선건 02-04-02]",
+   "text": "가스의 예열 불꽃과 절단 속도를 조절하는 방법을 실습할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 02-04-03]",
+   "code": "[선건 02-04-03]",
+   "text": "가스 절단 작업을 안전하게 진행하는 방법과 결함의 원인을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 03-01-01]",
+   "code": "[선건 03-01-01]",
+   "text": "조립 공사의 흐름에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 03-01-02]",
+   "code": "[선건 03-01-02]",
+   "text": "블록 조립에 의한 선박 건조 과정에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 03-02-01]",
+   "code": "[선건 03-02-01]",
+   "text": "조립 공장의 배치 및 설비를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 03-03-01]",
+   "code": "[선건 03-03-01]",
+   "text": "소·중조립 작업의 공정을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 03-03-02]",
+   "code": "[선건 03-03-02]",
+   "text": "블록 분할 건조 방식의 장점에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 03-03-03]",
+   "code": "[선건 03-03-03]",
+   "text": "각종 조립용 지그의 사용법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 03-04-01]",
+   "code": "[선건 03-04-01]",
+   "text": "용접 작업에 필요한 기구와 도구를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 03-04-02]",
+   "code": "[선건 03-04-02]",
+   "text": "이산화탄소 아크 용접의 원리와 장치에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 03-04-03]",
+   "code": "[선건 03-04-03]",
+   "text": "이산화탄소 아크 용접의 작업 방법과 용접 변형에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 03-04-04]",
+   "code": "[선건 03-04-04]",
+   "text": "특수 용접의 원리와 종류를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 03-05-01]",
+   "code": "[선건 03-05-01]",
+   "text": "선체 블록 분할에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 03-05-02]",
+   "code": "[선건 03-05-02]",
+   "text": "각종 선체 블록의 조립 순서를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 03-05-03]",
+   "code": "[선건 03-05-03]",
+   "text": "블록 용접 작업, 용접 검사에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 03-06-01]",
+   "code": "[선건 03-06-01]",
+   "text": "선행 의장의 의미를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 03-06-02]",
+   "code": "[선건 03-06-02]",
+   "text": "선행 의장 개략도를 이해하고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 03-07-01]",
+   "code": "[선건 03-07-01]",
+   "text": "CO₂ 용접 장비의 사용 방법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 03-07-02]",
+   "code": "[선건 03-07-02]",
+   "text": "용접 자세별로 용접 결함 없이 비드를 만드는 작업을 실행할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 04-01-01]",
+   "code": "[선건 04-01-01]",
+   "text": "탑재 공사의 전반적인 개요를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 04-01-02]",
+   "code": "[선건 04-01-02]",
+   "text": "선박의 탑재 건조 방식에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 04-02-01]",
+   "code": "[선건 04-02-01]",
+   "text": "탑재 공사에 사용하는 크레인의 종류와 설비에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 04-02-02]",
+   "code": "[선건 04-02-02]",
+   "text": "건조 독 및 선대의 특징에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 04-03-01]",
+   "code": "[선건 04-03-01]",
+   "text": "선박의 탑재 계획에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 04-03-02]",
+   "code": "[선건 04-03-02]",
+   "text": "탑재 작업 및 선체 지지에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 05-01-01]",
+   "code": "[선건 05-01-01]",
+   "text": "건조 독 진수 준비에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 05-02-01]",
+   "code": "[선건 05-02-01]",
+   "text": "육상 진수와 선대 진수에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 05-02-02]",
+   "code": "[선건 05-02-02]",
+   "text": "플로팅 독 진수와 크레인 진수에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 06-01-01]",
+   "code": "[선건 06-01-01]",
+   "text": "선박 의장의 개요에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 06-01-02]",
+   "code": "[선건 06-01-02]",
+   "text": "선박 의장 공사의 분류와 의장 공사의 흐름에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 06-02-01]",
+   "code": "[선건 06-02-01]",
+   "text": "선체 의장의 종류에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 06-02-02]",
+   "code": "[선건 06-02-02]",
+   "text": "계선 및 계류 장치, 개구 및 창구 덮개에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 06-02-03]",
+   "code": "[선건 06-02-03]",
+   "text": "하역 장치, 조타 장치, 거주구 의장에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 06-03-01]",
+   "code": "[선건 06-03-01]",
+   "text": "기관 의장의 종류와 주기관 및 추진, 축계 장치에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 06-03-02]",
+   "code": "[선건 06-03-02]",
+   "text": "발전기, 보일러에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 06-04-01]",
+   "code": "[선건 06-04-01]",
+   "text": "전기·전자 의장의 종류, 선박의 발전 및 배전 설비에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 06-04-02]",
+   "code": "[선건 06-04-02]",
+   "text": "항해 설비, 통신 설비 및 조명 설비에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 06-05-01]",
+   "code": "[선건 06-05-01]",
+   "text": "전처리와 숍 프라이머 도장에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 06-05-02]",
+   "code": "[선건 06-05-02]",
+   "text": "선박 본 도장 작업을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 07-01-01]",
+   "code": "[선건 07-01-01]",
+   "text": "시운전의 종류와 준비 및 시운전의 항목에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-건조:[선건 07-02-01]",
+   "code": "[선건 07-02-01]",
+   "text": "속력 시운전, 조타 시운전, 기타 시운전에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-구조:[선구 01-01]",
+   "code": "[선구 01-01]",
+   "text": "선체 구성 재료에 작용하는 힘과 변형에 대한 문제를 해결할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-구조:[선구 01-02]",
+   "code": "[선구 01-02]",
+   "text": "선체용 재료의 종류 및 특성, 선체 구조의 양식에 대해 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-구조:[선구 01-03]",
+   "code": "[선구 01-03]",
+   "text": "선체에 작용하는 힘을 고려하여 구성 부재 배치 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-구조:[선구 01-04]",
+   "code": "[선구 01-04]",
+   "text": "도면을 통해 선체 구조를 파악하고 설계에 대한 기본 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-구조:[선구 02-01]",
+   "code": "[선구 02-01]",
+   "text": "선박에 가해지는 힘의 종류, 선박의 중량과 이에 따른 부력, 선체 평형에 관해 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-구조:[선구 02-02]",
+   "code": "[선구 02-02]",
+   "text": "선박에 작용하는 힘의 방향에 따른 새깅 및 호깅, 래킹을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-구조:[선구 02-03]",
+   "code": "[선구 02-03]",
+   "text": "선박의 종강도, 횡강도, 비틀림 강도 및 국부 강도를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-구조:[선구 03-01]",
+   "code": "[선구 03-01]",
+   "text": "선저 구조의 종류와 각 부재의 역할과 결합 방법, 이중저의 배치 방법과 선측 구조를 구성하는 늑골과 판의 역할 및 특징을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-구조:[선구 03-02]",
+   "code": "[선구 03-02]",
+   "text": "갑판과 갑판구의 역할과 종류 및 구성하는 부재의 결합 방법, 격벽의 역할과 그에 따른 종류, 보강재의 설치 방법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-구조:[선구 03-03]",
+   "code": "[선구 03-03]",
+   "text": "기관실의 구조와 위치별 선박의 특징을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-구조:[선구 03-04]",
+   "code": "[선구 03-04]",
+   "text": "선수부와 선미부의 구조 및 형상을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-구조:[선구 04-01]",
+   "code": "[선구 04-01]",
+   "text": "전용선의 종류와 그에 따른 각종 구성 부재의 특성 및 배치 특성을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-구조:[선구 04-02]",
+   "code": "[선구 04-02]",
+   "text": "다양한 형태의 해양 구조물의 종류와 특징을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-이론:[선이 01-01]",
+   "code": "[선이 01-01]",
+   "text": "선박의 정의, 특성, 역사와 발달 과정을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-이론:[선이 01-02]",
+   "code": "[선이 01-02]",
+   "text": "선박의 역할, 선박과 관련한 해양 환경, 선박의 발달과 인간 생활의 변화를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-이론:[선이 01-03]",
+   "code": "[선이 01-03]",
+   "text": "선박의 여러 가지 분류 방법, 선박의 종류와 특성, 미래의 선박 유형에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-이론:[선이 01-04]",
+   "code": "[선이 01-04]",
+   "text": "선박 법규와 관련 기관, 국제기구와 국제 협약을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-이론:[선이 02-01]",
+   "code": "[선이 02-01]",
+   "text": "선박의 크기를 나타내는 주요 치수 및 주요 치수의 상호 관계를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-이론:[선이 02-02]",
+   "code": "[선이 02-02]",
+   "text": "선박의 물속에 잠긴 부분의 형상 특성을 나타내는 선형 계수와 선형 계수의 상관관계를 설명 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-이론:[선이 02-03]",
+   "code": "[선이 02-03]",
+   "text": "선박의 기초 용어와 선체 부재에 대한 용어, 선박 의장에 대한 용어를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-이론:[선이 02-04]",
+   "code": "[선이 02-04]",
+   "text": "선박의 톤수 측정 목적, 톤수의 종류, 톤수와 관련한 계산식을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-이론:[선이 03-01]",
+   "code": "[선이 03-01]",
+   "text": "선체의 형상 및 선체 선도의 종류와 작도법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-이론:[선이 03-02]",
+   "code": "[선이 03-02]",
+   "text": "자유 도형과 입체 도형을 근사적으로 계산하는 방법, 선체의 배수량과 용적을 계산하는 방 법, 부면심과 부심, cm당 배수 톤수, 횡메타센터 높이에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-이론:[선이 03-03]",
+   "code": "[선이 03-03]",
+   "text": "배수량 등 곡선도에 나타난 계수를 읽을 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-이론:[선이 03-04]",
+   "code": "[선이 03-04]",
+   "text": "선박의 초기 복원력과 큰 경사 때의 복원력 및 복원력에 미치는 요소를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-이론:[선이 04-01]",
+   "code": "[선이 04-01]",
+   "text": "선박의 속력과 주기관 출력의 종류와 특징, 속력과 주기관 출력의 상호 관계를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-이론:[선이 04-02]",
+   "code": "[선이 04-02]",
+   "text": "선박의 저항에 대한 종류와 특성, 추진기의 종류, 추진 동력의 종류와 효율에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-이론:[선이 04-03]",
+   "code": "[선이 04-03]",
+   "text": "파도에 의한 선박의 6자유도 운동, 선박의 동요 억제 장치, 선박의 조종 성능 평가 항목, 조 종 성능과 관련한 설계 요소를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-이론:[선이 05-01]",
+   "code": "[선이 05-01]",
+   "text": "친환경 미래 선박 기술에 적용하는 연료와 엔진에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선박-이론:[선이 05-02]",
+   "code": "[선이 05-02]",
+   "text": "선박의 자동화 및 디지털화와 관련하여 선박의 조종과 각종 장비 및 설비 운용의 자동화에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선체-도면-독도와-제도:[선도 01-01]",
+   "code": "[선도 01-01]",
+   "text": "선체 도면을 독도하는데 필요한 기본 사항들을 이해하여 선체 도면을 독도할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선체-도면-독도와-제도:[선도 01-02]",
+   "code": "[선도 01-02]",
+   "text": "디지털 도구를 이용하여 선박 설계 과정에 따른 선박 도면의 종류를 이해하고 분류할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선체-도면-독도와-제도:[선도 02-01]",
+   "code": "[선도 02-01]",
+   "text": "선체 선도의 투상과 구성을 이해하고 선도를 독도할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선체-도면-독도와-제도:[선도 02-02]",
+   "code": "[선도 02-02]",
+   "text": "일반 배치도의 개요를 이해하고 작도법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선체-도면-독도와-제도:[선도 02-03]",
+   "code": "[선도 02-03]",
+   "text": "디지털 도구로 작성한 도면을 활용하여 선체 구조 방식에 따른 중앙 횡단면도의 특징을 이 해하고 각종 화물선의 중앙 횡단면도 특징을 이해할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선체-도면-독도와-제도:[선도 02-04]",
+   "code": "[선도 02-04]",
+   "text": "강재 배치도의 개요를 이해하고 작도법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선체-도면-독도와-제도:[선도 02-05]",
+   "code": "[선도 02-05]",
+   "text": "외판 전개도의 개요를 이해하고 작도법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선체-도면-독도와-제도:[선도 03-01]",
+   "code": "[선도 03-01]",
+   "text": "디지털 도구를 활용한 선저 구조의 종류와 특성을 이해하고 선저 구조도의 작도법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선체-도면-독도와-제도:[선도 03-02]",
+   "code": "[선도 03-02]",
+   "text": "갑판 구조의 기본 형상 및 배치를 이해하고 갑판 구조도의 작도법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선체-도면-독도와-제도:[선도 03-03]",
+   "code": "[선도 03-03]",
+   "text": "디지털 도구를 활용한 격벽 구조의 기본 형상 및 종류를 이해하고 격벽 구조도의 작도법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선체-도면-독도와-제도:[선도 03-04]",
+   "code": "[선도 03-04]",
+   "text": "선수·선미 구조의 기본 형상 및 특성을 이해하고 선수·선미 구조도의 작도법을 설명할 수 있 다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선체-도면-독도와-제도:[선도 04-01]",
+   "code": "[선도 04-01]",
+   "text": "조립도, 가공도 및 상세 조립 요령도의 개념을 이해하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선체-도면-독도와-제도:[선도 04-02]",
+   "code": "[선도 04-02]",
+   "text": "생산 도면에 사용하는 기호 및 작도 규약을 이해하고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선체-도면-독도와-제도:[선도 04-03]",
+   "code": "[선도 04-03]",
+   "text": "선체 구조 도면을 참조하여 실제 블록 제작의 지식을 습득할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선체-도면-독도와-제도:[선도 05-01]",
+   "code": "[선도 05-01]",
+   "text": "디지털 도구를 활용한 캐드의 전반적인 개요를 조사하고 조선 설계 캐드의 특징에 대하여 토의할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선체-도면-독도와-제도:[선도 05-02]",
+   "code": "[선도 05-02]",
+   "text": "디지털 기기 캐드의 구성 요소 및 주요 기능을 이해하여 기본적인 도면을 그릴 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선체-도면-독도와-제도:[선도 05-03]",
+   "code": "[선도 05-03]",
+   "text": "디지털 기기 캐드를 이용한 기본 설정을 통해 선박 도면 작성을 위한 기준선을 그릴 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-선체-도면-독도와-제도:[선도 05-04]",
+   "code": "[선도 05-04]",
+   "text": "디지털 기기 캐드를 이용하여 선박의 주요 도면들을 그릴 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유체-기계:[유체 01-01]",
+   "code": "[유체 01-01]",
+   "text": "산업 현장에서 활용되고 있는 유체 기계에 대한 조사, 탐구 활동 등을 통하여 분야별로 적용 되는 응용 사례와 유체 기계의 중요성을 파악할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유체-기계:[유체 01-02]",
+   "code": "[유체 01-02]",
+   "text": "유체 기계에 대해 명확한 정의를 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유체-기계:[유체 01-03]",
+   "code": "[유체 01-03]",
+   "text": "가정 및 산업 현장에서 적용되는 유체 기계를 형식별로 분류할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유체-기계:[유체 02-01]",
+   "code": "[유체 02-01]",
+   "text": "유체의 정의를 이해하고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유체-기계:[유체 02-02]",
+   "code": "[유체 02-02]",
+   "text": "유체가 지니는 여러 가지 중요한 성질들을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유체-기계:[유체 02-03]",
+   "code": "[유체 02-03]",
+   "text": "정지한 유체와 유동하는 유체의 특성을 구분하여 이해하고 예를 들어 정지한 유체와 유동하 는 유체의 특성을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유체-기계:[유체 03-01]",
+   "code": "[유체 03-01]",
+   "text": "유동하는 유체의 압력, 속도, 위치에 따른 물리적 변화를 에너지의 관점에서 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유체-기계:[유체 03-02]",
+   "code": "[유체 03-02]",
+   "text": "유체를 이용한 동력 발생 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유체-기계:[유체 03-03]",
+   "code": "[유체 03-03]",
+   "text": "회전식 유체 기계의 작동 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유체-기계:[유체 04-01]",
+   "code": "[유체 04-01]",
+   "text": "펌프의 작동 원리와 구조를 알아보고 생활 주변에서 볼 수 있는 펌프를 찾아 토론하고 발표할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유체-기계:[유체 04-02]",
+   "code": "[유체 04-02]",
+   "text": "유체의 흐름에 따른 펌프를 분류하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유체-기계:[유체 04-03]",
+   "code": "[유체 04-03]",
+   "text": "펌프에서의 손실, 펌프의 동력과 효율, 특성 곡선 등의 학습을 통하여 펌프를 선정하는 데 어떤 관계가 있는지 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유체-기계:[유체 04-04]",
+   "code": "[유체 04-04]",
+   "text": "펌프의 비속도를 이해하고 축척 법칙으로 두 가지 펌프의 성능을 상호 비교 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유체-기계:[유체 04-05]",
+   "code": "[유체 04-05]",
+   "text": "펌프에서 발생하는 여러 가지 이상 현상을 찾아서 토론하고 발표하며, 이러한 현상들이 펌프에 어떤 영향을 끼치는지 이해할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유체-기계:[유체 05-01]",
+   "code": "[유체 05-01]",
+   "text": "공압 기계의 종류, 구조, 특징 및 작동 원리를 알아보고 공압을 이용한 기계를 생활 주변과 산업 현장에서 찾아 토론하고 발표하여 공압 기계에 대한 이해를 높일 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유체-기계:[유체 05-02]",
+   "code": "[유체 05-02]",
+   "text": "공압 기계에서 사용되는 압축 공기의 건조 방법과 분배 방식에 대하여 여러 가지 학습 자료 를 활용하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유체-기계:[유체 05-03]",
+   "code": "[유체 05-03]",
+   "text": "공압 제어 밸브의 종류와 특징, 밸브의 적용 방법을 이해하고 적당한 공압 제어 밸브를 선 정할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유체-기계:[유체 05-04]",
+   "code": "[유체 05-04]",
+   "text": "공압 액추에이터의 목적과 종류 및 특징을 알고 사용 방법을 파악하여 공압 액추에이터를 선정할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유체-기계:[유체 05-05]",
+   "code": "[유체 05-05]",
+   "text": "공압 기계로 구성되는 공압 기본 회로의 종류와 작동 원리 및 회로도의 작성 방법을 알고 실제로 필요에 맞는 공압 제어 회로를 구성할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유체-기계:[유체 06-01]",
+   "code": "[유체 06-01]",
+   "text": "유압 기계의 종류, 구조, 특징 및 작동 원리를 알아보고 유압을 이용한 기계를 생활 주변과 산업 현장에서 찾아 토론하고 발표하여 유압 기계에 대한 이해를 높일 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유체-기계:[유체 06-02]",
+   "code": "[유체 06-02]",
+   "text": "유압 발생 장치의 구조와 원리를 알고, 유압 펌프의 종류와 특징 및 용도, 유압 작동유의 특징과 관리 방법을 알 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유체-기계:[유체 06-03]",
+   "code": "[유체 06-03]",
+   "text": "유압 제어 밸브의 종류와 특징, 밸브의 구조와 적용 방법을 이해하고, 유압 제어 밸브의 표시 방법을 이해할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유체-기계:[유체 06-04]",
+   "code": "[유체 06-04]",
+   "text": "유압 액추에이터의 목적과 종류 및 특징을 알고 사용 방법을 파악하여 유압 액추에이터를 선정할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-유체-기계:[유체 06-05]",
+   "code": "[유체 06-05]",
+   "text": "유압 회로도의 기본 요소를 알고 압력 제어 회로, 속도 제어 회로, 방향 제어 회로, 유압 모터 제어 회로 등 각종 회로도의 사용 목적을 이해하고 구성할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 01-01-01]",
+   "code": "[자기 01-01-01]",
+   "text": "자동차 기관의 기본 원리를 이해하고 기관의 종류와 형식에 따른 특성을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 01-01-02]",
+   "code": "[자기 01-01-02]",
+   "text": "자동차 내연 기관의 열에너지 발생 원리를 이해하고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 01-01-03]",
+   "code": "[자기 01-01-03]",
+   "text": "자동차 기관 실습을 위한 안전 수칙을 준수할 수 있고 디지털 정비 기기 사용법을 설명 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 01-02-01]",
+   "code": "[자기 01-02-01]",
+   "text": "자동차 기관의 구조를 이해하고, 형식과 구동 방식에 따른 작동 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 01-02-02]",
+   "code": "[자기 01-02-02]",
+   "text": "자동차 기관의 주요 구성품을 구분하고 부품의 특성과 역할을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 01-02-03]",
+   "code": "[자기 01-02-03]",
+   "text": "자동차 기관의 분해·조립을 위한 기본 공구와 특수 공구의 사용법을 설명하고 실제 작업 에 맞는 공구를 선택할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 01-03-01]",
+   "code": "[자기 01-03-01]",
+   "text": "자동차 기관의 조정 및 수리 후 정비 지침서의 규정값에 따라 검사할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 01-03-02]",
+   "code": "[자기 01-03-02]",
+   "text": "자동차 기관의 교환 정비 후 관련 부품 작동 검사를 절차에 의해 수행할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 01-03-03]",
+   "code": "[자기 01-03-03]",
+   "text": "자동차 기관 정비 후 디지털 검사 기기를 사용하여 작동(성능) 검사를 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 02-01-01]",
+   "code": "[자기 02-01-01]",
+   "text": "기관 본체의 구조와 형식, 구동 방식에 따라 정의하고 작동 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 02-01-02]",
+   "code": "[자기 02-01-02]",
+   "text": "기관 본체의 주요 구성품을 구분하고 부품의 특성과 역할을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 02-01-03]",
+   "code": "[자기 02-01-03]",
+   "text": "기관 본체의 분해·조립을 위한 기본 공구와 특수 공구의 사용법을 설명하고 실제 작업 에 맞는 공구를 선택할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 02-02-01]",
+   "code": "[자기 02-02-01]",
+   "text": "기관 본체를 점검하고 부품 및 장치를 정비 지침서의 규정값으로 조정할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 02-02-02]",
+   "code": "[자기 02-02-02]",
+   "text": "기관 본체의 구성품 교환 계획을 수립하고 순서에 의해 수행할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 02-02-03]",
+   "code": "[자기 02-02-03]",
+   "text": "기관 본체에 대한 점검 후 디지털 기기를 사용하여 절차에 따라 교환할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 02-03-01]",
+   "code": "[자기 02-03-01]",
+   "text": "기관 본체의 주요 구성품을 정비 지침서의 절차에 따라 교환 정비할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 02-03-02]",
+   "code": "[자기 02-03-02]",
+   "text": "기관 본체의 교환 정비 후 관련 부품 성능 검사를 절차에 의해 수행할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 02-03-03]",
+   "code": "[자기 02-03-03]",
+   "text": "기관 본체 수리 후 디지털 검사 장비를 이용하여 작동 검사를 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 03-01-01]",
+   "code": "[자기 03-01-01]",
+   "text": "윤활 및 냉각 장치의 구조와 형식, 구동 방식에 따라 정의하고 작동 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 03-01-02]",
+   "code": "[자기 03-01-02]",
+   "text": "윤활 및 냉각 장치의 주요 구성품을 구분하고 부품의 특성과 역할을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 03-01-03]",
+   "code": "[자기 03-01-03]",
+   "text": "윤활 및 냉각 장치의 분해·조립을 위한 기본 공구와 특수 공구의 사용법을 설명하고 실 제 작업에 맞는 공구를 선택할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 03-02-01]",
+   "code": "[자기 03-02-01]",
+   "text": "윤활 및 냉각 장치를 점검하고 부품 및 장치를 정비 지침서의 규정값으로 조정할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 03-02-02]",
+   "code": "[자기 03-02-02]",
+   "text": "윤활 및 냉각 장치의 구성품 교환 계획을 수립하고 순서에 의해 수행할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 03-02-03]",
+   "code": "[자기 03-02-03]",
+   "text": "윤활 및 냉각 장치의 점검 및 디지털 기기를 사용하여 절차에 따라 교환할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 03-03-01]",
+   "code": "[자기 03-03-01]",
+   "text": "윤활 및 냉각 장치의 주요 구성품을 정비 지침서의 절차에 따라 교환 정비할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 03-03-02]",
+   "code": "[자기 03-03-02]",
+   "text": "윤활 및 냉각 장치의 교환 정비 후 관련 부품 성능 검사를 절차에 의해 수행할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 03-03-03]",
+   "code": "[자기 03-03-03]",
+   "text": "윤활 및 냉각 장치 수리 후 디지털 검사 장비를 이용하여 작동 검사를 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 04-01-01]",
+   "code": "[자기 04-01-01]",
+   "text": "전자 제어 연료 장치의 구조와 형식, 구동 방식에 따라 정의하고 작동 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 04-01-02]",
+   "code": "[자기 04-01-02]",
+   "text": "전자 제어 연료 장치의 주요 구성품을 구분하고 부품의 특성과 역할을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 04-01-03]",
+   "code": "[자기 04-01-03]",
+   "text": "전자 제어 연료 장치의 분해·조립을 위한 기본 공구와 특수 공구의 사용법을 설명하고 실제 작업에 맞는 공구를 선택할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 04-02-01]",
+   "code": "[자기 04-02-01]",
+   "text": "전자 제어 연료 장치의 점검 후 부품 및 장치를 정비 지침서의 규정값으로 조정할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 04-02-02]",
+   "code": "[자기 04-02-02]",
+   "text": "전자 제어 연료 장치의 구성품 교환 계획을 수립하고 순서에 의해 수행할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 04-02-03]",
+   "code": "[자기 04-02-03]",
+   "text": "전자 제어 연료 장치의 점검 및 디지털 기기를 사용하여 절차에 따라 교환할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 04-03-01]",
+   "code": "[자기 04-03-01]",
+   "text": "전자 제어 연료 장치의 주요 구성품을 정비 지침서의 절차에 따라 교환 정비할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 04-03-02]",
+   "code": "[자기 04-03-02]",
+   "text": "전자 제어 연료 장치의 교환 정비 후 관련 부품 성능 검사를 절차에 의해 수행할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 04-03-03]",
+   "code": "[자기 04-03-03]",
+   "text": "전자 제어 연료 장치 수리 후 디지털 검사 장비를 이용하여 작동 검사를 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 05-01-01]",
+   "code": "[자기 05-01-01]",
+   "text": "디젤 기관 연료 장치의 구조와 형식, 구동 방식에 따라 정의하고 작동 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 05-01-02]",
+   "code": "[자기 05-01-02]",
+   "text": "디젤 기관 연료 장치의 주요 구성품을 구분하고 부품의 특성과 역할을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 05-01-03]",
+   "code": "[자기 05-01-03]",
+   "text": "디젤 기관 연료 장치의 분해·조립을 위한 기본 공구와 특수 공구의 사용법을 설명하고 실제 작업에 맞는 공구를 선택할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 05-02-01]",
+   "code": "[자기 05-02-01]",
+   "text": "디젤 기관 연료 장치를 점검하고 부품 및 장치를 정비 지침서의 규정값으로 조정할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 05-02-02]",
+   "code": "[자기 05-02-02]",
+   "text": "디젤 기관 연료 장치의 구성품 교환 계획을 수립하고 순서에 의해 수행할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 05-02-03]",
+   "code": "[자기 05-02-03]",
+   "text": "디젤 기관 연료 장치의 점검 후 디지털 기기를 사용하여 절차에 따라 교환할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 05-03-01]",
+   "code": "[자기 05-03-01]",
+   "text": "디젤 기관 연료 장치의 주요 구성품을 정비 지침서의 절차에 따라 교환 정비할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 05-03-02]",
+   "code": "[자기 05-03-02]",
+   "text": "디젤 기관 연료 장치의 교환 정비 후 관련 부품 성능 검사를 절차에 의해 수행할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 05-03-03]",
+   "code": "[자기 05-03-03]",
+   "text": "디젤 기관 연료 장치 수리 후 디지털 검사 장비를 이용하여 작동 검사를 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 06-01-01]",
+   "code": "[자기 06-01-01]",
+   "text": "친환경 자동차의 필요성을 이해하고 종류와 형식에 따른 특성을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 06-01-02]",
+   "code": "[자기 06-01-02]",
+   "text": "친환경 자동차의 에너지 발생 원리를 이해하고, 구동 방식을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 06-01-03]",
+   "code": "[자기 06-01-03]",
+   "text": "친환경 자동차 실습을 위한 안전 사항과 디지털 정비 기기 사용법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 06-02-01]",
+   "code": "[자기 06-02-01]",
+   "text": "친환경 자동차의 역할과 기능 및 각 장치의 구조 원리를 이해하고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 06-02-02]",
+   "code": "[자기 06-02-02]",
+   "text": "친환경 자동차를 동력원에 따라 분류하며, 구동 방식의 특성을 이해하고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 06-02-03]",
+   "code": "[자기 06-02-03]",
+   "text": "친환경 자동차의 에너지 효율을 이해하고 연비 향상 요인을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 06-03-01]",
+   "code": "[자기 06-03-01]",
+   "text": "친환경 천연가스 자동차의 구성품에 대한 구조 원리를 이해하고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 06-03-02]",
+   "code": "[자기 06-03-02]",
+   "text": "친환경 전기 자동차의 구성품에 대한 기능과 구동 방식을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-기관:[자기 06-03-03]",
+   "code": "[자기 06-03-03]",
+   "text": "친환경 하이브리드 자동차의 동력 전달 방식을 이해하고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-섀시:[자시 01-01]",
+   "code": "[자시 01-01]",
+   "text": "자동차 섀시를 공부하기에 앞서 자동차 섀시에 관한 기본적인 이론과 섀시의 종류, 구분, 그 리고 섀시의 개념과 특성을 읽고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-섀시:[자시 01-02]",
+   "code": "[자시 01-02]",
+   "text": "자동차 섀시의 구조 및 방식에 따라 분류하고, 섀시의 구성과 각 부품의 작동 원리를 읽고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-섀시:[자시 02-01]",
+   "code": "[자시 02-01]",
+   "text": "자동차 동력 전달 장치에 관한 기본적인 종류와 구분, 그리고 동력 전달 장치의 개념과 특성 을 읽고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-섀시:[자시 02-02]",
+   "code": "[자시 02-02]",
+   "text": "클러치의 종류별 특징과 역할을 읽고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-섀시:[자시 02-03]",
+   "code": "[자시 02-03]",
+   "text": "수동 변속기의 종류별 특징과 역할을 읽고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-섀시:[자시 02-04]",
+   "code": "[자시 02-04]",
+   "text": "자동 변속기의 종류별 특징과 역할을 읽고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-섀시:[자시 02-05]",
+   "code": "[자시 02-05]",
+   "text": "무단 변속기의 종류별 특징과 역할을 읽고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-섀시:[자시 02-06]",
+   "code": "[자시 02-06]",
+   "text": "자동차 구동축의 종류별 특징과 역할을 읽고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-섀시:[자시 02-07]",
+   "code": "[자시 02-07]",
+   "text": "종감속기의 종류별 특징과 역할을 읽고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-섀시:[자시 02-08]",
+   "code": "[자시 02-08]",
+   "text": "차동 제한 장치의 종류별 특징과 역할을 읽고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-섀시:[자시 03-01]",
+   "code": "[자시 03-01]",
+   "text": "자동차 현가장치를 구분하고 종류별 특징과 장단점 및 구조 원리를 통해 현가장치의 역할과 기능을 읽고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-섀시:[자시 03-02]",
+   "code": "[자시 03-02]",
+   "text": "일체식 현가장치의 특징과 부품별 역할 및 기능을 읽고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-섀시:[자시 03-03]",
+   "code": "[자시 03-03]",
+   "text": "위시본식 현가장치의 특징과 부품별 역할 및 기능을 읽고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-섀시:[자시 03-04]",
+   "code": "[자시 03-04]",
+   "text": "맥퍼슨식 현가장치의 특징과 부품별 역할 및 기능을 읽고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-섀시:[자시 03-05]",
+   "code": "[자시 03-05]",
+   "text": "전자 제어식 현가장치의 특징과 부품별 역할 및 기능을 읽고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-섀시:[자시 04-01]",
+   "code": "[자시 04-01]",
+   "text": "자동차 차축과 조향 장치를 구분하고 종류별 특징과 장단점, 구조 원리를 통해 차축 및 조향 장치의 역할과 기능을 읽고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-섀시:[자시 04-02]",
+   "code": "[자시 04-02]",
+   "text": "차축의 특징과 부품별 역할 및 기능을 읽고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-섀시:[자시 04-03]",
+   "code": "[자시 04-03]",
+   "text": "조향축의 특징과 부품별 역할 및 기능을 읽고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-섀시:[자시 04-04]",
+   "code": "[자시 04-04]",
+   "text": "조향 기구의 특징과 부품별 역할 및 기능을 읽고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-섀시:[자시 04-05]",
+   "code": "[자시 04-05]",
+   "text": "동력 조향 장치의 특징과 부품별 역할 및 기능을 읽고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-섀시:[자시 04-06]",
+   "code": "[자시 04-06]",
+   "text": "자세 제어 장치의 특징과 부품별 역할 및 기능을 읽고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-섀시:[자시 04-07]",
+   "code": "[자시 04-07]",
+   "text": "전자 제어식 조향 장치의 특징과 부품별 역할 및 기능을 읽고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-섀시:[자시 05-01]",
+   "code": "[자시 05-01]",
+   "text": "자동차의 바퀴 정렬의 필요성과 특징을 이해하고, 타이어의 구조와 역할 및 기능을 읽고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-섀시:[자시 05-02]",
+   "code": "[자시 05-02]",
+   "text": "타이어의 특징과 역할 및 기능을 이해하고, 휠 밸런스를 통해 바퀴의 평형을 점검할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-섀시:[자시 05-03]",
+   "code": "[자시 05-03]",
+   "text": "차륜 정렬의 개념과 역할을 이해하고, 휠 얼라인먼트를 통해 차륜 정렬을 점검할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-섀시:[자시 06-01]",
+   "code": "[자시 06-01]",
+   "text": "제동 장치의 종류별 특징 및 장단점과 구조 원리를 통해 제동 장치의 개념과 특성을 읽고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-섀시:[자시 06-02]",
+   "code": "[자시 06-02]",
+   "text": "드럼 및 디스크 브레이크의 역할과 특징을 읽고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-섀시:[자시 06-03]",
+   "code": "[자시 06-03]",
+   "text": "주차 브레이크의 역할과 특징을 읽고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-섀시:[자시 06-04]",
+   "code": "[자시 06-04]",
+   "text": "마스터 백 및 실린더의 역할과 특징을 읽고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-섀시:[자시 06-05]",
+   "code": "[자시 06-05]",
+   "text": "ABS 및 TCS 장치의 작동 원리와 특징을 읽고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-일반:[자일 01-01]",
+   "code": "[자일 01-01]",
+   "text": "증기 원동기의 종류와 구조 및 용도를 알아보고, 가정이나 산업 현장에서 이용되고 있는 증기 원동기를 조사하여 토론하고 발표할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-일반:[자일 01-02]",
+   "code": "[자일 01-02]",
+   "text": "보일러의 구조와 종류, 연료와 연소에 대하여 알아보고, 성능 및 취급 방법을 통하여 안전하 게 운전할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-일반:[자일 02-01]",
+   "code": "[자일 02-01]",
+   "text": "내연 기관의 개발 발전 단계와 특징을 살펴보고 작동 원리와 구조, 종류 및 이용되는 분야를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-일반:[자일 02-02]",
+   "code": "[자일 02-02]",
+   "text": "가솔린 기관의 특징과 구조를 알아보고 연료 장치, 점화 장치, 윤활 장치, 냉각 장치, 배기 장치 등을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-일반:[자일 02-03]",
+   "code": "[자일 02-03]",
+   "text": "디젤 기관의 작동 원리와 구조를 알아보며 연소 과정을 이해하고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-일반:[자일 02-04]",
+   "code": "[자일 02-04]",
+   "text": "내연 기관의 대기 오염과 우리의 역할 등에 대하여 토론하고 발표할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-일반:[자일 03-01]",
+   "code": "[자일 03-01]",
+   "text": "엔진 본체의 구조와 작동 원리에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-일반:[자일 03-02]",
+   "code": "[자일 03-02]",
+   "text": "윤활 장치의 구조와 기능에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-일반:[자일 03-03]",
+   "code": "[자일 03-03]",
+   "text": "냉각 방식의 종류와 냉각 장치의 구성 부품 및 특성을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-일반:[자일 03-04]",
+   "code": "[자일 03-04]",
+   "text": "가솔린 연료 장치의 입출력 구성 부품과 특성에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-일반:[자일 03-05]",
+   "code": "[자일 03-05]",
+   "text": "흡·배기 시스템의 구조와 기능을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-일반:[자일 03-06]",
+   "code": "[자일 03-06]",
+   "text": "점화 장치의 구성과 작동 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-일반:[자일 03-07]",
+   "code": "[자일 03-07]",
+   "text": "동력 전달 장치의 구성과 작동 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-일반:[자일 04-01]",
+   "code": "[자일 04-01]",
+   "text": "가솔린 기관의 각종 오일과 냉각수 점검, 점화 장치의 작동원리, 각종 벨트의 종류 및 특징 을 설명하고 벨트의 점검 및 교환하는 정비 작업을 수행할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-일반:[자일 04-02]",
+   "code": "[자일 04-02]",
+   "text": "기관 본체를 구분하여 종류별 특징, 구조 및 작동 원리를 설명하고 점검과 정비를 수행 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-일반:[자일 04-03]",
+   "code": "[자일 04-03]",
+   "text": "윤활 장치의 역할과 종류에 따른 구조 원리를 설명하고 점검과 정비를 수행할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-일반:[자일 04-04]",
+   "code": "[자일 04-04]",
+   "text": "냉각 장치의 역할과 종류에 따른 특징 및 구조 원리를 설명하고 점검과 정비를 수행할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-일반:[자일 04-05]",
+   "code": "[자일 04-05]",
+   "text": "가솔린 전자 제어 연료 장치의 역할, 기능, 종류에 따른 특징 및 입출력 센서의 원리를 설명하고 점검과 정비를 수행할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-일반:[자일 04-06]",
+   "code": "[자일 04-06]",
+   "text": "디젤 연료 장치의 역할과 기능 및 전자 제어 디젤 연료 장치의 종류에 따른 특징과 구조를 설명하고 점검과 정비를 수행할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-일반:[자일 04-07]",
+   "code": "[자일 04-07]",
+   "text": "배출 가스 저감 장치의 역할과 기능 및 배출 가스 저감 장치의 종류에 따른 특징과 구조 원리를 설명하고 점검과 정비를 수행할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-일반:[자일 05-01]",
+   "code": "[자일 05-01]",
+   "text": "자동차 차축의 구조와 형식 및 역할과 구성을 알고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-일반:[자일 05-02]",
+   "code": "[자일 05-02]",
+   "text": "조향 기구의 구조와 작동원리 및 동력 조향 장치의 역할과 구성에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-일반:[자일 05-03]",
+   "code": "[자일 05-03]",
+   "text": "현가장치의 종류와 특징, 현가 스프링의 종류와 기능 및 타이어와 휠의 구조를 이해하고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-일반:[자일 05-04]",
+   "code": "[자일 05-04]",
+   "text": "제동 장치의 기본 구조와 종류에 따른 특징 및 작동 원리를 이해하고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-일반:[자일 06-01]",
+   "code": "[자일 06-01]",
+   "text": "하이브리드 자동차의 기본 구조와 작동 원리를 이해하고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-일반:[자일 06-02]",
+   "code": "[자일 06-02]",
+   "text": "전기 자동차의 기본 구조와 작동 원리를 이해하고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-일반:[자일 06-03]",
+   "code": "[자일 06-03]",
+   "text": "수소 연료 전지 자동차의 기본 구조와 작동 원리를 이해하고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 01-01-01]",
+   "code": "[자전 01-01-01]",
+   "text": "자동차 전기·전자에 관한 기초적인 이론과 특성을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 01-01-02]",
+   "code": "[자전 01-01-02]",
+   "text": "물질의 구조를 이해하고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 01-01-03]",
+   "code": "[자전 01-01-03]",
+   "text": "자동차 전기 장치의 종류를 구분할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 01-02-01]",
+   "code": "[자전 01-02-01]",
+   "text": "전기와 자기의 개념을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 01-02-02]",
+   "code": "[자전 01-02-02]",
+   "text": "전기가 발생하는 요인을 알아보며, 전기에 의한 힘과 그 힘이 미치는 공간에서 작용하 는 역학 및 전기적 관련 법칙 등을 이해하고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 01-02-03]",
+   "code": "[자전 01-02-03]",
+   "text": "자석 및 전류에 의한 자기 현상과 전자 유도 작용, 자기 유도 작용, 상호 유도 작용을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 01-03-01]",
+   "code": "[자전 01-03-01]",
+   "text": "전압과 전류 및 저항에 관한 기본 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 01-03-02]",
+   "code": "[자전 01-03-02]",
+   "text": "전류와 전압에 관해서 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 01-03-03]",
+   "code": "[자전 01-03-03]",
+   "text": "전압 및 저항의 접속 방법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 01-04-01]",
+   "code": "[자전 01-04-01]",
+   "text": "반도체의 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 01-04-02]",
+   "code": "[자전 01-04-02]",
+   "text": "반도체 소자의 종류를 구분할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 02-01-01]",
+   "code": "[자전 02-01-01]",
+   "text": "자동차 전기·전자 회로의 분석 방법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 02-01-02]",
+   "code": "[자전 02-01-02]",
+   "text": "자동차 전원의 구성 요소를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 02-01-03]",
+   "code": "[자전 02-01-03]",
+   "text": "회로 보호 장치의 종류와 작동 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 02-02-01]",
+   "code": "[자전 02-02-01]",
+   "text": "회로의 고장 유형을 구분할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 02-02-02]",
+   "code": "[자전 02-02-02]",
+   "text": "회로 진단에 관한 기본 장비의 특성을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 03-01-01]",
+   "code": "[자전 03-01-01]",
+   "text": "자동차 충전 장치의 구성 요소를 구분할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 03-01-02]",
+   "code": "[자전 03-01-02]",
+   "text": "충전 특징을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 03-02-01]",
+   "code": "[자전 03-02-01]",
+   "text": "축전지의 종류와 특징을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 03-02-02]",
+   "code": "[자전 03-02-02]",
+   "text": "축전지의 구조를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 03-03-01]",
+   "code": "[자전 03-03-01]",
+   "text": "축전지의 충·방전 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 03-03-02]",
+   "code": "[자전 03-03-02]",
+   "text": "축전지의 충전법을 구분할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 03-04-01]",
+   "code": "[자전 03-04-01]",
+   "text": "발전기 구조와 작동 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 03-04-02]",
+   "code": "[자전 03-04-02]",
+   "text": "발전기의 구성 부품을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 03-05-01]",
+   "code": "[자전 03-05-01]",
+   "text": "충전 회로를 분석하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 03-05-02]",
+   "code": "[자전 03-05-02]",
+   "text": "충전 회로의 고장 진단을 수행할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 04-01-01]",
+   "code": "[자전 04-01-01]",
+   "text": "시동 장치의 작동 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 04-01-02]",
+   "code": "[자전 04-01-02]",
+   "text": "시동 장치의 구성 요소를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 04-02-01]",
+   "code": "[자전 04-02-01]",
+   "text": "시동 전동기의 종류를 구분할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 04-02-02]",
+   "code": "[자전 04-02-02]",
+   "text": "시동 전동기의 구성 부품을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 04-03-01]",
+   "code": "[자전 04-03-01]",
+   "text": "시동 회로를 분석하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 04-03-02]",
+   "code": "[자전 04-03-02]",
+   "text": "시동 회로의 고장 진단을 수행할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 05-01-01]",
+   "code": "[자전 05-01-01]",
+   "text": "점화 장치의 작동 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 05-01-02]",
+   "code": "[자전 05-01-02]",
+   "text": "점화 장치 구성 요소의 기능을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 05-02-01]",
+   "code": "[자전 05-02-01]",
+   "text": "점화 회로를 분석하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 05-02-02]",
+   "code": "[자전 05-02-02]",
+   "text": "점화 회로의 고장 진단을 수행할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 06-01-01]",
+   "code": "[자전 06-01-01]",
+   "text": "자동차 공기 조화의 단계에 관해서 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 06-01-02]",
+   "code": "[자전 06-01-02]",
+   "text": "냉난방 장치의 구성 요소를 구분할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 06-02-01]",
+   "code": "[자전 06-02-01]",
+   "text": "냉방 장치의 작동 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 06-02-02]",
+   "code": "[자전 06-02-02]",
+   "text": "냉방 장치의 구성 부품을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 06-03-01]",
+   "code": "[자전 06-03-01]",
+   "text": "난방 장치의 종류를 구분할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 06-03-02]",
+   "code": "[자전 06-03-02]",
+   "text": "난방 장치의 구성 부품을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 06-04-01]",
+   "code": "[자전 06-04-01]",
+   "text": "전자동 냉난방 장치의 구성 요소를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 06-04-02]",
+   "code": "[자전 06-04-02]",
+   "text": "전자동 냉난방 회로를 분석하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 07-01-01]",
+   "code": "[자전 07-01-01]",
+   "text": "종합 경보장치의 구성 요소를 구분할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 07-01-02]",
+   "code": "[자전 07-01-02]",
+   "text": "종합 경보장치와 계기 장치의 특징과 기능을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 07-02-01]",
+   "code": "[자전 07-02-01]",
+   "text": "경보의 조건을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 07-02-02]",
+   "code": "[자전 07-02-02]",
+   "text": "경고등과 표시등의 종류를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 07-03-01]",
+   "code": "[자전 07-03-01]",
+   "text": "계기 장치의 종류를 구분할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 07-03-02]",
+   "code": "[자전 07-03-02]",
+   "text": "계기 장치의 작동 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 07-04-01]",
+   "code": "[자전 07-04-01]",
+   "text": "종합 경보 회로의 구성 요소를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 07-04-02]",
+   "code": "[자전 07-04-02]",
+   "text": "종합 경보 회로를 분석하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 08-01-01]",
+   "code": "[자전 08-01-01]",
+   "text": "안전장치와 편의 장치의 종류를 구분할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 08-01-02]",
+   "code": "[자전 08-01-02]",
+   "text": "안전장치와 편의 장치의 구성 요소를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 08-02-01]",
+   "code": "[자전 08-02-01]",
+   "text": "에어백 장치의 작동 조건을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 08-02-02]",
+   "code": "[자전 08-02-02]",
+   "text": "에어백 장치의 구성 요소를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 08-03-01]",
+   "code": "[자전 08-03-01]",
+   "text": "자동 정속 주행 장치의 구성 요소를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 08-03-02]",
+   "code": "[자전 08-03-02]",
+   "text": "자동 정속 주행 장치의 작동 방식을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 08-04-01]",
+   "code": "[자전 08-04-01]",
+   "text": "전자동 등화 장치의 구성과 작동 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 08-04-02]",
+   "code": "[자전 08-04-02]",
+   "text": "전자동 등화 장치의 제어 기능을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 08-05-01]",
+   "code": "[자전 08-05-01]",
+   "text": "IMS(통합 메모리 시스템)의 구성 요소를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 08-05-02]",
+   "code": "[자전 08-05-02]",
+   "text": "IMS(통합 메모리 시스템)의 제어 기능을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 08-06-01]",
+   "code": "[자전 08-06-01]",
+   "text": "스마트 키 구성 요소를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 08-06-02]",
+   "code": "[자전 08-06-02]",
+   "text": "스마트 키 장치 시스템의 기능을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 09-01-01]",
+   "code": "[자전 09-01-01]",
+   "text": "자동차에 이용되는 각종 전기 장치의 종류를 구분할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 09-01-02]",
+   "code": "[자전 09-01-02]",
+   "text": "자동차에 이용되는 각종 전기 장치의 기능을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 09-02-01]",
+   "code": "[자전 09-02-01]",
+   "text": "윈드실드 와이퍼 및 워셔의 구성 요소를 구분할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 09-02-02]",
+   "code": "[자전 09-02-02]",
+   "text": "자동 우적 감지 와이퍼의 작동 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 09-03-01]",
+   "code": "[자전 09-03-01]",
+   "text": "AV 시스템의 종류를 구분할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 09-03-02]",
+   "code": "[자전 09-03-02]",
+   "text": "AV 시스템의 구성에 관해서 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 09-04-01]",
+   "code": "[자전 09-04-01]",
+   "text": "도어 록 및 윈도 모터의 작동 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 09-04-02]",
+   "code": "[자전 09-04-02]",
+   "text": "도어 록 및 윈도 모터의 제어를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 09-05-01]",
+   "code": "[자전 09-05-01]",
+   "text": "조명의 종류에 관해서 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 09-05-02]",
+   "code": "[자전 09-05-02]",
+   "text": "각종 조명등의 작동 방법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 10-01-01]",
+   "code": "[자전 10-01-01]",
+   "text": "최신 자동차 전기·전자 기술의 발전 동향에 대해서 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 10-01-02]",
+   "code": "[자전 10-01-02]",
+   "text": "최신 자동차 전기·전자 기술의 종류를 구분할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 10-02-01]",
+   "code": "[자전 10-02-01]",
+   "text": "최신 자동차 전기·전자 기술의 기능을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-자동차-전기-전자-제어:[자전 10-02-02]",
+   "code": "[자전 10-02-02]",
+   "text": "최신 자동차 전기·전자 기술의 제어 방식을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 01-01-01]",
+   "code": "[전이 01-01-01]",
+   "text": "전자 기계의 개념과 역할을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 01-01-02]",
+   "code": "[전이 01-01-02]",
+   "text": "전자 기계 기술의 응용 분야에 관하여 토론하고 발표할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 01-02-01]",
+   "code": "[전이 01-02-01]",
+   "text": "전자 기계 기술에 따른 산업 구조의 변화와 사회 형태 및 경제 환경의 변화 방향을 예측 하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 01-02-02]",
+   "code": "[전이 01-02-02]",
+   "text": "생산 자동화 기술의 발달에 따른 자동화 시스템의 발전 방향을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 01-03-01]",
+   "code": "[전이 01-03-01]",
+   "text": "전자 기계 산업의 현재 현황을 알고 앞으로 각 산업 분야와 연계하여 발전시키는 방법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 01-03-02]",
+   "code": "[전이 01-03-02]",
+   "text": "소형화, 경량화, 고속화, 정밀화, 고기능화 및 고지능화를 위한 전자 기계 기술의 역할과 전자 기계제품의 현황, 응용 분야의 확대 등을 조사하여 발표할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 02-01-01]",
+   "code": "[전이 02-01-01]",
+   "text": "일상생활에 필요한 기계의 기능을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 02-01-02]",
+   "code": "[전이 02-01-02]",
+   "text": "기계와 기구의 차이점을 이해하고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 02-02-01]",
+   "code": "[전이 02-02-01]",
+   "text": "기계 운동의 종류를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 02-02-02]",
+   "code": "[전이 02-02-02]",
+   "text": "직접 접촉하여 운동을 전달하는 경우와 간접적으로 운동을 전달하는 경우를 비교하여 설 명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 02-03-01]",
+   "code": "[전이 02-03-01]",
+   "text": "전동 요소의 종류 및 용도와 운동의 전달 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 02-03-02]",
+   "code": "[전이 02-03-02]",
+   "text": "자동화 기계에서 전동 요소가 이용되는 예를 관찰하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 02-04-01]",
+   "code": "[전이 02-04-01]",
+   "text": "왕복 운동 장치의 종류와 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 02-04-02]",
+   "code": "[전이 02-04-02]",
+   "text": "간헐 운동 장치의 종류와 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 03-01-01]",
+   "code": "[전이 03-01-01]",
+   "text": "센서의 종류, 동작 원리, 구조 및 특성을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 03-01-02]",
+   "code": "[전이 03-01-02]",
+   "text": "센서가 다른 전자 기계의 구성 요소와 어떤 관계를 갖는지 알아보며 앞으로의 개발 변 화 경향을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 03-02-01]",
+   "code": "[전이 03-02-01]",
+   "text": "센서의 검출 방법과 활용 분야를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 03-02-02]",
+   "code": "[전이 03-02-02]",
+   "text": "센서의 회로 결선도를 이해하여 올바르게 사용할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 03-03-01]",
+   "code": "[전이 03-03-01]",
+   "text": "센서의 신호 처리 개념을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 03-03-02]",
+   "code": "[전이 03-03-02]",
+   "text": "아날로그 신호와 디지털 신호의 차이점을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 03-03-03]",
+   "code": "[전이 03-03-03]",
+   "text": "신호 변환 장치의 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 03-03-04]",
+   "code": "[전이 03-03-04]",
+   "text": "센서를 이용한 제어 시스템에서 신호 처리 시 문제점과 대책을 실습을 통하여 이해하고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 04-01-01]",
+   "code": "[전이 04-01-01]",
+   "text": "액추에이터의 종류와 용도, 에너지 변환 관계와 제어 방법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 04-01-02]",
+   "code": "[전이 04-01-02]",
+   "text": "구동 에너지원에 따른 액추에이터의 분류 방법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 04-02-01]",
+   "code": "[전이 04-02-01]",
+   "text": "공압 액추에이터의 구조와 종류 및 운동 방법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 04-02-02]",
+   "code": "[전이 04-02-02]",
+   "text": "공압 액추에이터의 특성과 도면 기호 및 표시 방법, 설치 방법 등을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 04-02-03]",
+   "code": "[전이 04-02-03]",
+   "text": "구동 시 출력 관계를 이해하여 자동화 시스템에 응용할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 04-03-01]",
+   "code": "[전이 04-03-01]",
+   "text": "유압 액추에이터의 구조와 종류 및 운동 방법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 04-03-02]",
+   "code": "[전이 04-03-02]",
+   "text": "유압 액추에이터의 특성과 도면 기호 및 표시 방법, 설치 방법 등을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 04-03-03]",
+   "code": "[전이 04-03-03]",
+   "text": "구동 시 출력 관계를 이해하여 자동화 시스템에 응용할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 04-04-01]",
+   "code": "[전이 04-04-01]",
+   "text": "자기와 전류의 관계, 전류에 의한 자기 현상, 전자력에 의한 현상을 이해하고 유도 작용 을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 04-04-02]",
+   "code": "[전이 04-04-02]",
+   "text": "전동기의 회전 원리와 구조 및 특성을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 05-01-01]",
+   "code": "[전이 05-01-01]",
+   "text": "릴레이의 구조 및 동작 원리와 릴레이의 접점, 도면 기호 방법에 대하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 05-01-02]",
+   "code": "[전이 05-01-02]",
+   "text": "릴레이의 시퀀스 제어 회로를 구성하고 특성 실험을 통하여 릴레이의 기능을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 05-02-01]",
+   "code": "[전이 05-02-01]",
+   "text": "PLC의 구성과 동작 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 05-02-02]",
+   "code": "[전이 05-02-02]",
+   "text": "PLC를 사용할 때의 장점을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 05-02-03]",
+   "code": "[전이 05-02-03]",
+   "text": "PLC 제어의 응용 분야를 예측하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 05-02-04]",
+   "code": "[전이 05-02-04]",
+   "text": "실습을 통하여 PLC의 요소별 기능과 프로그래밍 방법을 응용할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 05-03-01]",
+   "code": "[전이 05-03-01]",
+   "text": "마이크로프로세서의 구성과 동작 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 05-03-02]",
+   "code": "[전이 05-03-02]",
+   "text": "마이크로프로세서 명령어의 구성과 데이터 처리 방법, 명령어의 인출 및 실행 과정을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 05-03-03]",
+   "code": "[전이 05-03-03]",
+   "text": "제어 장치와 연산 장치의 구조 및 원리, 입출력 포트의 구성과 동작을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 05-04-01]",
+   "code": "[전이 05-04-01]",
+   "text": "네트워크의 시스템 구성과 설정 방법, 서비스 방식과 기능 등을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-전자-기계-이론:[전이 05-04-02]",
+   "code": "[전이 05-04-02]",
+   "text": "네트워크의 시스템을 관리 및 제어하는 방법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 01-01-01]",
+   "code": "[항실 01-01-01]",
+   "text": "항공기 기체에 작용하는 하중의 종류를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 01-01-02]",
+   "code": "[항실 01-01-02]",
+   "text": "기초적인 응력 계산을 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 01-01-03]",
+   "code": "[항실 01-01-03]",
+   "text": "기초적인 변형률 계산을 할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 01-02-01]",
+   "code": "[항실 01-02-01]",
+   "text": "비행기 기체를 구성하는 구성품들의 명칭과 역할을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 01-02-02]",
+   "code": "[항실 01-02-02]",
+   "text": "비행기 조종 장치의 종류와 기능을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 01-02-03]",
+   "code": "[항실 01-02-03]",
+   "text": "비행기 착륙 장치의 종류와 기능을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 01-03-01]",
+   "code": "[항실 01-03-01]",
+   "text": "헬리콥터의 동체 구조를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 01-03-02]",
+   "code": "[항실 01-03-02]",
+   "text": "헬리콥터의 회전 날개를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 01-03-03]",
+   "code": "[항실 01-03-03]",
+   "text": "헬리콥터의 착륙 장치를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 01-04-01]",
+   "code": "[항실 01-04-01]",
+   "text": "항공기 기체 제작에 사용되는 금속 재료의 종류를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 01-04-02]",
+   "code": "[항실 01-04-02]",
+   "text": "항공기 기체 제작에 사용되는 비금속 재료의 종류를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 01-04-03]",
+   "code": "[항실 01-04-03]",
+   "text": "항공기 기체 제작에 사용되는 복합 재료의 종류를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 02-01-01]",
+   "code": "[항실 02-01-01]",
+   "text": "유압 공급 시스템 회로를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 02-01-02]",
+   "code": "[항실 02-01-02]",
+   "text": "유압 구성품의 명칭을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 02-01-03]",
+   "code": "[항실 02-01-03]",
+   "text": "유압 구성품의 기능을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 02-02-01]",
+   "code": "[항실 02-02-01]",
+   "text": "항공기 조종의 기본 개념을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 02-02-02]",
+   "code": "[항실 02-02-02]",
+   "text": "항공기 조종 장치 구성품의 명칭을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 02-02-03]",
+   "code": "[항실 02-02-03]",
+   "text": "항공기 조종 장치 구성품의 기능을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 02-03-01]",
+   "code": "[항실 02-03-01]",
+   "text": "착륙 장치의 구성품을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 02-03-02]",
+   "code": "[항실 02-03-02]",
+   "text": "제동 장치의 구성품을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 02-03-03]",
+   "code": "[항실 02-03-03]",
+   "text": "바퀴와 타이어의 구성품을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 02-04-01]",
+   "code": "[항실 02-04-01]",
+   "text": "항공기 연료 시스템의 특징을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 02-04-02]",
+   "code": "[항실 02-04-02]",
+   "text": "항공기 연료 시스템의 구성품을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 02-04-03]",
+   "code": "[항실 02-04-03]",
+   "text": "항공유의 종류를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 02-05-01]",
+   "code": "[항실 02-05-01]",
+   "text": "항공기 방빙 및 제우 시스템의 종류를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 02-05-02]",
+   "code": "[항실 02-05-02]",
+   "text": "항공기 방빙 및 제우 시스템의 작동 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 02-06-01]",
+   "code": "[항실 02-06-01]",
+   "text": "항공기에서 사용하는 객실 환경 제어 시스템을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 02-06-02]",
+   "code": "[항실 02-06-02]",
+   "text": "객실 환경 제어 시스템의 원리와 구성을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 02-07-01]",
+   "code": "[항실 02-07-01]",
+   "text": "항공기 화재 탐지 시스템의 구성과 기능을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 02-07-02]",
+   "code": "[항실 02-07-02]",
+   "text": "항공기 소화 시스템의 구성과 기능을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 03-01-01]",
+   "code": "[항실 03-01-01]",
+   "text": "열역학에 사용되는 기본 단위와 유도 단위를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 03-01-02]",
+   "code": "[항실 03-01-02]",
+   "text": "열역학에 사용되는 중요 용어를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 03-01-03]",
+   "code": "[항실 03-01-03]",
+   "text": "열전달의 종류를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 03-02-01]",
+   "code": "[항실 03-02-01]",
+   "text": "왕복 엔진의 구조를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 03-02-02]",
+   "code": "[항실 03-02-02]",
+   "text": "왕복 엔진의 시스템을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 03-02-03]",
+   "code": "[항실 03-02-03]",
+   "text": "왕복 엔진의 검사를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 03-03-01]",
+   "code": "[항실 03-03-01]",
+   "text": "가스 터빈 엔진의 구조를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 03-03-02]",
+   "code": "[항실 03-03-02]",
+   "text": "가스 터빈 엔진의 각 시스템을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 03-03-03]",
+   "code": "[항실 03-03-03]",
+   "text": "가스 터빈 엔진의 검사를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 03-04-01]",
+   "code": "[항실 03-04-01]",
+   "text": "프로펠러의 피치와 슬립을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 03-04-02]",
+   "code": "[항실 03-04-02]",
+   "text": "프로펠러에 작용하는 힘을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 03-04-03]",
+   "code": "[항실 03-04-03]",
+   "text": "프로펠러 효율을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 03-04-04]",
+   "code": "[항실 03-04-04]",
+   "text": "프로펠러 검사 방법의 종류를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 04-01-01]",
+   "code": "[항실 04-01-01]",
+   "text": "전류와 전압을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 04-01-02]",
+   "code": "[항실 04-01-02]",
+   "text": "옴의 법칙을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 04-01-03]",
+   "code": "[항실 04-01-03]",
+   "text": "직류와 교류를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 04-01-04]",
+   "code": "[항실 04-01-04]",
+   "text": "발전기의 작동 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 04-02-01]",
+   "code": "[항실 04-02-01]",
+   "text": "항공기 전기 시스템의 구성과 기능을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 04-02-02]",
+   "code": "[항실 04-02-02]",
+   "text": "항공기 발전 계통의 작동 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 04-03-01]",
+   "code": "[항실 04-03-01]",
+   "text": "항공 계기의 종류와 특징을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 04-03-02]",
+   "code": "[항실 04-03-02]",
+   "text": "항공 계기의 구조와 기능을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 04-04-01]",
+   "code": "[항실 04-04-01]",
+   "text": "항공기 통신 업무를 구분하여 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 04-04-02]",
+   "code": "[항실 04-04-02]",
+   "text": "각 통신 장치의 구성과 기능을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 04-04-03]",
+   "code": "[항실 04-04-03]",
+   "text": "항법 시스템의 필요성을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 04-04-04]",
+   "code": "[항실 04-04-04]",
+   "text": "항법 시스템의 종류를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 05-01-01]",
+   "code": "[항실 05-01-01]",
+   "text": "항공기 정비의 개념과 목적을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 05-01-02]",
+   "code": "[항실 05-01-02]",
+   "text": "항공기 정비과 관련된 용어를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 05-02-01]",
+   "code": "[항실 05-02-01]",
+   "text": "항공기 정비 관리의 개념을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 05-02-02]",
+   "code": "[항실 05-02-02]",
+   "text": "항공기 정비 방식을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 05-02-03]",
+   "code": "[항실 05-02-03]",
+   "text": "항공기 정비 작업의 분류와 단계를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 05-02-04]",
+   "code": "[항실 05-02-04]",
+   "text": "항공기 정비 작업 관련 도서의 종류를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 05-03-01]",
+   "code": "[항실 05-03-01]",
+   "text": "작업 안전 수칙의 내용을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 05-03-02]",
+   "code": "[항실 05-03-02]",
+   "text": "작업 안전 내용을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 05-03-03]",
+   "code": "[항실 05-03-03]",
+   "text": "항공기 보급 작업을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-실무-기초:[항실 05-03-04]",
+   "code": "[항실 05-03-04]",
+   "text": "항공기 지상 지원 작업을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 01-01-01]",
+   "code": "[항반 01-01-01]",
+   "text": "항공기의 정의를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 01-01-02]",
+   "code": "[항반 01-01-02]",
+   "text": "항공기를 구분하는 기준에 따라 분류할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 01-01-03]",
+   "code": "[항반 01-01-03]",
+   "text": "항공기의 분류에 따른 특징을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 01-02-01]",
+   "code": "[항반 01-02-01]",
+   "text": "항공기의 발달 과정을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 01-02-02]",
+   "code": "[항반 01-02-02]",
+   "text": "최신 항공 기술을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 01-02-03]",
+   "code": "[항반 01-02-03]",
+   "text": "우리나라 항공 산업의 특징을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 01-03-01]",
+   "code": "[항반 01-03-01]",
+   "text": "항공기의 형식을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 01-03-02]",
+   "code": "[항반 01-03-02]",
+   "text": "항공기의 용도를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 02-01-01]",
+   "code": "[항반 02-01-01]",
+   "text": "항공기 기체에 작용하는 힘을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 02-01-02]",
+   "code": "[항반 02-01-02]",
+   "text": "항공기 기체의 구성을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 02-01-03]",
+   "code": "[항반 02-01-03]",
+   "text": "항공기 기체 구성품의 기능을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 02-02-01]",
+   "code": "[항반 02-02-01]",
+   "text": "항공기 왕복 엔진의 작동 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 02-02-02]",
+   "code": "[항반 02-02-02]",
+   "text": "항공기 왕복 엔진의 구성품을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 02-02-03]",
+   "code": "[항반 02-02-03]",
+   "text": "항공기 가스 터빈 엔진의 작동 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 02-02-04]",
+   "code": "[항반 02-02-04]",
+   "text": "항공기 가스 터빈 엔진의 구성품을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 02-02-05]",
+   "code": "[항반 02-02-05]",
+   "text": "프로펠러의 특성을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 02-02-06]",
+   "code": "[항반 02-02-06]",
+   "text": "프로펠러의 구조를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 02-03-01]",
+   "code": "[항반 02-03-01]",
+   "text": "항공기 전자 장치의 구성과 기능을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 02-03-02]",
+   "code": "[항반 02-03-02]",
+   "text": "항공기 각 시스템의 구성을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 03-01-01]",
+   "code": "[항반 03-01-01]",
+   "text": "대기의 구성을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 03-01-03]",
+   "code": "[항반 03-01-03]",
+   "text": "국제 표준 대기를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 03-02-01]",
+   "code": "[항반 03-02-01]",
+   "text": "기체(공기)의 물리적 특징을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 03-02-02]",
+   "code": "[항반 03-02-02]",
+   "text": "이상 기체의 특징에 관해 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 03-02-03]",
+   "code": "[항반 03-02-03]",
+   "text": "유체 역학 용어를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 03-02-04]",
+   "code": "[항반 03-02-04]",
+   "text": "연속 방정식과 베르누이 정리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 03-02-05]",
+   "code": "[항반 03-02-05]",
+   "text": "점성 유동과 압축성 유동을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 03-02-06]",
+   "code": "[항반 03-02-06]",
+   "text": "양력과 항력을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 03-03-01]",
+   "code": "[항반 03-03-01]",
+   "text": "에어포일의 구조를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 03-03-02]",
+   "code": "[항반 03-03-02]",
+   "text": "에어포일의 공기력 특성을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 03-03-03]",
+   "code": "[항반 03-03-03]",
+   "text": "날개의 종류를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 03-03-04]",
+   "code": "[항반 03-03-04]",
+   "text": "공력 보조 장치를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 04-01-01]",
+   "code": "[항반 04-01-01]",
+   "text": "수평 비행을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 04-01-02]",
+   "code": "[항반 04-01-02]",
+   "text": "상승 비행, 하강 비행을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 04-01-03]",
+   "code": "[항반 04-01-03]",
+   "text": "선회 비행을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 04-01-04]",
+   "code": "[항반 04-01-04]",
+   "text": "이륙과 착륙을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 04-02-01]",
+   "code": "[항반 04-02-01]",
+   "text": "조종의 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 04-02-02]",
+   "code": "[항반 04-02-02]",
+   "text": "안정성의 원리를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 04-02-03]",
+   "code": "[항반 04-02-03]",
+   "text": "안정성의 종류를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 04-03-01]",
+   "code": "[항반 04-03-01]",
+   "text": "헬리콥터의 특성을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 04-03-02]",
+   "code": "[항반 04-03-02]",
+   "text": "헬리콥터의 비행 성능을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 05-01-01]",
+   "code": "[항반 05-01-01]",
+   "text": "항공 업무의 일반적인 내용과 범위를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 05-01-02]",
+   "code": "[항반 05-01-02]",
+   "text": "항공 종사자의 범위를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 05-02-01]",
+   "code": "[항반 05-02-01]",
+   "text": "항행 안전시설의 종류를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 05-02-02]",
+   "code": "[항반 05-02-02]",
+   "text": "항공 등화를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 05-03-01]",
+   "code": "[항반 05-03-01]",
+   "text": "항공기의 운항 공역을 분류하고 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 05-03-02]",
+   "code": "[항반 05-03-02]",
+   "text": "항공기의 비행 방법을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 05-03-03]",
+   "code": "[항반 05-03-03]",
+   "text": "기장의 직무 및 권한을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 06-01-01]",
+   "code": "[항반 06-01-01]",
+   "text": "우주 산업의 정의를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 06-01-02]",
+   "code": "[항반 06-01-02]",
+   "text": "우주 산업의 종류별 특징을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 06-02-01]",
+   "code": "[항반 06-02-01]",
+   "text": "뉴턴의 운동 법칙을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 06-02-02]",
+   "code": "[항반 06-02-02]",
+   "text": "에너지 보존 법칙을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 06-02-03]",
+   "code": "[항반 06-02-03]",
+   "text": "각운동량의 법칙을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 06-02-04]",
+   "code": "[항반 06-02-04]",
+   "text": "케플러의 법칙을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 06-03-01]",
+   "code": "[항반 06-03-01]",
+   "text": "인공위성의 정의와 종류를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 06-03-02]",
+   "code": "[항반 06-03-02]",
+   "text": "인공위성의 구조를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 06-03-03]",
+   "code": "[항반 06-03-03]",
+   "text": "발사체의 정의와 특징을 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-항공기-일반:[항반 06-03-04]",
+   "code": "[항반 06-03-04]",
+   "text": "발사체의 구조를 설명할 수 있다.",
+   "sourceId": "annex30",
+   "locator": "pattern-match"
+  }
+ ]
+}

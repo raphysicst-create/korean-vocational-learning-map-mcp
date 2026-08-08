@@ -1,0 +1,4454 @@
+{
+ "topics": [
+  {
+   "id": "kr.topic.2022.high.006013cb3a5e0a67a132",
+   "titleKorean": "관광 문화와 자원 — 산업 관광 자원의 개념과 형태에 대해 살펴보고, 과거와 오늘날의 추이를 비교하기",
+   "subjectKorean": "관광 문화와 자원",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 자원 유형",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 문화와 자원의 관광 자원 유형 영역에서 산업 관광 자원의 개념과 형태에 대해 살펴보고, 과거와 오늘날의 추이를 비교하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 산업 관광 자원의 개념과 형태에 대해 살펴보고, 과거와 오늘날의 추이를 비교하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "산업 관광 자원의 개념과 형태에 대해 살펴보고, 과거와 오늘날의 추이를 비교하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-문화와-자원:[관문 03-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.01e20e38f23c33f4ed08",
+   "titleKorean": "관광 일본어 — 외국인 관광객을 대상으로 한국 전통문화를 일본어로 소개하기",
+   "subjectKorean": "관광 일본어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 안내 및 해설 업무",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 일본어의 관광 안내 및 해설 업무 영역에서 외국인 관광객을 대상으로 한국 전통문화를 일본어로 소개하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 한국 전통문화를 일본어로 소개하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 한국 전통문화를 일본어로 소개하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일본어:[관어 06-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.03a8cbef0e5deadb709c",
+   "titleKorean": "관광 영어 — 외국인 관광객을 대상으로 식음료 업장에서 자리 안내와 주문 응대를 영어로 수행하기",
+   "subjectKorean": "관광 영어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "식음료 서비스 회화",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 영어의 식음료 서비스 회화 영역에서 외국인 관광객을 대상으로 식음료 업장에서 자리 안내와 주문 응대를 영어로 수행하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 식음료 업장에서 자리 안내와 주문 응대를 영어로 수행하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 식음료 업장에서 자리 안내와 주문 응대를 영어로 수행하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-영어:[관영 04-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.04a4da007303ffb76a22",
+   "titleKorean": "관광 문화와 자원 — 관광 문화의 환경 변화를 설명하기",
+   "subjectKorean": "관광 문화와 자원",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 문화",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 문화와 자원의 관광 문화 영역에서 관광 문화의 환경 변화를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광 문화의 환경 변화를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광 문화의 환경 변화를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-문화와-자원:[관문 01-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.073cfff9d3222fa75260",
+   "titleKorean": "전시･컨벤션･이벤트 일반 — 전시 산업의 구성 요소와 구성 요소 간의 관계를 제시하기",
+   "subjectKorean": "전시･컨벤션･이벤트 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "전시 산업 특성",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "전시･컨벤션･이벤트 일반의 전시 산업 특성 영역에서 전시 산업의 구성 요소와 구성 요소 간의 관계를 제시하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 전시 산업의 구성 요소와 구성 요소 간의 관계를 제시하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "전시 산업의 구성 요소와 구성 요소 간의 관계를 제시하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 04-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.0946b86e08b37d881730",
+   "titleKorean": "레저 서비스 일반 — 지상 레저 활동을 정의하기",
+   "subjectKorean": "레저 서비스 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "지상 레저 활동",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "레저 서비스 일반의 지상 레저 활동 영역에서 지상 레저 활동을 정의하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 지상 레저 활동을 정의하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "지상 레저 활동을 정의하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-레저-서비스-일반:[레서 04-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.097985bd21a2bd8907ba",
+   "titleKorean": "관광 콘텐츠 개발 — 민간 및 공공 부문의 관광 콘텐츠 활용 사례를 설명하기",
+   "subjectKorean": "관광 콘텐츠 개발",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 콘텐츠 유형",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 콘텐츠 개발의 관광 콘텐츠 유형 영역에서 민간 및 공공 부문의 관광 콘텐츠 활용 사례를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 민간 및 공공 부문의 관광 콘텐츠 활용 사례를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "민간 및 공공 부문의 관광 콘텐츠 활용 사례를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-콘텐츠-개발:[관콘 02-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.09b8f9cc28435caa0f0c",
+   "titleKorean": "관광 영어 — 외국인 관광객을 대상으로 호텔 객실 예약에 대한 응대를 영어로 수행하기",
+   "subjectKorean": "관광 영어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "호텔 서비스 회화",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 영어의 호텔 서비스 회화 영역에서 외국인 관광객을 대상으로 호텔 객실 예약에 대한 응대를 영어로 수행하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 호텔 객실 예약에 대한 응대를 영어로 수행하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 호텔 객실 예약에 대한 응대를 영어로 수행하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-영어:[관영 03-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.0e3ca4c007bb17262398",
+   "titleKorean": "관광 문화와 자원 — 한류 관광의 의미를 정의하기",
+   "subjectKorean": "관광 문화와 자원",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "한류 문화 콘텐츠",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 문화와 자원의 한류 문화 콘텐츠 영역에서 한류 관광의 의미를 정의하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 한류 관광의 의미를 정의하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "한류 관광의 의미를 정의하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-문화와-자원:[관문 05-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.125d9ce54679699ebda9",
+   "titleKorean": "관광 문화와 자원 — 한류 문화 콘텐츠의 유형을 설명하기",
+   "subjectKorean": "관광 문화와 자원",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "한류 문화 콘텐츠",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 문화와 자원의 한류 문화 콘텐츠 영역에서 한류 문화 콘텐츠의 유형을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 한류 문화 콘텐츠의 유형을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "한류 문화 콘텐츠의 유형을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-문화와-자원:[관문 05-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.12a9378ae4018d71901b",
+   "titleKorean": "관광 영어 — 외국인 관광객을 대상으로 식음료 서비스 상황에서 발생할 수 있는 고객 불편 사항에 영어로 응대하기",
+   "subjectKorean": "관광 영어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "식음료 서비스 회화",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 영어의 식음료 서비스 회화 영역에서 외국인 관광객을 대상으로 식음료 서비스 상황에서 발생할 수 있는 고객 불편 사항에 영어로 응대하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 식음료 서비스 상황에서 발생할 수 있는 고객 불편 사항에 영어로 응대하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 식음료 서비스 상황에서 발생할 수 있는 고객 불편 사항에 영어로 응대하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-영어:[관영 04-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.150e6b6aa7c0de8ea430",
+   "titleKorean": "관광 일반 — 관광 산업에서 활용되고 있는 관광 정보 시스템을 설명하기",
+   "subjectKorean": "관광 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광과 정보",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 일반의 관광과 정보 영역에서 관광 산업에서 활용되고 있는 관광 정보 시스템을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광 산업에서 활용되고 있는 관광 정보 시스템을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광 산업에서 활용되고 있는 관광 정보 시스템을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일반:[관일 04-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.17e67692ad07e5e27533",
+   "titleKorean": "레저 서비스 일반 — 레저의 개념, 레저 활동의 분류, 기능을 설명할 수 있다. 레저와 유사 개념으로 사용되는 여 가, 놀이, 레크리에이션 및 관광과 스포츠 등을 구분하여 살펴봄으로써 각각의 개념과 레저와 의 유사점과 차이점을 구분하여 설명하기",
+   "subjectKorean": "레저 서비스 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "레저의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "레저 서비스 일반의 레저의 이해 영역에서 레저의 개념, 레저 활동의 분류, 기능을 설명할 수 있다. 레저와 유사 개념으로 사용되는 여 가, 놀이, 레크리에이션 및 관광과 스포츠 등을 구분하여 살펴봄으로써 각각의 개념과 레저와 의 유사점과 차이점을 구분하여 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 레저의 개념, 레저 활동의 분류, 기능을 설명할 수 있다. 레저와 유사 개념으로 사용되는 여 가, 놀이, 레크리에이션 및 관광과 스포츠 등을 구분하여 살펴봄으로써 각각의 개념과 레저와 의 유사점과 차이점을 구분하여 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "레저의 개념, 레저 활동의 분류, 기능을 설명할 수 있다. 레저와 유사 개념으로 사용되는 여 가, 놀이, 레크리에이션 및 관광과 스포츠 등을 구분하여 살펴봄으로써 각각의 개념과 레저와 의 유사점과 차이점을 구분하여 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-레저-서비스-일반:[레서 01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.1a11e6d0a9d7d10f5f10",
+   "titleKorean": "관광 중국어 — 외국인 관광객을 대상으로 호텔 체크인 및 체크아웃에 대한 응대를 중국어로 수행하기",
+   "subjectKorean": "관광 중국어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "호텔 서비스 회화",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 중국어의 호텔 서비스 회화 영역에서 외국인 관광객을 대상으로 호텔 체크인 및 체크아웃에 대한 응대를 중국어로 수행하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 호텔 체크인 및 체크아웃에 대한 응대를 중국어로 수행하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 호텔 체크인 및 체크아웃에 대한 응대를 중국어로 수행하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-중국어:[관중 03-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.1afee1e6799a45c00490",
+   "titleKorean": "관광 중국어 — 외국인 관광객을 대상으로 식음료 업장에서 식음료 제공, 계산 및 환송 업무를 중국어로 수행 하기",
+   "subjectKorean": "관광 중국어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "식음료 서비스 회화",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 중국어의 식음료 서비스 회화 영역에서 외국인 관광객을 대상으로 식음료 업장에서 식음료 제공, 계산 및 환송 업무를 중국어로 수행 하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 식음료 업장에서 식음료 제공, 계산 및 환송 업무를 중국어로 수행 하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 식음료 업장에서 식음료 제공, 계산 및 환송 업무를 중국어로 수행 하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-중국어:[관중 04-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.1bc9aa393512d64a0464",
+   "titleKorean": "관광 영어 — 외국인 관광객을 대상으로 한국 세계 유산을 영어로 안내하기",
+   "subjectKorean": "관광 영어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 안내 및 해설 업무",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 영어의 관광 안내 및 해설 업무 영역에서 외국인 관광객을 대상으로 한국 세계 유산을 영어로 안내하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 한국 세계 유산을 영어로 안내하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 한국 세계 유산을 영어로 안내하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-영어:[관영 06-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.1c93aed68696c6a5ecbd",
+   "titleKorean": "관광 일반 — 유네스코 유산을 세계 유산, 무형 문화유산, 세계 기록 유산으로 분류하고, 한국의 유네스코 등재 유산 현황을 정리하여 발표하기",
+   "subjectKorean": "관광 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 대상",
+   "facetKey": null,
+   "types": [
+    "representational"
+   ],
+   "description": "관광 일반의 관광 대상 영역에서 유네스코 유산을 세계 유산, 무형 문화유산, 세계 기록 유산으로 분류하고, 한국의 유네스코 등재 유산 현황을 정리하여 발표하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 유네스코 유산을 세계 유산, 무형 문화유산, 세계 기록 유산으로 분류하고, 한국의 유네스코 등재 유산 현황을 정리하여 발표하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "유네스코 유산을 세계 유산, 무형 문화유산, 세계 기록 유산으로 분류하고, 한국의 유네스코 등재 유산 현황을 정리하여 발표하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일반:[관일 02-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.1d0dbebefec34c56a333",
+   "titleKorean": "관광 문화와 자원 — 문화의 개념을 이해하고 특성을 설명하기",
+   "subjectKorean": "관광 문화와 자원",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 문화",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 문화와 자원의 관광 문화 영역에서 문화의 개념을 이해하고 특성을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 문화의 개념을 이해하고 특성을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "문화의 개념을 이해하고 특성을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-문화와-자원:[관문 01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.1f04d39dc4ec13d9e319",
+   "titleKorean": "관광 일본어 — 외국인 관광객을 대상으로 식음료 업장에서 식음료 제공, 계산 및 환송 업무를 일본어로 수행 하기",
+   "subjectKorean": "관광 일본어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "식음료 서비스 회화",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 일본어의 식음료 서비스 회화 영역에서 외국인 관광객을 대상으로 식음료 업장에서 식음료 제공, 계산 및 환송 업무를 일본어로 수행 하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 식음료 업장에서 식음료 제공, 계산 및 환송 업무를 일본어로 수행 하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 식음료 업장에서 식음료 제공, 계산 및 환송 업무를 일본어로 수행 하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일본어:[관어 04-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.1f4c340b581c767f6326",
+   "titleKorean": "관광 일본어 — 외국인 관광객을 대상으로 식음료 업장에서 자리 안내와 주문 응대를 일본어로 수행하기",
+   "subjectKorean": "관광 일본어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "식음료 서비스 회화",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 일본어의 식음료 서비스 회화 영역에서 외국인 관광객을 대상으로 식음료 업장에서 자리 안내와 주문 응대를 일본어로 수행하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 식음료 업장에서 자리 안내와 주문 응대를 일본어로 수행하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 식음료 업장에서 자리 안내와 주문 응대를 일본어로 수행하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일본어:[관어 04-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.1fa4b8191c14a394d2fe",
+   "titleKorean": "관광 서비스 — 관광 종사자의 위생 및 안전 관리를 절차에 따라 수행하기",
+   "subjectKorean": "관광 서비스",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 서비스 직업 윤리 및 안전 관리",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 서비스의 관광 서비스 직업 윤리 및 안전 관리 영역에서 관광 종사자의 위생 및 안전 관리를 절차에 따라 수행하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광 종사자의 위생 및 안전 관리를 절차에 따라 수행하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광 종사자의 위생 및 안전 관리를 절차에 따라 수행하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-서비스:[관서 06-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.20d8060fdb78ed8f305f",
+   "titleKorean": "관광 문화와 자원 — 공정 관광의 의미를 제시하기",
+   "subjectKorean": "관광 문화와 자원",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "지속가능 생태계 콘텐츠",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 문화와 자원의 지속가능 생태계 콘텐츠 영역에서 공정 관광의 의미를 제시하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 공정 관광의 의미를 제시하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "공정 관광의 의미를 제시하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-문화와-자원:[관문 04-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.2161bf1896034268403c",
+   "titleKorean": "관광 서비스 — 고객 만족과 관련한 주요 개념을 이해하기",
+   "subjectKorean": "관광 서비스",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "고객의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 서비스의 고객의 이해 영역에서 고객 만족과 관련한 주요 개념을 이해하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 고객 만족과 관련한 주요 개념을 이해하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "고객 만족과 관련한 주요 개념을 이해하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-서비스:[관서 02-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.234daa0dc7a5d034ea60",
+   "titleKorean": "관광 영어 — 외국인 관광객을 대상으로 호텔 서비스 상황에서 발생할 수 있는 고객 불편 사항에 영어로 응대하기",
+   "subjectKorean": "관광 영어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "호텔 서비스 회화",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 영어의 호텔 서비스 회화 영역에서 외국인 관광객을 대상으로 호텔 서비스 상황에서 발생할 수 있는 고객 불편 사항에 영어로 응대하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 호텔 서비스 상황에서 발생할 수 있는 고객 불편 사항에 영어로 응대하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 호텔 서비스 상황에서 발생할 수 있는 고객 불편 사항에 영어로 응대하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-영어:[관영 03-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.25016065e4b7df41e16f",
+   "titleKorean": "관광 일반 — 관광진흥법상의 관광 사업 이외의 관광 관련 사업에 대해 조사하여 발표하기",
+   "subjectKorean": "관광 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 사업",
+   "facetKey": null,
+   "types": [
+    "representational"
+   ],
+   "description": "관광 일반의 관광 사업 영역에서 관광진흥법상의 관광 사업 이외의 관광 관련 사업에 대해 조사하여 발표하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광진흥법상의 관광 사업 이외의 관광 관련 사업에 대해 조사하여 발표하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광진흥법상의 관광 사업 이외의 관광 관련 사업에 대해 조사하여 발표하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일반:[관일 03-07]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.26191fcdc95fd2da1812",
+   "titleKorean": "관광 영어 — 외국인 관광객을 대상으로 판매 서비스 상황에서 발생할 수 있는 고객 불편 사항에 영어로 응대하기",
+   "subjectKorean": "관광 영어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 상품 판매 회화",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 영어의 관광 상품 판매 회화 영역에서 외국인 관광객을 대상으로 판매 서비스 상황에서 발생할 수 있는 고객 불편 사항에 영어로 응대하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 판매 서비스 상황에서 발생할 수 있는 고객 불편 사항에 영어로 응대하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 판매 서비스 상황에서 발생할 수 있는 고객 불편 사항에 영어로 응대하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-영어:[관영 05-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.2713901d4271b7aa40eb",
+   "titleKorean": "관광 일본어 — 외국인 관광객을 대상으로 한국 현대 문화를 일본어로 소개하기",
+   "subjectKorean": "관광 일본어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 안내 및 해설 업무",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 일본어의 관광 안내 및 해설 업무 영역에서 외국인 관광객을 대상으로 한국 현대 문화를 일본어로 소개하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 한국 현대 문화를 일본어로 소개하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 한국 현대 문화를 일본어로 소개하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일본어:[관어 06-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.2776cb713a83222adb8b",
+   "titleKorean": "관광 서비스 — 관광 서비스의 개념과 주요 특징을 이해하기",
+   "subjectKorean": "관광 서비스",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 서비스의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 서비스의 관광 서비스의 이해 영역에서 관광 서비스의 개념과 주요 특징을 이해하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광 서비스의 개념과 주요 특징을 이해하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광 서비스의 개념과 주요 특징을 이해하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-서비스:[관서 01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.277cebcae16725d8d5a7",
+   "titleKorean": "관광 문화와 자원 — 관광 자원의 역할을 살펴보고, 기능에 대해 설명하기",
+   "subjectKorean": "관광 문화와 자원",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 자원의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 문화와 자원의 관광 자원의 이해 영역에서 관광 자원의 역할을 살펴보고, 기능에 대해 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광 자원의 역할을 살펴보고, 기능에 대해 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광 자원의 역할을 살펴보고, 기능에 대해 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-문화와-자원:[관문 02-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.2974190816e60149924a",
+   "titleKorean": "관광 중국어 — 외국인 관광객을 대상으로 식음료 업장에서 자리 안내와 주문 응대를 중국어로 수행하기",
+   "subjectKorean": "관광 중국어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "식음료 서비스 회화",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 중국어의 식음료 서비스 회화 영역에서 외국인 관광객을 대상으로 식음료 업장에서 자리 안내와 주문 응대를 중국어로 수행하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 식음료 업장에서 자리 안내와 주문 응대를 중국어로 수행하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 식음료 업장에서 자리 안내와 주문 응대를 중국어로 수행하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-중국어:[관중 04-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.2d2bdb9bd780aeb6dc79",
+   "titleKorean": "관광 콘텐츠 개발 — 관광 콘텐츠의 개념과 분류를 설명하기",
+   "subjectKorean": "관광 콘텐츠 개발",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 콘텐츠 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 콘텐츠 개발의 관광 콘텐츠 이해 영역에서 관광 콘텐츠의 개념과 분류를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광 콘텐츠의 개념과 분류를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광 콘텐츠의 개념과 분류를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-콘텐츠-개발:[관콘 01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.2dcbae78dd46def7f78d",
+   "titleKorean": "관광 콘텐츠 개발 — 지속가능한 관광 콘텐츠의 특징을 설명하기",
+   "subjectKorean": "관광 콘텐츠 개발",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 콘텐츠의 미래",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 콘텐츠 개발의 관광 콘텐츠의 미래 영역에서 지속가능한 관광 콘텐츠의 특징을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 지속가능한 관광 콘텐츠의 특징을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "지속가능한 관광 콘텐츠의 특징을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-콘텐츠-개발:[관콘 06-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.2e0300abac22d8e3b1fe",
+   "titleKorean": "관광 콘텐츠 개발 — 관광 콘텐츠의 중요성을 설명하기",
+   "subjectKorean": "관광 콘텐츠 개발",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 콘텐츠 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 콘텐츠 개발의 관광 콘텐츠 이해 영역에서 관광 콘텐츠의 중요성을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광 콘텐츠의 중요성을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광 콘텐츠의 중요성을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-콘텐츠-개발:[관콘 01-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.2f77f771e309b629b967",
+   "titleKorean": "관광 서비스 — 의전의 개념과 의전 업무 및 행사의 구성을 설명하고, 상황에 맞는 의전 매너를 수행하기",
+   "subjectKorean": "관광 서비스",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 서비스 매너",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 서비스의 관광 서비스 매너 영역에서 의전의 개념과 의전 업무 및 행사의 구성을 설명하고, 상황에 맞는 의전 매너를 수행하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 의전의 개념과 의전 업무 및 행사의 구성을 설명하고, 상황에 맞는 의전 매너를 수행하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "의전의 개념과 의전 업무 및 행사의 구성을 설명하고, 상황에 맞는 의전 매너를 수행하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-서비스:[관서 04-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.30b0781cb8da09016b4c",
+   "titleKorean": "관광 중국어 — 외국인 관광객을 대상으로 인사와 소개를 중국어로 표현하기",
+   "subjectKorean": "관광 중국어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 기초 회화",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 중국어의 관광 기초 회화 영역에서 외국인 관광객을 대상으로 인사와 소개를 중국어로 표현하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 인사와 소개를 중국어로 표현하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 인사와 소개를 중국어로 표현하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-중국어:[관중 01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.34edf24c204ae534a2e0",
+   "titleKorean": "관광 중국어 — 외국인 관광객을 대상으로 위치와 길 안내를 중국어로 표현하기",
+   "subjectKorean": "관광 중국어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 기초 회화",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 중국어의 관광 기초 회화 영역에서 외국인 관광객을 대상으로 위치와 길 안내를 중국어로 표현하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 위치와 길 안내를 중국어로 표현하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 위치와 길 안내를 중국어로 표현하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-중국어:[관중 01-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.3659f03bac2099c0c29c",
+   "titleKorean": "관광 일본어 — 외국인 관광객을 대상으로 여행 서비스 상황에서 발생할 수 있는 고객 불편 사항에 일본어로 응대하기",
+   "subjectKorean": "관광 일본어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "여행 서비스 회화",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 일본어의 여행 서비스 회화 영역에서 외국인 관광객을 대상으로 여행 서비스 상황에서 발생할 수 있는 고객 불편 사항에 일본어로 응대하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 여행 서비스 상황에서 발생할 수 있는 고객 불편 사항에 일본어로 응대하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 여행 서비스 상황에서 발생할 수 있는 고객 불편 사항에 일본어로 응대하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일본어:[관어 02-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.391a0d50cc86666e6048",
+   "titleKorean": "레저 서비스 일반 — 수상 레저 활동을 분류하기",
+   "subjectKorean": "레저 서비스 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "수상 레저 활동",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "레저 서비스 일반의 수상 레저 활동 영역에서 수상 레저 활동을 분류하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 수상 레저 활동을 분류하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "수상 레저 활동을 분류하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-레저-서비스-일반:[레서 05-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.39d4e8b9e08d108d54e3",
+   "titleKorean": "관광 영어 — 외국인 관광객을 대상으로 관광지를 영어로 해설 및 안내하기",
+   "subjectKorean": "관광 영어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 안내 및 해설 업무",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 영어의 관광 안내 및 해설 업무 영역에서 외국인 관광객을 대상으로 관광지를 영어로 해설 및 안내하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 관광지를 영어로 해설 및 안내하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 관광지를 영어로 해설 및 안내하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-영어:[관영 06-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.3a347b9a35d68beca998",
+   "titleKorean": "관광 서비스 — 고객의 불평 원인과 불평 관리의 중요성을 설명하기",
+   "subjectKorean": "관광 서비스",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 고객 불평 관리",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 서비스의 관광 고객 불평 관리 영역에서 고객의 불평 원인과 불평 관리의 중요성을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 고객의 불평 원인과 불평 관리의 중요성을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "고객의 불평 원인과 불평 관리의 중요성을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-서비스:[관서 05-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.3b784e78e8e9ab4fca3e",
+   "titleKorean": "전시･컨벤션･이벤트 일반 — 유니크 베뉴의 개념과 국내에서의 활용 사례를 제시하기",
+   "subjectKorean": "전시･컨벤션･이벤트 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "국제회의 운영 동향",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "전시･컨벤션･이벤트 일반의 국제회의 운영 동향 영역에서 유니크 베뉴의 개념과 국내에서의 활용 사례를 제시하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 유니크 베뉴의 개념과 국내에서의 활용 사례를 제시하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "유니크 베뉴의 개념과 국내에서의 활용 사례를 제시하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 03-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.3d8b6e922356a57238dc",
+   "titleKorean": "관광 중국어 — 외국인 관광객을 대상으로 여행 서비스 상황에서 발생할 수 있는 고객 불편 사항에 중국어로 응대하기",
+   "subjectKorean": "관광 중국어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "여행 서비스 회화",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 중국어의 여행 서비스 회화 영역에서 외국인 관광객을 대상으로 여행 서비스 상황에서 발생할 수 있는 고객 불편 사항에 중국어로 응대하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 여행 서비스 상황에서 발생할 수 있는 고객 불편 사항에 중국어로 응대하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 여행 서비스 상황에서 발생할 수 있는 고객 불편 사항에 중국어로 응대하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-중국어:[관중 02-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.4231a3cb9675438d4866",
+   "titleKorean": "관광 서비스 — 정보 보안 및 개인 정보 보호를 절차에 따라 수행하기",
+   "subjectKorean": "관광 서비스",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 서비스 직업 윤리 및 안전 관리",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 서비스의 관광 서비스 직업 윤리 및 안전 관리 영역에서 정보 보안 및 개인 정보 보호를 절차에 따라 수행하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 정보 보안 및 개인 정보 보호를 절차에 따라 수행하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "정보 보안 및 개인 정보 보호를 절차에 따라 수행하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-서비스:[관서 06-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.43566456c36563bd2814",
+   "titleKorean": "레저 서비스 일반 — 항공 레저 활동을 분류하기",
+   "subjectKorean": "레저 서비스 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "항공 레저 활동",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "레저 서비스 일반의 항공 레저 활동 영역에서 항공 레저 활동을 분류하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 항공 레저 활동을 분류하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "항공 레저 활동을 분류하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-레저-서비스-일반:[레서 06-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.44aa8330107ed160e164",
+   "titleKorean": "레저 서비스 일반 — 카지노의 개념과 특징, 현황 및 카지노업의 주요 직무를 설명하기",
+   "subjectKorean": "레저 서비스 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "레저 서비스 사업",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "레저 서비스 일반의 레저 서비스 사업 영역에서 카지노의 개념과 특징, 현황 및 카지노업의 주요 직무를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 카지노의 개념과 특징, 현황 및 카지노업의 주요 직무를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "카지노의 개념과 특징, 현황 및 카지노업의 주요 직무를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-레저-서비스-일반:[레서 03-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.45c855cfe39c7b8a04b5",
+   "titleKorean": "관광 일반 — 관광 관련 국내외 행정 기관과 단체를 탐색하고, 그 주요 활동을 설명하기",
+   "subjectKorean": "관광 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광법과 행정 기구",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 일반의 관광법과 행정 기구 영역에서 관광 관련 국내외 행정 기관과 단체를 탐색하고, 그 주요 활동을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광 관련 국내외 행정 기관과 단체를 탐색하고, 그 주요 활동을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광 관련 국내외 행정 기관과 단체를 탐색하고, 그 주요 활동을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일반:[관일 05-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.4725d297db62ef040133",
+   "titleKorean": "관광 콘텐츠 개발 — 관광 콘텐츠의 홍보 및 마케팅 전략을 수립하기",
+   "subjectKorean": "관광 콘텐츠 개발",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 콘텐츠 상품화",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 콘텐츠 개발의 관광 콘텐츠 상품화 영역에서 관광 콘텐츠의 홍보 및 마케팅 전략을 수립하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광 콘텐츠의 홍보 및 마케팅 전략을 수립하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광 콘텐츠의 홍보 및 마케팅 전략을 수립하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-콘텐츠-개발:[관콘 05-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.47ac2a67ca6938f9249e",
+   "titleKorean": "관광 중국어 — 외국인 관광객을 대상으로 공항에서 중국어로 환영하고 환송하기",
+   "subjectKorean": "관광 중국어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "여행 서비스 회화",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 중국어의 여행 서비스 회화 영역에서 외국인 관광객을 대상으로 공항에서 중국어로 환영하고 환송하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 공항에서 중국어로 환영하고 환송하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 공항에서 중국어로 환영하고 환송하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-중국어:[관중 02-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.486a89568223cccb6bc8",
+   "titleKorean": "관광 중국어 — 외국인 관광객을 대상으로 체크인, 출국 심사, 입국 심사 등의 지원을 중국어로 수행하기",
+   "subjectKorean": "관광 중국어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "여행 서비스 회화",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 중국어의 여행 서비스 회화 영역에서 외국인 관광객을 대상으로 체크인, 출국 심사, 입국 심사 등의 지원을 중국어로 수행하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 체크인, 출국 심사, 입국 심사 등의 지원을 중국어로 수행하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 체크인, 출국 심사, 입국 심사 등의 지원을 중국어로 수행하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-중국어:[관중 02-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.48b0e7e037691c7ec8bf",
+   "titleKorean": "관광 일본어 — 외국인 관광객을 대상으로 공항에서 일본어로 환영하고 환송하기",
+   "subjectKorean": "관광 일본어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "여행 서비스 회화",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 일본어의 여행 서비스 회화 영역에서 외국인 관광객을 대상으로 공항에서 일본어로 환영하고 환송하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 공항에서 일본어로 환영하고 환송하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 공항에서 일본어로 환영하고 환송하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일본어:[관어 02-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.48b3498c5199bef3f752",
+   "titleKorean": "관광 일본어 — 외국인 관광객을 대상으로 호텔 객실 예약에 대한 응대를 일본어로 수행하기",
+   "subjectKorean": "관광 일본어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "호텔 서비스 회화",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 일본어의 호텔 서비스 회화 영역에서 외국인 관광객을 대상으로 호텔 객실 예약에 대한 응대를 일본어로 수행하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 호텔 객실 예약에 대한 응대를 일본어로 수행하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 호텔 객실 예약에 대한 응대를 일본어로 수행하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일본어:[관어 03-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.4986f261440c79d54b49",
+   "titleKorean": "관광 일반 — 관광 자원과 관광 개발의 현황을 분석하고, 관광 자원 및 관광 개발의 사례를 발표하기",
+   "subjectKorean": "관광 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 대상",
+   "facetKey": null,
+   "types": [
+    "meta"
+   ],
+   "description": "관광 일반의 관광 대상 영역에서 관광 자원과 관광 개발의 현황을 분석하고, 관광 자원 및 관광 개발의 사례를 발표하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광 자원과 관광 개발의 현황을 분석하고, 관광 자원 및 관광 개발의 사례를 발표하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광 자원과 관광 개발의 현황을 분석하고, 관광 자원 및 관광 개발의 사례를 발표하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일반:[관일 02-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.4b2bf39cede9a609101a",
+   "titleKorean": "관광 콘텐츠 개발 — 관광 콘텐츠 제작물 자료를 찾아낼 수 있다",
+   "subjectKorean": "관광 콘텐츠 개발",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 콘텐츠 제작 실습",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 콘텐츠 개발의 관광 콘텐츠 제작 실습 영역에서 관광 콘텐츠 제작물 자료를 찾아낼 수 있다를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광 콘텐츠 제작물 자료를 찾아낼 수 있다와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광 콘텐츠 제작물 자료를 찾아낼 수 있다와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-콘텐츠-개발:[관콘 04-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.4b54dcbc8f92f9ca2a42",
+   "titleKorean": "전시･컨벤션･이벤트 일반 — 국내외 축제 이벤트 현황에 대해 설명하기",
+   "subjectKorean": "전시･컨벤션･이벤트 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "이벤트 산업",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "전시･컨벤션･이벤트 일반의 이벤트 산업 영역에서 국내외 축제 이벤트 현황에 대해 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 국내외 축제 이벤트 현황에 대해 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "국내외 축제 이벤트 현황에 대해 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 06-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.4cf4eee23b230fe9f1ec",
+   "titleKorean": "관광 중국어 — 외국인 관광객을 대상으로 호텔 객실 예약에 대한 응대를 중국어로 수행하기",
+   "subjectKorean": "관광 중국어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "호텔 서비스 회화",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 중국어의 호텔 서비스 회화 영역에서 외국인 관광객을 대상으로 호텔 객실 예약에 대한 응대를 중국어로 수행하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 호텔 객실 예약에 대한 응대를 중국어로 수행하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 호텔 객실 예약에 대한 응대를 중국어로 수행하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-중국어:[관중 03-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.4daee5c9fe6f0e07bf23",
+   "titleKorean": "관광 일반 — 관광객 이용시설업, 관광객 편의시설업, 유원시설업의 개념과 종류를 설명하기",
+   "subjectKorean": "관광 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 사업",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 일반의 관광 사업 영역에서 관광객 이용시설업, 관광객 편의시설업, 유원시설업의 개념과 종류를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광객 이용시설업, 관광객 편의시설업, 유원시설업의 개념과 종류를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광객 이용시설업, 관광객 편의시설업, 유원시설업의 개념과 종류를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일반:[관일 03-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.4e794bb42dc79da2693d",
+   "titleKorean": "관광 일본어 — 외국인 관광객을 대상으로 관광지를 일본어로 해설 및 안내하기",
+   "subjectKorean": "관광 일본어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 안내 및 해설 업무",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 일본어의 관광 안내 및 해설 업무 영역에서 외국인 관광객을 대상으로 관광지를 일본어로 해설 및 안내하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 관광지를 일본어로 해설 및 안내하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 관광지를 일본어로 해설 및 안내하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일본어:[관어 06-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.4e8172b0518126447718",
+   "titleKorean": "관광 일본어 — 외국인 관광객을 대상으로 식음료 서비스 상황에서 발생할 수 있는 고객 불편 사항에 일본어 로 응대하기",
+   "subjectKorean": "관광 일본어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "식음료 서비스 회화",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 일본어의 식음료 서비스 회화 영역에서 외국인 관광객을 대상으로 식음료 서비스 상황에서 발생할 수 있는 고객 불편 사항에 일본어 로 응대하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 식음료 서비스 상황에서 발생할 수 있는 고객 불편 사항에 일본어 로 응대하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 식음료 서비스 상황에서 발생할 수 있는 고객 불편 사항에 일본어 로 응대하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일본어:[관어 04-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.4e9051ddc92127f5e0a2",
+   "titleKorean": "관광 영어 — 외국인 관광객을 대상으로 여행 상품을 영어로 설명하고 추천하며, 예약 업무를 수행하기",
+   "subjectKorean": "관광 영어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "여행 서비스 회화",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 영어의 여행 서비스 회화 영역에서 외국인 관광객을 대상으로 여행 상품을 영어로 설명하고 추천하며, 예약 업무를 수행하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 여행 상품을 영어로 설명하고 추천하며, 예약 업무를 수행하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 여행 상품을 영어로 설명하고 추천하며, 예약 업무를 수행하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-영어:[관영 02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.4ee1bce3330f786ee7c8",
+   "titleKorean": "전시･컨벤션･이벤트 일반 — 국내에서의 국제회의 개최 현황과 해외에서의 개최 현황을 비교하기",
+   "subjectKorean": "전시･컨벤션･이벤트 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "국제회의 운영 동향",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "전시･컨벤션･이벤트 일반의 국제회의 운영 동향 영역에서 국내에서의 국제회의 개최 현황과 해외에서의 개최 현황을 비교하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 국내에서의 국제회의 개최 현황과 해외에서의 개최 현황을 비교하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "국내에서의 국제회의 개최 현황과 해외에서의 개최 현황을 비교하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 03-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.4fa745289642f726be08",
+   "titleKorean": "관광 콘텐츠 개발 — 관광 콘텐츠 기획서를 구성하기",
+   "subjectKorean": "관광 콘텐츠 개발",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 콘텐츠 기획",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 콘텐츠 개발의 관광 콘텐츠 기획 영역에서 관광 콘텐츠 기획서를 구성하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광 콘텐츠 기획서를 구성하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광 콘텐츠 기획서를 구성하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-콘텐츠-개발:[관콘 03-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.58f22c58e47318e503d6",
+   "titleKorean": "관광 일반 — 관광 시장, 관광 산업, 관광 자원의 환경 변화를 분석하고 발표하기",
+   "subjectKorean": "관광 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광과 정보",
+   "facetKey": null,
+   "types": [
+    "meta"
+   ],
+   "description": "관광 일반의 관광과 정보 영역에서 관광 시장, 관광 산업, 관광 자원의 환경 변화를 분석하고 발표하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광 시장, 관광 산업, 관광 자원의 환경 변화를 분석하고 발표하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광 시장, 관광 산업, 관광 자원의 환경 변화를 분석하고 발표하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일반:[관일 04-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.5a956be21816721f59c7",
+   "titleKorean": "관광 문화와 자원 — 자연 관광 자원의 의미와 특성을 다른 자원 유형들과 비교하여 제시하기",
+   "subjectKorean": "관광 문화와 자원",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 자원 유형",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 문화와 자원의 관광 자원 유형 영역에서 자연 관광 자원의 의미와 특성을 다른 자원 유형들과 비교하여 제시하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 자연 관광 자원의 의미와 특성을 다른 자원 유형들과 비교하여 제시하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "자연 관광 자원의 의미와 특성을 다른 자원 유형들과 비교하여 제시하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-문화와-자원:[관문 03-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.5ae7b6e783765740e10e",
+   "titleKorean": "레저 서비스 일반 — 테마파크의 개념과 특징, 현황 및 테마파크업의 주요 직무를 설명하기",
+   "subjectKorean": "레저 서비스 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "레저 서비스 사업",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "레저 서비스 일반의 레저 서비스 사업 영역에서 테마파크의 개념과 특징, 현황 및 테마파크업의 주요 직무를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 테마파크의 개념과 특징, 현황 및 테마파크업의 주요 직무를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "테마파크의 개념과 특징, 현황 및 테마파크업의 주요 직무를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-레저-서비스-일반:[레서 03-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.5eada03b5b44e7507e82",
+   "titleKorean": "관광 콘텐츠 개발 — 관광 콘텐츠의 환경 변화를 설명하기",
+   "subjectKorean": "관광 콘텐츠 개발",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 콘텐츠 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 콘텐츠 개발의 관광 콘텐츠 이해 영역에서 관광 콘텐츠의 환경 변화를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광 콘텐츠의 환경 변화를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광 콘텐츠의 환경 변화를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-콘텐츠-개발:[관콘 01-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.5f24d68a8810ec8668c7",
+   "titleKorean": "전시･컨벤션･이벤트 일반 — 하이브리드 마이스의 개념과 추세에 대해 설명하기",
+   "subjectKorean": "전시･컨벤션･이벤트 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "마이스(MICE) 산업 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "전시･컨벤션･이벤트 일반의 마이스(MICE) 산업 이해 영역에서 하이브리드 마이스의 개념과 추세에 대해 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 하이브리드 마이스의 개념과 추세에 대해 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "하이브리드 마이스의 개념과 추세에 대해 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 01-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.5fbeb8cb8e3eb4081e8f",
+   "titleKorean": "관광 콘텐츠 개발 — 관광 콘텐츠 아이디어를 제시하기",
+   "subjectKorean": "관광 콘텐츠 개발",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 콘텐츠 기획",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 콘텐츠 개발의 관광 콘텐츠 기획 영역에서 관광 콘텐츠 아이디어를 제시하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광 콘텐츠 아이디어를 제시하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광 콘텐츠 아이디어를 제시하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-콘텐츠-개발:[관콘 03-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.5fda1fd0a44ee086708e",
+   "titleKorean": "레저 서비스 일반 — 레저 산업의 개념을 설명하기",
+   "subjectKorean": "레저 서비스 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "레저 산업의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "레저 서비스 일반의 레저 산업의 이해 영역에서 레저 산업의 개념을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 레저 산업의 개념을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "레저 산업의 개념을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-레저-서비스-일반:[레서 02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.608887e5cb4ff857f58c",
+   "titleKorean": "관광 문화와 자원 — 한류 문화 콘텐츠의 등장 및 확산 과정을 시기별로 구분하여 비교하기",
+   "subjectKorean": "관광 문화와 자원",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "한류 문화 콘텐츠",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 문화와 자원의 한류 문화 콘텐츠 영역에서 한류 문화 콘텐츠의 등장 및 확산 과정을 시기별로 구분하여 비교하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 한류 문화 콘텐츠의 등장 및 확산 과정을 시기별로 구분하여 비교하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "한류 문화 콘텐츠의 등장 및 확산 과정을 시기별로 구분하여 비교하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-문화와-자원:[관문 05-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.678e05bdbc31b5f35fef",
+   "titleKorean": "관광 중국어 — 외국인 관광객을 대상으로 한국 세계 유산을 중국어로 안내하기",
+   "subjectKorean": "관광 중국어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 안내 및 해설 업무",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 중국어의 관광 안내 및 해설 업무 영역에서 외국인 관광객을 대상으로 한국 세계 유산을 중국어로 안내하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 한국 세계 유산을 중국어로 안내하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 한국 세계 유산을 중국어로 안내하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-중국어:[관중 06-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.683b430ed385e6ea734e",
+   "titleKorean": "관광 일본어 — 외국인 관광객을 대상으로 호텔 서비스 상황에서 발생할 수 있는 고객 불편 사항에 일본어로 응대하기",
+   "subjectKorean": "관광 일본어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "호텔 서비스 회화",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 일본어의 호텔 서비스 회화 영역에서 외국인 관광객을 대상으로 호텔 서비스 상황에서 발생할 수 있는 고객 불편 사항에 일본어로 응대하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 호텔 서비스 상황에서 발생할 수 있는 고객 불편 사항에 일본어로 응대하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 호텔 서비스 상황에서 발생할 수 있는 고객 불편 사항에 일본어로 응대하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일본어:[관어 03-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.68c374d0f312c59a3d4e",
+   "titleKorean": "레저 서비스 일반 — 지상 레저 활동을 분류하기",
+   "subjectKorean": "레저 서비스 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "지상 레저 활동",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "레저 서비스 일반의 지상 레저 활동 영역에서 지상 레저 활동을 분류하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 지상 레저 활동을 분류하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "지상 레저 활동을 분류하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-레저-서비스-일반:[레서 04-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.69e35894b889155cbeb2",
+   "titleKorean": "관광 일반 — 디지털 기술 기반의 스마트 관광의 개념과 스마트 관광 콘텐츠를 설명하기",
+   "subjectKorean": "관광 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광과 정보",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 일반의 관광과 정보 영역에서 디지털 기술 기반의 스마트 관광의 개념과 스마트 관광 콘텐츠를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 디지털 기술 기반의 스마트 관광의 개념과 스마트 관광 콘텐츠를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "디지털 기술 기반의 스마트 관광의 개념과 스마트 관광 콘텐츠를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일반:[관일 04-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.6a39b483f1a9cfe77cc5",
+   "titleKorean": "관광 서비스 — 비대면 관광 서비스 접점의 개념과 중요성을 이해하기",
+   "subjectKorean": "관광 서비스",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 서비스의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 서비스의 관광 서비스의 이해 영역에서 비대면 관광 서비스 접점의 개념과 중요성을 이해하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 비대면 관광 서비스 접점의 개념과 중요성을 이해하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "비대면 관광 서비스 접점의 개념과 중요성을 이해하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-서비스:[관서 01-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.6a49bab8f736fc8b73ca",
+   "titleKorean": "관광 콘텐츠 개발 — 관광 콘텐츠 고객을 정의하고 시장 조사를 통해 트렌드를 파악하기",
+   "subjectKorean": "관광 콘텐츠 개발",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 콘텐츠 기획",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 콘텐츠 개발의 관광 콘텐츠 기획 영역에서 관광 콘텐츠 고객을 정의하고 시장 조사를 통해 트렌드를 파악하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광 콘텐츠 고객을 정의하고 시장 조사를 통해 트렌드를 파악하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광 콘텐츠 고객을 정의하고 시장 조사를 통해 트렌드를 파악하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-콘텐츠-개발:[관콘 03-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.6ab414e92a9f022747d3",
+   "titleKorean": "관광 일반 — 해설 관광 자원에 따라 고객들에게 전달할 핵심 스토리를 발굴하기",
+   "subjectKorean": "관광 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 대상",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 일반의 관광 대상 영역에서 해설 관광 자원에 따라 고객들에게 전달할 핵심 스토리를 발굴하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 해설 관광 자원에 따라 고객들에게 전달할 핵심 스토리를 발굴하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "해설 관광 자원에 따라 고객들에게 전달할 핵심 스토리를 발굴하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일반:[관일 02-05]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.6b3aa3c3743abc8026b3",
+   "titleKorean": "관광 서비스 — 고객 불평 대처 방법을 익혀 고객 불평에 잘 대처하기",
+   "subjectKorean": "관광 서비스",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 고객 불평 관리",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 서비스의 관광 고객 불평 관리 영역에서 고객 불평 대처 방법을 익혀 고객 불평에 잘 대처하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 고객 불평 대처 방법을 익혀 고객 불평에 잘 대처하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "고객 불평 대처 방법을 익혀 고객 불평에 잘 대처하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-서비스:[관서 05-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.6c93c177a3d3e36c08bc",
+   "titleKorean": "전시･컨벤션･이벤트 일반 — 전시회의 개념을 이해하고, 전시회의 유형을 분류하기",
+   "subjectKorean": "전시･컨벤션･이벤트 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "전시 산업 특성",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "전시･컨벤션･이벤트 일반의 전시 산업 특성 영역에서 전시회의 개념을 이해하고, 전시회의 유형을 분류하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 전시회의 개념을 이해하고, 전시회의 유형을 분류하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "전시회의 개념을 이해하고, 전시회의 유형을 분류하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 04-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.6c98eaec4c694684d574",
+   "titleKorean": "레저 서비스 일반 — 주요 지상 레저 활동의 규칙 및 장비의 활용법과 관리 요령을 익혀 안전한 지상 레저 서비스 를 수행하기",
+   "subjectKorean": "레저 서비스 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "지상 레저 활동",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "레저 서비스 일반의 지상 레저 활동 영역에서 주요 지상 레저 활동의 규칙 및 장비의 활용법과 관리 요령을 익혀 안전한 지상 레저 서비스 를 수행하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 주요 지상 레저 활동의 규칙 및 장비의 활용법과 관리 요령을 익혀 안전한 지상 레저 서비스 를 수행하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "주요 지상 레저 활동의 규칙 및 장비의 활용법과 관리 요령을 익혀 안전한 지상 레저 서비스 를 수행하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-레저-서비스-일반:[레서 04-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.6dc098b8a1760be87743",
+   "titleKorean": "관광 영어 — 외국인 관광객을 대상으로 체크인, 출국 심사, 입국 심사 등의 지원을 영어로 수행하기",
+   "subjectKorean": "관광 영어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "여행 서비스 회화",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 영어의 여행 서비스 회화 영역에서 외국인 관광객을 대상으로 체크인, 출국 심사, 입국 심사 등의 지원을 영어로 수행하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 체크인, 출국 심사, 입국 심사 등의 지원을 영어로 수행하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 체크인, 출국 심사, 입국 심사 등의 지원을 영어로 수행하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-영어:[관영 02-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.6e8ff67e4e09c0bf8064",
+   "titleKorean": "전시･컨벤션･이벤트 일반 — 이벤트의 유형을 주최별, 규모별, 목적별로 구분하여 설명하기",
+   "subjectKorean": "전시･컨벤션･이벤트 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "이벤트 산업",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "전시･컨벤션･이벤트 일반의 이벤트 산업 영역에서 이벤트의 유형을 주최별, 규모별, 목적별로 구분하여 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 이벤트의 유형을 주최별, 규모별, 목적별로 구분하여 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "이벤트의 유형을 주최별, 규모별, 목적별로 구분하여 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 06-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.6ee4b195c4e0f09d12e1",
+   "titleKorean": "관광 서비스 — 관광 서비스 종사자에게 적합한 용모, 복장, 메이크업 방법을 수행하기",
+   "subjectKorean": "관광 서비스",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "이미지 메이킹",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 서비스의 이미지 메이킹 영역에서 관광 서비스 종사자에게 적합한 용모, 복장, 메이크업 방법을 수행하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광 서비스 종사자에게 적합한 용모, 복장, 메이크업 방법을 수행하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광 서비스 종사자에게 적합한 용모, 복장, 메이크업 방법을 수행하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-서비스:[관서 03-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.736d691a7a514a0cf490",
+   "titleKorean": "관광 일본어 — 외국인 관광객을 대상으로 날짜와 시간, 숫자를 일본어로 표현하기",
+   "subjectKorean": "관광 일본어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 기초 회화",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 일본어의 관광 기초 회화 영역에서 외국인 관광객을 대상으로 날짜와 시간, 숫자를 일본어로 표현하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 날짜와 시간, 숫자를 일본어로 표현하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 날짜와 시간, 숫자를 일본어로 표현하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일본어:[관어 01-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.7475abbfd9602e03bf6a",
+   "titleKorean": "관광 서비스 — 대면 관광 서비스 접점의 개념과 중요성을 이해하기",
+   "subjectKorean": "관광 서비스",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 서비스의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 서비스의 관광 서비스의 이해 영역에서 대면 관광 서비스 접점의 개념과 중요성을 이해하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 대면 관광 서비스 접점의 개념과 중요성을 이해하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "대면 관광 서비스 접점의 개념과 중요성을 이해하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-서비스:[관서 01-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.752d2beaf79e9cab2016",
+   "titleKorean": "관광 일본어 — 외국인 관광객을 대상으로 여행 상품을 일본어로 설명하고 추천하며, 예약 업무를 수행하기",
+   "subjectKorean": "관광 일본어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "여행 서비스 회화",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 일본어의 여행 서비스 회화 영역에서 외국인 관광객을 대상으로 여행 상품을 일본어로 설명하고 추천하며, 예약 업무를 수행하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 여행 상품을 일본어로 설명하고 추천하며, 예약 업무를 수행하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 여행 상품을 일본어로 설명하고 추천하며, 예약 업무를 수행하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일본어:[관어 02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.7917482595b3a54a9a1a",
+   "titleKorean": "관광 일본어 — 외국인 관광객을 대상으로 판매 서비스 상황에서 발생할 수 있는 고객 불편 사항에 일본어로 응대하기",
+   "subjectKorean": "관광 일본어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 상품 판매 회화",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 일본어의 관광 상품 판매 회화 영역에서 외국인 관광객을 대상으로 판매 서비스 상황에서 발생할 수 있는 고객 불편 사항에 일본어로 응대하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 판매 서비스 상황에서 발생할 수 있는 고객 불편 사항에 일본어로 응대하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 판매 서비스 상황에서 발생할 수 있는 고객 불편 사항에 일본어로 응대하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일본어:[관어 05-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.7936d8319b0ae65fbd50",
+   "titleKorean": "관광 문화와 자원 — 사회 관광 자원의 개념과 유형을 설명하기",
+   "subjectKorean": "관광 문화와 자원",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 자원 유형",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 문화와 자원의 관광 자원 유형 영역에서 사회 관광 자원의 개념과 유형을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 사회 관광 자원의 개념과 유형을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "사회 관광 자원의 개념과 유형을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-문화와-자원:[관문 03-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.7af1e4acf39b93ee42ff",
+   "titleKorean": "전시･컨벤션･이벤트 일반 — 미팅 테크놀로지의 등장 배경과 최신 동향을 분석하기",
+   "subjectKorean": "전시･컨벤션･이벤트 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "국제회의 운영 동향",
+   "facetKey": null,
+   "types": [
+    "meta"
+   ],
+   "description": "전시･컨벤션･이벤트 일반의 국제회의 운영 동향 영역에서 미팅 테크놀로지의 등장 배경과 최신 동향을 분석하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 미팅 테크놀로지의 등장 배경과 최신 동향을 분석하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "미팅 테크놀로지의 등장 배경과 최신 동향을 분석하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 03-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.7c78cfd556da5cf1bc79",
+   "titleKorean": "관광 서비스 — 고객 서비스 품질의 개념, 특성 및 품질 관리의 의미를 이해하기",
+   "subjectKorean": "관광 서비스",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "고객의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 서비스의 고객의 이해 영역에서 고객 서비스 품질의 개념, 특성 및 품질 관리의 의미를 이해하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 고객 서비스 품질의 개념, 특성 및 품질 관리의 의미를 이해하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "고객 서비스 품질의 개념, 특성 및 품질 관리의 의미를 이해하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-서비스:[관서 02-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.7c825be5957fcf251b2a",
+   "titleKorean": "관광 문화와 자원 — 한류 문화 콘텐츠의 유형별 특성을 제시하기",
+   "subjectKorean": "관광 문화와 자원",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "한류 문화 콘텐츠",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 문화와 자원의 한류 문화 콘텐츠 영역에서 한류 문화 콘텐츠의 유형별 특성을 제시하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 한류 문화 콘텐츠의 유형별 특성을 제시하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "한류 문화 콘텐츠의 유형별 특성을 제시하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-문화와-자원:[관문 05-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.7eeafb3df376345a555f",
+   "titleKorean": "관광 일반 — 관광객의 개념과 유형별 특징을 설명하기",
+   "subjectKorean": "관광 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 일반의 관광의 이해 영역에서 관광객의 개념과 유형별 특징을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광객의 개념과 유형별 특징을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광객의 개념과 유형별 특징을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일반:[관일 01-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.8261b793f60db4404a68",
+   "titleKorean": "관광 일본어 — 외국인 관광객을 대상으로 상품을 일본어로 설명하고, 추천하기",
+   "subjectKorean": "관광 일본어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 상품 판매 회화",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 일본어의 관광 상품 판매 회화 영역에서 외국인 관광객을 대상으로 상품을 일본어로 설명하고, 추천하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 상품을 일본어로 설명하고, 추천하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 상품을 일본어로 설명하고, 추천하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일본어:[관어 05-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.829a271cc469bc5dc83b",
+   "titleKorean": "관광 문화와 자원 — 생태 관광의 개념과 특성을 설명하기",
+   "subjectKorean": "관광 문화와 자원",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "지속가능 생태계 콘텐츠",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 문화와 자원의 지속가능 생태계 콘텐츠 영역에서 생태 관광의 개념과 특성을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 생태 관광의 개념과 특성을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "생태 관광의 개념과 특성을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-문화와-자원:[관문 04-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.82c470ce2cfdc016bd9a",
+   "titleKorean": "관광 영어 — 외국인 관광객을 대상으로 위치와 길 안내를 영어로 표현하기",
+   "subjectKorean": "관광 영어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 기초 회화",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 영어의 관광 기초 회화 영역에서 외국인 관광객을 대상으로 위치와 길 안내를 영어로 표현하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 위치와 길 안내를 영어로 표현하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 위치와 길 안내를 영어로 표현하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-영어:[관영 01-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.84206f9f0bdc5e832678",
+   "titleKorean": "레저 서비스 일반 — 주요 수상 레저 활동을 즐길 수 있는 장소와 활용되는 장비의 특징을 설명하기",
+   "subjectKorean": "레저 서비스 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "수상 레저 활동",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "레저 서비스 일반의 수상 레저 활동 영역에서 주요 수상 레저 활동을 즐길 수 있는 장소와 활용되는 장비의 특징을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 주요 수상 레저 활동을 즐길 수 있는 장소와 활용되는 장비의 특징을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "주요 수상 레저 활동을 즐길 수 있는 장소와 활용되는 장비의 특징을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-레저-서비스-일반:[레서 05-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.844092fd9c9caf9cfc9b",
+   "titleKorean": "레저 서비스 일반 — 4차 산업 혁명 시대를 맞이하여 디지털 기술의 발전으로 구현되는 다양한 형태의 비대면/온 라인 레저 활동 사례를 탐색하기",
+   "subjectKorean": "레저 서비스 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "레저 산업의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "레저 서비스 일반의 레저 산업의 이해 영역에서 4차 산업 혁명 시대를 맞이하여 디지털 기술의 발전으로 구현되는 다양한 형태의 비대면/온 라인 레저 활동 사례를 탐색하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 4차 산업 혁명 시대를 맞이하여 디지털 기술의 발전으로 구현되는 다양한 형태의 비대면/온 라인 레저 활동 사례를 탐색하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "4차 산업 혁명 시대를 맞이하여 디지털 기술의 발전으로 구현되는 다양한 형태의 비대면/온 라인 레저 활동 사례를 탐색하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-레저-서비스-일반:[레서 02-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.85fd6d6c40fabd8e3c96",
+   "titleKorean": "관광 영어 — 외국인 관광객을 대상으로 공항에서 영어로 환영하고, 환송하기",
+   "subjectKorean": "관광 영어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "여행 서비스 회화",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 영어의 여행 서비스 회화 영역에서 외국인 관광객을 대상으로 공항에서 영어로 환영하고, 환송하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 공항에서 영어로 환영하고, 환송하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 공항에서 영어로 환영하고, 환송하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-영어:[관영 02-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.86e05f15b030a9effba2",
+   "titleKorean": "레저 서비스 일반 — 주요 지상 레저 활동을 즐길 수 있는 장소와 활용되는 장비의 특징을 설명하기",
+   "subjectKorean": "레저 서비스 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "지상 레저 활동",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "레저 서비스 일반의 지상 레저 활동 영역에서 주요 지상 레저 활동을 즐길 수 있는 장소와 활용되는 장비의 특징을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 주요 지상 레저 활동을 즐길 수 있는 장소와 활용되는 장비의 특징을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "주요 지상 레저 활동을 즐길 수 있는 장소와 활용되는 장비의 특징을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-레저-서비스-일반:[레서 04-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.8750c6f14f117eb9a58b",
+   "titleKorean": "전시･컨벤션･이벤트 일반 — 국제회의산업 육성의 목적과 정의, 국제회의 종류를 제시하고 있는 국제회의산업 육성에 관 한 법률을 설명하기",
+   "subjectKorean": "전시･컨벤션･이벤트 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "국제회의산업",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "전시･컨벤션･이벤트 일반의 국제회의산업 영역에서 국제회의산업 육성의 목적과 정의, 국제회의 종류를 제시하고 있는 국제회의산업 육성에 관 한 법률을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 국제회의산업 육성의 목적과 정의, 국제회의 종류를 제시하고 있는 국제회의산업 육성에 관 한 법률을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "국제회의산업 육성의 목적과 정의, 국제회의 종류를 제시하고 있는 국제회의산업 육성에 관 한 법률을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 02-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.89a296e48cd4c04f93e5",
+   "titleKorean": "전시･컨벤션･이벤트 일반 — 전시장의 현황을 국내 및 해외로 구분하여 설명하기",
+   "subjectKorean": "전시･컨벤션･이벤트 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "전시 산업 현황",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "전시･컨벤션･이벤트 일반의 전시 산업 현황 영역에서 전시장의 현황을 국내 및 해외로 구분하여 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 전시장의 현황을 국내 및 해외로 구분하여 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "전시장의 현황을 국내 및 해외로 구분하여 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 05-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.8b4e4436022c517b1b4c",
+   "titleKorean": "레저 서비스 일반 — 주요 항공 레저 활동의 규칙 및 장비의 활용법과 관리 요령 등을 설명하기",
+   "subjectKorean": "레저 서비스 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "항공 레저 활동",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "레저 서비스 일반의 항공 레저 활동 영역에서 주요 항공 레저 활동의 규칙 및 장비의 활용법과 관리 요령 등을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 주요 항공 레저 활동의 규칙 및 장비의 활용법과 관리 요령 등을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "주요 항공 레저 활동의 규칙 및 장비의 활용법과 관리 요령 등을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-레저-서비스-일반:[레서 06-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.8e305ba70b87e15acc51",
+   "titleKorean": "관광 일본어 — 외국인 관광객을 대상으로 호텔 체크인 및 체크아웃에 대한 응대를 일본어로 수행하기",
+   "subjectKorean": "관광 일본어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "호텔 서비스 회화",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 일본어의 호텔 서비스 회화 영역에서 외국인 관광객을 대상으로 호텔 체크인 및 체크아웃에 대한 응대를 일본어로 수행하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 호텔 체크인 및 체크아웃에 대한 응대를 일본어로 수행하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 호텔 체크인 및 체크아웃에 대한 응대를 일본어로 수행하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일본어:[관어 03-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.8e35eb90c69b43d420bd",
+   "titleKorean": "관광 일반 — 관광의 긍정적인 효과와 부정적인 영향에 대해 토론하고 발표하기",
+   "subjectKorean": "관광 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광의 이해",
+   "facetKey": null,
+   "types": [
+    "representational"
+   ],
+   "description": "관광 일반의 관광의 이해 영역에서 관광의 긍정적인 효과와 부정적인 영향에 대해 토론하고 발표하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광의 긍정적인 효과와 부정적인 영향에 대해 토론하고 발표하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광의 긍정적인 효과와 부정적인 영향에 대해 토론하고 발표하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일반:[관일 01-05]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.91134c57f3c7a8635ed2",
+   "titleKorean": "관광 일반 — 관광과 환경의 상관관계에 대해 탐색하고, 관광이 환경에 미치는 영향에 대해 설명하기",
+   "subjectKorean": "관광 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 대상",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 일반의 관광 대상 영역에서 관광과 환경의 상관관계에 대해 탐색하고, 관광이 환경에 미치는 영향에 대해 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광과 환경의 상관관계에 대해 탐색하고, 관광이 환경에 미치는 영향에 대해 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광과 환경의 상관관계에 대해 탐색하고, 관광이 환경에 미치는 영향에 대해 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일반:[관일 02-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.91cb72626dfc77ab2541",
+   "titleKorean": "관광 서비스 — 관광 종사자가 갖추어야 할 매너와 에티켓을 익혀 기본 매너와 에티켓을 갖춘 서비스를 수행 하기",
+   "subjectKorean": "관광 서비스",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 서비스 매너",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 서비스의 관광 서비스 매너 영역에서 관광 종사자가 갖추어야 할 매너와 에티켓을 익혀 기본 매너와 에티켓을 갖춘 서비스를 수행 하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광 종사자가 갖추어야 할 매너와 에티켓을 익혀 기본 매너와 에티켓을 갖춘 서비스를 수행 하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광 종사자가 갖추어야 할 매너와 에티켓을 익혀 기본 매너와 에티켓을 갖춘 서비스를 수행 하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-서비스:[관서 04-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.949b83a92f9a391e0ec7",
+   "titleKorean": "관광 중국어 — 외국인 관광객을 대상으로 호텔 서비스 상황에서 발생할 수 있는 고객 불편 사항에 중국어로 응대하기",
+   "subjectKorean": "관광 중국어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "호텔 서비스 회화",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 중국어의 호텔 서비스 회화 영역에서 외국인 관광객을 대상으로 호텔 서비스 상황에서 발생할 수 있는 고객 불편 사항에 중국어로 응대하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 호텔 서비스 상황에서 발생할 수 있는 고객 불편 사항에 중국어로 응대하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 호텔 서비스 상황에서 발생할 수 있는 고객 불편 사항에 중국어로 응대하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-중국어:[관중 03-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.95a106fb5a3f1a398a93",
+   "titleKorean": "관광 콘텐츠 개발 — 관광 콘텐츠 제작물 주제를 선정하기",
+   "subjectKorean": "관광 콘텐츠 개발",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 콘텐츠 제작 실습",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 콘텐츠 개발의 관광 콘텐츠 제작 실습 영역에서 관광 콘텐츠 제작물 주제를 선정하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광 콘텐츠 제작물 주제를 선정하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광 콘텐츠 제작물 주제를 선정하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-콘텐츠-개발:[관콘 04-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.9a46be78f93f5089149a",
+   "titleKorean": "전시･컨벤션･이벤트 일반 — 우리나라 현대 이벤트의 발달 배경과 개념을 설명하기",
+   "subjectKorean": "전시･컨벤션･이벤트 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "이벤트 산업",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "전시･컨벤션･이벤트 일반의 이벤트 산업 영역에서 우리나라 현대 이벤트의 발달 배경과 개념을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 우리나라 현대 이벤트의 발달 배경과 개념을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "우리나라 현대 이벤트의 발달 배경과 개념을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 06-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.9b4ff7ec111b679169d3",
+   "titleKorean": "관광 문화와 자원 — 관광 자원의 다양한 분류 체계에 대해 설명하기",
+   "subjectKorean": "관광 문화와 자원",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 자원의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 문화와 자원의 관광 자원의 이해 영역에서 관광 자원의 다양한 분류 체계에 대해 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광 자원의 다양한 분류 체계에 대해 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광 자원의 다양한 분류 체계에 대해 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-문화와-자원:[관문 02-05]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.9e4afb8227c0fbc84a27",
+   "titleKorean": "관광 중국어 — 외국인 관광객을 대상으로 날짜와 시간, 숫자를 중국어로 표현하기",
+   "subjectKorean": "관광 중국어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 기초 회화",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 중국어의 관광 기초 회화 영역에서 외국인 관광객을 대상으로 날짜와 시간, 숫자를 중국어로 표현하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 날짜와 시간, 숫자를 중국어로 표현하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 날짜와 시간, 숫자를 중국어로 표현하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-중국어:[관중 01-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.9f50d008360f175017e6",
+   "titleKorean": "관광 서비스 — 고객의 개념과 주요 특성을 이해하기",
+   "subjectKorean": "관광 서비스",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "고객의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 서비스의 고객의 이해 영역에서 고객의 개념과 주요 특성을 이해하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 고객의 개념과 주요 특성을 이해하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "고객의 개념과 주요 특성을 이해하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-서비스:[관서 02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.a25f3083d84b9db98bb8",
+   "titleKorean": "관광 문화와 자원 — 관광 자원의 개념을 살펴보고, 유사 용어들과 의미를 구분하기",
+   "subjectKorean": "관광 문화와 자원",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 자원의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 문화와 자원의 관광 자원의 이해 영역에서 관광 자원의 개념을 살펴보고, 유사 용어들과 의미를 구분하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광 자원의 개념을 살펴보고, 유사 용어들과 의미를 구분하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광 자원의 개념을 살펴보고, 유사 용어들과 의미를 구분하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-문화와-자원:[관문 02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.a30631f086df545f6bb0",
+   "titleKorean": "레저 서비스 일반 — 주요 수상 레저 활동의 규칙 및 장비의 활용법과 관리 요령 등을 설명하기",
+   "subjectKorean": "레저 서비스 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "수상 레저 활동",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "레저 서비스 일반의 수상 레저 활동 영역에서 주요 수상 레저 활동의 규칙 및 장비의 활용법과 관리 요령 등을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 주요 수상 레저 활동의 규칙 및 장비의 활용법과 관리 요령 등을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "주요 수상 레저 활동의 규칙 및 장비의 활용법과 관리 요령 등을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-레저-서비스-일반:[레서 05-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.a502be14cd8d02192dac",
+   "titleKorean": "관광 일반 — 관광 종사자로서 알아야 할 관광 법규의 종류를 설명하기",
+   "subjectKorean": "관광 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광법과 행정 기구",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 일반의 관광법과 행정 기구 영역에서 관광 종사자로서 알아야 할 관광 법규의 종류를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광 종사자로서 알아야 할 관광 법규의 종류를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광 종사자로서 알아야 할 관광 법규의 종류를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일반:[관일 05-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.a55412c3935866ce2dee",
+   "titleKorean": "관광 중국어 — 외국인 관광객을 대상으로 여행 상품을 중국어로 설명하고 추천하며, 예약 업무를 수행하기",
+   "subjectKorean": "관광 중국어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "여행 서비스 회화",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 중국어의 여행 서비스 회화 영역에서 외국인 관광객을 대상으로 여행 상품을 중국어로 설명하고 추천하며, 예약 업무를 수행하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 여행 상품을 중국어로 설명하고 추천하며, 예약 업무를 수행하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 여행 상품을 중국어로 설명하고 추천하며, 예약 업무를 수행하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-중국어:[관중 02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.a6db7ef4ed1ce3983c72",
+   "titleKorean": "관광 일본어 — 외국인 관광객을 대상으로 한국 세계 유산을 일본어로 안내하기",
+   "subjectKorean": "관광 일본어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 안내 및 해설 업무",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 일본어의 관광 안내 및 해설 업무 영역에서 외국인 관광객을 대상으로 한국 세계 유산을 일본어로 안내하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 한국 세계 유산을 일본어로 안내하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 한국 세계 유산을 일본어로 안내하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일본어:[관어 06-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.a99c4caac6be5069e0a9",
+   "titleKorean": "관광 중국어 — 외국인 관광객을 대상으로 한국 전통문화를 중국어로 소개하기",
+   "subjectKorean": "관광 중국어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 안내 및 해설 업무",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 중국어의 관광 안내 및 해설 업무 영역에서 외국인 관광객을 대상으로 한국 전통문화를 중국어로 소개하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 한국 전통문화를 중국어로 소개하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 한국 전통문화를 중국어로 소개하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-중국어:[관중 06-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.aa107400d63dc913b6d0",
+   "titleKorean": "관광 일반 — 관광숙박업의 개념과 종류 및 특징을 조사하여 발표하기",
+   "subjectKorean": "관광 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 사업",
+   "facetKey": null,
+   "types": [
+    "representational"
+   ],
+   "description": "관광 일반의 관광 사업 영역에서 관광숙박업의 개념과 종류 및 특징을 조사하여 발표하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광숙박업의 개념과 종류 및 특징을 조사하여 발표하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광숙박업의 개념과 종류 및 특징을 조사하여 발표하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일반:[관일 03-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.aa9ceb8fe92e48163ee9",
+   "titleKorean": "관광 문화와 자원 — 위락 관광 자원의 개념을 이해하고, 유형에 대해 설명하기",
+   "subjectKorean": "관광 문화와 자원",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 자원 유형",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 문화와 자원의 관광 자원 유형 영역에서 위락 관광 자원의 개념을 이해하고, 유형에 대해 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 위락 관광 자원의 개념을 이해하고, 유형에 대해 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "위락 관광 자원의 개념을 이해하고, 유형에 대해 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-문화와-자원:[관문 03-05]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.ab8109a015d914a75448",
+   "titleKorean": "레저 서비스 일반 — 4차 산업 시대의 도래 및 레저의 세계화와 같은 환경적 변화에 따라 현대 사회의 레저 트렌 드를 탐색하여 설명하기",
+   "subjectKorean": "레저 서비스 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "레저의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "레저 서비스 일반의 레저의 이해 영역에서 4차 산업 시대의 도래 및 레저의 세계화와 같은 환경적 변화에 따라 현대 사회의 레저 트렌 드를 탐색하여 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 4차 산업 시대의 도래 및 레저의 세계화와 같은 환경적 변화에 따라 현대 사회의 레저 트렌 드를 탐색하여 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "4차 산업 시대의 도래 및 레저의 세계화와 같은 환경적 변화에 따라 현대 사회의 레저 트렌 드를 탐색하여 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-레저-서비스-일반:[레서 01-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.ab95c4aa6450432afe58",
+   "titleKorean": "관광 서비스 — 인사 매너의 중요성 및 인사 종류와 방법을 인식하고 상황에 맞는 인사 매너를 수행하기",
+   "subjectKorean": "관광 서비스",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 서비스 매너",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 서비스의 관광 서비스 매너 영역에서 인사 매너의 중요성 및 인사 종류와 방법을 인식하고 상황에 맞는 인사 매너를 수행하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 인사 매너의 중요성 및 인사 종류와 방법을 인식하고 상황에 맞는 인사 매너를 수행하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "인사 매너의 중요성 및 인사 종류와 방법을 인식하고 상황에 맞는 인사 매너를 수행하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-서비스:[관서 04-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.adb51d466248720202dc",
+   "titleKorean": "관광 서비스 — 관광 서비스의 중요성을 이해하기",
+   "subjectKorean": "관광 서비스",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 서비스의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 서비스의 관광 서비스의 이해 영역에서 관광 서비스의 중요성을 이해하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광 서비스의 중요성을 이해하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광 서비스의 중요성을 이해하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-서비스:[관서 01-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.afea306f7457857f9dfe",
+   "titleKorean": "관광 일본어 — 외국인 관광객을 대상으로 체크인, 출국 심사, 입국 심사 등의 지원을 일본어로 수행하기",
+   "subjectKorean": "관광 일본어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "여행 서비스 회화",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 일본어의 여행 서비스 회화 영역에서 외국인 관광객을 대상으로 체크인, 출국 심사, 입국 심사 등의 지원을 일본어로 수행하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 체크인, 출국 심사, 입국 심사 등의 지원을 일본어로 수행하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 체크인, 출국 심사, 입국 심사 등의 지원을 일본어로 수행하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일본어:[관어 02-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.b105249476e643c76754",
+   "titleKorean": "관광 일반 — 디지털 관광 콘텐츠를 활용한 스마트 관광 서비스의 사례를 검색하여 발표하기",
+   "subjectKorean": "관광 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광과 정보",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 일반의 관광과 정보 영역에서 디지털 관광 콘텐츠를 활용한 스마트 관광 서비스의 사례를 검색하여 발표하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 디지털 관광 콘텐츠를 활용한 스마트 관광 서비스의 사례를 검색하여 발표하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "디지털 관광 콘텐츠를 활용한 스마트 관광 서비스의 사례를 검색하여 발표하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일반:[관일 04-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.b1e677daa57b6c73b084",
+   "titleKorean": "전시･컨벤션･이벤트 일반 — 이벤트의 파급 효과를 긍정, 부정으로 구분하여 제시하기",
+   "subjectKorean": "전시･컨벤션･이벤트 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "이벤트 산업",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "전시･컨벤션･이벤트 일반의 이벤트 산업 영역에서 이벤트의 파급 효과를 긍정, 부정으로 구분하여 제시하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 이벤트의 파급 효과를 긍정, 부정으로 구분하여 제시하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "이벤트의 파급 효과를 긍정, 부정으로 구분하여 제시하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 06-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.b46a28400023884f5a86",
+   "titleKorean": "관광 일반 — 관광의 발전 과정을 통해 관광의 현황과 관광 산업의 변화 동향에 대해 토론하기",
+   "subjectKorean": "관광 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 일반의 관광의 이해 영역에서 관광의 발전 과정을 통해 관광의 현황과 관광 산업의 변화 동향에 대해 토론하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광의 발전 과정을 통해 관광의 현황과 관광 산업의 변화 동향에 대해 토론하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광의 발전 과정을 통해 관광의 현황과 관광 산업의 변화 동향에 대해 토론하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일반:[관일 01-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.b81c0bb920826802c788",
+   "titleKorean": "관광 영어 — 외국인 관광객을 대상으로 한국 현대 문화를 영어로 소개하기",
+   "subjectKorean": "관광 영어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 안내 및 해설 업무",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 영어의 관광 안내 및 해설 업무 영역에서 외국인 관광객을 대상으로 한국 현대 문화를 영어로 소개하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 한국 현대 문화를 영어로 소개하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 한국 현대 문화를 영어로 소개하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-영어:[관영 06-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.bbee5cea92951eae8322",
+   "titleKorean": "관광 영어 — 외국인 관광객을 대상으로 날짜와 시간, 숫자를 영어로 표현하기",
+   "subjectKorean": "관광 영어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 기초 회화",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 영어의 관광 기초 회화 영역에서 외국인 관광객을 대상으로 날짜와 시간, 숫자를 영어로 표현하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 날짜와 시간, 숫자를 영어로 표현하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 날짜와 시간, 숫자를 영어로 표현하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-영어:[관영 01-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.bd644164d6db6ed69998",
+   "titleKorean": "관광 영어 — 외국인 관광객을 대상으로 호텔 체크인 및 체크아웃에 대한 응대를 영어로 수행하기",
+   "subjectKorean": "관광 영어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "호텔 서비스 회화",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 영어의 호텔 서비스 회화 영역에서 외국인 관광객을 대상으로 호텔 체크인 및 체크아웃에 대한 응대를 영어로 수행하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 호텔 체크인 및 체크아웃에 대한 응대를 영어로 수행하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 호텔 체크인 및 체크아웃에 대한 응대를 영어로 수행하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-영어:[관영 03-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.bee4054c1d9d383260e4",
+   "titleKorean": "관광 일본어 — 외국인 관광객을 대상으로 인사와 소개를 일본어로 표현하기",
+   "subjectKorean": "관광 일본어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 기초 회화",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 일본어의 관광 기초 회화 영역에서 외국인 관광객을 대상으로 인사와 소개를 일본어로 표현하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 인사와 소개를 일본어로 표현하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 인사와 소개를 일본어로 표현하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일본어:[관어 01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.bef0c1bf92e2a69622fe",
+   "titleKorean": "관광 콘텐츠 개발 — 국내 및 국외 관광 사업체의 관광 콘텐츠 활용 사례를 설명하기",
+   "subjectKorean": "관광 콘텐츠 개발",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 콘텐츠 유형",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 콘텐츠 개발의 관광 콘텐츠 유형 영역에서 국내 및 국외 관광 사업체의 관광 콘텐츠 활용 사례를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 국내 및 국외 관광 사업체의 관광 콘텐츠 활용 사례를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "국내 및 국외 관광 사업체의 관광 콘텐츠 활용 사례를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-콘텐츠-개발:[관콘 02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.c1783da7172d199a0423",
+   "titleKorean": "레저 서비스 일반 — 일과 구분되는 활동으로 인간의 행복한 삶을 영위할 수 있게 하는 레저의 중요성을 설명하기",
+   "subjectKorean": "레저 서비스 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "레저의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "레저 서비스 일반의 레저의 이해 영역에서 일과 구분되는 활동으로 인간의 행복한 삶을 영위할 수 있게 하는 레저의 중요성을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 일과 구분되는 활동으로 인간의 행복한 삶을 영위할 수 있게 하는 레저의 중요성을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "일과 구분되는 활동으로 인간의 행복한 삶을 영위할 수 있게 하는 레저의 중요성을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-레저-서비스-일반:[레서 01-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.c1f2de9d2ca35e17baa2",
+   "titleKorean": "관광 콘텐츠 개발 — 관광 콘텐츠의 특징 및 편익을 설명하기",
+   "subjectKorean": "관광 콘텐츠 개발",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 콘텐츠 상품화",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 콘텐츠 개발의 관광 콘텐츠 상품화 영역에서 관광 콘텐츠의 특징 및 편익을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광 콘텐츠의 특징 및 편익을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광 콘텐츠의 특징 및 편익을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-콘텐츠-개발:[관콘 05-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.c21850d950f132f9f5e8",
+   "titleKorean": "관광 일반 — 국제회의업의 개념과 구성 요소를 설명하고, 직업적 특징을 발표하기",
+   "subjectKorean": "관광 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 사업",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 일반의 관광 사업 영역에서 국제회의업의 개념과 구성 요소를 설명하고, 직업적 특징을 발표하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 국제회의업의 개념과 구성 요소를 설명하고, 직업적 특징을 발표하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "국제회의업의 개념과 구성 요소를 설명하고, 직업적 특징을 발표하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일반:[관일 03-05]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.c27a7739c9a6151e9f07",
+   "titleKorean": "관광 영어 — 외국인 관광객을 대상으로 한국 전통문화를 영어로 소개하기",
+   "subjectKorean": "관광 영어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 안내 및 해설 업무",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 영어의 관광 안내 및 해설 업무 영역에서 외국인 관광객을 대상으로 한국 전통문화를 영어로 소개하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 한국 전통문화를 영어로 소개하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 한국 전통문화를 영어로 소개하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-영어:[관영 06-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.c2ed893f6e2f7f3ef630",
+   "titleKorean": "관광 중국어 — 외국인 관광객을 대상으로 식음료 서비스 상황에서 발생할 수 있는 고객 불편 사항에 중국어 로 응대하기",
+   "subjectKorean": "관광 중국어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "식음료 서비스 회화",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 중국어의 식음료 서비스 회화 영역에서 외국인 관광객을 대상으로 식음료 서비스 상황에서 발생할 수 있는 고객 불편 사항에 중국어 로 응대하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 식음료 서비스 상황에서 발생할 수 있는 고객 불편 사항에 중국어 로 응대하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 식음료 서비스 상황에서 발생할 수 있는 고객 불편 사항에 중국어 로 응대하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-중국어:[관중 04-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.c4252112e53a95d2137f",
+   "titleKorean": "레저 서비스 일반 — 수상 레저 활동을 정의하기",
+   "subjectKorean": "레저 서비스 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "수상 레저 활동",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "레저 서비스 일반의 수상 레저 활동 영역에서 수상 레저 활동을 정의하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 수상 레저 활동을 정의하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "수상 레저 활동을 정의하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-레저-서비스-일반:[레서 05-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.c44fdad1fc107b0ec0f8",
+   "titleKorean": "관광 중국어 — 외국인 관광객을 대상으로 결제・교환・환불 업무를 중국어로 수행하기",
+   "subjectKorean": "관광 중국어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 상품 판매 회화",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 중국어의 관광 상품 판매 회화 영역에서 외국인 관광객을 대상으로 결제・교환・환불 업무를 중국어로 수행하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 결제・교환・환불 업무를 중국어로 수행하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 결제・교환・환불 업무를 중국어로 수행하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-중국어:[관중 05-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.c536ce1b8ecbb01396cf",
+   "titleKorean": "전시･컨벤션･이벤트 일반 — 마이스(MICE)의 개념을 이해하고 중요성을 제시하기",
+   "subjectKorean": "전시･컨벤션･이벤트 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "마이스(MICE) 산업 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "전시･컨벤션･이벤트 일반의 마이스(MICE) 산업 이해 영역에서 마이스(MICE)의 개념을 이해하고 중요성을 제시하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 마이스(MICE)의 개념을 이해하고 중요성을 제시하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "마이스(MICE)의 개념을 이해하고 중요성을 제시하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.c5c47d39f54474beeadb",
+   "titleKorean": "관광 중국어 — 외국인 관광객을 대상으로 한국 현대 문화를 중국어로 소개하기",
+   "subjectKorean": "관광 중국어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 안내 및 해설 업무",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 중국어의 관광 안내 및 해설 업무 영역에서 외국인 관광객을 대상으로 한국 현대 문화를 중국어로 소개하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 한국 현대 문화를 중국어로 소개하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 한국 현대 문화를 중국어로 소개하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-중국어:[관중 06-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.c8fbacd8d4677f10dc84",
+   "titleKorean": "관광 문화와 자원 — 문화 관광 자원의 의미와 유형을 살펴보고, 문화유산 및 유네스코 지정 세계 유산 자원을 조회하기",
+   "subjectKorean": "관광 문화와 자원",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 자원 유형",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 문화와 자원의 관광 자원 유형 영역에서 문화 관광 자원의 의미와 유형을 살펴보고, 문화유산 및 유네스코 지정 세계 유산 자원을 조회하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 문화 관광 자원의 의미와 유형을 살펴보고, 문화유산 및 유네스코 지정 세계 유산 자원을 조회하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "문화 관광 자원의 의미와 유형을 살펴보고, 문화유산 및 유네스코 지정 세계 유산 자원을 조회하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-문화와-자원:[관문 03-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.c98f0a9ae73cffae13b2",
+   "titleKorean": "관광 문화와 자원 — 관광 자원의 특성을 이해하고 유형별 특성과 비교하기",
+   "subjectKorean": "관광 문화와 자원",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 자원의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 문화와 자원의 관광 자원의 이해 영역에서 관광 자원의 특성을 이해하고 유형별 특성과 비교하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광 자원의 특성을 이해하고 유형별 특성과 비교하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광 자원의 특성을 이해하고 유형별 특성과 비교하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-문화와-자원:[관문 02-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.ca555d2740e61de00446",
+   "titleKorean": "관광 영어 — 외국인 관광객을 대상으로 상품을 영어로 설명하고, 추천하기",
+   "subjectKorean": "관광 영어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 상품 판매 회화",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 영어의 관광 상품 판매 회화 영역에서 외국인 관광객을 대상으로 상품을 영어로 설명하고, 추천하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 상품을 영어로 설명하고, 추천하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 상품을 영어로 설명하고, 추천하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-영어:[관영 05-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.ca9a26af15da69d05547",
+   "titleKorean": "관광 서비스 — 주요 국가의 서비스 문화, 인사 및 의전 예절을 익혀 나라별로 적합한 서비스를 수행하기",
+   "subjectKorean": "관광 서비스",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 서비스 매너",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 서비스의 관광 서비스 매너 영역에서 주요 국가의 서비스 문화, 인사 및 의전 예절을 익혀 나라별로 적합한 서비스를 수행하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 주요 국가의 서비스 문화, 인사 및 의전 예절을 익혀 나라별로 적합한 서비스를 수행하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "주요 국가의 서비스 문화, 인사 및 의전 예절을 익혀 나라별로 적합한 서비스를 수행하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-서비스:[관서 04-05]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.cb2e2e9ec5d9aff68894",
+   "titleKorean": "관광 중국어 — 외국인 관광객을 대상으로 판매 서비스 상황에서 발생할 수 있는 고객 불편 사항에 중국어로 응대하기",
+   "subjectKorean": "관광 중국어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 상품 판매 회화",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 중국어의 관광 상품 판매 회화 영역에서 외국인 관광객을 대상으로 판매 서비스 상황에서 발생할 수 있는 고객 불편 사항에 중국어로 응대하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 판매 서비스 상황에서 발생할 수 있는 고객 불편 사항에 중국어로 응대하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 판매 서비스 상황에서 발생할 수 있는 고객 불편 사항에 중국어로 응대하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-중국어:[관중 05-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.cd29e57a0c81bd7721c9",
+   "titleKorean": "관광 중국어 — 외국인 관광객을 대상으로 상품을 중국어로 설명하고, 추천하기",
+   "subjectKorean": "관광 중국어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 상품 판매 회화",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 중국어의 관광 상품 판매 회화 영역에서 외국인 관광객을 대상으로 상품을 중국어로 설명하고, 추천하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 상품을 중국어로 설명하고, 추천하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 상품을 중국어로 설명하고, 추천하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-중국어:[관중 05-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.cd4f0f9ea49ec9d5984a",
+   "titleKorean": "레저 서비스 일반 — 레저 산업의 발달이 미치는 경제, 사회적 효과를 설명하기",
+   "subjectKorean": "레저 서비스 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "레저 산업의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "레저 서비스 일반의 레저 산업의 이해 영역에서 레저 산업의 발달이 미치는 경제, 사회적 효과를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 레저 산업의 발달이 미치는 경제, 사회적 효과를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "레저 산업의 발달이 미치는 경제, 사회적 효과를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-레저-서비스-일반:[레서 02-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.cea6467837605f9cd425",
+   "titleKorean": "관광 영어 — 외국인 관광객을 대상으로 여행 서비스 상황에서 발생할 수 있는 고객 불편 사항에 영어로 응대하기",
+   "subjectKorean": "관광 영어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "여행 서비스 회화",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 영어의 여행 서비스 회화 영역에서 외국인 관광객을 대상으로 여행 서비스 상황에서 발생할 수 있는 고객 불편 사항에 영어로 응대하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 여행 서비스 상황에서 발생할 수 있는 고객 불편 사항에 영어로 응대하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 여행 서비스 상황에서 발생할 수 있는 고객 불편 사항에 영어로 응대하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-영어:[관영 02-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.cf5bde0c54cd8d573ce4",
+   "titleKorean": "전시･컨벤션･이벤트 일반 — 국제회의의 개념과 기준을 설명하기",
+   "subjectKorean": "전시･컨벤션･이벤트 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "국제회의산업",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "전시･컨벤션･이벤트 일반의 국제회의산업 영역에서 국제회의의 개념과 기준을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 국제회의의 개념과 기준을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "국제회의의 개념과 기준을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.d1bbdfefadd9e3e3b3ce",
+   "titleKorean": "관광 일본어 — 외국인 관광객을 대상으로 위치와 길 안내를 일본어로 표현하기",
+   "subjectKorean": "관광 일본어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 기초 회화",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 일본어의 관광 기초 회화 영역에서 외국인 관광객을 대상으로 위치와 길 안내를 일본어로 표현하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 위치와 길 안내를 일본어로 표현하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 위치와 길 안내를 일본어로 표현하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일본어:[관어 01-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.d46d5e7817b3a9aae269",
+   "titleKorean": "관광 일반 — 관광의 기본적 구성 요소를 설명하기",
+   "subjectKorean": "관광 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광의 이해",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 일반의 관광의 이해 영역에서 관광의 기본적 구성 요소를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광의 기본적 구성 요소를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광의 기본적 구성 요소를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일반:[관일 01-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.d4c3c73d577293357a04",
+   "titleKorean": "레저 서비스 일반 — 레저 스포츠의 개념과 특징, 현황 및 레저 스포츠업의 주요 직무를 설명하기",
+   "subjectKorean": "레저 서비스 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "레저 서비스 사업",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "레저 서비스 일반의 레저 서비스 사업 영역에서 레저 스포츠의 개념과 특징, 현황 및 레저 스포츠업의 주요 직무를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 레저 스포츠의 개념과 특징, 현황 및 레저 스포츠업의 주요 직무를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "레저 스포츠의 개념과 특징, 현황 및 레저 스포츠업의 주요 직무를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-레저-서비스-일반:[레서 03-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.d5c37c8699d351752b5b",
+   "titleKorean": "관광 일반 — 관광의 개념을 설명하고, 관광을 분류하기",
+   "subjectKorean": "관광 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 일반의 관광의 이해 영역에서 관광의 개념을 설명하고, 관광을 분류하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광의 개념을 설명하고, 관광을 분류하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광의 개념을 설명하고, 관광을 분류하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일반:[관일 01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.d8802637a8c7453863d3",
+   "titleKorean": "전시･컨벤션･이벤트 일반 — 마이스(MICE) 산업의 파급 효과를 설명하기",
+   "subjectKorean": "전시･컨벤션･이벤트 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "마이스(MICE) 산업 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "전시･컨벤션･이벤트 일반의 마이스(MICE) 산업 이해 영역에서 마이스(MICE) 산업의 파급 효과를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 마이스(MICE) 산업의 파급 효과를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "마이스(MICE) 산업의 파급 효과를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 01-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.d8a340e3b55c42deb155",
+   "titleKorean": "레저 서비스 일반 — 주요 항공 레저 활동을 즐길 수 있는 장소와 활용되는 장비의 특징을 설명하기",
+   "subjectKorean": "레저 서비스 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "항공 레저 활동",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "레저 서비스 일반의 항공 레저 활동 영역에서 주요 항공 레저 활동을 즐길 수 있는 장소와 활용되는 장비의 특징을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 주요 항공 레저 활동을 즐길 수 있는 장소와 활용되는 장비의 특징을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "주요 항공 레저 활동을 즐길 수 있는 장소와 활용되는 장비의 특징을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-레저-서비스-일반:[레서 06-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.d8ade46300f67093f7c9",
+   "titleKorean": "관광 영어 — 외국인 관광객을 대상으로 인사와 소개를 영어로 표현하기",
+   "subjectKorean": "관광 영어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 기초 회화",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 영어의 관광 기초 회화 영역에서 외국인 관광객을 대상으로 인사와 소개를 영어로 표현하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 인사와 소개를 영어로 표현하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 인사와 소개를 영어로 표현하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-영어:[관영 01-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.dcb0419057bf3c53a011",
+   "titleKorean": "관광 일본어 — 외국인 관광객을 대상으로 결제・교환・환불 업무를 일본어로 수행하기",
+   "subjectKorean": "관광 일본어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 상품 판매 회화",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 일본어의 관광 상품 판매 회화 영역에서 외국인 관광객을 대상으로 결제・교환・환불 업무를 일본어로 수행하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 결제・교환・환불 업무를 일본어로 수행하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 결제・교환・환불 업무를 일본어로 수행하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일본어:[관어 05-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.de11785880c6ef885cfc",
+   "titleKorean": "관광 서비스 — 관광 종사자의 직업 윤리 내용을 실생활에 적용하기",
+   "subjectKorean": "관광 서비스",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 서비스 직업 윤리 및 안전 관리",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 서비스의 관광 서비스 직업 윤리 및 안전 관리 영역에서 관광 종사자의 직업 윤리 내용을 실생활에 적용하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광 종사자의 직업 윤리 내용을 실생활에 적용하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광 종사자의 직업 윤리 내용을 실생활에 적용하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-서비스:[관서 06-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.de561447f5a2063b412c",
+   "titleKorean": "관광 일반 — 관광진흥법에 규정한 관광 사업의 개념과 종류를 설명하기",
+   "subjectKorean": "관광 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 사업",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 일반의 관광 사업 영역에서 관광진흥법에 규정한 관광 사업의 개념과 종류를 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광진흥법에 규정한 관광 사업의 개념과 종류를 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광진흥법에 규정한 관광 사업의 개념과 종류를 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일반:[관일 03-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.df695a66f27cefa9069c",
+   "titleKorean": "관광 영어 — 외국인 관광객을 대상으로 결제・교환・환불 업무를 영어로 수행하기",
+   "subjectKorean": "관광 영어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 상품 판매 회화",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 영어의 관광 상품 판매 회화 영역에서 외국인 관광객을 대상으로 결제・교환・환불 업무를 영어로 수행하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 결제・교환・환불 업무를 영어로 수행하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 결제・교환・환불 업무를 영어로 수행하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-영어:[관영 05-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.e0c1a5e23a2b32f5ae39",
+   "titleKorean": "관광 일반 — 관광과 문화의 상관관계에 대해 탐색하고, 문화의 다양성에 대해 설명하기",
+   "subjectKorean": "관광 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 대상",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 일반의 관광 대상 영역에서 관광과 문화의 상관관계에 대해 탐색하고, 문화의 다양성에 대해 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광과 문화의 상관관계에 대해 탐색하고, 문화의 다양성에 대해 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광과 문화의 상관관계에 대해 탐색하고, 문화의 다양성에 대해 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일반:[관일 02-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.e54dc99bb56a726e623c",
+   "titleKorean": "관광 일반 — 카지노업의 종류와 테이블 게임의 규칙을 설명하기",
+   "subjectKorean": "관광 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 사업",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 일반의 관광 사업 영역에서 카지노업의 종류와 테이블 게임의 규칙을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 카지노업의 종류와 테이블 게임의 규칙을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "카지노업의 종류와 테이블 게임의 규칙을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일반:[관일 03-06]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.e92626d054d55b2eb8fd",
+   "titleKorean": "전시･컨벤션･이벤트 일반 — 온라인 행사의 개념과 특성을 설명하기",
+   "subjectKorean": "전시･컨벤션･이벤트 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "마이스(MICE) 산업 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "전시･컨벤션･이벤트 일반의 마이스(MICE) 산업 이해 영역에서 온라인 행사의 개념과 특성을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 온라인 행사의 개념과 특성을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "온라인 행사의 개념과 특성을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 01-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.eb4e0c0e02de0b51c5e3",
+   "titleKorean": "관광 문화와 자원 — 관광 자원이 갖추어야 할 요건을 파악하고 이에 대해 토의하기",
+   "subjectKorean": "관광 문화와 자원",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 자원의 이해",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 문화와 자원의 관광 자원의 이해 영역에서 관광 자원이 갖추어야 할 요건을 파악하고 이에 대해 토의하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광 자원이 갖추어야 할 요건을 파악하고 이에 대해 토의하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광 자원이 갖추어야 할 요건을 파악하고 이에 대해 토의하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-문화와-자원:[관문 02-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.eb7692b4cd7fcbc1b4f1",
+   "titleKorean": "전시･컨벤션･이벤트 일반 — 전시회 개최 현황을 연도별, 국내외별로 비교 분석하기",
+   "subjectKorean": "전시･컨벤션･이벤트 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "전시 산업 현황",
+   "facetKey": null,
+   "types": [
+    "meta"
+   ],
+   "description": "전시･컨벤션･이벤트 일반의 전시 산업 현황 영역에서 전시회 개최 현황을 연도별, 국내외별로 비교 분석하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 전시회 개최 현황을 연도별, 국내외별로 비교 분석하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "전시회 개최 현황을 연도별, 국내외별로 비교 분석하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 05-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.ecb6273aad6234813945",
+   "titleKorean": "관광 서비스 — 이미지 메이킹의 개념과 중요성을 설명하기",
+   "subjectKorean": "관광 서비스",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "이미지 메이킹",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 서비스의 이미지 메이킹 영역에서 이미지 메이킹의 개념과 중요성을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 이미지 메이킹의 개념과 중요성을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "이미지 메이킹의 개념과 중요성을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-서비스:[관서 03-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.ee82dfeb688e40ec0126",
+   "titleKorean": "관광 일반 — 여행업의 개념과 종류 및 특징을 조사하여 발표하기",
+   "subjectKorean": "관광 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 사업",
+   "facetKey": null,
+   "types": [
+    "representational"
+   ],
+   "description": "관광 일반의 관광 사업 영역에서 여행업의 개념과 종류 및 특징을 조사하여 발표하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 여행업의 개념과 종류 및 특징을 조사하여 발표하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "여행업의 개념과 종류 및 특징을 조사하여 발표하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-일반:[관일 03-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.f0f78b2ed3f28f4a8252",
+   "titleKorean": "전시･컨벤션･이벤트 일반 — 국내외 국제회의 관련 기구 및 기관의 역할 및 활동 내용을 설명하기",
+   "subjectKorean": "전시･컨벤션･이벤트 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "국제회의산업",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "전시･컨벤션･이벤트 일반의 국제회의산업 영역에서 국내외 국제회의 관련 기구 및 기관의 역할 및 활동 내용을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 국내외 국제회의 관련 기구 및 기관의 역할 및 활동 내용을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "국내외 국제회의 관련 기구 및 기관의 역할 및 활동 내용을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 02-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.f2c3ff5fbf7fb248a331",
+   "titleKorean": "관광 콘텐츠 개발 — 관광 콘텐츠와 스마트 관광을 연계하여 설명하기",
+   "subjectKorean": "관광 콘텐츠 개발",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 콘텐츠의 미래",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 콘텐츠 개발의 관광 콘텐츠의 미래 영역에서 관광 콘텐츠와 스마트 관광을 연계하여 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광 콘텐츠와 스마트 관광을 연계하여 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광 콘텐츠와 스마트 관광을 연계하여 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-콘텐츠-개발:[관콘 06-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.f6fe11d1e159e88c6ecd",
+   "titleKorean": "관광 영어 — 외국인 관광객을 대상으로 식음료 업장에서 식음료 제공, 계산 및 환송 업무를 영어로 수행하기",
+   "subjectKorean": "관광 영어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "식음료 서비스 회화",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 영어의 식음료 서비스 회화 영역에서 외국인 관광객을 대상으로 식음료 업장에서 식음료 제공, 계산 및 환송 업무를 영어로 수행하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 식음료 업장에서 식음료 제공, 계산 및 환송 업무를 영어로 수행하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 식음료 업장에서 식음료 제공, 계산 및 환송 업무를 영어로 수행하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-영어:[관영 04-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.f811cef0d6f17e21f629",
+   "titleKorean": "관광 콘텐츠 개발 — 관광 콘텐츠 제작물 편집을 수행하기",
+   "subjectKorean": "관광 콘텐츠 개발",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 콘텐츠 제작 실습",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 콘텐츠 개발의 관광 콘텐츠 제작 실습 영역에서 관광 콘텐츠 제작물 편집을 수행하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광 콘텐츠 제작물 편집을 수행하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광 콘텐츠 제작물 편집을 수행하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-콘텐츠-개발:[관콘 04-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.f85e7a0ea682189eadb4",
+   "titleKorean": "관광 문화와 자원 — 관광 문화의 개념을 제시하기",
+   "subjectKorean": "관광 문화와 자원",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 문화",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 문화와 자원의 관광 문화 영역에서 관광 문화의 개념을 제시하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 관광 문화의 개념을 제시하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "관광 문화의 개념을 제시하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-문화와-자원:[관문 01-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.fa2df003f3bc47ef6dd9",
+   "titleKorean": "관광 문화와 자원 — 지속가능한 관광의 개념을 살펴보고, 지속가능한 관광의 출현 배경과 유형을 설명하기",
+   "subjectKorean": "관광 문화와 자원",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "지속가능 생태계 콘텐츠",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 문화와 자원의 지속가능 생태계 콘텐츠 영역에서 지속가능한 관광의 개념을 살펴보고, 지속가능한 관광의 출현 배경과 유형을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 지속가능한 관광의 개념을 살펴보고, 지속가능한 관광의 출현 배경과 유형을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "지속가능한 관광의 개념을 살펴보고, 지속가능한 관광의 출현 배경과 유형을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-문화와-자원:[관문 04-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.fbd678a25c6bb06f250e",
+   "titleKorean": "레저 서비스 일반 — 항공 레저 활동을 정의하기",
+   "subjectKorean": "레저 서비스 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "항공 레저 활동",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "레저 서비스 일반의 항공 레저 활동 영역에서 항공 레저 활동을 정의하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 항공 레저 활동을 정의하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "항공 레저 활동을 정의하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-레저-서비스-일반:[레서 06-01]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.fd845f7875e8e219c1a3",
+   "titleKorean": "관광 중국어 — 외국인 관광객을 대상으로 관광지를 중국어로 해설 및 안내하기",
+   "subjectKorean": "관광 중국어",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 안내 및 해설 업무",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "관광 중국어의 관광 안내 및 해설 업무 영역에서 외국인 관광객을 대상으로 관광지를 중국어로 해설 및 안내하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 외국인 관광객을 대상으로 관광지를 중국어로 해설 및 안내하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "외국인 관광객을 대상으로 관광지를 중국어로 해설 및 안내하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-중국어:[관중 06-04]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.fda8df6f44fcf50bb636",
+   "titleKorean": "관광 서비스 — 커뮤니케이션 서비스의 중요성 및 바른 대화 서비스, 대화의 요령, 바른 호칭 및 전화 응대 방법을 익혀 상황에 맞게 커뮤니케이션 매너를 수행하기",
+   "subjectKorean": "관광 서비스",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "관광 서비스 매너",
+   "facetKey": null,
+   "types": [
+    "procedural"
+   ],
+   "description": "관광 서비스의 관광 서비스 매너 영역에서 커뮤니케이션 서비스의 중요성 및 바른 대화 서비스, 대화의 요령, 바른 호칭 및 전화 응대 방법을 익혀 상황에 맞게 커뮤니케이션 매너를 수행하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 커뮤니케이션 서비스의 중요성 및 바른 대화 서비스, 대화의 요령, 바른 호칭 및 전화 응대 방법을 익혀 상황에 맞게 커뮤니케이션 매너를 수행하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "커뮤니케이션 서비스의 중요성 및 바른 대화 서비스, 대화의 요령, 바른 호칭 및 전화 응대 방법을 익혀 상황에 맞게 커뮤니케이션 매너를 수행하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-관광-서비스:[관서 04-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.fe52acf6e032f2f77db3",
+   "titleKorean": "전시･컨벤션･이벤트 일반 — 국제회의를 주최자별, 규모별로 분류하기",
+   "subjectKorean": "전시･컨벤션･이벤트 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "국제회의산업",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "전시･컨벤션･이벤트 일반의 국제회의산업 영역에서 국제회의를 주최자별, 규모별로 분류하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 국제회의를 주최자별, 규모별로 분류하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "국제회의를 주최자별, 규모별로 분류하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 02-02]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  },
+  {
+   "id": "kr.topic.2022.high.ff2e81fdfb0d26dd7a35",
+   "titleKorean": "전시･컨벤션･이벤트 일반 — 전시 산업의 특성을 설명하기",
+   "subjectKorean": "전시･컨벤션･이벤트 일반",
+   "majorFieldSlug": "tourism-leisure",
+   "gradeBand": "10-12",
+   "domainKorean": "전시 산업 특성",
+   "facetKey": null,
+   "types": [
+    "conceptual"
+   ],
+   "description": "전시･컨벤션･이벤트 일반의 전시 산업 특성 영역에서 전시 산업의 특성을 설명하기를 다루는 세부 학습 주제다.",
+   "evidence": [
+    "학습자가 전시 산업의 특성을 설명하기와 관련된 개념, 판단 근거 또는 수행 과정을 자신의 말이나 결과물로 보여 준다."
+   ],
+   "assessmentPrompts": [
+    "전시 산업의 특성을 설명하기와 관련된 과제나 사례를 제시하고, 학습자가 해결 과정과 근거를 설명하거나 수행하게 한다."
+   ],
+   "standards": [
+    "kr-2022-voc-전시･컨벤션･이벤트-일반:[컨일 04-03]"
+   ],
+   "sourceRefs": [
+    "kr-nec-2024-3-annex27"
+   ]
+  }
+ ]
+}

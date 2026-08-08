@@ -1,0 +1,289 @@
+{
+ "clusters": [
+  {
+   "id": "kr.cluster.2022.high.00156b495832685181",
+   "titleKorean": "노동 인권과 산업 안전 보건 — 사고 예방의 이해",
+   "subjectKorean": "노동 인권과 산업 안전 보건",
+   "majorFieldSlug": "specialized-common",
+   "gradeBand": "10-12",
+   "domainKorean": "사고 예방의 이해",
+   "summary": "노동 인권과 산업 안전 보건의 사고 예방의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.c302ecaa82a066058397",
+    "kr.topic.2022.high.e54197ad928dacf385d5",
+    "kr.topic.2022.high.f28456a09e782ccffd34"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0e92d3234de70482e4",
+   "titleKorean": "노동 인권과 산업 안전 보건 — 노동 인권 실천과 사회 참여",
+   "subjectKorean": "노동 인권과 산업 안전 보건",
+   "majorFieldSlug": "specialized-common",
+   "gradeBand": "10-12",
+   "domainKorean": "노동 인권 실천과 사회 참여",
+   "summary": "노동 인권과 산업 안전 보건의 노동 인권 실천과 사회 참여 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.2001708880f777a912a5",
+    "kr.topic.2022.high.722ab53ec3c2cb427017",
+    "kr.topic.2022.high.e4f28ae8f8fdde820054"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.127241bfa4141b4f47",
+   "titleKorean": "노동 인권과 산업 안전 보건 — 안전한 작업 방법",
+   "subjectKorean": "노동 인권과 산업 안전 보건",
+   "majorFieldSlug": "specialized-common",
+   "gradeBand": "10-12",
+   "domainKorean": "안전한 작업 방법",
+   "summary": "노동 인권과 산업 안전 보건의 안전한 작업 방법 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.45fc460c03b2798a4363",
+    "kr.topic.2022.high.8a4e837510f88a879698",
+    "kr.topic.2022.high.f4a1e11a694a55feebe6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2d85ae0f52db9ce027",
+   "titleKorean": "노동 인권과 산업 안전 보건 — 산업 안전 일반",
+   "subjectKorean": "노동 인권과 산업 안전 보건",
+   "majorFieldSlug": "specialized-common",
+   "gradeBand": "10-12",
+   "domainKorean": "산업 안전 일반",
+   "summary": "노동 인권과 산업 안전 보건의 산업 안전 일반 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.7a25fd0457b4a6367b4c",
+    "kr.topic.2022.high.d9d22d78642133ffb17a",
+    "kr.topic.2022.high.e4b0c5816a6fd178c361"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2e98c6c1c0c3ff5e55",
+   "titleKorean": "성공적인 직업 생활 — 근로 관계와 산업 안전",
+   "subjectKorean": "성공적인 직업 생활",
+   "majorFieldSlug": "specialized-common",
+   "gradeBand": "10-12",
+   "domainKorean": "근로 관계와 산업 안전",
+   "summary": "성공적인 직업 생활의 근로 관계와 산업 안전 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.10480a3016ba7ea79f48",
+    "kr.topic.2022.high.45ecdfbf516239244991",
+    "kr.topic.2022.high.4bfda9f125a332508e53",
+    "kr.topic.2022.high.808b29470943a3d9ac33"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4e4e6727fee82c6438",
+   "titleKorean": "노동 인권과 산업 안전 보건 — 노동 인권의 보장",
+   "subjectKorean": "노동 인권과 산업 안전 보건",
+   "majorFieldSlug": "specialized-common",
+   "gradeBand": "10-12",
+   "domainKorean": "노동 인권의 보장",
+   "summary": "노동 인권과 산업 안전 보건의 노동 인권의 보장 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.817783cce0e0de2c14a3",
+    "kr.topic.2022.high.d9578cd0dbe93a45cec2",
+    "kr.topic.2022.high.f336528320baa3ee23d2"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.753de27217a59c2f13",
+   "titleKorean": "디지털과 직업 생활 — 디지털 전환과 직업 생활",
+   "subjectKorean": "디지털과 직업 생활",
+   "majorFieldSlug": "specialized-common",
+   "gradeBand": "10-12",
+   "domainKorean": "디지털 전환과 직업 생활",
+   "summary": "디지털과 직업 생활의 디지털 전환과 직업 생활 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.04fb26e0c9e0a8e8eab5",
+    "kr.topic.2022.high.67401eb42d36033bc01d",
+    "kr.topic.2022.high.b4fa91988292030846ba"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.82b515822caf1ff838",
+   "titleKorean": "성공적인 직업 생활 — 일과 직업",
+   "subjectKorean": "성공적인 직업 생활",
+   "majorFieldSlug": "specialized-common",
+   "gradeBand": "10-12",
+   "domainKorean": "일과 직업",
+   "summary": "성공적인 직업 생활의 일과 직업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.3d655f78c0075508338a",
+    "kr.topic.2022.high.e82ce3789eb7cbcc8249"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.831266b3011c8e31b6",
+   "titleKorean": "디지털과 직업 생활 — 디지털 콘텐츠의 활용과 제작",
+   "subjectKorean": "디지털과 직업 생활",
+   "majorFieldSlug": "specialized-common",
+   "gradeBand": "10-12",
+   "domainKorean": "디지털 콘텐츠의 활용과 제작",
+   "summary": "디지털과 직업 생활의 디지털 콘텐츠의 활용과 제작 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.54daec6e651a057d7d34",
+    "kr.topic.2022.high.ca655af567e915be4d8a",
+    "kr.topic.2022.high.ee10aa53a56776967c54"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.956a27c01d3452e333",
+   "titleKorean": "디지털과 직업 생활 — 디지털 시민 의식과 직업 윤리",
+   "subjectKorean": "디지털과 직업 생활",
+   "majorFieldSlug": "specialized-common",
+   "gradeBand": "10-12",
+   "domainKorean": "디지털 시민 의식과 직업 윤리",
+   "summary": "디지털과 직업 생활의 디지털 시민 의식과 직업 윤리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.98cb9a758c187b4349cb",
+    "kr.topic.2022.high.b678a4b8c7454d8dd4d3",
+    "kr.topic.2022.high.bf839ffc7c06c4f86cca"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a13b7b2b1e9eb4838e",
+   "titleKorean": "성공적인 직업 생활 — 취업과 창업",
+   "subjectKorean": "성공적인 직업 생활",
+   "majorFieldSlug": "specialized-common",
+   "gradeBand": "10-12",
+   "domainKorean": "취업과 창업",
+   "summary": "성공적인 직업 생활의 취업과 창업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.243b008bdcd6a23f0b10",
+    "kr.topic.2022.high.8e557c05c1bb74358b96",
+    "kr.topic.2022.high.93808049788bfe7b30cd",
+    "kr.topic.2022.high.dc3a302dadd495079541"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a33658ad107ffe1ca7",
+   "titleKorean": "디지털과 직업 생활 — 디지털 문제 해결",
+   "subjectKorean": "디지털과 직업 생활",
+   "majorFieldSlug": "specialized-common",
+   "gradeBand": "10-12",
+   "domainKorean": "디지털 문제 해결",
+   "summary": "디지털과 직업 생활의 디지털 문제 해결 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.21277734eff6dcac54e5",
+    "kr.topic.2022.high.850eb411e3998dbc3624",
+    "kr.topic.2022.high.c3c98ed49ca224ffe7fd"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ace59591bd56d5a09a",
+   "titleKorean": "성공적인 직업 생활 — 직업 생활과 직업 윤리",
+   "subjectKorean": "성공적인 직업 생활",
+   "majorFieldSlug": "specialized-common",
+   "gradeBand": "10-12",
+   "domainKorean": "직업 생활과 직업 윤리",
+   "summary": "성공적인 직업 생활의 직업 생활과 직업 윤리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.5e132c43a8dbab085841",
+    "kr.topic.2022.high.73b324a52d9638c16100",
+    "kr.topic.2022.high.adb43aea82d17ff9c91b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.cb2a19b8b4c52957bc",
+   "titleKorean": "디지털과 직업 생활 — 인공지능과 직업 생활",
+   "subjectKorean": "디지털과 직업 생활",
+   "majorFieldSlug": "specialized-common",
+   "gradeBand": "10-12",
+   "domainKorean": "인공지능과 직업 생활",
+   "summary": "디지털과 직업 생활의 인공지능과 직업 생활 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.8da591db449ba9bf4cb6",
+    "kr.topic.2022.high.988f9fc98de7646f492f",
+    "kr.topic.2022.high.fec9c48487b7871e793a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d028ace544c9119640",
+   "titleKorean": "성공적인 직업 생활 — 경력 관리와 평생 학습",
+   "subjectKorean": "성공적인 직업 생활",
+   "majorFieldSlug": "specialized-common",
+   "gradeBand": "10-12",
+   "domainKorean": "경력 관리와 평생 학습",
+   "summary": "성공적인 직업 생활의 경력 관리와 평생 학습 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.634c5e10f8508b7b438a",
+    "kr.topic.2022.high.6c804341ad0ab854a57d",
+    "kr.topic.2022.high.9c665ad4d7d30ffdbbeb"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d410bc43e3e32c7442",
+   "titleKorean": "성공적인 직업 생활 — 진로 직업 설계와 직업 기초 능력",
+   "subjectKorean": "성공적인 직업 생활",
+   "majorFieldSlug": "specialized-common",
+   "gradeBand": "10-12",
+   "domainKorean": "진로 직업 설계와 직업 기초 능력",
+   "summary": "성공적인 직업 생활의 진로 직업 설계와 직업 기초 능력 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.05b45ea9eeb3293fc41a",
+    "kr.topic.2022.high.2e9e8d75f2491e9b858b",
+    "kr.topic.2022.high.e74c1d638bc36382d480"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.eb2358a615400300bc",
+   "titleKorean": "디지털과 직업 생활 — 디지털 의사소통과 협업",
+   "subjectKorean": "디지털과 직업 생활",
+   "majorFieldSlug": "specialized-common",
+   "gradeBand": "10-12",
+   "domainKorean": "디지털 의사소통과 협업",
+   "summary": "디지털과 직업 생활의 디지털 의사소통과 협업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.3f88115ce6c15b67397d",
+    "kr.topic.2022.high.a36b4e41ae278d86b833"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f4bd7c6c8ec8180723",
+   "titleKorean": "노동 인권과 산업 안전 보건 — 다양한 노동과 노동 인권",
+   "subjectKorean": "노동 인권과 산업 안전 보건",
+   "majorFieldSlug": "specialized-common",
+   "gradeBand": "10-12",
+   "domainKorean": "다양한 노동과 노동 인권",
+   "summary": "노동 인권과 산업 안전 보건의 다양한 노동과 노동 인권 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.19fc30c032cc8737b3a6",
+    "kr.topic.2022.high.b9aa05adcd7a564678ef",
+    "kr.topic.2022.high.ca0a0c5477ca076bf334"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fed5a5aeb5866dbad3",
+   "titleKorean": "노동 인권과 산업 안전 보건 — 노동과 인간의 존엄",
+   "subjectKorean": "노동 인권과 산업 안전 보건",
+   "majorFieldSlug": "specialized-common",
+   "gradeBand": "10-12",
+   "domainKorean": "노동과 인간의 존엄",
+   "summary": "노동 인권과 산업 안전 보건의 노동과 인간의 존엄 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.122f8e638f5c8a9752d6",
+    "kr.topic.2022.high.30c08340447f1d0fc700",
+    "kr.topic.2022.high.fc41a117169c2fd09b7c"
+   ]
+  }
+ ]
+}

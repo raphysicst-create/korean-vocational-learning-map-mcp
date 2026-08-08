@@ -1,0 +1,3116 @@
+{
+ "curricula": [
+  {
+   "id": "kr-2022-voc-세라믹-원리-공정",
+   "subjectKorean": "세라믹 원리·공정",
+   "majorFieldSlug": "materials",
+   "subjectGroupKorean": "재료",
+   "courseCategory": "major-general",
+   "gradeBand": "10-12",
+   "name": "세라믹 원리·공정 2022 개정 전문교과 교육과정",
+   "deck6CourseId": "kr.course.2022.high.447a8416fff470dd",
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ],
+   "standardCount": 48,
+   "standards": [
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 01-01-01]",
+     "code": "[세원 01-01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹의 개요",
+     "summary": "공업용으로 쓰이는 재료를 화학적·물리적 특성에 따라 분류하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 01-01-01]",
+      "pdfPage": 86,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 세라믹의 개요",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.1fe6427f28a12310634d"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 01-01-02]",
+     "code": "[세원 01-01-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹의 개요",
+     "summary": "공업용 재료의 분류에 따라 그 특성을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 01-01-02]",
+      "pdfPage": 86,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 세라믹의 개요",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.ba1db2af747cfd537055"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 01-02-01]",
+     "code": "[세원 01-02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹의 개요",
+     "summary": "세라믹의 의미를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 01-02-01]",
+      "pdfPage": 86,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 세라믹의 개요",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.6535e60559ee19e38cd5"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 01-02-02]",
+     "code": "[세원 01-02-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹의 개요",
+     "summary": "세라믹 제품을 종류별로 구분하여 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 01-02-02]",
+      "pdfPage": 86,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 세라믹의 개요",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.e7f112d7ac00f82e195c"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 01-03-01]",
+     "code": "[세원 01-03-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹의 개요",
+     "summary": "세라믹 소재의 공학적 발달 과정을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 01-03-01]",
+      "pdfPage": 86,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 세라믹의 개요",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.0c65f5fba5bcdda81409"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 01-03-02]",
+     "code": "[세원 01-03-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹의 개요",
+     "summary": "산업 분야에서의 세라믹 소재의 전망을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 01-03-02]",
+      "pdfPage": 86,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 세라믹의 개요",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.28ed5525493528b93fe5"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 02-01-01]",
+     "code": "[세원 02-01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 화학의 기초",
+     "summary": "원자 구조를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 02-01-01]",
+      "pdfPage": 87,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 세라믹 화학의 기초",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.cc7914f6e25c444ab09f"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 02-01-02]",
+     "code": "[세원 02-01-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 화학의 기초",
+     "summary": "원자, 분자, 이온을 구분하여 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 02-01-02]",
+      "pdfPage": 87,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 세라믹 화학의 기초",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.dccbd0a1c5bfd8adf690"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 02-01-03]",
+     "code": "[세원 02-01-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 화학의 기초",
+     "summary": "입자 단위(몰, mol), 화학 반응식의 기초를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 02-01-03]",
+      "pdfPage": 87,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 세라믹 화학의 기초",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.e2633b11a197e268ad60"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 02-02-01]",
+     "code": "[세원 02-02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 화학의 기초",
+     "summary": "주기율표에 대하여 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 02-02-01]",
+      "pdfPage": 87,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 세라믹 화학의 기초",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.7a5b88929311bcff3b8e"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 02-02-02]",
+     "code": "[세원 02-02-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 화학의 기초",
+     "summary": "화학 결합의 종류와 특성을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 02-02-02]",
+      "pdfPage": 87,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 세라믹 화학의 기초",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.3df9a8d414ea54d60e82"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 02-03-01]",
+     "code": "[세원 02-03-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 화학의 기초",
+     "summary": "결정 기본 구조를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 02-03-01]",
+      "pdfPage": 87,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 세라믹 화학의 기초",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.3fc62b8a3c845b18c4a3"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 02-03-02]",
+     "code": "[세원 02-03-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 화학의 기초",
+     "summary": "단결정, 다결정, 비결정질을 구분하여 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 02-03-02]",
+      "pdfPage": 87,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 세라믹 화학의 기초",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.f0efab2af483411b92e6"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 02-04-01]",
+     "code": "[세원 02-04-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 화학의 기초",
+     "summary": "열역학 기초 이론 및 열역학 각 법칙을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 02-04-01]",
+      "pdfPage": 87,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 세라믹 화학의 기초",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.aad24f9f2cc37b3c5791"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 02-04-02]",
+     "code": "[세원 02-04-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 화학의 기초",
+     "summary": "상평형의 원리와 상평형도를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 02-04-02]",
+      "pdfPage": 87,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 세라믹 화학의 기초",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.b94b92519d2d9051e216"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 03-01-01]",
+     "code": "[세원 03-01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 원료 제조",
+     "summary": "세라믹 원료의 특성을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 03-01-01]",
+      "pdfPage": 88,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 세라믹 원료 제조",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.077e104103423e119637"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 03-01-02]",
+     "code": "[세원 03-01-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 원료 제조",
+     "summary": "세라믹 원료를 종류별로 분류하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 03-01-02]",
+      "pdfPage": 88,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 세라믹 원료 제조",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.b9ea7882dac15922fe21"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 03-02-01]",
+     "code": "[세원 03-02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 원료 제조",
+     "summary": "고체로부터의 원료 합성 및 제조에 대해 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 03-02-01]",
+      "pdfPage": 88,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 세라믹 원료 제조",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.4e514ba3b4dea18592eb"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 03-02-02]",
+     "code": "[세원 03-02-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 원료 제조",
+     "summary": "액체로부터의 원료 합성 및 제조에 대해 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 03-02-02]",
+      "pdfPage": 88,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 세라믹 원료 제조",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.d456a6f70f906abd25ba"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 03-02-03]",
+     "code": "[세원 03-02-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 원료 제조",
+     "summary": "기체로부터의 원료 합성 및 제조에 대해 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 03-02-03]",
+      "pdfPage": 88,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 세라믹 원료 제조",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.ec4af35951ee193d41b6"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 04-01-01]",
+     "code": "[세원 04-01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "소성·소결 세라믹 제조 공정",
+     "summary": "소성·소결 세라믹 원료의 처리에 대하여 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 04-01-01]",
+      "pdfPage": 88,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 소성·소결 세라믹 제조 공정",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.2dfb4e9a382dc0c28e95"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 04-01-02]",
+     "code": "[세원 04-01-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "소성·소결 세라믹 제조 공정",
+     "summary": "소성·소결 세라믹 배토의 조제에 대하여 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 04-01-02]",
+      "pdfPage": 88,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 소성·소결 세라믹 제조 공정",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.c9171702e465205e4382"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 04-02-01]",
+     "code": "[세원 04-02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "소성·소결 세라믹 제조 공정",
+     "summary": "소성·소결 세라믹 성형의 개념에 대하여 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 04-02-01]",
+      "pdfPage": 89,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 소성·소결 세라믹 제조 공정",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.7d7740da4b61ba137455"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 04-02-02]",
+     "code": "[세원 04-02-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "소성·소결 세라믹 제조 공정",
+     "summary": "소성·소결 세라믹 성형의 종류에 대하여 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 04-02-02]",
+      "pdfPage": 89,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 소성·소결 세라믹 제조 공정",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.c49da4b94b6d658ddc46"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 04-03-01]",
+     "code": "[세원 04-03-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "소성·소결 세라믹 제조 공정",
+     "summary": "소성·소결 세라믹 건조의 개념에 대하여 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 04-03-01]",
+      "pdfPage": 89,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 소성·소결 세라믹 제조 공정",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.14d27b8c2c7a5947bae8"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 04-03-02]",
+     "code": "[세원 04-03-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "소성·소결 세라믹 제조 공정",
+     "summary": "소성·소결 세라믹 건조의 방법에 대하여 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 04-03-02]",
+      "pdfPage": 89,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 소성·소결 세라믹 제조 공정",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.ac9a31f8498fbc1bdf08"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 04-04-01]",
+     "code": "[세원 04-04-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "소성·소결 세라믹 제조 공정",
+     "summary": "소성·소결의 개념에 대하여 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 04-04-01]",
+      "pdfPage": 89,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 소성·소결 세라믹 제조 공정",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.ffa9dbbe6982f66eaf78"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 04-04-02]",
+     "code": "[세원 04-04-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "소성·소결 세라믹 제조 공정",
+     "summary": "소성·소결 장치를 이용한 소성·소결 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 04-04-02]",
+      "pdfPage": 89,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 소성·소결 세라믹 제조 공정",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.c9bc059598128e89971b"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 04-05-01]",
+     "code": "[세원 04-05-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "소성·소결 세라믹 제조 공정",
+     "summary": "소성·소결 세라믹에 사용하는 유약에 대하여 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 04-05-01]",
+      "pdfPage": 89,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 소성·소결 세라믹 제조 공정",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.9e656e62b7a1b23b1ea4"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 04-05-02]",
+     "code": "[세원 04-05-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "소성·소결 세라믹 제조 공정",
+     "summary": "소성·소결 세라믹에 사용하는 장식에 대하여 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 04-05-02]",
+      "pdfPage": 89,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 소성·소결 세라믹 제조 공정",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.3758591086212770375c"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 05-01-01]",
+     "code": "[세원 05-01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 소성·소결",
+     "summary": "소성·소결의 기초 이론을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 05-01-01]",
+      "pdfPage": 90,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 세라믹 소성·소결",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.5115ef381a883a95abf2"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 05-01-02]",
+     "code": "[세원 05-01-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 소성·소결",
+     "summary": "소성·소결 중 일어나는 현상과 변화를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 05-01-02]",
+      "pdfPage": 90,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 세라믹 소성·소결",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.98becc167e85982290e0"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 05-02-01]",
+     "code": "[세원 05-02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 소성·소결",
+     "summary": "소성·소결 장치를 구분하여 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 05-02-01]",
+      "pdfPage": 90,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 세라믹 소성·소결",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.c6b2e6b0264491a2ea2d"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 05-02-02]",
+     "code": "[세원 05-02-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 소성·소결",
+     "summary": "소성·소결 방법을 구분하여 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 05-02-02]",
+      "pdfPage": 90,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 세라믹 소성·소결",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.bf402e54897ce789c3e1"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 06-01-01]",
+     "code": "[세원 06-01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 재료 평가",
+     "summary": "세라믹 원료 분체의 제조 과정을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 06-01-01]",
+      "pdfPage": 90,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 세라믹 재료 평가",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.f088529daa8d810e3160"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 06-01-02]",
+     "code": "[세원 06-01-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 재료 평가",
+     "summary": "세라믹 원료 분체의 특성 평가 장치와 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 06-01-02]",
+      "pdfPage": 90,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 세라믹 재료 평가",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.dbbcf859d5519d8eb59a"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 06-02-01]",
+     "code": "[세원 06-02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 재료 평가",
+     "summary": "세라믹 미세 조직의 관찰 장치와 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 06-02-01]",
+      "pdfPage": 91,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 세라믹 재료 평가",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.e39093686e3884877b17"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 06-02-02]",
+     "code": "[세원 06-02-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 재료 평가",
+     "summary": "세라믹 미세 조직의 특성 평가 장치와 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 06-02-02]",
+      "pdfPage": 91,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 세라믹 재료 평가",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.9ea0d8e5bfd28c7b8751"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 06-03-01]",
+     "code": "[세원 06-03-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 재료 평가",
+     "summary": "세라믹의 강도 측정 장치와 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 06-03-01]",
+      "pdfPage": 91,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 세라믹 재료 평가",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.34572bd570dbb8690f45"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 06-03-02]",
+     "code": "[세원 06-03-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 재료 평가",
+     "summary": "세라믹의 경도 측정 장치와 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 06-03-02]",
+      "pdfPage": 91,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 세라믹 재료 평가",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.350cdd5b5cebbe5b2287"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 06-04-01]",
+     "code": "[세원 06-04-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 재료 평가",
+     "summary": "세라믹의 유전성 측정 장치와 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 06-04-01]",
+      "pdfPage": 91,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 세라믹 재료 평가",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.64d3645044a0229ef240"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 06-04-02]",
+     "code": "[세원 06-04-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 재료 평가",
+     "summary": "세라믹의 압전성 측정 장치와 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 06-04-02]",
+      "pdfPage": 91,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 세라믹 재료 평가",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.7583ff0d9f5eba7d9282"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 06-05-01]",
+     "code": "[세원 06-05-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 재료 평가",
+     "summary": "세라믹의 열팽창 측정 장치와 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 06-05-01]",
+      "pdfPage": 92,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 세라믹 재료 평가",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.f9bef42393cd3278fee2"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 06-05-02]",
+     "code": "[세원 06-05-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 재료 평가",
+     "summary": "세라믹의 강열 감량 측정 장치와 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 06-05-02]",
+      "pdfPage": 92,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 세라믹 재료 평가",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.d1afb6ba4febe5ab79b4"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 06-06-01]",
+     "code": "[세원 06-06-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "영역 06",
+     "summary": "소성·소결 시 색 측정 장치와 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 06-06-01]",
+      "pdfPage": 92,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 영역 06",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.97e65d1f962d2d4621aa"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 06-06-02]",
+     "code": "[세원 06-06-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "영역 06",
+     "summary": "세라믹의 밀도와 비중 측정 장치와 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 06-06-02]",
+      "pdfPage": 92,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 영역 06",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.bad748abebe41ed76aa0"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 06-06-03]",
+     "code": "[세원 06-06-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "영역 06",
+     "summary": "세라믹의 흡수율과 기공률 측정 장치와 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 06-06-03]",
+      "pdfPage": 92,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 영역 06",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.1355699fd8bf69060596"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-원리-공정:[세원 06-06-04]",
+     "code": "[세원 06-06-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 원리·공정",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "영역 06",
+     "summary": "세라믹의 결함과 소결성 측정 장치와 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세원 06-06-04]",
+      "pdfPage": 92,
+      "printedPage": null,
+      "section": "세라믹 원리·공정 > 영역 06",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.a09cb5a93f1c38e3ab21"
+    }
+   ]
+  },
+  {
+   "id": "kr-2022-voc-세라믹-재료",
+   "subjectKorean": "세라믹 재료",
+   "majorFieldSlug": "materials",
+   "subjectGroupKorean": "재료",
+   "courseCategory": "major-general",
+   "gradeBand": "10-12",
+   "name": "세라믹 재료 2022 개정 전문교과 교육과정",
+   "deck6CourseId": "kr.course.2022.high.2054f61db93cb33e",
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ],
+   "standardCount": 25,
+   "standards": [
+    {
+     "key": "kr-2022-voc-세라믹-재료:[세재 01-01]",
+     "code": "[세재 01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 재료",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 재료의 개요",
+     "summary": "세라믹 재료를 전통 세라믹 및 파인 세라믹으로 구분하여 종류를 알고, 그 분야의 기초 용어 를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세재 01-01]",
+      "pdfPage": 76,
+      "printedPage": null,
+      "section": "세라믹 재료 > 세라믹 재료의 개요",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.d522537f58b2c03af6ef"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-재료:[세재 01-02]",
+     "code": "[세재 01-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 재료",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 재료의 개요",
+     "summary": "세라믹 재료 및 제품을 분류할 때 제품이 가지는 특성과 연계된 재료 및 원료의 종류를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세재 01-02]",
+      "pdfPage": 76,
+      "printedPage": null,
+      "section": "세라믹 재료 > 세라믹 재료의 개요",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.52ab1af2f228f2f17f4b"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-재료:[세재 01-03]",
+     "code": "[세재 01-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 재료",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 재료의 개요",
+     "summary": "세라믹 재료를 전통 세라믹과 파인 세라믹으로 구분하여 그 특성에 따른 재료의 용도를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세재 01-03]",
+      "pdfPage": 76,
+      "printedPage": null,
+      "section": "세라믹 재료 > 세라믹 재료의 개요",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.e5c6ef8252f5dafa90ee"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-재료:[세재 02-01]",
+     "code": "[세재 02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 재료",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 재료의 특성 및 결정 구조",
+     "summary": "세라믹 재료를 금속, 폴리머, 유기 재료 등과 구분하여 그 특성을 알 수 있고, 각종 기초 용어 를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세재 02-01]",
+      "pdfPage": 77,
+      "printedPage": null,
+      "section": "세라믹 재료 > 세라믹 재료의 특성 및 결정 구조",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.9f6284bc9dec6423ed09"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-재료:[세재 02-02]",
+     "code": "[세재 02-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 재료",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 재료의 특성 및 결정 구조",
+     "summary": "세라믹 재료를 결정 구조에 따라 분류할 수 있고, 결정 구조에 따른 특성을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세재 02-02]",
+      "pdfPage": 77,
+      "printedPage": null,
+      "section": "세라믹 재료 > 세라믹 재료의 특성 및 결정 구조",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.e2f1b24e2477347de0c8"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-재료:[세재 03-01]",
+     "code": "[세재 03-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 재료",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 재료",
+     "summary": "규산질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세재 03-01]",
+      "pdfPage": 77,
+      "printedPage": null,
+      "section": "세라믹 재료 > 세라믹 재료",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.a737c10c938b2f5387a7"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-재료:[세재 03-02]",
+     "code": "[세재 03-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 재료",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 재료",
+     "summary": "알루미나질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세재 03-02]",
+      "pdfPage": 77,
+      "printedPage": null,
+      "section": "세라믹 재료 > 세라믹 재료",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.1eca2b3ab3c721fe6e6b"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-재료:[세재 03-03]",
+     "code": "[세재 03-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 재료",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 재료",
+     "summary": "장석질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세재 03-03]",
+      "pdfPage": 77,
+      "printedPage": null,
+      "section": "세라믹 재료 > 세라믹 재료",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.522cd06b3d014bdb18a6"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-재료:[세재 03-04]",
+     "code": "[세재 03-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 재료",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 재료",
+     "summary": "점토질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세재 03-04]",
+      "pdfPage": 77,
+      "printedPage": null,
+      "section": "세라믹 재료 > 세라믹 재료",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.fb33547d427bd92512a4"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-재료:[세재 03-05]",
+     "code": "[세재 03-05]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 재료",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 재료",
+     "summary": "납석질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세재 03-05]",
+      "pdfPage": 77,
+      "printedPage": null,
+      "section": "세라믹 재료 > 세라믹 재료",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.010fed896f754ffb3cc1"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-재료:[세재 03-06]",
+     "code": "[세재 03-06]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 재료",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 재료",
+     "summary": "석회질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세재 03-06]",
+      "pdfPage": 77,
+      "printedPage": null,
+      "section": "세라믹 재료 > 세라믹 재료",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.caf79c6c12362f46b6f4"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-재료:[세재 03-07]",
+     "code": "[세재 03-07]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 재료",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 재료",
+     "summary": "마그네시아질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세재 03-07]",
+      "pdfPage": 77,
+      "printedPage": null,
+      "section": "세라믹 재료 > 세라믹 재료",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.4135f67eb5b6175ac03b"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-재료:[세재 03-08]",
+     "code": "[세재 03-08]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 재료",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 재료",
+     "summary": "탄소질 원료의 종류, 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세재 03-08]",
+      "pdfPage": 77,
+      "printedPage": null,
+      "section": "세라믹 재료 > 세라믹 재료",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.6d793799a3deacc6f399"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-재료:[세재 03-09]",
+     "code": "[세재 03-09]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 재료",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 재료",
+     "summary": "도토의 결정 구조, 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세재 03-09]",
+      "pdfPage": 77,
+      "printedPage": null,
+      "section": "세라믹 재료 > 세라믹 재료",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.0ec332de91e16288d347"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-재료:[세재 03-10]",
+     "code": "[세재 03-10]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 재료",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 재료",
+     "summary": "기타 원료의 종류와 특성을 알 수 있고, 원료의 선정과 이용 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세재 03-10]",
+      "pdfPage": 77,
+      "printedPage": null,
+      "section": "세라믹 재료 > 세라믹 재료",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.27c34def51fb5dd5462d"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-재료:[세재 04-01]",
+     "code": "[세재 04-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 재료",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 제조 공정",
+     "summary": "세라믹 원료를 제조하기 위한 원료 출토, 분쇄, 혼합, 여과, 조제 등에 관한 지식과 기술을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세재 04-01]",
+      "pdfPage": 78,
+      "printedPage": null,
+      "section": "세라믹 재료 > 세라믹 제조 공정",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.1f5fdd5cbe99cc522e64"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-재료:[세재 04-02]",
+     "code": "[세재 04-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 재료",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 제조 공정",
+     "summary": "세라믹 원료를 성형 및 정형하기 위한 주입 성형, 물레 성형, 가압 성형, 기타 성형 등에 관한 지식과 기술을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세재 04-02]",
+      "pdfPage": 78,
+      "printedPage": null,
+      "section": "세라믹 재료 > 세라믹 제조 공정",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.4a653d8704c6b34fa4fd"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-재료:[세재 04-03]",
+     "code": "[세재 04-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 재료",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 제조 공정",
+     "summary": "성형 및 정형 과정을 거친 세라믹 제품을 건조하기 위한 기초 이론, 건조 방법, 건조 기기 등에 관한 지식과 기술을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세재 04-03]",
+      "pdfPage": 78,
+      "printedPage": null,
+      "section": "세라믹 재료 > 세라믹 제조 공정",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.9e9b918e8c8a71012360"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-재료:[세재 04-04]",
+     "code": "[세재 04-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 재료",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 제조 공정",
+     "summary": "장식 기법들이 활용되는 세라믹 제품에 관한 지식과 기술을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세재 04-04]",
+      "pdfPage": 78,
+      "printedPage": null,
+      "section": "세라믹 재료 > 세라믹 제조 공정",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.a571eca45379274c7c6b"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-재료:[세재 04-05]",
+     "code": "[세재 04-05]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 재료",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 제조 공정",
+     "summary": "유약의 조합, 유약의 종류 및 특성, 각종 시유 기법에 관한 지식과 기술을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세재 04-05]",
+      "pdfPage": 78,
+      "printedPage": null,
+      "section": "세라믹 재료 > 세라믹 제조 공정",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.0ce8a8a3c3c200328baa"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-재료:[세재 04-06]",
+     "code": "[세재 04-06]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 재료",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 제조 공정",
+     "summary": "다양한 소성 방법의 종류 및 특성에 관한 지식과 기술을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세재 04-06]",
+      "pdfPage": 78,
+      "printedPage": null,
+      "section": "세라믹 재료 > 세라믹 제조 공정",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.3424701951fb95a7b890"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-재료:[세재 05-01]",
+     "code": "[세재 05-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 재료",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 제조 기기",
+     "summary": "다양한 소성용 노(爐, furnace)의 종류 및 특성에 관한 지식과 기술을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세재 05-01]",
+      "pdfPage": 79,
+      "printedPage": null,
+      "section": "세라믹 재료 > 세라믹 제조 기기",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.c6ccc2a99fcc0982ff8f"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-재료:[세재 05-02]",
+     "code": "[세재 05-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 재료",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 제조 기기",
+     "summary": "대량 생산을 위한 각종 공업용 가마의 종류 및 특성에 관한 지식과 기술을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세재 05-02]",
+      "pdfPage": 79,
+      "printedPage": null,
+      "section": "세라믹 재료 > 세라믹 제조 기기",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.0a86f8ec5471243d011a"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-재료:[세재 05-03]",
+     "code": "[세재 05-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 재료",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 제조 기기",
+     "summary": "가마를 제조하기 위해 사용하는 각종 가마용 내화재의 종류 및 특성에 관한 지식과 기술을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세재 05-03]",
+      "pdfPage": 79,
+      "printedPage": null,
+      "section": "세라믹 재료 > 세라믹 제조 기기",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.5c49fcb5f73976ffe401"
+    },
+    {
+     "key": "kr-2022-voc-세라믹-재료:[세재 05-04]",
+     "code": "[세재 05-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "세라믹 재료",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "세라믹 제조 기기",
+     "summary": "기타 다양한 세라믹 제조 기기의 종류 및 특성에 관한 지식과 기술을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[세재 05-04]",
+      "pdfPage": 79,
+      "printedPage": null,
+      "section": "세라믹 재료 > 세라믹 제조 기기",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.ad427301b633f4b6e65b"
+    }
+   ]
+  },
+  {
+   "id": "kr-2022-voc-재료-시험",
+   "subjectKorean": "재료 시험",
+   "majorFieldSlug": "materials",
+   "subjectGroupKorean": "재료",
+   "courseCategory": "major-general",
+   "gradeBand": "10-12",
+   "name": "재료 시험 2022 개정 전문교과 교육과정",
+   "deck6CourseId": "kr.course.2022.high.b29748817147b18f",
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ],
+   "standardCount": 26,
+   "standards": [
+    {
+     "key": "kr-2022-voc-재료-시험:[재시 01-01]",
+     "code": "[재시 01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 시험",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "재료 시험의 개요",
+     "summary": "기계 재료의 종류를 설명할 수 있고, 재료의 시험 및 성질을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재시 01-01]",
+      "pdfPage": 68,
+      "printedPage": null,
+      "section": "재료 시험 > 재료 시험의 개요",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.e9b46655c39815e3c80c"
+    },
+    {
+     "key": "kr-2022-voc-재료-시험:[재시 01-02]",
+     "code": "[재시 01-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 시험",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "재료 시험의 개요",
+     "summary": "재료 시험의 목적을 설명할 수 있고, 재료 시험법의 종류를 구분하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재시 01-02]",
+      "pdfPage": 68,
+      "printedPage": null,
+      "section": "재료 시험 > 재료 시험의 개요",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.3c02b1ea38db2c5a27bb"
+    },
+    {
+     "key": "kr-2022-voc-재료-시험:[재시 01-03]",
+     "code": "[재시 01-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 시험",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "재료 시험의 개요",
+     "summary": "재료 시험할 때의 주의 사항, 시험편의 채취, 시험편의 치수 측정, 시험기 취급, 재료 시험 의 규격 등을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재시 01-03]",
+      "pdfPage": 68,
+      "printedPage": null,
+      "section": "재료 시험 > 재료 시험의 개요",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.4a02c67140a21e90ca83"
+    },
+    {
+     "key": "kr-2022-voc-재료-시험:[재시 01-04]",
+     "code": "[재시 01-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 시험",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "재료 시험의 개요",
+     "summary": "재료 시험 결과의 데이터 처리, 측정값 정리를 할 수 있으며, 시험편을 보존하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재시 01-04]",
+      "pdfPage": 68,
+      "printedPage": null,
+      "section": "재료 시험 > 재료 시험의 개요",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.fc24ca4cd82b2f44efc7"
+    },
+    {
+     "key": "kr-2022-voc-재료-시험:[재시 02-01]",
+     "code": "[재시 02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 시험",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "기계적 시험",
+     "summary": "재료의 기계적 성질 시험의 목적을 이해하고, 종류에 따른 특징을 구분하여 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재시 02-01]",
+      "pdfPage": 68,
+      "printedPage": null,
+      "section": "재료 시험 > 기계적 시험",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.9d1ef9b295d84316fcc0"
+    },
+    {
+     "key": "kr-2022-voc-재료-시험:[재시 02-02]",
+     "code": "[재시 02-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 시험",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "기계적 시험",
+     "summary": "응력·변형률 선도를 이해하고, 인장 시험 결괏값을 통한 인장 강도를 계산하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재시 02-02]",
+      "pdfPage": 68,
+      "printedPage": null,
+      "section": "재료 시험 > 기계적 시험",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.d458666fb330bd5d780a"
+    },
+    {
+     "key": "kr-2022-voc-재료-시험:[재시 02-03]",
+     "code": "[재시 02-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 시험",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "기계적 시험",
+     "summary": "경도 시험의 종류와 특징을 설명할 수 있으며, 경도 시험 결괏값을 통한 경돗값을 계산하여 재료의 경돗값을 판별하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재시 02-03]",
+      "pdfPage": 68,
+      "printedPage": null,
+      "section": "재료 시험 > 기계적 시험",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.edeeab80018b99b50d83"
+    },
+    {
+     "key": "kr-2022-voc-재료-시험:[재시 02-04]",
+     "code": "[재시 02-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 시험",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "기계적 시험",
+     "summary": "충격 시험의 원리를 이해하고, 충격 에너지와 충격값을 계산하여 연성 및 취성의 기계적 성 질을 판별하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재시 02-04]",
+      "pdfPage": 68,
+      "printedPage": null,
+      "section": "재료 시험 > 기계적 시험",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.7e8758296fbf1055174f"
+    },
+    {
+     "key": "kr-2022-voc-재료-시험:[재시 02-05]",
+     "code": "[재시 02-05]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 시험",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "기계적 시험",
+     "summary": "피로 시험의 원리와 특징을 설명할 수 있고, 피도 한도와 기계적 성질의 관계를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재시 02-05]",
+      "pdfPage": 68,
+      "printedPage": null,
+      "section": "재료 시험 > 기계적 시험",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.9ea09132bc2c09052511"
+    },
+    {
+     "key": "kr-2022-voc-재료-시험:[재시 02-06]",
+     "code": "[재시 02-06]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 시험",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "기계적 시험",
+     "summary": "그 밖의 기계적 성질 시험의 특성을 이해하고, 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재시 02-06]",
+      "pdfPage": 68,
+      "printedPage": null,
+      "section": "재료 시험 > 기계적 시험",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.8beba66327af61a7f2a6"
+    },
+    {
+     "key": "kr-2022-voc-재료-시험:[재시 03-01]",
+     "code": "[재시 03-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 시험",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "조직 시험",
+     "summary": "조직 시험의 목적을 이해하고, 시험의 종류와 특징을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재시 03-01]",
+      "pdfPage": 69,
+      "printedPage": null,
+      "section": "재료 시험 > 조직 시험",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.700d9423269d73627efc"
+    },
+    {
+     "key": "kr-2022-voc-재료-시험:[재시 03-02]",
+     "code": "[재시 03-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 시험",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "조직 시험",
+     "summary": "현미경의 구조와 작동법을 이해하고, 시험편의 제작과 시험을 수행하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재시 03-02]",
+      "pdfPage": 69,
+      "printedPage": null,
+      "section": "재료 시험 > 조직 시험",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.c015ae1d4ef00a277e26"
+    },
+    {
+     "key": "kr-2022-voc-재료-시험:[재시 03-03]",
+     "code": "[재시 03-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 시험",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "조직 시험",
+     "summary": "매크로 조직 검사, 비금속 개재물 시험 및 설퍼 프린트법의 원리를 이해하고 시험법을 설명 하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재시 03-03]",
+      "pdfPage": 69,
+      "printedPage": null,
+      "section": "재료 시험 > 조직 시험",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.3be988c2f5adb90b9bf6"
+    },
+    {
+     "key": "kr-2022-voc-재료-시험:[재시 03-04]",
+     "code": "[재시 03-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 시험",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "조직 시험",
+     "summary": "강의 페라이트 결정 입도 측정법을 이해하고 계산할 수 있으며, 조직량 측정법을 이해하고 계산하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재시 03-04]",
+      "pdfPage": 69,
+      "printedPage": null,
+      "section": "재료 시험 > 조직 시험",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.f832adad58eb7eea743e"
+    },
+    {
+     "key": "kr-2022-voc-재료-시험:[재시 03-05]",
+     "code": "[재시 03-05]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 시험",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "조직 시험",
+     "summary": "전자 현미경의 종류 및 각각의 원리를 이해하고 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재시 03-05]",
+      "pdfPage": 69,
+      "printedPage": null,
+      "section": "재료 시험 > 조직 시험",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.e7ea889314edb8a129de"
+    },
+    {
+     "key": "kr-2022-voc-재료-시험:[재시 04-01]",
+     "code": "[재시 04-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 시험",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "비파괴 시험",
+     "summary": "비파괴 시험 시험법의 목적을 이해하고, 종류 및 적용 특성을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재시 04-01]",
+      "pdfPage": 69,
+      "printedPage": null,
+      "section": "재료 시험 > 비파괴 시험",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.c1a3d4c663121386f02d"
+    },
+    {
+     "key": "kr-2022-voc-재료-시험:[재시 04-02]",
+     "code": "[재시 04-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 시험",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "비파괴 시험",
+     "summary": "방사선 투과 시험의 원리를 설명하고, 시험 결과를 성적서로 작성하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재시 04-02]",
+      "pdfPage": 69,
+      "printedPage": null,
+      "section": "재료 시험 > 비파괴 시험",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.8443f2ef4c8add56da3c"
+    },
+    {
+     "key": "kr-2022-voc-재료-시험:[재시 04-03]",
+     "code": "[재시 04-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 시험",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "비파괴 시험",
+     "summary": "초음파 탐상 시험의 원리를 설명하고, 시험 결과를 성적서로 작성하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재시 04-03]",
+      "pdfPage": 69,
+      "printedPage": null,
+      "section": "재료 시험 > 비파괴 시험",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.cabc263798d0766584bf"
+    },
+    {
+     "key": "kr-2022-voc-재료-시험:[재시 04-04]",
+     "code": "[재시 04-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 시험",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "비파괴 시험",
+     "summary": "침투 탐상 시험의 원리를 설명하고, 시험 결과를 성적서로 작성하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재시 04-04]",
+      "pdfPage": 69,
+      "printedPage": null,
+      "section": "재료 시험 > 비파괴 시험",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.8bc0adc721ce7a1c2db8"
+    },
+    {
+     "key": "kr-2022-voc-재료-시험:[재시 04-05]",
+     "code": "[재시 04-05]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 시험",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "비파괴 시험",
+     "summary": "자기 탐상 시험의 원리를 설명하고, 시험 결과를 성적서로 작성하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재시 04-05]",
+      "pdfPage": 69,
+      "printedPage": null,
+      "section": "재료 시험 > 비파괴 시험",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.366d39bcef4ae18c7b18"
+    },
+    {
+     "key": "kr-2022-voc-재료-시험:[재시 04-06]",
+     "code": "[재시 04-06]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 시험",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "비파괴 시험",
+     "summary": "기타 비파괴 시험의 각각의 원리를 이해하고, 적용 방법에 대해 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재시 04-06]",
+      "pdfPage": 69,
+      "printedPage": null,
+      "section": "재료 시험 > 비파괴 시험",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.95a17506b56de0d2ffa3"
+    },
+    {
+     "key": "kr-2022-voc-재료-시험:[재시 05-01]",
+     "code": "[재시 05-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 시험",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "그 밖의 시험",
+     "summary": "강의 불꽃 시험 원리를 이해하여 시험 결과를 해석하여 성적서로 작성하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재시 05-01]",
+      "pdfPage": 70,
+      "printedPage": null,
+      "section": "재료 시험 > 그 밖의 시험",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.7402e5db526c35325f77"
+    },
+    {
+     "key": "kr-2022-voc-재료-시험:[재시 05-02]",
+     "code": "[재시 05-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 시험",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "그 밖의 시험",
+     "summary": "파면의 매크로 관찰을 통해 파단면을 분석하여 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재시 05-02]",
+      "pdfPage": 70,
+      "printedPage": null,
+      "section": "재료 시험 > 그 밖의 시험",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.cbf530ca818e7dced43b"
+    },
+    {
+     "key": "kr-2022-voc-재료-시험:[재시 05-03]",
+     "code": "[재시 05-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 시험",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "그 밖의 시험",
+     "summary": "경화능 시험의 원리를 설명하고, 측정 결과를 성적서로 작성하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재시 05-03]",
+      "pdfPage": 70,
+      "printedPage": null,
+      "section": "재료 시험 > 그 밖의 시험",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.e5374e75cc601280bdeb"
+    },
+    {
+     "key": "kr-2022-voc-재료-시험:[재시 05-04]",
+     "code": "[재시 05-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 시험",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "그 밖의 시험",
+     "summary": "분광 및 성분 분석법을 분류하여 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재시 05-04]",
+      "pdfPage": 70,
+      "printedPage": null,
+      "section": "재료 시험 > 그 밖의 시험",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.897c636b5100059ded71"
+    },
+    {
+     "key": "kr-2022-voc-재료-시험:[재시 05-05]",
+     "code": "[재시 05-05]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 시험",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "그 밖의 시험",
+     "summary": "코딩 두께 시험의 원리를 설명하고, 측정 결과를 성적서로 작성하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재시 05-05]",
+      "pdfPage": 70,
+      "printedPage": null,
+      "section": "재료 시험 > 그 밖의 시험",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.666ed4fa31ef804efa4d"
+    }
+   ]
+  },
+  {
+   "id": "kr-2022-voc-재료-일반",
+   "subjectKorean": "재료 일반",
+   "majorFieldSlug": "materials",
+   "subjectGroupKorean": "재료",
+   "courseCategory": "major-general",
+   "gradeBand": "10-12",
+   "name": "재료 일반 2022 개정 전문교과 교육과정",
+   "deck6CourseId": "kr.course.2022.high.8a3cb04b838e7e4f",
+   "sourceRefs": [
+    "kr-nec-2024-3-annex31"
+   ],
+   "standardCount": 28,
+   "standards": [
+    {
+     "key": "kr-2022-voc-재료-일반:[금신 11-01-01]",
+     "code": "[금신 11-01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 일반",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "재료 시험과 검사",
+     "summary": ", [금신 11-01-02], [금신 11-02-01], [금신 11-02-03]과 연계하여 학습하도 록 하며, 각 시험에 활용되는 디지털 기기 활용 방법을 정확히 숙지하고 시험을 수행할 수 있도록 하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[금신 11-01-01]",
+      "pdfPage": 60,
+      "printedPage": null,
+      "section": "재료 일반 > 재료 시험과 검사",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.989d79eaf06f6a9865e6"
+    },
+    {
+     "key": "kr-2022-voc-재료-일반:[재일 01-01]",
+     "code": "[재일 01-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 일반",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "공업 재료",
+     "summary": "산업 현장에서 활용되고 있는 금속 및 비금속 공업 재료의 종류, 성질, 용도에 대해 알고 최 근 공업 재료의 변화에 대해 디지털 기기를 활용하여 정보를 검색하여 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재일 01-01]",
+      "pdfPage": 59,
+      "printedPage": null,
+      "section": "재료 일반 > 공업 재료",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.63e015cb1c0adf23f592"
+    },
+    {
+     "key": "kr-2022-voc-재료-일반:[재일 01-02]",
+     "code": "[재일 01-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 일반",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "공업 재료",
+     "summary": "금속 재료의 종류, 용도, 일반적인 특징과 결정 구조에 따른 성질을 구분하여 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재일 01-02]",
+      "pdfPage": 59,
+      "printedPage": null,
+      "section": "재료 일반 > 공업 재료",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.1ac353bcbbf8693fc0db"
+    },
+    {
+     "key": "kr-2022-voc-재료-일반:[재일 01-03]",
+     "code": "[재일 01-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 일반",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "공업 재료",
+     "summary": "비금속 재료의 종류, 용도, 일반적인 특징과 공업 재료로서 비금속 재료의 중요성을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재일 01-03]",
+      "pdfPage": 59,
+      "printedPage": null,
+      "section": "재료 일반 > 공업 재료",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.03f28368c9af6a5a9770"
+    },
+    {
+     "key": "kr-2022-voc-재료-일반:[재일 02-01]",
+     "code": "[재일 02-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 일반",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "재료 시험과 검사",
+     "summary": "인장, 경도, 충격 및 기타 기계적 시험의 종류와 특징을 알고 기계적 시험이 왜 필요한지 개 념을 명확히 이해하며, 시험법에 따라 안전하게 검사를 수행하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재일 02-01]",
+      "pdfPage": 59,
+      "printedPage": null,
+      "section": "재료 일반 > 재료 시험과 검사",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.663d3ecdee849217d5a3"
+    },
+    {
+     "key": "kr-2022-voc-재료-일반:[재일 02-02]",
+     "code": "[재일 02-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 일반",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "재료 시험과 검사",
+     "summary": "육안 검사, 방사선 비파괴 검사, 초음파 비파괴 검사, 자기 비파괴 검사, 침투 비파괴 검사 및 기타 비파괴 시험의 종류와 시험법을 이해하고 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재일 02-02]",
+      "pdfPage": 59,
+      "printedPage": null,
+      "section": "재료 일반 > 재료 시험과 검사",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.bfa94339d75cc50c8f6c"
+    },
+    {
+     "key": "kr-2022-voc-재료-일반:[재일 02-03]",
+     "code": "[재일 02-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 일반",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "재료 시험과 검사",
+     "summary": "금속 현미경 조직 시험의 개념과 특징을 알고 주요 금속의 현미경 조직 시험을 통해 금속 조직과 성질의 변화를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재일 02-03]",
+      "pdfPage": 59,
+      "printedPage": null,
+      "section": "재료 일반 > 재료 시험과 검사",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.b1ea61378023aa9f0e95"
+    },
+    {
+     "key": "kr-2022-voc-재료-일반:[재일 02-04]",
+     "code": "[재일 02-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 일반",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "재료 시험과 검사",
+     "summary": "정보 기술 및 디지털 기기를 활용한 다양한 재료 시험 방법에 대해 알고 재료 시험법의 응용 과 활용도를 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재일 02-04]",
+      "pdfPage": 59,
+      "printedPage": null,
+      "section": "재료 일반 > 재료 시험과 검사",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.588fd7a68b03d92dd0ca"
+    },
+    {
+     "key": "kr-2022-voc-재료-일반:[재일 03-01]",
+     "code": "[재일 03-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 일반",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "철강 재료",
+     "summary": "금속 재료의 가장 기본적이고 중요한 철강의 분류법과 용도에 대해 이해하고, 용도별 재료의 특성과 제조 방법을 간략히 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재일 03-01]",
+      "pdfPage": 60,
+      "printedPage": null,
+      "section": "재료 일반 > 철강 재료",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.90610e1b4ab937ae7ceb"
+    },
+    {
+     "key": "kr-2022-voc-재료-일반:[재일 03-02]",
+     "code": "[재일 03-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 일반",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "철강 재료",
+     "summary": "철과 철에 포함되는 5대 원소의 영향을 이해하고, 공업적 용도의 순철과 탄소강의 조직 및 철-탄소 평형 상태도를 통해 철강 재료에 관해 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재일 03-02]",
+      "pdfPage": 60,
+      "printedPage": null,
+      "section": "재료 일반 > 철강 재료",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.8f118128549c2ab56c9a"
+    },
+    {
+     "key": "kr-2022-voc-재료-일반:[재일 03-03]",
+     "code": "[재일 03-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 일반",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "철강 재료",
+     "summary": "탄소강에서 얻을 수 없는 특정한 성질을 얻기 위해 첨가하는 합금 원소의 종류와 재료 명칭 등에 대해 이해하고, 각각의 용도와 처리 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재일 03-03]",
+      "pdfPage": 60,
+      "printedPage": null,
+      "section": "재료 일반 > 철강 재료",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.4520e187be98d4d94c4b"
+    },
+    {
+     "key": "kr-2022-voc-재료-일반:[재일 03-04]",
+     "code": "[재일 03-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 일반",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "철강 재료",
+     "summary": "철-탄소 평형 상태도를 이용하여 주철과 주강을 구분하여 설명할 수 있고, 각각의 종류와 용도 및 처리 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재일 03-04]",
+      "pdfPage": 60,
+      "printedPage": null,
+      "section": "재료 일반 > 철강 재료",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.7d124d95858261c8b318"
+    },
+    {
+     "key": "kr-2022-voc-재료-일반:[재일 04-01]",
+     "code": "[재일 04-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 일반",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "비철 금속 재료",
+     "summary": "알루미늄 합금의 일반적인 특성을 알고 그에 따른 종류와 용도 및 가공 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재일 04-01]",
+      "pdfPage": 60,
+      "printedPage": null,
+      "section": "재료 일반 > 비철 금속 재료",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.9bbddef03f5f7825f316"
+    },
+    {
+     "key": "kr-2022-voc-재료-일반:[재일 04-02]",
+     "code": "[재일 04-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 일반",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "비철 금속 재료",
+     "summary": "구리 합금의 일반적인 특성을 알고 그에 따른 종류와 용도 및 처리 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재일 04-02]",
+      "pdfPage": 60,
+      "printedPage": null,
+      "section": "재료 일반 > 비철 금속 재료",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.05daabeb718d7a0d892a"
+    },
+    {
+     "key": "kr-2022-voc-재료-일반:[재일 04-03]",
+     "code": "[재일 04-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 일반",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "비철 금속 재료",
+     "summary": "공업 재료로서 활용도가 높은 비철 경합금 및 고융점 합금 등 각종 비철 금속의 종류와 성질을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재일 04-03]",
+      "pdfPage": 60,
+      "printedPage": null,
+      "section": "재료 일반 > 비철 금속 재료",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.5215cd11423f3cbc599e"
+    },
+    {
+     "key": "kr-2022-voc-재료-일반:[재일 05-01]",
+     "code": "[재일 05-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 일반",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "기능성 금속 재료",
+     "summary": "금속을 바탕으로 한 금속, 비금속 등의 이종 재료를 복합하여 필요한 재료 특성을 얻기 위한 금속 기지 복합 재료를 이해하고, 그 종류와 용도 및 제조 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재일 05-01]",
+      "pdfPage": 61,
+      "printedPage": null,
+      "section": "재료 일반 > 기능성 금속 재료",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.3a66f6b51d23ce36e3b2"
+    },
+    {
+     "key": "kr-2022-voc-재료-일반:[재일 05-02]",
+     "code": "[재일 05-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 일반",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "기능성 금속 재료",
+     "summary": "형상 기억 효과의 원리와 이론을 이해하고, 실제 적용되는 범위 및 활용도에 대해 디지털 도구를 이용하여 조사하고 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재일 05-02]",
+      "pdfPage": 61,
+      "printedPage": null,
+      "section": "재료 일반 > 기능성 금속 재료",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.45e8083e5ba20c199e6b"
+    },
+    {
+     "key": "kr-2022-voc-재료-일반:[재일 05-03]",
+     "code": "[재일 05-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 일반",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "기능성 금속 재료",
+     "summary": "제진 원리와 제진 기구에 대하여 이해하고, 제진 합금의 종류와 용도 및 공업적 응용 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재일 05-03]",
+      "pdfPage": 61,
+      "printedPage": null,
+      "section": "재료 일반 > 기능성 금속 재료",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.3b0495e69503ae7dea46"
+    },
+    {
+     "key": "kr-2022-voc-재료-일반:[재일 05-04]",
+     "code": "[재일 05-04]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 일반",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "기능성 금속 재료",
+     "summary": "결정 구조를 갖지 않는 비정질 재료의 제조 원리와 이론을 이해하고, 비정질 합금의 종류와 용도 및 제조 방법을 디지털 도구를 이용하여 조사하고 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재일 05-04]",
+      "pdfPage": 61,
+      "printedPage": null,
+      "section": "재료 일반 > 기능성 금속 재료",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.ab73bb01c008c117c64d"
+    },
+    {
+     "key": "kr-2022-voc-재료-일반:[재일 05-05]",
+     "code": "[재일 05-05]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 일반",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "기능성 금속 재료",
+     "summary": "초전도 현상의 이론적 배경을 이해하고, 초전도 재료의 종류와 용도 및 실제 응용 부분을 디지털 도구를 이용하여 조사하고 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재일 05-05]",
+      "pdfPage": 61,
+      "printedPage": null,
+      "section": "재료 일반 > 기능성 금속 재료",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.6acf94eafb811184dc84"
+    },
+    {
+     "key": "kr-2022-voc-재료-일반:[재일 05-06]",
+     "code": "[재일 05-06]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 일반",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "기능성 금속 재료",
+     "summary": "공업적으로 널리 이용되는 경질・연질 자성 재료에 요구되는 보자력, 자기력선속 밀도, 투자 율, 이력 손실 등을 이해하고 설명할 수 있으며, 자성 재료의 종류와 실제 활용되는 부분을 디지털 도구를 이용하여 조사하고 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재일 05-06]",
+      "pdfPage": 61,
+      "printedPage": null,
+      "section": "재료 일반 > 기능성 금속 재료",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.d83766abd5985f643535"
+    },
+    {
+     "key": "kr-2022-voc-재료-일반:[재일 05-07]",
+     "code": "[재일 05-07]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 일반",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "기능성 금속 재료",
+     "summary": "의학적으로 인체에 활용되고 있는 생체 합금의 종류와 성질 및 용도를 이해하고, 실용 사례를 사진 및 시청각 자료를 활용하여 이해하고 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재일 05-07]",
+      "pdfPage": 61,
+      "printedPage": null,
+      "section": "재료 일반 > 기능성 금속 재료",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.2e71a603de01a1922cc4"
+    },
+    {
+     "key": "kr-2022-voc-재료-일반:[재일 05-08]",
+     "code": "[재일 05-08]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 일반",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "기능성 금속 재료",
+     "summary": "고도 산업 사회에 요구되는 반도체 재료, 기타 생명 공학 및 첨단 산업에 요구되는 기능성 신금속의 종류와 용도 및 제조 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재일 05-08]",
+      "pdfPage": 61,
+      "printedPage": null,
+      "section": "재료 일반 > 기능성 금속 재료",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.c0f510e7fee9d089273e"
+    },
+    {
+     "key": "kr-2022-voc-재료-일반:[재일 06-01]",
+     "code": "[재일 06-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 일반",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "기타 공업 재료",
+     "summary": "광학 섬유, 세라믹, 강화 유리, 강화 재료 등 첨단 산업에서 요구되는 세라믹 공업 재료를 이해하며, 그 종류와 용도 및 제조 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재일 06-01]",
+      "pdfPage": 62,
+      "printedPage": null,
+      "section": "재료 일반 > 기타 공업 재료",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.a06bcac69a3f024c939f"
+    },
+    {
+     "key": "kr-2022-voc-재료-일반:[재일 06-02]",
+     "code": "[재일 06-02]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 일반",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "기타 공업 재료",
+     "summary": "강화 플라스틱, 탄소 섬유, 자기 테이프, 발포 플라스틱 등 공업용 유기 재료를 이해하며, 그 종류와 용도 및 제조 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재일 06-02]",
+      "pdfPage": 62,
+      "printedPage": null,
+      "section": "재료 일반 > 기타 공업 재료",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.12eedd0c89768111d245"
+    },
+    {
+     "key": "kr-2022-voc-재료-일반:[재일 06-03]",
+     "code": "[재일 06-03]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 일반",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "기타 공업 재료",
+     "summary": "비금속을 바탕으로 금속 또는 비금속 등의 이종 재료로 구성된 비금속 기지 복합 재료를 이해하며, 그 종류와 용도 및 제조 방법을 설명하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[재일 06-03]",
+      "pdfPage": 62,
+      "printedPage": null,
+      "section": "재료 일반 > 기타 공업 재료",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.e3f03173769d0faba8da"
+    },
+    {
+     "key": "kr-2022-voc-재료-일반:[제강 01-03-05]",
+     "code": "[제강 01-03-05]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 일반",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "철강 재료",
+     "summary": ", [제강 01-03-06]과 연계하여 학습하도록 하기",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[제강 01-03-05]",
+      "pdfPage": 60,
+      "printedPage": null,
+      "section": "재료 일반 > 철강 재료",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.f57c56f5567784f3efff"
+    },
+    {
+     "key": "kr-2022-voc-재료-일반:[제선 15-04-01]",
+     "code": "[제선 15-04-01]",
+     "gradeBand": "10-12",
+     "subjectKorean": "재료 일반",
+     "majorFieldSlug": "materials",
+     "courseCategory": "major-general",
+     "domainKorean": "철강 재료",
+     "summary": ", [제선 15-04-02], [제선 15-04-03], [제강 01-03-02], [제강 01-03-03],",
+     "summaryKind": "mechanical-derivative",
+     "sourceRefs": [
+      "kr-nec-2024-3-annex31"
+     ],
+     "sourceLocator": {
+      "attachmentNo": "10004106",
+      "code": "[제선 15-04-01]",
+      "pdfPage": 60,
+      "printedPage": null,
+      "section": "재료 일반 > 철강 재료",
+      "sha256": "eecc12f6b5ddc7510ca4866d65b8ae70e786086bedd9795066ca205801052c79",
+      "sourceId": "kr-nec-2024-3-annex31"
+     },
+     "deck6Id": "kr.standard.2022.high.2f65fca8419e557c500d"
+    }
+   ]
+  }
+ ]
+}

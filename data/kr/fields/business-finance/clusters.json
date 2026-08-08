@@ -1,0 +1,1732 @@
+{
+ "clusters": [
+  {
+   "id": "kr.cluster.2022.high.0003e5fc454bb8f061",
+   "titleKorean": "기업과 경영 — 경영 관리",
+   "subjectKorean": "기업과 경영",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "경영 관리",
+   "summary": "기업과 경영의 경영 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.22fbef9e44e04798cfbf",
+    "kr.topic.2022.high.3dba20f7637dcc5e9c3d",
+    "kr.topic.2022.high.6579cc6763fd334a3e08",
+    "kr.topic.2022.high.6ace41ab17d67b9c3d16",
+    "kr.topic.2022.high.7aff30a39ee6e78e3ba4",
+    "kr.topic.2022.high.7c90384cf773056e983c",
+    "kr.topic.2022.high.7f1fd55f4d657f66faf6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.002499da016ef5f51d",
+   "titleKorean": "회계 정보 처리 시스템 — 회계 정보 처리 시스템의 개요",
+   "subjectKorean": "회계 정보 처리 시스템",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "회계 정보 처리 시스템의 개요",
+   "summary": "회계 정보 처리 시스템의 회계 정보 처리 시스템의 개요 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.4b736cf2d803005baeef",
+    "kr.topic.2022.high.94e50e4ef9327e0c0152"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.012bee8328df179608",
+   "titleKorean": "기업과 경영 — 경영의 기초",
+   "subjectKorean": "기업과 경영",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "경영의 기초",
+   "summary": "기업과 경영의 경영의 기초 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.4ad2efd8bc24852cceda",
+    "kr.topic.2022.high.5f30c3f2a3736ed76a1d",
+    "kr.topic.2022.high.ae2f821841ab54a97b2d",
+    "kr.topic.2022.high.ee71844421abb888d308"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.01ad248319740a5b6a",
+   "titleKorean": "금융 일반 — 금융의 이해",
+   "subjectKorean": "금융 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "금융의 이해",
+   "summary": "금융 일반의 금융의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.0640fefbabbf22be0e25",
+    "kr.topic.2022.high.197696d3d87a163ad5ef",
+    "kr.topic.2022.high.48f3e7462171858433ce",
+    "kr.topic.2022.high.4bf56624c4f1f2e823a2",
+    "kr.topic.2022.high.6f2d8dbeadb576d04af3",
+    "kr.topic.2022.high.7a76fcd44887970de9c7",
+    "kr.topic.2022.high.a9614633fd0185832751",
+    "kr.topic.2022.high.b48b1a9c82f7d461578e",
+    "kr.topic.2022.high.cc5100a29e39c1c868bf"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.043b830a62233fcb73",
+   "titleKorean": "세무 일반 — 부가 가치세",
+   "subjectKorean": "세무 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "부가 가치세",
+   "summary": "세무 일반의 부가 가치세 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.2349f821f365e9305c7b",
+    "kr.topic.2022.high.24ae2b59c0b709abb60b",
+    "kr.topic.2022.high.38c256fce138f35587f7",
+    "kr.topic.2022.high.67308303fc73316349b5",
+    "kr.topic.2022.high.6877e4feeaaf05434912",
+    "kr.topic.2022.high.88c8a7213cff7fa49931",
+    "kr.topic.2022.high.8c530c1e9b168e450b3a",
+    "kr.topic.2022.high.959278bc94ebd322c673",
+    "kr.topic.2022.high.96897a57a9df5b7f796c",
+    "kr.topic.2022.high.bcc33d53ed4fcd12de7b",
+    "kr.topic.2022.high.eb20f1f4e89e6f918dd0"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0487df305ef32ecc8d",
+   "titleKorean": "기업 자원 통합 관리 — 인사 관리",
+   "subjectKorean": "기업 자원 통합 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "인사 관리",
+   "summary": "기업 자원 통합 관리의 인사 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.08670636ccf8a59a184a",
+    "kr.topic.2022.high.0a1732f1aa14604b6329",
+    "kr.topic.2022.high.1345f5238402c077309e",
+    "kr.topic.2022.high.29b26ad78aceabdb11fc",
+    "kr.topic.2022.high.47f05e2ccb85617f2f01",
+    "kr.topic.2022.high.93c6872eb8d2a17ec96c",
+    "kr.topic.2022.high.b845c194325a6fe7d652",
+    "kr.topic.2022.high.bd86a8b6397d58cb941b",
+    "kr.topic.2022.high.e4c282c79a3f09c17706"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.04ca52a12ef8c4f12c",
+   "titleKorean": "상업 경제 — 경제 활동과 상업",
+   "subjectKorean": "상업 경제",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "경제 활동과 상업",
+   "summary": "상업 경제의 경제 활동과 상업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.0b1d0a3728852c6a1fb4",
+    "kr.topic.2022.high.354b17a7870d6fe2ed76",
+    "kr.topic.2022.high.361e722c6eaebf988399",
+    "kr.topic.2022.high.9dd5226dbe8a810a9f90",
+    "kr.topic.2022.high.c293986c8b3bfe2d0e95",
+    "kr.topic.2022.high.dbf6a6907bffc7fb90d9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0564309b6d0ff9a061",
+   "titleKorean": "사무 관리 — 문서 작성의 실제",
+   "subjectKorean": "사무 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "문서 작성의 실제",
+   "summary": "사무 관리의 문서 작성의 실제 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.38542e8f53e7bfb2882c",
+    "kr.topic.2022.high.53ea3ec85f2ccdcc2aa8",
+    "kr.topic.2022.high.9c87b3d5a4a01d86f34d",
+    "kr.topic.2022.high.a41a2d65878eda8e1741",
+    "kr.topic.2022.high.c5ac03770c09ea059717",
+    "kr.topic.2022.high.f0ec7ea6761b07cf06f9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0841c2aae6829b98d9",
+   "titleKorean": "무역 일반 — 영역 05",
+   "subjectKorean": "무역 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "무역 일반의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.474f941848aa09ea34be",
+    "kr.topic.2022.high.5ffb1a4048e53cd9672d",
+    "kr.topic.2022.high.70e1b0afe14207b4d635",
+    "kr.topic.2022.high.ea5c728db7f49ba71c1c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0b72e128a48bf2572f",
+   "titleKorean": "전자 상거래 일반 — 전자 상거래와 비즈니스 모델",
+   "subjectKorean": "전자 상거래 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "전자 상거래와 비즈니스 모델",
+   "summary": "전자 상거래 일반의 전자 상거래와 비즈니스 모델 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.48c52a5301727feecd42",
+    "kr.topic.2022.high.6676d65d3c52fc2f5969",
+    "kr.topic.2022.high.6cfdfbd280262dd9e39f",
+    "kr.topic.2022.high.c6a24d03f25b03daa480",
+    "kr.topic.2022.high.cfee30100ac5086c30cd",
+    "kr.topic.2022.high.fd015181a344a0680974"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0c57ed934cb396202c",
+   "titleKorean": "무역 일반 — 전자 무역의 이해",
+   "subjectKorean": "무역 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "전자 무역의 이해",
+   "summary": "무역 일반의 전자 무역의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.4b28e37fd0a002c4fd8a",
+    "kr.topic.2022.high.53eef460bb3beadf7fe0",
+    "kr.topic.2022.high.6480f656187c9f48de02",
+    "kr.topic.2022.high.8156583aaa30b522b060",
+    "kr.topic.2022.high.9dd64223cef6a5ff7459",
+    "kr.topic.2022.high.e52d2ae674234fdd8f68"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0c9c68daef58e1b6bc",
+   "titleKorean": "무역 영어 — 영역 07",
+   "subjectKorean": "무역 영어",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 07",
+   "summary": "무역 영어의 영역 07 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.3bbd91b1b9f8894cedb2",
+    "kr.topic.2022.high.651547ec44fa9aa3390b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0cea19207cc1304bcd",
+   "titleKorean": "회계 원리 — 자본의 회계 처리",
+   "subjectKorean": "회계 원리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "자본의 회계 처리",
+   "summary": "회계 원리의 자본의 회계 처리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.162df8d9a7508b6801ae",
+    "kr.topic.2022.high.2c03c0b41d2b78d82f2e",
+    "kr.topic.2022.high.75c8ab0373a71a61095d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0f30ac2c5f223f698c",
+   "titleKorean": "무역 영어 — 영역 05",
+   "subjectKorean": "무역 영어",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "무역 영어의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.3138278532645a789464",
+    "kr.topic.2022.high.341eb3e4aaacdc87936d",
+    "kr.topic.2022.high.9cfac7d8e6e996995292",
+    "kr.topic.2022.high.bc6678da7115a001cfc0"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1392de7ba70ef3b871",
+   "titleKorean": "금융 일반 — 은행",
+   "subjectKorean": "금융 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "은행",
+   "summary": "금융 일반의 은행 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.0e1aa1d03a6dafd90f9f",
+    "kr.topic.2022.high.115872136c505c95960c",
+    "kr.topic.2022.high.155c6884f39f9a4e9c79",
+    "kr.topic.2022.high.26e5824bf7000a7f475b",
+    "kr.topic.2022.high.326d92dd778711c57e1f",
+    "kr.topic.2022.high.60f18c9d1102624b395c",
+    "kr.topic.2022.high.679d12c8559bd989710c",
+    "kr.topic.2022.high.9cc519d1d944569604d9",
+    "kr.topic.2022.high.a046f4d03dff25288c22",
+    "kr.topic.2022.high.c381751076efbba57280",
+    "kr.topic.2022.high.f8ff0d3812ce5265adcf"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.17b04129f8eafbf550",
+   "titleKorean": "기업과 경영 — 영역 05",
+   "subjectKorean": "기업과 경영",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "기업과 경영의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 1,
+   "topics": [
+    "kr.topic.2022.high.073d933c58e1ac6ebe05"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1b1a6ac8b275901813",
+   "titleKorean": "무역 일반 — 수출입 실무",
+   "subjectKorean": "무역 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "수출입 실무",
+   "summary": "무역 일반의 수출입 실무 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.0b5129d1ea4f34cabf14",
+    "kr.topic.2022.high.508da227e80c5e56ef19",
+    "kr.topic.2022.high.706fbc2b39c3b66b6521",
+    "kr.topic.2022.high.95165b74c633235b5d45",
+    "kr.topic.2022.high.a94de5ae2c85a7fa148d",
+    "kr.topic.2022.high.c893d75e453aa3d0f8ff",
+    "kr.topic.2022.high.c9d64d09ce0ea26c669d",
+    "kr.topic.2022.high.ca580dc59c7954d81573",
+    "kr.topic.2022.high.e85f02429c40fbacc054",
+    "kr.topic.2022.high.e9528c3fe05a3150933a",
+    "kr.topic.2022.high.f40c0d7c8f3aab468111"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1b286855c5b71f45ae",
+   "titleKorean": "유통 일반 — 유통의 실제",
+   "subjectKorean": "유통 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "유통의 실제",
+   "summary": "유통 일반의 유통의 실제 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.1c8d40899bd9b5b51a88",
+    "kr.topic.2022.high.3a9c0ff7e14e4703bb6c",
+    "kr.topic.2022.high.8a91efcb52ac1fa27e1f",
+    "kr.topic.2022.high.9a5f0640c6af9139091e",
+    "kr.topic.2022.high.b95e54f39368b3f9c033",
+    "kr.topic.2022.high.cb381294c784c8309265",
+    "kr.topic.2022.high.d3d1bcf3f468f221785f",
+    "kr.topic.2022.high.d40608f4d88ec8ec997f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1c9731a93680ba628b",
+   "titleKorean": "금융 일반 — 소득과 소비 관리",
+   "subjectKorean": "금융 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "소득과 소비 관리",
+   "summary": "금융 일반의 소득과 소비 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.47ffc1c97c0db6f17868",
+    "kr.topic.2022.high.660acbc07fa66b7f7ecf",
+    "kr.topic.2022.high.7cd193a99e54f38c2f52",
+    "kr.topic.2022.high.a300b358da55d7b94c82",
+    "kr.topic.2022.high.bd9caa0a7f7507aba040",
+    "kr.topic.2022.high.c7d5875c84ad76298e2b",
+    "kr.topic.2022.high.d4a4cfa9b8f1f211a44b",
+    "kr.topic.2022.high.ec05dcbe4576949b529e",
+    "kr.topic.2022.high.eee40da80ac699dc3280",
+    "kr.topic.2022.high.f5af193804a2d855fb5c",
+    "kr.topic.2022.high.fe74e3caeb1b68fb2601"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2453d21d5e9721e434",
+   "titleKorean": "회계 정보 처리 시스템 — 손익 계산서 계정의 회계 정보 처리",
+   "subjectKorean": "회계 정보 처리 시스템",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "손익 계산서 계정의 회계 정보 처리",
+   "summary": "회계 정보 처리 시스템의 손익 계산서 계정의 회계 정보 처리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.3a6b0229408427d0d5fa",
+    "kr.topic.2022.high.41a2ead9d655407791fd",
+    "kr.topic.2022.high.6637eee6d3aaeddb8eec",
+    "kr.topic.2022.high.ec168a5e8c4f87b4be23",
+    "kr.topic.2022.high.f77df29d1078fa9c6bd5"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.267e7eac00199c8ca6",
+   "titleKorean": "사무 관리 — 사무 관리의 이해",
+   "subjectKorean": "사무 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "사무 관리의 이해",
+   "summary": "사무 관리의 사무 관리의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.03e60f4d46531544101f",
+    "kr.topic.2022.high.434fa532c660ee668da8",
+    "kr.topic.2022.high.7167f229fd189bb0bed4",
+    "kr.topic.2022.high.f5af06e91615eca615c9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2c63fb7c1b37773cd4",
+   "titleKorean": "세무 일반 — 소득세",
+   "subjectKorean": "세무 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "소득세",
+   "summary": "세무 일반의 소득세 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.1cc55335a1826ec3c437",
+    "kr.topic.2022.high.1ece557a73d06fc538a2",
+    "kr.topic.2022.high.2c74b9a10ce1c26c2bce",
+    "kr.topic.2022.high.7aa650ab14cf0792468e",
+    "kr.topic.2022.high.967681403e782cd52e80",
+    "kr.topic.2022.high.9d57a36de4b762dad905",
+    "kr.topic.2022.high.a9472878daab16e3ea26",
+    "kr.topic.2022.high.aa9f9b6d7a182dbf2743",
+    "kr.topic.2022.high.ab6fd725abf7a80518e5",
+    "kr.topic.2022.high.ad598faf853d96c7bdfd",
+    "kr.topic.2022.high.d0b06e9ccff14a697ff0"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2f0b37db0a74c5c480",
+   "titleKorean": "유통 일반 — 영역 05",
+   "subjectKorean": "유통 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "유통 일반의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.1cc78dcaead0afcc24b6",
+    "kr.topic.2022.high.324c7d0a37265b2757dd",
+    "kr.topic.2022.high.3cafc0930e8e23c96020",
+    "kr.topic.2022.high.81c36f14babb0733f9c0",
+    "kr.topic.2022.high.cc17195195ee0fdd875f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2f0c37e49e82bf1b54",
+   "titleKorean": "창업 일반 — 창업 관련 법규의 이해",
+   "subjectKorean": "창업 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "창업 관련 법규의 이해",
+   "summary": "창업 일반의 창업 관련 법규의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.183139ec963589f26301",
+    "kr.topic.2022.high.3a4748129e9922ae39db",
+    "kr.topic.2022.high.714c8f576460a556f439",
+    "kr.topic.2022.high.793717a814753bab309e",
+    "kr.topic.2022.high.a0ce6f748b8a7af83446",
+    "kr.topic.2022.high.b17ddc6283d0810c20a8"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.31a546f454e68b3119",
+   "titleKorean": "창업 일반 — 사업 계획서 작성",
+   "subjectKorean": "창업 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "사업 계획서 작성",
+   "summary": "창업 일반의 사업 계획서 작성 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.013d6a591571e01ab44c",
+    "kr.topic.2022.high.6e4a390e199fd4b9657d",
+    "kr.topic.2022.high.6f76f4786f35f2847bd2",
+    "kr.topic.2022.high.a846486ec56259c3c0eb",
+    "kr.topic.2022.high.b39bbf72f6ed38f21d8c",
+    "kr.topic.2022.high.d2eb99ec74e1f9457a66",
+    "kr.topic.2022.high.f9274c10fb182947599b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.31e6e58c1870d2d89a",
+   "titleKorean": "창업 일반 — 창업 절차의 이해",
+   "subjectKorean": "창업 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "창업 절차의 이해",
+   "summary": "창업 일반의 창업 절차의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.205b42316c75b90a271f",
+    "kr.topic.2022.high.2c42afa1bc4fe1cd79a3",
+    "kr.topic.2022.high.76ebc6d2eeac7a0852c7",
+    "kr.topic.2022.high.8f60ebc90a604e0a4f6c",
+    "kr.topic.2022.high.b64b37488ce548017b69",
+    "kr.topic.2022.high.befa10cace30349b4acc",
+    "kr.topic.2022.high.cf5ac041f983f5161b0d",
+    "kr.topic.2022.high.daa322b5817036691fa5"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3546307b3998c212bb",
+   "titleKorean": "유통 일반 — 유통 산업의 미래",
+   "subjectKorean": "유통 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "유통 산업의 미래",
+   "summary": "유통 일반의 유통 산업의 미래 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.144625ee2c942cbe664f",
+    "kr.topic.2022.high.5f40bc8772bb3634ee74",
+    "kr.topic.2022.high.7c1e0e84de8c48dd8778",
+    "kr.topic.2022.high.9e24af4e1903670d68b9",
+    "kr.topic.2022.high.ecc50a4de54f83288314",
+    "kr.topic.2022.high.fc73a13b062cb6cfa7a6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.395f9f18a23b8542a2",
+   "titleKorean": "회계 원리 — 수익과 비용의 회계 처리",
+   "subjectKorean": "회계 원리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "수익과 비용의 회계 처리",
+   "summary": "회계 원리의 수익과 비용의 회계 처리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.2777f0e3eae4d29f79cd",
+    "kr.topic.2022.high.73447d832c9ae02b02ef",
+    "kr.topic.2022.high.77a2befd06a2fad5dde2",
+    "kr.topic.2022.high.7ffe1017d987bb7a8cce",
+    "kr.topic.2022.high.f91a2324db383ea76c69"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3c0a191968613a9104",
+   "titleKorean": "마케팅과 광고 — 소비자 행동",
+   "subjectKorean": "마케팅과 광고",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "소비자 행동",
+   "summary": "마케팅과 광고의 소비자 행동 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.2737215b9d371cc4963a",
+    "kr.topic.2022.high.2d4dea23e3563012ed57",
+    "kr.topic.2022.high.4c577bd6d69b3ffa8ef9",
+    "kr.topic.2022.high.7a649ed8c3402d8f65d2",
+    "kr.topic.2022.high.b31ea056d75487633878",
+    "kr.topic.2022.high.bf576050f58d60af547d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3e87b9f679b20fb86b",
+   "titleKorean": "무역 일반 — 영역 06",
+   "subjectKorean": "무역 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 06",
+   "summary": "무역 일반의 영역 06 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.20de04976da48bf39ca7",
+    "kr.topic.2022.high.2715267a1da45e12a91d",
+    "kr.topic.2022.high.44bcf9b14d380756cb22",
+    "kr.topic.2022.high.4b2626fe09cfd48080bc",
+    "kr.topic.2022.high.987c9d9192180908e363",
+    "kr.topic.2022.high.cf677fef2a23e9863776",
+    "kr.topic.2022.high.df954bfa0500c7679ec0"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.41223adcc99e2268aa",
+   "titleKorean": "보험 일반 — 보험 모집과 보험 시장",
+   "subjectKorean": "보험 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "보험 모집과 보험 시장",
+   "summary": "보험 일반의 보험 모집과 보험 시장 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.2a0f964322cc2bb6e49c",
+    "kr.topic.2022.high.3cca426440193016605d",
+    "kr.topic.2022.high.7135a6a2fbf7fc89641b",
+    "kr.topic.2022.high.7be37d11add91835857c",
+    "kr.topic.2022.high.93fa951af9cfa3693cc7",
+    "kr.topic.2022.high.cf9a43d5dafd2a6e23d3",
+    "kr.topic.2022.high.e6cd327bd322d0f40cb3",
+    "kr.topic.2022.high.f8d1d811e101c2b88f7d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.430f92d4297e121493",
+   "titleKorean": "창업 일반 — 창업의 이해",
+   "subjectKorean": "창업 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "창업의 이해",
+   "summary": "창업 일반의 창업의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.07df471a99eb0f5bd652",
+    "kr.topic.2022.high.29131c1b2a6380914d46",
+    "kr.topic.2022.high.5866388ee2b36efe4311",
+    "kr.topic.2022.high.899d7b6481e253ac1109",
+    "kr.topic.2022.high.938ff8624a3aad6c7378",
+    "kr.topic.2022.high.a280268b6ccd1348906e",
+    "kr.topic.2022.high.dab47bc9f312cfe70784"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.44dad969709ac5959c",
+   "titleKorean": "전자 상거래 일반 — 전자 상거래의 개요",
+   "subjectKorean": "전자 상거래 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "전자 상거래의 개요",
+   "summary": "전자 상거래 일반의 전자 상거래의 개요 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.1cf475fcac8166f9be51",
+    "kr.topic.2022.high.222846ac3456afcceab1",
+    "kr.topic.2022.high.43d98bf3d3b04a8aae6e",
+    "kr.topic.2022.high.62dfdb7b0ffa2e6bf403",
+    "kr.topic.2022.high.732479ccc373d098fe88",
+    "kr.topic.2022.high.966272be33cd24901644",
+    "kr.topic.2022.high.a47cad6517909f2ef40d",
+    "kr.topic.2022.high.c84ef5d06e544bf10acc",
+    "kr.topic.2022.high.cd7567974cafd7d1de00"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4508b9e63b16252510",
+   "titleKorean": "유통 일반 — 유통 정보의 이해",
+   "subjectKorean": "유통 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "유통 정보의 이해",
+   "summary": "유통 일반의 유통 정보의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.07a6dcc022da9974c51f",
+    "kr.topic.2022.high.414638717b933d2f7671",
+    "kr.topic.2022.high.617845e59293fd0f1987",
+    "kr.topic.2022.high.8386429bb1fe1302cef4",
+    "kr.topic.2022.high.ba8a9725033012e0264c",
+    "kr.topic.2022.high.e62d7ced8c9b99f8ac04"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.470b6ccd38ca63e5cd",
+   "titleKorean": "세무 일반 — 영역 05",
+   "subjectKorean": "세무 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "세무 일반의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 1,
+   "topics": [
+    "kr.topic.2022.high.0dfc4711279058569c5f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4a2207fe7a6d1868c3",
+   "titleKorean": "기업과 경영 — 글로벌 경영",
+   "subjectKorean": "기업과 경영",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "글로벌 경영",
+   "summary": "기업과 경영의 글로벌 경영 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.583b39237b8df9335ddf",
+    "kr.topic.2022.high.ebfb7ee4a0bfa34a8709"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4abc1d56652921d3ae",
+   "titleKorean": "유통 일반 — 유통 관리의 이해",
+   "subjectKorean": "유통 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "유통 관리의 이해",
+   "summary": "유통 일반의 유통 관리의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.0c40c66b78bb7767c60c",
+    "kr.topic.2022.high.2bd803b0c23e0d1410ad",
+    "kr.topic.2022.high.370f1288df01def15a70",
+    "kr.topic.2022.high.40fa369e7137de4306bf",
+    "kr.topic.2022.high.513c579f7c4e3f43bf00",
+    "kr.topic.2022.high.541d47cae772185094f4",
+    "kr.topic.2022.high.7b6b756cbffa379cea2f",
+    "kr.topic.2022.high.83d81c6e257c661697a6",
+    "kr.topic.2022.high.9420bc896c6642f60841",
+    "kr.topic.2022.high.a6a69d01871f8515aee0",
+    "kr.topic.2022.high.eb893767d767fb80da12"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4b42d97dfc4eb07aa0",
+   "titleKorean": "보험 일반 — 보험의 이해",
+   "subjectKorean": "보험 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "보험의 이해",
+   "summary": "보험 일반의 보험의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.2f824f0eb808e115c981",
+    "kr.topic.2022.high.7136e05d289e2f864960",
+    "kr.topic.2022.high.73feec6c972e5e4c38e7",
+    "kr.topic.2022.high.9f074c3d067be52f1e56",
+    "kr.topic.2022.high.e573f6a6adf0aa8780a5"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4f419f8fc87ee250e2",
+   "titleKorean": "무역 영어 — 무역 계약(Trade Contract)",
+   "subjectKorean": "무역 영어",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "무역 계약(Trade Contract)",
+   "summary": "무역 영어의 무역 계약(Trade Contract) 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.054186b9e0f8f6854c2b",
+    "kr.topic.2022.high.17f14aa6eb45a7bb9c3f",
+    "kr.topic.2022.high.492936ad4f6ccc48f00d",
+    "kr.topic.2022.high.494cd8516c86e8c92ed4",
+    "kr.topic.2022.high.69d297c0ba0e6718d9a8",
+    "kr.topic.2022.high.748c412dc9096d3a7e55",
+    "kr.topic.2022.high.8d3668405df9888cc6d1",
+    "kr.topic.2022.high.eb970f83de5bb901dec3"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.511e03669953703b02",
+   "titleKorean": "비즈니스 커뮤니케이션 — 비즈니스 프레젠테이션",
+   "subjectKorean": "비즈니스 커뮤니케이션",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "비즈니스 프레젠테이션",
+   "summary": "비즈니스 커뮤니케이션의 비즈니스 프레젠테이션 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.0c9f59ee12187fb3979a",
+    "kr.topic.2022.high.89c659d100eeaa8ee5df"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.53f035522e0106f39d",
+   "titleKorean": "상업 경제 — 마케팅",
+   "subjectKorean": "상업 경제",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "마케팅",
+   "summary": "상업 경제의 마케팅 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.014ba4f1f235deea457f",
+    "kr.topic.2022.high.3107a92b991a18177fa0",
+    "kr.topic.2022.high.552f2ba3961936b54c57"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5482019c2db20b591f",
+   "titleKorean": "비즈니스 커뮤니케이션 — 비즈니스 커뮤니케이션의 이해",
+   "subjectKorean": "비즈니스 커뮤니케이션",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "비즈니스 커뮤니케이션의 이해",
+   "summary": "비즈니스 커뮤니케이션의 비즈니스 커뮤니케이션의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.5c40e93efdf662fa7a85",
+    "kr.topic.2022.high.7a3ed3d4417a8857d68d",
+    "kr.topic.2022.high.7cfaa05e6771bc5c4a08",
+    "kr.topic.2022.high.bd73dd74d1d7d4d05904",
+    "kr.topic.2022.high.c8fb2d5b40c0db30afa9",
+    "kr.topic.2022.high.e0237f90bbfb15977aee"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.559b14a94b4f91f82f",
+   "titleKorean": "무역 일반 — 영역 04",
+   "subjectKorean": "무역 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 04",
+   "summary": "무역 일반의 영역 04 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.0d6e0b968a7b7028253d",
+    "kr.topic.2022.high.988a2f92745049346df0",
+    "kr.topic.2022.high.fb6e4072f9d95558ad8a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.55d0e755b5b1d7b404",
+   "titleKorean": "마케팅과 광고 — 빅 데이터의 이해",
+   "subjectKorean": "마케팅과 광고",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "빅 데이터의 이해",
+   "summary": "마케팅과 광고의 빅 데이터의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.02e43d38f7044160cd3e",
+    "kr.topic.2022.high.14ed18b5c90d4b7a6a24",
+    "kr.topic.2022.high.16500db57114dd61b1dc",
+    "kr.topic.2022.high.2d376d6eb2b4f67eb252",
+    "kr.topic.2022.high.5a3d0ed4c1d75ee2c897",
+    "kr.topic.2022.high.e0b642c9f78312d57525"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5613f8d2541fbe7a1a",
+   "titleKorean": "사무 관리 — 스프레드시트 활용",
+   "subjectKorean": "사무 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "스프레드시트 활용",
+   "summary": "사무 관리의 스프레드시트 활용 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.76b2d14f98d773ad5088",
+    "kr.topic.2022.high.a9268ff9fce1ec1ca6c5",
+    "kr.topic.2022.high.cf8c184f3026cc9a216a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5b4c977bd2301ea5ef",
+   "titleKorean": "무역 영어 — 무역 대금 결제(Settlement)",
+   "subjectKorean": "무역 영어",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "무역 대금 결제(Settlement)",
+   "summary": "무역 영어의 무역 대금 결제(Settlement) 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.1702627fced980700066",
+    "kr.topic.2022.high.2ed93768328e450abf57",
+    "kr.topic.2022.high.333fc7feb27d1cecf153",
+    "kr.topic.2022.high.3401f99737631dfe0e88",
+    "kr.topic.2022.high.486320bb3c7a6dc4e756",
+    "kr.topic.2022.high.7771d5f6deeb57b06c13",
+    "kr.topic.2022.high.8722e0b17491ccd2aded",
+    "kr.topic.2022.high.9e7c99447cb04fb124af",
+    "kr.topic.2022.high.c067114ca06f8cb39f17",
+    "kr.topic.2022.high.d4cf4dff356f530a836a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5bcbb9ab0e48f024ae",
+   "titleKorean": "세무 일반 — 세무 일반의 기초",
+   "subjectKorean": "세무 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "세무 일반의 기초",
+   "summary": "세무 일반의 세무 일반의 기초 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.2c67a58eb35d8d3d83d1",
+    "kr.topic.2022.high.41d897398de73c6f06fb",
+    "kr.topic.2022.high.6c7bfbbd3588456aa2e0",
+    "kr.topic.2022.high.a829b5531a6f3aa2a6a1",
+    "kr.topic.2022.high.ad22e47dd09d178f5d31",
+    "kr.topic.2022.high.fdb1b1566270c1252cba"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5deb9820b5c6056cdf",
+   "titleKorean": "회계 정보 처리 시스템 — 부가 가치세의 회계 정보 처리",
+   "subjectKorean": "회계 정보 처리 시스템",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "부가 가치세의 회계 정보 처리",
+   "summary": "회계 정보 처리 시스템의 부가 가치세의 회계 정보 처리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.21f9bc67ab3344579a5c",
+    "kr.topic.2022.high.769209e078ba5ca1b6e6",
+    "kr.topic.2022.high.a0f599d5e3a57592cf25"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5f0a234230cc6173f7",
+   "titleKorean": "마케팅과 광고 — 마케팅의 이해",
+   "subjectKorean": "마케팅과 광고",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "마케팅의 이해",
+   "summary": "마케팅과 광고의 마케팅의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.083344f38ac202c7daa0",
+    "kr.topic.2022.high.0f98cc4eed5d30c116a0",
+    "kr.topic.2022.high.1b0e105e0a2f8b2c1b5d",
+    "kr.topic.2022.high.3afc1bdee4f66b1e5748",
+    "kr.topic.2022.high.6e18c5a09f5cc54e0791",
+    "kr.topic.2022.high.dd9d9e22c8a4c69f06bb"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.61185a0d6652ca2332",
+   "titleKorean": "창업 일반 — 아이디어 창출 기법 및 보호",
+   "subjectKorean": "창업 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "아이디어 창출 기법 및 보호",
+   "summary": "창업 일반의 아이디어 창출 기법 및 보호 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.3f1424a76b4ae4dd4471",
+    "kr.topic.2022.high.daf876c8591e1ae9575a",
+    "kr.topic.2022.high.dc90a4931baa03bfd819",
+    "kr.topic.2022.high.f6c2f02ca1887afd9376"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.65a466feb4762cb5ab",
+   "titleKorean": "기업과 경영 — 기업의 부문별 활동",
+   "subjectKorean": "기업과 경영",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "기업의 부문별 활동",
+   "summary": "기업과 경영의 기업의 부문별 활동 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.18823842281f6f03a64f",
+    "kr.topic.2022.high.430f6f786fb6e89726ea",
+    "kr.topic.2022.high.730cc97eeba271d541d1",
+    "kr.topic.2022.high.91f4c80cc68f7e3c581f",
+    "kr.topic.2022.high.9e4b0211f58c67929d2a",
+    "kr.topic.2022.high.c112ab2a75309133c8e6",
+    "kr.topic.2022.high.c2f2f185379d77012801",
+    "kr.topic.2022.high.c5190063ba4e13df7325",
+    "kr.topic.2022.high.d0ecbfd7eb581a2c58a2",
+    "kr.topic.2022.high.f822afb10144a8bf1b24"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6bb1703adc53b0f688",
+   "titleKorean": "금융 일반 — 금융 환경의 변화",
+   "subjectKorean": "금융 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "금융 환경의 변화",
+   "summary": "금융 일반의 금융 환경의 변화 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.007042e3c1b726aaaf28",
+    "kr.topic.2022.high.01823e81ec7846d22717",
+    "kr.topic.2022.high.4b3949d3e533c1908ac5",
+    "kr.topic.2022.high.54297f982e7f83213b5a",
+    "kr.topic.2022.high.5593605ecd8a809bda49",
+    "kr.topic.2022.high.79f285a7b52ad6d4da61",
+    "kr.topic.2022.high.b66f5d6a0eac85e44632"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7630d3db81976d1994",
+   "titleKorean": "회계 정보 처리 시스템 — 결산 및 회계 정보의 조회",
+   "subjectKorean": "회계 정보 처리 시스템",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "결산 및 회계 정보의 조회",
+   "summary": "회계 정보 처리 시스템의 결산 및 회계 정보의 조회 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.1d3d141cfe36d97c259b",
+    "kr.topic.2022.high.451aae67b16a31fcbeee"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.88460fe5334f4a8978",
+   "titleKorean": "무역 일반 — 무역 분쟁",
+   "subjectKorean": "무역 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "무역 분쟁",
+   "summary": "무역 일반의 무역 분쟁 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.25185b1ee348ca8034c9",
+    "kr.topic.2022.high.5603b62c30f1db87f160",
+    "kr.topic.2022.high.dab4d72725e1daa650c1",
+    "kr.topic.2022.high.fb1f6a366b55269a752e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.893cd3d84b10fe7f7d",
+   "titleKorean": "마케팅과 광고 — 마케팅 전략",
+   "subjectKorean": "마케팅과 광고",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "마케팅 전략",
+   "summary": "마케팅과 광고의 마케팅 전략 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.421f03c83ea0f616588e",
+    "kr.topic.2022.high.7b143d34b41d93bad463",
+    "kr.topic.2022.high.7bbe9478b79b832677c5",
+    "kr.topic.2022.high.7fe8d052a4b117e86d39",
+    "kr.topic.2022.high.89d24c86ea4b884d8935",
+    "kr.topic.2022.high.b29c459e09bd3d5e9874",
+    "kr.topic.2022.high.bd0f7de3574abbc910b3",
+    "kr.topic.2022.high.cf572411788048de3975",
+    "kr.topic.2022.high.cf599656b99d321af08b",
+    "kr.topic.2022.high.f6096ac799887b39f627"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.899ab788510aea8187",
+   "titleKorean": "무역 일반 — 무역 계약과 거래 조건",
+   "subjectKorean": "무역 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "무역 계약과 거래 조건",
+   "summary": "무역 일반의 무역 계약과 거래 조건 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.2d2c5f82622d94f48b57",
+    "kr.topic.2022.high.73a0532b8b462c3c604c",
+    "kr.topic.2022.high.837fc17357dc12692fc5",
+    "kr.topic.2022.high.9627d68c7e959dfbc301",
+    "kr.topic.2022.high.a7935a27c7e10a53c2d7",
+    "kr.topic.2022.high.ade34a715be4af6a7975",
+    "kr.topic.2022.high.f4359bb3fd946e8eab50",
+    "kr.topic.2022.high.f9676cbdcbd78ca54121",
+    "kr.topic.2022.high.fe7d8e2705c0c6a8ebe0"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.8a1e0f73eb8e9bf42c",
+   "titleKorean": "보험 일반 — 보험 계약 체결과 손해 보상",
+   "subjectKorean": "보험 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "보험 계약 체결과 손해 보상",
+   "summary": "보험 일반의 보험 계약 체결과 손해 보상 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.06b8c8fdcade601f6786",
+    "kr.topic.2022.high.0b468c5f2d71b22b3862",
+    "kr.topic.2022.high.4239f49fa8f73bcd3304",
+    "kr.topic.2022.high.6d92dcff9e0ad4dff2ae",
+    "kr.topic.2022.high.7903f6fb34450aa825a4",
+    "kr.topic.2022.high.f77e81309639edf22dc9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.950650035c65568925",
+   "titleKorean": "기업 자원 통합 관리 — 기업 자원 통합 관리의 개요",
+   "subjectKorean": "기업 자원 통합 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "기업 자원 통합 관리의 개요",
+   "summary": "기업 자원 통합 관리의 기업 자원 통합 관리의 개요 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.57174fbfc5be9bc169b5",
+    "kr.topic.2022.high.68f891ce3ba17a922348",
+    "kr.topic.2022.high.77a0387c4e98f1a8f3cb",
+    "kr.topic.2022.high.c7c2d904dbfff3f1c068",
+    "kr.topic.2022.high.c9a51425561f35b905f6",
+    "kr.topic.2022.high.dc712e476ba2450b27e0",
+    "kr.topic.2022.high.e141d8873da569399136",
+    "kr.topic.2022.high.f2ca300f4dfd06d78960"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9693a1cb9c43d5dc1c",
+   "titleKorean": "기업 자원 통합 관리 — 물류 관리",
+   "subjectKorean": "기업 자원 통합 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "물류 관리",
+   "summary": "기업 자원 통합 관리의 물류 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.2e1e9d96de48d733c706",
+    "kr.topic.2022.high.5a214b55104d6f693ded",
+    "kr.topic.2022.high.927ba84fa197c7f493d3",
+    "kr.topic.2022.high.92fc38324ed72c6ce757",
+    "kr.topic.2022.high.a7ec380f97fcba937057",
+    "kr.topic.2022.high.b12bff00c78c15ee7162",
+    "kr.topic.2022.high.b2bd536a82ae63693848",
+    "kr.topic.2022.high.c55dd98a838b8b3c1540",
+    "kr.topic.2022.high.cff276178545c260b80f",
+    "kr.topic.2022.high.e9bc97ec7bad9b8586d0"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9cddd112a6e6ae7812",
+   "titleKorean": "상업 경제 — 금융",
+   "subjectKorean": "상업 경제",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "금융",
+   "summary": "상업 경제의 금융 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.5e05985a33bfe2f5fcf5",
+    "kr.topic.2022.high.69916b54d117af22b3b3",
+    "kr.topic.2022.high.a1b4a9240690ff6f29bc",
+    "kr.topic.2022.high.b1265b3fe5f23d357972",
+    "kr.topic.2022.high.c1c65a2a3350add8ec56",
+    "kr.topic.2022.high.d4bb9adb814bd4a440ba",
+    "kr.topic.2022.high.e1443f4e7dc2f8268be1"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a15ed22694e4c339b7",
+   "titleKorean": "회계 정보 처리 시스템 — 재무 상태표 계정의 회계 정보 처리",
+   "subjectKorean": "회계 정보 처리 시스템",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "재무 상태표 계정의 회계 정보 처리",
+   "summary": "회계 정보 처리 시스템의 재무 상태표 계정의 회계 정보 처리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.7e378d2838a20cc46900",
+    "kr.topic.2022.high.af73b7a4441109bd6849",
+    "kr.topic.2022.high.c79288f3701fdaf0051c",
+    "kr.topic.2022.high.f5413888cb21eb0b34d8",
+    "kr.topic.2022.high.fa63e1d24219ab91e8ed"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a2ec5b8f3c25739bc7",
+   "titleKorean": "회계 원리 — 회계의 기초",
+   "subjectKorean": "회계 원리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "회계의 기초",
+   "summary": "회계 원리의 회계의 기초 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.14ca68eb8289e3d1369b",
+    "kr.topic.2022.high.187c4478abcbe895b3e0",
+    "kr.topic.2022.high.31e7987a930412271681",
+    "kr.topic.2022.high.3437abccbe9da8e818e3",
+    "kr.topic.2022.high.6a1fd96086538865b536",
+    "kr.topic.2022.high.6cf170e508e7c284a7e8",
+    "kr.topic.2022.high.9989b9471c9f9b19f64d",
+    "kr.topic.2022.high.c5038e3bbe239efbc819",
+    "kr.topic.2022.high.ea578a5bc3634113f2aa",
+    "kr.topic.2022.high.fc1c6e1bfa48e150b533"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a45d9b1bfb0284cc32",
+   "titleKorean": "회계 원리 — 결산 및 재무제표",
+   "subjectKorean": "회계 원리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "결산 및 재무제표",
+   "summary": "회계 원리의 결산 및 재무제표 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.055295fa2f4c5e6dab08",
+    "kr.topic.2022.high.0cd076a38334e8fcabd8",
+    "kr.topic.2022.high.11274f92a4dc62201281",
+    "kr.topic.2022.high.11e2bc549d04f43c5138",
+    "kr.topic.2022.high.658e3a71dbe0b8eb0b19",
+    "kr.topic.2022.high.686cf4cc5ae1b09c194c",
+    "kr.topic.2022.high.78161eb1da07eedc897e",
+    "kr.topic.2022.high.807278e133fe43509ab1",
+    "kr.topic.2022.high.8c20229f97c238cadf96"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a4dac33607a2b93341",
+   "titleKorean": "상업 경제 — 기업과 경영",
+   "subjectKorean": "상업 경제",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "기업과 경영",
+   "summary": "상업 경제의 기업과 경영 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.0348da51435baac2868a",
+    "kr.topic.2022.high.147608fe83bf6d03dece",
+    "kr.topic.2022.high.2c5e44100665dd1f72ff",
+    "kr.topic.2022.high.9aaca764ceda3e1f6a4f",
+    "kr.topic.2022.high.e3e3b884f4b0fd588de9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a5240274f313b0ebeb",
+   "titleKorean": "마케팅과 광고 — 영역 04",
+   "subjectKorean": "마케팅과 광고",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 04",
+   "summary": "마케팅과 광고의 영역 04 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.93c7a57399a8292e2865",
+    "kr.topic.2022.high.9c09b13e77d7fc4c554b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.aae3da43d57030f22f",
+   "titleKorean": "무역 영어 — 무역 클레임(Claim)",
+   "subjectKorean": "무역 영어",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "무역 클레임(Claim)",
+   "summary": "무역 영어의 무역 클레임(Claim) 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.01945a8c3282ca95e296",
+    "kr.topic.2022.high.80c0c9589ce52157f422",
+    "kr.topic.2022.high.8c6a4f99e3b153741e28",
+    "kr.topic.2022.high.ea1587dfc4a7361c336d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.af429662426ebc1a4e",
+   "titleKorean": "전자 상거래 일반 — 전자 매체와 전자 상거래",
+   "subjectKorean": "전자 상거래 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "전자 매체와 전자 상거래",
+   "summary": "전자 상거래 일반의 전자 매체와 전자 상거래 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.079898c69c06edd26429",
+    "kr.topic.2022.high.1582dbf930368c7d6e79",
+    "kr.topic.2022.high.31907d72139aca8f4372",
+    "kr.topic.2022.high.408556987143a181b5e5",
+    "kr.topic.2022.high.60983cb79b38c108a066",
+    "kr.topic.2022.high.619605719f101cabd06f",
+    "kr.topic.2022.high.8697486e0cc42cdad779"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b172339db79d4d7f76",
+   "titleKorean": "무역 영어 — 무역 통신문 및 무역 사전 조사(Trade Letter and Trade Preliminary Investigation)",
+   "subjectKorean": "무역 영어",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "무역 통신문 및 무역 사전 조사(Trade Letter and Trade Preliminary Investigation)",
+   "summary": "무역 영어의 무역 통신문 및 무역 사전 조사(Trade Letter and Trade Preliminary Investigation) 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.2099eb76fa3bd889de42",
+    "kr.topic.2022.high.8fe521b1fb9c75159871",
+    "kr.topic.2022.high.92a80b8cf94f4d6f5cc2",
+    "kr.topic.2022.high.bdf23eb51260a2f152ba",
+    "kr.topic.2022.high.cef93d487383c38f4a3e",
+    "kr.topic.2022.high.edb2497b08b0c8d58354"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b23dfd1567aa088b51",
+   "titleKorean": "사무 관리 — 워드 프로세서 활용",
+   "subjectKorean": "사무 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "워드 프로세서 활용",
+   "summary": "사무 관리의 워드 프로세서 활용 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.0dc43fedb2c497ad6624",
+    "kr.topic.2022.high.76394572dc99a6ee3640",
+    "kr.topic.2022.high.d392c27173df14169849"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b82a3b99427ce0cfe1",
+   "titleKorean": "무역 영어 — 운송과 보험(Transport and Insurance)",
+   "subjectKorean": "무역 영어",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "운송과 보험(Transport and Insurance)",
+   "summary": "무역 영어의 운송과 보험(Transport and Insurance) 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.50d6e6ec6517f325e8f2",
+    "kr.topic.2022.high.84f89585c58e30e97ad3",
+    "kr.topic.2022.high.a08f32ac3728fbb10e16",
+    "kr.topic.2022.high.bb47cb4946e61004fd15",
+    "kr.topic.2022.high.c89c62de9d9822a3e557",
+    "kr.topic.2022.high.d2c669484d83da11091b",
+    "kr.topic.2022.high.dbd46875e8f25716634a",
+    "kr.topic.2022.high.e8880ef1310954016365"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ba61773838fbb318a9",
+   "titleKorean": "세무 일반 — 법인세",
+   "subjectKorean": "세무 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "법인세",
+   "summary": "세무 일반의 법인세 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.450fe32b971e3181802f",
+    "kr.topic.2022.high.4b594855340711163cb9",
+    "kr.topic.2022.high.5e0f0311ade76c07f146",
+    "kr.topic.2022.high.66cb3f316aae337c63fd",
+    "kr.topic.2022.high.6e81f7b7d92a8401a7fa",
+    "kr.topic.2022.high.8f5078dac26108c9d47b",
+    "kr.topic.2022.high.a4e66198043737ed93e5",
+    "kr.topic.2022.high.b3accf9131004c5c5485",
+    "kr.topic.2022.high.bfd6ba2e24500f6e63cf",
+    "kr.topic.2022.high.c41dc3da143529a6ad98",
+    "kr.topic.2022.high.f347467683b476eb63d9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.bb24bd5eeced54de6e",
+   "titleKorean": "비즈니스 커뮤니케이션 — 비즈니스 예절",
+   "subjectKorean": "비즈니스 커뮤니케이션",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "비즈니스 예절",
+   "summary": "비즈니스 커뮤니케이션의 비즈니스 예절 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.99613c4146ad9d4fbda2",
+    "kr.topic.2022.high.a45e50f2492d2b71535c",
+    "kr.topic.2022.high.dd1dccff4e9aa76eedea",
+    "kr.topic.2022.high.ea604e2a59aa7676ea40"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.bb43d28320975892a3",
+   "titleKorean": "비즈니스 커뮤니케이션 — 비즈니스 회의",
+   "subjectKorean": "비즈니스 커뮤니케이션",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "비즈니스 회의",
+   "summary": "비즈니스 커뮤니케이션의 비즈니스 회의 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.4f97860a330ec42fbaaa",
+    "kr.topic.2022.high.8a9f5c37e3492fddfaf1",
+    "kr.topic.2022.high.c3e3d8ec409b29145026",
+    "kr.topic.2022.high.cec76b38f37a8af065f4",
+    "kr.topic.2022.high.d39822ce91d223f0f2b0",
+    "kr.topic.2022.high.df878a09dcc300eb6aee"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.be563da3f866755ba9",
+   "titleKorean": "비즈니스 커뮤니케이션 — 이미지 메이킹",
+   "subjectKorean": "비즈니스 커뮤니케이션",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "이미지 메이킹",
+   "summary": "비즈니스 커뮤니케이션의 이미지 메이킹 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.322b10e534bbef2901fd",
+    "kr.topic.2022.high.810bafd192aca27fb311",
+    "kr.topic.2022.high.a1629cb04a6a5dc636c2",
+    "kr.topic.2022.high.a2a2e213ae01a8232070",
+    "kr.topic.2022.high.c6f17565aa92224470ca",
+    "kr.topic.2022.high.e3a5c8aa037eab91cca0"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c0995e36bc5b198afc",
+   "titleKorean": "마케팅과 광고 — 디지털 시대 광고와 미디어",
+   "subjectKorean": "마케팅과 광고",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "디지털 시대 광고와 미디어",
+   "summary": "마케팅과 광고의 디지털 시대 광고와 미디어 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.3353b24782b86686df06",
+    "kr.topic.2022.high.33b64168fb760016d29d",
+    "kr.topic.2022.high.6758c8154a5f11eb381a",
+    "kr.topic.2022.high.768145f96771dd3f0a59",
+    "kr.topic.2022.high.e2df69f6b27a7f0a9eb7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c52b6fc43a30609b94",
+   "titleKorean": "금융 일반 — 보험",
+   "subjectKorean": "금융 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "보험",
+   "summary": "금융 일반의 보험 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.433530b37922d9360678",
+    "kr.topic.2022.high.643e812a9923e0f80048",
+    "kr.topic.2022.high.7f272be68808520ffa49",
+    "kr.topic.2022.high.84bca24392bd19f68d5a",
+    "kr.topic.2022.high.8cd9a2ba951e1054880b",
+    "kr.topic.2022.high.9c4f5b58394399c0b429",
+    "kr.topic.2022.high.cc61c54b640b6909ba4f",
+    "kr.topic.2022.high.feba500917b70351ad3f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.cf0a3f5b538f196af2",
+   "titleKorean": "유통 일반 — 유통과 유통 활동",
+   "subjectKorean": "유통 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "유통과 유통 활동",
+   "summary": "유통 일반의 유통과 유통 활동 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.1c03edc98903f9a370bc",
+    "kr.topic.2022.high.575a2d27790f3a0eb42d",
+    "kr.topic.2022.high.6db60434d6581ff05b7d",
+    "kr.topic.2022.high.6f0cfed29e138e1538a4",
+    "kr.topic.2022.high.84bce07ffe3e05acdc7a",
+    "kr.topic.2022.high.9931b759f72daa157aa6",
+    "kr.topic.2022.high.ad02b76a34bd00f3d8d8",
+    "kr.topic.2022.high.e7a42686a2129ba0dd8c",
+    "kr.topic.2022.high.e9acc7c08ebd10921c01"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d43e1443f347255935",
+   "titleKorean": "회계 원리 — 부채의 회계 처리",
+   "subjectKorean": "회계 원리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "부채의 회계 처리",
+   "summary": "회계 원리의 부채의 회계 처리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.04b35615d9db6c7372fb",
+    "kr.topic.2022.high.1bdf7726e57923c274e9",
+    "kr.topic.2022.high.3aa1438cba62b7859404",
+    "kr.topic.2022.high.82568b98c0c16c8e6781",
+    "kr.topic.2022.high.e32a374fec201f3e2976"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d4b80eb823fe8768f3",
+   "titleKorean": "기업 자원 통합 관리 — 회계 관리",
+   "subjectKorean": "기업 자원 통합 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "회계 관리",
+   "summary": "기업 자원 통합 관리의 회계 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.27a33836ba75f8d7e9d2",
+    "kr.topic.2022.high.2a5ed2ef95ed190ea2e6",
+    "kr.topic.2022.high.44654fd191b870eafbb9",
+    "kr.topic.2022.high.55d92b9628a65d89e422",
+    "kr.topic.2022.high.8445f6b9aef92dfec01a",
+    "kr.topic.2022.high.8dc5844e2153a1f2e24b",
+    "kr.topic.2022.high.a787a14c78d00e96809e",
+    "kr.topic.2022.high.b4685043afe63d2bab72"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.dcb4f76e6a8816533e",
+   "titleKorean": "무역 영어 — 영역 06",
+   "subjectKorean": "무역 영어",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 06",
+   "summary": "무역 영어의 영역 06 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.a3ec3cd3da95381a6457",
+    "kr.topic.2022.high.b22f1cfeeea659db69ac"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.de4dc65ef424a46a95",
+   "titleKorean": "무역 영어 — 영역 08",
+   "subjectKorean": "무역 영어",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 08",
+   "summary": "무역 영어의 영역 08 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.53630e7aafd97e17899a",
+    "kr.topic.2022.high.d01cd7cbc307eae0f229"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e10080f846e804ead1",
+   "titleKorean": "비즈니스 커뮤니케이션 — 비즈니스 대화",
+   "subjectKorean": "비즈니스 커뮤니케이션",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "비즈니스 대화",
+   "summary": "비즈니스 커뮤니케이션의 비즈니스 대화 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.179f5b361f7a6fad6d13",
+    "kr.topic.2022.high.78da48c90e7bf3e2519c",
+    "kr.topic.2022.high.9b88d019ad3fbf68f364",
+    "kr.topic.2022.high.b1f266bdead9a4b901e0",
+    "kr.topic.2022.high.fa828b6842d5bffa78e8"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e21cec72cd54ab1c9d",
+   "titleKorean": "보험 일반 — 보험의 종류",
+   "subjectKorean": "보험 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "보험의 종류",
+   "summary": "보험 일반의 보험의 종류 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.2c29a95c7bfc0c4d6e5a",
+    "kr.topic.2022.high.355a986038ff140cc097",
+    "kr.topic.2022.high.3646465db880775e2f5d",
+    "kr.topic.2022.high.3ea0b41bf1b811b26b39",
+    "kr.topic.2022.high.63b72441d1e0957eeea3",
+    "kr.topic.2022.high.91ee23e17688340f37e6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e34b2aea8e9c70e478",
+   "titleKorean": "상업 경제 — 무역과 글로벌 경영",
+   "subjectKorean": "상업 경제",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "무역과 글로벌 경영",
+   "summary": "상업 경제의 무역과 글로벌 경영 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.3fd80659207c6b1ea61e",
+    "kr.topic.2022.high.9bbf7a3bc81052e3ed5f",
+    "kr.topic.2022.high.a5bc58230d65e59667cf",
+    "kr.topic.2022.high.f32b779b186dd86b4d09",
+    "kr.topic.2022.high.f46adec454121511cbfe"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e47323d33fe55437e8",
+   "titleKorean": "회계 원리 — 영역 04",
+   "subjectKorean": "회계 원리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 04",
+   "summary": "회계 원리의 영역 04 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.07ba8774e6c77fcc574e",
+    "kr.topic.2022.high.4d739a045b2924f1e2be"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e5c5958e29275a997a",
+   "titleKorean": "비즈니스 커뮤니케이션 — 직장 예절",
+   "subjectKorean": "비즈니스 커뮤니케이션",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "직장 예절",
+   "summary": "비즈니스 커뮤니케이션의 직장 예절 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.6b6aa124102383965e77",
+    "kr.topic.2022.high.9a533938e96c36a0df35",
+    "kr.topic.2022.high.9e076a3da0d603a301e1",
+    "kr.topic.2022.high.c7a47882ec5ba74de319",
+    "kr.topic.2022.high.d7cc9559f90066611973"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e672faf967e17fd197",
+   "titleKorean": "상업 경제 — 영역 05",
+   "subjectKorean": "상업 경제",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "상업 경제의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 1,
+   "topics": [
+    "kr.topic.2022.high.a6d6213aba66018b2b3d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e7f70661a083e714af",
+   "titleKorean": "상업 경제 — 유통과 물류",
+   "subjectKorean": "상업 경제",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "유통과 물류",
+   "summary": "상업 경제의 유통과 물류 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.5c1de18efbe92d75e9ce",
+    "kr.topic.2022.high.65f3cc53e248d6fcec44",
+    "kr.topic.2022.high.690ac2b3b1c36818c6d9",
+    "kr.topic.2022.high.9a6c50063a4621c579d3",
+    "kr.topic.2022.high.a70504c22086beb67dcc",
+    "kr.topic.2022.high.f4e39909da2fc454635d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e8fe2f6e7b8e90d134",
+   "titleKorean": "무역 일반 — 무역의 이해",
+   "subjectKorean": "무역 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "무역의 이해",
+   "summary": "무역 일반의 무역의 이해 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.1e789624b95685d50446",
+    "kr.topic.2022.high.2f8575ff03dcdef64982",
+    "kr.topic.2022.high.32e6ec263596f859d8a0",
+    "kr.topic.2022.high.4df623512fdc7942e2b6",
+    "kr.topic.2022.high.67bce102f245b63ac541",
+    "kr.topic.2022.high.8a830a2c300ba08ad5a3",
+    "kr.topic.2022.high.9ff1685f474d19cff973",
+    "kr.topic.2022.high.acb06b0f7f1bfe62d44a",
+    "kr.topic.2022.high.d8b24546f50e34f61523",
+    "kr.topic.2022.high.ee0f3a2a2ea18a462115",
+    "kr.topic.2022.high.ff7844d7af27962bee2a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.eba608f53c3db7469d",
+   "titleKorean": "회계 원리 — 자산의 회계 처리",
+   "subjectKorean": "회계 원리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "자산의 회계 처리",
+   "summary": "회계 원리의 자산의 회계 처리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.88a333dad2d6d703040c",
+    "kr.topic.2022.high.91978ee2cb9d548f54c9",
+    "kr.topic.2022.high.96407a36db11b2e01dbe",
+    "kr.topic.2022.high.968b4cffb79d219c9249",
+    "kr.topic.2022.high.c421ceb95e6058985ed9",
+    "kr.topic.2022.high.f35c2d732df3489587f9",
+    "kr.topic.2022.high.f5d62efc1f4500acf87f",
+    "kr.topic.2022.high.f6134deef28963cce220"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ef158fc6bd7159e3b7",
+   "titleKorean": "기업 자원 통합 관리 — 생산 관리",
+   "subjectKorean": "기업 자원 통합 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "생산 관리",
+   "summary": "기업 자원 통합 관리의 생산 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.3d80f03619f84a511678",
+    "kr.topic.2022.high.52111c805c5c8ff4cfb4",
+    "kr.topic.2022.high.75c65476df1887c19851",
+    "kr.topic.2022.high.777347ee2c4bd199e678",
+    "kr.topic.2022.high.b5a0502a82b1de712e13",
+    "kr.topic.2022.high.e52799c71ac71eb3b028",
+    "kr.topic.2022.high.ee0ecb31b33143ab4a09"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f3d9c4c7765d83b5de",
+   "titleKorean": "전자 상거래 일반 — 전자 상거래 운영 및 관리",
+   "subjectKorean": "전자 상거래 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "전자 상거래 운영 및 관리",
+   "summary": "전자 상거래 일반의 전자 상거래 운영 및 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.220ed3d0e49471d1344b",
+    "kr.topic.2022.high.303bca4f4d9185d9396d",
+    "kr.topic.2022.high.35af9a37c88cb9b419d2",
+    "kr.topic.2022.high.7908bb810f19f4ff1238",
+    "kr.topic.2022.high.88caa8120ae7cbb32e1b",
+    "kr.topic.2022.high.8b692eb896785a14b0f7",
+    "kr.topic.2022.high.953e8ccfe5b602516bea",
+    "kr.topic.2022.high.95619c4c0240226351d2",
+    "kr.topic.2022.high.9744c596b2ef7cdcc038",
+    "kr.topic.2022.high.bc477c9341e03d87c8c0",
+    "kr.topic.2022.high.c8f0b25abe868e4c9b11"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f9ad19abb70556e027",
+   "titleKorean": "금융 일반 — 증권",
+   "subjectKorean": "금융 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "증권",
+   "summary": "금융 일반의 증권 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.09062c2164a7b1f94d93",
+    "kr.topic.2022.high.13e65468dd4fd45216bb",
+    "kr.topic.2022.high.56910c0c3943152c1413",
+    "kr.topic.2022.high.6824069ba865642cd38f",
+    "kr.topic.2022.high.6d6111165bd1da0d5710",
+    "kr.topic.2022.high.8a928d9a66655577ca4a",
+    "kr.topic.2022.high.9e1b5de12a077b4adcfd",
+    "kr.topic.2022.high.a0c558978db0ce719301",
+    "kr.topic.2022.high.b5f6d4cbb8947820fb8a",
+    "kr.topic.2022.high.cf426427161f5811780e",
+    "kr.topic.2022.high.e044a43ba001ca8f2487"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fb254f41dc46677b6d",
+   "titleKorean": "사무 관리 — 프레젠테이션 활용",
+   "subjectKorean": "사무 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "프레젠테이션 활용",
+   "summary": "사무 관리의 프레젠테이션 활용 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.11f5fa1e2995ba59af79",
+    "kr.topic.2022.high.4706a566420d98c64fa6",
+    "kr.topic.2022.high.5e6ae78dc3bc424bcc79",
+    "kr.topic.2022.high.8f6605bfd3ec61df3fb1"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fc276ede4bab3e964e",
+   "titleKorean": "전자 상거래 일반 — 인터넷 마케팅과 모바일 마케팅",
+   "subjectKorean": "전자 상거래 일반",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "인터넷 마케팅과 모바일 마케팅",
+   "summary": "전자 상거래 일반의 인터넷 마케팅과 모바일 마케팅 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.23eebdfe07daffea2ad6",
+    "kr.topic.2022.high.24aa18898c51a36083e6",
+    "kr.topic.2022.high.3ea23fcb2c40b7c1f581",
+    "kr.topic.2022.high.6b4458d08472c337cca7",
+    "kr.topic.2022.high.b6ca7de1c59e7b209a0f",
+    "kr.topic.2022.high.c639a633d7d218fe5e7a",
+    "kr.topic.2022.high.d63f38f2cf01ca30e661",
+    "kr.topic.2022.high.d8fe5591fe720a0ba017"
+   ]
+  }
+ ]
+}
