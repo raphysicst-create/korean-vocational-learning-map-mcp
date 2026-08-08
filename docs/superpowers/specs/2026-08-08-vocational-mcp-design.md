@@ -56,13 +56,13 @@ korean-vocational-learning-map-mcp/
 │   ├── core/                 # 기동 시 항상 로드 (~1MB)
 │   │   ├── major-fields.json # 17계열+전문공통: 이름·별책·과목수·성취기준수·수록여부
 │   │   ├── curricula.json    # 548과목 색인 (계열 슬러그·카테고리·성취기준 수)
+│   │   ├── dependencies.json # 선수관계 — 계열 교차 엣지 가능·극소량이라 core에 통합 보관
 │   │   └── manifest.json     # 전 파일 SHA-256
 │   └── fields/<계열-슬러그>/  # 조회 시 지연 로드 (중등판과 동일 스키마)
 │       ├── curriculum-standards.json
 │       ├── standard-texts.json
 │       ├── topics.json
-│       ├── clusters.json
-│       └── dependencies.json # 희소 — 공식 문서에 선수 명시가 없는 게 정상
+│       └── clusters.json
 ├── pipeline/                 # 개발 시에만 실행
 │   ├── fetch-sources.mjs
 │   ├── extract-texts.mjs
