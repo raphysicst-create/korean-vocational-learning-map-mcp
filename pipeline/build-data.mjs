@@ -69,7 +69,7 @@ export function buildVocational(raw) {
     standardsByCourse.get(s.courseId).push(s);
   }
 
-  // 색인(548과목 전부) + 수록 과목 전체 레코드.
+  // 색인(528과목 전부) + 수록 과목 전체 레코드.
   const curriculaIndex = [];
   const keyByDeck6StandardId = new Map();
   const includedCourseIds = new Map(); // deck6CourseId → { slug, record }

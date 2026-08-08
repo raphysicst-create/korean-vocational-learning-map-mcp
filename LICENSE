@@ -2,13 +2,13 @@ MIT License
 
 Copyright (c) 2026 raphysicst-create
 
-This repository — including its build scripts, validators, dataset,
-ontology artifacts, and documentation — is an original work by the
-copyright holder, compiled from publicly available information about
-the national secondary curriculum of the Republic of Korea. It was
-inspired by, but does not copy content or data from, the Marble Skill
-Taxonomy. No rights to the official curriculum source documents
-themselves are granted or implied — see NOTICE.md.
+This package covers the vocational (specialized) subjects of the
+national secondary curriculum of the Republic of Korea. Its dataset is
+compiled from the DECK6/korean-secondary-learning-map dataset (MIT
+License; original copyright notice retained — see NOTICE.md) and from
+official public curriculum documents published by the National
+Education Commission of Korea, used under Article 24-2 of the Korean
+Copyright Act with source attribution.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
