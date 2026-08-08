@@ -1,0 +1,19 @@
+{
+  "deck6": {
+    "repo": "DECK6/korean-secondary-learning-map",
+    "commit": "68e62283cfc337e2de643a3cd1b0334e411acf54",
+    "license": "MIT",
+    "files": [
+      { "path": "data/kr/high/subject-groups.json", "sha256": "331a4686d76fb0cbfdb2491e5bc5acf32da3e76a97d9423992218dc397c000e1" },
+      { "path": "data/kr/high/courses.json", "sha256": "4e75c16607d8bfe47dbd488ce348fbf4439ef81dc8adb334bf4a20d8707f7dd2" },
+      { "path": "data/kr/high/domains.json", "sha256": "5c64d280bcc9eb7c62c5359f2427ac7621a8e5953abf4d497e366851e4b09654" },
+      { "path": "data/kr/high/standards.json", "sha256": "e1138674940c63d86c814b6a4a63b7e65876be9595d99bf11b7e5b5430c680df" },
+      { "path": "data/kr/high/topics.json", "sha256": "efbb5fbc4b603525342c7e59f8acb1417f21b6e536ee15a0db6ee7a3a5835c74" },
+      { "path": "data/kr/high/clusters.json", "sha256": "855d2c4237aa549dc72cd17cd0392938e729740608c148a95b3b379fbc1f37cc" },
+      { "path": "data/kr/high/learning-relations.json", "sha256": "aa892e52e06004582f46833c2f6331f2ea6b5918ba06110c209aa563c4aa3257" },
+      { "path": "data/kr/shared/source-manifest.json", "sha256": "61b4a8b5dfd7574e7a6836756174cc010fc2f9da336f96c5ae235c6291af79e0" }
+    ]
+  },
+  "pdfAnnexes": { "from": 23, "to": 39 },
+  "note": "PDF 17권(별책23~39)의 URL·SHA-256은 위에 해시 고정된 상류 shared/source-manifest.json의 kr-nec-2024-3-annex{N} 항목에서 읽는다. 국가교육위원회 고시 제2024-3호(2024.8.16.)판만 사용한다. PDF는 PDF_DIR 환경 변수(기본: 저장소 부모 폴더)에서 파일명 [별책N] 패턴으로 찾고, 없으면 URL에서 내려받는다. 저장소에 커밋하지 않는다."
+}
