@@ -1,0 +1,29 @@
+{
+  "name": "korean-vocational-learning-map-mcp",
+  "version": "0.1.0",
+  "mcpName": "io.github.raphysicst-create/korean-vocational-learning-map-mcp",
+  "description": "한국 특성화고 전문교과 2022 개정 교육과정 학습 그래프 MCP 서버 (전공일반·전문공통 성취기준 원문 수록)",
+  "type": "module",
+  "license": "MIT",
+  "homepage": "https://github.com/raphysicst-create/korean-vocational-learning-map-mcp#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphysicst-create/korean-vocational-learning-map-mcp.git"
+  },
+  "bin": {
+    "korean-vocational-learning-map-mcp": "src/cli.mjs"
+  },
+  "files": ["src/", "data/", "README.md", "LICENSE", "NOTICE.md"],
+  "engines": { "node": ">=20.11" },
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "pipeline:fetch": "node pipeline/fetch-sources.mjs",
+    "pipeline:build": "node pipeline/build-data.mjs",
+    "pipeline:extract": "node pipeline/extract-texts.mjs",
+    "pipeline:verify": "node pipeline/verify.mjs"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.0",
+    "zod": "^3.24.0"
+  }
+}
