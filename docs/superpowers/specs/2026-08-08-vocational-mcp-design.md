@@ -129,7 +129,27 @@ korean-vocational-learning-map-mcp/
 
 1. `fetch-sources.mjs` — DECK6 고정 커밋에서 `data/kr/high/*.json` + `data/kr/shared/*.json` 다운로드 → `.cache/`. NCIC 별책23~39 PDF 17권을 상류 source-manifest의 URL로 다운로드 → `PDF_DIR`. 모든 입력의 SHA-256을 `sources.json`과 대조, 불일치 시 중단.
 2. `extract-texts.mjs` — pdftotext -layout으로 원문 추출. 전공일반 2단·전공실무 3단 코드 패턴 대응. 성취기준 본문 문장만(해설·적용 시 고려사항 제외 — 기존 정책 동일). 패턴 실패분은 `exceptions.json` 수동 보정.
-3. `build-data.mjs` — `courseCategory ∈ {major-general, major-practical, specialized-common}` 필터 → 계열별 분할 산출. 계열 슬러그는 별책 계열명 기반(예: `health-welfare` = 별책24 보건·복지). 전문공통 과목의 소속 별책·배치는 빌드에서 확인해 확정. 출시 범위 밖 계열은 산출하지 않되 core 색인에는 `included: false`로 기록.
+3. `build-data.mjs` — `courseCategory ∈ {major-general, major-practical, specialized-common}` 필터 → 계열별 분할 산출. 계열 슬러그는 아래 확정 표를 따른다. 전문공통 과목의 소속 별책·배치는 빌드에서 확인해 확정. 출시 범위 밖 계열은 산출하지 않되 core 색인에는 `included: false`로 기록.
+
+   | 별책 | 계열 | 슬러그 |
+   |---|---|---|
+   | 23 | 경영·금융 | `business-finance` |
+   | 24 | 보건·복지 | `health-welfare` |
+   | 25 | 문화·예술·디자인·방송 | `culture-arts-design-broadcast` |
+   | 26 | 미용 | `beauty` |
+   | 27 | 관광·레저 | `tourism-leisure` |
+   | 28 | 식품·조리 | `food-cooking` |
+   | 29 | 건축·토목 | `construction-civil` |
+   | 30 | 기계 | `machinery` |
+   | 31 | 재료 | `materials` |
+   | 32 | 화학공업 | `chemical-industry` |
+   | 33 | 섬유·의류 | `textile-clothing` |
+   | 34 | 전기·전자 | `electrical-electronics` |
+   | 35 | 정보·통신 | `information-communication` |
+   | 36 | 환경·안전·소방 | `environment-safety-fire` |
+   | 37 | 농림·축산 | `agriculture-livestock` |
+   | 38 | 수산·해운 | `fisheries-shipping` |
+   | 39 | 융복합·지식재산 | `convergence-ip` |
 4. `verify.mjs` — `gates.json` 기반 전수 게이트: (a) 수록 계열·카테고리별 성취기준 수가 고정표와 일치, (b) 원문 수 = 수록 성취기준 수, (c) 주제·클러스터·선수관계의 참조 무결성(모든 ID 실재), (d) 미수록 계열 데이터 부재 확인. 통과 시에만 `manifest.json` SHA-256 기록. **데이터 변경 후 필수.**
 
 ## 오류 처리
