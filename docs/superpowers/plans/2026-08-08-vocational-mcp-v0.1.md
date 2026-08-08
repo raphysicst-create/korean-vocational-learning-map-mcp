@@ -2,7 +2,7 @@
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
 
-**Goal:** 특성화고 전문교과(전공일반 159 + 전문공통 2과목) 성취기준·원문·주제를 계열별 분할 데이터 + 지연 로딩으로 제공하는 MCP 서버 v0.1.0을 완성한다.
+**Goal:** 특성화고 전문교과(전공일반 216 + 전문공통 3과목) 성취기준·원문·주제를 계열별 분할 데이터 + 지연 로딩으로 제공하는 MCP 서버 v0.1.0을 완성한다.
 
 **Architecture:** 중등판(korean-secondary-learning-map-mcp)의 계층 구조(data-store → 순수 함수 모듈 → server → cli)를 포크하되, data-store만 "core 즉시 로드 + 계열별 지연 로드"로 재설계한다. 파이프라인은 DECK6 고정 커밋의 `data/kr/high/*.json`에서 `courseCategory ∈ {major-general, specialized-common}`만 필터해 17계열 + 전문공통 폴더로 분할 산출하고, 별책23~39 PDF(2024-3호)에서 원문을 추출한다.
 
@@ -53,7 +53,7 @@ korean-vocational-learning-map-mcp/
 └── package.json, server.json, README.md, LICENSE, NOTICE.md, CLAUDE.md, .gitignore
 ```
 
-계열 슬러그 17종은 스펙의 확정 표를 따른다(business-finance … convergence-ip). 전문공통(specialized-common) 2과목은 의사(pseudo) 계열 슬러그 `specialized-common`에 배치한다.
+계열 슬러그 17종은 스펙의 확정 표를 따른다(business-finance … convergence-ip). 전문공통(specialized-common) 3과목은 의사(pseudo) 계열 슬러그 `specialized-common`에 배치한다.
 
 ---
 
@@ -172,15 +172,15 @@ test('normalizeText는 NFC·소문자·공백 압축', () => {
   assert.equal(normalizeText('  전기·전자   기초 '), '전기·전자 기초');
 });
 
-test('parseVocationalCode: 전공일반 2단 코드', () => {
+test('parseVocationalCode: 2단 코드', () => {
   assert.deepEqual(parseVocationalCode('[간기 01-01]'), {
-    abbrev: '간기', numbers: ['01', '01'], kind: 'major-general',
+    abbrev: '간기', numbers: ['01', '01'], kind: 'two-level',
   });
 });
 
-test('parseVocationalCode: 전공실무 NCS 3단 코드 (숫자 시작 약칭 허용)', () => {
+test('parseVocationalCode: NCS 3단 코드 (숫자 시작 약칭 허용)', () => {
   assert.deepEqual(parseVocationalCode('[3개 01-02-03]'), {
-    abbrev: '3개', numbers: ['01', '02', '03'], kind: 'major-practical',
+    abbrev: '3개', numbers: ['01', '02', '03'], kind: 'three-level-ncs',
     ncs: { unit: '01', element: '02', criterion: '03' },
   });
 });
@@ -227,7 +227,7 @@ export function normalizeText(value) {
 }
 
 // 전문교과 성취기준 코드 구조 해석.
-// 전공일반 `[간기 01-01]`(약칭+공백+NN-NN), 전공실무 `[3개 01-01-01]`(NCS 능력단위-요소-준거).
+// 2단 `[간기 01-01]`(약칭+공백+NN-NN), 3단 `[3개 01-01-01]`(NCS 능력단위-요소-준거; 형식은 카테고리와 1:1이 아님).
 // 약칭은 숫자로 시작할 수 있다('3개' = 3D 프린터 개발). 공백 없는 보통교과 코드는 null.
 export function parseVocationalCode(code) {
   const m = /^\[(\S+)\s+(\d{2})-(\d{2})(?:-(\d{2}))?\]$/.exec(
@@ -235,9 +235,9 @@ export function parseVocationalCode(code) {
   );
   if (!m) return null;
   const [, abbrev, a, b, c] = m;
-  if (c === undefined) return { abbrev, numbers: [a, b], kind: 'major-general' };
+  if (c === undefined) return { abbrev, numbers: [a, b], kind: 'two-level' };
   return {
-    abbrev, numbers: [a, b, c], kind: 'major-practical',
+    abbrev, numbers: [a, b, c], kind: 'three-level-ncs',
     ncs: { unit: a, element: b, criterion: c },
   };
 }
@@ -459,7 +459,7 @@ git commit -m "feat: DECK6·별책23~39 원본 확보 파이프라인 (판본 �
 - Consumes: `.cache/deck6/high-*.json` (Task 3).
 - Produces:
   - `data/kr/core/major-fields.json` — `{ majorFields: [{ slug, labelKorean, annexId, courseCount: {카테고리별}, standardCount: {카테고리별}, includedCategories }] }`
-  - `data/kr/core/curricula.json` — `{ curricula: [{ id, subjectKorean, majorFieldSlug, courseCategory, gradeBand, standardCount, included, deck6CourseId }] }` (전문교과 548과목 전부, 미수록은 `included: false`)
+  - `data/kr/core/curricula.json` — `{ curricula: [{ id, subjectKorean, majorFieldSlug, courseCategory, gradeBand, standardCount, included, deck6CourseId }] }` (전문교과 528과목 전부, 미수록은 `included: false`)
   - `data/kr/core/dependencies.json` — `{ dependencies: [{ topicId, prerequisiteId, strength, relationKind, scope, reason, basis }] }`
   - `data/kr/fields/<slug>/curriculum-standards.json` — `{ curricula: [수록 과목 전체 레코드] }`, standard 레코드: `{ key, code, gradeBand, subjectKorean, majorFieldSlug, courseCategory, domainKorean, summary, summaryKind, sourceRefs, sourceLocator, deck6Id }`
   - `data/kr/fields/<slug>/topics.json` — `{ topics: [{ id, titleKorean, subjectKorean, majorFieldSlug, gradeBand, domainKorean, facetKey, types, description, evidence, assessmentPrompts, standards, sourceRefs }] }`
@@ -590,7 +590,7 @@ const outDir = join(repoRoot, 'data', 'kr');
 export const VOCATIONAL_CATEGORIES = new Set(['major-general', 'major-practical', 'specialized-common']);
 // v0.1 수록 범위. 전공실무 계열 추가 시 이 Set과 gates.json을 함께 갱신한다.
 export const RELEASE_SCOPE = new Set(['major-general', 'specialized-common']);
-export const EXPECTED_INCLUDED_COURSES = 161; // 전공일반 159 + 전문공통 2
+export const EXPECTED_INCLUDED_COURSES = 219; // 전공일반 216 + 전문공통 3 (2026-08-08 상류 실측)
 
 // 스펙 확정 표 (별책 23~39 순).
 export const FIELD_SLUGS = new Map([
@@ -647,7 +647,7 @@ export function buildVocational(raw) {
     standardsByCourse.get(s.courseId).push(s);
   }
 
-  // 색인(548과목 전부) + 수록 과목 전체 레코드.
+  // 색인(528과목 전부) + 수록 과목 전체 레코드.
   const curriculaIndex = [];
   const keyByDeck6StandardId = new Map();
   const includedCourseIds = new Map(); // deck6CourseId → { slug, record }
@@ -838,18 +838,18 @@ Expected: PASS
 - [ ] **Step 5: 실제 빌드 + gates 기록**
 
 Run: `node pipeline/build-data.mjs --record-gates`
-Expected: 수록 과목 161 게이트 통과, `data/kr/core/*` + `data/kr/fields/<slug>/*`(18폴더: 17계열 + specialized-common — 단, 전공일반이 0과목인 계열이 있으면 그 계열 폴더가 없을 수 있다. 그 경우 실제 폴더 수를 기록하고 다음 단계에서 그대로 검증 기준으로 쓴다) 생성, `pipeline/gates.json` 기록.
+Expected: 수록 과목 219 게이트 통과, `data/kr/core/*` + `data/kr/fields/<slug>/*`(18폴더: 17계열 + specialized-common — 단, 전공일반이 0과목인 계열이 있으면 그 계열 폴더가 없을 수 있다. 그 경우 실제 폴더 수를 기록하고 다음 단계에서 그대로 검증 기준으로 쓴다) 생성, `pipeline/gates.json` 기록.
 만약 `매핑되지 않은 계열` 오류가 나면: 오류 메시지의 실제 계열 라벨을 보고 `FIELD_SLUGS`의 **키만**(슬러그는 스펙 고정) 실제 라벨에 맞게 수정한다.
 
 - [ ] **Step 6: gates.json 수치 육안 확인**
 
-`pipeline/gates.json`을 열어 totals.courses=161, 각 계열 standards 합=totals.standards인지 확인하고, totals.standards 값을 커밋 메시지에 기록한다.
+`pipeline/gates.json`을 열어 totals.courses=219, 각 계열 standards 합=totals.standards인지 확인하고, totals.standards 값을 커밋 메시지에 기록한다.
 
 - [ ] **Step 7: 커밋** (데이터는 Task 6 verify 통과 후에 커밋하므로 여기서는 코드·게이트만)
 
 ```bash
 git add pipeline/build-data.mjs pipeline/gates.json tests/build-data.test.mjs
-git commit -m "feat: 전문교과 필터·계열 분할 빌드 (수록 161과목, 성취기준 <실측값>건)"
+git commit -m "feat: 전문교과 필터·계열 분할 빌드 (수록 219과목, 성취기준 <실측값>건)"
 ```
 
 ---
@@ -1378,7 +1378,7 @@ const dataDir = join(dirname(fileURLToPath(import.meta.url)), '..', 'data', 'kr'
 test('기동 시 core만 로드되고 계열 데이터는 비어 있다', () => {
   const store = createStore(dataDir);
   assert.ok(store.majorFields.length >= 1);
-  assert.ok(store.curriculaIndex.length >= 161); // 미수록 전공실무 포함 색인
+  assert.ok(store.curriculaIndex.length >= 219); // 미수록 전공실무 포함 색인(총 528)
   assert.equal(store.loadedFields.size, 0);
   assert.equal(store.allStandards.length, 0);
 });
@@ -2510,8 +2510,8 @@ git commit -m "feat: MCP 서버 도구 10종 + stdio 진입점 (계열 지연 �
 
 ## 수록 범위 (v0.1)
 
-- **수록**: 전공일반 159과목 + 전문공통 2과목 = 161과목, 성취기준 <gates.totals.standards>건. 성취기준마다 공식 원문(별책23~39, 2024-3호) 수록.
-- **미수록**: 전공실무 387과목(성취기준 약 4.4만 건) — 이후 버전에서 계열 단위로 추가 예정. `list_major_fields`·`list_curricula`에서 미수록 여부를 표시한다.
+- **수록**: 전공일반 216과목 + 전문공통 3과목 = 219과목, 성취기준 <gates.totals.standards>건. 성취기준마다 공식 원문(별책23~39, 2024-3호) 수록.
+- **미수록**: 전공실무 309과목(성취기준 39,200건) — 이후 버전에서 계열 단위로 추가 예정. `list_major_fields`·`list_curricula`에서 미수록 여부를 표시한다.
 - 보통교과·특목 계열은 [korean-secondary-learning-map-mcp](https://github.com/raphysicst-create/korean-secondary-learning-map-mcp) 사용.
 
 ## 도구 10종
@@ -2560,7 +2560,7 @@ MIT. 데이터 원천: [DECK6/korean-secondary-learning-map](https://github.com/
 ```markdown
 # CLAUDE.md
 
-한국 특성화고 전문교과 2022 개정 교육과정 학습 그래프 MCP 서버 (npm: `korean-vocational-learning-map-mcp`, 레지스트리: `io.github.raphysicst-create/korean-vocational-learning-map-mcp`). v0.1 수록: 전공일반 159 + 전문공통 2 = 161과목, 성취기준 <실측>건(공식 원문 전량), 주제 <실측>건, 17계열 + 전문공통. 전공실무 387과목은 미수록(색인에만 존재). stdio 완전 로컬, 도구 10종.
+한국 특성화고 전문교과 2022 개정 교육과정 학습 그래프 MCP 서버 (npm: `korean-vocational-learning-map-mcp`, 레지스트리: `io.github.raphysicst-create/korean-vocational-learning-map-mcp`). v0.1 수록: 전공일반 216 + 전문공통 3 = 219과목, 성취기준 <실측>건(공식 원문 전량), 주제 <실측>건, 17계열 + 전문공통. 전공실무 309과목은 미수록(색인에만 존재). stdio 완전 로컬, 도구 10종.
 
 ## 명령
 
@@ -2625,6 +2625,6 @@ git commit -m "docs: v0.1 문서·배포 메타데이터"
 - **스펙 커버리지**: 계열 분할·지연 로딩(Task 4·7), 출시 범위=원문 범위(Task 5·6 게이트), 주제 전량(Task 4 트리밍 없음), 코드체계(Task 2·5), 도구 10종(Task 9), 게이트 표(Task 4·6), 오류 처리(Task 7·9), 배포 3곳 bump(Task 10 CLAUDE.md) — 스펙의 모든 절이 태스크에 대응된다.
 - **스펙 정정 1건**: `dependencies.json`을 계열 폴더가 아닌 `core/`에 둔다(계열 교차 엣지 가능·극소량). 스펙 §2에 반영 완료.
 - **테스트 수**: 이 계획의 명시 테스트는 약 54개다. 스펙 목표(75개 내외)에 맞추려면 각 태스크에서 포크 원본 `..\korean-secondary-learning-map-mcp\tests\`의 해당 모듈 테스트 중 전문교과에 유효한 경계 케이스(빈 질의, limit 경계, 필터 조합 등)를 추가로 포팅한다 — 원본 테스트가 곧 구체 코드이므로 별도 명세는 생략한다.
-- **실측 의존 값**: 성취기준 총수·계열별 수치는 Task 4에서 gates.json으로 확정하고, 이후 태스크·문서가 그 값을 인용한다. 계획 단계에서 지어낸 수치는 없다(161 과목만 상류 카테고리 집계로 사전 확정).
-- **미확정 리스크**: (a) 상류 계열 라벨 표기가 FIELD_SLUGS 키와 다를 수 있음 — Task 4 Step 5에 복구 절차 명시. (b) PDF 조판 변형으로 추출 실패 다수 가능 — Task 5 Step 5에 exceptions 반복 절차 명시. (c) 전문공통 2과목의 별책 소속 — 과목 sourceRefs로 자동 해결되며 없으면 명시적 오류.
+- **실측 의존 값**: 성취기준 총수·계열별 수치는 Task 4에서 gates.json으로 확정하고, 이후 태스크·문서가 그 값을 인용한다. 과목 수 219는 2026-08-08 빌드 실측으로 확정 — 설계 시 추정 161(159+2)은 상류 오집계였다.
+- **미확정 리스크**: (a) 상류 계열 라벨 표기가 FIELD_SLUGS 키와 다를 수 있음 — Task 4 Step 5에 복구 절차 명시. (b) PDF 조판 변형으로 추출 실패 다수 가능 — Task 5 Step 5에 exceptions 반복 절차 명시. (c) 전문공통 3과목의 별책 소속 — 과목 sourceRefs로 자동 해결되며 없으면 명시적 오류.
 ```
