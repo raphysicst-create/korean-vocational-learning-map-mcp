@@ -71,6 +71,69 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.021fc7c99be1adf656",
+   "titleKorean": "공급망 관리 — 영역 03",
+   "subjectKorean": "공급망 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 03",
+   "summary": "공급망 관리의 영역 03 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.171b23a2bacaf99fd991",
+    "kr.topic.2022.high.225d6169709568776577",
+    "kr.topic.2022.high.283d17d9951aff6e28d7",
+    "kr.topic.2022.high.44c0765687e04c36a60e",
+    "kr.topic.2022.high.cc1464604261380b5592",
+    "kr.topic.2022.high.de3de0f141c996143b21",
+    "kr.topic.2022.high.ea5d5bc429beed704d5b",
+    "kr.topic.2022.high.ef2db7e7cb0e7a806972"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.03b147e3e64e2bc8be",
+   "titleKorean": "물류 관리 — 해상 운송 관리",
+   "subjectKorean": "물류 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "해상 운송 관리",
+   "summary": "물류 관리의 해상 운송 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.146079b9357450f478cc",
+    "kr.topic.2022.high.55c1b17243d92734a350",
+    "kr.topic.2022.high.7b742133bd151c8c9fe7",
+    "kr.topic.2022.high.7d9760eb8a74e1aebbf7",
+    "kr.topic.2022.high.7e316ba80ec99caecfef",
+    "kr.topic.2022.high.9580e15ec45710e6ac8d",
+    "kr.topic.2022.high.ccca043c147550823f37",
+    "kr.topic.2022.high.ddb10eaa79a7f57e7a87",
+    "kr.topic.2022.high.ec972219c216aa31398c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.03e6c7bc7c055586b4",
+   "titleKorean": "원산지 관리 — FTA 원산지 판정 요소 관리",
+   "subjectKorean": "원산지 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "FTA 원산지 판정 요소 관리",
+   "summary": "원산지 관리의 FTA 원산지 판정 요소 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.14966c0093dcfe4baec2",
+    "kr.topic.2022.high.1ee7d2ed9f765471a81b",
+    "kr.topic.2022.high.231fd33a2950bf4cb6ee",
+    "kr.topic.2022.high.53e0a7d2b5e7ce084fd6",
+    "kr.topic.2022.high.61de447cff80554044fb",
+    "kr.topic.2022.high.91a68624f0cb9c84ca23",
+    "kr.topic.2022.high.930da3d14fd79174d824",
+    "kr.topic.2022.high.d5920e9eb1472f5c8751",
+    "kr.topic.2022.high.e8ff6405d84981ea4b84",
+    "kr.topic.2022.high.fc8d471b8d575472d9da"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.043b830a62233fcb73",
    "titleKorean": "세무 일반 — 부가 가치세",
    "subjectKorean": "세무 일반",
@@ -217,6 +280,30 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.0cb8f2c9be37ea180c",
+   "titleKorean": "공급망 관리 — 공급망 재고 운영",
+   "subjectKorean": "공급망 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "공급망 재고 운영",
+   "summary": "공급망 관리의 공급망 재고 운영 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.095acd2bdd5d61c9a7d8",
+    "kr.topic.2022.high.14d630b08d3da2c9300b",
+    "kr.topic.2022.high.2421cbd3e314e52249c3",
+    "kr.topic.2022.high.283186c337ce8213361f",
+    "kr.topic.2022.high.43e44c519d61ef1adb17",
+    "kr.topic.2022.high.76d12a2dc739df3abd33",
+    "kr.topic.2022.high.83fecf2af6aa3e0725a6",
+    "kr.topic.2022.high.9b37df74dda8214eb8c7",
+    "kr.topic.2022.high.b6057a22ca4e3202868c",
+    "kr.topic.2022.high.bdfd8c462fce16f129b4",
+    "kr.topic.2022.high.c13ae9e99a6a7cd1a768",
+    "kr.topic.2022.high.fde44be1f3338fb19d15"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.0cea19207cc1304bcd",
    "titleKorean": "회계 원리 — 자본의 회계 처리",
    "subjectKorean": "회계 원리",
@@ -248,6 +335,50 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.118e68c7331ec255cb",
+   "titleKorean": "유통 관리 — 상품 구성 기획",
+   "subjectKorean": "유통 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "상품 구성 기획",
+   "summary": "유통 관리의 상품 구성 기획 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.1bbd400916e70653e81a",
+    "kr.topic.2022.high.2246ccf0cb30244f96bc",
+    "kr.topic.2022.high.3454f8b7a7e42f1c00ab",
+    "kr.topic.2022.high.687a53c3bb909ea6f98f",
+    "kr.topic.2022.high.7a58385f0d4aafeaf5b8",
+    "kr.topic.2022.high.b0236867eedc46336f53",
+    "kr.topic.2022.high.bbca7d18175bd1b673ff",
+    "kr.topic.2022.high.c23ddf79dea7b279e739",
+    "kr.topic.2022.high.c50964ed28d31fdca8aa",
+    "kr.topic.2022.high.d56509c3a679b054ecff"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.12dd03f81ccfe946b3",
+   "titleKorean": "공급망 관리 — 공급망 운송 관리",
+   "subjectKorean": "공급망 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "공급망 운송 관리",
+   "summary": "공급망 관리의 공급망 운송 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.078fd22a0a64de2bfcd9",
+    "kr.topic.2022.high.2a72b2f2810a569fbc5c",
+    "kr.topic.2022.high.2ab085d02211e0bfb706",
+    "kr.topic.2022.high.4e9c1d8577f1a8faa136",
+    "kr.topic.2022.high.598c40ded3338689115b",
+    "kr.topic.2022.high.7405444ba83b47ac5fcb",
+    "kr.topic.2022.high.908c3c128bce40711b3a",
+    "kr.topic.2022.high.d37d88b0ad2612acc3a6",
+    "kr.topic.2022.high.db31632deba0ac37c437",
+    "kr.topic.2022.high.ed376d7ec5d703504368"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.1392de7ba70ef3b871",
    "titleKorean": "금융 일반 — 은행",
    "subjectKorean": "금융 일반",
@@ -271,6 +402,110 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.14940ed14fd6cdee9b",
+   "titleKorean": "유통 관리 — 판매 촉진 관리",
+   "subjectKorean": "유통 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "판매 촉진 관리",
+   "summary": "유통 관리의 판매 촉진 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.081cce0d290491b3b60d",
+    "kr.topic.2022.high.23d61396d73e0f8d5a93",
+    "kr.topic.2022.high.55d4e90ddcc9a3ae1a3f",
+    "kr.topic.2022.high.5a47568ebcc74d2cd62e",
+    "kr.topic.2022.high.605a154a2b76a66dcba9",
+    "kr.topic.2022.high.67621b8864088bc8b508",
+    "kr.topic.2022.high.7d7bfabf8a42ce34ab4f",
+    "kr.topic.2022.high.8ae471847b29fe52e257",
+    "kr.topic.2022.high.a2065e193266c4537308",
+    "kr.topic.2022.high.b2a2167884e5e06a74d4",
+    "kr.topic.2022.high.d1e46d3abc8c892bfabf",
+    "kr.topic.2022.high.dc7c5378478e5bb23c5b",
+    "kr.topic.2022.high.f1d7c7905f7d89f44778"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1567712da99c083cec",
+   "titleKorean": "품질 관리 — 품질 검사 관리",
+   "subjectKorean": "품질 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "품질 검사 관리",
+   "summary": "품질 관리의 품질 검사 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.00cd52c68daa2c37a9a7",
+    "kr.topic.2022.high.047a8d8a88a77902b5ea",
+    "kr.topic.2022.high.0964010f69f2af87ea2f",
+    "kr.topic.2022.high.1db3d5d7a9703f317079",
+    "kr.topic.2022.high.25a7e98f03e4162de45b",
+    "kr.topic.2022.high.2d9fd56e5f383aa39a2a",
+    "kr.topic.2022.high.2e4372022baa059d201a",
+    "kr.topic.2022.high.4470cdfca5d038ecfa07",
+    "kr.topic.2022.high.806a3e8d65dd6ddc66b4",
+    "kr.topic.2022.high.b84cd74bdb1c7942f1ae",
+    "kr.topic.2022.high.c1025db372153390c413"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.16aff77f8241defb13",
+   "titleKorean": "회계 실무 — 원가 계산",
+   "subjectKorean": "회계 실무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "원가 계산",
+   "summary": "회계 실무의 원가 계산 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.0f76ef2caa5bec0ad6bf",
+    "kr.topic.2022.high.1d0fd03b9204549164ed",
+    "kr.topic.2022.high.3cc8897905b4a693a4bc",
+    "kr.topic.2022.high.563b7ee34021719542e2",
+    "kr.topic.2022.high.7caa7b50bd94e6b9d5f5",
+    "kr.topic.2022.high.b92e20f51fa573b97c53",
+    "kr.topic.2022.high.bcb2059390351498119b",
+    "kr.topic.2022.high.d52613d0c225f05383eb",
+    "kr.topic.2022.high.db564f3f3bd6fb5129bb",
+    "kr.topic.2022.high.ddeda36a19f66cc267c4"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.177fa88d503115b600",
+   "titleKorean": "수출입 관리 — 영역 04",
+   "subjectKorean": "수출입 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 04",
+   "summary": "수출입 관리의 영역 04 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 22,
+   "topics": [
+    "kr.topic.2022.high.0a415a2ccce273bde6c0",
+    "kr.topic.2022.high.144042c576593f240345",
+    "kr.topic.2022.high.1632017fd985c9af4d10",
+    "kr.topic.2022.high.180c95eb970ec7d558fd",
+    "kr.topic.2022.high.1af7f156572bcf7726bf",
+    "kr.topic.2022.high.1e9841afa1c516338a06",
+    "kr.topic.2022.high.2687df7e7c4ab6a4ebb5",
+    "kr.topic.2022.high.2c6cf9b0203d7c9d7f78",
+    "kr.topic.2022.high.2e7024dc40dfb8a01e0d",
+    "kr.topic.2022.high.3bf73f43869ab061fad2",
+    "kr.topic.2022.high.73f5d4b6256c78a0a1be",
+    "kr.topic.2022.high.7e6cdae9d94ddfb673dd",
+    "kr.topic.2022.high.8622330cd970b2d4bbeb",
+    "kr.topic.2022.high.c0dc530232986c5a1aa5",
+    "kr.topic.2022.high.c1d376306d2bf78cad7f",
+    "kr.topic.2022.high.c4200467512ddb218b22",
+    "kr.topic.2022.high.c4bf6449feec13cd9052",
+    "kr.topic.2022.high.cae851bce94365aaea52",
+    "kr.topic.2022.high.cba80a899ded707ceef4",
+    "kr.topic.2022.high.cc131ed869c451bb8cce",
+    "kr.topic.2022.high.efa00d57a6419ccf8cbb",
+    "kr.topic.2022.high.f108ae0b8f52139d2ed9"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.17b04129f8eafbf550",
    "titleKorean": "기업과 경영 — 영역 05",
    "subjectKorean": "기업과 경영",
@@ -281,6 +516,28 @@
    "topicCount": 1,
    "topics": [
     "kr.topic.2022.high.073d933c58e1ac6ebe05"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.17cf736c3c66fa491f",
+   "titleKorean": "총무 — 차량 운영 관리",
+   "subjectKorean": "총무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "차량 운영 관리",
+   "summary": "총무의 차량 운영 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.0bd7f7578311af418255",
+    "kr.topic.2022.high.249eacb9520bcdb2d571",
+    "kr.topic.2022.high.59c743b58027015ed906",
+    "kr.topic.2022.high.5a0d45df6de18ef0693e",
+    "kr.topic.2022.high.af8d7716eb76d0e5f190",
+    "kr.topic.2022.high.d7b6170280c7792a05f8",
+    "kr.topic.2022.high.eab48c2c8aa092362fac",
+    "kr.topic.2022.high.f2aba4b8c38d2ab66a02",
+    "kr.topic.2022.high.f7f1354820b2fa4c0330",
+    "kr.topic.2022.high.f8877c5c1b59388a8d45"
    ]
   },
   {
@@ -350,6 +607,74 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.1d7c41af1b00002e18",
+   "titleKorean": "회계 실무 — 자금 관리",
+   "subjectKorean": "회계 실무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "자금 관리",
+   "summary": "회계 실무의 자금 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.0a28624b50649342c760",
+    "kr.topic.2022.high.1caf99a082f6dce626a5",
+    "kr.topic.2022.high.59aa4b35e2c798474f58",
+    "kr.topic.2022.high.5a9aee56ace48b4d578f",
+    "kr.topic.2022.high.5fe2ad0dc0c5344f2098",
+    "kr.topic.2022.high.80c19e0bfcf26f8c4210",
+    "kr.topic.2022.high.a621e621d6e2905ed8ee",
+    "kr.topic.2022.high.b9a6816d53f0b6e7e6e7",
+    "kr.topic.2022.high.bbd14b100b83ef87b264",
+    "kr.topic.2022.high.cb5c3632ad887d3596c4",
+    "kr.topic.2022.high.fe70ee6edbc33da2aad0"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1da3059a233931b138",
+   "titleKorean": "총무 — 총무 문서 관리",
+   "subjectKorean": "총무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "총무 문서 관리",
+   "summary": "총무의 총무 문서 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.07b0bc60eb1f7a9544a7",
+    "kr.topic.2022.high.1cadc715da44d13b47a8",
+    "kr.topic.2022.high.2a075951612b8897c617",
+    "kr.topic.2022.high.2fbe664de59f6565dbec",
+    "kr.topic.2022.high.3e9030215ed351415a5e",
+    "kr.topic.2022.high.6092d53a0780b7f17845",
+    "kr.topic.2022.high.74b42bf2fef1109538aa",
+    "kr.topic.2022.high.b64cb674e41716ebb776",
+    "kr.topic.2022.high.b7f2c485c8c9327c5ca4",
+    "kr.topic.2022.high.ca6c16aea41ac42ded1a",
+    "kr.topic.2022.high.d607f401e76cbdba244c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.22d5cdd843fccf15e9",
+   "titleKorean": "회계 실무 — 회계 정보 시스템 운용",
+   "subjectKorean": "회계 실무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "회계 정보 시스템 운용",
+   "summary": "회계 실무의 회계 정보 시스템 운용 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.1304c6c9da4bc9c78670",
+    "kr.topic.2022.high.155999be41db9e4406e8",
+    "kr.topic.2022.high.6b8eea9c85fde6e72b87",
+    "kr.topic.2022.high.781e1457db1d7a2e1e54",
+    "kr.topic.2022.high.992dc31e0f8a15e740bd",
+    "kr.topic.2022.high.9bcc5e3a2d2073c6ff70",
+    "kr.topic.2022.high.9f71e6e767778f39b8c9",
+    "kr.topic.2022.high.ab4453b94bb06f248e40",
+    "kr.topic.2022.high.d53c5e9faf4715e85fa1",
+    "kr.topic.2022.high.fad4e3e1fcb0a9407856"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.2453d21d5e9721e434",
    "titleKorean": "회계 정보 처리 시스템 — 손익 계산서 계정의 회계 정보 처리",
    "subjectKorean": "회계 정보 처리 시스템",
@@ -367,6 +692,43 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.2573ac6130e430ea86",
+   "titleKorean": "물류 관리 — 특송 화물 관리",
+   "subjectKorean": "물류 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "특송 화물 관리",
+   "summary": "물류 관리의 특송 화물 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.2baf832d1c052174667d",
+    "kr.topic.2022.high.61a9c33ee611a8c1ffbf",
+    "kr.topic.2022.high.68f095fc92513c6fcede",
+    "kr.topic.2022.high.6bce9b2fa1544f3e68a2",
+    "kr.topic.2022.high.90518a56e81ad1e584e0",
+    "kr.topic.2022.high.b9f4714d7829104bca17",
+    "kr.topic.2022.high.c92a5f972a6eccf20643",
+    "kr.topic.2022.high.c982b1a244a1e1d2e2f0",
+    "kr.topic.2022.high.ffbe126b544a1ed114eb"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.267296ed448d9a3955",
+   "titleKorean": "물류 관리 — 영역 05",
+   "subjectKorean": "물류 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "물류 관리의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.2911e40bc3dd48de5b8e",
+    "kr.topic.2022.high.9b5d0986ae22cd5db3c0",
+    "kr.topic.2022.high.ac71c816f4280aeda2ce",
+    "kr.topic.2022.high.d2c54f525c07b2301b99"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.267e7eac00199c8ca6",
    "titleKorean": "사무 관리 — 사무 관리의 이해",
    "subjectKorean": "사무 관리",
@@ -380,6 +742,92 @@
     "kr.topic.2022.high.434fa532c660ee668da8",
     "kr.topic.2022.high.7167f229fd189bb0bed4",
     "kr.topic.2022.high.f5af06e91615eca615c9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.27dc7e92f6d9fe8b16",
+   "titleKorean": "사무 행정 — 문서 관리",
+   "subjectKorean": "사무 행정",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "문서 관리",
+   "summary": "사무 행정의 문서 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.1e41fca27fefe7d64e41",
+    "kr.topic.2022.high.4258fddea6c125fcb6ce",
+    "kr.topic.2022.high.7d020234407f8e6d32ae",
+    "kr.topic.2022.high.a09c22718a88da90c13d",
+    "kr.topic.2022.high.a2176adaada586141e53",
+    "kr.topic.2022.high.a2f1fbf583e636914e8d",
+    "kr.topic.2022.high.af428ded7bf14ef34227",
+    "kr.topic.2022.high.b3dfabe8da9393cebed6",
+    "kr.topic.2022.high.b8ff61a83faa8d259a92",
+    "kr.topic.2022.high.d751240db52a7c8fe643",
+    "kr.topic.2022.high.ec7793b2e6cf70bfc7fa"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.285bc899c60c62bbb3",
+   "titleKorean": "수출입 관리 — 영역 03",
+   "subjectKorean": "수출입 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 03",
+   "summary": "수출입 관리의 영역 03 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.26af7bf06d4ec73b33a6",
+    "kr.topic.2022.high.2d83c1e5c4b3e9bcb62b",
+    "kr.topic.2022.high.5da9cf62825a7e9c32d0",
+    "kr.topic.2022.high.7ae9e4042f55d8b29ce7",
+    "kr.topic.2022.high.82e83077de5c39371b20",
+    "kr.topic.2022.high.868567a6a6f840589f8f",
+    "kr.topic.2022.high.991a5fbb6ac8d1d9f8ef",
+    "kr.topic.2022.high.b516eb2839493313e5f8",
+    "kr.topic.2022.high.dbd0f7e12978922752df"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2894dde41e2f4891c5",
+   "titleKorean": "유통 관리 — 영역 04",
+   "subjectKorean": "유통 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 04",
+   "summary": "유통 관리의 영역 04 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.1747689c8964fa15877c",
+    "kr.topic.2022.high.44858cce099720e3904b",
+    "kr.topic.2022.high.5f3a2df2ebd4735e3516",
+    "kr.topic.2022.high.890ebeb6f380372353ea",
+    "kr.topic.2022.high.de11c547d5d5a7d5eef6",
+    "kr.topic.2022.high.ec9020d9e8f50f2395a6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2b5a5ddf79308c48bf",
+   "titleKorean": "세무 실무 — 결산 관리",
+   "subjectKorean": "세무 실무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "결산 관리",
+   "summary": "세무 실무의 결산 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.0fbed7cc2b731a97836e",
+    "kr.topic.2022.high.15a9cf3f1012e5eb12b7",
+    "kr.topic.2022.high.358f2ad8e5661af8d363",
+    "kr.topic.2022.high.3db3759615c77fb94bac",
+    "kr.topic.2022.high.60d98c55897b17368fb8",
+    "kr.topic.2022.high.67fd9853dbbe59af475d",
+    "kr.topic.2022.high.693013eb3f58f676f292",
+    "kr.topic.2022.high.7b6974840ca535d0fcd5",
+    "kr.topic.2022.high.922aedc0f5b7206825d6",
+    "kr.topic.2022.high.aadf659a53a089c0b38b",
+    "kr.topic.2022.high.c07d1676f5eadb261e3f",
+    "kr.topic.2022.high.cf9c23d71c4a84d42a45"
    ]
   },
   {
@@ -403,6 +851,25 @@
     "kr.topic.2022.high.ab6fd725abf7a80518e5",
     "kr.topic.2022.high.ad598faf853d96c7bdfd",
     "kr.topic.2022.high.d0b06e9ccff14a697ff0"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2cf20f8ed6d178f878",
+   "titleKorean": "전자 상거래 실무 — 영역 03",
+   "subjectKorean": "전자 상거래 실무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 03",
+   "summary": "전자 상거래 실무의 영역 03 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.381a4e8cc2dc8c4fb59a",
+    "kr.topic.2022.high.7a2fac68e0d5035d4a4a",
+    "kr.topic.2022.high.850936cea895bfba0cd8",
+    "kr.topic.2022.high.8f2473af32de2c9ab708",
+    "kr.topic.2022.high.b80718e6c4235b76db18",
+    "kr.topic.2022.high.e012234107f6593bed08",
+    "kr.topic.2022.high.e5fe3a0f53c1919f0f5b"
    ]
   },
   {
@@ -438,6 +905,24 @@
     "kr.topic.2022.high.793717a814753bab309e",
     "kr.topic.2022.high.a0ce6f748b8a7af83446",
     "kr.topic.2022.high.b17ddc6283d0810c20a8"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.301bd3bdbdf5f68b3b",
+   "titleKorean": "세무 실무 — 영역 06",
+   "subjectKorean": "세무 실무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 06",
+   "summary": "세무 실무의 영역 06 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.12edee0d62c444e80f77",
+    "kr.topic.2022.high.601da5b599a5c15387d1",
+    "kr.topic.2022.high.92411e8471233a6f24c4",
+    "kr.topic.2022.high.b6709559049e2c610d01",
+    "kr.topic.2022.high.bc0827605e0b6eb4aa7d",
+    "kr.topic.2022.high.e2964d14612a632d785b"
    ]
   },
   {
@@ -515,6 +1000,49 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.3a228829427d52a143",
+   "titleKorean": "원산지 관리 — FTA 원산지 활용 분석",
+   "subjectKorean": "원산지 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "FTA 원산지 활용 분석",
+   "summary": "원산지 관리의 FTA 원산지 활용 분석 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.18dc5dcfe112b1e6d159",
+    "kr.topic.2022.high.3951402f171058473a8f",
+    "kr.topic.2022.high.3d59293971bc76629eb4",
+    "kr.topic.2022.high.63f4397f2858ff65bba9",
+    "kr.topic.2022.high.834a05ff281a72da0fee",
+    "kr.topic.2022.high.9a1c4b07c2a7961d06a0",
+    "kr.topic.2022.high.9b2c5bafc890b7ef7665",
+    "kr.topic.2022.high.a7b8d60869d91baa4111",
+    "kr.topic.2022.high.bd1df54474066521267e",
+    "kr.topic.2022.high.c1c0bf397bf52a524ef6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3bb7c1a5cf2b528cff",
+   "titleKorean": "수출입 관리 — 수입 통관",
+   "subjectKorean": "수출입 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "수입 통관",
+   "summary": "수출입 관리의 수입 통관 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.07bb5061ed6bf71d1c3f",
+    "kr.topic.2022.high.4bf6ad456d967876696b",
+    "kr.topic.2022.high.64492af0d0f5cdc47110",
+    "kr.topic.2022.high.79dd11d10cfa5251210c",
+    "kr.topic.2022.high.7e4b8f7fff9301e93126",
+    "kr.topic.2022.high.8c780f6fc337d33c68c7",
+    "kr.topic.2022.high.aec1fc3bc2dcbfc67e6d",
+    "kr.topic.2022.high.bd016cd5900eaeac8444",
+    "kr.topic.2022.high.ed51e5ea1058698d31c0"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.3c0a191968613a9104",
    "titleKorean": "마케팅과 광고 — 소비자 행동",
    "subjectKorean": "마케팅과 광고",
@@ -530,6 +1058,52 @@
     "kr.topic.2022.high.7a649ed8c3402d8f65d2",
     "kr.topic.2022.high.b31ea056d75487633878",
     "kr.topic.2022.high.bf576050f58d60af547d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3c70cda5585bf5176d",
+   "titleKorean": "비서 — 응대 업무",
+   "subjectKorean": "비서",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "응대 업무",
+   "summary": "비서의 응대 업무 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.0616b3b0129ab85b7491",
+    "kr.topic.2022.high.1f11a1f41525d242d44f",
+    "kr.topic.2022.high.27485d36da1537aed268",
+    "kr.topic.2022.high.3d2b4babed1df98f7d0c",
+    "kr.topic.2022.high.6ed4d1d6d2d14d103314",
+    "kr.topic.2022.high.7d29b737a293a6f3266f",
+    "kr.topic.2022.high.8bfccf8af648f05b3d6b",
+    "kr.topic.2022.high.c1f3a97cd31716b9503b",
+    "kr.topic.2022.high.c96ac86598f141420cfc",
+    "kr.topic.2022.high.cb77aef34b2385e8b0b6",
+    "kr.topic.2022.high.cf956c6a2843569c3f67",
+    "kr.topic.2022.high.e72e7a1e0f2012fe05dc",
+    "kr.topic.2022.high.e85631c77800ab28f1b0"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3d64c46d40aef93af3",
+   "titleKorean": "물류 관리 — 육상 운송 관리",
+   "subjectKorean": "물류 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "육상 운송 관리",
+   "summary": "물류 관리의 육상 운송 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.14313e0b99af88595a68",
+    "kr.topic.2022.high.30f2f5385cceb284e489",
+    "kr.topic.2022.high.3349bb644b6660c27310",
+    "kr.topic.2022.high.54571dc6734d5b47e303",
+    "kr.topic.2022.high.546be49b4b60983164ad",
+    "kr.topic.2022.high.62dcbf8ae47bb790da11",
+    "kr.topic.2022.high.7041737555e7e12282b0",
+    "kr.topic.2022.high.78ec5977eec82e1a075c",
+    "kr.topic.2022.high.f6e210ad0f04be395eef"
    ]
   },
   {
@@ -549,6 +1123,53 @@
     "kr.topic.2022.high.987c9d9192180908e363",
     "kr.topic.2022.high.cf677fef2a23e9863776",
     "kr.topic.2022.high.df954bfa0500c7679ec0"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3e9f3fd6e1ab756dcc",
+   "titleKorean": "전자 상거래 실무 — 영역 04",
+   "subjectKorean": "전자 상거래 실무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 04",
+   "summary": "전자 상거래 실무의 영역 04 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 21,
+   "topics": [
+    "kr.topic.2022.high.078dd21b8e30f7640829",
+    "kr.topic.2022.high.142ed67b8b0c10818989",
+    "kr.topic.2022.high.21caaed7f0f86611b7a4",
+    "kr.topic.2022.high.39e6cf4cef64a3a7eaa2",
+    "kr.topic.2022.high.3b76e4cb8f675df012fe",
+    "kr.topic.2022.high.3dd3cf9bdd8330f67943",
+    "kr.topic.2022.high.48b847087e8859178de5",
+    "kr.topic.2022.high.5ec591424e72b663ca44",
+    "kr.topic.2022.high.60bed5cdd4d982324a34",
+    "kr.topic.2022.high.68872d415b328d3ce71d",
+    "kr.topic.2022.high.6b437889e3cf60b02b39",
+    "kr.topic.2022.high.7350f6869a998ea46489",
+    "kr.topic.2022.high.77efc07f135610d35d57",
+    "kr.topic.2022.high.82df8e0d18dcf3ba758a",
+    "kr.topic.2022.high.844dff2cfa1214781bf3",
+    "kr.topic.2022.high.894a8de67de2230a3a5e",
+    "kr.topic.2022.high.89715c2af6792a23c6ef",
+    "kr.topic.2022.high.90c3d76d91e0c6b6c82f",
+    "kr.topic.2022.high.babb2e9e8e13872735ac",
+    "kr.topic.2022.high.ea93913a991b856817c3",
+    "kr.topic.2022.high.eb899ce9c396272d940c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3f21589949bf7651ec",
+   "titleKorean": "총무 — 영역 03",
+   "subjectKorean": "총무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 03",
+   "summary": "총무의 영역 03 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.730a9b93ef6856a6dd93",
+    "kr.topic.2022.high.fd684379fcd8ebcfef96"
    ]
   },
   {
@@ -572,6 +1193,26 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.417afcc67dd6453a9b",
+   "titleKorean": "자재 관리 — 자재 입고 관리",
+   "subjectKorean": "자재 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "자재 입고 관리",
+   "summary": "자재 관리의 자재 입고 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.320587d595dca789b817",
+    "kr.topic.2022.high.651d8ce84ad3c5d06ed9",
+    "kr.topic.2022.high.71df092930cd58a5f43a",
+    "kr.topic.2022.high.832c3510046fd153efad",
+    "kr.topic.2022.high.864400d7b0276d1a4bac",
+    "kr.topic.2022.high.97c774c569d1f4d32182",
+    "kr.topic.2022.high.c32df2d50ee7206332fb",
+    "kr.topic.2022.high.e14f58943d55e0f0e795"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.430f92d4297e121493",
    "titleKorean": "창업 일반 — 창업의 이해",
    "subjectKorean": "창업 일반",
@@ -588,6 +1229,29 @@
     "kr.topic.2022.high.938ff8624a3aad6c7378",
     "kr.topic.2022.high.a280268b6ccd1348906e",
     "kr.topic.2022.high.dab47bc9f312cfe70784"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4461828a395d2f597c",
+   "titleKorean": "유통 관리 — 유통 물류 관리",
+   "subjectKorean": "유통 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "유통 물류 관리",
+   "summary": "유통 관리의 유통 물류 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.3424a239fccafcdff1b1",
+    "kr.topic.2022.high.3a3fee949f4f600ad723",
+    "kr.topic.2022.high.8d94ac3191764c202bc4",
+    "kr.topic.2022.high.a2fa04c6f72037f39303",
+    "kr.topic.2022.high.c52e35624baa19b0b5ee",
+    "kr.topic.2022.high.d65c65c137b5573b5a49",
+    "kr.topic.2022.high.dbaff195e22cc88e53e5",
+    "kr.topic.2022.high.dd03851e8cd71f513ead",
+    "kr.topic.2022.high.e0b6ba7c6993d8c0847d",
+    "kr.topic.2022.high.e8da544d0c55904b9211",
+    "kr.topic.2022.high.f6ba89632cb9eebe7599"
    ]
   },
   {
@@ -630,6 +1294,55 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.451681530f4b9339c5",
+   "titleKorean": "비서 — 출장 관리",
+   "subjectKorean": "비서",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "출장 관리",
+   "summary": "비서의 출장 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 14,
+   "topics": [
+    "kr.topic.2022.high.0748de596982db06e27d",
+    "kr.topic.2022.high.146c6075a0d97d7add6e",
+    "kr.topic.2022.high.1a05b0e79db1db46f1e5",
+    "kr.topic.2022.high.290539d0f94066adb533",
+    "kr.topic.2022.high.363cc0f9dd776773ee73",
+    "kr.topic.2022.high.367dd8f14b9ef4ebbf68",
+    "kr.topic.2022.high.48291732dcc7aeff1a36",
+    "kr.topic.2022.high.552a7026827031cae8ce",
+    "kr.topic.2022.high.5caf126bf6b34b763fd7",
+    "kr.topic.2022.high.85ecece09c11eac8204d",
+    "kr.topic.2022.high.9b8f28712e7a4f682372",
+    "kr.topic.2022.high.b58f34024c322dee199a",
+    "kr.topic.2022.high.c96610a7d8ad4a9a2bb0",
+    "kr.topic.2022.high.ecfca1f35e8ea474a7b8"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.45aff5ceff0fb26ca0",
+   "titleKorean": "공정 관리 — 설비 일상 관리",
+   "subjectKorean": "공정 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "설비 일상 관리",
+   "summary": "공정 관리의 설비 일상 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.138bd3855ead7f6475d0",
+    "kr.topic.2022.high.528a94c0d76271922900",
+    "kr.topic.2022.high.5cfa823e43151fc5ff73",
+    "kr.topic.2022.high.5d9d2f5ddf942ae31fc5",
+    "kr.topic.2022.high.5eda81ac029960bd11b4",
+    "kr.topic.2022.high.6aa4bbc570c1ab0a02a6",
+    "kr.topic.2022.high.7d8953f46524a82d6ba5",
+    "kr.topic.2022.high.8aedaa41e5aa7aa9baa4",
+    "kr.topic.2022.high.93b34762a0e4cbad0e31",
+    "kr.topic.2022.high.af6185b59605d4e3ccb0",
+    "kr.topic.2022.high.e9f27af6bc6c637b4ae9"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.470b6ccd38ca63e5cd",
    "titleKorean": "세무 일반 — 영역 05",
    "subjectKorean": "세무 일반",
@@ -640,6 +1353,67 @@
    "topicCount": 1,
    "topics": [
     "kr.topic.2022.high.0dfc4711279058569c5f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.487540e11a8c0e4a1d",
+   "titleKorean": "수출입 관리 — 영역 05",
+   "subjectKorean": "수출입 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "수출입 관리의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 26,
+   "topics": [
+    "kr.topic.2022.high.09d58643f05562b5ed78",
+    "kr.topic.2022.high.0d695adccf03365ad4a5",
+    "kr.topic.2022.high.16898a92fef785c55dbe",
+    "kr.topic.2022.high.1cd34cec10158ad17818",
+    "kr.topic.2022.high.43638a579276983de7d8",
+    "kr.topic.2022.high.455bb85f4146a6eff5be",
+    "kr.topic.2022.high.4a7e3d4aa57b17670431",
+    "kr.topic.2022.high.5c4d46de874c39516698",
+    "kr.topic.2022.high.610ffadf00abe2540081",
+    "kr.topic.2022.high.6467ba3bf8a368ab72ea",
+    "kr.topic.2022.high.66d8bf76bae84db90263",
+    "kr.topic.2022.high.68e99e47b255ddc34015",
+    "kr.topic.2022.high.6c60e64dda0d83194bb9",
+    "kr.topic.2022.high.6f7ca2ee5fec23f81849",
+    "kr.topic.2022.high.76fed349faa99a5a2b06",
+    "kr.topic.2022.high.78194bcb50cdfd598e13",
+    "kr.topic.2022.high.81d5491e7c324de4ffc1",
+    "kr.topic.2022.high.ab45b05bd88775f0216e",
+    "kr.topic.2022.high.af81061153ceae0fa6f2",
+    "kr.topic.2022.high.afd44c333ae44bebeef2",
+    "kr.topic.2022.high.b4b9ba9b3321844e52e2",
+    "kr.topic.2022.high.b77a10db99193dd3cc42",
+    "kr.topic.2022.high.c33298612276837ed764",
+    "kr.topic.2022.high.d587f64e70d0d5e3ead5",
+    "kr.topic.2022.high.eb465bafc4d540c9aba5",
+    "kr.topic.2022.high.f52ccf10bb4e6680634d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4a0302b45751060e73",
+   "titleKorean": "물류 관리 — 보관 하역 관리",
+   "subjectKorean": "물류 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "보관 하역 관리",
+   "summary": "물류 관리의 보관 하역 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.4d3ce9a2c8c85d3fc9f0",
+    "kr.topic.2022.high.57f35eafa50a0ab63a22",
+    "kr.topic.2022.high.738741d7f0cd2deb1d0e",
+    "kr.topic.2022.high.7e595b4895639ccdfcd9",
+    "kr.topic.2022.high.8a4e2705d76899fc36c1",
+    "kr.topic.2022.high.9c95369de31e2a79d15f",
+    "kr.topic.2022.high.b7d8fde096c1e7acfabc",
+    "kr.topic.2022.high.d2ab27fc8686949fe6c8",
+    "kr.topic.2022.high.efbc7ec0241788bf64bb",
+    "kr.topic.2022.high.f097dc1ee063b703c3c5",
+    "kr.topic.2022.high.ffca14799ce350987e09"
    ]
   },
   {
@@ -680,6 +1454,30 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.4b087a27c6fdd25f6b",
+   "titleKorean": "창구 사무 — 외국환 거래",
+   "subjectKorean": "창구 사무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "외국환 거래",
+   "summary": "창구 사무의 외국환 거래 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.1bec9a91c92482e8e197",
+    "kr.topic.2022.high.1d65f76ef10ca7ed24c0",
+    "kr.topic.2022.high.2e79cfeda49c539ff9f7",
+    "kr.topic.2022.high.3b1de2ad2a368e1d7482",
+    "kr.topic.2022.high.43e8387817bf76ea1f94",
+    "kr.topic.2022.high.44b28e1f088aa61be3ab",
+    "kr.topic.2022.high.46c429c09dc5e3d48601",
+    "kr.topic.2022.high.765ccc9c37940196cb22",
+    "kr.topic.2022.high.d06ad2202dd36c704533",
+    "kr.topic.2022.high.d4caa428bb2e23420c8c",
+    "kr.topic.2022.high.fa708edd4a4152541508",
+    "kr.topic.2022.high.fe2e01c080874a1fc903"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.4b42d97dfc4eb07aa0",
    "titleKorean": "보험 일반 — 보험의 이해",
    "subjectKorean": "보험 일반",
@@ -694,6 +1492,22 @@
     "kr.topic.2022.high.73feec6c972e5e4c38e7",
     "kr.topic.2022.high.9f074c3d067be52f1e56",
     "kr.topic.2022.high.e573f6a6adf0aa8780a5"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4bf261449d28cd06ae",
+   "titleKorean": "전자 상거래 실무 — 영역 05",
+   "subjectKorean": "전자 상거래 실무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "전자 상거래 실무의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.0c44a740c9109fe6fe59",
+    "kr.topic.2022.high.2a6930c399ce2a22f8e6",
+    "kr.topic.2022.high.62663b1c549e319aca46",
+    "kr.topic.2022.high.c6cedea9e387c763dd4b"
    ]
   },
   {
@@ -731,6 +1545,21 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.53ac4e6fd3ad140095",
+   "titleKorean": "세무 실무 — 영역 04",
+   "subjectKorean": "세무 실무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 04",
+   "summary": "세무 실무의 영역 04 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.0324dc64a7a5825a84d5",
+    "kr.topic.2022.high.1fe3397a0bcf1cea5942",
+    "kr.topic.2022.high.b940fad2c54608edb9ed"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.53f035522e0106f39d",
    "titleKorean": "상업 경제 — 마케팅",
    "subjectKorean": "상업 경제",
@@ -761,6 +1590,28 @@
     "kr.topic.2022.high.bd73dd74d1d7d4d05904",
     "kr.topic.2022.high.c8fb2d5b40c0db30afa9",
     "kr.topic.2022.high.e0237f90bbfb15977aee"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.54d5fc27f73688ea17",
+   "titleKorean": "전자 상거래 실무 — 판매 관리",
+   "subjectKorean": "전자 상거래 실무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "판매 관리",
+   "summary": "전자 상거래 실무의 판매 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.16d0573ea1462ffd8783",
+    "kr.topic.2022.high.1d501455a6109e4e7a8e",
+    "kr.topic.2022.high.26bc63216eac1e8d3671",
+    "kr.topic.2022.high.361e4e7be72fcad69f7a",
+    "kr.topic.2022.high.3808456baefea2e042a7",
+    "kr.topic.2022.high.91df28d654c25243941f",
+    "kr.topic.2022.high.b0e99387cdf9dc3ab7fe",
+    "kr.topic.2022.high.dd34ccd112415062a935",
+    "kr.topic.2022.high.e6a0e2f6b72f45c03d26",
+    "kr.topic.2022.high.fb29da0c06afb1881179"
    ]
   },
   {
@@ -852,6 +1703,29 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.5dcdf65aa8617c2470",
+   "titleKorean": "인사 — 급여 지급",
+   "subjectKorean": "인사",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "급여 지급",
+   "summary": "인사의 급여 지급 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.250ef0bd4b81369a5212",
+    "kr.topic.2022.high.63b2a48ed50132091ccf",
+    "kr.topic.2022.high.7eb1dce6a15c64efc993",
+    "kr.topic.2022.high.815f2256512e92b51e8c",
+    "kr.topic.2022.high.ab7ca0acea8a194decb0",
+    "kr.topic.2022.high.b40d6b43015b4a2b7dea",
+    "kr.topic.2022.high.e737458c23e112f9427c",
+    "kr.topic.2022.high.e99cfad98d2a4f30d9d0",
+    "kr.topic.2022.high.ec5e356ab72d824feecb",
+    "kr.topic.2022.high.f609683a7d4c29cc77c6",
+    "kr.topic.2022.high.f76080a838bdebcc864a"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.5deb9820b5c6056cdf",
    "titleKorean": "회계 정보 처리 시스템 — 부가 가치세의 회계 정보 처리",
    "subjectKorean": "회계 정보 처리 시스템",
@@ -901,6 +1775,78 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.622e96c10a49df4d18",
+   "titleKorean": "창구 사무 — 입지급 거래",
+   "subjectKorean": "창구 사무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "입지급 거래",
+   "summary": "창구 사무의 입지급 거래 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.2d49d9460f2feaf3a78b",
+    "kr.topic.2022.high.83e756c4e0ac50dc96f6",
+    "kr.topic.2022.high.879ca125dc2ff8328044",
+    "kr.topic.2022.high.9faa133430cb022b9e78",
+    "kr.topic.2022.high.aeed2b2b3557533416ff",
+    "kr.topic.2022.high.b7e54079654ef4824782",
+    "kr.topic.2022.high.c85befecbfb1ffbbbd4a",
+    "kr.topic.2022.high.d14ad0e47ef2f8898fab",
+    "kr.topic.2022.high.d84ae1ba7fb7c3841f33",
+    "kr.topic.2022.high.e6d0c4d57942754dbf52"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.631c0c3e5d812fb2c3",
+   "titleKorean": "수출입 관리 — 수입 대금 결제",
+   "subjectKorean": "수출입 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "수입 대금 결제",
+   "summary": "수출입 관리의 수입 대금 결제 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 14,
+   "topics": [
+    "kr.topic.2022.high.063db76571a9f4964f0e",
+    "kr.topic.2022.high.23f6dd2e1144ff9de3bc",
+    "kr.topic.2022.high.2469f4fcb4da8c56ce1c",
+    "kr.topic.2022.high.40eebc97e36e2064ee99",
+    "kr.topic.2022.high.46b9d35e2b641d84ee10",
+    "kr.topic.2022.high.7a1f9479de43a9d9f92f",
+    "kr.topic.2022.high.8da312aa65ba0c54b7e5",
+    "kr.topic.2022.high.90af236de8d04d309f90",
+    "kr.topic.2022.high.a8ed65e269162a78fb49",
+    "kr.topic.2022.high.bef43e9195a6f548f9ed",
+    "kr.topic.2022.high.c4303cd0842d673aac52",
+    "kr.topic.2022.high.cd053d940d829bcb58b6",
+    "kr.topic.2022.high.d7077f9f74c4fcc65801",
+    "kr.topic.2022.high.e5eb56fddb17426464d3"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.639252b76097d11f7a",
+   "titleKorean": "사무 행정 — 사무 행정 업무 관리",
+   "subjectKorean": "사무 행정",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "사무 행정 업무 관리",
+   "summary": "사무 행정의 사무 행정 업무 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.0a5580ba5b4934056100",
+    "kr.topic.2022.high.1e8b64f814d047060bce",
+    "kr.topic.2022.high.1ee191cfe30e609e1d3f",
+    "kr.topic.2022.high.2ae58f3b74922328624f",
+    "kr.topic.2022.high.46facc473edf2c34bfc8",
+    "kr.topic.2022.high.6008575802c96dac5bc6",
+    "kr.topic.2022.high.8cff2a801f5133df6484",
+    "kr.topic.2022.high.e078767646747ab82a8d",
+    "kr.topic.2022.high.e8ca065da6427824e0c0",
+    "kr.topic.2022.high.f162a7e78c871af91bc8",
+    "kr.topic.2022.high.f9a94afde47d23016a0d",
+    "kr.topic.2022.high.fd3ac3cc01c306b85ede"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.65a466feb4762cb5ab",
    "titleKorean": "기업과 경영 — 기업의 부문별 활동",
    "subjectKorean": "기업과 경영",
@@ -923,6 +1869,50 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.68eb613efb659184a8",
+   "titleKorean": "비서 — 보고 업무",
+   "subjectKorean": "비서",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "보고 업무",
+   "summary": "비서의 보고 업무 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.17d3df597d49edea1585",
+    "kr.topic.2022.high.1c5ea9f7845bd14b2172",
+    "kr.topic.2022.high.408e9fb4452799494fe0",
+    "kr.topic.2022.high.8c26bf4c5ea731ae95e9",
+    "kr.topic.2022.high.97f61c4a05786f44974d",
+    "kr.topic.2022.high.cdb8019f5537e58d19ea",
+    "kr.topic.2022.high.d46743b5e9bb9711aa02",
+    "kr.topic.2022.high.e1f3e3ffd1a45c7f767a",
+    "kr.topic.2022.high.e7a1d2d0641845b17fb6",
+    "kr.topic.2022.high.f8a3c80ee2e23053fddd"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6b08466bdd1ed88311",
+   "titleKorean": "물류 관리 — 항공 운송 관리",
+   "subjectKorean": "물류 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "항공 운송 관리",
+   "summary": "물류 관리의 항공 운송 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.10c2141141be975a0834",
+    "kr.topic.2022.high.1c0420465df42aeb75a7",
+    "kr.topic.2022.high.4ee5ffac1b30f4456cb4",
+    "kr.topic.2022.high.7ce45d8fefa7afd365cd",
+    "kr.topic.2022.high.81885ea10dd865065f4a",
+    "kr.topic.2022.high.a0ad771d00e70a2ee947",
+    "kr.topic.2022.high.b305ada31d86c9aba939",
+    "kr.topic.2022.high.d1240939e6eab5077208",
+    "kr.topic.2022.high.f09b9cff2ac6574d3032",
+    "kr.topic.2022.high.fe0ccf42f6fcf00b68c4"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.6bb1703adc53b0f688",
    "titleKorean": "금융 일반 — 금융 환경의 변화",
    "subjectKorean": "금융 일반",
@@ -942,6 +1932,135 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.6e5a9e93f592e8d3d4",
+   "titleKorean": "자재 관리 — 영역 03",
+   "subjectKorean": "자재 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 03",
+   "summary": "자재 관리의 영역 03 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.09bf2575faed2e5a15aa",
+    "kr.topic.2022.high.3e15e86111331a39c984",
+    "kr.topic.2022.high.5124abdfe4a8d1c6cc6e",
+    "kr.topic.2022.high.5f01181832c765d3df30",
+    "kr.topic.2022.high.9bba61452def40a23d09",
+    "kr.topic.2022.high.dcdac191bd4d3531fb35",
+    "kr.topic.2022.high.e2d2d91b499d46b13f69"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.701cd65ca615735e92",
+   "titleKorean": "구매 조달 — 구매 발주 관리",
+   "subjectKorean": "구매 조달",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "구매 발주 관리",
+   "summary": "구매 조달의 구매 발주 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.08adba49cbc9d5f9ad0b",
+    "kr.topic.2022.high.0c7e734a1eb31fd214f1",
+    "kr.topic.2022.high.323611c6008812c4daf7",
+    "kr.topic.2022.high.6608489a5a9584815dca",
+    "kr.topic.2022.high.79e37b0cd808199eb1bf",
+    "kr.topic.2022.high.9bac788197985abadee3",
+    "kr.topic.2022.high.c789cec7f998145eba93",
+    "kr.topic.2022.high.cc0b76b8fd114614abec",
+    "kr.topic.2022.high.cfb5a1b3203892c7c9ef",
+    "kr.topic.2022.high.de3a9da5612e4f8fe3b2",
+    "kr.topic.2022.high.dfad4ba5758a75309b68",
+    "kr.topic.2022.high.f2df94872eb977084380"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.70eb5220b799e12b20",
+   "titleKorean": "비서 — 영역 04",
+   "subjectKorean": "비서",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 04",
+   "summary": "비서의 영역 04 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.09ade17f3f6f1322b2bc",
+    "kr.topic.2022.high.15806ce29e5f23a4e275",
+    "kr.topic.2022.high.29f1efd5924189e0f8cb",
+    "kr.topic.2022.high.32cad95954b93fb0b6a5",
+    "kr.topic.2022.high.661b995c95c18361d293",
+    "kr.topic.2022.high.a5399117ab85894a938f",
+    "kr.topic.2022.high.b30ec3da717fdb82ebe9",
+    "kr.topic.2022.high.c230055ad01f30c3b472",
+    "kr.topic.2022.high.ce327645cb39d2f6c2d7",
+    "kr.topic.2022.high.fe3c010c347bcb105515"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.71823b0319048a8a79",
+   "titleKorean": "물류 관리 — 영역 04",
+   "subjectKorean": "물류 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 04",
+   "summary": "물류 관리의 영역 04 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.1cfd7262df0f4246bc4f",
+    "kr.topic.2022.high.36657b31d5f83fc56f84",
+    "kr.topic.2022.high.463fc864fa9279cb6b03",
+    "kr.topic.2022.high.5ff5c56ef06f2e437ff1",
+    "kr.topic.2022.high.614289494fdcfd1c6fb0",
+    "kr.topic.2022.high.6246024c1efe11dbe11f",
+    "kr.topic.2022.high.793ea8d3d1e126b1eae3",
+    "kr.topic.2022.high.81ac1d05aef7e96673ef",
+    "kr.topic.2022.high.990b024168a330dea93e",
+    "kr.topic.2022.high.ca66800851fcc5c57f19",
+    "kr.topic.2022.high.d42e49e39d495ccb99c5",
+    "kr.topic.2022.high.ee2f4c991f0af489fa67",
+    "kr.topic.2022.high.f9bf557836dfab7a304d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.72c650cabb461ad00f",
+   "titleKorean": "수출입 관리 — 수출입 계약",
+   "subjectKorean": "수출입 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "수출입 계약",
+   "summary": "수출입 관리의 수출입 계약 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.0dd1153bf3b8c20b77d1",
+    "kr.topic.2022.high.0e160ed8da6b17155475",
+    "kr.topic.2022.high.15b298f7b0a6781da402",
+    "kr.topic.2022.high.25c93074fa70624a67c8",
+    "kr.topic.2022.high.3acebcf5ac096d1f15f4",
+    "kr.topic.2022.high.41311f63df11e97ae311",
+    "kr.topic.2022.high.4da5ebde8f81e3fc630f",
+    "kr.topic.2022.high.957d0749e9591ba335da",
+    "kr.topic.2022.high.bd77d4eb296a1b7705b9",
+    "kr.topic.2022.high.d619a8886426842f5930",
+    "kr.topic.2022.high.f79f90827e174e699d37",
+    "kr.topic.2022.high.fc58c1212652ef53c596"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.72d43abbc5d5c4cbcb",
+   "titleKorean": "원산지 관리 — 영역 05",
+   "subjectKorean": "원산지 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "원산지 관리의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.18d6c34be3a2341f3f3a",
+    "kr.topic.2022.high.71a322b1c58b7e819687",
+    "kr.topic.2022.high.8659508c2ada34a19fb3"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.7630d3db81976d1994",
    "titleKorean": "회계 정보 처리 시스템 — 결산 및 회계 정보의 조회",
    "subjectKorean": "회계 정보 처리 시스템",
@@ -953,6 +2072,209 @@
    "topics": [
     "kr.topic.2022.high.1d3d141cfe36d97c259b",
     "kr.topic.2022.high.451aae67b16a31fcbeee"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.766e3a492143a545f0",
+   "titleKorean": "유통 관리 — 고객 관리",
+   "subjectKorean": "유통 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "고객 관리",
+   "summary": "유통 관리의 고객 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 15,
+   "topics": [
+    "kr.topic.2022.high.07d456153f2fed8ad413",
+    "kr.topic.2022.high.223f7b869670fe564fca",
+    "kr.topic.2022.high.44173fb4a60cb2aa3a2f",
+    "kr.topic.2022.high.4918d6b4a3770a3af86c",
+    "kr.topic.2022.high.57178e0c16f890ac9175",
+    "kr.topic.2022.high.5ab390925761a0fbd896",
+    "kr.topic.2022.high.723191f81bad1d78fc38",
+    "kr.topic.2022.high.a49c1decc221d4bac5b9",
+    "kr.topic.2022.high.aff29edb6ee43bd146fe",
+    "kr.topic.2022.high.b3bdca24b4bc73ad9010",
+    "kr.topic.2022.high.be1495f4333d845458a7",
+    "kr.topic.2022.high.c39ae4309e8a8548ad23",
+    "kr.topic.2022.high.ca9be8462d244f6074c6",
+    "kr.topic.2022.high.cb79f5b92d2a4e74414e",
+    "kr.topic.2022.high.d74a14d7987001b6c905"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7694dacdfff6e8a1aa",
+   "titleKorean": "총무 — 비품 관리",
+   "subjectKorean": "총무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "비품 관리",
+   "summary": "총무의 비품 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.1879b60a65e8f69dca1e",
+    "kr.topic.2022.high.31cdd123f5179e01069f",
+    "kr.topic.2022.high.32886ad0c674e6d7d6b8",
+    "kr.topic.2022.high.461d9c03a32a98e822a6",
+    "kr.topic.2022.high.593caa9022fd88fabfc9",
+    "kr.topic.2022.high.602895c3c6a5cf1495d5",
+    "kr.topic.2022.high.7316b2c990e3eb4d4630",
+    "kr.topic.2022.high.960ef5fb765bce561662",
+    "kr.topic.2022.high.adc4d8d7d85d382e6db9",
+    "kr.topic.2022.high.d69fb6347370925c8973"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.771ea3f9961b8d77b5",
+   "titleKorean": "노무 관리 — 위원회 운영",
+   "subjectKorean": "노무 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "위원회 운영",
+   "summary": "노무 관리의 위원회 운영 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.060d18e3cfcccd1eee6b",
+    "kr.topic.2022.high.28e97be7fedb4a2e9187",
+    "kr.topic.2022.high.399599d86b7697d9ba94",
+    "kr.topic.2022.high.62c6d41d4d54a9884c4d",
+    "kr.topic.2022.high.7e4a9ebaab5c6ded10e0",
+    "kr.topic.2022.high.86e38dd7611ddac93b30",
+    "kr.topic.2022.high.9cb2245e6b6e40658afc",
+    "kr.topic.2022.high.c75c37b4a80cf2672736",
+    "kr.topic.2022.high.ea50780de8969f69975c",
+    "kr.topic.2022.high.fd3111bbc9674871ecaf"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7907e2a09487854286",
+   "titleKorean": "매장 판매 — 고객 요구 관리",
+   "subjectKorean": "매장 판매",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "고객 요구 관리",
+   "summary": "매장 판매의 고객 요구 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.1b5d4e4e277f74bc06aa",
+    "kr.topic.2022.high.428c81aed7bd71a7600f",
+    "kr.topic.2022.high.593b2fd89918a646f61c",
+    "kr.topic.2022.high.5b118b310f4dde0f0551",
+    "kr.topic.2022.high.84fc5b1bf3d6acb52348",
+    "kr.topic.2022.high.96256c7299a40879cc62",
+    "kr.topic.2022.high.9fd899e164fc392ec1b7",
+    "kr.topic.2022.high.ac8bc575e9a25fa752f7",
+    "kr.topic.2022.high.caaa6cb7448fcf935ab2",
+    "kr.topic.2022.high.d99f477acf59f4ea4aab",
+    "kr.topic.2022.high.eaab30e6fdcd5cded871",
+    "kr.topic.2022.high.f9cde0a5e166f1fedb39"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7a4cfc656c6f7faf8c",
+   "titleKorean": "노무 관리 — 노사 협의회 운영",
+   "subjectKorean": "노무 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "노사 협의회 운영",
+   "summary": "노무 관리의 노사 협의회 운영 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.07e0524f92e30c8089d4",
+    "kr.topic.2022.high.139766354e4fb2367bf9",
+    "kr.topic.2022.high.845ce31e130ca62dadd7",
+    "kr.topic.2022.high.9b883942648c3ad020a4",
+    "kr.topic.2022.high.b0be7fdf2cfec7a4f023",
+    "kr.topic.2022.high.b4527c8eafd3286ff3a6",
+    "kr.topic.2022.high.b71c555b79235c89d19b",
+    "kr.topic.2022.high.bf25e24333000635077f",
+    "kr.topic.2022.high.c3d7e5b7a7ad9bf0648d",
+    "kr.topic.2022.high.dc71ce5aca34db7ec6eb",
+    "kr.topic.2022.high.e212a4cdd711d52532fd"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7c6fbb5afa48c9145f",
+   "titleKorean": "총무 — 업무 지원",
+   "subjectKorean": "총무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "업무 지원",
+   "summary": "총무의 업무 지원 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.13a48b5e3bca4bb52225",
+    "kr.topic.2022.high.1520f963fcb3965b16d0",
+    "kr.topic.2022.high.1b63263aa5d8e7901545",
+    "kr.topic.2022.high.27c6f83d8a8fbfe6b457",
+    "kr.topic.2022.high.45fb58875b0cbbe14310",
+    "kr.topic.2022.high.47bd622b6b72cbafca58",
+    "kr.topic.2022.high.546ca4541aa617f65c32",
+    "kr.topic.2022.high.95f941053ce780649cdc",
+    "kr.topic.2022.high.adf5bca90d06a03a754a",
+    "kr.topic.2022.high.d17848dfceeeeb6e5116",
+    "kr.topic.2022.high.dadc9ed1e62eb2468b03"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7dfe04ff9c7376439a",
+   "titleKorean": "매장 판매 — 매장 영업 전 판매 지원 점검",
+   "subjectKorean": "매장 판매",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "매장 영업 전 판매 지원 점검",
+   "summary": "매장 판매의 매장 영업 전 판매 지원 점검 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.2b4799dad712d3d2f20b",
+    "kr.topic.2022.high.33b36fb5c3b661796bbc",
+    "kr.topic.2022.high.43710b947a4d775bf8da",
+    "kr.topic.2022.high.4f6f171accc80ffb6138",
+    "kr.topic.2022.high.76bad678f0bd1927c15a",
+    "kr.topic.2022.high.83217dfcd77cb71b2eaa",
+    "kr.topic.2022.high.8f29b6e88facf9f83dff",
+    "kr.topic.2022.high.a3f0820f4f6eeda32583",
+    "kr.topic.2022.high.a8ba5c7bc5b410f882d6",
+    "kr.topic.2022.high.bdd3f54b3ced2ca3d053",
+    "kr.topic.2022.high.da1d1edfec4a573264af"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7ebe9ac7a35ef93bc6",
+   "titleKorean": "예산･자금 — 추정 재무제표 작성",
+   "subjectKorean": "예산･자금",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "추정 재무제표 작성",
+   "summary": "예산･자금의 추정 재무제표 작성 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.21ab1dd9c35741bc6c8a",
+    "kr.topic.2022.high.2fe07b3f4a893661027c",
+    "kr.topic.2022.high.350b75dbd7bd320afb9a",
+    "kr.topic.2022.high.3ba9db56e82e04299293",
+    "kr.topic.2022.high.480bf8f68f5c1957c00d",
+    "kr.topic.2022.high.564edc2d6b72f3b39c51",
+    "kr.topic.2022.high.89e7e0de0d1d7180f09b",
+    "kr.topic.2022.high.a365c27fa0a8f51f5ffb",
+    "kr.topic.2022.high.dd9be690d4003924c925"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.80abfe846669b01818",
+   "titleKorean": "비서 — 영역 05",
+   "subjectKorean": "비서",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "비서의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.044fbd18358a41aac2b4",
+    "kr.topic.2022.high.24513e146aee53fffd81",
+    "kr.topic.2022.high.3c5f1aab7b86cf12197b",
+    "kr.topic.2022.high.a815716a06ce2baa7f74",
+    "kr.topic.2022.high.b0bc7d88378193f7867e",
+    "kr.topic.2022.high.bb0bab7c827ce9266040"
    ]
   },
   {
@@ -1033,6 +2355,131 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.8b90b05bcd22aa09f2",
+   "titleKorean": "창구 사무 — 전자 금융 서비스",
+   "subjectKorean": "창구 사무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "전자 금융 서비스",
+   "summary": "창구 사무의 전자 금융 서비스 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.0fe201eeb14559d9d80d",
+    "kr.topic.2022.high.1e0a594ed6c97fd543e1",
+    "kr.topic.2022.high.2d4ea5cf7e7780cde33f",
+    "kr.topic.2022.high.81f8cca2d5e71d66a97c",
+    "kr.topic.2022.high.8a303994ebc31d7e3d1e",
+    "kr.topic.2022.high.90853ef879c09c81a936",
+    "kr.topic.2022.high.c2575060bc915f4f1be2",
+    "kr.topic.2022.high.d57a5a32f9dc1d6fe9e9",
+    "kr.topic.2022.high.dc8fe4936a4ffda466f1"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.8c33982a2b16ecb0c5",
+   "titleKorean": "품질 관리 — 영역 03",
+   "subjectKorean": "품질 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 03",
+   "summary": "품질 관리의 영역 03 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.41b20e050a3dce6c466d",
+    "kr.topic.2022.high.4bfd0da041ab4ce82ec1",
+    "kr.topic.2022.high.58626dcdb334b91ae64d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.8d1e9eb5e024ecbdab",
+   "titleKorean": "사무 행정 — 사무 자동화 프로그램 활용",
+   "subjectKorean": "사무 행정",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "사무 자동화 프로그램 활용",
+   "summary": "사무 행정의 사무 자동화 프로그램 활용 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.05510bb4b6d453637518",
+    "kr.topic.2022.high.0da8547ebdb64c7b2874",
+    "kr.topic.2022.high.3cb8dc69e427519bbd31",
+    "kr.topic.2022.high.50d028c29fa911a2a2b0",
+    "kr.topic.2022.high.50ebabf9352225522a27",
+    "kr.topic.2022.high.60bfd7fb42f3b49c5132",
+    "kr.topic.2022.high.960620b42e9f8b97b2ca",
+    "kr.topic.2022.high.c6575c22860cd2a5ae5f",
+    "kr.topic.2022.high.d7c467b09a670b31596e",
+    "kr.topic.2022.high.d95ef5f2f06d720279a8",
+    "kr.topic.2022.high.d9ca70abe1c256b1efd0",
+    "kr.topic.2022.high.fd3b45518582b560d1c1"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.8d37b03cc07ba33a96",
+   "titleKorean": "세무 실무 — 부가 가치세 신고",
+   "subjectKorean": "세무 실무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "부가 가치세 신고",
+   "summary": "세무 실무의 부가 가치세 신고 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.5c126ac6068027019f25",
+    "kr.topic.2022.high.622e7942426799237515",
+    "kr.topic.2022.high.7bdfe82b8db7fbec3fda",
+    "kr.topic.2022.high.b34908855138b973432b",
+    "kr.topic.2022.high.baa4991765897d800839",
+    "kr.topic.2022.high.cb26e30c2acd9fbf3acb",
+    "kr.topic.2022.high.ef07081812a6f938f0ed",
+    "kr.topic.2022.high.f36e8e7e87b99dd9750f",
+    "kr.topic.2022.high.f4f902469bf36ea2e9f4",
+    "kr.topic.2022.high.f8d0f90ea7511c5886e9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.8e55ec3af5a7377684",
+   "titleKorean": "매장 판매 — 고객 관계 관리",
+   "subjectKorean": "매장 판매",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "고객 관계 관리",
+   "summary": "매장 판매의 고객 관계 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.43a6e76ff86e33123b47",
+    "kr.topic.2022.high.5322629b35b9c32e489a",
+    "kr.topic.2022.high.795a3439012303e62d6f",
+    "kr.topic.2022.high.801ae6babb847d11e247",
+    "kr.topic.2022.high.850532610bf2b2c51e8e",
+    "kr.topic.2022.high.899b877e88ca5e5b02fc",
+    "kr.topic.2022.high.b3af8d0700c78d95e9ce",
+    "kr.topic.2022.high.c744da44ef7c945fffc5",
+    "kr.topic.2022.high.d5f2fda9e3f275fd3065",
+    "kr.topic.2022.high.e8f6b0d308eaf0db9fb8"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9108e059ab1b011b51",
+   "titleKorean": "창구 사무 — 제 신고 처리",
+   "subjectKorean": "창구 사무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "제 신고 처리",
+   "summary": "창구 사무의 제 신고 처리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.33cd19d1703a85204fcc",
+    "kr.topic.2022.high.36a5d0f1b00685ff1226",
+    "kr.topic.2022.high.3bf5316988e848a1b559",
+    "kr.topic.2022.high.4f7ea8e92150fb8de167",
+    "kr.topic.2022.high.78eb56493ae3d3d588a9",
+    "kr.topic.2022.high.7b04bda33a1feb1eabbd",
+    "kr.topic.2022.high.9cfc0108f25de5c43109",
+    "kr.topic.2022.high.ebba266864e10aad796b",
+    "kr.topic.2022.high.f428a015bec5471c771d"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.950650035c65568925",
    "titleKorean": "기업 자원 통합 관리 — 기업 자원 통합 관리의 개요",
    "subjectKorean": "기업 자원 통합 관리",
@@ -1050,6 +2497,52 @@
     "kr.topic.2022.high.dc712e476ba2450b27e0",
     "kr.topic.2022.high.e141d8873da569399136",
     "kr.topic.2022.high.f2ca300f4dfd06d78960"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.95901f453c8ccdab3a",
+   "titleKorean": "사무 행정 — 문서 작성",
+   "subjectKorean": "사무 행정",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "문서 작성",
+   "summary": "사무 행정의 문서 작성 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.06cf658c4dfa620ed22d",
+    "kr.topic.2022.high.08348a13575f5a7c9ef0",
+    "kr.topic.2022.high.09b5f53f120d5983590b",
+    "kr.topic.2022.high.12836d40a2c2c7d50c82",
+    "kr.topic.2022.high.20237028b09fe0ff165b",
+    "kr.topic.2022.high.48a013b27c5bf5a813ea",
+    "kr.topic.2022.high.5d58fabddd4aff7cc25e",
+    "kr.topic.2022.high.a1d3f67b1594993dd9c4",
+    "kr.topic.2022.high.add5e8ee833c0d2b654f",
+    "kr.topic.2022.high.c56dcfd233069dae6e51",
+    "kr.topic.2022.high.cb6cc709d636175006f5",
+    "kr.topic.2022.high.fd784e39cebc128bc05a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.961f48ad4e3625fd02",
+   "titleKorean": "세무 실무 — 영역 03",
+   "subjectKorean": "세무 실무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 03",
+   "summary": "세무 실무의 영역 03 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.02dadf3bdfad461e847a",
+    "kr.topic.2022.high.0433f5672c29f8c83d10",
+    "kr.topic.2022.high.11c7724bb6d98e1e1cb5",
+    "kr.topic.2022.high.125665355b3cf8edd6ed",
+    "kr.topic.2022.high.3280888d8f58146d2cca",
+    "kr.topic.2022.high.7f2556fd9097185987e2",
+    "kr.topic.2022.high.84e9a8b83819187c4d38",
+    "kr.topic.2022.high.8bd01acb289b784d1e86",
+    "kr.topic.2022.high.dcf5c24d7740fe4144fd",
+    "kr.topic.2022.high.f8751596e668fe6928bf"
    ]
   },
   {
@@ -1075,6 +2568,64 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.99ed54ba21a19129dd",
+   "titleKorean": "창구 사무 — 금융 소비자 보호",
+   "subjectKorean": "창구 사무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "금융 소비자 보호",
+   "summary": "창구 사무의 금융 소비자 보호 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.0cd3f25683e0009d9a61",
+    "kr.topic.2022.high.18aacfaadc52cb3610bc",
+    "kr.topic.2022.high.4f7eda656fe6a5edfcbe",
+    "kr.topic.2022.high.5f2af8f59c9671d86083",
+    "kr.topic.2022.high.771f0c4c8cf1063c2ca1",
+    "kr.topic.2022.high.ba4bf68e5080fd093078",
+    "kr.topic.2022.high.ce3ee25730b8088ec637",
+    "kr.topic.2022.high.f09d3470493a162631c9",
+    "kr.topic.2022.high.ff411e8ccfc7400bef28"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9b93857b71db1ef4db",
+   "titleKorean": "원산지 관리 — 영역 04",
+   "subjectKorean": "원산지 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 04",
+   "summary": "원산지 관리의 영역 04 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.1a1c7d316afef4f08daf",
+    "kr.topic.2022.high.5cd8cb6b191d2595f82a",
+    "kr.topic.2022.high.61f2f112d897fbd7b738",
+    "kr.topic.2022.high.96dd2793040424872d0f",
+    "kr.topic.2022.high.a1d90564ab3b67b3b31e",
+    "kr.topic.2022.high.d0efae27b105903dd84a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9c6bca3b44545bee10",
+   "titleKorean": "품질 관리 — 현장 품질 관리",
+   "subjectKorean": "품질 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "현장 품질 관리",
+   "summary": "품질 관리의 현장 품질 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.1c61f78d5c99957a9011",
+    "kr.topic.2022.high.1cf626a13439f92e56ca",
+    "kr.topic.2022.high.424e66eb73fa013c9f92",
+    "kr.topic.2022.high.46ff607c64e00bac3b22",
+    "kr.topic.2022.high.5f05db3b610d1060f97d",
+    "kr.topic.2022.high.9925df8872d4960c1928",
+    "kr.topic.2022.high.cf61a334333078e93354"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.9cddd112a6e6ae7812",
    "titleKorean": "상업 경제 — 금융",
    "subjectKorean": "상업 경제",
@@ -1094,6 +2645,52 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.9cfecdb22017997bf8",
+   "titleKorean": "품질 관리 — 공정 품질 관리",
+   "subjectKorean": "품질 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "공정 품질 관리",
+   "summary": "품질 관리의 공정 품질 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.0173cf05f756db1f54c7",
+    "kr.topic.2022.high.15008f5c9742106c46ea",
+    "kr.topic.2022.high.565d04e091884c8ddf5f",
+    "kr.topic.2022.high.70ec9e7a704f119d5c15",
+    "kr.topic.2022.high.77886ae9661f7f1db89e",
+    "kr.topic.2022.high.7db2ed0cd95b5f6877b2",
+    "kr.topic.2022.high.87768a0c12f56bc47863",
+    "kr.topic.2022.high.b8f01ac574f77007395d",
+    "kr.topic.2022.high.bdaa60392ef81aceab83",
+    "kr.topic.2022.high.d392f2296388f3a2e932",
+    "kr.topic.2022.high.e98aa8537233a134fb1f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9e2f999059934de012",
+   "titleKorean": "예산･자금 — 자금 정보 제공",
+   "subjectKorean": "예산･자금",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "자금 정보 제공",
+   "summary": "예산･자금의 자금 정보 제공 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.0277e6add9b41544ed2e",
+    "kr.topic.2022.high.403e2c6bbb5612cb4220",
+    "kr.topic.2022.high.415d25f537f68e08261d",
+    "kr.topic.2022.high.454be41e45666ab1db6f",
+    "kr.topic.2022.high.5112d8bb42ac1853c814",
+    "kr.topic.2022.high.6fba1f03d3b370dcbc1e",
+    "kr.topic.2022.high.96faebc3488e845192eb",
+    "kr.topic.2022.high.99b4388ace8517cc23ca",
+    "kr.topic.2022.high.cafe0dde11deac4b9ead",
+    "kr.topic.2022.high.dacbff515c9dafac4824",
+    "kr.topic.2022.high.e5b62e79617b7331d430"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.a15ed22694e4c339b7",
    "titleKorean": "회계 정보 처리 시스템 — 재무 상태표 계정의 회계 정보 처리",
    "subjectKorean": "회계 정보 처리 시스템",
@@ -1108,6 +2705,47 @@
     "kr.topic.2022.high.c79288f3701fdaf0051c",
     "kr.topic.2022.high.f5413888cb21eb0b34d8",
     "kr.topic.2022.high.fa63e1d24219ab91e8ed"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a1bfa1973a0886da0b",
+   "titleKorean": "매장 판매 — 영역 05",
+   "subjectKorean": "매장 판매",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "매장 판매의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.2d2ce5c036ce2ca26841",
+    "kr.topic.2022.high.38be6a9f88a2ce49633f",
+    "kr.topic.2022.high.46d7720806d9768283e4",
+    "kr.topic.2022.high.9c2518bf6eaec65c29fd",
+    "kr.topic.2022.high.a265fb8637850ad6fd61",
+    "kr.topic.2022.high.a49c7726731943c3f172",
+    "kr.topic.2022.high.af091728b03900a6a611",
+    "kr.topic.2022.high.b14c3fbf57620bc2ccca",
+    "kr.topic.2022.high.c1b1a4a4ab7d4776ee60",
+    "kr.topic.2022.high.e9f7bc98c531aae37e12"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a2177b03078014aad7",
+   "titleKorean": "고객 관리 — 고객 관계 관리",
+   "subjectKorean": "고객 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "고객 관계 관리",
+   "summary": "고객 관리의 고객 관계 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.2a7390f0254a77534b7c",
+    "kr.topic.2022.high.9cb4fcf546a06815180d",
+    "kr.topic.2022.high.a34d6e614de5abb35143",
+    "kr.topic.2022.high.a9611eae7b04f3307b62",
+    "kr.topic.2022.high.b0c072cbd9b833b40a6a",
+    "kr.topic.2022.high.c81e9e3758a48a8f29a3",
+    "kr.topic.2022.high.f3199c08c473e776b86a"
    ]
   },
   {
@@ -1130,6 +2768,52 @@
     "kr.topic.2022.high.c5038e3bbe239efbc819",
     "kr.topic.2022.high.ea578a5bc3634113f2aa",
     "kr.topic.2022.high.fc1c6e1bfa48e150b533"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a3d154bcb4e2d97574",
+   "titleKorean": "무역 금융 업무 — 수출 신용장 통지",
+   "subjectKorean": "무역 금융 업무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "수출 신용장 통지",
+   "summary": "무역 금융 업무의 수출 신용장 통지 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.039bc58371cfa857f90a",
+    "kr.topic.2022.high.0c88e87f82c90976796f",
+    "kr.topic.2022.high.36da0663c60351b3148c",
+    "kr.topic.2022.high.5b08491b7c941772b1a0",
+    "kr.topic.2022.high.64adde25b501806724e0",
+    "kr.topic.2022.high.80fab90847d7a8ee412a",
+    "kr.topic.2022.high.8332739657fc3763082f",
+    "kr.topic.2022.high.8469830c186f1b23daf0",
+    "kr.topic.2022.high.98ed719e880bbb2020af",
+    "kr.topic.2022.high.bcf64ecef9b9723fab2f",
+    "kr.topic.2022.high.d3d2dfd79f0f4f11a6c0",
+    "kr.topic.2022.high.ec7a9cdfbcc4f94bc500"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a41998aa8510b314cd",
+   "titleKorean": "원산지 관리 — FTA 원산지 인증 수출자 인증",
+   "subjectKorean": "원산지 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "FTA 원산지 인증 수출자 인증",
+   "summary": "원산지 관리의 FTA 원산지 인증 수출자 인증 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.0cbc243432d1ad964f11",
+    "kr.topic.2022.high.14e7b8f85c80a47e59e7",
+    "kr.topic.2022.high.340546bde14afdba72ba",
+    "kr.topic.2022.high.391c01fccc777b93171e",
+    "kr.topic.2022.high.49c18d2d12d5c4bc55ae",
+    "kr.topic.2022.high.73da6ad973b866b4a71a",
+    "kr.topic.2022.high.9624f7c158b2226b7cbe",
+    "kr.topic.2022.high.a05a638bbff3b0987fa9",
+    "kr.topic.2022.high.ac1410a39cfceab9b4e5",
+    "kr.topic.2022.high.b0036ddfca814692fd58"
    ]
   },
   {
@@ -1185,6 +2869,80 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.a80125598fbd3289c1",
+   "titleKorean": "매장 판매 — 매장 판매 마무리",
+   "subjectKorean": "매장 판매",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "매장 판매 마무리",
+   "summary": "매장 판매의 매장 판매 마무리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.0a70108eaf3fa7de21e8",
+    "kr.topic.2022.high.2248febdc9f01492cdae",
+    "kr.topic.2022.high.4629274364d6ec97f015",
+    "kr.topic.2022.high.46decd844862dea050ff",
+    "kr.topic.2022.high.4a0b2ff5d11183a2485a",
+    "kr.topic.2022.high.6f5a09b8090576e5fae6",
+    "kr.topic.2022.high.758ed6776c64dca85787",
+    "kr.topic.2022.high.8922bd1f20f05a1ba9af",
+    "kr.topic.2022.high.ae4129e753bcb3983e24",
+    "kr.topic.2022.high.c1e1bc1c9b7ea2aecf1d",
+    "kr.topic.2022.high.e8af7b3403bbdaaa96df",
+    "kr.topic.2022.high.fbad4d8762b656c03e1a",
+    "kr.topic.2022.high.fc8b759dcadd2aada66a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a9ebbcc72853a5771e",
+   "titleKorean": "구매 조달 — 구매품 품질 관리",
+   "subjectKorean": "구매 조달",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "구매품 품질 관리",
+   "summary": "구매 조달의 구매품 품질 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.25acc777c4d317c405fc",
+    "kr.topic.2022.high.2bcf79440399a3e8b1aa",
+    "kr.topic.2022.high.3dbe6a52b1ea00623a52",
+    "kr.topic.2022.high.46b802bf2f0cc44181d5",
+    "kr.topic.2022.high.5e3f589e7a3e868ad27b",
+    "kr.topic.2022.high.88fba1420d313ea7f810",
+    "kr.topic.2022.high.9af714089975313d1686",
+    "kr.topic.2022.high.a55a71b02139ddd5c530",
+    "kr.topic.2022.high.b43e56cc80305852e541",
+    "kr.topic.2022.high.d165a96b1914f05a04a6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.aa601c7d4a8d0df484",
+   "titleKorean": "무역 금융 업무 — 수입 신용장 개설",
+   "subjectKorean": "무역 금융 업무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "수입 신용장 개설",
+   "summary": "무역 금융 업무의 수입 신용장 개설 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 15,
+   "topics": [
+    "kr.topic.2022.high.0605099663f0ad2b48de",
+    "kr.topic.2022.high.0e0b44ae88c04fbfefd9",
+    "kr.topic.2022.high.39822ffaa82b583a8488",
+    "kr.topic.2022.high.5235fcf206505ad8bbb6",
+    "kr.topic.2022.high.59ea60f45bdfc45b6a66",
+    "kr.topic.2022.high.623d0e7857f78220d983",
+    "kr.topic.2022.high.734afecb9b8a5eef44fb",
+    "kr.topic.2022.high.8e136712f72ee8d82be0",
+    "kr.topic.2022.high.931dd43b864126591b43",
+    "kr.topic.2022.high.96103c12587f144c0a2e",
+    "kr.topic.2022.high.9cdbce8732485fd4abc5",
+    "kr.topic.2022.high.a6ff03550d5aaf7cdd72",
+    "kr.topic.2022.high.b38dd4af8be0d0d2a4c9",
+    "kr.topic.2022.high.eece598ca73384474ebe",
+    "kr.topic.2022.high.f2759e7ed216ee804653"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.aae3da43d57030f22f",
    "titleKorean": "무역 영어 — 무역 클레임(Claim)",
    "subjectKorean": "무역 영어",
@@ -1198,6 +2956,49 @@
     "kr.topic.2022.high.80c0c9589ce52157f422",
     "kr.topic.2022.high.8c6a4f99e3b153741e28",
     "kr.topic.2022.high.ea1587dfc4a7361c336d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ae3892810537748c06",
+   "titleKorean": "매장 판매 — 판매 기본 정보 분석",
+   "subjectKorean": "매장 판매",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "판매 기본 정보 분석",
+   "summary": "매장 판매의 판매 기본 정보 분석 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 15,
+   "topics": [
+    "kr.topic.2022.high.0a6717c592bfa5d4ee28",
+    "kr.topic.2022.high.1464c1a5bcbff7fb80f1",
+    "kr.topic.2022.high.2f527597d3359d11a4b7",
+    "kr.topic.2022.high.4515f503cf087be6659a",
+    "kr.topic.2022.high.52ea0fefd79440fc4789",
+    "kr.topic.2022.high.53fb8fa76cae05d9745d",
+    "kr.topic.2022.high.7009feaed3dba0da83fc",
+    "kr.topic.2022.high.a7f4e812ad8f481c7fc6",
+    "kr.topic.2022.high.be7728adf4b76d2ccfbe",
+    "kr.topic.2022.high.c6c4e0282e0416b7d596",
+    "kr.topic.2022.high.d7738cee9299d55e620a",
+    "kr.topic.2022.high.f169eeebcc061b8eeded",
+    "kr.topic.2022.high.f5445e7da1e8ac1a06ea",
+    "kr.topic.2022.high.fa61cd8657bb09df894c",
+    "kr.topic.2022.high.fe1f9853c9c7ef91441d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.aef7008411b10e4d08",
+   "titleKorean": "회계 실무 — 영역 04",
+   "subjectKorean": "회계 실무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 04",
+   "summary": "회계 실무의 영역 04 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.12c34847f3bc90da03bc",
+    "kr.topic.2022.high.5c77386d01ce6f443ac5",
+    "kr.topic.2022.high.86af1cb5a8e730c78560",
+    "kr.topic.2022.high.a11dbfef91112253ea3b"
    ]
   },
   {
@@ -1253,6 +3054,69 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.b2e4dc50b837595a7a",
+   "titleKorean": "사무 행정 — 사무 환경 조성",
+   "subjectKorean": "사무 행정",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "사무 환경 조성",
+   "summary": "사무 행정의 사무 환경 조성 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.03816f2bbdab3aa529a9",
+    "kr.topic.2022.high.1921d5e5ae48b780c11f",
+    "kr.topic.2022.high.290913f58ff4414ee834",
+    "kr.topic.2022.high.2af07edff72d83fb82d5",
+    "kr.topic.2022.high.5fe16ba9fb0d635f5c1d",
+    "kr.topic.2022.high.6b496ed8dca3d15b87d8",
+    "kr.topic.2022.high.6c705bcb736805bd9db1",
+    "kr.topic.2022.high.85f83012239969a491c6",
+    "kr.topic.2022.high.8d83934a1ce52668708c",
+    "kr.topic.2022.high.8f05009fd04699f139b0",
+    "kr.topic.2022.high.99dc7ffac4dc9b973bde",
+    "kr.topic.2022.high.a78d47b7ab7dd5ac96d7",
+    "kr.topic.2022.high.f0fa841f96edeeb33683"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b5dd1251660e87bd8a",
+   "titleKorean": "예산･자금 — 영역 04",
+   "subjectKorean": "예산･자금",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 04",
+   "summary": "예산･자금의 영역 04 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.096e516dfff2832fb233",
+    "kr.topic.2022.high.5c3534c3ad69779a135a",
+    "kr.topic.2022.high.66a0b1b15a8ca3c21c2a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b816d65fcdd41aee22",
+   "titleKorean": "원산지 관리 — FTA 원산지 증빙 서류 발급",
+   "subjectKorean": "원산지 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "FTA 원산지 증빙 서류 발급",
+   "summary": "원산지 관리의 FTA 원산지 증빙 서류 발급 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.1e86a011a8cb6b9daf7e",
+    "kr.topic.2022.high.2320ff4540c17d266519",
+    "kr.topic.2022.high.564285069c7e7ab3c845",
+    "kr.topic.2022.high.5aa36b67e6203610e411",
+    "kr.topic.2022.high.68c05f8d935fc56dca17",
+    "kr.topic.2022.high.83622898b5e6d239ca88",
+    "kr.topic.2022.high.a608db195599a97ae675",
+    "kr.topic.2022.high.da7fef88bd55153faa89",
+    "kr.topic.2022.high.db05d7579aff5289d0cc",
+    "kr.topic.2022.high.ede156f5586925cc10c1",
+    "kr.topic.2022.high.f926a2eefff8e6817b76"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.b82a3b99427ce0cfe1",
    "titleKorean": "무역 영어 — 운송과 보험(Transport and Insurance)",
    "subjectKorean": "무역 영어",
@@ -1270,6 +3134,52 @@
     "kr.topic.2022.high.d2c669484d83da11091b",
     "kr.topic.2022.high.dbd46875e8f25716634a",
     "kr.topic.2022.high.e8880ef1310954016365"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b8e6ad861c38b3fe38",
+   "titleKorean": "사무 행정 — 영역 04",
+   "subjectKorean": "사무 행정",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 04",
+   "summary": "사무 행정의 영역 04 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.0874b50d1c419941382d",
+    "kr.topic.2022.high.3be7d9de604ece4eb5ac",
+    "kr.topic.2022.high.6039aa2415ebc3a9d6df",
+    "kr.topic.2022.high.766f3cd9658187a21dbc",
+    "kr.topic.2022.high.7b71064aeee1402fb90c",
+    "kr.topic.2022.high.812d526018348dba0c0f",
+    "kr.topic.2022.high.8ac6ab465be151621cc9",
+    "kr.topic.2022.high.91ad9bcac4ab51d85379",
+    "kr.topic.2022.high.c0bb888ff76697a0a10f",
+    "kr.topic.2022.high.c78f26cdb5932dedc19f",
+    "kr.topic.2022.high.c9ace7a163c67d161023",
+    "kr.topic.2022.high.cf6401c811f6250c76dc",
+    "kr.topic.2022.high.f9be9341a0f203e725d2"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b9373110f5ac59b253",
+   "titleKorean": "원산지 관리 — FTA 원산지 수입 활용",
+   "subjectKorean": "원산지 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "FTA 원산지 수입 활용",
+   "summary": "원산지 관리의 FTA 원산지 수입 활용 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.0d15ff515c4f94c55adc",
+    "kr.topic.2022.high.2a5f3c33b82dba59b03b",
+    "kr.topic.2022.high.2d6dd97dd0751f553bce",
+    "kr.topic.2022.high.32eee2d5fa6c77416bd1",
+    "kr.topic.2022.high.43e3dce011d90ee2b0e1",
+    "kr.topic.2022.high.512d40d81a138765b2a9",
+    "kr.topic.2022.high.a8df78351449d3b56768",
+    "kr.topic.2022.high.efe0a04b746c7d3de161",
+    "kr.topic.2022.high.f249ce11a9d5bbb0b790"
    ]
   },
   {
@@ -1330,6 +3240,27 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.bd42d6db5677a6a7a5",
+   "titleKorean": "노무 관리 — 단체 협약 이행",
+   "subjectKorean": "노무 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "단체 협약 이행",
+   "summary": "노무 관리의 단체 협약 이행 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.06ea3d09bd3ccfa18563",
+    "kr.topic.2022.high.1de417061c74f94ac3e8",
+    "kr.topic.2022.high.4375545c85713894398a",
+    "kr.topic.2022.high.68a1e8f2b16a0b73dabd",
+    "kr.topic.2022.high.68ec9ab667011df28670",
+    "kr.topic.2022.high.9960f694c27b2a2c0b75",
+    "kr.topic.2022.high.9bbe0f962544be778ca9",
+    "kr.topic.2022.high.a7c1cb82f5e025695483",
+    "kr.topic.2022.high.e035810fb27814100080"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.be563da3f866755ba9",
    "titleKorean": "비즈니스 커뮤니케이션 — 이미지 메이킹",
    "subjectKorean": "비즈니스 커뮤니케이션",
@@ -1345,6 +3276,105 @@
     "kr.topic.2022.high.a2a2e213ae01a8232070",
     "kr.topic.2022.high.c6f17565aa92224470ca",
     "kr.topic.2022.high.e3a5c8aa037eab91cca0"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.bef26fd8937773986d",
+   "titleKorean": "세무 실무 — 법인세 신고 준비",
+   "subjectKorean": "세무 실무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "법인세 신고 준비",
+   "summary": "세무 실무의 법인세 신고 준비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.189c21934175d67b576e",
+    "kr.topic.2022.high.2f92165356c1f26ba212",
+    "kr.topic.2022.high.6d21af91d6d1ff0803e1",
+    "kr.topic.2022.high.77cf913bd0c8e9cf62af",
+    "kr.topic.2022.high.a2aca8319570eef16d0e",
+    "kr.topic.2022.high.d04b41aadef37f2dd613",
+    "kr.topic.2022.high.ed9c77e7ebde31cf499c",
+    "kr.topic.2022.high.f6bf3f2b2d28df5a2221"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.bf2c3b21a632c9d08e",
+   "titleKorean": "인사 — 영역 04",
+   "subjectKorean": "인사",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 04",
+   "summary": "인사의 영역 04 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.641d308237dd0edbcbec",
+    "kr.topic.2022.high.6ab78caa063e8e476611",
+    "kr.topic.2022.high.a0eb8a38503c02e689ca"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c03fa530026f1c7e84",
+   "titleKorean": "수출입 관리 — 수출 통관",
+   "subjectKorean": "수출입 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "수출 통관",
+   "summary": "수출입 관리의 수출 통관 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.0054f7ae27ccd0a3c19a",
+    "kr.topic.2022.high.57cadb1e1a6ac05e4b95",
+    "kr.topic.2022.high.6c61c08b4ce5029da769",
+    "kr.topic.2022.high.6ee4368663460cfc01e7",
+    "kr.topic.2022.high.c0d55c87b07e7f088093",
+    "kr.topic.2022.high.ccf3e3167bb95b798bd4",
+    "kr.topic.2022.high.d4d8e799153cf29de33b",
+    "kr.topic.2022.high.e3e6655146bc8a97df10",
+    "kr.topic.2022.high.e5bdfa17722e00d90cda",
+    "kr.topic.2022.high.e5e28618a7d4cc7c2081"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c04931942040af65f3",
+   "titleKorean": "사무 행정 — 회의 운영･지원",
+   "subjectKorean": "사무 행정",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "회의 운영･지원",
+   "summary": "사무 행정의 회의 운영･지원 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.39fd27e5adf188bb920a",
+    "kr.topic.2022.high.4205149f62bd517b8a90",
+    "kr.topic.2022.high.484b284a5539e364bf70",
+    "kr.topic.2022.high.48e6b28a7f609d03e72b",
+    "kr.topic.2022.high.51744ec0bd9cb9371693",
+    "kr.topic.2022.high.5d8732f5a3321ffb843d",
+    "kr.topic.2022.high.6cb50afc63f2330955c5",
+    "kr.topic.2022.high.769ff8ce5639dca28cf8",
+    "kr.topic.2022.high.7be8b3ce2627167ac8f3",
+    "kr.topic.2022.high.9153ca48a7307c1003b7",
+    "kr.topic.2022.high.b2e136b0a224ed77bbe7",
+    "kr.topic.2022.high.b9a5843a801558483bd7",
+    "kr.topic.2022.high.ee4fbad073559f05cfb7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c0684b3f43e0ee3d57",
+   "titleKorean": "인사 — 영역 05",
+   "subjectKorean": "인사",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "인사의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.13047e9a85b0e574877d",
+    "kr.topic.2022.high.50b8e27ca5dab79c3f84",
+    "kr.topic.2022.high.dd5624e3ec6d07b3085e",
+    "kr.topic.2022.high.df201cd619aa49481aef",
+    "kr.topic.2022.high.f8021f9f8565d1843395"
    ]
   },
   {
@@ -1365,6 +3395,141 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.c09a3c606fe1cf99d9",
+   "titleKorean": "자재 관리 — 영역 05",
+   "subjectKorean": "자재 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "자재 관리의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.3860525d12fce003c837",
+    "kr.topic.2022.high.60be1a46b683b8c031ee",
+    "kr.topic.2022.high.6c38cfd6bda4d3197255",
+    "kr.topic.2022.high.cbfc718e054da416904a",
+    "kr.topic.2022.high.cca20c26403bfb16ac1b",
+    "kr.topic.2022.high.e7edd36844c1f828edee",
+    "kr.topic.2022.high.e809c0801af72e00f58b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c11e54a868b394c5b1",
+   "titleKorean": "세무 실무 — 전표 처리",
+   "subjectKorean": "세무 실무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "전표 처리",
+   "summary": "세무 실무의 전표 처리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.07f2c3384e120b31913f",
+    "kr.topic.2022.high.289a84182077bd0043ab",
+    "kr.topic.2022.high.3535b905f4b4e06a7b07",
+    "kr.topic.2022.high.36fb264053d57ad43d82",
+    "kr.topic.2022.high.40955fa4963a42d02727",
+    "kr.topic.2022.high.53f8778e0d12e4ca522b",
+    "kr.topic.2022.high.6ba50fff230086dd4c88",
+    "kr.topic.2022.high.7444a08e2f83647fd31f",
+    "kr.topic.2022.high.826b54ab826f2a9b5f1e",
+    "kr.topic.2022.high.9cb13c460959618f91bb"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c2a229e7152e6553a5",
+   "titleKorean": "자재 관리 — 자재 출고 관리",
+   "subjectKorean": "자재 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "자재 출고 관리",
+   "summary": "자재 관리의 자재 출고 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.1dc2bce2445e4e8731be",
+    "kr.topic.2022.high.3655c3a9de36923b0f9f",
+    "kr.topic.2022.high.3cde0097d83d7a018c26",
+    "kr.topic.2022.high.52e25b2caeb6f7968bc5",
+    "kr.topic.2022.high.531b3b2d4a714ff5331d",
+    "kr.topic.2022.high.8281259805331271cbbf",
+    "kr.topic.2022.high.8f2111adf4e0c1eb9e60",
+    "kr.topic.2022.high.97fda6fbb242854e0f83",
+    "kr.topic.2022.high.a9a4977c202faaf346ba",
+    "kr.topic.2022.high.aedc5b8d484791499cac",
+    "kr.topic.2022.high.ffc2c081211d98fcd9ae"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c5065d83d75c12065b",
+   "titleKorean": "공정 관리 — 공정 품질 관리",
+   "subjectKorean": "공정 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "공정 품질 관리",
+   "summary": "공정 관리의 공정 품질 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.07776f5e12c1c628da62",
+    "kr.topic.2022.high.2587fd86c0006bfbf76b",
+    "kr.topic.2022.high.48bfc45bf50f98894fac",
+    "kr.topic.2022.high.5491f96187676a40d1b7",
+    "kr.topic.2022.high.7acde40ced368f295066",
+    "kr.topic.2022.high.82b61c02ed1089ad8269",
+    "kr.topic.2022.high.947bb060da76963b4772",
+    "kr.topic.2022.high.ec53b54f4d1ac05dff67",
+    "kr.topic.2022.high.ef449e20b688bcb3a0a3",
+    "kr.topic.2022.high.f4b090c94ce5f69de920"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c5115348c06e5807c8",
+   "titleKorean": "매장 판매 — 영역 04",
+   "subjectKorean": "매장 판매",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 04",
+   "summary": "매장 판매의 영역 04 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 19,
+   "topics": [
+    "kr.topic.2022.high.0290b31b37bc3dc96633",
+    "kr.topic.2022.high.0516da234512be264fe7",
+    "kr.topic.2022.high.08be41604c0eb5e3893c",
+    "kr.topic.2022.high.38f3d8a7f6004721e1d8",
+    "kr.topic.2022.high.4006e1d1d3031fec42f3",
+    "kr.topic.2022.high.43223ac54e82f8e0765e",
+    "kr.topic.2022.high.49b8595ecb90aca66a95",
+    "kr.topic.2022.high.4c815435a6b70f739ec1",
+    "kr.topic.2022.high.538ef0cccc341645db75",
+    "kr.topic.2022.high.5a8ed7f77fc2ed0be4a4",
+    "kr.topic.2022.high.6e8f1dfa81fa8a2b98e5",
+    "kr.topic.2022.high.7af46b249623b7d4d854",
+    "kr.topic.2022.high.7ce00a2740d73ee78338",
+    "kr.topic.2022.high.88d6554c57ac7319410d",
+    "kr.topic.2022.high.b8b8588a9967e2114802",
+    "kr.topic.2022.high.cc1ae5b2b19d96037e98",
+    "kr.topic.2022.high.e33c7a85e8ec89ccea25",
+    "kr.topic.2022.high.e5d4fd5eb1f94a174e14",
+    "kr.topic.2022.high.f5a50855cb447d1a3459"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c51c95fc65aeef3475",
+   "titleKorean": "세무 실무 — 영역 05",
+   "subjectKorean": "세무 실무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "세무 실무의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.1d6f4d1482cda788b37e",
+    "kr.topic.2022.high.5827245e9cec1b9d0b2d",
+    "kr.topic.2022.high.679954cc5d6d23165da7",
+    "kr.topic.2022.high.694b86ec036bdaecdb1a",
+    "kr.topic.2022.high.c056eef5762005270e69",
+    "kr.topic.2022.high.dbac6745755e23ba1ce1"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.c52b6fc43a30609b94",
    "titleKorean": "금융 일반 — 보험",
    "subjectKorean": "금융 일반",
@@ -1382,6 +3547,99 @@
     "kr.topic.2022.high.9c4f5b58394399c0b429",
     "kr.topic.2022.high.cc61c54b640b6909ba4f",
     "kr.topic.2022.high.feba500917b70351ad3f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c65db8b3bd4e51d104",
+   "titleKorean": "물류 관리 — 복합 운송 관리",
+   "subjectKorean": "물류 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "복합 운송 관리",
+   "summary": "물류 관리의 복합 운송 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.04b381f6eb389390ac7e",
+    "kr.topic.2022.high.0c04cc04b5cc00fa7d47",
+    "kr.topic.2022.high.256cb0a66044b2ae485b",
+    "kr.topic.2022.high.742b6522af05bff1272e",
+    "kr.topic.2022.high.90fe895775c2e3e44b1b",
+    "kr.topic.2022.high.9873cff9b63c02c452cb",
+    "kr.topic.2022.high.b2e7664f3d20b8a6e339",
+    "kr.topic.2022.high.bb4d01f090c8617e8a4e",
+    "kr.topic.2022.high.ff314fb7338a65c11a64"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c94a51ae4ff6828005",
+   "titleKorean": "매장 판매 — 영역 03",
+   "subjectKorean": "매장 판매",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 03",
+   "summary": "매장 판매의 영역 03 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.0d0a325f8c14e882ba0c",
+    "kr.topic.2022.high.7cb6749f6db53bf2f338",
+    "kr.topic.2022.high.83b19b0f5a3dc473befb",
+    "kr.topic.2022.high.8581f141298cd7d4d12f",
+    "kr.topic.2022.high.a319fe6a547d3e339b94",
+    "kr.topic.2022.high.af9c7cea1a4d676bdcde",
+    "kr.topic.2022.high.b890629e9a5c1a222c8a",
+    "kr.topic.2022.high.bf30901af2bb54940693",
+    "kr.topic.2022.high.f41cb6cf565e5461fc46"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.cdd3a67e28a352d5b6",
+   "titleKorean": "유통 관리 — 매장 관리",
+   "subjectKorean": "유통 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "매장 관리",
+   "summary": "유통 관리의 매장 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 14,
+   "topics": [
+    "kr.topic.2022.high.08635b388d3bdcaa58ca",
+    "kr.topic.2022.high.0e7c87974bbaa7e494c1",
+    "kr.topic.2022.high.18a85a0e79f9b8e9d612",
+    "kr.topic.2022.high.1a8e136ff5f10a08d491",
+    "kr.topic.2022.high.1c0b1b3f29a7bd3ab434",
+    "kr.topic.2022.high.1de5c70e86bf2cff9f4f",
+    "kr.topic.2022.high.41ed8aaf7939411440fb",
+    "kr.topic.2022.high.54101b73689a80792b4b",
+    "kr.topic.2022.high.678dc40190ba7edee50c",
+    "kr.topic.2022.high.a2377eb264bb7b3e49d8",
+    "kr.topic.2022.high.b85128def9c58b88b4f4",
+    "kr.topic.2022.high.bcec135588d9cc89b213",
+    "kr.topic.2022.high.c1aac7d8d929af8826cc",
+    "kr.topic.2022.high.e31087e45f5e9e7dd603"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ce1be138826b3d4e65",
+   "titleKorean": "수출입 관리 — 수출입 사전 준비",
+   "subjectKorean": "수출입 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "수출입 사전 준비",
+   "summary": "수출입 관리의 수출입 사전 준비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.0041d993a3194199fa25",
+    "kr.topic.2022.high.3189ebd217047c3ab87a",
+    "kr.topic.2022.high.5681e2af832442382f87",
+    "kr.topic.2022.high.618ca4c8a387bc61f551",
+    "kr.topic.2022.high.8abd534f4e43a2264e1a",
+    "kr.topic.2022.high.a0d106a3747c44594045",
+    "kr.topic.2022.high.aaafce00fb1cc99e94df",
+    "kr.topic.2022.high.af69173301b1b5776b65",
+    "kr.topic.2022.high.c332155a1abb1045aaed",
+    "kr.topic.2022.high.c62972a2fcf6b8ad8a76",
+    "kr.topic.2022.high.d5a1176db2f2ce4ffd4e",
+    "kr.topic.2022.high.d861a5dad6ddf4335222",
+    "kr.topic.2022.high.e416106d663e9e4c4242"
    ]
   },
   {
@@ -1406,6 +3664,78 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.cf655ef1fc7822adf6",
+   "titleKorean": "전자 상거래 실무 — 사이트 운영",
+   "subjectKorean": "전자 상거래 실무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "사이트 운영",
+   "summary": "전자 상거래 실무의 사이트 운영 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.093769b5ad468827aa2e",
+    "kr.topic.2022.high.1e192d132adf9e0dde21",
+    "kr.topic.2022.high.402ecfb056b1b10c9134",
+    "kr.topic.2022.high.713a918561922c88e24a",
+    "kr.topic.2022.high.75bdbbef4b695fe07359",
+    "kr.topic.2022.high.7b9923da2ab7113c634e",
+    "kr.topic.2022.high.7d163f0f587c941cd833",
+    "kr.topic.2022.high.943bbcfd3b5a29d6fc27",
+    "kr.topic.2022.high.9ae07eee15d370ed34a3",
+    "kr.topic.2022.high.dca740671c245d28754e",
+    "kr.topic.2022.high.eaa24b185b68e3474f1a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d01f16536be6863103",
+   "titleKorean": "전자 상거래 실무 — 사후 관리",
+   "subjectKorean": "전자 상거래 실무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "사후 관리",
+   "summary": "전자 상거래 실무의 사후 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.181f854f9037f5086c2f",
+    "kr.topic.2022.high.1841a5411672e243e765",
+    "kr.topic.2022.high.24a8d89e053b57a3e07e",
+    "kr.topic.2022.high.36c1b69f49b54bb621df",
+    "kr.topic.2022.high.69205be0b0ce5ab84eec",
+    "kr.topic.2022.high.76250800deecd86b5d72",
+    "kr.topic.2022.high.81115c29111faa88e31c",
+    "kr.topic.2022.high.84cb0577b864f78d7a67",
+    "kr.topic.2022.high.97bc62bfac8cd1dbb193",
+    "kr.topic.2022.high.9c1819b57f76cfe86b75",
+    "kr.topic.2022.high.c88278853d412d7c408b",
+    "kr.topic.2022.high.ee0335ed4c61dd534a78"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d3ac241b647ac894fd",
+   "titleKorean": "비서 — 경영진 일정 관리",
+   "subjectKorean": "비서",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "경영진 일정 관리",
+   "summary": "비서의 경영진 일정 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.046bf2dbed6730e5a8af",
+    "kr.topic.2022.high.0e1b0686d5457a0005d5",
+    "kr.topic.2022.high.27f962c5ef95d1c0d486",
+    "kr.topic.2022.high.330de0a4b5346b656df3",
+    "kr.topic.2022.high.6141dd5f3a387a9e43b9",
+    "kr.topic.2022.high.6e16010266142e0e8add",
+    "kr.topic.2022.high.6ed17e0c17d073c48905",
+    "kr.topic.2022.high.7550891391a1709a8e12",
+    "kr.topic.2022.high.766726dbb6d0194db127",
+    "kr.topic.2022.high.9436d7255e761d44a031",
+    "kr.topic.2022.high.9c7bacafa5cf6deffd40",
+    "kr.topic.2022.high.c2147c2187c2fa4ab552",
+    "kr.topic.2022.high.f432e3a9762675f07d59"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.d43e1443f347255935",
    "titleKorean": "회계 원리 — 부채의 회계 처리",
    "subjectKorean": "회계 원리",
@@ -1420,6 +3750,44 @@
     "kr.topic.2022.high.3aa1438cba62b7859404",
     "kr.topic.2022.high.82568b98c0c16c8e6781",
     "kr.topic.2022.high.e32a374fec201f3e2976"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d47ba883137bcbaa8f",
+   "titleKorean": "전자 상거래 실무 — 영역 06",
+   "subjectKorean": "전자 상거래 실무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 06",
+   "summary": "전자 상거래 실무의 영역 06 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.39c291744eb9b4eb342a",
+    "kr.topic.2022.high.8596c9988a06d5e28f46",
+    "kr.topic.2022.high.c2c863ac00b04b2c662e",
+    "kr.topic.2022.high.f01a4456863e354d9c9f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d4812a1a11bfb4f3b3",
+   "titleKorean": "세무 실무 — 종합 소득세 신고",
+   "subjectKorean": "세무 실무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "종합 소득세 신고",
+   "summary": "세무 실무의 종합 소득세 신고 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.0640f742ef5318409eec",
+    "kr.topic.2022.high.500570c493fd800559ca",
+    "kr.topic.2022.high.697d3f42ea6c4e9dabc0",
+    "kr.topic.2022.high.6a3ed67fbd4f544c43da",
+    "kr.topic.2022.high.7211006dab93fa304dfa",
+    "kr.topic.2022.high.7ba4b2d3940ee730671e",
+    "kr.topic.2022.high.8094d0a98e10575a4975",
+    "kr.topic.2022.high.cf82f1095106d223324c",
+    "kr.topic.2022.high.e99ee0d205a43b8edb67",
+    "kr.topic.2022.high.ed8e3d0877cf55063667"
    ]
   },
   {
@@ -1440,6 +3808,52 @@
     "kr.topic.2022.high.8dc5844e2153a1f2e24b",
     "kr.topic.2022.high.a787a14c78d00e96809e",
     "kr.topic.2022.high.b4685043afe63d2bab72"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d8a3ed3ba12e82743e",
+   "titleKorean": "품질 관리 — 지속적 개선 활동",
+   "subjectKorean": "품질 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "지속적 개선 활동",
+   "summary": "품질 관리의 지속적 개선 활동 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.03dcf917da55b4aa6f92",
+    "kr.topic.2022.high.3738544dbea2ece63fe4",
+    "kr.topic.2022.high.477734121d59e15182e1",
+    "kr.topic.2022.high.4ef78e4d02d75fb215bd",
+    "kr.topic.2022.high.6c74d72f618acba9f210",
+    "kr.topic.2022.high.97392de62edf3689e1ad",
+    "kr.topic.2022.high.d952401dc3ec540cc79d",
+    "kr.topic.2022.high.e69ad35baeea385fff8c",
+    "kr.topic.2022.high.f68beaa829d9227ebe10"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.db9d3dd1e18a6c506e",
+   "titleKorean": "무역 금융 업무 — 수출 신용장 양도",
+   "subjectKorean": "무역 금융 업무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "수출 신용장 양도",
+   "summary": "무역 금융 업무의 수출 신용장 양도 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.1be78bc2a4882f838111",
+    "kr.topic.2022.high.1e43b151b7231dc480ef",
+    "kr.topic.2022.high.287d1fccbc9d7fdd1251",
+    "kr.topic.2022.high.32dd1d77c2095f7ed866",
+    "kr.topic.2022.high.3d8213a70a690b511b65",
+    "kr.topic.2022.high.50f3db09f064c1d72422",
+    "kr.topic.2022.high.77d2fe469676e448b77c",
+    "kr.topic.2022.high.7ae2f9f688d50857aa2d",
+    "kr.topic.2022.high.8ac76d8ac6706e888c71",
+    "kr.topic.2022.high.a4b75615fe8eac078e96",
+    "kr.topic.2022.high.be7f6cedbac5d98a74a3",
+    "kr.topic.2022.high.df488bc93dc92a906f76",
+    "kr.topic.2022.high.eb5ea8a09dba7f6663d7"
    ]
   },
   {
@@ -1471,6 +3885,26 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.df3aaca4d450899d7f",
+   "titleKorean": "총무 — 영역 04",
+   "subjectKorean": "총무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 04",
+   "summary": "총무의 영역 04 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.2abbf1d4714d4b9508bb",
+    "kr.topic.2022.high.767fe6c5c2fc9119accd",
+    "kr.topic.2022.high.abbe3051a7e6bed164e0",
+    "kr.topic.2022.high.b39dc494e154d61717da",
+    "kr.topic.2022.high.d9058f7ecb1678caae42",
+    "kr.topic.2022.high.ddc943c15a2bc9e5785a",
+    "kr.topic.2022.high.ea7290bae94e6eded7ae",
+    "kr.topic.2022.high.ee0d8eb4117ba255fffe"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.e10080f846e804ead1",
    "titleKorean": "비즈니스 커뮤니케이션 — 비즈니스 대화",
    "subjectKorean": "비즈니스 커뮤니케이션",
@@ -1485,6 +3919,50 @@
     "kr.topic.2022.high.9b88d019ad3fbf68f364",
     "kr.topic.2022.high.b1f266bdead9a4b901e0",
     "kr.topic.2022.high.fa828b6842d5bffa78e8"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e18e9754dd115ebad8",
+   "titleKorean": "수출입 관리 — 수출입 운송 보험",
+   "subjectKorean": "수출입 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "수출입 운송 보험",
+   "summary": "수출입 관리의 수출입 운송 보험 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.01d638f89a2a5dead794",
+    "kr.topic.2022.high.1f98a118c755046029fe",
+    "kr.topic.2022.high.4b450bbdeaccbff48bfa",
+    "kr.topic.2022.high.51a72a267f58cd5eb547",
+    "kr.topic.2022.high.6ab290ff95dcb8400f34",
+    "kr.topic.2022.high.6cc0ba59694cb955c17c",
+    "kr.topic.2022.high.948c945b66a5c974aead",
+    "kr.topic.2022.high.bdd6a9a31aa096e3177c",
+    "kr.topic.2022.high.c6442fb3a9a9e7a19a0a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e214f4920756445c12",
+   "titleKorean": "구매 조달 — 구매 계약",
+   "subjectKorean": "구매 조달",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "구매 계약",
+   "summary": "구매 조달의 구매 계약 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.0f0daa6483c827b9528e",
+    "kr.topic.2022.high.158e5dd0d0a70e908039",
+    "kr.topic.2022.high.33c997c0a270c50487df",
+    "kr.topic.2022.high.436c3fe2d0abcd060899",
+    "kr.topic.2022.high.65874104a47a8dd5ca68",
+    "kr.topic.2022.high.79883375fc599b8be3cb",
+    "kr.topic.2022.high.a4b9268d6911a81e337f",
+    "kr.topic.2022.high.a7bfd69e60684fd47980",
+    "kr.topic.2022.high.b29f44b3117c0ef3d6aa",
+    "kr.topic.2022.high.b99030ea2f2e1a0db1ae",
+    "kr.topic.2022.high.e877dce7345bef4c1777"
    ]
   },
   {
@@ -1503,6 +3981,28 @@
     "kr.topic.2022.high.3ea0b41bf1b811b26b39",
     "kr.topic.2022.high.63b72441d1e0957eeea3",
     "kr.topic.2022.high.91ee23e17688340f37e6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e2c9a08ea3b5fd13b2",
+   "titleKorean": "전자 상거래 실무 — 고객 관리",
+   "subjectKorean": "전자 상거래 실무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "고객 관리",
+   "summary": "전자 상거래 실무의 고객 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.06739f39c1682beadf91",
+    "kr.topic.2022.high.15a5700289410c2ce173",
+    "kr.topic.2022.high.28a870e3e897cc68cf8f",
+    "kr.topic.2022.high.343d52830875afb199a6",
+    "kr.topic.2022.high.9552270f75797cc67b32",
+    "kr.topic.2022.high.c0e8458a4f24634812d8",
+    "kr.topic.2022.high.c322ca4a51bbcdb4aa09",
+    "kr.topic.2022.high.d485b0b5bad24a981479",
+    "kr.topic.2022.high.ef62895bd7546abc42f6",
+    "kr.topic.2022.high.f4d610223ae6669450c5"
    ]
   },
   {
@@ -1537,6 +4037,34 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.e4dd08014ade7ab6cc",
+   "titleKorean": "유통 관리 — 유통 정보 관리",
+   "subjectKorean": "유통 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "유통 정보 관리",
+   "summary": "유통 관리의 유통 정보 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 16,
+   "topics": [
+    "kr.topic.2022.high.18ce803e4d89565b169c",
+    "kr.topic.2022.high.1e6e0036ec0723f82d63",
+    "kr.topic.2022.high.2031ac23afc266e99b52",
+    "kr.topic.2022.high.2e9d3c5ad561073b7ad2",
+    "kr.topic.2022.high.34d3155af5f5ad89c4a9",
+    "kr.topic.2022.high.4d61b5082fb8fbcf38a6",
+    "kr.topic.2022.high.4df9ccd6462a9ac50365",
+    "kr.topic.2022.high.70f9961f07a31f593a45",
+    "kr.topic.2022.high.7f9a999062bfd66f87ef",
+    "kr.topic.2022.high.8d9e9673c940b80d779c",
+    "kr.topic.2022.high.bfe949920e064229ceba",
+    "kr.topic.2022.high.ce311b42c589d1983d68",
+    "kr.topic.2022.high.eb0e5a4da9465000ed74",
+    "kr.topic.2022.high.f59f2c8d95f46e951087",
+    "kr.topic.2022.high.f5c4e0c7ea29881522ff",
+    "kr.topic.2022.high.fcac6079f1f2beb27b81"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.e5c5958e29275a997a",
    "titleKorean": "비즈니스 커뮤니케이션 — 직장 예절",
    "subjectKorean": "비즈니스 커뮤니케이션",
@@ -1554,6 +4082,26 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.e63f09248d9c2e3631",
+   "titleKorean": "전자 상거래 실무 — 사이트 구축",
+   "subjectKorean": "전자 상거래 실무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "사이트 구축",
+   "summary": "전자 상거래 실무의 사이트 구축 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.1d2c2ce13890089b2cd1",
+    "kr.topic.2022.high.5419096ca44867af7f12",
+    "kr.topic.2022.high.83c1ff6528d7cfd54a81",
+    "kr.topic.2022.high.875f1371f3b5e1ef7c1c",
+    "kr.topic.2022.high.9a52fb81cd4cbb6b8548",
+    "kr.topic.2022.high.b3632dd8a9401cbe9e69",
+    "kr.topic.2022.high.be688ac82a60bab4ff5d",
+    "kr.topic.2022.high.ec94d748b08ff3bdca54"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.e672faf967e17fd197",
    "titleKorean": "상업 경제 — 영역 05",
    "subjectKorean": "상업 경제",
@@ -1564,6 +4112,27 @@
    "topicCount": 1,
    "topics": [
     "kr.topic.2022.high.a6d6213aba66018b2b3d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e68e552a87a253985a",
+   "titleKorean": "고객 관리 — 고객 필요 정보 제공",
+   "subjectKorean": "고객 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "고객 필요 정보 제공",
+   "summary": "고객 관리의 고객 필요 정보 제공 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.02bc50d0712f0c0c6a36",
+    "kr.topic.2022.high.33944ddf6934101a849c",
+    "kr.topic.2022.high.3a5d82ba309d30ed7a3d",
+    "kr.topic.2022.high.618a983df0daaffad653",
+    "kr.topic.2022.high.6dabf82150ccdf3fc16a",
+    "kr.topic.2022.high.841d390e2771b20e03ef",
+    "kr.topic.2022.high.9a4f8a55e605e58b4857",
+    "kr.topic.2022.high.cabdd2ff94e320f9a82a",
+    "kr.topic.2022.high.e810c14d372d00905268"
    ]
   },
   {
@@ -1582,6 +4151,36 @@
     "kr.topic.2022.high.9a6c50063a4621c579d3",
     "kr.topic.2022.high.a70504c22086beb67dcc",
     "kr.topic.2022.high.f4e39909da2fc454635d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e80edf280a22a48a06",
+   "titleKorean": "세무 실무 — 원천 징수",
+   "subjectKorean": "세무 실무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "원천 징수",
+   "summary": "세무 실무의 원천 징수 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 18,
+   "topics": [
+    "kr.topic.2022.high.0e0ad76fcbd188200b73",
+    "kr.topic.2022.high.26f8ce3ddaf64a866db9",
+    "kr.topic.2022.high.3bce0d130abd5d09619d",
+    "kr.topic.2022.high.40ae9f23dc6edb5d8018",
+    "kr.topic.2022.high.5ae10f6d738606be9c9a",
+    "kr.topic.2022.high.5fe5f167f29a4e13e066",
+    "kr.topic.2022.high.708a0ff540895f6f2d24",
+    "kr.topic.2022.high.7ad28c01d2f2cfa51a8d",
+    "kr.topic.2022.high.826cf6f5671a3c9383b1",
+    "kr.topic.2022.high.a440d6adc2a9b8738d10",
+    "kr.topic.2022.high.a7aa7b89a80679d9cce9",
+    "kr.topic.2022.high.a9fc1b034c74895f3e31",
+    "kr.topic.2022.high.baa683661f4b60b9f55f",
+    "kr.topic.2022.high.baea33f6960431f62675",
+    "kr.topic.2022.high.da4191d97e5979a18a6d",
+    "kr.topic.2022.high.df1c100da5d083c43afc",
+    "kr.topic.2022.high.ec1fbb665218762ebbef",
+    "kr.topic.2022.high.f37950a0ec1c42ef3abc"
    ]
   },
   {
@@ -1608,6 +4207,28 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.eb82ef7875665e9f4d",
+   "titleKorean": "수출입 관리 — 영역 06",
+   "subjectKorean": "수출입 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 06",
+   "summary": "수출입 관리의 영역 06 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.0eefb0433a188b531e1a",
+    "kr.topic.2022.high.385892c643384f1bf135",
+    "kr.topic.2022.high.3a6969f6238ea923d47d",
+    "kr.topic.2022.high.564015fcaef56047cda6",
+    "kr.topic.2022.high.5a5aa84a09442a191385",
+    "kr.topic.2022.high.7a6ed87b82d6a6eb2b8f",
+    "kr.topic.2022.high.896dc14cb0d0660e4e3f",
+    "kr.topic.2022.high.b6a18d17e71f6277cf4a",
+    "kr.topic.2022.high.d22a754d642d83f227aa",
+    "kr.topic.2022.high.f2281a0bbe91ebf400aa"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.eba608f53c3db7469d",
    "titleKorean": "회계 원리 — 자산의 회계 처리",
    "subjectKorean": "회계 원리",
@@ -1628,6 +4249,56 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.ec1e4ea9cdf26d2e6e",
+   "titleKorean": "회계 실무 — 전표 관리",
+   "subjectKorean": "회계 실무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "전표 관리",
+   "summary": "회계 실무의 전표 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.0a0adf54ab458c1c7633",
+    "kr.topic.2022.high.2df31ff62ca8297bc063",
+    "kr.topic.2022.high.2e59c44f41a20eb8265c",
+    "kr.topic.2022.high.36cbd01d7d9dfb7abd4d",
+    "kr.topic.2022.high.3f8fc149c1d798777043",
+    "kr.topic.2022.high.5f4e0ca252f4b6232c00",
+    "kr.topic.2022.high.64e5c60730ea88d4a65c",
+    "kr.topic.2022.high.8b7694a6d3d188b18bf1",
+    "kr.topic.2022.high.8cc1d3a638526c1f8d4e",
+    "kr.topic.2022.high.c93ec7f9a9ccd0cc4ab6",
+    "kr.topic.2022.high.da75ff1ee4f42661d544"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ecdbc98cc46ec9f4d2",
+   "titleKorean": "물류 관리 — 물류 정보 시스템 활용",
+   "subjectKorean": "물류 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "물류 정보 시스템 활용",
+   "summary": "물류 관리의 물류 정보 시스템 활용 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 15,
+   "topics": [
+    "kr.topic.2022.high.050a1c18e97e225798e5",
+    "kr.topic.2022.high.3c79eee90527f08860cd",
+    "kr.topic.2022.high.43e5ee068cc92dbcade5",
+    "kr.topic.2022.high.5053ccecde55a6299311",
+    "kr.topic.2022.high.595f6e9b323ef02ab938",
+    "kr.topic.2022.high.86666788bbbafe093a47",
+    "kr.topic.2022.high.ab98f64b95884708942b",
+    "kr.topic.2022.high.b22c6848033f6a0804ff",
+    "kr.topic.2022.high.bafcda1a0f444399e01f",
+    "kr.topic.2022.high.c03be1d8f488c0e6f2d4",
+    "kr.topic.2022.high.d7de6749a2a9929e4a23",
+    "kr.topic.2022.high.d8fb8fc157d1fb5652f0",
+    "kr.topic.2022.high.dfbd62f06a03c03daaaf",
+    "kr.topic.2022.high.e09361c1a68e42671089",
+    "kr.topic.2022.high.f97cb8762e556e315f70"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.ef158fc6bd7159e3b7",
    "titleKorean": "기업 자원 통합 관리 — 생산 관리",
    "subjectKorean": "기업 자원 통합 관리",
@@ -1644,6 +4315,118 @@
     "kr.topic.2022.high.b5a0502a82b1de712e13",
     "kr.topic.2022.high.e52799c71ac71eb3b028",
     "kr.topic.2022.high.ee0ecb31b33143ab4a09"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ef6628ec050e75a9ee",
+   "titleKorean": "물류 관리 — 영역 06",
+   "subjectKorean": "물류 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 06",
+   "summary": "물류 관리의 영역 06 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.377ca4426848c9b02d9d",
+    "kr.topic.2022.high.6d6bf729a13b7deed756",
+    "kr.topic.2022.high.7b2f61bd2955eaedc96e",
+    "kr.topic.2022.high.9eff009a913c7f9a4649",
+    "kr.topic.2022.high.ce7c981eaa19f008e7ef"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ef80a9e1874c177306",
+   "titleKorean": "매장 판매 — 매장 판매 상담",
+   "subjectKorean": "매장 판매",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "매장 판매 상담",
+   "summary": "매장 판매의 매장 판매 상담 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 16,
+   "topics": [
+    "kr.topic.2022.high.1f6e44b01191ee60b7e0",
+    "kr.topic.2022.high.452ea4c950b2f10005c2",
+    "kr.topic.2022.high.4642c21660d763783de3",
+    "kr.topic.2022.high.7040fe3d32a87b160084",
+    "kr.topic.2022.high.769e31b9a7bd33b44010",
+    "kr.topic.2022.high.7a1776ee14cf60558440",
+    "kr.topic.2022.high.7b949a9e1675e25556db",
+    "kr.topic.2022.high.89ba66e9dccb28f1c54a",
+    "kr.topic.2022.high.adf3530880e22f25aa50",
+    "kr.topic.2022.high.befe3a5749371b5eec28",
+    "kr.topic.2022.high.c6f9c1728c630163d277",
+    "kr.topic.2022.high.d031d317579c49ab8381",
+    "kr.topic.2022.high.dc08314c0d9d396a45d5",
+    "kr.topic.2022.high.e1769f317fc4baa3e82a",
+    "kr.topic.2022.high.e6c40138ace44d3ad8b8",
+    "kr.topic.2022.high.fb58d29f7bc56c112487"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f0d09a4d851763c54d",
+   "titleKorean": "자재 관리 — 영역 04",
+   "subjectKorean": "자재 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 04",
+   "summary": "자재 관리의 영역 04 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.1a819175b44f82dc2ae1",
+    "kr.topic.2022.high.20bfaf4b5efab7b4b669",
+    "kr.topic.2022.high.248766e2bdbfa4b5f0f6",
+    "kr.topic.2022.high.3470e0408190bd57b902",
+    "kr.topic.2022.high.6a4d7b548779889b76f0",
+    "kr.topic.2022.high.6edcd09e6cd482115e9b",
+    "kr.topic.2022.high.7bcf83c15f751bc91a7f",
+    "kr.topic.2022.high.ad446b51ff291db8adf9",
+    "kr.topic.2022.high.cd2827b23b903aaeec5b",
+    "kr.topic.2022.high.d87598a30783afb03574",
+    "kr.topic.2022.high.f891e5e70d40a2e8b223"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f10786468db6f71f35",
+   "titleKorean": "회계 실무 — 결산 처리",
+   "subjectKorean": "회계 실무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "결산 처리",
+   "summary": "회계 실무의 결산 처리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.070d0a4bc2ceb508f709",
+    "kr.topic.2022.high.547edd6bec1ca41bc7ec",
+    "kr.topic.2022.high.66e974c93f43e1069444",
+    "kr.topic.2022.high.82536566b67a9a08b4e3",
+    "kr.topic.2022.high.876e6a76c29c11c12646",
+    "kr.topic.2022.high.8ada880d9be36442aa67",
+    "kr.topic.2022.high.8fd83d7db7e1a758c7b8",
+    "kr.topic.2022.high.a14110e562846c6cd0d1",
+    "kr.topic.2022.high.d86935a0d3568dcb5cf5",
+    "kr.topic.2022.high.eb232827e7f7b5acde2f",
+    "kr.topic.2022.high.f3345e0406b966edbf70"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f30740d18540b17141",
+   "titleKorean": "창구 사무 — 예금 상품 세일즈",
+   "subjectKorean": "창구 사무",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "예금 상품 세일즈",
+   "summary": "창구 사무의 예금 상품 세일즈 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.2da6aaacfb95f7ad1a2d",
+    "kr.topic.2022.high.2eba71d3a4b2c04d887e",
+    "kr.topic.2022.high.678ad84a28afa8a332b5",
+    "kr.topic.2022.high.833d180e5220e6af6b60",
+    "kr.topic.2022.high.8535a62af3ebf4bf3733",
+    "kr.topic.2022.high.bb275599f9ccf4f5bb13",
+    "kr.topic.2022.high.e0292fe8e72ce6977f28",
+    "kr.topic.2022.high.ee3094391d57fd95cf9c",
+    "kr.topic.2022.high.f51752222b3c4206da90"
    ]
   },
   {
@@ -1667,6 +4450,51 @@
     "kr.topic.2022.high.9744c596b2ef7cdcc038",
     "kr.topic.2022.high.bc477c9341e03d87c8c0",
     "kr.topic.2022.high.c8f0b25abe868e4c9b11"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f6f56e564933b2fddf",
+   "titleKorean": "비서 — 경영진 지원 업무",
+   "subjectKorean": "비서",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "경영진 지원 업무",
+   "summary": "비서의 경영진 지원 업무 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.2ae367a9756c0d00a99f",
+    "kr.topic.2022.high.37867126aa4480079fc3",
+    "kr.topic.2022.high.3ae47e4ed7a9c36fcc86",
+    "kr.topic.2022.high.3c69039aec54ad5499c8",
+    "kr.topic.2022.high.4ba66a2c7c2b776a03f9",
+    "kr.topic.2022.high.78588cfec69403d5a520",
+    "kr.topic.2022.high.904be5294662daa44047",
+    "kr.topic.2022.high.9b523c99d5baa174acad",
+    "kr.topic.2022.high.b0f0959ce1cd6b910988",
+    "kr.topic.2022.high.e562f7a6ccf9f28108f5",
+    "kr.topic.2022.high.f01b83c0171b2c14657c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f8b19a8755608cf3c2",
+   "titleKorean": "자재 관리 — 자재 운영 관리",
+   "subjectKorean": "자재 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "자재 운영 관리",
+   "summary": "자재 관리의 자재 운영 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.0927aba3de331eea4dc3",
+    "kr.topic.2022.high.129d0bb05dcf8ee369b3",
+    "kr.topic.2022.high.153026b77721c0f0fb87",
+    "kr.topic.2022.high.6aefb38ce3fc3d46b667",
+    "kr.topic.2022.high.6c35b28ba0c1b34fdc10",
+    "kr.topic.2022.high.71e3cb0a0e455618f9c5",
+    "kr.topic.2022.high.9fed0b186946a6fc90a8",
+    "kr.topic.2022.high.be64af132f28c4c08fa5",
+    "kr.topic.2022.high.c3a50e10855e29b44e1d",
+    "kr.topic.2022.high.dc6b7ffa110f3fb359b7"
    ]
   },
   {
@@ -1726,6 +4554,98 @@
     "kr.topic.2022.high.c639a633d7d218fe5e7a",
     "kr.topic.2022.high.d63f38f2cf01ca30e661",
     "kr.topic.2022.high.d8fe5591fe720a0ba017"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fc4ce7460009120aeb",
+   "titleKorean": "유통 관리 — 영역 05",
+   "subjectKorean": "유통 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "유통 관리의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.02740b82f59d9b82b876",
+    "kr.topic.2022.high.1e0f990de587bd637546",
+    "kr.topic.2022.high.365f154e9e8add2d57cd",
+    "kr.topic.2022.high.3da0c81687249f988966",
+    "kr.topic.2022.high.4d4c368c71316903cc60",
+    "kr.topic.2022.high.5e8379082d221b7a8104",
+    "kr.topic.2022.high.615d1f712dfbbb5925d9",
+    "kr.topic.2022.high.7a837a3667b17c131e88",
+    "kr.topic.2022.high.97c99f003b4a5ea262c9",
+    "kr.topic.2022.high.e27e33b00f6015a84fb9",
+    "kr.topic.2022.high.e5ef9a0206efec732738",
+    "kr.topic.2022.high.f7be083760dbdb2988fc"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fcb438e17702756d67",
+   "titleKorean": "자재 관리 — 자재 창고 운영 관리",
+   "subjectKorean": "자재 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "자재 창고 운영 관리",
+   "summary": "자재 관리의 자재 창고 운영 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 14,
+   "topics": [
+    "kr.topic.2022.high.1bc6f615adeb5f9ac343",
+    "kr.topic.2022.high.2791a9da5105ccf336c6",
+    "kr.topic.2022.high.28d1e9a7980e25dec85c",
+    "kr.topic.2022.high.395d0883ef134af60e49",
+    "kr.topic.2022.high.75266f8d731b124222ae",
+    "kr.topic.2022.high.96e7bf89f2e0b94c33ee",
+    "kr.topic.2022.high.9e0926b2e7c4279cac2c",
+    "kr.topic.2022.high.b9d6136177bfe09f46db",
+    "kr.topic.2022.high.bad67fd5d86ddf51f81c",
+    "kr.topic.2022.high.bda2881cb87044b47d94",
+    "kr.topic.2022.high.d11282bf14848db07993",
+    "kr.topic.2022.high.eae5c3381993c0eaa8e8",
+    "kr.topic.2022.high.fc2e51f5ec0f08e60fed",
+    "kr.topic.2022.high.feb2ef0f09901e22dea6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.febdcbe1b770391d0c",
+   "titleKorean": "인사 — 퇴직 업무 지원",
+   "subjectKorean": "인사",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "퇴직 업무 지원",
+   "summary": "인사의 퇴직 업무 지원 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.3685d4bbdc1640ae678e",
+    "kr.topic.2022.high.40c3afd5d2e1562570f8",
+    "kr.topic.2022.high.50afe67f2d5637084587",
+    "kr.topic.2022.high.6f3c7a104b9e29e84020",
+    "kr.topic.2022.high.a379bcc3caad6c873743",
+    "kr.topic.2022.high.f66aaf10cb7d00c2d3c4"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.feec8648e793e8024c",
+   "titleKorean": "수출입 관리 — 수출 대금 결제",
+   "subjectKorean": "수출입 관리",
+   "majorFieldSlug": "business-finance",
+   "gradeBand": "10-12",
+   "domainKorean": "수출 대금 결제",
+   "summary": "수출입 관리의 수출 대금 결제 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.3d20aaf9ebc61694ccfe",
+    "kr.topic.2022.high.65ecf22d16dcfb698d58",
+    "kr.topic.2022.high.743c95114327a5af4ddd",
+    "kr.topic.2022.high.7a4998ef857270254c7e",
+    "kr.topic.2022.high.8d73003f60a1cd1e0481",
+    "kr.topic.2022.high.94d51f1503ab767a302e",
+    "kr.topic.2022.high.b6ee48c46c3f40dc234e",
+    "kr.topic.2022.high.b8de35f71bac63c9568c",
+    "kr.topic.2022.high.bb6fa0d535365cda8d08",
+    "kr.topic.2022.high.e352ba8ba3c604caa1c9",
+    "kr.topic.2022.high.f1a3c4d372fdb4a0e9ff",
+    "kr.topic.2022.high.f7f81b28b41e6b578a83"
    ]
   }
  ]

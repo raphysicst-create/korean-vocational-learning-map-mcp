@@ -3,6 +3,2442 @@
  "sourceNote": "국가교육위원회 고시 제2024-3호 초·중등학교 교육과정 별책23~39(전문교과) PDF에서 추출한 성취기준 본문. 공공저작물로서 저작권법 제24조의2에 따라 출처를 표기해 이용한다.",
  "texts": [
   {
+   "key": "kr-2022-voc-네일-미용:[네일 01-01-01]",
+   "code": "[네일 01-01-01]",
+   "text": "네일 숍의 작업 환경을 최적화할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 01-01-02]",
+   "code": "[네일 01-01-02]",
+   "text": "청소 도구를 활용하여 실내를 청소할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 01-01-03]",
+   "code": "[네일 01-01-03]",
+   "text": "정리 요령에 따라 집기류를 정리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 01-01-04]",
+   "code": "[네일 01-01-04]",
+   "text": "청소 점검표에 따라 청결 상태를 점검할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 01-02-01]",
+   "code": "[네일 01-02-01]",
+   "text": "화재 예방 수칙에 따라 안전 상태를 수시로 점검할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 01-02-02]",
+   "code": "[네일 01-02-02]",
+   "text": "전기 안전 수칙에 따라 안전 상태를 수시로 점검할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 01-02-03]",
+   "code": "[네일 01-02-03]",
+   "text": "안전사고 발생 시 대책 기관의 연락망을 확보할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 01-03-01]",
+   "code": "[네일 01-03-01]",
+   "text": "기구 유형에 따라 효율적인 소독 방법을 결정할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 01-03-02]",
+   "code": "[네일 01-03-02]",
+   "text": "소독 방법에 따라 미용 기구를 소독할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 01-03-03]",
+   "code": "[네일 01-03-03]",
+   "text": "일회용 네일 용품을 위생적으로 관리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 01-03-04]",
+   "code": "[네일 01-03-04]",
+   "text": "위생 점검표에 따라 미용 기구의 소독 상태를 점검하고 정리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 01-04-01]",
+   "code": "[네일 01-04-01]",
+   "text": "소독 제품의 특성에 따라 소독 방법을 선정할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 01-04-02]",
+   "code": "[네일 01-04-02]",
+   "text": "작업자의 개인위생 관리를 위해 손을 소독할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 01-04-03]",
+   "code": "[네일 01-04-03]",
+   "text": "고객의 개인위생 관리를 위해 네일과 네일 주변을 소독할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 02-01-01]",
+   "code": "[네일 02-01-01]",
+   "text": "고객에게 전화 응대 서비스를 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 02-01-02]",
+   "code": "[네일 02-01-02]",
+   "text": "고객의 방문 사유를 확인하고 안내할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 02-01-03]",
+   "code": "[네일 02-01-03]",
+   "text": "서비스가 종료된 고객에게 요금을 안내한 후 정산할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 02-02-01]",
+   "code": "[네일 02-02-01]",
+   "text": "방문한 고객을 친절하게 응대할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 02-02-02]",
+   "code": "[네일 02-02-02]",
+   "text": "고객 관리 대장을 정확하게 작성할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 02-02-03]",
+   "code": "[네일 02-02-03]",
+   "text": "예약 대장을 활용하여 예약을 효율적으로 관리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 02-03-01]",
+   "code": "[네일 02-03-01]",
+   "text": "작업 전·후의 변화를 비교하여 고객에게 설명할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 02-03-02]",
+   "code": "[네일 02-03-02]",
+   "text": "작업 상태에 따라 관리에 적합한 제품을 사용하여 마무리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 02-03-03]",
+   "code": "[네일 02-03-03]",
+   "text": "건강한 네일 유지를 위한 관리법을 고객에게 설명할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 02-04-01]",
+   "code": "[네일 02-04-01]",
+   "text": "고객의 불만족 사항을 파악할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 02-04-02]",
+   "code": "[네일 02-04-02]",
+   "text": "고객의 불만족 사항에 대처할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 02-04-03]",
+   "code": "[네일 02-04-03]",
+   "text": "불만족 고객의 응대 결과에 대한 만족도를 확인할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 03-01-01]",
+   "code": "[네일 03-01-01]",
+   "text": "고객의 요청에 따라 자연 네일의 길이를 조절할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 03-01-02]",
+   "code": "[네일 03-01-02]",
+   "text": "고객의 요청에 따라 자연 네일의 프리에지 모양을 만들 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 03-01-03]",
+   "code": "[네일 03-01-03]",
+   "text": "자연 네일의 상태에 따라 표면을 정리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 03-01-04]",
+   "code": "[네일 03-01-04]",
+   "text": "프리에지의 거스러미를 정리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 03-02-01]",
+   "code": "[네일 03-02-01]",
+   "text": "큐티클 부분을 연화하기 위해 손톱과 손톱 주변을 핑거볼에 담글 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 03-02-02]",
+   "code": "[네일 03-02-02]",
+   "text": "큐티클 부분을 연화하기 위해 발톱과 발톱 주변을 족욕기에 담글 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 03-02-03]",
+   "code": "[네일 03-02-03]",
+   "text": "큐티클 부분을 연화하기 위해 큐티클 연화제를 선택하여 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 03-02-04]",
+   "code": "[네일 03-02-04]",
+   "text": "큐티클 부분 정리 작업 과정에 따라 도구를 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 03-02-05]",
+   "code": "[네일 03-02-05]",
+   "text": "큐티클 부분의 상태에 따라 정리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 03-02-06]",
+   "code": "[네일 03-02-06]",
+   "text": "정리된 큐티클 부분을 소독할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 03-03-01]",
+   "code": "[네일 03-03-01]",
+   "text": "피부 상태에 따라 보습 제품을 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 03-03-02]",
+   "code": "[네일 03-03-02]",
+   "text": "보습 제품을 사용하여 큐티클을 부드럽게 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 04-01-01]",
+   "code": "[네일 04-01-01]",
+   "text": "고객의 요청에 따라 적합한 네일 길이와 모양을 만들 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 04-01-02]",
+   "code": "[네일 04-01-02]",
+   "text": "네일 상태에 따라 표면을 정리하여 일반 네일 폴리시의 밀착력을 높일 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 04-01-03]",
+   "code": "[네일 04-01-03]",
+   "text": "네일 상태에 따라 큐티클을 정리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 04-01-04]",
+   "code": "[네일 04-01-04]",
+   "text": "네일 상태에 따라 유분기와 잔여물을 제거할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 04-02-01]",
+   "code": "[네일 04-02-01]",
+   "text": "고객의 요청에 따라 작업에 적합한 네일 길이와 모양을 만들 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 04-02-02]",
+   "code": "[네일 04-02-02]",
+   "text": "네일 상태에 따라 표면을 정리하여 젤 네일 폴리시의 밀착력을 높일 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 04-02-03]",
+   "code": "[네일 04-02-03]",
+   "text": "네일 상태에 따라 큐티클을 정리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 04-02-04]",
+   "code": "[네일 04-02-04]",
+   "text": "젤 네일 접착력을 높이기 위하여 전처리제를 도포할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 04-03-01]",
+   "code": "[네일 04-03-01]",
+   "text": "고객의 요청에 따라 작업에 적합한 네일 길이 및 모양을 만들 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 04-03-02]",
+   "code": "[네일 04-03-02]",
+   "text": "네일 상태에 따라 표면 정리를 통하여 인조 네일 화장물의 밀착력을 높일 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 04-03-03]",
+   "code": "[네일 04-03-03]",
+   "text": "네일 상태에 따라 네일과 네일 주변의 각질·거스러미를 정리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 04-03-04]",
+   "code": "[네일 04-03-04]",
+   "text": "인조 네일 접착력을 높이기 위하여 전처리제를 도포할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 05-01-01]",
+   "code": "[네일 05-01-01]",
+   "text": "풀 코트 컬러를 위해 베이스코트와 베이스 젤을 얇게 도포할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 05-01-02]",
+   "code": "[네일 05-01-02]",
+   "text": "풀 코트 컬러 도포 방법을 선정하고 네일 폴리시를 도포할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 05-01-03]",
+   "code": "[네일 05-01-03]",
+   "text": "네일 폴리시를 얼룩 없이 균일하게 도포할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 05-01-04]",
+   "code": "[네일 05-01-04]",
+   "text": "젤 네일 폴리시 작업 시 젤 램프 기기를 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 05-01-05]",
+   "code": "[네일 05-01-05]",
+   "text": "풀 코트의 컬러 보호와 광택 부여를 위해 톱코트와 톱 젤을 도포할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 05-02-01]",
+   "code": "[네일 05-02-01]",
+   "text": "프렌치 컬러를 위해 베이스코트와 베이스 젤을 얇게 도포할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 05-02-02]",
+   "code": "[네일 05-02-02]",
+   "text": "프렌치 컬러 도포 방법을 선정하고 네일 폴리시를 도포할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 05-02-03]",
+   "code": "[네일 05-02-03]",
+   "text": "균일한 스마일 라인을 위하여 옐로우 라인에 맞추어 프리에지 부분에 네일 폴리시를 도포 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 05-02-04]",
+   "code": "[네일 05-02-04]",
+   "text": "스마일 라인을 고려하여 얼룩 없이 균일하게 도포할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 05-02-05]",
+   "code": "[네일 05-02-05]",
+   "text": "젤 네일 폴리시 작업 시 젤 램프 기기를 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 05-02-06]",
+   "code": "[네일 05-02-06]",
+   "text": "프렌치의 컬러 보호와 광택 부여를 위해 톱코트와 톱 젤을 도포할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 05-03-01]",
+   "code": "[네일 05-03-01]",
+   "text": "딥 프렌치 컬러를 위해 베이스코트와 베이스 젤을 얇게 도포할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 05-03-02]",
+   "code": "[네일 05-03-02]",
+   "text": "딥 프렌치 컬러 도포 방법을 선정하고 네일 폴리시를 도포할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 05-03-03]",
+   "code": "[네일 05-03-03]",
+   "text": "균일한 스마일 라인을 위하여 자연 네일 길이의 1/2 이상 부분에 네일 폴리시를 도포할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 05-03-04]",
+   "code": "[네일 05-03-04]",
+   "text": "스마일 라인을 고려하여 얼룩 없이 균일하게 도포할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 05-03-05]",
+   "code": "[네일 05-03-05]",
+   "text": "젤 네일 폴리시 작업 시 젤 램프 기기를 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 05-03-06]",
+   "code": "[네일 05-03-06]",
+   "text": "딥 프렌치 컬러 보호와 광택 부여를 위해 톱코트와 톱 젤을 도포할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 05-04-01]",
+   "code": "[네일 05-04-01]",
+   "text": "그러데이션 컬러 도포를 위해 베이스코트와 베이스 젤을 얇게 도포할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 05-04-02]",
+   "code": "[네일 05-04-02]",
+   "text": "그러데이션 컬러 도포 방법을 선정하고 네일 폴리시를 도포할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 05-04-03]",
+   "code": "[네일 05-04-03]",
+   "text": "그러데이션의 위치를 선정하여 경계 없이 그러데이션을 표현할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 05-04-04]",
+   "code": "[네일 05-04-04]",
+   "text": "젤 네일 폴리시 작업 시 젤 램프 기기를 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 05-04-05]",
+   "code": "[네일 05-04-05]",
+   "text": "그러데이션 컬러 보호와 광택 부여를 위해 톱코트와 톱 젤을 도포할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 06-01-01]",
+   "code": "[네일 06-01-01]",
+   "text": "네일 미용 도구를 사용하여 일반 네일 폴리시 아트를 작업할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 06-01-02]",
+   "code": "[네일 06-01-02]",
+   "text": "페인팅 브러시를 사용하여 일반 네일 폴리시를 조화롭게 디자인할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 06-01-03]",
+   "code": "[네일 06-01-03]",
+   "text": "일반 네일 폴리시의 성질을 이용하여 마블 기법을 시행할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 06-01-04]",
+   "code": "[네일 06-01-04]",
+   "text": "톱코트를 사용하여 일반 네일 폴리시 아트의 지속성을 높일 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 06-02-01]",
+   "code": "[네일 06-02-01]",
+   "text": "네일 미용 도구를 사용하여 젤 네일 폴리시 아트를 작업할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 06-02-02]",
+   "code": "[네일 06-02-02]",
+   "text": "젤 페인팅 브러시를 사용하여 젤 네일 폴리시를 조화롭게 디자인할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 06-02-03]",
+   "code": "[네일 06-02-03]",
+   "text": "젤 네일 폴리시의 성질을 이용하여 마블 기법을 시행할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 06-02-04]",
+   "code": "[네일 06-02-04]",
+   "text": "톱 젤을 사용하여 젤 네일 폴리시 아트의 지속성을 높일 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 06-03-01]",
+   "code": "[네일 06-03-01]",
+   "text": "네일 미용 도구를 사용하여 통 젤 네일 폴리시 아트를 작업할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 06-03-02]",
+   "code": "[네일 06-03-02]",
+   "text": "젤 페인팅 브러시를 사용하여 다양한 색상의 통 젤 네일 폴리시 아트를 조화롭게 디자인 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 06-03-03]",
+   "code": "[네일 06-03-03]",
+   "text": "통 젤 네일 폴리시의 성질을 이용하여 세밀한 디자인을 작업할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 06-03-04]",
+   "code": "[네일 06-03-04]",
+   "text": "톱 젤을 사용하여 통 젤 네일 폴리시 아트의 지속성을 높일 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 07-01-01]",
+   "code": "[네일 07-01-01]",
+   "text": "네일 랩을 이용하여 약해진 자연 네일을 전체적으로 보강할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 07-01-02]",
+   "code": "[네일 07-01-02]",
+   "text": "네일 랩을 이용하여 손상된 자연 네일을 부분적으로 보강할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 07-01-03]",
+   "code": "[네일 07-01-03]",
+   "text": "네일 랩을 이용하여 찢어진 자연 네일을 보강할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 07-02-01]",
+   "code": "[네일 07-02-01]",
+   "text": "아크릴을 이용하여 약해진 자연 네일을 전체적으로 보강할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 07-02-02]",
+   "code": "[네일 07-02-02]",
+   "text": "아크릴을 이용하여 손상된 자연 네일을 부분적으로 보강할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 07-02-03]",
+   "code": "[네일 07-02-03]",
+   "text": "아크릴을 이용하여 찢어진 자연 네일을 보강할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 07-03-01]",
+   "code": "[네일 07-03-01]",
+   "text": "젤을 이용하여 약해진 자연 네일을 전체적으로 보강할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 07-03-02]",
+   "code": "[네일 07-03-02]",
+   "text": "젤을 이용하여 손상된 자연 네일을 부분적으로 보강할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 07-03-03]",
+   "code": "[네일 07-03-03]",
+   "text": "젤을 이용하여 찢어진 자연 네일을 보강할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 08-01-01]",
+   "code": "[네일 08-01-01]",
+   "text": "자연 네일의 모양에 따라 적합한 네일 팁을 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 08-01-02]",
+   "code": "[네일 08-01-02]",
+   "text": "자연 네일의 크기에 알맞은 네일 팁의 크기를 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 08-01-03]",
+   "code": "[네일 08-01-03]",
+   "text": "고객의 요청에 따라 다양한 네일 팁을 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 08-02-01]",
+   "code": "[네일 08-02-01]",
+   "text": "큐티클 부분 라인의 형태에 따라 풀 커버 팁을 사전 조형할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 08-02-02]",
+   "code": "[네일 08-02-02]",
+   "text": "필러 파우더를 선택적으로 적용하여 자연 네일의 굴곡을 매끄럽게 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 08-02-03]",
+   "code": "[네일 08-02-03]",
+   "text": "네일 접착제를 사용하여 기포가 들어가지 않도록 풀 커버 팁을 접착할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 08-02-04]",
+   "code": "[네일 08-02-04]",
+   "text": "고객의 요청에 따라 길이와 모양을 조절할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 08-03-01]",
+   "code": "[네일 08-03-01]",
+   "text": "자연 네일의 크기와 모양에 따라 알맞은 프렌치 팁을 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 08-03-02]",
+   "code": "[네일 08-03-02]",
+   "text": "네일 접착제를 사용하여 기포가 들어가지 않도록 프렌치 팁을 접착할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 08-03-03]",
+   "code": "[네일 08-03-03]",
+   "text": "필러 파우더를 사용하여 프렌치 팁의 구조를 조형할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 08-03-04]",
+   "code": "[네일 08-03-04]",
+   "text": "프렌치 팁의 완성을 위하여 네일 파일을 선택하여 작업할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 08-04-01]",
+   "code": "[네일 08-04-01]",
+   "text": "네일의 크기와 모양에 따라 알맞은 내추럴 팁을 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 08-04-02]",
+   "code": "[네일 08-04-02]",
+   "text": "네일 접착제를 사용하여 기포가 들어가지 않도록 내추럴 팁을 접착할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 08-04-03]",
+   "code": "[네일 08-04-03]",
+   "text": "내추럴 팁의 팁 턱을 자연 네일의 손상 없이 제거할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 08-04-04]",
+   "code": "[네일 08-04-04]",
+   "text": "필러 파우더를 사용하여 내추럴 팁의 구조를 조형할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 08-04-05]",
+   "code": "[네일 08-04-05]",
+   "text": "내추럴 팁의 완성을 위하여 네일 파일을 선택하여 작업할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 09-01-01]",
+   "code": "[네일 09-01-01]",
+   "text": "자연 네일의 크기와 모양에 따라 네일 팁을 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 09-01-02]",
+   "code": "[네일 09-01-02]",
+   "text": "손가락과 손톱 방향에 따라 네일 팁을 접착할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 09-01-03]",
+   "code": "[네일 09-01-03]",
+   "text": "네일 팁의 종류에 따라 팁 턱을 제거할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 09-02-01]",
+   "code": "[네일 09-02-01]",
+   "text": "인조 네일의 보강을 위하여 네일 랩을 적용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 09-02-02]",
+   "code": "[네일 09-02-02]",
+   "text": "네일 상태에 따라 팁 위드 랩의 두께를 조절할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 09-02-03]",
+   "code": "[네일 09-02-03]",
+   "text": "형태를 조형하기 위해 기초 구조를 만들 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 09-03-01]",
+   "code": "[네일 09-03-01]",
+   "text": "팁 위드 랩 구조를 고려하여 네일 파일을 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 09-03-02]",
+   "code": "[네일 09-03-02]",
+   "text": "네일 파일을 사용하여 팁 위드 랩 형태를 조형할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 09-03-03]",
+   "code": "[네일 09-03-03]",
+   "text": "팁 위드 랩 완성도를 위하여 순차적인 네일 파일을 선택하여 광택을 낼 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 10-01-01]",
+   "code": "[네일 10-01-01]",
+   "text": "자연 네일 크기에 따라 네일 랩의 폭과 길이를 측정할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 10-01-02]",
+   "code": "[네일 10-01-02]",
+   "text": "자연 네일 상태에 따라 네일 랩의 재단 방법을 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 10-01-03]",
+   "code": "[네일 10-01-03]",
+   "text": "방법에 따라 네일 랩을 자연 네일에 맞추어 재단할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 10-02-01]",
+   "code": "[네일 10-02-01]",
+   "text": "네일 랩에 기포가 들어가지 않도록 네일 표면에 접착할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 10-02-02]",
+   "code": "[네일 10-02-02]",
+   "text": "접착된 네일 랩의 상태에 따라 여분을 자를 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 10-02-03]",
+   "code": "[네일 10-02-03]",
+   "text": "네일 랩 고정을 위해 네일 접착제를 도포할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 10-03-01]",
+   "code": "[네일 10-03-01]",
+   "text": "고객의 요구에 따라 프리에지의 길이를 연장할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 10-03-02]",
+   "code": "[네일 10-03-02]",
+   "text": "고객의 요구에 따라 랩 네일의 프리에지 형태를 조형할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 10-03-03]",
+   "code": "[네일 10-03-03]",
+   "text": "고객의 요구에 따라 랩 네일의 두께를 조절할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 10-03-04]",
+   "code": "[네일 10-03-04]",
+   "text": "고객의 요구에 따라 랩 네일의 형태를 조형할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 11-01-01]",
+   "code": "[네일 11-01-01]",
+   "text": "연습용 인조 손에 자연 네일 대용의 네일 팁을 장착할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 11-01-02]",
+   "code": "[네일 11-01-02]",
+   "text": "연습용 인조 손을 활용하여 젤 화장물의 사용 방법을 숙련할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 11-01-03]",
+   "code": "[네일 11-01-03]",
+   "text": "연습용 인조 손을 활용하여 올바르게 네일 폼을 적용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 11-01-04]",
+   "code": "[네일 11-01-04]",
+   "text": "적합한 방법으로 젤 브러시를 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 11-01-05]",
+   "code": "[네일 11-01-05]",
+   "text": "네일 파일을 활용하여 젤 네일의 파일 방법을 숙련할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 11-01-06]",
+   "code": "[네일 11-01-06]",
+   "text": "젤 램프 기기를 이용하여 젤을 경화할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 11-02-01]",
+   "code": "[네일 11-02-01]",
+   "text": "젤 원톤 스컬프처를 위한 베이스 젤을 적용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 11-02-02]",
+   "code": "[네일 11-02-02]",
+   "text": "고객의 요구에 따라 프리에지의 길이를 연장할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 11-02-03]",
+   "code": "[네일 11-02-03]",
+   "text": "젤 램프 기기를 이용하여 인조 네일을 경화할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 11-02-04]",
+   "code": "[네일 11-02-04]",
+   "text": "고객의 요구에 따라 젤 원톤 스컬프처를 위한 두께를 조절할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 11-02-05]",
+   "code": "[네일 11-02-05]",
+   "text": "고객의 요구에 따라 원톤 스컬프처의 형태를 조형할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 11-03-01]",
+   "code": "[네일 11-03-01]",
+   "text": "젤 프렌치 스컬프처를 위한 베이스 젤을 적용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 11-03-02]",
+   "code": "[네일 11-03-02]",
+   "text": "화이트 젤로 스마일 라인을 조형할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 11-03-03]",
+   "code": "[네일 11-03-03]",
+   "text": "고객의 요구에 따라 프리에지의 길이를 연장할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 11-03-04]",
+   "code": "[네일 11-03-04]",
+   "text": "젤 램프 기기를 이용하여 젤을 경화할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 11-03-05]",
+   "code": "[네일 11-03-05]",
+   "text": "고객의 요구에 따라 젤 프렌치 스컬프처를 위한 두께를 조절할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 11-03-06]",
+   "code": "[네일 11-03-06]",
+   "text": "고객의 요구에 따라 젤 프렌치 스컬프처의 형태를 조형할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 12-01-01]",
+   "code": "[네일 12-01-01]",
+   "text": "연습용 인조 손에 자연 네일 대용의 네일 팁을 장착할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 12-01-02]",
+   "code": "[네일 12-01-02]",
+   "text": "연습용 인조 손을 활용하여 아크릴 화장물의 사용 방법을 숙련할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 12-01-03]",
+   "code": "[네일 12-01-03]",
+   "text": "연습용 인조 손을 활용하여 올바르게 네일 폼을 적용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 12-01-04]",
+   "code": "[네일 12-01-04]",
+   "text": "적합한 방법으로 아크릴 브러시를 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 12-01-05]",
+   "code": "[네일 12-01-05]",
+   "text": "네일 파일을 활용하여 아크릴 네일의 파일 방법을 숙련할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 12-02-01]",
+   "code": "[네일 12-02-01]",
+   "text": "고객의 요구에 따라 프리에지의 길이를 연장할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 12-02-02]",
+   "code": "[네일 12-02-02]",
+   "text": "고객의 요구에 따라 아크릴 원톤 스컬프처를 위한 두께를 조절할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 12-02-03]",
+   "code": "[네일 12-02-03]",
+   "text": "고객의 요구에 따라 아크릴 원톤 스컬프처의 형태를 조형할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 12-03-01]",
+   "code": "[네일 12-03-01]",
+   "text": "화이트 아크릴 파우더로 스마일 라인을 조형할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 12-03-02]",
+   "code": "[네일 12-03-02]",
+   "text": "고객의 요구에 따라 프리에지의 길이를 연장할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 12-03-03]",
+   "code": "[네일 12-03-03]",
+   "text": "고객의 요구에 따라 아크릴 프렌치 스컬프처를 위한 두께를 조절할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 12-03-04]",
+   "code": "[네일 12-03-04]",
+   "text": "고객의 요구에 따라 아크릴 프렌치 스컬프처의 형태를 조형할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 13-01-01]",
+   "code": "[네일 13-01-01]",
+   "text": "일반 네일 폴리시의 잔여물을 네일 폴리시리무버를 사용하여 정리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 13-01-02]",
+   "code": "[네일 13-01-02]",
+   "text": "일반 네일 폴리시의 건조를 위해 네일 폴리시 건조 촉진제를 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 13-01-03]",
+   "code": "[네일 13-01-03]",
+   "text": "보습을 위해 네일 주변에 큐티클 오일을 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 13-02-01]",
+   "code": "[네일 13-02-01]",
+   "text": "경화 상태에 따라 미경화 젤을 젤 클렌저를 사용하여 제거할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 13-02-02]",
+   "code": "[네일 13-02-02]",
+   "text": "네일 표면을 매끄럽게 네일 파일 작업을 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 13-02-03]",
+   "code": "[네일 13-02-03]",
+   "text": "작업 완료를 위해 톱 젤을 도포할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 13-02-04]",
+   "code": "[네일 13-02-04]",
+   "text": "청결을 위해 냉·온 수건과 멸균 거즈를 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 13-02-05]",
+   "code": "[네일 13-02-05]",
+   "text": "보습을 위해 네일 주변에 큐티클 오일을 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 13-03-01]",
+   "code": "[네일 13-03-01]",
+   "text": "작업된 화장물에 따라 네일 표면의 광택 방법을 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 13-03-02]",
+   "code": "[네일 13-03-02]",
+   "text": "분진 제거를 위해 미온수와 네일 더스트 브러시를 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 13-03-03]",
+   "code": "[네일 13-03-03]",
+   "text": "청결을 위해 냉·온 수건과 멸균 거즈를 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 13-03-04]",
+   "code": "[네일 13-03-04]",
+   "text": "보습을 위해 네일 주변에 큐티클 오일을 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 13-04-01]",
+   "code": "[네일 13-04-01]",
+   "text": "작업 방법에 따라 네일과 네일 주변의 유분기를 제거할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 13-04-02]",
+   "code": "[네일 13-04-02]",
+   "text": "청결을 위해 냉·온 수건과 멸균 거즈를 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 13-04-03]",
+   "code": "[네일 13-04-03]",
+   "text": "고객의 요청에 따라 마무리 방법을 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 13-04-04]",
+   "code": "[네일 13-04-04]",
+   "text": "사용한 제품의 정리 정돈을 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 14-01-01]",
+   "code": "[네일 14-01-01]",
+   "text": "일반 네일 폴리시 제거를 위한 제거제를 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 14-01-02]",
+   "code": "[네일 14-01-02]",
+   "text": "기 작업된 일반 네일 폴리시 제거를 위해 제거제를 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 14-01-03]",
+   "code": "[네일 14-01-03]",
+   "text": "일반 네일 폴리시의 완전 제거 상태를 확인할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 14-02-01]",
+   "code": "[네일 14-02-01]",
+   "text": "젤 네일 폴리시 제거를 위한 제거제를 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 14-02-02]",
+   "code": "[네일 14-02-02]",
+   "text": "기 작업된 젤 네일 폴리시 제거를 위해 네일 파일과 제거제를 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 14-02-03]",
+   "code": "[네일 14-02-03]",
+   "text": "젤 네일 폴리시의 완전 제거 상태를 확인할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 14-03-01]",
+   "code": "[네일 14-03-01]",
+   "text": "인조 네일 제거를 위한 제거제를 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 14-03-02]",
+   "code": "[네일 14-03-02]",
+   "text": "기 작업된 인조 네일 제거를 위해 네일 파일과 제거제를 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 14-03-03]",
+   "code": "[네일 14-03-03]",
+   "text": "인조 네일의 완전 제거 상태를 확인할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 15-01-01]",
+   "code": "[네일 15-01-01]",
+   "text": "기 작업된 네일 팁의 상태에 따라 보수를 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 15-01-02]",
+   "code": "[네일 15-01-02]",
+   "text": "기 작업된 네일 팁의 들뜬 네일 화장물을 제거할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 15-01-03]",
+   "code": "[네일 15-01-03]",
+   "text": "기 작업된 네일 팁 화장물의 턱을 제거할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 15-01-04]",
+   "code": "[네일 15-01-04]",
+   "text": "네일 팁과 동일한 화장물을 적용하여 보수할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 15-02-01]",
+   "code": "[네일 15-02-01]",
+   "text": "기 작업된 네일 랩의 상태에 따라 보수를 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 15-02-02]",
+   "code": "[네일 15-02-02]",
+   "text": "기 작업된 랩 네일의 들뜬 네일 화장물을 제거할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 15-02-03]",
+   "code": "[네일 15-02-03]",
+   "text": "기 작업된 랩 네일 화장물의 턱을 제거할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 15-02-04]",
+   "code": "[네일 15-02-04]",
+   "text": "랩 네일과 동일한 화장물을 적용하여 보수할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 15-03-01]",
+   "code": "[네일 15-03-01]",
+   "text": "기 작업된 아크릴 네일의 상태에 따라 보수를 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 15-03-02]",
+   "code": "[네일 15-03-02]",
+   "text": "기 작업된 아크릴 네일의 들뜬 네일 화장물을 제거할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 15-03-03]",
+   "code": "[네일 15-03-03]",
+   "text": "기 작업된 아크릴 네일 화장물의 턱을 제거할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 15-03-04]",
+   "code": "[네일 15-03-04]",
+   "text": "아크릴 네일과 동일한 화장물을 적용하여 보수할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 15-04-01]",
+   "code": "[네일 15-04-01]",
+   "text": "기 작업된 젤 네일의 상태에 따라 보수를 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 15-04-02]",
+   "code": "[네일 15-04-02]",
+   "text": "기 작업된 젤 네일의 들뜬 네일 화장물을 제거할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 15-04-03]",
+   "code": "[네일 15-04-03]",
+   "text": "기 작업된 젤 네일 화장물의 턱을 제거할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-네일-미용:[네일 15-04-04]",
+   "code": "[네일 15-04-04]",
+   "text": "젤 네일과 동일한 화장물을 적용하여 보수할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 01-01-02]",
+   "code": "[메크 01-01-02]",
+   "text": "상담실, 제품 보관실 메이크업 작업 환경의 실내 공기를 환기할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 01-02-01]",
+   "code": "[메크 01-02-01]",
+   "text": "메이크업 시행에 필요한 도구 관리 체크리스트를 만들 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 01-02-02]",
+   "code": "[메크 01-02-02]",
+   "text": "메이크업 도구 관리 체크리스트에 따라 사전 점검 작업을 실시할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 01-02-03]",
+   "code": "[메크 01-02-03]",
+   "text": "고객에게 제공되는 재료, 도구, 기기 등을 청결하게 위생 처리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 01-03-01]",
+   "code": "[메크 01-03-01]",
+   "text": "고객에게 불쾌감을 주지 않도록 체취와 구취를 관리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 01-03-02]",
+   "code": "[메크 01-03-02]",
+   "text": "작업 전후 손을 깨끗이 씻거나 소독할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 01-03-03]",
+   "code": "[메크 01-03-03]",
+   "text": "메이크업 사업장 내에서는 항상 복장을 청결하게 착용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 02-01-01]",
+   "code": "[메크 02-01-01]",
+   "text": "방문 고객에게 예의를 갖추어 응대할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 02-01-02]",
+   "code": "[메크 02-01-02]",
+   "text": "고객의 소지품과 의복 등을 보관·관리한 후 배웅 시 전달할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 02-01-03]",
+   "code": "[메크 02-01-03]",
+   "text": "예약을 원하는 경우 사업장의 일정을 고려하여 예약할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 02-01-04]",
+   "code": "[메크 02-01-04]",
+   "text": "고객의 방문 사유를 확인한 후 대기 또는 작업 공간으로 안내할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 02-01-05]",
+   "code": "[메크 02-01-05]",
+   "text": "작업 종료된 고객에게 작업 내역과 요금을 안내한 후 정산할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 02-02-01]",
+   "code": "[메크 02-02-01]",
+   "text": "전화를 받고 끊을 때 업무 매뉴얼에 따라 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 02-02-02]",
+   "code": "[메크 02-02-02]",
+   "text": "업무 매뉴얼에 따라 잘못 걸려온 전화를 예절에 맞게 받을 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 02-02-03]",
+   "code": "[메크 02-02-03]",
+   "text": "업무 매뉴얼에 따라 전화 상담 고객에게 예약 서비스를 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 02-03-01]",
+   "code": "[메크 02-03-01]",
+   "text": "온라인 상담 고객을 응대할 때 응대 요령에 따라 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 02-03-02]",
+   "code": "[메크 02-03-02]",
+   "text": "온라인 상담 고객에게 예약 서비스를 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 02-04-01]",
+   "code": "[메크 02-04-01]",
+   "text": "불만 고객에게 정중하게 사과할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 02-04-02]",
+   "code": "[메크 02-04-02]",
+   "text": "고객의 불만족 사유를 적극적인 자세로 경청할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 02-04-03]",
+   "code": "[메크 02-04-03]",
+   "text": "불만 사항에 대해 파악할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 02-04-04]",
+   "code": "[메크 02-04-04]",
+   "text": "요구 사항에 대하여 신속하게 대처할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 02-04-05]",
+   "code": "[메크 02-04-05]",
+   "text": "불만 사항 처리 후 그 결과에 대한 만족도를 확인할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 03-01-01]",
+   "code": "[메크 03-01-01]",
+   "text": "피부 분석법을 통해 고객의 피부를 진단할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 03-01-02]",
+   "code": "[메크 03-01-02]",
+   "text": "피부 유형별 제품을 선택하여 클렌징을 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 03-01-03]",
+   "code": "[메크 03-01-03]",
+   "text": "피부 유형에 따라 기초화장품의 제형을 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 03-02-01]",
+   "code": "[메크 03-02-01]",
+   "text": "피부 유형에 따라 기초화장품을 적절하게 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 03-02-02]",
+   "code": "[메크 03-02-02]",
+   "text": "피부의 일시적인 이상, 트러블에 대해 조치를 취할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 04-01-01]",
+   "code": "[메크 04-01-01]",
+   "text": "얼굴의 피부색 및 피부 톤에 따른 베이스 제품을 구분할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 04-01-02]",
+   "code": "[메크 04-01-02]",
+   "text": "베이스 제품의 질감, 발림, 밀착성 등을 고려하여 제품을 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 04-01-03]",
+   "code": "[메크 04-01-03]",
+   "text": "베이스 제품의 특성에 따른 표현 도구를 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 04-02-01]",
+   "code": "[메크 04-02-01]",
+   "text": "얼굴 피부 유형, 피부 톤 상태에 따른 윤곽 수정 제품을 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 04-02-02]",
+   "code": "[메크 04-02-02]",
+   "text": "피부의 추가적인 결점 보완을 위한 제품을 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 04-02-03]",
+   "code": "[메크 04-02-03]",
+   "text": "얼굴형을 분석하고 얼굴형이나 콘셉트에 적합한 윤곽을 수정·보완할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 05-01-01]",
+   "code": "[메크 05-01-01]",
+   "text": "색의 3속성(색상, 명도, 채도)을 파악하고 색상환을 만들 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 05-01-02]",
+   "code": "[메크 05-01-02]",
+   "text": "색의 3속성(색상, 명도, 채도)에 따라 단계별로 조색할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 05-01-03]",
+   "code": "[메크 05-01-03]",
+   "text": "물감이나 색지, 메이크업 제품을 사용하여 조색할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 05-02-01]",
+   "code": "[메크 05-02-01]",
+   "text": "색채의 감정 효과와 이미지를 이해하고 표현할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 05-02-02]",
+   "code": "[메크 05-02-02]",
+   "text": "색채의 대비와 동화 현상을 이미지 표현에 활용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 05-02-03]",
+   "code": "[메크 05-02-03]",
+   "text": "색채의 연상과 상징에 따라 이미지 스케일을 제작하고 활용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 05-03-01]",
+   "code": "[메크 05-03-01]",
+   "text": "두 가지 이상의 색을 활용하여 배색의 표현 기법에 따라 색상을 조합할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 05-03-02]",
+   "code": "[메크 05-03-02]",
+   "text": "색의 심리적, 기능적 작용을 고려하여 주조색, 보조색, 강조색을 배색할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 05-03-03]",
+   "code": "[메크 05-03-03]",
+   "text": "이미지 형용사에 적합한 뷰티 색채 이미지를 배색할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 05-04-01]",
+   "code": "[메크 05-04-01]",
+   "text": "색채 디자인 목적에 맞는 분석을 통해 색채 계획을 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 05-04-02]",
+   "code": "[메크 05-04-02]",
+   "text": "콘셉트에 적합한 디자인의 요소 및 원리에 따라 배색 기법과 재료를 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 05-04-03]",
+   "code": "[메크 05-04-03]",
+   "text": "뷰티 디자인 목적에 따라 콘셉트에 적합한 색채 디자인을 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 06-01-01]",
+   "code": "[메크 06-01-01]",
+   "text": "눈썹 형태, 얼굴형, 디자인 등에 따른 아이브로 이미지를 구분할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 06-01-02]",
+   "code": "[메크 06-01-02]",
+   "text": "얼굴 형태, 메이크업 디자인을 위해 눈썹을 정리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 06-01-03]",
+   "code": "[메크 06-01-03]",
+   "text": "아이브로 이미지 표현을 위해 색상, 형태 등을 수정·보완할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 06-01-04]",
+   "code": "[메크 06-01-04]",
+   "text": "메이크업 디자인, 눈동자 색, 모발 색, 이미지 등에 따른 아이브로를 표현할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 06-02-01]",
+   "code": "[메크 06-02-01]",
+   "text": "재료의 특성에 따른 질감, 발색, 밀착성, 발림성 등을 구분·선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 06-02-02]",
+   "code": "[메크 06-02-02]",
+   "text": "눈의 형태, 결점 보완을 위한 아이섀도를 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 06-02-03]",
+   "code": "[메크 06-02-03]",
+   "text": "메이크업 디자인에 적합한 눈매를 표현할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 06-02-04]",
+   "code": "[메크 06-02-04]",
+   "text": "눈의 형태, 이미지 등을 고려하여 아이라인을 표현할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 06-02-05]",
+   "code": "[메크 06-02-05]",
+   "text": "속눈썹 상태, 메이크업 디자인에 적합한 마스카라 제품을 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 06-03-01]",
+   "code": "[메크 06-03-01]",
+   "text": "입술 형태에 따른 립 메이크업을 디자인할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 06-03-02]",
+   "code": "[메크 06-03-02]",
+   "text": "입술 형태, 상태에 따른 립 메이크업 제품을 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 06-03-03]",
+   "code": "[메크 06-03-03]",
+   "text": "입술 형태에 따른 립 메이크업을 수정·보완할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 06-03-04]",
+   "code": "[메크 06-03-04]",
+   "text": "얼굴 형태, 피부 톤, 메이크업 디자인에 따른 치크 메이크업을 디자인할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 06-03-05]",
+   "code": "[메크 06-03-05]",
+   "text": "제품 유형별 표현 이미지를 구분하여 치크 메이크업을 실행할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 06-03-06]",
+   "code": "[메크 06-03-06]",
+   "text": "메이크업 이미지에 따른 립&치크 컬러를 연출할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 06-04-01]",
+   "code": "[메크 06-04-01]",
+   "text": "고객의 속눈썹의 상태, 눈의 형태 등을 구분할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 06-04-02]",
+   "code": "[메크 06-04-02]",
+   "text": "눈의 형태, 이미지에 따라 인조 속눈썹을 디자인하여 제작할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 06-04-03]",
+   "code": "[메크 06-04-03]",
+   "text": "인조 속눈썹 부착을 위한 제품, 도구를 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 06-04-04]",
+   "code": "[메크 06-04-04]",
+   "text": "실제 속눈썹과 자연스러운 조화를 위해 인조 속눈썹을 수정할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 06-04-05]",
+   "code": "[메크 06-04-05]",
+   "text": "제품·도구 등을 활용하여 인조 속눈썹을 제거하고 위생적으로 관리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 07-01-01]",
+   "code": "[메크 07-01-01]",
+   "text": "얼굴, 신체의 비율, 골격, 근육을 이해하고 표현할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 07-01-02]",
+   "code": "[메크 07-01-02]",
+   "text": "메이크업 일러스트를 표현하기 위한 재료를 구분할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 07-01-03]",
+   "code": "[메크 07-01-03]",
+   "text": "얼굴·신체 등의 세부 묘사와 드로잉을 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 07-02-01]",
+   "code": "[메크 07-02-01]",
+   "text": "도구와 다양한 재료의 특성을 고려하여 컬러 등을 표현할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 07-02-02]",
+   "code": "[메크 07-02-02]",
+   "text": "메이크업 디자인을 반영하여 눈썹 형태, 아이섀도 컬러를 드로잉을 통해 표현할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 07-02-03]",
+   "code": "[메크 07-02-03]",
+   "text": "립 컬러, 치크 등 메이크업 세부적인 색채를 표현할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 08-01-01]",
+   "code": "[메크 08-01-01]",
+   "text": "스타일을 고려하여 메이크업 이미지를 수정ㆍ보완할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 08-01-02]",
+   "code": "[메크 08-01-02]",
+   "text": "피부 표현과 얼굴형에 따라 메이크업을 수정ㆍ보완할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 08-01-03]",
+   "code": "[메크 08-01-03]",
+   "text": "색조 메이크업을 이미지에 맞게 수정ㆍ보완할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 08-02-01]",
+   "code": "[메크 08-02-01]",
+   "text": "메이크업 이미지와 관련된 패션 스타일을 고객에게 제안할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 08-02-02]",
+   "code": "[메크 08-02-02]",
+   "text": "메이크업 이미지에 어울리는 헤어스타일을 제안할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 08-02-03]",
+   "code": "[메크 08-02-03]",
+   "text": "전체적인 이미지에 어울리는 토털 코디네이션을 완성할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 09-01-01]",
+   "code": "[메크 09-01-01]",
+   "text": "웨딩 앨범 제작을 위한 콘셉트, 장소 특성에 따라 웨딩 메이크업을 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 09-01-02]",
+   "code": "[메크 09-01-02]",
+   "text": "촬영 환경, 의상 유형, 토탈 스타일링 등을 고려한 웨딩 메이크업을 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 09-02-01]",
+   "code": "[메크 09-02-01]",
+   "text": "웨딩 콘셉트를 반영하여 신랑·신부의 예식 메이크업을 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 09-02-02]",
+   "code": "[메크 09-02-02]",
+   "text": "웨딩 메이크업 유지를 위해 메이크업을 수정·보완할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 09-03-01]",
+   "code": "[메크 09-03-01]",
+   "text": "혼주의 연령, 얼굴 형태, 피부 상태를 파악할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 09-03-02]",
+   "code": "[메크 09-03-02]",
+   "text": "혼주의 이미지에 적합한 메이크업을 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 09-03-03]",
+   "code": "[메크 09-03-03]",
+   "text": "혼주의 메이크업을 수정·보완할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 10-01-01]",
+   "code": "[메크 10-01-01]",
+   "text": "미디어의 장르를 파악할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 10-01-02]",
+   "code": "[메크 10-01-02]",
+   "text": "미디어의 장르별 현장 특성을 파악할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 10-01-03]",
+   "code": "[메크 10-01-03]",
+   "text": "미디어의 장르별 제작 환경을 파악할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 10-01-04]",
+   "code": "[메크 10-01-04]",
+   "text": "촬영 관계자 회의를 통하여 재료와 도구를 준비할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 10-01-05]",
+   "code": "[메크 10-01-05]",
+   "text": "미디어의 장르별 표현 특징을 반영한 메이크업 디자인을 제안할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 10-02-01]",
+   "code": "[메크 10-02-01]",
+   "text": "영화 시나리오를 분석하여 메이크업 연결표를 작성할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 10-02-02]",
+   "code": "[메크 10-02-02]",
+   "text": "제작 현장 상황을 반영하여 메이크업을 기획할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 10-02-03]",
+   "code": "[메크 10-02-03]",
+   "text": "콘티를 참고하여 메이크업 세부 디자인을 확정할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 10-02-04]",
+   "code": "[메크 10-02-04]",
+   "text": "영화 촬영 현장 상황에 따른 콜 시트를 제작할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 10-02-05]",
+   "code": "[메크 10-02-05]",
+   "text": "콘티에 적합한 메이크업을 실시할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 10-03-01]",
+   "code": "[메크 10-03-01]",
+   "text": "시놉시스 분석을 통하여 작품에 적합한 메이크업 디자인을 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 10-03-02]",
+   "code": "[메크 10-03-02]",
+   "text": "배우별 특성을 파악한 디자인 시안을 작성할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 10-03-03]",
+   "code": "[메크 10-03-03]",
+   "text": "배우별 메이크업 소품을 준비하고 관리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 10-03-04]",
+   "code": "[메크 10-03-04]",
+   "text": "현장 상황 변화에 대처하여 시안을 변경, 메이크업을 실행할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 10-04-01]",
+   "code": "[메크 10-04-01]",
+   "text": "광고의 목적과 해당 제품의 특성을 파악하고 연출, 촬영 관계자와 메이크업의 표현을 협 의할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 10-04-02]",
+   "code": "[메크 10-04-02]",
+   "text": "촬영 기법, 광고의 색감, 내용 등을 파악하여 메이크업 계획에 반영할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 10-04-03]",
+   "code": "[메크 10-04-03]",
+   "text": "콘티를 참고하여 영상 광고 메이크업의 세부 디자인을 확정하고 영상 광고 메이크업을 실행 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 10-04-04]",
+   "code": "[메크 10-04-04]",
+   "text": "콘티를 참고하여 지면 광고 메이크업의 세부 디자인을 확정하고 지면 광고 메이크업을 실행 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 11-01-01]",
+   "code": "[메크 11-01-01]",
+   "text": "작품 분석을 통해 인물 간 역학 관계, 성격, 특성 등 캐릭터를 파악할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 11-01-02]",
+   "code": "[메크 11-01-02]",
+   "text": "캐릭터의 특성이 반영된 메이크업 디자인을 일러스트로 표현할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 11-01-03]",
+   "code": "[메크 11-01-03]",
+   "text": "작품 의도를 파악하여 촬영 현장 사정에 따라 캐릭터 콘셉트를 제안할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 11-01-04]",
+   "code": "[메크 11-01-04]",
+   "text": "시대적 배경과 촬영 환경 등 기획 의도가 반영된 자료를 통해 캐릭터의 이미지를 분석하 고 시안을 검토할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 11-01-05]",
+   "code": "[메크 11-01-05]",
+   "text": "작업 기간과 촬영 일자를 고려하여 사전 제작의 계획표를 작성할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 11-02-01]",
+   "code": "[메크 11-02-01]",
+   "text": "인물 간의 역학 관계, 성격, 특성 등 개발 캐릭터의 특징을 메이크업으로 표현할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 11-02-02]",
+   "code": "[메크 11-02-02]",
+   "text": "캐릭터의 특징을 표현하기 위해 부가적인 재료(볼드 캡, 수염, 상처)를 구비할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 11-02-03]",
+   "code": "[메크 11-02-03]",
+   "text": "촬영 현장에 따라 작품 의도, 목적을 위해 캐릭터 콘셉트를 수정할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 11-02-04]",
+   "code": "[메크 11-02-04]",
+   "text": "환경적 특성을 고려하여 메이크업 수정·보완 작업을 실행할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 11-02-05]",
+   "code": "[메크 11-02-05]",
+   "text": "촬영 후 메이크업을 리무버를 사용하여 제거할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 12-01-01]",
+   "code": "[메크 12-01-01]",
+   "text": "생사와 인조사를 특성에 맞게 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 12-01-02]",
+   "code": "[메크 12-01-02]",
+   "text": "캐릭터 이미지에 따른 수염 재료를 재단할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 12-01-03]",
+   "code": "[메크 12-01-03]",
+   "text": "제작 수염에 따라 올바른 세척과 관리를 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 12-01-04]",
+   "code": "[메크 12-01-04]",
+   "text": "수염용 접착제와 리무버를 구분하여 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 12-02-01]",
+   "code": "[메크 12-02-01]",
+   "text": "대본 및 시나리오를 분석하여 캐릭터를 파악할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 12-02-02]",
+   "code": "[메크 12-02-02]",
+   "text": "수염 분장 캐릭터의 시안을 작업할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 12-03-01]",
+   "code": "[메크 12-03-01]",
+   "text": "캐릭터 설정에 따라 수염을 부착할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 12-03-02]",
+   "code": "[메크 12-03-02]",
+   "text": "다양한 형태의 수염을 제작하고 붙일 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 12-03-03]",
+   "code": "[메크 12-03-03]",
+   "text": "캐릭터에 맞게 수염을 수정ㆍ보완할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 13-01-01]",
+   "code": "[메크 13-01-01]",
+   "text": "정치, 경제, 사회, 문화 등 시대적 배경을 파악할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 13-01-02]",
+   "code": "[메크 13-01-02]",
+   "text": "시대별 패션, 헤어스타일, 메이크업 정보를 수집하여 포트폴리오로 제작할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 13-01-03]",
+   "code": "[메크 13-01-03]",
+   "text": "시대별 메이크업 특성을 일러스트로 표현할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 13-02-01]",
+   "code": "[메크 13-02-01]",
+   "text": "시대별 메이크업의 특성을 반영한 메이크업을 표현할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 13-02-02]",
+   "code": "[메크 13-02-02]",
+   "text": "시대별 메이크업의 특성을 반영한 의상, 소품 등으로 스타일링할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 14-01-01]",
+   "code": "[메크 14-01-01]",
+   "text": "무대 공연을 유형별로 분류하고 공간 특성을 분석할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 14-01-02]",
+   "code": "[메크 14-01-02]",
+   "text": "무대 조명 특성을 분석하고 메이크업에 적용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 14-01-03]",
+   "code": "[메크 14-01-03]",
+   "text": "무대별 메이크업, 의상, 헤어를 분석하고 제안할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 14-02-01]",
+   "code": "[메크 14-02-01]",
+   "text": "무대 공연 기본 메이크업에 사용되는 화장품을 선택하여 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 14-02-02]",
+   "code": "[메크 14-02-02]",
+   "text": "무대 크기에 따라 음영법을 적용하여 메이크업을 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 14-02-03]",
+   "code": "[메크 14-02-03]",
+   "text": "배우의 이미지, 성별, 인종, 연령을 고려하여 메이크업을 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 15-01-01]",
+   "code": "[메크 15-01-01]",
+   "text": "스킨 테이프 및 아이 패치를 이용하여 사전 작업을 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 15-01-02]",
+   "code": "[메크 15-01-02]",
+   "text": "속눈썹 연장을 위한 이물질 및 유분기를 제거할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 15-01-03]",
+   "code": "[메크 15-01-03]",
+   "text": "고객의 눈매에 따른 속눈썹 길이, 굵기, 컬 등을 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 15-01-04]",
+   "code": "[메크 15-01-04]",
+   "text": "고객의 요구와 눈매에 따른 디자인으로 속눈썹 연장을 연출할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 15-01-05]",
+   "code": "[메크 15-01-05]",
+   "text": "속눈썹 연장 용도에 맞는 도구를 활용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 15-01-06]",
+   "code": "[메크 15-01-06]",
+   "text": "속눈썹 연장을 위한 접착제의 양을 조절하여 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 15-02-01]",
+   "code": "[메크 15-02-01]",
+   "text": "접착 상태, 눈매와의 조화를 고려하여 속눈썹을 리터치할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 15-02-02]",
+   "code": "[메크 15-02-02]",
+   "text": "접착 상태가 불량한 속눈썹 일부를 제거하고 재부착할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 15-02-03]",
+   "code": "[메크 15-02-03]",
+   "text": "리터치를 위한 연장된 속눈썹과 잔여물 등을 제거할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 15-03-01]",
+   "code": "[메크 15-03-01]",
+   "text": "속눈썹 연장용 접착제 리무버를 이용하여 연장된 속눈썹을 제거할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 15-03-02]",
+   "code": "[메크 15-03-02]",
+   "text": "핀셋 또는 마이크로브러쉬를 사용하여 제거할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 15-03-03]",
+   "code": "[메크 15-03-03]",
+   "text": "필요시 식염수나 정제수로 마무리를 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 16-01-01]",
+   "code": "[메크 16-01-01]",
+   "text": "SNS 콘텐츠를 기획할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 16-01-02]",
+   "code": "[메크 16-01-02]",
+   "text": "SNS 사진 및 동영상 촬영 ․ 편집을 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 16-01-03]",
+   "code": "[메크 16-01-03]",
+   "text": "SNS 관리를 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 16-02-01]",
+   "code": "[메크 16-02-01]",
+   "text": "뷰티 동영상 및 개인 방송의 콘텐츠를 기획할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 16-02-02]",
+   "code": "[메크 16-02-02]",
+   "text": "뷰티 동영상 및 개인 방송의 촬영 ․ 편집을 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-메이크업:[메크 16-02-03]",
+   "code": "[메크 16-02-03]",
+   "text": "뷰티 동영상 및 개인 방송을 관리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
    "key": "kr-2022-voc-미용-안전-보건:[메크 01-01-01]",
    "code": "[메크 01-01-01]",
    "text": "상담실, 제품 보관실, 메이크업 작업 환경을 세제와 도구를 사용하여 청결하게 청소할 수 있다.",
@@ -216,6 +2652,2253 @@
    "key": "kr-2022-voc-미용의-기초:[미의 06-02]",
    "code": "[미의 06-02]",
    "text": "대기 고객 응대하기에 해당하는 요인에 대한 이해를 바탕으로 고객 서비스 매뉴얼을 작성할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 01-01-01]",
+   "code": "[피부 01-01-01]",
+   "text": "피부 유형별 상태에 따라 클렌징 방법과 제품을 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 01-01-02]",
+   "code": "[피부 01-01-02]",
+   "text": "눈, 입술 순서로 포인트 메이크업을 클렌징할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 01-01-03]",
+   "code": "[피부 01-01-03]",
+   "text": "피부 유형에 맞는 제품과 테크닉으로 클렌징을 적용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 01-01-04]",
+   "code": "[피부 01-01-04]",
+   "text": "온습포 또는 경우에 따라 냉습포로 닦아 내고 토닉으로 정리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 01-02-01]",
+   "code": "[피부 01-02-01]",
+   "text": "고객 정보 결과에 따른 피부 부위와 상태를 파악할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 01-02-02]",
+   "code": "[피부 01-02-02]",
+   "text": "피부 문진, 견진, 촉진을 통해 피부의 탄력감이나 매끄러운 정도, 조직의 두께, 유분 함량, 수분 보유량, 각질화 상태 등을 파악할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 01-02-03]",
+   "code": "[피부 01-02-03]",
+   "text": "이마와 목에 스파츌라로 그어서 민감성 여부를 파악할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 01-02-04]",
+   "code": "[피부 01-02-04]",
+   "text": "관련 피부 미용 기구를 사용하여 피부 상태를 파악할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 01-02-05]",
+   "code": "[피부 01-02-05]",
+   "text": "피부 상태 파악 결과에 따라 평가하고 유형별로 구분할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 01-03-01]",
+   "code": "[피부 01-03-01]",
+   "text": "고객의 피부 상태에 따라 유형별 피부 관리 계획을 작성할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 01-03-02]",
+   "code": "[피부 01-03-02]",
+   "text": "피부 관리 계획에 따라 적합한 피부 관리 제품을 결정할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 01-03-03]",
+   "code": "[피부 01-03-03]",
+   "text": "고객의 상품 선택을 위하여 피부 관리 상품을 설명하고 추천할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 02-01-01]",
+   "code": "[피부 02-01-01]",
+   "text": "고객을 상담실로 안내하여 서비스를 제공할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 02-01-02]",
+   "code": "[피부 02-01-02]",
+   "text": "안내받은 고객과의 상담을 통해 만족도를 측정할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 02-01-03]",
+   "code": "[피부 02-01-03]",
+   "text": "상담 후 고객 관리 카드를 정리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 02-02-01]",
+   "code": "[피부 02-02-01]",
+   "text": "개인 정보 수집·이용에 관한 동의서를 받을 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 02-02-02]",
+   "code": "[피부 02-02-02]",
+   "text": "수집된 정보를 정리하여 활용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 02-02-03]",
+   "code": "[피부 02-02-03]",
+   "text": "고객 일정에 따른 스케줄을 관리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 02-02-04]",
+   "code": "[피부 02-02-04]",
+   "text": "고객 기념일과 특정일에 부가적인 서비스를 안내할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 02-02-05]",
+   "code": "[피부 02-02-05]",
+   "text": "불만 고객에 대한 리스트를 작성하여 문제점을 중점 관리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 02-02-06]",
+   "code": "[피부 02-02-06]",
+   "text": "고정 고객 외 재방문하지 않는 고객의 문제점을 분석할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 02-03-01]",
+   "code": "[피부 02-03-01]",
+   "text": "서비스를 제공받은 고객에게 맞는 제품을 선별할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 02-03-02]",
+   "code": "[피부 02-03-02]",
+   "text": "추천한 제품에 대한 사용 방법을 설명할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 02-03-03]",
+   "code": "[피부 02-03-03]",
+   "text": "잘못된 생활 환경 및 습관에 대해 조언할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 02-03-04]",
+   "code": "[피부 02-03-04]",
+   "text": "홈 케어 진행 과정을 정기적으로 확인할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 03-01-01]",
+   "code": "[피부 03-01-01]",
+   "text": "위생 관리 지침에 따라 피부 미용 작업장 위생 관리 업무를 책임자와 협의하여 준비, 수행 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 03-01-02]",
+   "code": "[피부 03-01-02]",
+   "text": "쾌적함을 주는 피부 미용 작업장이 되도록 체크리스트에 따라 환풍, 조도, 냉․난방 시설에 대한 위생을 점검할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 03-01-03]",
+   "code": "[피부 03-01-03]",
+   "text": "위생 관리 지침에 따라 피부 미용 작업장 청소 및 소독 매뉴얼을 작성할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 03-01-04]",
+   "code": "[피부 03-01-04]",
+   "text": "피부 미용 작업장 소독 계획에 따른 작업장 소독을 통해 작업장의 위생 상태를 관리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 03-02-01]",
+   "code": "[피부 03-02-01]",
+   "text": "위생 관리 지침에 따라 피부 미용 비품 위생 관리 업무를 책임자와 협의하여 준비, 수행할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 03-02-02]",
+   "code": "[피부 03-02-02]",
+   "text": "위생 관리 지침에 따라 적절한 소독 방법으로 피부 관리실 내부의 비품을 소독 보관할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 03-02-03]",
+   "code": "[피부 03-02-03]",
+   "text": "소독제에 대한 유효 기간을 점검할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 03-02-04]",
+   "code": "[피부 03-02-04]",
+   "text": "사용 종류에 알맞은 피부 미용 비품의 정리 정돈을 수행할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 03-03-01]",
+   "code": "[피부 03-03-01]",
+   "text": "위생 관리 지침에 따라 피부 미용사로서 깨끗한 위생복, 마스크, 실내화를 구비하여 착용 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 03-03-02]",
+   "code": "[피부 03-03-02]",
+   "text": "장신구는 피하고 가벼운 화장과 예의 있는 언행으로 작업장 근무 수칙을 준수할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 03-03-03]",
+   "code": "[피부 03-03-03]",
+   "text": "위생 관리 지침에 따라 두발, 손톱 등 단정한 용모와 신체를 유지할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 04-01-01]",
+   "code": "[피부 04-01-01]",
+   "text": "얼굴 피부 유형별 상태에 따라 클렌징 방법과 제품을 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 04-01-02]",
+   "code": "[피부 04-01-02]",
+   "text": "눈, 입술 순서로 포인트 메이크업을 클렌징할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 04-01-03]",
+   "code": "[피부 04-01-03]",
+   "text": "얼굴 피부 유형에 맞는 제품과 테크닉으로 클렌징 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 04-01-04]",
+   "code": "[피부 04-01-04]",
+   "text": "온습포 또는 경우에 따라 냉습포로 닦아 내고 토닉으로 정리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 04-02-01]",
+   "code": "[피부 04-02-01]",
+   "text": "피부 유형별 딥 클렌징 제품을 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 04-02-02]",
+   "code": "[피부 04-02-02]",
+   "text": "선택된 딥 클렌징 제품을 특성에 맞게 적용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 04-02-03]",
+   "code": "[피부 04-02-03]",
+   "text": "피부 미용 기기·기구를 활용하여 딥 클렌징을 적용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 05-01-01]",
+   "code": "[피부 05-01-01]",
+   "text": "얼굴의 피부 유형과 부위에 맞는 매뉴얼 테크닉을 하기 위한 제품을 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 05-01-02]",
+   "code": "[피부 05-01-02]",
+   "text": "선택된 제품을 피부에 도포할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 05-01-03]",
+   "code": "[피부 05-01-03]",
+   "text": "5가지 기본 동작을 이용하여 매뉴얼 테크닉을 적용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 05-01-04]",
+   "code": "[피부 05-01-04]",
+   "text": "얼굴의 피부 상태와 부위에 적정한 리듬, 강약, 속도, 시간, 밀착 등을 조절하여 매뉴얼 테크닉을 적용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 05-02-01]",
+   "code": "[피부 05-02-01]",
+   "text": "피부 유형에 따라 영양 물질을 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 05-02-02]",
+   "code": "[피부 05-02-02]",
+   "text": "피부 유형에 따라 영양 물질을 필요한 부위에 도포할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 05-02-03]",
+   "code": "[피부 05-02-03]",
+   "text": "제품의 특성에 따라 영양 물질을 흡수되도록 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 06-01-01]",
+   "code": "[피부 06-01-01]",
+   "text": "피부 유형에 따라 팩과 마스크 종류를 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 06-01-02]",
+   "code": "[피부 06-01-02]",
+   "text": "제품 성질에 맞게 팩과 마스크를 적용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 06-01-03]",
+   "code": "[피부 06-01-03]",
+   "text": "관리 후 팩과 마스크를 안전하게 제거할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 06-02-01]",
+   "code": "[피부 06-02-01]",
+   "text": "얼굴 관리가 끝난 후 토닉으로 피부 정리를 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 06-02-02]",
+   "code": "[피부 06-02-02]",
+   "text": "고객의 얼굴 피부 유형에 따른 기초화장품류를 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 06-02-03]",
+   "code": "[피부 06-02-03]",
+   "text": "영양 물질을 흡수시키고 자외선 차단제를 사용하여 마무리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 07-01-01]",
+   "code": "[피부 07-01-01]",
+   "text": "몸매 피부 유형에 따른 팩과 마스크 종류를 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 07-01-02]",
+   "code": "[피부 07-01-02]",
+   "text": "제품 성질에 맞게 팩과 마스크를 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 07-01-03]",
+   "code": "[피부 07-01-03]",
+   "text": "관리 후 팩과 마스크를 안전하게 제거할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 07-02-01]",
+   "code": "[피부 07-02-01]",
+   "text": "몸매 관리가 끝난 후 토닉으로 피부 정리를 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 07-02-02]",
+   "code": "[피부 07-02-02]",
+   "text": "고객의 몸매 피부 유형에 따른 기초화장품류를 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 07-02-03]",
+   "code": "[피부 07-02-03]",
+   "text": "해당 부위에 맞는 제품을 선택 후 특성에 따라 적용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 07-02-04]",
+   "code": "[피부 07-02-04]",
+   "text": "피부 손질이 끝난 후 몸매를 가볍게 이완할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 08-01-01]",
+   "code": "[피부 08-01-01]",
+   "text": "눈썹 정리를 위해 도구를 소독하여 준비할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 08-01-02]",
+   "code": "[피부 08-01-02]",
+   "text": "고객이 선호하는 눈썹 형태로 정리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 08-01-03]",
+   "code": "[피부 08-01-03]",
+   "text": "눈썹 정리 후 정리한 부위에 대한 진정 관리를 실시할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 08-02-01]",
+   "code": "[피부 08-02-01]",
+   "text": "눈썹 염색약과 도구를 위생적으로 준비할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 08-02-02]",
+   "code": "[피부 08-02-02]",
+   "text": "눈썹을 위생적으로 소독한 후 브러쉬로 가지런히 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 08-02-03]",
+   "code": "[피부 08-02-03]",
+   "text": "눈썹 염색약을 준비하고 고객의 요청에 따라 눈썹을 염색할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 09-01-01]",
+   "code": "[피부 09-01-01]",
+   "text": "림프 관리를 수행할 수 있는 환경을 조성할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 09-01-02]",
+   "code": "[피부 09-01-02]",
+   "text": "림프 관리 부위 피부 상태를 파악할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 09-01-03]",
+   "code": "[피부 09-01-03]",
+   "text": "신체 부위를 구분하고 제품을 선택하여 클렌징을 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 09-01-04]",
+   "code": "[피부 09-01-04]",
+   "text": "림프 관리 부위를 토닉으로 정리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 09-02-01]",
+   "code": "[피부 09-02-01]",
+   "text": "림프 관리 시 적용할 신체 부위를 구분할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 09-02-02]",
+   "code": "[피부 09-02-02]",
+   "text": "림프절과 림프선을 알고 적절한 테크닉을 구사할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 09-02-03]",
+   "code": "[피부 09-02-03]",
+   "text": "방향, 속도, 압력을 조절하여 테크닉을 적용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 09-02-04]",
+   "code": "[피부 09-02-04]",
+   "text": "림프 관리 시 금기해야 할 상태를 구분할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 09-03-01]",
+   "code": "[피부 09-03-01]",
+   "text": "마무리 테크닉 동작을 구사할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 09-03-02]",
+   "code": "[피부 09-03-02]",
+   "text": "관리가 끝난 고객은 일정 시간 편안한 자세로 유지시킬 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 09-03-03]",
+   "code": "[피부 09-03-03]",
+   "text": "주변 환경을 위생적으로 마무리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 10-01-01]",
+   "code": "[피부 10-01-01]",
+   "text": "팔 제모를 위한 왁스를 선택하고 제모에 필요한 도구를 준비할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 10-01-02]",
+   "code": "[피부 10-01-02]",
+   "text": "팔 제모 부위의 털 길이를 조절하고 유수분 제거 후 파우더를 도포할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 10-01-03]",
+   "code": "[피부 10-01-03]",
+   "text": "왁스 온도를 체크한 후 털이 난 방향으로 팔 제모 부위에 왁스를 도포할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 10-01-04]",
+   "code": "[피부 10-01-04]",
+   "text": "왁스가 도포된 피부에 스트립을 붙이고 털이 난 반대 방향으로 제거할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 10-01-05]",
+   "code": "[피부 10-01-05]",
+   "text": "제모 부위의 잔여 왁스를 제거한 후 진정 제품으로 마무리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 10-02-01]",
+   "code": "[피부 10-02-01]",
+   "text": "다리 제모를 위한 왁스를 선택하고 제모에 필요한 도구를 준비할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 10-02-02]",
+   "code": "[피부 10-02-02]",
+   "text": "다리 제모 부위의 털 길이를 조절하고 유수분 제거 후 파우더를 도포할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 10-02-03]",
+   "code": "[피부 10-02-03]",
+   "text": "왁스 온도를 체크한 후 털이 난 방향으로 다리 제모 부위에 왁스를 도포할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 10-02-04]",
+   "code": "[피부 10-02-04]",
+   "text": "왁스가 도포된 피부에 스트립을 붙이고 털이 난 반대 방향으로 제거할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 10-02-05]",
+   "code": "[피부 10-02-05]",
+   "text": "제모 부위의 잔여 왁스를 제거한 후 진정 제품으로 마무리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 10-03-01]",
+   "code": "[피부 10-03-01]",
+   "text": "겨드랑이 제모를 위한 왁스를 선택하고 제모에 필요한 도구를 준비할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 10-03-02]",
+   "code": "[피부 10-03-02]",
+   "text": "겨드랑이 제모 부위의 털 길이를 조절하고 유수분 제거 후 파우더를 도포할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 10-03-03]",
+   "code": "[피부 10-03-03]",
+   "text": "왁스 온도를 체크한 후 털이 난 반대 방향으로 왁스 도포 후 다시 털이 난 방향으로 반복 하여 왁스를 도포할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 10-03-04]",
+   "code": "[피부 10-03-04]",
+   "text": "굳어진 왁스를 털이 난 방향과 반대 방향으로 텐션을 주며 순차적으로 제거할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 10-03-05]",
+   "code": "[피부 10-03-05]",
+   "text": "제모 부위의 잔여 왁스를 제거한 후 진정 제품으로 마무리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 11-01-01]",
+   "code": "[피부 11-01-01]",
+   "text": "고객의 복부 상태에 따른 금기 사항을 파악할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 11-01-02]",
+   "code": "[피부 11-01-02]",
+   "text": "복부 피부 유형에 맞는 제품을 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 11-01-03]",
+   "code": "[피부 11-01-03]",
+   "text": "복부의 상태를 파악하고 목적에 맞는 복부 매뉴얼 테크닉을 적용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 11-01-04]",
+   "code": "[피부 11-01-04]",
+   "text": "시간, 속도, 리듬, 밀착, 세기를 고려하여 복부 매뉴얼 테크닉을 구사할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 11-02-01]",
+   "code": "[피부 11-02-01]",
+   "text": "고객의 가슴 피부를 파악하여 금기해야 할 관리와 유두 부위를 피할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 11-02-02]",
+   "code": "[피부 11-02-02]",
+   "text": "가슴 피부 유형에 맞는 제품을 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 11-02-03]",
+   "code": "[피부 11-02-03]",
+   "text": "가슴의 형태를 파악하고 목적에 맞는 매뉴얼 테크닉을 적용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 11-02-04]",
+   "code": "[피부 11-02-04]",
+   "text": "시간, 속도, 리듬, 밀착, 세기를 고려하여 가슴 매뉴얼 테크닉을 구사할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 11-03-01]",
+   "code": "[피부 11-03-01]",
+   "text": "손, 팔 피부 유형에 맞는 제품을 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 11-03-02]",
+   "code": "[피부 11-03-02]",
+   "text": "손, 팔의 상태를 파악하고 목적에 맞는 매뉴얼 테크닉을 구사할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 11-03-03]",
+   "code": "[피부 11-03-03]",
+   "text": "시간, 속도, 리듬, 밀착, 강약을 고려하여 손, 팔 매뉴얼 테크닉을 구사할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 11-03-04]",
+   "code": "[피부 11-03-04]",
+   "text": "손끝에서 어깨 견갑골까지 매뉴얼 테크닉을 적용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 11-04-01]",
+   "code": "[피부 11-04-01]",
+   "text": "고객의 발, 다리 전면 피부를 파악하여 금기해야 할 관리를 피할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 11-04-02]",
+   "code": "[피부 11-04-02]",
+   "text": "발과 다리 전면 피부 유형에 맞는 제품을 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 11-04-03]",
+   "code": "[피부 11-04-03]",
+   "text": "발과 다리 전면의 상태를 파악하고 목적에 맞는 매뉴얼 테크닉을 적용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 11-04-04]",
+   "code": "[피부 11-04-04]",
+   "text": "시간, 속도, 리듬, 밀착, 강약을 고려하여 발, 다리 매뉴얼 테크닉을 구사할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 12-01-01]",
+   "code": "[피부 12-01-01]",
+   "text": "신체 후면의 피부 유형에 맞는 제품을 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 12-01-02]",
+   "code": "[피부 12-01-02]",
+   "text": "신체 후면의 상태를 파악하고 목적에 맞는 매뉴얼 테크닉을 적용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 12-01-03]",
+   "code": "[피부 12-01-03]",
+   "text": "시간, 속도, 리듬, 밀착, 세기를 고려하여 신체 후면 매뉴얼 테크닉을 구사할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 12-02-01]",
+   "code": "[피부 12-02-01]",
+   "text": "둔부 상태를 파악할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 12-02-02]",
+   "code": "[피부 12-02-02]",
+   "text": "둔부 상태와 피부 유형에 맞는 제품을 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 12-02-03]",
+   "code": "[피부 12-02-03]",
+   "text": "둔부 관리 목적에 맞는 매뉴얼 테크닉을 적용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 12-02-04]",
+   "code": "[피부 12-02-04]",
+   "text": "시간, 속도, 리듬, 밀착, 강약을 고려하여 둔부 매뉴얼 테크닉을 구사할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 12-03-01]",
+   "code": "[피부 12-03-01]",
+   "text": "고객의 발, 다리 후면 피부를 파악하여 금기해야 할 관리를 피할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 12-03-02]",
+   "code": "[피부 12-03-02]",
+   "text": "발과 다리 후면 피부 유형에 맞는 제품을 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 12-03-03]",
+   "code": "[피부 12-03-03]",
+   "text": "발과 다리 후면의 상태를 파악하고 목적에 맞는 매뉴얼 테크닉을 적용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 12-03-04]",
+   "code": "[피부 12-03-04]",
+   "text": "시간, 속도, 리듬, 밀착, 강약을 고려하여 발, 다리 매뉴얼 테크닉을 구사할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 13-01-01]",
+   "code": "[피부 13-01-01]",
+   "text": "화장품 법규에 따른 화장품 유형을 분류할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 13-01-02]",
+   "code": "[피부 13-01-02]",
+   "text": "화장품 유형에 따라 분류된 화장품의 효능 효과를 설명할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 13-01-03]",
+   "code": "[피부 13-01-03]",
+   "text": "화장품 법규에 따른 화장품의 주의 사항을 설명할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 13-02-01]",
+   "code": "[피부 13-02-01]",
+   "text": "사용 목적에 따라 기초화장품을 분류할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 13-02-02]",
+   "code": "[피부 13-02-02]",
+   "text": "화장수의 종류 및 특징을 이해하고 사용 목적에 따라 화장수를 적용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 13-02-03]",
+   "code": "[피부 13-02-03]",
+   "text": "유액의 종류 및 특징을 이해하고 사용 목적에 따라 유액을 적용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 13-02-04]",
+   "code": "[피부 13-02-04]",
+   "text": "크림의 종류 및 특징을 이해하고 사용 목적에 따라 크림을 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 13-03-01]",
+   "code": "[피부 13-03-01]",
+   "text": "사용 목적에 따라 기능성 화장품을 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 13-03-02]",
+   "code": "[피부 13-03-02]",
+   "text": "선택한 기능성 화장품을 위생적으로 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 13-03-03]",
+   "code": "[피부 13-03-03]",
+   "text": "사용되는 기능성 화장품의 특성을 고객에게 설명할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 13-04-01]",
+   "code": "[피부 13-04-01]",
+   "text": "두피 특성에 따라 두피 관리 화장품을 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 13-04-02]",
+   "code": "[피부 13-04-02]",
+   "text": "선택한 두피 관리 화장품을 위생적으로 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 13-04-03]",
+   "code": "[피부 13-04-03]",
+   "text": "사용되는 두피 관리 화장품의 특성을 고객에게 설명할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 13-05-01]",
+   "code": "[피부 13-05-01]",
+   "text": "신체 부위별 피부 상태에 따라 몸매 관리 화장품을 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 13-05-02]",
+   "code": "[피부 13-05-02]",
+   "text": "선택한 몸매 관리 화장품을 위생적으로 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 13-05-03]",
+   "code": "[피부 13-05-03]",
+   "text": "사용되는 몸매 관리 화장품의 특성을 고객에게 설명할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 13-06-01]",
+   "code": "[피부 13-06-01]",
+   "text": "성분과 함량에 따라 방향성 화장품의 종류를 구분할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 13-06-02]",
+   "code": "[피부 13-06-02]",
+   "text": "시간, 장소, 날씨, 목적에 따라 위생적으로 방향성 화장품을 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 13-06-03]",
+   "code": "[피부 13-06-03]",
+   "text": "방향성 화장품 사용에 따른 금기 사항을 고객에게 설명할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 14-01-01]",
+   "code": "[피부 14-01-01]",
+   "text": "얼굴 세정을 하기 위한 직류 전류를 파악할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 14-01-02]",
+   "code": "[피부 14-01-02]",
+   "text": "얼굴 세정에 사용되는 수용성 제품을 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 14-01-03]",
+   "code": "[피부 14-01-03]",
+   "text": "선택된 제품과 직류의 (-)극을 이용하여 얼굴 세정 작용을 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 14-01-04]",
+   "code": "[피부 14-01-04]",
+   "text": "얼굴 세정을 하기 위한 기기 관리 시 금기 사항을 고객에게 설명할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 14-01-05]",
+   "code": "[피부 14-01-05]",
+   "text": "얼굴 세정 관리 후 잔여물은 온습포를 이용하여 마무리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 14-02-01]",
+   "code": "[피부 14-02-01]",
+   "text": "얼굴에 영양 물질을 침투시키기 위해 직류 전류를 파악할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 14-02-02]",
+   "code": "[피부 14-02-02]",
+   "text": "얼굴 영양 물질 침투에 사용되는 수용성 제품을 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 14-02-03]",
+   "code": "[피부 14-02-03]",
+   "text": "선택된 제품과 직류의 (+)극을 이용하여 얼굴에 영양 물질을 침투시킬 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 14-02-04]",
+   "code": "[피부 14-02-04]",
+   "text": "얼굴에 영양 물질을 침투시키기 위한 기기 관리 시 금기 사항을 고객에게 설명할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 14-02-05]",
+   "code": "[피부 14-02-05]",
+   "text": "얼굴에 영양 물질을 침투시킨 후 잔여물은 습포를 이용하여 마무리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 15-01-01]",
+   "code": "[피부 15-01-01]",
+   "text": "얼굴 피부 상태에 따라 적합한 교류 기기를 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 15-01-02]",
+   "code": "[피부 15-01-02]",
+   "text": "직·간접 주파 교류 기기를 이용하여 목적에 맞는 얼굴 관리를 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 15-01-03]",
+   "code": "[피부 15-01-03]",
+   "text": "교류를 이용한 교류 기기 얼굴 관리 시 금기 사항을 고객에게 설명할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 15-01-04]",
+   "code": "[피부 15-01-04]",
+   "text": "교류를 이용한 교류 기기를 위생적으로 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 15-01-05]",
+   "code": "[피부 15-01-05]",
+   "text": "교류 기기 관리 후 잔여물은 습포를 이용하여 마무리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 15-02-01]",
+   "code": "[피부 15-02-01]",
+   "text": "몸매 피부 상태에 따라 적합한 교류 기기를 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 15-02-02]",
+   "code": "[피부 15-02-02]",
+   "text": "직·간접 주파 교류 기기를 이용하여 목적에 맞는 몸매 관리를 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 15-02-03]",
+   "code": "[피부 15-02-03]",
+   "text": "교류 기기를 이용한 몸매 관리 시 금기 사항을 고객에게 설명할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 15-02-04]",
+   "code": "[피부 15-02-04]",
+   "text": "몸매 관리 시 교류 기기를 위생적으로 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-피부-미용:[피부 15-02-05]",
+   "code": "[피부 15-02-05]",
+   "text": "교류 기기 관리 후 잔여물은 습포를 이용하여 마무리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 01-01-01]",
+   "code": "[헤어 01-01-01]",
+   "text": "고객의 두피나 얼굴 등에 상해를 주지 않도록 손톱을 관리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 01-01-02]",
+   "code": "[헤어 01-01-02]",
+   "text": "미용 시술 전·후 세정제로 손을 깨끗이 씻고 소독할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 01-01-03]",
+   "code": "[헤어 01-01-03]",
+   "text": "고객에게 불쾌감을 주지 않도록 체취와 구취를 관리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 01-01-04]",
+   "code": "[헤어 01-01-04]",
+   "text": "미용업소 내에서 착용하는 복장은 항상 청결을 유지할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 01-01-05]",
+   "code": "[헤어 01-01-05]",
+   "text": "감염병 예방을 위해 미용업소 내·외부에서 개인 방역 수칙을 준수할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 01-02-01]",
+   "code": "[헤어 01-02-01]",
+   "text": "방역 및 위생 관리 점검표에 따라 미용업소 내·외부를 관리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 01-02-02]",
+   "code": "[헤어 01-02-02]",
+   "text": "미용업소 환기 수칙을 기반으로 쾌적한 실내 공기를 유지할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 01-02-03]",
+   "code": "[헤어 01-02-03]",
+   "text": "미용업소에서 발생하는 쓰레기를 종류별로 분리하여 배출할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 01-02-04]",
+   "code": "[헤어 01-02-04]",
+   "text": "미용업소에서 사용하는 수건 및 가운 등을 종류별로 구분하고 관리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 01-02-05]",
+   "code": "[헤어 01-02-05]",
+   "text": "미용업소에서 사용하는 집기류를 위생적으로 관리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 01-02-06]",
+   "code": "[헤어 01-02-06]",
+   "text": "미용 시술에 사용하는 설비 및 기기·도구 등을 위생적으로 관리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 01-03-01]",
+   "code": "[헤어 01-03-01]",
+   "text": "전기 사고 예방을 위해 사용 중인 전기 기기 등의 안전 상태를 점검할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 01-03-02]",
+   "code": "[헤어 01-03-02]",
+   "text": "화재 사고 예방을 위해 난방기, 가열기 등의 안전 상태를 점검할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 01-03-03]",
+   "code": "[헤어 01-03-03]",
+   "text": "낙상 사고 예방을 위해 바닥의 이물질 등을 수시로 제거할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 01-03-04]",
+   "code": "[헤어 01-03-04]",
+   "text": "구급약을 비치하여 상황에 따른 응급조치를 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 01-03-05]",
+   "code": "[헤어 01-03-05]",
+   "text": "긴급 상황 발생 시 연락할 수 있는 비상 연락망을 작성할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 01-03-06]",
+   "code": "[헤어 01-03-06]",
+   "text": "긴급 상황 발생 시 비상조치 매뉴얼에 따라 신속하게 대처할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 02-01-01]",
+   "code": "[헤어 02-01-01]",
+   "text": "전화 및 온·오프라인으로 예약 고객을 확인할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 02-01-02]",
+   "code": "[헤어 02-01-02]",
+   "text": "예약 고객과 담당 미용사의 스케줄을 확인하고 예약을 확정할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 02-01-03]",
+   "code": "[헤어 02-01-03]",
+   "text": "고객이 예약을 변경한 경우 담당 미용사의 스케줄을 확인하고 변경 사항을 처리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 02-02-01]",
+   "code": "[헤어 02-02-01]",
+   "text": "고객의 전화는 매뉴얼에 맞추어 친절하게 응대할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 02-02-02]",
+   "code": "[헤어 02-02-02]",
+   "text": "방문 고객을 친절하게 맞이하고 고객의 방문 목적을 확인할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 02-02-03]",
+   "code": "[헤어 02-02-03]",
+   "text": "방문 목적을 확인한 후 고객의 소지품과 의복 등을 보관할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 02-02-04]",
+   "code": "[헤어 02-02-04]",
+   "text": "소지품을 보관한 고객에게 대기 이유 및 대기 시간을 안내할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 02-02-05]",
+   "code": "[헤어 02-02-05]",
+   "text": "고객이 원할 경우 충전용 케이블, 다과, 음료 등 미용업소에서 준비한 부가 서비스를 제공 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 02-03-01]",
+   "code": "[헤어 02-03-01]",
+   "text": "보관 중인 고객의 소지품과 의복 등을 고객에게 안전하게 전달할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 02-03-02]",
+   "code": "[헤어 02-03-02]",
+   "text": "미용 시술이 끝난 고객에게 제공받은 시술 및 서비스 만족 관련 질문을 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 02-03-03]",
+   "code": "[헤어 02-03-03]",
+   "text": "고객에게 서비스 시술 내역과 요금을 안내할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 02-03-04]",
+   "code": "[헤어 02-03-04]",
+   "text": "홈 케어 관련 제품의 구입을 원하는 고객에게 제품을 판매할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 02-03-05]",
+   "code": "[헤어 02-03-05]",
+   "text": "고객에게 재방문 시기를 안내 후 친절하게 배웅할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 03-01-01]",
+   "code": "[헤어 03-01-01]",
+   "text": "고객에게 가운 착용을 안내하고 샴푸실로 안전하게 이동할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 03-01-02]",
+   "code": "[헤어 03-01-02]",
+   "text": "샴푸대에 앉은 고객에게 무릎 덮개와 어깨 타월 등을 착용시킬 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 03-01-03]",
+   "code": "[헤어 03-01-03]",
+   "text": "샴푸 시작 전 두피 및 모발 상태를 파악하고 사전 브러싱을 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 03-01-04]",
+   "code": "[헤어 03-01-04]",
+   "text": "고객의 편안함을 위해 샴푸대의 높이와 수온 및 수압을 조절할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 03-02-01]",
+   "code": "[헤어 03-02-01]",
+   "text": "얼굴에 물이 튀지 않도록 물길을 만들어 모발을 충분하게 적실 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 03-02-02]",
+   "code": "[헤어 03-02-02]",
+   "text": "샴푸 목적에 맞는 샴푸제를 선택하여 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 03-02-03]",
+   "code": "[헤어 03-02-03]",
+   "text": "샴푸 목적별 샴푸 순서와 방법을 적용하여 샴푸할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 03-02-04]",
+   "code": "[헤어 03-02-04]",
+   "text": "두피·모발의 노폐물과 오염물이 충분하게 제거될 수 있도록 샴푸할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 03-02-05]",
+   "code": "[헤어 03-02-05]",
+   "text": "펌제 및 컬러제를 사용한 모발의 경우 모발에 약제가 완전히 제거될 수 있도록 샴푸할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 03-02-06]",
+   "code": "[헤어 03-02-06]",
+   "text": "샴푸 성분이 남지 않도록 페이스 라인, 귀, 모발, 두피 등을 충분하게 헹굴 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 03-02-07]",
+   "code": "[헤어 03-02-07]",
+   "text": "샴푸 후 두피·모발 상태를 파악하여 모발 트리트먼트를 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 03-02-08]",
+   "code": "[헤어 03-02-08]",
+   "text": "트리트먼트제를 모발에 도포한 후 두피 지압과 매니플레이션(manipulation)할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 03-02-09]",
+   "code": "[헤어 03-02-09]",
+   "text": "트리트먼트제가 페이스 라인, 귀, 두피 등에 남지 않도록 충분하게 헹굴 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 03-03-01]",
+   "code": "[헤어 03-03-01]",
+   "text": "타월로 모발의 물기를 제거한 후 두상을 타월로 감쌀 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 03-03-02]",
+   "code": "[헤어 03-03-02]",
+   "text": "샴푸대 및 주변을 깨끗하게 정리한 후 고객을 시술 공간으로 안내할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 03-03-03]",
+   "code": "[헤어 03-03-03]",
+   "text": "타월 드라이 후 낮은 온도의 드라이어로 모발을 건조할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 04-01-01]",
+   "code": "[헤어 04-01-01]",
+   "text": "고객에게 어깨보, 커트보 등의 착용을 안내할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 04-01-02]",
+   "code": "[헤어 04-01-02]",
+   "text": "모류 및 모발 상태 파악을 위해 분무기로 수분을 조절하거나 사전 샴푸를 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 04-01-03]",
+   "code": "[헤어 04-01-03]",
+   "text": "원랭스 헤어 커트를 위해 선택한 도구를 정리하여 준비할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 04-01-04]",
+   "code": "[헤어 04-01-04]",
+   "text": "원랭스 헤어 커트에 사용하는 도구를 근골격계에 무리를 주지 않는 방법으로 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 04-01-05]",
+   "code": "[헤어 04-01-05]",
+   "text": "원랭스 헤어 커트의 스타일별 블로킹과 섹션을 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 04-01-06]",
+   "code": "[헤어 04-01-06]",
+   "text": "바른 자세를 유지하며 수평, 사선 등의 방법으로 원랭스 헤어 커트를 완성할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 04-01-07]",
+   "code": "[헤어 04-01-07]",
+   "text": "커트 후 좌우 길이의 균형 및 전체적인 조화와 완성도를 체크할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 04-02-01]",
+   "code": "[헤어 04-02-01]",
+   "text": "고객의 얼굴과 목 등에 남아 있는 머리카락을 제거할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 04-02-02]",
+   "code": "[헤어 04-02-02]",
+   "text": "헤어 커트 후 고객 만족을 파악하여 필요한 경우 수정 및 보정 커트를 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 04-02-03]",
+   "code": "[헤어 04-02-03]",
+   "text": "헤어 커트 후 원랭스 스타일에 따라 모발을 건조하여 마무리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 04-02-04]",
+   "code": "[헤어 04-02-04]",
+   "text": "헤어 커트에 사용한 도구는 관리법을 준수하여 보관하고 커트가 끝난 공간은 청결하게 정리·정돈 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 05-01-01]",
+   "code": "[헤어 05-01-01]",
+   "text": "고객에게 어깨보, 커트보 등을 착용시키고 모발의 수분 함량을 조절할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 05-01-02]",
+   "code": "[헤어 05-01-02]",
+   "text": "커트를 진행할 공간과 커트 목적에 따라 선택한 도구를 정리하여 준비할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 05-01-03]",
+   "code": "[헤어 05-01-03]",
+   "text": "그래쥬에이션 헤어스타일에 따른 블로킹과 섹션을 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 05-01-04]",
+   "code": "[헤어 05-01-04]",
+   "text": "그래쥬에이션 헤어스타일에 따른 빗질의 방향과 각도를 조절할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 05-01-05]",
+   "code": "[헤어 05-01-05]",
+   "text": "틴닝 가위를 이용하여 모량과 질감을 조절할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 05-01-06]",
+   "code": "[헤어 05-01-06]",
+   "text": "가위를 사용하여 아웃라인을 정리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 05-02-01]",
+   "code": "[헤어 05-02-01]",
+   "text": "고객의 얼굴과 목 등에 붙어 있는 잔여 모발을 완전히 제거할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 05-02-02]",
+   "code": "[헤어 05-02-02]",
+   "text": "헤어 커트 후 고객의 반응에 따라 수정 및 보정 커트를 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 05-02-03]",
+   "code": "[헤어 05-02-03]",
+   "text": "그래쥬에이션 헤어 커트에 어울리는 스타일로 마무리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 05-02-04]",
+   "code": "[헤어 05-02-04]",
+   "text": "사용한 헤어 커트 도구를 청결하게 관리하고 주변을 정리·정돈 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 06-01-01]",
+   "code": "[헤어 06-01-01]",
+   "text": "고객에게 어깨보, 커트보 등의 착용을 안내하고 모발의 수분 함량을 조절할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 06-01-02]",
+   "code": "[헤어 06-01-02]",
+   "text": "헤어 커트를 진행할 공간과 헤어 커트 목적에 따라 선택한 도구를 정리하여 준비할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 06-01-03]",
+   "code": "[헤어 06-01-03]",
+   "text": "레이어 헤어 커트 스타일에 따른 블로킹과 섹션을 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 06-01-04]",
+   "code": "[헤어 06-01-04]",
+   "text": "레이어 헤어 커트 스타일에 따른 빗질의 방향과 각도를 조절할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 06-01-05]",
+   "code": "[헤어 06-01-05]",
+   "text": "헤어 커트 빗과 가위를 정확하게 사용하여 레이어 커트를 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 06-01-06]",
+   "code": "[헤어 06-01-06]",
+   "text": "틴닝 가위를 이용하여 모량을 조절하고 다양한 질감 표현을 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 06-01-07]",
+   "code": "[헤어 06-01-07]",
+   "text": "좌우상하의 모발 길이, 모량, 질감 등이 조화롭게 균형을 이루고 있는지 크로스 체크할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 06-02-01]",
+   "code": "[헤어 06-02-01]",
+   "text": "고객의 얼굴과 목 등의 잔여 머리카락을 제거할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 06-02-02]",
+   "code": "[헤어 06-02-02]",
+   "text": "레이어 헤어 커트 마무리 후 고객 만족도를 파악하여 필요한 경우 수정 및 보정 커트를 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 06-02-03]",
+   "code": "[헤어 06-02-03]",
+   "text": "레이어 헤어 커트에 어울리게 헤어스타일을 마무리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 06-02-04]",
+   "code": "[헤어 06-02-04]",
+   "text": "레이어 헤어 커트 마무리가 종료된 후 사용한 헤어 커트 도구는 청결하게 관리하고 주변 을 즉시 정리·정돈 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 07-01-01]",
+   "code": "[헤어 07-01-01]",
+   "text": "고객에게 가운, 어깨보 등의 착용을 안내할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 07-01-02]",
+   "code": "[헤어 07-01-02]",
+   "text": "콜드 펌 유형별 사전 샴푸를 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 07-01-03]",
+   "code": "[헤어 07-01-03]",
+   "text": "모발 길이와 상태 등에 따라 사용할 호수별 로드, 밴드, 앤드페이퍼, 빗, 펌제 등 필요 한 도구와 재료를 준비할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 07-01-04]",
+   "code": "[헤어 07-01-04]",
+   "text": "모발에 사전 처리 작업으로 전처리제 도포 및 연화 또는 유화 작업을 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 07-01-05]",
+   "code": "[헤어 07-01-05]",
+   "text": "헤어라인 및 두피에 보호제를 도포할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 07-02-01]",
+   "code": "[헤어 07-02-01]",
+   "text": "로드를 사용하여 크로키놀식 및 스파이럴식 기법으로 와인딩할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 07-02-02]",
+   "code": "[헤어 07-02-02]",
+   "text": "와인딩된 모발에 1제를 도포하고 타월 밴드 및 비닐캡 처리를 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 07-02-03]",
+   "code": "[헤어 07-02-03]",
+   "text": "콜드 펌제의 촉진을 위해 가온기나 음이온 기기 등을 사용하여 열처리를 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 07-02-04]",
+   "code": "[헤어 07-02-04]",
+   "text": "웨이브의 형성 정도를 파악하기 위해 테스트 컬을 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 07-02-05]",
+   "code": "[헤어 07-02-05]",
+   "text": "테스트 컬의 결과에 따라 중간 세척을 선택적으로 실시할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 07-02-06]",
+   "code": "[헤어 07-02-06]",
+   "text": "콜드 펌제의 유형과 펌 디자인에 따라 2제를 도포할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 07-03-01]",
+   "code": "[헤어 07-03-01]",
+   "text": "로드-오프하여 모발에 남아 있는 펌제를 깨끗하게 세척할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 07-03-02]",
+   "code": "[헤어 07-03-02]",
+   "text": "마무리 스타일링에 따라 잔여 수분 함량을 조절할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 07-03-03]",
+   "code": "[헤어 07-03-03]",
+   "text": "콜드 펌 디자인에 따라 헤어스타일링 제품을 사용하여 마무리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 08-01-01]",
+   "code": "[헤어 08-01-01]",
+   "text": "고객에게 가운, 어깨보 등을 착용해 줄 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 08-01-02]",
+   "code": "[헤어 08-01-02]",
+   "text": "고객의 요구, 고객의 특성과 라이프 스타일 및 모발 상태를 고려하여 히팅 펌을 디자인하 고 제안할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 08-01-03]",
+   "code": "[헤어 08-01-03]",
+   "text": "모발 길이와 상태 등에 따라 히팅 펌에 필요한 도구와 재료를 준비할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 08-01-04]",
+   "code": "[헤어 08-01-04]",
+   "text": "히팅 펌 유형별 사전 샴푸를 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 08-01-05]",
+   "code": "[헤어 08-01-05]",
+   "text": "모발 상태에 적합한 히팅 펌제를 선택하여 연화를 위해 모발에 도포할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 08-01-06]",
+   "code": "[헤어 08-01-06]",
+   "text": "연화에 필요한 시간을 결정할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 08-01-07]",
+   "code": "[헤어 08-01-07]",
+   "text": "모발 연화를 위해 가온기 등을 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 08-01-08]",
+   "code": "[헤어 08-01-08]",
+   "text": "연화 테스트 후 모발을 충분히 헹군 후 건조시킬 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 08-01-09]",
+   "code": "[헤어 08-01-09]",
+   "text": "헤어라인 및 두피에 보호제를 도포할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 08-02-01]",
+   "code": "[헤어 08-02-01]",
+   "text": "플랫 형태의 매직기로 모발의 큐티클을 정돈하며 스트레이트 형태로 펼 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 08-02-02]",
+   "code": "[헤어 08-02-02]",
+   "text": "디지털 기기의 로드를 이용하여 와인딩할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 08-02-03]",
+   "code": "[헤어 08-02-03]",
+   "text": "볼륨 매직 아이론기를 사용하여 필요한 부분에 볼륨 또는 웨이브를 연출할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 08-02-04]",
+   "code": "[헤어 08-02-04]",
+   "text": "계획했던 히팅 펌 형성에 필요한 온도와 시간을 결정할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 08-02-05]",
+   "code": "[헤어 08-02-05]",
+   "text": "히팅 펌 1제의 종류에 따라 적합한 2제를 선택하여 모발에 골고루 도포할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 08-03-01]",
+   "code": "[헤어 08-03-01]",
+   "text": "히팅 펌제 사용으로 높아진 모발의 pH 농도를 조절하기 위한 마무리 세척을 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 08-03-02]",
+   "code": "[헤어 08-03-02]",
+   "text": "히팅 펌의 스타일링을 위해 미온풍을 사용하여 모발의 잔여 수분 함량을 조절할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 08-03-03]",
+   "code": "[헤어 08-03-03]",
+   "text": "헤어스타일링 제품을 사용하여 히팅 펌 디자인에 따라 마무리 연출할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 08-03-04]",
+   "code": "[헤어 08-03-04]",
+   "text": "고객에게 히팅 펌 컬을 유지하기 위한 홈 케어 스타일링 방법을 설명할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 08-03-05]",
+   "code": "[헤어 08-03-05]",
+   "text": "고객에게 홈 케어 스타일링에 필요한 제품을 추천할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 09-01-01]",
+   "code": "[헤어 09-01-01]",
+   "text": "고객 상담을 위해 블리치 레벨 차트와 컬러 차트를 만들 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 09-01-02]",
+   "code": "[헤어 09-01-02]",
+   "text": "고객의 의복, 피부 등에 염모제가 묻지 않도록 가운, 어깨보 등의 착용을 안내할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 09-01-03]",
+   "code": "[헤어 09-01-03]",
+   "text": "염모제를 사용하여 고객에게 패치 테스트 및 스트렌드 테스트를 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 09-01-04]",
+   "code": "[헤어 09-01-04]",
+   "text": "두피 및 모발 상태에 따른 전처리 제품과 도구 및 재료를 준비할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 09-01-05]",
+   "code": "[헤어 09-01-05]",
+   "text": "헤어 컬러를 결정하는 염모제를 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 09-01-06]",
+   "code": "[헤어 09-01-06]",
+   "text": "염모제 사용법을 파악하여 필요량을 덜어 놓는 등 사전 작업을 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 09-02-01]",
+   "code": "[헤어 09-02-01]",
+   "text": "원터치 혹은 투 터치 등 적합한 도포 기법으로 염모제를 도포할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 09-02-02]",
+   "code": "[헤어 09-02-02]",
+   "text": "고객의 두피와 의복 등에 염모제가 묻지 않도록 정해진 시간 내에 도포할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 09-02-03]",
+   "code": "[헤어 09-02-03]",
+   "text": "염모제 도포 후 처리 방법과 시간을 결정할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 09-02-04]",
+   "code": "[헤어 09-02-04]",
+   "text": "염모제의 발색 촉진을 위해 가온기나 음이온 기기 등의 사용 여부를 결정할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 09-02-05]",
+   "code": "[헤어 09-02-05]",
+   "text": "염모제의 발색을 확인하기 위해 컬러 테스트를 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 09-02-06]",
+   "code": "[헤어 09-02-06]",
+   "text": "원하는 정도의 발색이 확인되면 고객을 안전하게 샴푸실로 안내할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 09-03-01]",
+   "code": "[헤어 09-03-01]",
+   "text": "두피와 모발에 도포된 염모제를 제거하기 위해 에멀전 샴푸를 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 09-03-02]",
+   "code": "[헤어 09-03-02]",
+   "text": "샴푸로 염모제가 완전히 제거된 모발에 트리트먼트제를 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 09-03-03]",
+   "code": "[헤어 09-03-03]",
+   "text": "트리트먼트제를 충분히 헹구어 낸 후 물기를 제거하고 고객을 시술대로 안내할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 09-03-04]",
+   "code": "[헤어 09-03-04]",
+   "text": "타월 드라이 및 핸드 드라이 기법으로 모발을 건조할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 09-03-05]",
+   "code": "[헤어 09-03-05]",
+   "text": "고객이 원하는 스타일로 마무리한 후 주변을 정리 정돈할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 10-01-01]",
+   "code": "[헤어 10-01-01]",
+   "text": "고객에게 어깨보 등의 착용을 안내하고 모발의 수분을 조절할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 10-01-02]",
+   "code": "[헤어 10-01-02]",
+   "text": "모발 상태와 헤어 디자인에 따라 블로우 드라이어, 롤 브러시, 벨크로 롤 등의 기기 및 도구를 선정할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 10-01-03]",
+   "code": "[헤어 10-01-03]",
+   "text": "모발 상태와 헤어 디자인에 따라 냉풍 또는 온풍, 바람의 세기·방향 등을 조절할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 10-01-04]",
+   "code": "[헤어 10-01-04]",
+   "text": "블로우 드라이어를 사용하여 모발을 스트레이트, 인컬, 아웃컬, S컬 등으로 연출할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 10-02-01]",
+   "code": "[헤어 10-02-01]",
+   "text": "콤아웃 기법과 헤어스타일 연출 제품 등을 사용하여 헤어스타일을 완성할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 10-02-02]",
+   "code": "[헤어 10-02-02]",
+   "text": "연출 스타일에 따라 필요한 경우 수정 및 보정할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 10-02-03]",
+   "code": "[헤어 10-02-03]",
+   "text": "사용한 블로우 드라이어와 도구는 위생적으로 관리하고 주변을 정리 정돈할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 11-01-01]",
+   "code": "[헤어 11-01-01]",
+   "text": "고객의 어깨보 착용 상태와 모발의 건조 상태를 확인할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 11-01-02]",
+   "code": "[헤어 11-01-02]",
+   "text": "모발 상태와 헤어 디자인에 따라 아이론기의 굵기, 모양 등을 선택할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 11-01-03]",
+   "code": "[헤어 11-01-03]",
+   "text": "모발 상태와 헤어 디자인에 따라 아이론기의 온도 및 방향 등을 조절할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 11-01-04]",
+   "code": "[헤어 11-01-04]",
+   "text": "아이론기를 사용하여 모발을 스트레이트, 인컬, 아웃컬, S컬 등으로 연출할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 11-02-01]",
+   "code": "[헤어 11-02-01]",
+   "text": "헤어스타일 연출에 적합한 제품을 선택하여 헤어스타일을 완성하는 데 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 11-02-02]",
+   "code": "[헤어 11-02-02]",
+   "text": "연출 스타일에 따라 필요한 경우 수정 및 보정할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 11-02-03]",
+   "code": "[헤어 11-02-03]",
+   "text": "사용한 도구는 청결하게 관리하고 주변을 정리 정돈할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 12-01-01]",
+   "code": "[헤어 12-01-01]",
+   "text": "두피 ․ 모발 관리에 적합한 가운 및 어깨보, 타월 등의 착용을 안내할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 12-01-02]",
+   "code": "[헤어 12-01-02]",
+   "text": "문진, 시진, 촉진 등을 사용하여 두피 ․ 모발 상태를 파악할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 12-01-03]",
+   "code": "[헤어 12-01-03]",
+   "text": "두피 ․ 모발 상태를 챠트 및 두피・모발 관리 프로그램에 입력할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 12-01-04]",
+   "code": "[헤어 12-01-04]",
+   "text": "두피 ․ 모발 관리에 필요한 기기와 도구 및 제품을 선택하여 준비할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 12-01-05]",
+   "code": "[헤어 12-01-05]",
+   "text": "고객이 편안함과 안정감을 느낄 수 있도록 조명과 실내 온도 등을 조절할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 12-02-01]",
+   "code": "[헤어 12-02-01]",
+   "text": "고객의 요구와 두피·모발 상태를 기반으로 한 두피 ․ 모발 관리 방법을 계획할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 12-02-02]",
+   "code": "[헤어 12-02-02]",
+   "text": "두피·모발 상태에 따라 관리에 필요한 기기·기구·제품 등을 선택하여 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 12-02-03]",
+   "code": "[헤어 12-02-03]",
+   "text": "두피 상태에 적합한 스케일링제를 도포하여 두피를 청결하게 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 12-02-04]",
+   "code": "[헤어 12-02-04]",
+   "text": "두피·모발 상태에 적합한 기능성 샴푸제를 선택하여 충분한 거품으로 샴푸할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 12-02-05]",
+   "code": "[헤어 12-02-05]",
+   "text": "혈액 순환 개선과 신진대사 촉진을 위해 두피 매니플레이션(manipulation)을 할 수 있 다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 12-02-06]",
+   "code": "[헤어 12-02-06]",
+   "text": "샴푸제를 완전히 제거한 두피·모발에 헤어 팩, 헤어 트리트먼트제 등을 사용하여 영양을 공급할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 12-02-07]",
+   "code": "[헤어 12-02-07]",
+   "text": "마무리 세척 후 모발에 물기를 제거하기 위한 타월 드라이를 할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 12-03-01]",
+   "code": "[헤어 12-03-01]",
+   "text": "타월 드라이 후 두피와 모발 상태에 따라 케어 제품을 사용할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 12-03-02]",
+   "code": "[헤어 12-03-02]",
+   "text": "헤어스타일 연출을 위해 모발의 수분 함량을 조절하며 건조할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 12-03-03]",
+   "code": "[헤어 12-03-03]",
+   "text": "두피·모발 관리 전・후의 변화를 고객에게 설명할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 12-03-04]",
+   "code": "[헤어 12-03-04]",
+   "text": "헤어스타일링 제품을 사용하여 마무리할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 12-03-05]",
+   "code": "[헤어 12-03-05]",
+   "text": "건강한 두피·모발 상태 유지를 위한 홈 케어 방법을 고객에게 설명할 수 있다.",
+   "sourceId": "annex26",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-헤어-미용:[헤어 12-03-06]",
+   "code": "[헤어 12-03-06]",
+   "text": "고객 재방문 시 활용할 수 있도록 두피·모발 관리 과정 및 결과에 대한 내용을 고객 관리 프로그램에 입력할 수 있다.",
    "sourceId": "annex26",
    "locator": "pattern-match"
   }

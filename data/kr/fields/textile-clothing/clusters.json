@@ -1,6 +1,91 @@
 {
  "clusters": [
   {
+   "id": "kr.cluster.2022.high.0002e9014ca1ec0a09",
+   "titleKorean": "한국 의복 구성과 생산 — 한복 품질 검사",
+   "subjectKorean": "한국 의복 구성과 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "한복 품질 검사",
+   "summary": "한국 의복 구성과 생산의 한복 품질 검사 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.20861215972ffc2a9acb",
+    "kr.topic.2022.high.7cb443d415a641711e56",
+    "kr.topic.2022.high.91bf25fe35d8dc3cf56f",
+    "kr.topic.2022.high.c689040ada5cf993ff8d",
+    "kr.topic.2022.high.cf86380960703e5c0e40",
+    "kr.topic.2022.high.d0bda1d985360ba94859",
+    "kr.topic.2022.high.ff10c340a443bb148c72"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.01a9224d22ed315b81",
+   "titleKorean": "니트 의류 생산 — 영역 04",
+   "subjectKorean": "니트 의류 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 04",
+   "summary": "니트 의류 생산의 영역 04 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.978d37846e62217b1bc0",
+    "kr.topic.2022.high.b789cc3d2d0f7181cb6d",
+    "kr.topic.2022.high.dd632474986dfdb005ad",
+    "kr.topic.2022.high.e0cd9299623811e318ac",
+    "kr.topic.2022.high.f0354febb78e55f07d03",
+    "kr.topic.2022.high.f2f1e0de0bc917712ae4"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.021d786817a58537c6",
+   "titleKorean": "텍스타일 디자인 — 텍스타일 패턴 디자인 날염･가공",
+   "subjectKorean": "텍스타일 디자인",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "텍스타일 패턴 디자인 날염･가공",
+   "summary": "텍스타일 디자인의 텍스타일 패턴 디자인 날염･가공 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 14,
+   "topics": [
+    "kr.topic.2022.high.071054bfd31c3d5cde3f",
+    "kr.topic.2022.high.1650fc8636f64bf56499",
+    "kr.topic.2022.high.40895e8758f56e1964a5",
+    "kr.topic.2022.high.4fce346cb2e999e7876f",
+    "kr.topic.2022.high.7914255e972ac9c5ef07",
+    "kr.topic.2022.high.8b9af964a143e103f076",
+    "kr.topic.2022.high.95076bf7b964f2b31d0b",
+    "kr.topic.2022.high.abaa19e3d623ad693b2a",
+    "kr.topic.2022.high.b419a6f5016f65849dc7",
+    "kr.topic.2022.high.ba3cd6e0c307d031c71b",
+    "kr.topic.2022.high.c67c09c8d6b31275af15",
+    "kr.topic.2022.high.ce381fd97be39d33d9cd",
+    "kr.topic.2022.high.de3084280e2a04c9ed9d",
+    "kr.topic.2022.high.fb7570cb4f9f77e83826"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.02b4091efa1b322074",
+   "titleKorean": "한국 의복 구성과 생산 — 한복 시장 동향 분석",
+   "subjectKorean": "한국 의복 구성과 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "한복 시장 동향 분석",
+   "summary": "한국 의복 구성과 생산의 한복 시장 동향 분석 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.1192264a56bbddfa73f9",
+    "kr.topic.2022.high.75fc099df9c4cc0829ba",
+    "kr.topic.2022.high.8088dd0b9988f75f0d69",
+    "kr.topic.2022.high.9477f4d1dca98c30f3bc",
+    "kr.topic.2022.high.986955f5406a55f3d219",
+    "kr.topic.2022.high.b0d4f19fc169c1343559",
+    "kr.topic.2022.high.c7bb3c6c3eb7586e1324",
+    "kr.topic.2022.high.cc11c95e572fbef07a4f",
+    "kr.topic.2022.high.d8333824473590bf0372",
+    "kr.topic.2022.high.eb5417b9db23378ac4f9"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.08034bf5cad39d025e",
    "titleKorean": "패션 디자인의 기초 — 패션 스타일링",
    "subjectKorean": "패션 디자인의 기초",
@@ -36,6 +121,31 @@
     "kr.topic.2022.high.7f858c7fb05137272390",
     "kr.topic.2022.high.974c5c315c8ffb41d74d",
     "kr.topic.2022.high.c39f0e1e3a15415eca59"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0a21274142d5d3c07a",
+   "titleKorean": "방적·방사 — 혼타면",
+   "subjectKorean": "방적·방사",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "혼타면",
+   "summary": "방적·방사의 혼타면 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.057eff3199462015613d",
+    "kr.topic.2022.high.05d49ec00bb4fcfc9270",
+    "kr.topic.2022.high.13a3e2f072a471b38ae6",
+    "kr.topic.2022.high.1982134a91e698f42232",
+    "kr.topic.2022.high.452397d6caecd588bd10",
+    "kr.topic.2022.high.8c503dd68e35c5d2df6c",
+    "kr.topic.2022.high.a1b83344f57cc569a5ed",
+    "kr.topic.2022.high.aea55782b101a8d6464c",
+    "kr.topic.2022.high.e2c2fc4b7d282ec192f0",
+    "kr.topic.2022.high.e5d26cbd1d615c77bf95",
+    "kr.topic.2022.high.e6165e3094ebceae63ba",
+    "kr.topic.2022.high.e7d462ad3c9b8c3bcb11",
+    "kr.topic.2022.high.fab376137e3ff3684a29"
    ]
   },
   {
@@ -81,6 +191,28 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.0afd15c1c10f363d2a",
+   "titleKorean": "패션 디자인의 실제 — 패션 상품 시제품 개발 기획",
+   "subjectKorean": "패션 디자인의 실제",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "패션 상품 시제품 개발 기획",
+   "summary": "패션 디자인의 실제의 패션 상품 시제품 개발 기획 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.36bd91da0fd1ac56ccd9",
+    "kr.topic.2022.high.527a53269532f0b28a2c",
+    "kr.topic.2022.high.5a392050fb3a79e6a970",
+    "kr.topic.2022.high.66bec5da17c631c8c355",
+    "kr.topic.2022.high.8ff4d68ea0a8bc4c78e0",
+    "kr.topic.2022.high.a70d062ee0aed03c2dd2",
+    "kr.topic.2022.high.b0b4fc20a40009cc6c1f",
+    "kr.topic.2022.high.de9109a06b921e369e76",
+    "kr.topic.2022.high.e274d37c82699f20cdfd",
+    "kr.topic.2022.high.ef235fcd42742ddfbcc7"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.0bc2afb384eaa165b8",
    "titleKorean": "패션 소재 — 실",
    "subjectKorean": "패션 소재",
@@ -102,6 +234,30 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.0c2a0ce81a60dda860",
+   "titleKorean": "텍스타일 디자인 — 텍스타일 패턴 디자인 자수 문양",
+   "subjectKorean": "텍스타일 디자인",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "텍스타일 패턴 디자인 자수 문양",
+   "summary": "텍스타일 디자인의 텍스타일 패턴 디자인 자수 문양 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.078e3f939f170c26fc71",
+    "kr.topic.2022.high.48e98638d31eac3c9378",
+    "kr.topic.2022.high.6b0778fbff9b7fd69d4b",
+    "kr.topic.2022.high.769b13b0067da612a07c",
+    "kr.topic.2022.high.78f13740e7ff80823432",
+    "kr.topic.2022.high.85fddfbbf085a55f169a",
+    "kr.topic.2022.high.a0433ec9c4ba1fc3ff98",
+    "kr.topic.2022.high.a2fa45ede005685e0b38",
+    "kr.topic.2022.high.aef88a21e51b408a3cac",
+    "kr.topic.2022.high.c22f15ab8e22fd44a3bb",
+    "kr.topic.2022.high.d97769695eae12061a76",
+    "kr.topic.2022.high.ff89610e418276f17db8"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.0dc200a6da62c63d49",
    "titleKorean": "패션 마케팅 — 패션 마케팅 영역의 확대",
    "subjectKorean": "패션 마케팅",
@@ -115,6 +271,52 @@
     "kr.topic.2022.high.ba3fb6716246178fe804",
     "kr.topic.2022.high.bc89315e52db64028856",
     "kr.topic.2022.high.c004cd717dd4969b9c2f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0e1550565c364f2970",
+   "titleKorean": "서양 의복 구성과 생산 — 제직 의류 재단 본 작업",
+   "subjectKorean": "서양 의복 구성과 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "제직 의류 재단 본 작업",
+   "summary": "서양 의복 구성과 생산의 제직 의류 재단 본 작업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.0753a26f3f697981609d",
+    "kr.topic.2022.high.2f732dcbb0fa2f0bef88",
+    "kr.topic.2022.high.42c11787a3848d4884f0",
+    "kr.topic.2022.high.457b17ef8a5d3c02eb7c",
+    "kr.topic.2022.high.52e3063cbdeb2464e66e",
+    "kr.topic.2022.high.612faad9549c0cc2326f",
+    "kr.topic.2022.high.69a6df8d702efbb14190",
+    "kr.topic.2022.high.852ab8b572f94aca52c6",
+    "kr.topic.2022.high.a7a98e3a165c17aa6e06",
+    "kr.topic.2022.high.adec0f72e6ece3180e2b",
+    "kr.topic.2022.high.c0318143da3b9786b54d",
+    "kr.topic.2022.high.c6435c41d9b90103c6d8",
+    "kr.topic.2022.high.f83d7abd266bb30a9ef6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0f04e8b0b4cb82ec58",
+   "titleKorean": "패턴 메이킹 — 그레이딩",
+   "subjectKorean": "패턴 메이킹",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "그레이딩",
+   "summary": "패턴 메이킹의 그레이딩 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.01a62115bcaa116316c6",
+    "kr.topic.2022.high.0f6b32141b4ed089e079",
+    "kr.topic.2022.high.1f9e99e5c4f84036a011",
+    "kr.topic.2022.high.4ea4a79bc6ea158a6a77",
+    "kr.topic.2022.high.64046cde8afd87868597",
+    "kr.topic.2022.high.82f284fecd6d2116c07a",
+    "kr.topic.2022.high.96e48a83d7fb4f23f7fe",
+    "kr.topic.2022.high.9b601f8e70ab01ac1bd6",
+    "kr.topic.2022.high.befaec23b3c3bc812f40"
    ]
   },
   {
@@ -139,6 +341,129 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.10319a62cda1ee2176",
+   "titleKorean": "염색･가공 — 침염 준비",
+   "subjectKorean": "염색･가공",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "침염 준비",
+   "summary": "염색･가공의 침염 준비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.0ce511131ac4d63f0416",
+    "kr.topic.2022.high.18ec01500a148c31abfa",
+    "kr.topic.2022.high.381ccdea40fd851ea0df",
+    "kr.topic.2022.high.8ca0dc233b38be06e0a9",
+    "kr.topic.2022.high.939e34cfbc89d7d71501",
+    "kr.topic.2022.high.b1f328871a4df42b26b8",
+    "kr.topic.2022.high.ba382150fb6755d99471",
+    "kr.topic.2022.high.bb54cefcc5575093efb9",
+    "kr.topic.2022.high.d5f425ed4865f2068f7e",
+    "kr.topic.2022.high.db8ba6fe79261850381f",
+    "kr.topic.2022.high.dca68e34e0602f14da03",
+    "kr.topic.2022.high.ee53ee45f63fbda5b2a5"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.12410caab766923af4",
+   "titleKorean": "서양 의복 구성과 생산 — 제직 의류 완성 기타 작업",
+   "subjectKorean": "서양 의복 구성과 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "제직 의류 완성 기타 작업",
+   "summary": "서양 의복 구성과 생산의 제직 의류 완성 기타 작업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.19f8d9fd91e45dd8db80",
+    "kr.topic.2022.high.32bb5992613652d3f927",
+    "kr.topic.2022.high.4e2d5a735f25472d2047",
+    "kr.topic.2022.high.532b645402b4bcf3c401",
+    "kr.topic.2022.high.6262ecacd948787ee84f",
+    "kr.topic.2022.high.712a4a2f5f715dbbbf6e",
+    "kr.topic.2022.high.731b18ebf8d216749346",
+    "kr.topic.2022.high.9162fa3ce329cbbc725a",
+    "kr.topic.2022.high.c5d43cf1fe7a857ad256"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.126d3130f849b32f42",
+   "titleKorean": "패션 상품 유통 관리 — 의류 상품 운영",
+   "subjectKorean": "패션 상품 유통 관리",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "의류 상품 운영",
+   "summary": "패션 상품 유통 관리의 의류 상품 운영 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 14,
+   "topics": [
+    "kr.topic.2022.high.0ea855b5dba108e307f2",
+    "kr.topic.2022.high.208d952f74fcca3017b3",
+    "kr.topic.2022.high.2b08e4335bb1d36db9af",
+    "kr.topic.2022.high.2f8977de5e687a4ad954",
+    "kr.topic.2022.high.436faea5ec24001ede7a",
+    "kr.topic.2022.high.48679fc7f507809b0c46",
+    "kr.topic.2022.high.6fd7db0c4c37dca0fce7",
+    "kr.topic.2022.high.91b99194616bcd3ab7a2",
+    "kr.topic.2022.high.9ba68cd3bedb9caa54c0",
+    "kr.topic.2022.high.b0c4f4a01a20854271f5",
+    "kr.topic.2022.high.c8a8fab9c7094a5e457b",
+    "kr.topic.2022.high.d682c975561563cd4601",
+    "kr.topic.2022.high.da30b632766c18b6e106",
+    "kr.topic.2022.high.efc86d6b0e0df98f02d5"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.148a6ea11c7ae82c16",
+   "titleKorean": "텍스타일 디자인 — 텍스타일 패턴 디자인 염색･가공",
+   "subjectKorean": "텍스타일 디자인",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "텍스타일 패턴 디자인 염색･가공",
+   "summary": "텍스타일 디자인의 텍스타일 패턴 디자인 염색･가공 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 14,
+   "topics": [
+    "kr.topic.2022.high.09221294a68f329d0974",
+    "kr.topic.2022.high.175ae9e1be768f239538",
+    "kr.topic.2022.high.1a65ec3c1f9420b79b75",
+    "kr.topic.2022.high.441eedd777be5115a194",
+    "kr.topic.2022.high.5b042381118519bbe58b",
+    "kr.topic.2022.high.7fe64f8dbf4689581985",
+    "kr.topic.2022.high.8a40afa342effd1cf8e8",
+    "kr.topic.2022.high.8df310fe815b5472ff91",
+    "kr.topic.2022.high.9a4d0c12fe410a97d48a",
+    "kr.topic.2022.high.9d9b5f09fbbd59f05361",
+    "kr.topic.2022.high.adba698a8e56b4c346c6",
+    "kr.topic.2022.high.aecde20b1f7b19ff3170",
+    "kr.topic.2022.high.b3d704868626bf04ce0c",
+    "kr.topic.2022.high.dc18b733483515aa9f4d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.14a57ee5f12c516216",
+   "titleKorean": "비주얼 머천다이징 — 비주얼 머천다이징 전략 수립",
+   "subjectKorean": "비주얼 머천다이징",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "비주얼 머천다이징 전략 수립",
+   "summary": "비주얼 머천다이징의 비주얼 머천다이징 전략 수립 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 14,
+   "topics": [
+    "kr.topic.2022.high.35dc52ec8aa26bc0412f",
+    "kr.topic.2022.high.3d528d23d6df53ab9ea4",
+    "kr.topic.2022.high.4a0f860c270473215379",
+    "kr.topic.2022.high.653f43813258f0d74523",
+    "kr.topic.2022.high.6b63a4e62fbd3957c186",
+    "kr.topic.2022.high.811265ea8367a7bf4782",
+    "kr.topic.2022.high.96e5a31769c9066ba34f",
+    "kr.topic.2022.high.9fdcbeabe776a97da3a9",
+    "kr.topic.2022.high.b2fb0a9cea1be057c248",
+    "kr.topic.2022.high.b84aa265d089a3f91f93",
+    "kr.topic.2022.high.c38a6a0e5c1c84f379e4",
+    "kr.topic.2022.high.db6ec7dc93a7ef91b7de",
+    "kr.topic.2022.high.fa510210779b915c2a01",
+    "kr.topic.2022.high.fbf1ab6f6989c090af89"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.17364555ccd341c4bf",
    "titleKorean": "섬유 재료 — 섬유의 물리･화학적 실험",
    "subjectKorean": "섬유 재료",
@@ -150,6 +475,36 @@
    "topics": [
     "kr.topic.2022.high.25146c24309472fd9556",
     "kr.topic.2022.high.7144251737e0c00a9a97"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.176e0ccdabb69b9485",
+   "titleKorean": "패션 소품 디자인과 생산 — 패션 소품 디자인 개발",
+   "subjectKorean": "패션 소품 디자인과 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "패션 소품 디자인 개발",
+   "summary": "패션 소품 디자인과 생산의 패션 소품 디자인 개발 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 18,
+   "topics": [
+    "kr.topic.2022.high.005ddb56b2a199926c82",
+    "kr.topic.2022.high.26433abf270197309953",
+    "kr.topic.2022.high.26bf2be89f032b2b93ab",
+    "kr.topic.2022.high.2cc1195f315ec6547b03",
+    "kr.topic.2022.high.2f82721e567a635feec0",
+    "kr.topic.2022.high.43a0c8c029a2cc6d0d55",
+    "kr.topic.2022.high.4f37f266d934b1811cc0",
+    "kr.topic.2022.high.70e635c7e7197af1fba2",
+    "kr.topic.2022.high.75607f54144b2ab5e63f",
+    "kr.topic.2022.high.762d42fbdbbcbbda4c61",
+    "kr.topic.2022.high.7e99d429a59b5f793579",
+    "kr.topic.2022.high.9b6d780e3d3fdbce2e83",
+    "kr.topic.2022.high.bf0d975c98149978f469",
+    "kr.topic.2022.high.c46b562ded069bedf164",
+    "kr.topic.2022.high.d635174a65278f0dbf9c",
+    "kr.topic.2022.high.f68043304417a385632e",
+    "kr.topic.2022.high.fa0ca1e971ceb5e7bfe0",
+    "kr.topic.2022.high.fd6a7ade1b28ba388e34"
    ]
   },
   {
@@ -169,6 +524,21 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.1a0eef61b1537cb025",
+   "titleKorean": "패션 상품 유통 관리 — 영역 04",
+   "subjectKorean": "패션 상품 유통 관리",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 04",
+   "summary": "패션 상품 유통 관리의 영역 04 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.6bfe24449a6b916b5713",
+    "kr.topic.2022.high.b5a89661e7a9e508bc0c",
+    "kr.topic.2022.high.bf2688ad9aa274dc0a8e"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.1a282268cbaeb46233",
    "titleKorean": "의복 구성의 기초 — 영역 03",
    "subjectKorean": "의복 구성의 기초",
@@ -179,6 +549,58 @@
    "topicCount": 1,
    "topics": [
     "kr.topic.2022.high.db9d331eca60a8cd1236"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1a44ea8fe20d17b05f",
+   "titleKorean": "패션 상품 유통 관리 — 의류 가격 전략 수립",
+   "subjectKorean": "패션 상품 유통 관리",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "의류 가격 전략 수립",
+   "summary": "패션 상품 유통 관리의 의류 가격 전략 수립 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.049dc05b0834e81d671a",
+    "kr.topic.2022.high.69ee043352a3a7f0a3b2",
+    "kr.topic.2022.high.6d7f6bf30997299a9bf7",
+    "kr.topic.2022.high.720cef4be2b1bd3934f1",
+    "kr.topic.2022.high.88a20d96e3ea9d109185",
+    "kr.topic.2022.high.95db7ee7486a9104a193",
+    "kr.topic.2022.high.d24fe581f572348437a8",
+    "kr.topic.2022.high.f605eae0e27388f84fa3",
+    "kr.topic.2022.high.fa46c121baebce80123f",
+    "kr.topic.2022.high.fb72ba7fd7d2ba1bf397"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1ae0cd5e249aee0194",
+   "titleKorean": "방적·방사 — 방적 생산 준비",
+   "subjectKorean": "방적·방사",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "방적 생산 준비",
+   "summary": "방적·방사의 방적 생산 준비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 18,
+   "topics": [
+    "kr.topic.2022.high.333251cef45ac6e5f2d2",
+    "kr.topic.2022.high.34e39959053390753379",
+    "kr.topic.2022.high.3bf62088eda20205cb0f",
+    "kr.topic.2022.high.40e76106a98da16cb034",
+    "kr.topic.2022.high.4ab63a8fd9a5bd2defc5",
+    "kr.topic.2022.high.50a93e6a3ba6aa2a2b7a",
+    "kr.topic.2022.high.63bcda7faeeb6959f9eb",
+    "kr.topic.2022.high.81206171be3860a8e642",
+    "kr.topic.2022.high.85effe49e5c625c3f13d",
+    "kr.topic.2022.high.948d2288acd35ab62064",
+    "kr.topic.2022.high.96ea9a085038af97c099",
+    "kr.topic.2022.high.9a617d5b0b5a7b888e64",
+    "kr.topic.2022.high.a43b17ce9e6ab47ecdcd",
+    "kr.topic.2022.high.afe8a880bb1e2f09205f",
+    "kr.topic.2022.high.c33cec797788abb7da27",
+    "kr.topic.2022.high.dbfdf57485ca306e9bc6",
+    "kr.topic.2022.high.f2330850f7abf7f53ab0",
+    "kr.topic.2022.high.fa060639adbfb65d75d8"
    ]
   },
   {
@@ -196,6 +618,136 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.1c08c4c09330e21d57",
+   "titleKorean": "방적·방사 — 방사 냉각",
+   "subjectKorean": "방적·방사",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "방사 냉각",
+   "summary": "방적·방사의 방사 냉각 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 16,
+   "topics": [
+    "kr.topic.2022.high.0127983301c6f4929929",
+    "kr.topic.2022.high.05d7a024c56f88a88a7c",
+    "kr.topic.2022.high.0c2ab6dc116944e9dfd3",
+    "kr.topic.2022.high.12e8f403833aec1da6c6",
+    "kr.topic.2022.high.2243aa7e6219d0f92340",
+    "kr.topic.2022.high.36b472a970a382f75175",
+    "kr.topic.2022.high.43d50f77c8931877754b",
+    "kr.topic.2022.high.4d7d7e9c724e53bd7917",
+    "kr.topic.2022.high.650bb89580801a6f5867",
+    "kr.topic.2022.high.68fdfea7f180f9ab4f92",
+    "kr.topic.2022.high.6f9466a19c813cf1acf8",
+    "kr.topic.2022.high.8d378ae6e6decf3c06f9",
+    "kr.topic.2022.high.a9785b77cdad0faf9470",
+    "kr.topic.2022.high.ac670d024f5b0685f1b2",
+    "kr.topic.2022.high.e16fcad963b92a633301",
+    "kr.topic.2022.high.f3f804498b864d3588ac"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1caf93b73323b44473",
+   "titleKorean": "패턴 메이킹 — 영역 04",
+   "subjectKorean": "패턴 메이킹",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 04",
+   "summary": "패턴 메이킹의 영역 04 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.02c84419f4385108f603",
+    "kr.topic.2022.high.11ee6d69dc4525a95c33",
+    "kr.topic.2022.high.482ba500ed5cd18249a1",
+    "kr.topic.2022.high.71c496689c1d455e9160",
+    "kr.topic.2022.high.87bdf40e059691918941",
+    "kr.topic.2022.high.8a120961ccad3a93b44b",
+    "kr.topic.2022.high.d593c23250f56bebe7a9",
+    "kr.topic.2022.high.e3eba5a6f12c6083de9f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1da2f83ba1fc1fd343",
+   "titleKorean": "한국 의복 구성과 생산 — 한복 겉‧안감 합복 봉제",
+   "subjectKorean": "한국 의복 구성과 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "한복 겉‧안감 합복 봉제",
+   "summary": "한국 의복 구성과 생산의 한복 겉‧안감 합복 봉제 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.2335c59c7ce166d90014",
+    "kr.topic.2022.high.35fe20b1fc3812ce0763",
+    "kr.topic.2022.high.5b909409d1ef22f0702b",
+    "kr.topic.2022.high.6d4e02ebc04a7569dc79",
+    "kr.topic.2022.high.70e4731c8419870c0228",
+    "kr.topic.2022.high.7f6725f810a059e8ae5c",
+    "kr.topic.2022.high.a66ed9b3aaa729565916",
+    "kr.topic.2022.high.c3c81eb067c307e4f088",
+    "kr.topic.2022.high.d2d3b3a577f3e49ce00e",
+    "kr.topic.2022.high.dd36be178e9229894ba5"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1e37abcad13be92525",
+   "titleKorean": "비주얼 머천다이징 — 영역 04",
+   "subjectKorean": "비주얼 머천다이징",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 04",
+   "summary": "비주얼 머천다이징의 영역 04 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.44aee63554defb4eb44f",
+    "kr.topic.2022.high.56ccf25dc8e82600edd9",
+    "kr.topic.2022.high.83f068df27d14d85d837",
+    "kr.topic.2022.high.921dd59a07ea69f365e8",
+    "kr.topic.2022.high.97183deb144b5d228a0b",
+    "kr.topic.2022.high.b2e3103e3aff0f04d402",
+    "kr.topic.2022.high.d920c9c316a1d691b408",
+    "kr.topic.2022.high.dce915381d4c72336fd6",
+    "kr.topic.2022.high.ebb90d0b6fd4051fdb99",
+    "kr.topic.2022.high.f8c0a93f3800b86540d1"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1f7de8a2dd301467a8",
+   "titleKorean": "염색･가공 — 염색･가공 실험실 테스트 준비",
+   "subjectKorean": "염색･가공",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "염색･가공 실험실 테스트 준비",
+   "summary": "염색･가공의 염색･가공 실험실 테스트 준비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.02737d06320d23d13570",
+    "kr.topic.2022.high.0c529e9cb91454d3a750",
+    "kr.topic.2022.high.19d2496147eeeea3e510",
+    "kr.topic.2022.high.22c7ac65ec98d339578d",
+    "kr.topic.2022.high.33e4255b54e82b55cae6",
+    "kr.topic.2022.high.42d4bcb39a327745485c",
+    "kr.topic.2022.high.469f05bb38e6b41a4a74",
+    "kr.topic.2022.high.8f99752ed8501e5b9840",
+    "kr.topic.2022.high.90c36f8379e5e21928e9",
+    "kr.topic.2022.high.c03420259d2de90c7592"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2261e693adcbf1dae2",
+   "titleKorean": "방적·방사 — 영역 08",
+   "subjectKorean": "방적·방사",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 08",
+   "summary": "방적·방사의 영역 08 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.29dd64a3205bbca2b6e8",
+    "kr.topic.2022.high.52390d4c25f0892d4604",
+    "kr.topic.2022.high.69548066acbebb5eebaf",
+    "kr.topic.2022.high.af50207c8dc5bc869828"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.22624da5cf618de4a7",
    "titleKorean": "섬유 공정 — 방적",
    "subjectKorean": "섬유 공정",
@@ -210,6 +762,72 @@
     "kr.topic.2022.high.6b7d2510018a268bd4bf",
     "kr.topic.2022.high.7f6fabb40bbb20c442b7",
     "kr.topic.2022.high.ca52dcfb4d43152076a0"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.229136f83e573c060d",
+   "titleKorean": "방적·방사 — 방사 설비 준비",
+   "subjectKorean": "방적·방사",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "방사 설비 준비",
+   "summary": "방적·방사의 방사 설비 준비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 16,
+   "topics": [
+    "kr.topic.2022.high.044bf5c6a14a5268cd48",
+    "kr.topic.2022.high.142c9edc1ce140b96c88",
+    "kr.topic.2022.high.25eeb320b442952a55f2",
+    "kr.topic.2022.high.2b8e0dab3d80a9cc9009",
+    "kr.topic.2022.high.30a5b91134782509273d",
+    "kr.topic.2022.high.45937099f9dd1c9ff3a9",
+    "kr.topic.2022.high.4f2b561a91ddced0a7a2",
+    "kr.topic.2022.high.5ff3d6692d857c213cbf",
+    "kr.topic.2022.high.68d4481a5c29af47acb3",
+    "kr.topic.2022.high.95b5b208442ea04a9c3a",
+    "kr.topic.2022.high.adfdf83aa1d4ee34c6b7",
+    "kr.topic.2022.high.bd9c0954e520a15aa721",
+    "kr.topic.2022.high.c24da43b26afd2e1434f",
+    "kr.topic.2022.high.d44da01effb17de24e44",
+    "kr.topic.2022.high.ea99004897baf3520b66",
+    "kr.topic.2022.high.ee122beb2f02540f8e30"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.25a38317443fc77b3f",
+   "titleKorean": "패션 소품 디자인과 생산 — 영역 06",
+   "subjectKorean": "패션 소품 디자인과 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 06",
+   "summary": "패션 소품 디자인과 생산의 영역 06 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.0d01088fbcaabb4ce999",
+    "kr.topic.2022.high.277bc6e4ac2b9f01637e",
+    "kr.topic.2022.high.820a6910d30e28d3c686",
+    "kr.topic.2022.high.92307dbd7d952c1ba6c3",
+    "kr.topic.2022.high.aae6fffac91881a3ddcd"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.26424faba3d5aebec8",
+   "titleKorean": "서양 의복 구성과 생산 — 제직 의류 부속 봉제",
+   "subjectKorean": "서양 의복 구성과 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "제직 의류 부속 봉제",
+   "summary": "서양 의복 구성과 생산의 제직 의류 부속 봉제 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.110fd89c6c30b0b9d238",
+    "kr.topic.2022.high.5ea4673d633d95957986",
+    "kr.topic.2022.high.6118da55e6949843137b",
+    "kr.topic.2022.high.668718322fa67402dbc0",
+    "kr.topic.2022.high.b2096b39add3fe2d74d3",
+    "kr.topic.2022.high.c3dd3f146ba6ecf1e418",
+    "kr.topic.2022.high.d68ea8c5c38e860cf0b4",
+    "kr.topic.2022.high.d8d10fabc10dfa5fd7d0",
+    "kr.topic.2022.high.f9aea6254a9509a738ad"
    ]
   },
   {
@@ -250,6 +868,51 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.2b3f0e4ed055bbd388",
+   "titleKorean": "니트 의류 생산 — 위편직 의류 편직",
+   "subjectKorean": "니트 의류 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "위편직 의류 편직",
+   "summary": "니트 의류 생산의 위편직 의류 편직 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.01bb6b375ace054d0d27",
+    "kr.topic.2022.high.1985eeac5e722286e9b4",
+    "kr.topic.2022.high.466ce1ad06775748e538",
+    "kr.topic.2022.high.4e2ddc32dfbccc674d07",
+    "kr.topic.2022.high.54c622bf4e7bd80609db",
+    "kr.topic.2022.high.9d6813bad49dfc6ff50f",
+    "kr.topic.2022.high.c5671b5664dbedc49ace",
+    "kr.topic.2022.high.caee6128d62fb4737582",
+    "kr.topic.2022.high.e12830b0f9d21d4ad3b9",
+    "kr.topic.2022.high.ebf85989e339458ab698",
+    "kr.topic.2022.high.ec7a604b9548472c12e3"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2e2a0c32872ce7e446",
+   "titleKorean": "서양 의복 구성과 생산 — 제직 의류 재단 후작업",
+   "subjectKorean": "서양 의복 구성과 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "제직 의류 재단 후작업",
+   "summary": "서양 의복 구성과 생산의 제직 의류 재단 후작업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.14226c15a3318690867a",
+    "kr.topic.2022.high.57e2efd1260ca651566d",
+    "kr.topic.2022.high.5e92e8702a0feadb3f61",
+    "kr.topic.2022.high.603da0025f872a41cc56",
+    "kr.topic.2022.high.6994858430bcfd2757ab",
+    "kr.topic.2022.high.7b0b1a90aa22fcb40b32",
+    "kr.topic.2022.high.87949155b071229bca1b",
+    "kr.topic.2022.high.ca4fd5bb659a65170d50",
+    "kr.topic.2022.high.d43a4ce21f13a8d1a9bb",
+    "kr.topic.2022.high.d4fc39c2c0966a397f7b"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.2f5b0749bcc290ebde",
    "titleKorean": "섬유 공정 — 제직",
    "subjectKorean": "섬유 공정",
@@ -263,6 +926,54 @@
     "kr.topic.2022.high.343db48d3d1f94b6cac8",
     "kr.topic.2022.high.6ad54cba7ec30b073d59",
     "kr.topic.2022.high.b3e7bd0f33d76bc0f821"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.308f85199f8fe616ff",
+   "titleKorean": "패턴 메이킹 — 봉제 사양서 작성",
+   "subjectKorean": "패턴 메이킹",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "봉제 사양서 작성",
+   "summary": "패턴 메이킹의 봉제 사양서 작성 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.0c7627e39bca067bdd3c",
+    "kr.topic.2022.high.359db93f9b2232744463",
+    "kr.topic.2022.high.36f740fe4750e2cec1ba",
+    "kr.topic.2022.high.4ae835a8044b897dc0a5",
+    "kr.topic.2022.high.5b166408d6d08e68a88c",
+    "kr.topic.2022.high.850c2d6965c422280972",
+    "kr.topic.2022.high.9adadb9016c47b300f17",
+    "kr.topic.2022.high.ac65a931526c0a32822f",
+    "kr.topic.2022.high.b209e839fc8d765f6903",
+    "kr.topic.2022.high.cbbc47a8bfa1bb7762b5",
+    "kr.topic.2022.high.df6ba77e4039ac13e706",
+    "kr.topic.2022.high.e04e4a6218eaa374ef10",
+    "kr.topic.2022.high.f6ef206be3942bfdc616"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.36d5bd5decd878213f",
+   "titleKorean": "텍스타일 디자인 — 텍스타일 패브릭 디자인 직물 설계",
+   "subjectKorean": "텍스타일 디자인",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "텍스타일 패브릭 디자인 직물 설계",
+   "summary": "텍스타일 디자인의 텍스타일 패브릭 디자인 직물 설계 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.69743b61d23d33fba8d9",
+    "kr.topic.2022.high.6f1fc0b154ecf9d1d8b5",
+    "kr.topic.2022.high.7c496cc9cb2f4d60b234",
+    "kr.topic.2022.high.8b01e9e24a6fe67af9e2",
+    "kr.topic.2022.high.8deff799618eec868ab1",
+    "kr.topic.2022.high.a40a5c2047db8fb1f7cd",
+    "kr.topic.2022.high.bca813edbaaf2c7833fc",
+    "kr.topic.2022.high.d9fb9798a97b22170e7d",
+    "kr.topic.2022.high.ee5b2e2fb96636f60adc",
+    "kr.topic.2022.high.f286b853bb7faecdb4f0",
+    "kr.topic.2022.high.f4cc3c0a1226d61f4b18"
    ]
   },
   {
@@ -289,6 +1000,151 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.37326063aacca064da",
+   "titleKorean": "패션 상품 유통 관리 — 의류 온라인 유통 관리",
+   "subjectKorean": "패션 상품 유통 관리",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "의류 온라인 유통 관리",
+   "summary": "패션 상품 유통 관리의 의류 온라인 유통 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 15,
+   "topics": [
+    "kr.topic.2022.high.0e4d2782df37a5d89c70",
+    "kr.topic.2022.high.1b624adf7bfe86301bb2",
+    "kr.topic.2022.high.1fb944fdc362848d4ac1",
+    "kr.topic.2022.high.338bdf0863515def43a5",
+    "kr.topic.2022.high.5b6b3f806aaa8a3655a8",
+    "kr.topic.2022.high.6b6e06f4839384c7ea1d",
+    "kr.topic.2022.high.75c7f90e786aa1243f43",
+    "kr.topic.2022.high.7b8ae2ff6dd6e7c4e9bf",
+    "kr.topic.2022.high.8096fca9944b648d5e1c",
+    "kr.topic.2022.high.b663e80eed42b7e70798",
+    "kr.topic.2022.high.cf566b8c2222228d833f",
+    "kr.topic.2022.high.cf70c82b090503154849",
+    "kr.topic.2022.high.d4d056ac06783ab00324",
+    "kr.topic.2022.high.db5c8f2c04f684464dba",
+    "kr.topic.2022.high.faf137567b17e270da7d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.39388a0ae964ebbbf1",
+   "titleKorean": "염색･가공 — 영역 04",
+   "subjectKorean": "염색･가공",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 04",
+   "summary": "염색･가공의 영역 04 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 18,
+   "topics": [
+    "kr.topic.2022.high.08bced7d8507aab29936",
+    "kr.topic.2022.high.0be093744f6098281b7d",
+    "kr.topic.2022.high.19b19a0d4fc167bd2d5c",
+    "kr.topic.2022.high.2181ef52cbddc5fd113e",
+    "kr.topic.2022.high.2422eddc2fc902f0cbca",
+    "kr.topic.2022.high.24adbb2318872b290415",
+    "kr.topic.2022.high.329dc63a5982a8ce1b58",
+    "kr.topic.2022.high.415cbbdbb054a0d06747",
+    "kr.topic.2022.high.43e945064724a027d3d2",
+    "kr.topic.2022.high.6aec7cf89b40aae233b1",
+    "kr.topic.2022.high.6af30d99e40a3f4a8445",
+    "kr.topic.2022.high.78be78c665b4a5dece7d",
+    "kr.topic.2022.high.85bfb1bc0b5bc294aad6",
+    "kr.topic.2022.high.9b8ffcf227370643c394",
+    "kr.topic.2022.high.a8c207a7594cf6175fa9",
+    "kr.topic.2022.high.dd2bde8aaac261375d25",
+    "kr.topic.2022.high.df83ec4a6702980cfcd4",
+    "kr.topic.2022.high.f16fb6bb405fd417c7e5"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3a1e5c1318c29a9795",
+   "titleKorean": "방적·방사 — 방사 압출",
+   "subjectKorean": "방적·방사",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "방사 압출",
+   "summary": "방적·방사의 방사 압출 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.02d8e97b75c5c742f333",
+    "kr.topic.2022.high.047899586940fd56e767",
+    "kr.topic.2022.high.12f8eed1c30eb4ed4dde",
+    "kr.topic.2022.high.1bd2a23138d35d57840a",
+    "kr.topic.2022.high.25109842ec61f1135326",
+    "kr.topic.2022.high.3b1b7c8a174eb7a8c834",
+    "kr.topic.2022.high.5c01cd59fda19b774940",
+    "kr.topic.2022.high.6504ad67ac3b6d3bdff4",
+    "kr.topic.2022.high.651e10d6969a1ae10204",
+    "kr.topic.2022.high.7183c85c39aac6d9ea9c",
+    "kr.topic.2022.high.9e517ed664451e876dfc",
+    "kr.topic.2022.high.a2cfe6c9e49b366c0d8b",
+    "kr.topic.2022.high.d6c422bcab63ff04a527"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3bef2426c5d008c3c6",
+   "titleKorean": "서양 의복 구성과 생산 — 제직 의류 원부자재 검수",
+   "subjectKorean": "서양 의복 구성과 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "제직 의류 원부자재 검수",
+   "summary": "서양 의복 구성과 생산의 제직 의류 원부자재 검수 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.07efdca0b05c6b4ab170",
+    "kr.topic.2022.high.0e1aaf8cb23dce353c93",
+    "kr.topic.2022.high.2e052009bae7431344e5",
+    "kr.topic.2022.high.3d4c9b57181edfcc2344",
+    "kr.topic.2022.high.73bf4f6a8e213cd3241d",
+    "kr.topic.2022.high.b658cb904ade8470851c",
+    "kr.topic.2022.high.b7e4b270cfd421789ccb",
+    "kr.topic.2022.high.ca62d4afa3ceaac73ec8",
+    "kr.topic.2022.high.e020808d9b548fe55540",
+    "kr.topic.2022.high.f526d6b8b4d2ba874eca",
+    "kr.topic.2022.high.f52a5e16fdb774167c29",
+    "kr.topic.2022.high.fc7c455e1d7b592e48ff",
+    "kr.topic.2022.high.fd17efb18f4f0a72e07e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3bf27d87093c5f469a",
+   "titleKorean": "패션 상품 유통 관리 — 영역 03",
+   "subjectKorean": "패션 상품 유통 관리",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 03",
+   "summary": "패션 상품 유통 관리의 영역 03 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.04dee0f8330394c83814",
+    "kr.topic.2022.high.6d92700e7d4bf9b31b6f",
+    "kr.topic.2022.high.c68f40f0b0d8834bab3d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3d2763c5eff34cd3e5",
+   "titleKorean": "염색･가공 — 날염 디자인 준비",
+   "subjectKorean": "염색･가공",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "날염 디자인 준비",
+   "summary": "염색･가공의 날염 디자인 준비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.0cf127b3ff42b63f9336",
+    "kr.topic.2022.high.16fe3ad318a9193d06aa",
+    "kr.topic.2022.high.29020bf5aba941ac715b",
+    "kr.topic.2022.high.365424cc95c356ef8bad",
+    "kr.topic.2022.high.6e7ec6828511aa4b6907",
+    "kr.topic.2022.high.78bf01aeb3dfce0a1ca0",
+    "kr.topic.2022.high.7d5c48693a18804a0ed4",
+    "kr.topic.2022.high.82906dfe8a1e0ead9a01",
+    "kr.topic.2022.high.abe54e64b5fb70f8123d",
+    "kr.topic.2022.high.c69f2b36693d609a6027",
+    "kr.topic.2022.high.f18894c845db055a1886"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.3eb706aa4bf9e23e2f",
    "titleKorean": "편물 — 횡편물",
    "subjectKorean": "편물",
@@ -305,6 +1161,192 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.3fc258b207051b7dba",
+   "titleKorean": "서양 의복 구성과 생산 — 영역 05",
+   "subjectKorean": "서양 의복 구성과 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "서양 의복 구성과 생산의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.81ae4547ec6c4c8371c4",
+    "kr.topic.2022.high.d376e245b008e11784b5",
+    "kr.topic.2022.high.ecdcf687214e4ed0b49a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.40b1ecf9b064557409",
+   "titleKorean": "패턴 메이킹 — 남성복 샘플 패턴 제작",
+   "subjectKorean": "패턴 메이킹",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "남성복 샘플 패턴 제작",
+   "summary": "패턴 메이킹의 남성복 샘플 패턴 제작 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.345a07683dddaf62e239",
+    "kr.topic.2022.high.3c4d1029933ebdc1b94a",
+    "kr.topic.2022.high.489250e7c647ec35137e",
+    "kr.topic.2022.high.4a9e2c5bba39a1a9c16d",
+    "kr.topic.2022.high.4e9f789ae2a53a3a5801",
+    "kr.topic.2022.high.582c502edd3c9f410f14",
+    "kr.topic.2022.high.6739b55d1380e2373ce2",
+    "kr.topic.2022.high.835ed2ecf24113defe33",
+    "kr.topic.2022.high.8ab392a3cd2f9644dab1",
+    "kr.topic.2022.high.c7fb1acbecdac14fe74d",
+    "kr.topic.2022.high.d16f79a83e61bff46576",
+    "kr.topic.2022.high.d520d8bfdd926ee77772",
+    "kr.topic.2022.high.dbe8f1f7377fa080d4f2"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4260b60dc49c6c3ccb",
+   "titleKorean": "방적·방사 — 사가공 운전",
+   "subjectKorean": "방적·방사",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "사가공 운전",
+   "summary": "방적·방사의 사가공 운전 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 20,
+   "topics": [
+    "kr.topic.2022.high.1a93fbcb85e657b686d6",
+    "kr.topic.2022.high.2cca1a182d5baa002667",
+    "kr.topic.2022.high.2fe13e6442b10ee57a97",
+    "kr.topic.2022.high.337d42ae48d7c60cfc51",
+    "kr.topic.2022.high.402b056ce79f17fd0e9e",
+    "kr.topic.2022.high.413cccd15316f93d8e89",
+    "kr.topic.2022.high.4209dc16605c6503c763",
+    "kr.topic.2022.high.450880e2e44ba8cf6dac",
+    "kr.topic.2022.high.517dd541b87fbc4bab5c",
+    "kr.topic.2022.high.5307ea49e5639f612324",
+    "kr.topic.2022.high.547747dc0590e3883909",
+    "kr.topic.2022.high.7720fff625b51f047430",
+    "kr.topic.2022.high.80b8e45648de86e1007f",
+    "kr.topic.2022.high.80c77b86248d718197c3",
+    "kr.topic.2022.high.821cc7037fbe7ea0d361",
+    "kr.topic.2022.high.9d2a9103643635169a22",
+    "kr.topic.2022.high.a8994ca92b0324e15eec",
+    "kr.topic.2022.high.c955f61a82048c114957",
+    "kr.topic.2022.high.cebeb82df976f647c930",
+    "kr.topic.2022.high.d7b89bc7d4875f1d820e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.43194a4d20abb9af1d",
+   "titleKorean": "니트 의류 생산 — 편직 의류 품질 검사",
+   "subjectKorean": "니트 의류 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "편직 의류 품질 검사",
+   "summary": "니트 의류 생산의 편직 의류 품질 검사 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.11ffa36cbaf8a9e9ca78",
+    "kr.topic.2022.high.1a79d731486800f2a590",
+    "kr.topic.2022.high.20d7aa1e12e69828d411",
+    "kr.topic.2022.high.7f922c867bae91bc863c",
+    "kr.topic.2022.high.a088234af21fd7e8d6c5",
+    "kr.topic.2022.high.a347cd85badc69c58702",
+    "kr.topic.2022.high.adedde8d925dc73877ac",
+    "kr.topic.2022.high.bc7ab23fc633ce526531",
+    "kr.topic.2022.high.c801e6675d74eebf050c",
+    "kr.topic.2022.high.d55d1e3f951e430b92b9",
+    "kr.topic.2022.high.fb05845d6c66ae39bde9",
+    "kr.topic.2022.high.ff622fc279cef3302d6e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.446915e87cd3980e6a",
+   "titleKorean": "패션 소품 디자인과 생산 — 패션 소품 스마트 생산 관리",
+   "subjectKorean": "패션 소품 디자인과 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "패션 소품 스마트 생산 관리",
+   "summary": "패션 소품 디자인과 생산의 패션 소품 스마트 생산 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 14,
+   "topics": [
+    "kr.topic.2022.high.06ac801533f176b0ffe4",
+    "kr.topic.2022.high.2c27a6233938fceb5760",
+    "kr.topic.2022.high.5a3947ba2319ca46c7c4",
+    "kr.topic.2022.high.6b00d798d74c37aa24b0",
+    "kr.topic.2022.high.84d17a8e7f1cf2f45463",
+    "kr.topic.2022.high.91ea197aa11ad1c69105",
+    "kr.topic.2022.high.aaef5b892b8a1aebf939",
+    "kr.topic.2022.high.b009f9ceb31ade545865",
+    "kr.topic.2022.high.bf63c62e4a77f15a0f3b",
+    "kr.topic.2022.high.c98938448a62afea2efc",
+    "kr.topic.2022.high.dd7aa89e546254a46670",
+    "kr.topic.2022.high.df7c76cd4ac980113864",
+    "kr.topic.2022.high.eeb12801d5f7d80cb1d8",
+    "kr.topic.2022.high.efa69f9ef03d41dd3739"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.45048946560b9b8239",
+   "titleKorean": "방적·방사 — 영역 07",
+   "subjectKorean": "방적·방사",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 07",
+   "summary": "방적·방사의 영역 07 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.0484146eed645b200251",
+    "kr.topic.2022.high.068fe7f448d1faf839c7",
+    "kr.topic.2022.high.26cadae8af94836c2265",
+    "kr.topic.2022.high.387ec75eba46a609a883"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4804f2c74684433da5",
+   "titleKorean": "패션 소품 디자인과 생산 — 패션 소품 완제품 검사",
+   "subjectKorean": "패션 소품 디자인과 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "패션 소품 완제품 검사",
+   "summary": "패션 소품 디자인과 생산의 패션 소품 완제품 검사 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 15,
+   "topics": [
+    "kr.topic.2022.high.03338734dfc16a3ff281",
+    "kr.topic.2022.high.0cf2a6034d1227587a32",
+    "kr.topic.2022.high.1330ddfaf115b7f86705",
+    "kr.topic.2022.high.18fb4b47071fd3a7754a",
+    "kr.topic.2022.high.533e9209040eb2800e10",
+    "kr.topic.2022.high.5c8dabd62ff1e7626bf9",
+    "kr.topic.2022.high.5dd8fc386e1f92ca9e66",
+    "kr.topic.2022.high.986db20048e13f4df41d",
+    "kr.topic.2022.high.a5b03e96b36f366709ea",
+    "kr.topic.2022.high.a75fa750fb09212bec7c",
+    "kr.topic.2022.high.b3c1ddbc1e1aecef6df6",
+    "kr.topic.2022.high.b83d41e0d51f5c0d35ca",
+    "kr.topic.2022.high.d8a7812c41d498d1218e",
+    "kr.topic.2022.high.e6adf208f2de244f2cb1",
+    "kr.topic.2022.high.fd22e7eaf01a6ef75a9a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4971dbcb6971109edb",
+   "titleKorean": "한국 의복 구성과 생산 — 한복 디자인 기획",
+   "subjectKorean": "한국 의복 구성과 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "한복 디자인 기획",
+   "summary": "한국 의복 구성과 생산의 한복 디자인 기획 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.1ed5ea52f86c62acc67b",
+    "kr.topic.2022.high.1f67f3ac63cc249c5642",
+    "kr.topic.2022.high.2c47df320622c4132954",
+    "kr.topic.2022.high.389cc924b1ae6f310b5b",
+    "kr.topic.2022.high.3ee26a6ef9da1ac2d204",
+    "kr.topic.2022.high.88567ea31fecafea87d2",
+    "kr.topic.2022.high.a749f2f8d91feedc404a",
+    "kr.topic.2022.high.e8d4f262985a4deada11",
+    "kr.topic.2022.high.fe51090620b8daab3a6e"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.4f61850a773f0a81ae",
    "titleKorean": "편물 — 영역 03",
    "subjectKorean": "편물",
@@ -317,6 +1359,164 @@
     "kr.topic.2022.high.179582033df6535b33f3",
     "kr.topic.2022.high.5a52e6e8fca07d750979",
     "kr.topic.2022.high.e6f0384cae2097a11188"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4f6830446dcfde52f6",
+   "titleKorean": "제포 — 위편성 작업 준비",
+   "subjectKorean": "제포",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "위편성 작업 준비",
+   "summary": "제포의 위편성 작업 준비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.0079d73fcbbcfdc9a7ea",
+    "kr.topic.2022.high.06b0bd75e0792efa2927",
+    "kr.topic.2022.high.1aefe95f1af79c03c8bb",
+    "kr.topic.2022.high.3c394cb2ddb05e6226c5",
+    "kr.topic.2022.high.57ce22bf65ea57bafb26",
+    "kr.topic.2022.high.7e301e32de5310e2a5bc",
+    "kr.topic.2022.high.975d1e1eae24541a85e6",
+    "kr.topic.2022.high.c9f102f490a816181a6b",
+    "kr.topic.2022.high.d6c46e38cca2bf3d8bb6",
+    "kr.topic.2022.high.e9fa54264de2026746bb"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.50f47ffde8a1ce9e48",
+   "titleKorean": "염색･가공 — 염색･가공 전처리 준비",
+   "subjectKorean": "염색･가공",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "염색･가공 전처리 준비",
+   "summary": "염색･가공의 염색･가공 전처리 준비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.27e8d49ee4e4ee0870c7",
+    "kr.topic.2022.high.4cacf84d152ccb7e2da2",
+    "kr.topic.2022.high.5cb2e86e4e4f0d12053a",
+    "kr.topic.2022.high.6149608dc8bd0eb222ed",
+    "kr.topic.2022.high.8259dca3a9606c45ba26",
+    "kr.topic.2022.high.9dbf41fe8dd9f571005e",
+    "kr.topic.2022.high.aa00e717cbd7b5f93ddf",
+    "kr.topic.2022.high.b384f782d8036c3fd529",
+    "kr.topic.2022.high.b41526c84647124a25d3",
+    "kr.topic.2022.high.d28bba521d7ddaf490a4",
+    "kr.topic.2022.high.dbf1a7cff74dbf500878",
+    "kr.topic.2022.high.eeccaf24e981d9d4e7ae"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.568f70b2112d3054db",
+   "titleKorean": "염색･가공 — 염색･가공 시험 평가",
+   "subjectKorean": "염색･가공",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "염색･가공 시험 평가",
+   "summary": "염색･가공의 염색･가공 시험 평가 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.268810e8b64a216480d2",
+    "kr.topic.2022.high.4ff3cac5142ec2fa796d",
+    "kr.topic.2022.high.548d0a0e51b493b0d634",
+    "kr.topic.2022.high.5cd5cbfa393cefd4756d",
+    "kr.topic.2022.high.6a7e3fa3856d01ca4b86",
+    "kr.topic.2022.high.7b10996a8e25cb9243db",
+    "kr.topic.2022.high.8e41563d4570341d7370",
+    "kr.topic.2022.high.a7c945bc1f13803015a0",
+    "kr.topic.2022.high.b089444cf8978398d63c",
+    "kr.topic.2022.high.c490c4b2725941f4c299",
+    "kr.topic.2022.high.d58dfbbacfdc2026c493",
+    "kr.topic.2022.high.f5db0cd31aa862843828",
+    "kr.topic.2022.high.f792ef8ad2597fc19451"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5691d7a83859f4ec3c",
+   "titleKorean": "서양 의복 구성과 생산 — 제직 의류 합복 봉제",
+   "subjectKorean": "서양 의복 구성과 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "제직 의류 합복 봉제",
+   "summary": "서양 의복 구성과 생산의 제직 의류 합복 봉제 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.3daf46ec6a27fc7afff7",
+    "kr.topic.2022.high.4b868586a09f7b982f44",
+    "kr.topic.2022.high.646e472ba487d052fecc",
+    "kr.topic.2022.high.76dd04d70f52bdd56ac7",
+    "kr.topic.2022.high.78b8f147d300b4355917",
+    "kr.topic.2022.high.94a34a9282a8c3b04a5b",
+    "kr.topic.2022.high.9766a74c540f151b5144",
+    "kr.topic.2022.high.bd0beb8492e1f8dd0718",
+    "kr.topic.2022.high.e9a350e8575839a4cb89",
+    "kr.topic.2022.high.fa7971ef7aef8cefcde7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.57203f68f22acc998e",
+   "titleKorean": "패션 소품 디자인과 생산 — 패션 소품 양산 패턴 제작",
+   "subjectKorean": "패션 소품 디자인과 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "패션 소품 양산 패턴 제작",
+   "summary": "패션 소품 디자인과 생산의 패션 소품 양산 패턴 제작 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.2d5f3a4d450631fdead8",
+    "kr.topic.2022.high.4d4f5de2734bb95f33a3",
+    "kr.topic.2022.high.583af6306c196414ab29",
+    "kr.topic.2022.high.7573a4cb08fe7128eb81",
+    "kr.topic.2022.high.9d6f0e464663dc2aa549",
+    "kr.topic.2022.high.a9fc28fecb7de08dde5b",
+    "kr.topic.2022.high.b595c09a300c7c342b5d",
+    "kr.topic.2022.high.befc8679effa05ebd66d",
+    "kr.topic.2022.high.c51e01d45a8c387a5b14",
+    "kr.topic.2022.high.d85513ec313f2b410483",
+    "kr.topic.2022.high.d99aa037d804bd04290f",
+    "kr.topic.2022.high.dae9235ea64f2b79eb56",
+    "kr.topic.2022.high.e3ef73b906eb27d0312d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.582efb8b07be3976af",
+   "titleKorean": "방적·방사 — 영역 06",
+   "subjectKorean": "방적·방사",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 06",
+   "summary": "방적·방사의 영역 06 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.0ecfc5121c4215533c51",
+    "kr.topic.2022.high.be793e6f00072329a2ff",
+    "kr.topic.2022.high.f6848cbfbe93ae251995"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.58868e05884b289477",
+   "titleKorean": "한국 의복 구성과 생산 — 한복 마름질",
+   "subjectKorean": "한국 의복 구성과 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "한복 마름질",
+   "summary": "한국 의복 구성과 생산의 한복 마름질 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.00afdd9f92bb8aefb903",
+    "kr.topic.2022.high.3656e8d6d501b49a9a91",
+    "kr.topic.2022.high.48baf516fa0889fbca9b",
+    "kr.topic.2022.high.681408af616028704766",
+    "kr.topic.2022.high.70133b7831db580f4911",
+    "kr.topic.2022.high.7662f8e27679807732ce",
+    "kr.topic.2022.high.97e8928f8b9518da652e",
+    "kr.topic.2022.high.aca98681724b3ab59a75",
+    "kr.topic.2022.high.cf26980081b233607178",
+    "kr.topic.2022.high.d1f177ce0f41034253f4",
+    "kr.topic.2022.high.f0bc7a11e8efd85e3163",
+    "kr.topic.2022.high.f31f744322fb29154abb",
+    "kr.topic.2022.high.f3262796c5467924f811"
    ]
   },
   {
@@ -337,6 +1537,30 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.5d789c5da0e914157d",
+   "titleKorean": "패션 디자인의 실제 — 패션 디자인 개발",
+   "subjectKorean": "패션 디자인의 실제",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "패션 디자인 개발",
+   "summary": "패션 디자인의 실제의 패션 디자인 개발 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.0056a94eb7990260542b",
+    "kr.topic.2022.high.3b5e2b5a8a1ef990d02a",
+    "kr.topic.2022.high.4564e302a9ee9ede1bd7",
+    "kr.topic.2022.high.4a66110bb5698c2fb17a",
+    "kr.topic.2022.high.64f226e056d37a1f8ab0",
+    "kr.topic.2022.high.876b40869536d581da53",
+    "kr.topic.2022.high.8e41b5f510cb8e0f64db",
+    "kr.topic.2022.high.95d020b703c7c2a64c91",
+    "kr.topic.2022.high.ab0bf28d5958f4a86760",
+    "kr.topic.2022.high.ae6b44938eb597928812",
+    "kr.topic.2022.high.cebaaacc19d881fe2af4",
+    "kr.topic.2022.high.f70aff389e4130b99e3b"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.5d9cd50029aa68bccb",
    "titleKorean": "섬유 공정 — 방사",
    "subjectKorean": "섬유 공정",
@@ -351,6 +1575,32 @@
     "kr.topic.2022.high.57bde1820a4a1c81c74f",
     "kr.topic.2022.high.db2fc77aae01b4b8f3bf",
     "kr.topic.2022.high.e27e8cd571757a9ef0f4"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.602257f8ef515485c4",
+   "titleKorean": "제포 — 제직 권사",
+   "subjectKorean": "제포",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "제직 권사",
+   "summary": "제포의 제직 권사 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 14,
+   "topics": [
+    "kr.topic.2022.high.362693cf9cee4ab634dd",
+    "kr.topic.2022.high.3e3e67a27712238969ca",
+    "kr.topic.2022.high.7088a78925b26a7e1aa5",
+    "kr.topic.2022.high.722b7ba32e5a3bf248d9",
+    "kr.topic.2022.high.762f217c6e2d045a0c69",
+    "kr.topic.2022.high.865bb51da75d4f93d368",
+    "kr.topic.2022.high.93e0b90b5802de97f48a",
+    "kr.topic.2022.high.9b5ee1176dade37a61d9",
+    "kr.topic.2022.high.a778d62ab8c04f9e2cb2",
+    "kr.topic.2022.high.b244dfdcf14ed04c3684",
+    "kr.topic.2022.high.c1c881bf843c39876a3e",
+    "kr.topic.2022.high.c5e1f9872fa65dfd077f",
+    "kr.topic.2022.high.db056b48ecde65cacfc5",
+    "kr.topic.2022.high.e729218bd6f3fb040028"
    ]
   },
   {
@@ -370,6 +1620,46 @@
     "kr.topic.2022.high.d3084e5de928bf8f0d53",
     "kr.topic.2022.high.e49b02428edb6fc6e36e",
     "kr.topic.2022.high.fe6efcbeb5ee8bc58b75"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.614df4a498238d7552",
+   "titleKorean": "염색･가공 — 날염 작업",
+   "subjectKorean": "염색･가공",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "날염 작업",
+   "summary": "염색･가공의 날염 작업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 15,
+   "topics": [
+    "kr.topic.2022.high.21fe2ec9f7c1b84f81e0",
+    "kr.topic.2022.high.35056aab97ff8f311e10",
+    "kr.topic.2022.high.3b1f3e07f581c2c123f3",
+    "kr.topic.2022.high.45c4a500a3b4196f0522",
+    "kr.topic.2022.high.4a8736124a5c861aacf9",
+    "kr.topic.2022.high.581206e8fe90ee8f8e39",
+    "kr.topic.2022.high.67ec83ad9cbf59198664",
+    "kr.topic.2022.high.6a4e46e123d049875105",
+    "kr.topic.2022.high.6a80c52d73e3ce0b2b0f",
+    "kr.topic.2022.high.7f38f4dde5f13e12d533",
+    "kr.topic.2022.high.8e720c6b7ac3d16b24ba",
+    "kr.topic.2022.high.98f596b22cbc16de3475",
+    "kr.topic.2022.high.a2b1dda51aa17608f7e4",
+    "kr.topic.2022.high.e5e69b6c8e791da8f3ea",
+    "kr.topic.2022.high.ff12278972c84e823025"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6447c9b849787bb1b8",
+   "titleKorean": "텍스타일 디자인 — 영역 02",
+   "subjectKorean": "텍스타일 디자인",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 02",
+   "summary": "텍스타일 디자인의 영역 02 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 1,
+   "topics": [
+    "kr.topic.2022.high.d86594430c7ed75e7bce"
    ]
   },
   {
@@ -434,6 +1724,128 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.669dc11561a751cac0",
+   "titleKorean": "비주얼 머천다이징 — 패션 상품 전개",
+   "subjectKorean": "비주얼 머천다이징",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "패션 상품 전개",
+   "summary": "비주얼 머천다이징의 패션 상품 전개 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 16,
+   "topics": [
+    "kr.topic.2022.high.04747810d022e5813ebb",
+    "kr.topic.2022.high.0c540cf1223e67bd27f5",
+    "kr.topic.2022.high.1b6b5eb136ef9b7e6019",
+    "kr.topic.2022.high.1c7e4ba93d590e162bde",
+    "kr.topic.2022.high.242e76527d88113c491c",
+    "kr.topic.2022.high.24b86cfe43035928a596",
+    "kr.topic.2022.high.47bb84ed547cd179009f",
+    "kr.topic.2022.high.4e6b2bc2224fb9e0608f",
+    "kr.topic.2022.high.7390b74597a6e5223163",
+    "kr.topic.2022.high.75e05ad6900b74b243d8",
+    "kr.topic.2022.high.7bef9cd4ad3dffe24d1c",
+    "kr.topic.2022.high.8336ccdbcb59f754c31d",
+    "kr.topic.2022.high.9e7ca5b1e5b2e6c08f4e",
+    "kr.topic.2022.high.a40e54c0eb025f7a35c5",
+    "kr.topic.2022.high.a4104a6e21d9e718113d",
+    "kr.topic.2022.high.f408a694c13e745fc640"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.66a763f2765d678e30",
+   "titleKorean": "제포 — 경편성 작업 준비",
+   "subjectKorean": "제포",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "경편성 작업 준비",
+   "summary": "제포의 경편성 작업 준비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.01725125ddda1e8a1edf",
+    "kr.topic.2022.high.264fd9978853920ee047",
+    "kr.topic.2022.high.2cad25e4617010df64a7",
+    "kr.topic.2022.high.48ba69eb04298d499593",
+    "kr.topic.2022.high.4b737711ae74e5498c4a",
+    "kr.topic.2022.high.8bd68b3a627eaa8d3212",
+    "kr.topic.2022.high.b91be17b185bfdd14290",
+    "kr.topic.2022.high.b9b977dfe7fa40410aa5",
+    "kr.topic.2022.high.da350a3e5fd7ddc71216",
+    "kr.topic.2022.high.dbebb654b210c5c91762",
+    "kr.topic.2022.high.df5c71f1212260ab0eba",
+    "kr.topic.2022.high.e8573a4cce310c930ea6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6af5def9aa6b3db0f6",
+   "titleKorean": "패션 소품 디자인과 생산 — 패션 소품 봉제",
+   "subjectKorean": "패션 소품 디자인과 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "패션 소품 봉제",
+   "summary": "패션 소품 디자인과 생산의 패션 소품 봉제 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 14,
+   "topics": [
+    "kr.topic.2022.high.0a3a9ab707adc2764573",
+    "kr.topic.2022.high.348d72273a0694419659",
+    "kr.topic.2022.high.40e0e0db0afbe0799a16",
+    "kr.topic.2022.high.48165f310886be0b5f73",
+    "kr.topic.2022.high.57a939f537c289c16ed8",
+    "kr.topic.2022.high.68b19ca7999b2921dc9d",
+    "kr.topic.2022.high.71366aa78702911b616e",
+    "kr.topic.2022.high.96e1d2219f1dc6529b73",
+    "kr.topic.2022.high.b78c19f0ccadcf6bbcb9",
+    "kr.topic.2022.high.d594c77331f79781d0c9",
+    "kr.topic.2022.high.d99d4ab47710d5c03cc0",
+    "kr.topic.2022.high.e8795caac5be238f176d",
+    "kr.topic.2022.high.edb4ba301fa982a49807",
+    "kr.topic.2022.high.fadde645892519dc9e38"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6bfc457c3f768da4c5",
+   "titleKorean": "서양 의복 구성과 생산 — 제직 의류 품질 검사",
+   "subjectKorean": "서양 의복 구성과 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "제직 의류 품질 검사",
+   "summary": "서양 의복 구성과 생산의 제직 의류 품질 검사 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.2b6112956145ce2204ec",
+    "kr.topic.2022.high.3759a5cc762a1448a0e3",
+    "kr.topic.2022.high.44d820206cf43b23c205",
+    "kr.topic.2022.high.4ed99189b5db71d2c023",
+    "kr.topic.2022.high.9938e4b45ba1c0bb96b1",
+    "kr.topic.2022.high.a9299fcd981f018100ea",
+    "kr.topic.2022.high.abc1b968235baf160fc7",
+    "kr.topic.2022.high.bccfc046503986b0bcad",
+    "kr.topic.2022.high.e4b8aa5c212b184ea4ff"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6ff219e6966bcbee27",
+   "titleKorean": "니트 의류 생산 — 편직 의류 후가공 전처리",
+   "subjectKorean": "니트 의류 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "편직 의류 후가공 전처리",
+   "summary": "니트 의류 생산의 편직 의류 후가공 전처리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.15b2105b44469013ff46",
+    "kr.topic.2022.high.18c6483121e1e15001e2",
+    "kr.topic.2022.high.1a67af36c231a6115088",
+    "kr.topic.2022.high.2377c93bf422fa74107e",
+    "kr.topic.2022.high.2f266989b66bbcdc0343",
+    "kr.topic.2022.high.5b0918b58c61301705d8",
+    "kr.topic.2022.high.64507808e39507d814e9",
+    "kr.topic.2022.high.817515552326d4a02db6",
+    "kr.topic.2022.high.95cfa370200d4d778b63",
+    "kr.topic.2022.high.97f6a3c1dc0fe67d2e7b",
+    "kr.topic.2022.high.ec2b90a8d89559f56531"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.7206fd7473d05b6a3f",
    "titleKorean": "섬유 공정 — 사가공",
    "subjectKorean": "섬유 공정",
@@ -449,6 +1861,29 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.7292e3b8083288d98d",
+   "titleKorean": "패션 디자인의 실제 — 패션 디자인 자료 수집",
+   "subjectKorean": "패션 디자인의 실제",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "패션 디자인 자료 수집",
+   "summary": "패션 디자인의 실제의 패션 디자인 자료 수집 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.027428b92a5b07089ce2",
+    "kr.topic.2022.high.0350b509e74f05c25f2c",
+    "kr.topic.2022.high.0bc98b2ed7de29f7ed8d",
+    "kr.topic.2022.high.21261c90d49172e2571b",
+    "kr.topic.2022.high.3673090c9df94550eeef",
+    "kr.topic.2022.high.7c38e8a653bda6bdc75d",
+    "kr.topic.2022.high.909efc643d4bdada25af",
+    "kr.topic.2022.high.a402aabac82efbefe989",
+    "kr.topic.2022.high.b2882479ac14d412038c",
+    "kr.topic.2022.high.bfe0433e680eafd85c57",
+    "kr.topic.2022.high.e78c2ab74ace82b222cb"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.7304f304d42fed6544",
    "titleKorean": "섬유 재료 — 천연 섬유",
    "subjectKorean": "섬유 재료",
@@ -460,6 +1895,51 @@
    "topics": [
     "kr.topic.2022.high.23debd6bb400b85e2077",
     "kr.topic.2022.high.39b4fcaf869e94edf995"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.735159ae3df52555f8",
+   "titleKorean": "제포 — 경편 준비",
+   "subjectKorean": "제포",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "경편 준비",
+   "summary": "제포의 경편 준비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.106865bb659804f1c9a3",
+    "kr.topic.2022.high.1f5e77c4e3141e79c1ed",
+    "kr.topic.2022.high.5909238c060e408a26af",
+    "kr.topic.2022.high.5df773db1113dd7eed7d",
+    "kr.topic.2022.high.8781c8e5ee27a859457b",
+    "kr.topic.2022.high.9c15e179584c837d689f",
+    "kr.topic.2022.high.a77ce13c0fa5a04ea9db",
+    "kr.topic.2022.high.a81169562f6723deefba",
+    "kr.topic.2022.high.d7e8457ab8ea7dca259d",
+    "kr.topic.2022.high.dc40ac8accd714db23ac",
+    "kr.topic.2022.high.e4cd0df9e615e8248616",
+    "kr.topic.2022.high.fdb22e69bf8974454149"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7546af4a2b99293685",
+   "titleKorean": "서양 의복 구성과 생산 — 제직 의류 생산 의뢰서 분석",
+   "subjectKorean": "서양 의복 구성과 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "제직 의류 생산 의뢰서 분석",
+   "summary": "서양 의복 구성과 생산의 제직 의류 생산 의뢰서 분석 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.48840288a54f3964d41a",
+    "kr.topic.2022.high.53f453c6ca077556e9a9",
+    "kr.topic.2022.high.7960e935cb4af01e45a2",
+    "kr.topic.2022.high.9478c25da7ea9e92fc70",
+    "kr.topic.2022.high.9e518c7509f0417b7f1a",
+    "kr.topic.2022.high.a24b8dc1a38bc078c32d",
+    "kr.topic.2022.high.cd120cca0805ed0c3cc0",
+    "kr.topic.2022.high.d49c3ab21afb1b223510",
+    "kr.topic.2022.high.eafd08ddcf472fcadbf8"
    ]
   },
   {
@@ -479,6 +1959,29 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.79b0738d558a0ed310",
+   "titleKorean": "한국 의복 구성과 생산 — 한복 작업 공정 계획",
+   "subjectKorean": "한국 의복 구성과 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "한복 작업 공정 계획",
+   "summary": "한국 의복 구성과 생산의 한복 작업 공정 계획 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.25014a5716876f59de29",
+    "kr.topic.2022.high.32b916518a2d48bf4fa0",
+    "kr.topic.2022.high.b68766ac93de7663ea5a",
+    "kr.topic.2022.high.b7f8ed83fbc3407220bb",
+    "kr.topic.2022.high.b9ff204ddb9c8ca84ef5",
+    "kr.topic.2022.high.c7d12fe3ba40d7eb917b",
+    "kr.topic.2022.high.c9c6171af81a6f91d932",
+    "kr.topic.2022.high.cc874ace5afebdca2e3e",
+    "kr.topic.2022.high.d41db25b9f73e817a429",
+    "kr.topic.2022.high.e0fe4ef78fe7fa38297d",
+    "kr.topic.2022.high.e411885a42637d2a0483"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.79ffae4350e63c3335",
    "titleKorean": "섬유 공정 — 부직포",
    "subjectKorean": "섬유 공정",
@@ -491,6 +1994,49 @@
     "kr.topic.2022.high.1354e7a939aae8e2f9c0",
     "kr.topic.2022.high.2f1897dd8eba56e5e856",
     "kr.topic.2022.high.6b5494b695da4cd56644"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7beb133b7717ca2934",
+   "titleKorean": "염색･가공 — 영역 06",
+   "subjectKorean": "염색･가공",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 06",
+   "summary": "염색･가공의 영역 06 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.3ad0481be6d6c054a455",
+    "kr.topic.2022.high.93f2a522bcff31ead7ac",
+    "kr.topic.2022.high.c8c857977b198e41d45a",
+    "kr.topic.2022.high.e38151db2e3f895aaa89"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7c671374f632b89464",
+   "titleKorean": "비주얼 머천다이징 — 패션 매장 유지 관리",
+   "subjectKorean": "비주얼 머천다이징",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "패션 매장 유지 관리",
+   "summary": "비주얼 머천다이징의 패션 매장 유지 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 15,
+   "topics": [
+    "kr.topic.2022.high.039d158e9fedf3b990fe",
+    "kr.topic.2022.high.09e282d59ffda3cf3f2c",
+    "kr.topic.2022.high.4210792b70316c8c0d2f",
+    "kr.topic.2022.high.516b65e8f5540ddf2368",
+    "kr.topic.2022.high.827eb4a6fd497754eede",
+    "kr.topic.2022.high.848ae3fe3b2814974cf4",
+    "kr.topic.2022.high.84d3b80cb250d8e8153b",
+    "kr.topic.2022.high.89a0924830e80ab8cf1b",
+    "kr.topic.2022.high.8f3df7524247f6f9ab25",
+    "kr.topic.2022.high.a2ea542f61dcd0213c25",
+    "kr.topic.2022.high.b23a7a5b0f1caeee7385",
+    "kr.topic.2022.high.c78e4f029bd3cc72a977",
+    "kr.topic.2022.high.d4b30560ad78a43bc468",
+    "kr.topic.2022.high.eaba968e7161ac488dc9",
+    "kr.topic.2022.high.f885694dd5a153b2adc3"
    ]
   },
   {
@@ -513,6 +2059,27 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.7ebbeb068ecaa34706",
+   "titleKorean": "니트 의류 생산 — 편직 의류 생산 기획",
+   "subjectKorean": "니트 의류 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "편직 의류 생산 기획",
+   "summary": "니트 의류 생산의 편직 의류 생산 기획 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.01d195585f62a50b0756",
+    "kr.topic.2022.high.309ecc8d4ee7af014227",
+    "kr.topic.2022.high.354014637d49ebf02051",
+    "kr.topic.2022.high.5984be466a2083aa33e9",
+    "kr.topic.2022.high.5be11caadc799a9b3731",
+    "kr.topic.2022.high.a17a9fe43511c195c18c",
+    "kr.topic.2022.high.a40b3afd21024e438a6f",
+    "kr.topic.2022.high.f043b43fddffcb299bc0",
+    "kr.topic.2022.high.fb7d27a124d970308f89"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.8357e25234c00f60d2",
    "titleKorean": "염색·가공 기초 — 침염",
    "subjectKorean": "염색·가공 기초",
@@ -527,6 +2094,28 @@
     "kr.topic.2022.high.766417bcf42d211c1690",
     "kr.topic.2022.high.79ecb617c6266501aab8",
     "kr.topic.2022.high.b215d195d38f28b7b384"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.83dbd788e2866664b7",
+   "titleKorean": "서양 의복 구성과 생산 — 제직 의류 완성 기계 작업",
+   "subjectKorean": "서양 의복 구성과 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "제직 의류 완성 기계 작업",
+   "summary": "서양 의복 구성과 생산의 제직 의류 완성 기계 작업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.0c5e4f09efb790c18d84",
+    "kr.topic.2022.high.0e56748c52ee037a9860",
+    "kr.topic.2022.high.1c8c3832bd8bb2002fc9",
+    "kr.topic.2022.high.34671fbd9dc28971cc14",
+    "kr.topic.2022.high.4652055e27e166e2d262",
+    "kr.topic.2022.high.5e8b7a7ca12ca41baee9",
+    "kr.topic.2022.high.6b214dc3b340f6bcbdfc",
+    "kr.topic.2022.high.b8797f817e74d52d223f",
+    "kr.topic.2022.high.bc008f08b932f0eb89b4",
+    "kr.topic.2022.high.f349792e560d72604e24"
    ]
   },
   {
@@ -569,6 +2158,313 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.8bcd067592e10881d0",
+   "titleKorean": "서양 의복 구성과 생산 — 제직 의류 스마트 생산 관리",
+   "subjectKorean": "서양 의복 구성과 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "제직 의류 스마트 생산 관리",
+   "summary": "서양 의복 구성과 생산의 제직 의류 스마트 생산 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.57088ca866f113f0857e",
+    "kr.topic.2022.high.60478d2768b8ee3f33b6",
+    "kr.topic.2022.high.7498bcd85a3f46e63494",
+    "kr.topic.2022.high.91307dcbe69fbac7cfa0",
+    "kr.topic.2022.high.ab6b0c0205c444df8844",
+    "kr.topic.2022.high.c8a793c566e8f8a6c03e",
+    "kr.topic.2022.high.d35ea214a8e8c6b84250",
+    "kr.topic.2022.high.e5d82bf433af59924a5c",
+    "kr.topic.2022.high.fd61f96429f925bece57"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9090625b729aa47788",
+   "titleKorean": "염색･가공 — 날염 준비",
+   "subjectKorean": "염색･가공",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "날염 준비",
+   "summary": "염색･가공의 날염 준비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.09adadfa2047306c2058",
+    "kr.topic.2022.high.0f5fc8998ef84e36ce60",
+    "kr.topic.2022.high.14fd3b50cc2a89e37bb6",
+    "kr.topic.2022.high.1a74375e4f7c2e355910",
+    "kr.topic.2022.high.325a9eda8675ad357b83",
+    "kr.topic.2022.high.48b6de27162f6ce6d813",
+    "kr.topic.2022.high.51db517f4b3a0c51ebf1",
+    "kr.topic.2022.high.5318d410ba2a92c59fd9",
+    "kr.topic.2022.high.62e223b4757daaf94df5",
+    "kr.topic.2022.high.6ad57f78cd01028527c8",
+    "kr.topic.2022.high.780e1936d11203b288f3",
+    "kr.topic.2022.high.cb5d81db7c0522342068",
+    "kr.topic.2022.high.de5966303d72f89d8e98"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9414e0c7bff31ac00d",
+   "titleKorean": "패션 소품 디자인과 생산 — 패션 소품 원부자재 발주",
+   "subjectKorean": "패션 소품 디자인과 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "패션 소품 원부자재 발주",
+   "summary": "패션 소품 디자인과 생산의 패션 소품 원부자재 발주 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 15,
+   "topics": [
+    "kr.topic.2022.high.0f44b128da698e79d753",
+    "kr.topic.2022.high.129c7e47b03f8b53c58d",
+    "kr.topic.2022.high.1fb7df06431eb58df8de",
+    "kr.topic.2022.high.35b934b429e27d377215",
+    "kr.topic.2022.high.687f88bf4f13a78c761b",
+    "kr.topic.2022.high.6f94df579c2824db93f4",
+    "kr.topic.2022.high.78f62f8823c5c90c4373",
+    "kr.topic.2022.high.92f634c8aa541dbd74a8",
+    "kr.topic.2022.high.9e99add1e499f0b0c4e4",
+    "kr.topic.2022.high.a4e6298c608af539e1bb",
+    "kr.topic.2022.high.b7cb42af81fb18b1ba22",
+    "kr.topic.2022.high.d0be66d0e99d9d921329",
+    "kr.topic.2022.high.e7f08c981a3829aefd2e",
+    "kr.topic.2022.high.f4b000b9cb9c0879c9d9",
+    "kr.topic.2022.high.f5c70733ed0c518f735b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.967166908aaaa6801a",
+   "titleKorean": "패턴 메이킹 — 여성복 샘플 패턴 제작",
+   "subjectKorean": "패턴 메이킹",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "여성복 샘플 패턴 제작",
+   "summary": "패턴 메이킹의 여성복 샘플 패턴 제작 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.00ff586b94b5c6339494",
+    "kr.topic.2022.high.03f3a4bf8582d3306b69",
+    "kr.topic.2022.high.14711b517d1bc1e2cb21",
+    "kr.topic.2022.high.305f2893bcb03df57650",
+    "kr.topic.2022.high.42105649e3532450d3db",
+    "kr.topic.2022.high.4c8e612b3a6393079025",
+    "kr.topic.2022.high.5350d7b1334cbfb8feb5",
+    "kr.topic.2022.high.76ab500e6e38af637fc3",
+    "kr.topic.2022.high.963914df4ac751ff75f2",
+    "kr.topic.2022.high.b7c1ec5d2b0e0fec0f8e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.97ac30dc0b40043f7e",
+   "titleKorean": "염색･가공 — 가공",
+   "subjectKorean": "염색･가공",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "가공",
+   "summary": "염색･가공의 가공 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.25c25f2013023ff56130",
+    "kr.topic.2022.high.3b013b464c98e3005749",
+    "kr.topic.2022.high.7e13a6a24bd6516780fb",
+    "kr.topic.2022.high.9f76e7a6f74d346b293a",
+    "kr.topic.2022.high.a6814c313b6ddb46225b",
+    "kr.topic.2022.high.b39a03cdbcd7f167c365",
+    "kr.topic.2022.high.ba867efaa4f86670deae",
+    "kr.topic.2022.high.db019b48250ed06d9b81",
+    "kr.topic.2022.high.ddb99a97b4872811ddcd",
+    "kr.topic.2022.high.e805b60ddf67aa48f887",
+    "kr.topic.2022.high.f0cdb5eb0be3efb455f1"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9906286b7770c0d308",
+   "titleKorean": "방적·방사 — 영역 05",
+   "subjectKorean": "방적·방사",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "방적·방사의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.0743f85a421bc4907699",
+    "kr.topic.2022.high.11605f52a7848aa3d300",
+    "kr.topic.2022.high.4b9dd51f36ea248a3bbc",
+    "kr.topic.2022.high.a05decd3c13bfff57154",
+    "kr.topic.2022.high.e4ac827c1f8838c52491"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9a8b446b4aadb01343",
+   "titleKorean": "염색･가공 — 영역 05",
+   "subjectKorean": "염색･가공",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "염색･가공의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.07762c3c8e87588c00d4",
+    "kr.topic.2022.high.4b4b2986cc4726e78c8d",
+    "kr.topic.2022.high.8417b276e6757a893339",
+    "kr.topic.2022.high.995daf40f65e0b710bb4",
+    "kr.topic.2022.high.9b2728aa243225ef833c",
+    "kr.topic.2022.high.aff21976aa7df667fa0b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9d346d72eec5954b43",
+   "titleKorean": "패션 디자인의 실제 — 영역 04",
+   "subjectKorean": "패션 디자인의 실제",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 04",
+   "summary": "패션 디자인의 실제의 영역 04 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.0fd780ad724020f437a3",
+    "kr.topic.2022.high.56bc048c63efd66a16f6",
+    "kr.topic.2022.high.6036d7b775d8381f01b2",
+    "kr.topic.2022.high.659e9afad3c880134ce3",
+    "kr.topic.2022.high.7fddf7a9773a9ef17215",
+    "kr.topic.2022.high.c006784df689900887e2",
+    "kr.topic.2022.high.f05fd823d39d7f573fd9",
+    "kr.topic.2022.high.fb05784171ee1f6755af",
+    "kr.topic.2022.high.ffdacac18c0eb557689f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9d9392a9ee147abfc9",
+   "titleKorean": "패턴 메이킹 — 패션 상품 샘플 작업 지시서 분석",
+   "subjectKorean": "패턴 메이킹",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "패션 상품 샘플 작업 지시서 분석",
+   "summary": "패턴 메이킹의 패션 상품 샘플 작업 지시서 분석 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.00d86e499b4c5af6b91f",
+    "kr.topic.2022.high.28f23d84dfa6be82f889",
+    "kr.topic.2022.high.3a6b66bf3272a8255b72",
+    "kr.topic.2022.high.528e6f1758edc612f43b",
+    "kr.topic.2022.high.596d5c50f7dc7efc9e38",
+    "kr.topic.2022.high.6b9e12ef3f84fbdb9d18",
+    "kr.topic.2022.high.a17f90942f197d22fba4",
+    "kr.topic.2022.high.a65c5416959e8c01e9c0",
+    "kr.topic.2022.high.c7082ef495568cb56631",
+    "kr.topic.2022.high.d0b901f26038540b2406"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9e470df0163d57703f",
+   "titleKorean": "패션 디자인의 실제 — 패션 상품 시제품 품평",
+   "subjectKorean": "패션 디자인의 실제",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "패션 상품 시제품 품평",
+   "summary": "패션 디자인의 실제의 패션 상품 시제품 품평 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 21,
+   "topics": [
+    "kr.topic.2022.high.10e4e18d2467fb9c2e4f",
+    "kr.topic.2022.high.1cdd8dd603fa0a33f634",
+    "kr.topic.2022.high.1e035dd8f948b9810630",
+    "kr.topic.2022.high.30521a11eee0a5f3cbf1",
+    "kr.topic.2022.high.34262d531adad114ba5a",
+    "kr.topic.2022.high.3e205c1f49796e3ca162",
+    "kr.topic.2022.high.46b757dce69893035df8",
+    "kr.topic.2022.high.4e203e80c85108845d68",
+    "kr.topic.2022.high.86136320dd00db2323d8",
+    "kr.topic.2022.high.8be586cbbb0a7ef32be3",
+    "kr.topic.2022.high.93836a3c974a9a2c15ab",
+    "kr.topic.2022.high.ab1a19e3de8fe3021a47",
+    "kr.topic.2022.high.b54d97590fccd3a66e3f",
+    "kr.topic.2022.high.c8bace420a2d0c179bf1",
+    "kr.topic.2022.high.cb8201803f9f5d7af0c4",
+    "kr.topic.2022.high.cca64a804a235488992e",
+    "kr.topic.2022.high.da44f6765455edde8b1a",
+    "kr.topic.2022.high.df72015c83c99edd4f49",
+    "kr.topic.2022.high.e92e93b4f62754cee6cd",
+    "kr.topic.2022.high.f1398297fa8faef0c9f2",
+    "kr.topic.2022.high.f5a47122e84294691dc3"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9e6866debd802d215d",
+   "titleKorean": "제포 — 직물 기본 조직도 작성",
+   "subjectKorean": "제포",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "직물 기본 조직도 작성",
+   "summary": "제포의 직물 기본 조직도 작성 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.0773444d508270fcf9fe",
+    "kr.topic.2022.high.0e0209ff9daab7ada76d",
+    "kr.topic.2022.high.211e47255bc96aef5b55",
+    "kr.topic.2022.high.331f553310ea0e9683c9",
+    "kr.topic.2022.high.39cc2554b034ca4608a4",
+    "kr.topic.2022.high.87ad8389f56984526d56",
+    "kr.topic.2022.high.a49b43d58ea9b81bc642",
+    "kr.topic.2022.high.ac4fa602df22ed173ec2",
+    "kr.topic.2022.high.c89ba6edd8ece6c34614",
+    "kr.topic.2022.high.dd6f343ee41dbd6f3ad4",
+    "kr.topic.2022.high.fea48e5e43ce1cdaa9b5"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9f86ae96866f7bcc8b",
+   "titleKorean": "패션 상품 유통 관리 — 의류 유통 환경 분석",
+   "subjectKorean": "패션 상품 유통 관리",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "의류 유통 환경 분석",
+   "summary": "패션 상품 유통 관리의 의류 유통 환경 분석 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.07abf8f8917b2750480f",
+    "kr.topic.2022.high.11bdcffca5d116a2fee2",
+    "kr.topic.2022.high.3e44c0d56efbc7f47c82",
+    "kr.topic.2022.high.46c6eabb5957097bf157",
+    "kr.topic.2022.high.7012dd56324e4d40054d",
+    "kr.topic.2022.high.780721b12fc93bedb44a",
+    "kr.topic.2022.high.a7a7693d003bf9effed4",
+    "kr.topic.2022.high.b391105fa04037eb6b6e",
+    "kr.topic.2022.high.b9c4899dbe9d1c40bfce",
+    "kr.topic.2022.high.d32df9885743908bd090",
+    "kr.topic.2022.high.e8a6b734075d2c8f847f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a0afbb43fdcfe58c98",
+   "titleKorean": "방적·방사 — 사가공 준비",
+   "subjectKorean": "방적·방사",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "사가공 준비",
+   "summary": "방적·방사의 사가공 준비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 20,
+   "topics": [
+    "kr.topic.2022.high.1224963a80687f60d7b1",
+    "kr.topic.2022.high.1667d9d1afb62acb26b3",
+    "kr.topic.2022.high.2e645fe124cc1db94e36",
+    "kr.topic.2022.high.30d1b1b2403b1834ab10",
+    "kr.topic.2022.high.3f0e21eb213d5e338973",
+    "kr.topic.2022.high.414d94fc6b30bce99dd8",
+    "kr.topic.2022.high.45aa63af47df03e15b82",
+    "kr.topic.2022.high.4ed3d9e5760f56c70098",
+    "kr.topic.2022.high.5a05a3b8306ca8089265",
+    "kr.topic.2022.high.63f9a531661458316965",
+    "kr.topic.2022.high.6dd158f522b715426284",
+    "kr.topic.2022.high.71f88d641d2be84c2b7d",
+    "kr.topic.2022.high.7739e9640316884caa6a",
+    "kr.topic.2022.high.7f96bbb877fc00c852c8",
+    "kr.topic.2022.high.807d1cc8338763d472d1",
+    "kr.topic.2022.high.8f0df2817a5b760cd229",
+    "kr.topic.2022.high.915d3422bc3b9538ba10",
+    "kr.topic.2022.high.91909fc6621e78721be1",
+    "kr.topic.2022.high.a222af7c9a1ea5cdf302",
+    "kr.topic.2022.high.c6f0bf97c66790b68a25"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.a8459dc23893bc0930",
    "titleKorean": "염색·가공 기초 — 날염",
    "subjectKorean": "염색·가공 기초",
@@ -584,6 +2480,204 @@
     "kr.topic.2022.high.e7918438fd763d74ad78",
     "kr.topic.2022.high.ec43b47b316aa62737e7",
     "kr.topic.2022.high.f0a9862aeaae8b5d4b89"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a87f473cb941a03953",
+   "titleKorean": "텍스타일 디자인 — 텍스타일 패브릭 디자인 편물 설계",
+   "subjectKorean": "텍스타일 디자인",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "텍스타일 패브릭 디자인 편물 설계",
+   "summary": "텍스타일 디자인의 텍스타일 패브릭 디자인 편물 설계 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.2fe7d278b32977c6024f",
+    "kr.topic.2022.high.45cca5b45d8f30add29f",
+    "kr.topic.2022.high.53042f0a6ed267480f42",
+    "kr.topic.2022.high.8f43c5fcc21fd1d176aa",
+    "kr.topic.2022.high.c31caf9de30590be2246",
+    "kr.topic.2022.high.cd5a09c7bd0c21b0202e",
+    "kr.topic.2022.high.cddc674a48f33413c1cb",
+    "kr.topic.2022.high.cf4ab8ecd63656d2ceef",
+    "kr.topic.2022.high.d6f91af88c857033830c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a931d78148650e9193",
+   "titleKorean": "제포 — 정경",
+   "subjectKorean": "제포",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "정경",
+   "summary": "제포의 정경 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.006fef7328b73373b0b1",
+    "kr.topic.2022.high.2c4af6198394c7ed2161",
+    "kr.topic.2022.high.44a7655126bd5c393d7b",
+    "kr.topic.2022.high.60b97d0bdf1fb4c53963",
+    "kr.topic.2022.high.6301df2df06abe9bae43",
+    "kr.topic.2022.high.6e682da6a92e074e83e9",
+    "kr.topic.2022.high.71dfa06e9221c83fba17",
+    "kr.topic.2022.high.784975c0023fb8eab499",
+    "kr.topic.2022.high.81407efe811e451be9e3",
+    "kr.topic.2022.high.914eef5b68a20f268b5a",
+    "kr.topic.2022.high.a488269f60849faefb2a",
+    "kr.topic.2022.high.a58c36b5b1892449f163",
+    "kr.topic.2022.high.ae9195463596e556e16f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a990ca692fac80404b",
+   "titleKorean": "제포 — 직물 제조",
+   "subjectKorean": "제포",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "직물 제조",
+   "summary": "제포의 직물 제조 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 14,
+   "topics": [
+    "kr.topic.2022.high.027fe8e51fadc036cc5c",
+    "kr.topic.2022.high.3f5355c1618e607dc210",
+    "kr.topic.2022.high.4dac881f477996de4727",
+    "kr.topic.2022.high.72f5f7d750282f7462ac",
+    "kr.topic.2022.high.792e9abdf5080232a6a0",
+    "kr.topic.2022.high.8d97dc20a81fbc5a32c5",
+    "kr.topic.2022.high.8e8e2086b6baa92f4cd7",
+    "kr.topic.2022.high.94eee5ecd1ce26c624db",
+    "kr.topic.2022.high.9c1629702288e896a7d5",
+    "kr.topic.2022.high.b3dd913e1fc935527538",
+    "kr.topic.2022.high.b55e8567d38aa4d078d7",
+    "kr.topic.2022.high.ba479e7f25083f1b1a82",
+    "kr.topic.2022.high.ef9cb4a9afd1c3c30490",
+    "kr.topic.2022.high.f7de5d4390faf1f4905e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.aa53bc7fb913f095c4",
+   "titleKorean": "패션 디자인의 실제 — 영역 05",
+   "subjectKorean": "패션 디자인의 실제",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "패션 디자인의 실제의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.11195676519ff431d555",
+    "kr.topic.2022.high.1d02304e17405cea7a54",
+    "kr.topic.2022.high.7f3b1728565c799ba8a3",
+    "kr.topic.2022.high.80f2cce5025cd4225a61",
+    "kr.topic.2022.high.c6c97f63f1e54ac386d4",
+    "kr.topic.2022.high.ff881cc792a17abde68f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.aad0028e57a634fb70",
+   "titleKorean": "제포 — 원사 관리",
+   "subjectKorean": "제포",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "원사 관리",
+   "summary": "제포의 원사 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.0742a77abc08abd658c5",
+    "kr.topic.2022.high.0e3320faa338f1f7bd8d",
+    "kr.topic.2022.high.2cfb6c9e4a25b43cc745",
+    "kr.topic.2022.high.38322229c1f4f2c9756f",
+    "kr.topic.2022.high.415d7875e08fc1bf5a5c",
+    "kr.topic.2022.high.4c50ff97c794d90257a8",
+    "kr.topic.2022.high.53d538c6d03f467b0b10",
+    "kr.topic.2022.high.7c4d59380effd2de917e",
+    "kr.topic.2022.high.c0f3d29e5ec1f8cd4607",
+    "kr.topic.2022.high.c4eb2733a42de245bfa8",
+    "kr.topic.2022.high.f324e5c43aa16744947e",
+    "kr.topic.2022.high.fd0330586c714cd7350f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ac1319b276e660d38d",
+   "titleKorean": "서양 의복 구성과 생산 — 영역 04",
+   "subjectKorean": "서양 의복 구성과 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 04",
+   "summary": "서양 의복 구성과 생산의 영역 04 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.342850c839a3f4ed50ca",
+    "kr.topic.2022.high.4184421b52a30bad0cab",
+    "kr.topic.2022.high.597326c75746bb40d463",
+    "kr.topic.2022.high.59f58f402b71267726ac",
+    "kr.topic.2022.high.79e4d566bc5f0d9a95c1",
+    "kr.topic.2022.high.ad6f1fe216dafd382cfa",
+    "kr.topic.2022.high.bfc0ff815fc19801f974"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.acfc08ae3e45c3d1d6",
+   "titleKorean": "패션 소품 디자인과 생산 — 영역 05",
+   "subjectKorean": "패션 소품 디자인과 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "패션 소품 디자인과 생산의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.3b25b8b2aa3a707b40d5",
+    "kr.topic.2022.high.4b8aba285393a210ad81",
+    "kr.topic.2022.high.a6cf110a9856c96fee42",
+    "kr.topic.2022.high.c505312caab54fecd824",
+    "kr.topic.2022.high.e261ab385b236b3c719a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b035910412a5556690",
+   "titleKorean": "방적·방사 — 정소면",
+   "subjectKorean": "방적·방사",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "정소면",
+   "summary": "방적·방사의 정소면 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.0b554a62667c40ad8613",
+    "kr.topic.2022.high.0bf11b2a9a72ceedb93a",
+    "kr.topic.2022.high.53ceb2467fb7499fd337",
+    "kr.topic.2022.high.71a91691ef399ccb295d",
+    "kr.topic.2022.high.7348f2bd94e270f6e2a7",
+    "kr.topic.2022.high.8e0562e85d996a7f3a82",
+    "kr.topic.2022.high.9e91b63c2eb7beb9540e",
+    "kr.topic.2022.high.d3b7f89aa8cf02244aaa",
+    "kr.topic.2022.high.e5c699e006124d813aca",
+    "kr.topic.2022.high.eb330ca37089e9173666",
+    "kr.topic.2022.high.f059745bc17cb2e0e11a",
+    "kr.topic.2022.high.f23ea98f0804c5505370"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b3f0f4d80f1ffa7a8d",
+   "titleKorean": "제포 — 위편 준비",
+   "subjectKorean": "제포",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "위편 준비",
+   "summary": "제포의 위편 준비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.11078afad19d44893465",
+    "kr.topic.2022.high.12d684550e02789345ac",
+    "kr.topic.2022.high.3c371231e8e0c14e6951",
+    "kr.topic.2022.high.5babd8c1f52f8b2985d2",
+    "kr.topic.2022.high.7d32114021e8f4ab0020",
+    "kr.topic.2022.high.7e56d0e394fa2d694bfe",
+    "kr.topic.2022.high.9673891d2f668668c6ef",
+    "kr.topic.2022.high.a4249bec4427367a65b4",
+    "kr.topic.2022.high.c54b6802d502a4c7a9bd",
+    "kr.topic.2022.high.ce00da804065b78b3950",
+    "kr.topic.2022.high.eb9d71ba16da6005c82f",
+    "kr.topic.2022.high.f2abc3ac59151af4f702"
    ]
   },
   {
@@ -644,6 +2738,31 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.b729c63e73d7677512",
+   "titleKorean": "니트 의류 생산 — 편직 의류 원부자재 관리",
+   "subjectKorean": "니트 의류 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "편직 의류 원부자재 관리",
+   "summary": "니트 의류 생산의 편직 의류 원부자재 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.1a1c340fda7f495daaf8",
+    "kr.topic.2022.high.1eb31cd529564f55975a",
+    "kr.topic.2022.high.1f42e270e9b6da4cd78c",
+    "kr.topic.2022.high.5595ec827255f1644700",
+    "kr.topic.2022.high.a558c2d7a961dc57dd9e",
+    "kr.topic.2022.high.a614523931964d957618",
+    "kr.topic.2022.high.b536a716301e8850c158",
+    "kr.topic.2022.high.d299e02c09c0f58a066f",
+    "kr.topic.2022.high.e042246390db58fd0e21",
+    "kr.topic.2022.high.efb86a5be7bfea9a3044",
+    "kr.topic.2022.high.f61432bfde2d55b0072a",
+    "kr.topic.2022.high.fcae505c30e79e34f59a",
+    "kr.topic.2022.high.fdc9fa363653a7c4958c"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.b7352130c30d38165c",
    "titleKorean": "섬유 재료 — 기능성 섬유",
    "subjectKorean": "섬유 재료",
@@ -657,6 +2776,47 @@
     "kr.topic.2022.high.40dd28c7093f22743bab",
     "kr.topic.2022.high.5c999f0082c74863276a",
     "kr.topic.2022.high.791b7ea3ed6f3092ae9e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b8b4199dbf067b9176",
+   "titleKorean": "비주얼 머천다이징 — 영역 05",
+   "subjectKorean": "비주얼 머천다이징",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "비주얼 머천다이징의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.3053543fe3db83943f83",
+    "kr.topic.2022.high.4e1656bed7594a3cf8d1",
+    "kr.topic.2022.high.6069ac5bbdf64cc6b3c1",
+    "kr.topic.2022.high.6890f3bb170c90167d56",
+    "kr.topic.2022.high.a09a522a1ff11af7bf69",
+    "kr.topic.2022.high.c46a7d67c485696fa6a6",
+    "kr.topic.2022.high.c727bf5145411463df45"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b94b9284dc7c0c0003",
+   "titleKorean": "패션 소품 디자인과 생산 — 패션 소품 샘플 패턴 제작",
+   "subjectKorean": "패션 소품 디자인과 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "패션 소품 샘플 패턴 제작",
+   "summary": "패션 소품 디자인과 생산의 패션 소품 샘플 패턴 제작 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.0ea2467fbf9df461e3e8",
+    "kr.topic.2022.high.51d7a2fd15d99913c0e9",
+    "kr.topic.2022.high.7d10ff655e5c95e497f6",
+    "kr.topic.2022.high.7e1e0be9631544dee352",
+    "kr.topic.2022.high.b640d99808ccbcbe494a",
+    "kr.topic.2022.high.c8a5ccdc810c6c263458",
+    "kr.topic.2022.high.cc8108abafe1a0085d17",
+    "kr.topic.2022.high.d685fc870c5d54963023",
+    "kr.topic.2022.high.d68cd843ddfe104256b5",
+    "kr.topic.2022.high.d82a36a1bc86c325b035"
    ]
   },
   {
@@ -676,6 +2836,33 @@
     "kr.topic.2022.high.1afab15558694f8a7f73",
     "kr.topic.2022.high.335efbf4c00530df62d7",
     "kr.topic.2022.high.8d48394297b3208fe379"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.bc7a6489b31b355b10",
+   "titleKorean": "한국 의복 구성과 생산 — 한복 옷본 제작",
+   "subjectKorean": "한국 의복 구성과 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "한복 옷본 제작",
+   "summary": "한국 의복 구성과 생산의 한복 옷본 제작 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 15,
+   "topics": [
+    "kr.topic.2022.high.27b8a518b47d6773a678",
+    "kr.topic.2022.high.30dea4aa2d0933c89683",
+    "kr.topic.2022.high.5c498fe7406ae3d3e2e3",
+    "kr.topic.2022.high.5f5848e1f179120434d1",
+    "kr.topic.2022.high.74c41b4f6d635e2faea5",
+    "kr.topic.2022.high.858cab693c97937cd1d3",
+    "kr.topic.2022.high.8ea66cd000ec7fe97d62",
+    "kr.topic.2022.high.a6bc3259a61ee61253c1",
+    "kr.topic.2022.high.a84b7302159d9bfccd49",
+    "kr.topic.2022.high.ad7f8c666be07c1663f8",
+    "kr.topic.2022.high.af1290a8e906f5e3be89",
+    "kr.topic.2022.high.b8727a84e35691dfcba1",
+    "kr.topic.2022.high.d3575e8446f693d9daa8",
+    "kr.topic.2022.high.eacab5d0f62df9c083d7",
+    "kr.topic.2022.high.f49cb40e9121c8227666"
    ]
   },
   {
@@ -700,6 +2887,69 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.be04d62b2114bc3728",
+   "titleKorean": "니트 의류 생산 — 편직 의류 성형 봉제",
+   "subjectKorean": "니트 의류 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "편직 의류 성형 봉제",
+   "summary": "니트 의류 생산의 편직 의류 성형 봉제 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.14f8f06619baa36c57db",
+    "kr.topic.2022.high.1f452a18d68f363403a0",
+    "kr.topic.2022.high.44fff8d993c098986992",
+    "kr.topic.2022.high.71bf227a0942c08f92b4",
+    "kr.topic.2022.high.7d7bbe8da1749a049cd9",
+    "kr.topic.2022.high.88c3c97b60f81fbc0c2c",
+    "kr.topic.2022.high.a0adfcf72933b787ef59",
+    "kr.topic.2022.high.b4ab716051ce84dd70fc",
+    "kr.topic.2022.high.e772fee3995a9bb05a3b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.bef4b07347e79cd365",
+   "titleKorean": "염색･가공 — 염색･가공 실험실 테스트 작업",
+   "subjectKorean": "염색･가공",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "염색･가공 실험실 테스트 작업",
+   "summary": "염색･가공의 염색･가공 실험실 테스트 작업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.0a3c907868aa3e6841b3",
+    "kr.topic.2022.high.375620dd64c6dc38ea44",
+    "kr.topic.2022.high.3917dde708d52f6d550e",
+    "kr.topic.2022.high.3ea2697228eb8897bb0d",
+    "kr.topic.2022.high.7400f50488ecdc82b309",
+    "kr.topic.2022.high.82d7f3aac028909d6d5b",
+    "kr.topic.2022.high.a00272c15590be71c368",
+    "kr.topic.2022.high.a460bf86482edc49165f",
+    "kr.topic.2022.high.ba0781bf86afd6b27515",
+    "kr.topic.2022.high.db39a8f1d2ad74ccf03e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.bf89058831ebc33dca",
+   "titleKorean": "패션 상품 유통 관리 — 영역 05",
+   "subjectKorean": "패션 상품 유통 관리",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "패션 상품 유통 관리의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.06399f0a3799a83ec55e",
+    "kr.topic.2022.high.20325b2476a4c7edd34a",
+    "kr.topic.2022.high.2866b0c8d63b57a1823a",
+    "kr.topic.2022.high.3bbaeebd6b80e187b834",
+    "kr.topic.2022.high.7f3c1d56922c0d1efc16",
+    "kr.topic.2022.high.8892fbff0781f51ef4ab",
+    "kr.topic.2022.high.ba7f5250c0bd2129bb77",
+    "kr.topic.2022.high.dea913d7ba4d433b5954"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.c43e55a03bac8719ca",
    "titleKorean": "편물 — 편물 제품의 관리",
    "subjectKorean": "편물",
@@ -714,6 +2964,30 @@
     "kr.topic.2022.high.ad04742c669fccd5614d",
     "kr.topic.2022.high.c4d7456762a76ccfb088",
     "kr.topic.2022.high.f4e5fa7fab8f08d90455"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c5b5cb4fc356aeb955",
+   "titleKorean": "패션 디자인의 실제 — 패션 상품 테크니컬 디자인",
+   "subjectKorean": "패션 디자인의 실제",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "패션 상품 테크니컬 디자인",
+   "summary": "패션 디자인의 실제의 패션 상품 테크니컬 디자인 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.038af0d32e27fcb7bc60",
+    "kr.topic.2022.high.3a3664ef500e46d097af",
+    "kr.topic.2022.high.421a73bbe682d93315d9",
+    "kr.topic.2022.high.61f02ce546c33b9f02fb",
+    "kr.topic.2022.high.693abe1932242229f207",
+    "kr.topic.2022.high.78a0565d685c2610df75",
+    "kr.topic.2022.high.7da97bc0ba6f655c5a82",
+    "kr.topic.2022.high.7fe3ad14c982c2ee2d0d",
+    "kr.topic.2022.high.a916cc825da5ec38a93e",
+    "kr.topic.2022.high.adb8ac2193bbf435fdb4",
+    "kr.topic.2022.high.bd46a8d761d1b6eca3df",
+    "kr.topic.2022.high.c2b7a7fb9fedddea8cfb"
    ]
   },
   {
@@ -734,6 +3008,181 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.c8d684a782088f97b4",
+   "titleKorean": "염색･가공 — 염색･가공 생산 준비",
+   "subjectKorean": "염색･가공",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "염색･가공 생산 준비",
+   "summary": "염색･가공의 염색･가공 생산 준비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 14,
+   "topics": [
+    "kr.topic.2022.high.00d832d000a71f732243",
+    "kr.topic.2022.high.167f7bc8bab013b460a9",
+    "kr.topic.2022.high.1864f22974ed886de7e1",
+    "kr.topic.2022.high.19ff52086b8006e54f65",
+    "kr.topic.2022.high.703de2bda92371f3ef42",
+    "kr.topic.2022.high.7a425a0a65ab8dc07ce3",
+    "kr.topic.2022.high.9f44dbe707111f4d65eb",
+    "kr.topic.2022.high.a2f32dfe5fd4efc02419",
+    "kr.topic.2022.high.a61a612f9ece249bcceb",
+    "kr.topic.2022.high.b6294b74b65114fe7e55",
+    "kr.topic.2022.high.c1bcb94e030b5640c4ae",
+    "kr.topic.2022.high.c5ddd40ae04c303a396a",
+    "kr.topic.2022.high.d5ea61d55992d7b113ca",
+    "kr.topic.2022.high.f130bf236c36a4399b2b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c9c3c327bc506422eb",
+   "titleKorean": "패턴 메이킹 — 샘플 패턴 수정",
+   "subjectKorean": "패턴 메이킹",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "샘플 패턴 수정",
+   "summary": "패턴 메이킹의 샘플 패턴 수정 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 14,
+   "topics": [
+    "kr.topic.2022.high.13ed49ea15b492e9698c",
+    "kr.topic.2022.high.15910e3fc5a859839770",
+    "kr.topic.2022.high.17501587a943d64bc873",
+    "kr.topic.2022.high.4cf5fc5919944f255bb5",
+    "kr.topic.2022.high.607048e1abcd65e8f85f",
+    "kr.topic.2022.high.62822b4ead5adad0a933",
+    "kr.topic.2022.high.63290df12707d2b2ad2e",
+    "kr.topic.2022.high.b2510c85283426ba16f9",
+    "kr.topic.2022.high.b5bcb75edf7c020136b4",
+    "kr.topic.2022.high.c0f35c3582bc7b8a76a5",
+    "kr.topic.2022.high.e7de3645396fd81b45cd",
+    "kr.topic.2022.high.f46630b6e25a25be327c",
+    "kr.topic.2022.high.f5fe53f8b2a9155d097e",
+    "kr.topic.2022.high.f9f65883616878505d98"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ca4e2176f3d0470fd1",
+   "titleKorean": "비주얼 머천다이징 — 비주얼 머천다이징 콘셉트 설정",
+   "subjectKorean": "비주얼 머천다이징",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "비주얼 머천다이징 콘셉트 설정",
+   "summary": "비주얼 머천다이징의 비주얼 머천다이징 콘셉트 설정 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 14,
+   "topics": [
+    "kr.topic.2022.high.3651a072d505a51c4ca4",
+    "kr.topic.2022.high.3d44f36f9f04242d6530",
+    "kr.topic.2022.high.4101a1bc8e74bdb5cb36",
+    "kr.topic.2022.high.4b916329ca54e8ba3028",
+    "kr.topic.2022.high.53511068df47da63451d",
+    "kr.topic.2022.high.564f8f15de0300015ffb",
+    "kr.topic.2022.high.60e0762d7c2f19479c95",
+    "kr.topic.2022.high.62b63ba56c12caa884df",
+    "kr.topic.2022.high.75cbd754605f9512330c",
+    "kr.topic.2022.high.89796e9dfcd1cc8fb63a",
+    "kr.topic.2022.high.b25e1fdf952ca0179840",
+    "kr.topic.2022.high.c461ebc506ab1d584b51",
+    "kr.topic.2022.high.c4d7ec9365576b7d82db",
+    "kr.topic.2022.high.ccfbb6a9f5399b59f471"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ca55e764c7a2f3d391",
+   "titleKorean": "패션 상품 유통 관리 — 의류 매장 관리",
+   "subjectKorean": "패션 상품 유통 관리",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "의류 매장 관리",
+   "summary": "패션 상품 유통 관리의 의류 매장 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 15,
+   "topics": [
+    "kr.topic.2022.high.1bd6172af37626d13c2f",
+    "kr.topic.2022.high.3278e69937d8cb7a45ab",
+    "kr.topic.2022.high.46b3f1293ac2cf84948d",
+    "kr.topic.2022.high.58147cbd144e1d4d4010",
+    "kr.topic.2022.high.5b432780b5eca37c6b41",
+    "kr.topic.2022.high.77d3f0580d682a98cff3",
+    "kr.topic.2022.high.94f3ba2222cb86439b48",
+    "kr.topic.2022.high.96c73f55c0c78e540376",
+    "kr.topic.2022.high.9946cacd8b3bc5677867",
+    "kr.topic.2022.high.9a474a7484ceb42c2067",
+    "kr.topic.2022.high.a425c3edad16765fea10",
+    "kr.topic.2022.high.b0c9893624e4d6c80c96",
+    "kr.topic.2022.high.b82835aa839fad5e6788",
+    "kr.topic.2022.high.d061b37b835ae62a45c0",
+    "kr.topic.2022.high.d986ef5a5874fb1120d0"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.cf785d5f899a999374",
+   "titleKorean": "염색･가공 — 침염 작업",
+   "subjectKorean": "염색･가공",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "침염 작업",
+   "summary": "염색･가공의 침염 작업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.05fa91a8e5a9f0265cde",
+    "kr.topic.2022.high.1f53c39d20cef802b855",
+    "kr.topic.2022.high.38d7438baf0dca8a5692",
+    "kr.topic.2022.high.8cb3bbed1bfc783dd9c6",
+    "kr.topic.2022.high.a0c542fed2ec43ffd3f0",
+    "kr.topic.2022.high.af3fc29997e526e2eda4",
+    "kr.topic.2022.high.cadb70b12d5eed62e21a",
+    "kr.topic.2022.high.cb2d5b122691cc5763a2",
+    "kr.topic.2022.high.ccc660e14086df8c92c6",
+    "kr.topic.2022.high.ce1375822cd0b231f724",
+    "kr.topic.2022.high.d870168df1f8d4ba01b0",
+    "kr.topic.2022.high.f861a8106b2032e2259c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d1cc07df144ccf04b0",
+   "titleKorean": "패션 소품 디자인과 생산 — 패션 소품 샘플 봉제",
+   "subjectKorean": "패션 소품 디자인과 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "패션 소품 샘플 봉제",
+   "summary": "패션 소품 디자인과 생산의 패션 소품 샘플 봉제 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.03747d74ad2423dbbed4",
+    "kr.topic.2022.high.0d7a22d669bd71c77b41",
+    "kr.topic.2022.high.2cfe1d8a5103f95e835e",
+    "kr.topic.2022.high.7b19a04b8f860ff34f58",
+    "kr.topic.2022.high.7e0095a16916a016b30b",
+    "kr.topic.2022.high.861ad0226efa40f4a928",
+    "kr.topic.2022.high.9644a705dfa61e952461",
+    "kr.topic.2022.high.9707efc1a79dfe2f7f1e",
+    "kr.topic.2022.high.b24be661890573297224",
+    "kr.topic.2022.high.ba0da9c0a73a2cb5aed0",
+    "kr.topic.2022.high.c4a693caceca2280d492",
+    "kr.topic.2022.high.dd7d9ddc5b4986603279",
+    "kr.topic.2022.high.edfbc60d7f2ac73f4f83"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d70d57d46a903b57bc",
+   "titleKorean": "텍스타일 디자인 — 텍스타일 디자인 발상 아이디어",
+   "subjectKorean": "텍스타일 디자인",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "텍스타일 디자인 발상 아이디어",
+   "summary": "텍스타일 디자인의 텍스타일 디자인 발상 아이디어 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.0884041c4d882c73b5af",
+    "kr.topic.2022.high.1920544e867f878c73d1",
+    "kr.topic.2022.high.354f6d39bf6dcd560c94",
+    "kr.topic.2022.high.3e6959e9b99d75a39a33",
+    "kr.topic.2022.high.5c1347ec2ce859750fc7",
+    "kr.topic.2022.high.658d9c606b0e35ee9147",
+    "kr.topic.2022.high.69671af2aef564c696de",
+    "kr.topic.2022.high.a200e8041cdbadfeb504",
+    "kr.topic.2022.high.e2646fa4d4cf9f13a4c0"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.d93d2bcad2788adcd2",
    "titleKorean": "패션 마케팅 — 패션 머천다이징",
    "subjectKorean": "패션 마케팅",
@@ -747,6 +3196,28 @@
     "kr.topic.2022.high.9ac93349c8a0f6a98cf6",
     "kr.topic.2022.high.9faeae21f3dabe93216e",
     "kr.topic.2022.high.a7e64526aca179136147"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d9a05368d6c3b2864d",
+   "titleKorean": "염색･가공 — 염색･가공 전처리 작업",
+   "subjectKorean": "염색･가공",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "염색･가공 전처리 작업",
+   "summary": "염색･가공의 염색･가공 전처리 작업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.114338dcf979b4e90e8b",
+    "kr.topic.2022.high.23cf5a356f22ff50bb97",
+    "kr.topic.2022.high.94144c3670f8278f2299",
+    "kr.topic.2022.high.9516bff4d1b553b04355",
+    "kr.topic.2022.high.957f40de0361ce9748d7",
+    "kr.topic.2022.high.a8b5c6515e2dce0f7d9d",
+    "kr.topic.2022.high.a8eee4621eb7e8d1e0a8",
+    "kr.topic.2022.high.b5880565aea063127ff5",
+    "kr.topic.2022.high.d917487697b35436b944",
+    "kr.topic.2022.high.f6cd6ac817378f0c7750"
    ]
   },
   {
@@ -771,6 +3242,245 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.da88061d27b527d827",
+   "titleKorean": "방적·방사 — 소모방",
+   "subjectKorean": "방적·방사",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "소모방",
+   "summary": "방적·방사의 소모방 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 15,
+   "topics": [
+    "kr.topic.2022.high.1d4e336ccea078f34aee",
+    "kr.topic.2022.high.503ccb39eae36ad5a5c4",
+    "kr.topic.2022.high.70c6ea684389a60a9000",
+    "kr.topic.2022.high.7fc6aed265dfd4e118f9",
+    "kr.topic.2022.high.903768490c9119012ff7",
+    "kr.topic.2022.high.9a72961f9767c8266161",
+    "kr.topic.2022.high.9bf4ee75a2cecd020791",
+    "kr.topic.2022.high.a4d32e526c732ab6f330",
+    "kr.topic.2022.high.b15e4980da1107800b26",
+    "kr.topic.2022.high.ba36f722a2e48f136806",
+    "kr.topic.2022.high.c6e49836584ab1f94d90",
+    "kr.topic.2022.high.d3c5e3faa5bd821e9967",
+    "kr.topic.2022.high.d873b690df6621bd42dc",
+    "kr.topic.2022.high.d9419608aaeee247a10f",
+    "kr.topic.2022.high.fe7a4903cb8cfb436dab"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.dfa24477859743e16e",
+   "titleKorean": "염색･가공 — 영역 07",
+   "subjectKorean": "염색･가공",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 07",
+   "summary": "염색･가공의 영역 07 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.15dd55ff5b362c4d32e8",
+    "kr.topic.2022.high.2227c53aeb68037c1464",
+    "kr.topic.2022.high.57e38fc1e3d7b722ac2b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.dff0c646e9839b138e",
+   "titleKorean": "텍스타일 디자인 — 텍스타일 디자인 발상 스케치",
+   "subjectKorean": "텍스타일 디자인",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "텍스타일 디자인 발상 스케치",
+   "summary": "텍스타일 디자인의 텍스타일 디자인 발상 스케치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.11cceb398be82407cf08",
+    "kr.topic.2022.high.13c30094603b99870066",
+    "kr.topic.2022.high.37ac4980caeb0973312f",
+    "kr.topic.2022.high.48616fd8f7ad7c82f0b5",
+    "kr.topic.2022.high.523e26dfe97caa0e528a",
+    "kr.topic.2022.high.619239880e0b667947bd",
+    "kr.topic.2022.high.8cd93d59ac858f68ec45",
+    "kr.topic.2022.high.c7537fb8e642cdce1642",
+    "kr.topic.2022.high.e34c4203450bdd5974f5",
+    "kr.topic.2022.high.ec35b28c27deeed81c1e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e10a3936d1d2b1eb86",
+   "titleKorean": "제포 — 통경",
+   "subjectKorean": "제포",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "통경",
+   "summary": "제포의 통경 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.0546f419e4071179c748",
+    "kr.topic.2022.high.1a2c70129c1a723e7992",
+    "kr.topic.2022.high.237b21ffe3f374f512ae",
+    "kr.topic.2022.high.3c8431a12de0cebfa79c",
+    "kr.topic.2022.high.3d340c6cd84c7c395e15",
+    "kr.topic.2022.high.54922677111d1e1cd99f",
+    "kr.topic.2022.high.652a6a4e3af1d545b4f8",
+    "kr.topic.2022.high.744f07dfeca1c0d12558",
+    "kr.topic.2022.high.85bf49de262e654abb3f",
+    "kr.topic.2022.high.adf42aa3bf050d14dbe1",
+    "kr.topic.2022.high.def87d4622c853fe48e6",
+    "kr.topic.2022.high.e67e5dc23062315a9668"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e121c66ab6ee5c8667",
+   "titleKorean": "방적·방사 — 링 정방",
+   "subjectKorean": "방적·방사",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "링 정방",
+   "summary": "방적·방사의 링 정방 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.01843ae3206efd2e91c6",
+    "kr.topic.2022.high.065b98bcf7981b699c8a",
+    "kr.topic.2022.high.09ff5324e80bd016618d",
+    "kr.topic.2022.high.16d604ef5f8296312dbc",
+    "kr.topic.2022.high.2b8a060c84a0524b4b9c",
+    "kr.topic.2022.high.3b8d5f87bd91a137528d",
+    "kr.topic.2022.high.539b2e7c9e1aa0c7ca59",
+    "kr.topic.2022.high.9ac53ba0e9b1951f0ce7",
+    "kr.topic.2022.high.c84a07679ac260d324a3",
+    "kr.topic.2022.high.c9d1822264ef2c1eb968",
+    "kr.topic.2022.high.e0e003397a26d2076dd1",
+    "kr.topic.2022.high.e917e0174be2fa4f33a6",
+    "kr.topic.2022.high.f3bcbb036d6a581dfd56"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e8a444c0f0d612d0fa",
+   "titleKorean": "비주얼 머천다이징 — 패션 상품 디스플레이",
+   "subjectKorean": "비주얼 머천다이징",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "패션 상품 디스플레이",
+   "summary": "비주얼 머천다이징의 패션 상품 디스플레이 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 15,
+   "topics": [
+    "kr.topic.2022.high.02a80df37cbabca53306",
+    "kr.topic.2022.high.1619bbed396132cc736d",
+    "kr.topic.2022.high.1640d5c8860d2fa645aa",
+    "kr.topic.2022.high.27443fa2a576f69d860f",
+    "kr.topic.2022.high.3122219ef1b0b54832d3",
+    "kr.topic.2022.high.588284744bec15227acb",
+    "kr.topic.2022.high.81ef5214b63764422102",
+    "kr.topic.2022.high.873d32dbcd11f8016fd7",
+    "kr.topic.2022.high.8a349fd81c051a7560a2",
+    "kr.topic.2022.high.8acc390f758295d1ca94",
+    "kr.topic.2022.high.98c6388e63f9f7ed9e5d",
+    "kr.topic.2022.high.bf6e3c946e29517374c6",
+    "kr.topic.2022.high.c489ba13a51324f398bb",
+    "kr.topic.2022.high.e70e69dad452375448e6",
+    "kr.topic.2022.high.f9e748625f9ea2864f48"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.eae9cb782e52171fbc",
+   "titleKorean": "패션 상품 유통 관리 — 의류 유통 전략 수립",
+   "subjectKorean": "패션 상품 유통 관리",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "의류 유통 전략 수립",
+   "summary": "패션 상품 유통 관리의 의류 유통 전략 수립 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.0553171139ff68251a5d",
+    "kr.topic.2022.high.063de5d18b7a3a38e416",
+    "kr.topic.2022.high.4579095d00c9b3d5ca59",
+    "kr.topic.2022.high.4ae2414ce85a39ecb420",
+    "kr.topic.2022.high.662f139962e7c6cca92c",
+    "kr.topic.2022.high.6ba001cacc2767786bf9",
+    "kr.topic.2022.high.86b76c0f7b9ac1b06d09",
+    "kr.topic.2022.high.dec125bafc75137e3800",
+    "kr.topic.2022.high.e1a5f046a78ab29f2b3e",
+    "kr.topic.2022.high.ead3f3ab485deaff8974",
+    "kr.topic.2022.high.f09d26c0065c377caa81",
+    "kr.topic.2022.high.f7269399657b4e9b7fad"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.eaffa164204b0ad7b4",
+   "titleKorean": "염색･가공 — 디지털 텍스타일 프린팅 작업",
+   "subjectKorean": "염색･가공",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "디지털 텍스타일 프린팅 작업",
+   "summary": "염색･가공의 디지털 텍스타일 프린팅 작업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.02e650460245cbab6c4d",
+    "kr.topic.2022.high.0690535716fcc4248a61",
+    "kr.topic.2022.high.0c72d514b688eec41f9f",
+    "kr.topic.2022.high.1016ac5e04c02a0d2651",
+    "kr.topic.2022.high.341fed942ca2a617864b",
+    "kr.topic.2022.high.6340cadba53d661295a9",
+    "kr.topic.2022.high.676d00a3f6cf504f7036",
+    "kr.topic.2022.high.70fdf45787351880e118",
+    "kr.topic.2022.high.76e3c32873597e342818",
+    "kr.topic.2022.high.d68949eeb629539632d5",
+    "kr.topic.2022.high.e74b0e1e3c315e8a92a6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ec5b579055e6d3db8b",
+   "titleKorean": "패션 디자인의 실제 — 패션 상품 시제품 개발",
+   "subjectKorean": "패션 디자인의 실제",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "패션 상품 시제품 개발",
+   "summary": "패션 디자인의 실제의 패션 상품 시제품 개발 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.1142a1bd8d9f7bd87beb",
+    "kr.topic.2022.high.17b960618438e67186e9",
+    "kr.topic.2022.high.2c3d554f011bb4777ba1",
+    "kr.topic.2022.high.442ae7e06e7e8c511035",
+    "kr.topic.2022.high.5300691cade91fbafebe",
+    "kr.topic.2022.high.5d54d771cfb9df6c7063",
+    "kr.topic.2022.high.648a818718be25ec0d32",
+    "kr.topic.2022.high.7a5586dc42212ed0496d",
+    "kr.topic.2022.high.8d6d2432bb73183241bc",
+    "kr.topic.2022.high.a09356d4ddddc3683e93",
+    "kr.topic.2022.high.a7ea6acea890b5a90444",
+    "kr.topic.2022.high.bf1005c08903354f9484",
+    "kr.topic.2022.high.d8fd89045df5eca2cfdf"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ecfdf88aadbe2799b4",
+   "titleKorean": "패션 디자인의 실제 — 패션 디자인 보완 상품 개발",
+   "subjectKorean": "패션 디자인의 실제",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "패션 디자인 보완 상품 개발",
+   "summary": "패션 디자인의 실제의 패션 디자인 보완 상품 개발 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 15,
+   "topics": [
+    "kr.topic.2022.high.08cc9336ad48adbc5163",
+    "kr.topic.2022.high.08e62e28ed35e8048310",
+    "kr.topic.2022.high.2c58726e613f5eab3f3c",
+    "kr.topic.2022.high.4b6f913bcf81df46a4ec",
+    "kr.topic.2022.high.67c0ba60233e3c6f1f26",
+    "kr.topic.2022.high.7f3abe6f577918d128dd",
+    "kr.topic.2022.high.9bab2af2fc5ea3c482ca",
+    "kr.topic.2022.high.a53032816d0390373805",
+    "kr.topic.2022.high.a96e0b5d4684f9f618dc",
+    "kr.topic.2022.high.bb4e8cf8ee61613ad33d",
+    "kr.topic.2022.high.e2c6b85370bf7b95c257",
+    "kr.topic.2022.high.e721773d2a3dd231ca65",
+    "kr.topic.2022.high.ec48f4931475d2732e62",
+    "kr.topic.2022.high.edb865c795eece2ba7a8",
+    "kr.topic.2022.high.fc61815b7ee1c8acb139"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.ef3aa1f127f6ec9584",
    "titleKorean": "의복 구성의 기초 — 샘플 제작",
    "subjectKorean": "의복 구성의 기초",
@@ -792,6 +3502,138 @@
     "kr.topic.2022.high.df3ac1ec7e5df8b648a0",
     "kr.topic.2022.high.e30e3be58a813ce1c32c",
     "kr.topic.2022.high.e56251b8e6bfba57759d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.efe7b31b02bea1ff1e",
+   "titleKorean": "패턴 메이킹 — 메인 패턴 제작",
+   "subjectKorean": "패턴 메이킹",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "메인 패턴 제작",
+   "summary": "패턴 메이킹의 메인 패턴 제작 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.4c15af8b3bc9afaf402d",
+    "kr.topic.2022.high.61c5165ee2bbaa8cae9a",
+    "kr.topic.2022.high.7dec666e9bf2b4e31b6a",
+    "kr.topic.2022.high.96cc992240916f9d33aa",
+    "kr.topic.2022.high.c51250997aa0c39d2bac",
+    "kr.topic.2022.high.c690a77142845fc62b30",
+    "kr.topic.2022.high.c9741e75703d0bfbd8a3",
+    "kr.topic.2022.high.d9df6b185ef2d79e384b",
+    "kr.topic.2022.high.e1e3ce5adb493b38ee6c",
+    "kr.topic.2022.high.ec9c69b22fcde987dde1",
+    "kr.topic.2022.high.fb0195fdd1ccf8271c76"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.effdc6e64e70c17252",
+   "titleKorean": "한국 의복 구성과 생산 — 한복 겉‧안감 부분 봉제",
+   "subjectKorean": "한국 의복 구성과 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "한복 겉‧안감 부분 봉제",
+   "summary": "한국 의복 구성과 생산의 한복 겉‧안감 부분 봉제 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.15a6c82bd6d9ed2e2e66",
+    "kr.topic.2022.high.39931dfeb365a7edd2f2",
+    "kr.topic.2022.high.4b431e4b84d9513195b0",
+    "kr.topic.2022.high.6c43d94f976886c1e136",
+    "kr.topic.2022.high.7f4a0dd79c77392e9742",
+    "kr.topic.2022.high.9e4b25c640af7971b084",
+    "kr.topic.2022.high.c1f847c8ac20ad59ed74",
+    "kr.topic.2022.high.caa4f71d854e7b9eb9a7",
+    "kr.topic.2022.high.cc7fb1cbfb5219aa21be",
+    "kr.topic.2022.high.fca7bccc7a5160144aff"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f15213ca42bd748436",
+   "titleKorean": "패션 상품 유통 관리 — 의류 판매 촉진 관리",
+   "subjectKorean": "패션 상품 유통 관리",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "의류 판매 촉진 관리",
+   "summary": "패션 상품 유통 관리의 의류 판매 촉진 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.00a0fc4c6ddf2f4035f8",
+    "kr.topic.2022.high.2e5d86f3ef90e50e7031",
+    "kr.topic.2022.high.4976eb47ea106dd76087",
+    "kr.topic.2022.high.6c0196664062a906606b",
+    "kr.topic.2022.high.74d399f3fc0e5efb118e",
+    "kr.topic.2022.high.95cfa0805d4cf5aa315e",
+    "kr.topic.2022.high.9dd57ef5953e815bc908",
+    "kr.topic.2022.high.aa44c35f2ffb8eaa7e91",
+    "kr.topic.2022.high.d68f7a1b8546f56ac39a",
+    "kr.topic.2022.high.fcf0ec09898cc8261d67"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f2bfda85c40da059ef",
+   "titleKorean": "염색･가공 — 디지털 텍스타일 프린팅 준비",
+   "subjectKorean": "염색･가공",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "디지털 텍스타일 프린팅 준비",
+   "summary": "염색･가공의 디지털 텍스타일 프린팅 준비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.0be3cd9c27ab0eb0e76d",
+    "kr.topic.2022.high.0e649b5662c5dd19f5c7",
+    "kr.topic.2022.high.29904a00eefe5b674270",
+    "kr.topic.2022.high.2a402c44840852e969ea",
+    "kr.topic.2022.high.3784ac17ffa44e13d45e",
+    "kr.topic.2022.high.90cdd3f2a8009d6f8d8d",
+    "kr.topic.2022.high.94ed61375ac501ffeeb8",
+    "kr.topic.2022.high.c7b713618f3381b402bb",
+    "kr.topic.2022.high.cf051c1868251fa26e28",
+    "kr.topic.2022.high.d3539a362415bf3980fc",
+    "kr.topic.2022.high.d44fb146888a39a55e0d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f31280d1b404c735c2",
+   "titleKorean": "텍스타일 디자인 — 텍스타일 디자인 리서치 수행",
+   "subjectKorean": "텍스타일 디자인",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "텍스타일 디자인 리서치 수행",
+   "summary": "텍스타일 디자인의 텍스타일 디자인 리서치 수행 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.28d17d86d4093d3a6371",
+    "kr.topic.2022.high.3c75c4d7a2e7bd74d2c9",
+    "kr.topic.2022.high.7e1e67c30ea6d0efa0df",
+    "kr.topic.2022.high.866a7b30ab9e9bce7371",
+    "kr.topic.2022.high.93bd1c5198a12e2f5d96",
+    "kr.topic.2022.high.bd07330dd328e15011d4",
+    "kr.topic.2022.high.f5a88a94ce1c4f5b624c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f58428f4c1c54a0e8d",
+   "titleKorean": "한국 의복 구성과 생산 — 한복 완성 바느질",
+   "subjectKorean": "한국 의복 구성과 생산",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "한복 완성 바느질",
+   "summary": "한국 의복 구성과 생산의 한복 완성 바느질 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.0e11febe50506e9da93c",
+    "kr.topic.2022.high.0e947945805de0e988fd",
+    "kr.topic.2022.high.2184f7204b72bcd9a75b",
+    "kr.topic.2022.high.33f36143ed3b3451e1a3",
+    "kr.topic.2022.high.540d3f197e0e96e38190",
+    "kr.topic.2022.high.7206ad66244772aae564",
+    "kr.topic.2022.high.768b11491fb4a717cf89",
+    "kr.topic.2022.high.85832a6e570ee91ca603",
+    "kr.topic.2022.high.e7079d3ceb1ed10a635b",
+    "kr.topic.2022.high.ec2b7fbe989cdeae552f",
+    "kr.topic.2022.high.f95ef53416a0f29288ea"
    ]
   },
   {
@@ -830,6 +3672,53 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.f5db984391d755eb2d",
+   "titleKorean": "패션 상품 유통 관리 — 의류 유통 상품 기획",
+   "subjectKorean": "패션 상품 유통 관리",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "의류 유통 상품 기획",
+   "summary": "패션 상품 유통 관리의 의류 유통 상품 기획 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.0465f2acf9f0beb35a45",
+    "kr.topic.2022.high.3ea562c76875b093ea86",
+    "kr.topic.2022.high.52a3f1ef1e15172e1bdb",
+    "kr.topic.2022.high.99a00e5002c5fd506b6e",
+    "kr.topic.2022.high.b5869dd82e9e6050b76a",
+    "kr.topic.2022.high.b9db469506b62c53e2c8",
+    "kr.topic.2022.high.e2fb3e92ec20ba38cbaf",
+    "kr.topic.2022.high.e3b4270dcb2fffb50eff",
+    "kr.topic.2022.high.e92d019d8e6de10021ac",
+    "kr.topic.2022.high.ec160a6980b9cb3650a7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f5e1dda537e72e5245",
+   "titleKorean": "방적·방사 — 조방",
+   "subjectKorean": "방적·방사",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "조방",
+   "summary": "방적·방사의 조방 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.1bc9df77f2f9757d8637",
+    "kr.topic.2022.high.1e3fbf1a1cfc4ea75048",
+    "kr.topic.2022.high.20dd23def1284026a81f",
+    "kr.topic.2022.high.498de99db09208579427",
+    "kr.topic.2022.high.5150df0294ceef397e65",
+    "kr.topic.2022.high.751950aae9b411582496",
+    "kr.topic.2022.high.788ddba7a650448404eb",
+    "kr.topic.2022.high.ba47366ac429d2ea93ed",
+    "kr.topic.2022.high.bec0bee07fc906b9279e",
+    "kr.topic.2022.high.c2fe08f0321d0b110cf1",
+    "kr.topic.2022.high.d6d55c92ae24fef2a3c5",
+    "kr.topic.2022.high.da124ebc1a11c6ee3dc7",
+    "kr.topic.2022.high.e78b70a39461af84a5cd"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.f688b49a7ef48e0d5e",
    "titleKorean": "편물 — 편물의 이해",
    "subjectKorean": "편물",
@@ -845,6 +3734,172 @@
     "kr.topic.2022.high.376e96ee13e5059d1c67",
     "kr.topic.2022.high.bbe97ef3117776247a1e",
     "kr.topic.2022.high.d4f271caa4807b9979e6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fa43618aa6b79ce8b4",
+   "titleKorean": "패션 디자인의 실제 — 패션 디자인 기획",
+   "subjectKorean": "패션 디자인의 실제",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "패션 디자인 기획",
+   "summary": "패션 디자인의 실제의 패션 디자인 기획 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 14,
+   "topics": [
+    "kr.topic.2022.high.0d62e07a557b8b7793c0",
+    "kr.topic.2022.high.178f1978a17c8ca74286",
+    "kr.topic.2022.high.2fada2062d633cffc32a",
+    "kr.topic.2022.high.4ac3a11349985245c109",
+    "kr.topic.2022.high.584730280cb9e014dc79",
+    "kr.topic.2022.high.70cde40bdd29b874da2b",
+    "kr.topic.2022.high.9236047c043f309c01cd",
+    "kr.topic.2022.high.98f42fa581a698313bdd",
+    "kr.topic.2022.high.ad1d75337dc443c325ad",
+    "kr.topic.2022.high.bb62824fef940b617665",
+    "kr.topic.2022.high.bd6eab6000809f107d1a",
+    "kr.topic.2022.high.d3b29977460199bf6ea3",
+    "kr.topic.2022.high.d65c058f1eabde6d62a0",
+    "kr.topic.2022.high.e2c990e5ae63d09a4bfb"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fada5ad2567283ea26",
+   "titleKorean": "방적·방사 — 소면",
+   "subjectKorean": "방적·방사",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "소면",
+   "summary": "방적·방사의 소면 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.0660ed491889a908864f",
+    "kr.topic.2022.high.15264b929237bb3b7376",
+    "kr.topic.2022.high.221739a9d9f7e4f758cf",
+    "kr.topic.2022.high.2bccac5091b00faa6dab",
+    "kr.topic.2022.high.463cd85020d00d0fbc12",
+    "kr.topic.2022.high.89ca1d3f90264f4cbcee",
+    "kr.topic.2022.high.a3a7efba220ab9f7297e",
+    "kr.topic.2022.high.a3eb1275647d834a98e1",
+    "kr.topic.2022.high.ae6eb8f97a440889098e",
+    "kr.topic.2022.high.b23ec016c9eb07864a72",
+    "kr.topic.2022.high.de6715f7f3e35d40d2ae",
+    "kr.topic.2022.high.f998df3a67ba5232ddce",
+    "kr.topic.2022.high.fbd835c62c8ac33273e4"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fb0388131447ed5eb8",
+   "titleKorean": "패턴 메이킹 — 패션 상품 원부자재 소요량 산출",
+   "subjectKorean": "패턴 메이킹",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "패션 상품 원부자재 소요량 산출",
+   "summary": "패턴 메이킹의 패션 상품 원부자재 소요량 산출 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.02d9366077abd799c8e6",
+    "kr.topic.2022.high.6a1a56b21eef26c1a738",
+    "kr.topic.2022.high.93a6cefb35632bc7ffa0",
+    "kr.topic.2022.high.a55d8db5d70aff2cfadc",
+    "kr.topic.2022.high.cbcf32394be877ecc92c",
+    "kr.topic.2022.high.dd789110e589aeff69d9",
+    "kr.topic.2022.high.e732a227a18deb5a82b8",
+    "kr.topic.2022.high.ee3682f7fb18ebe39294",
+    "kr.topic.2022.high.f2b1a0a0ddbf0e771e63",
+    "kr.topic.2022.high.f940f4d227677b93ebf4"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fdc14e7e63dc21f3ac",
+   "titleKorean": "패션 상품 유통 관리 — 의류 영업 관리",
+   "subjectKorean": "패션 상품 유통 관리",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "의류 영업 관리",
+   "summary": "패션 상품 유통 관리의 의류 영업 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.042e9b08d0065678a7d3",
+    "kr.topic.2022.high.2f58e4eb7a802c309f22",
+    "kr.topic.2022.high.60e7ad4bb22a3f775c71",
+    "kr.topic.2022.high.6a0d75d176d4ab882215",
+    "kr.topic.2022.high.6bf170b5a5d2dec76e68",
+    "kr.topic.2022.high.89447a683103e852595a",
+    "kr.topic.2022.high.94dc5d0b92ddbe0d3ac7",
+    "kr.topic.2022.high.a2437a3772b550674d44"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fecfbfdf7a2f80b4f3",
+   "titleKorean": "패턴 메이킹 — 패션 상품 QC 샘플 검사",
+   "subjectKorean": "패턴 메이킹",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "패션 상품 QC 샘플 검사",
+   "summary": "패턴 메이킹의 패션 상품 QC 샘플 검사 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.581c10351fd3b7fc790a",
+    "kr.topic.2022.high.694f1d7b7d6ee622ddbc",
+    "kr.topic.2022.high.6b930e353ccda777ceda",
+    "kr.topic.2022.high.76d7f10dfda6e072e839",
+    "kr.topic.2022.high.b4d1ffc74cd6a50af29b",
+    "kr.topic.2022.high.d6f6baac5a78fe53792f",
+    "kr.topic.2022.high.f5fd9c7aad08cdffd9ff",
+    "kr.topic.2022.high.f6346be6083871891e9d",
+    "kr.topic.2022.high.f9760a2e33d9a58db4f7",
+    "kr.topic.2022.high.fb2d005fafa68b936585"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ff780a69df0ee4ab1e",
+   "titleKorean": "비주얼 머천다이징 — 패션 매장 구성 전개",
+   "subjectKorean": "비주얼 머천다이징",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "패션 매장 구성 전개",
+   "summary": "비주얼 머천다이징의 패션 매장 구성 전개 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 15,
+   "topics": [
+    "kr.topic.2022.high.2036b2bded5860215bde",
+    "kr.topic.2022.high.262943400333aa034183",
+    "kr.topic.2022.high.28b974f029a555232799",
+    "kr.topic.2022.high.2a26a8b1b8d54c6571d4",
+    "kr.topic.2022.high.3a0be4a373a6e1f462b7",
+    "kr.topic.2022.high.45b42e70c00dc37fa059",
+    "kr.topic.2022.high.6dce44b2cd4584f8b2be",
+    "kr.topic.2022.high.747b32b315ac20d18250",
+    "kr.topic.2022.high.7bf2929c507936c1a9d4",
+    "kr.topic.2022.high.9c4e170271b4eaf248ee",
+    "kr.topic.2022.high.9cc1f309a24866a92880",
+    "kr.topic.2022.high.a86cbbba55ea3b2c6441",
+    "kr.topic.2022.high.ad50d1ecd53bced58143",
+    "kr.topic.2022.high.af59cc0807f4d25fd6f1",
+    "kr.topic.2022.high.f91dd5cdba43ebea0800"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ff9d5d22bcfdf5a6a0",
+   "titleKorean": "방적·방사 — 연조",
+   "subjectKorean": "방적·방사",
+   "majorFieldSlug": "textile-clothing",
+   "gradeBand": "10-12",
+   "domainKorean": "연조",
+   "summary": "방적·방사의 연조 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.1fd320bd5cf979f81d20",
+    "kr.topic.2022.high.28bc155ff527766accae",
+    "kr.topic.2022.high.2e80346cbbd5784bea1b",
+    "kr.topic.2022.high.3dd1543db318f02c1245",
+    "kr.topic.2022.high.6efcc2127a77b015f139",
+    "kr.topic.2022.high.714273c3addda094e734",
+    "kr.topic.2022.high.7fe660d2209e337859e9",
+    "kr.topic.2022.high.80856261377fb2a62e34",
+    "kr.topic.2022.high.bb4d6fd95beb87b028f4",
+    "kr.topic.2022.high.c76a440760f70b4d5a85",
+    "kr.topic.2022.high.cf2c307024c693b85f39",
+    "kr.topic.2022.high.db60ae52f789e63c7d9a"
    ]
   }
  ]

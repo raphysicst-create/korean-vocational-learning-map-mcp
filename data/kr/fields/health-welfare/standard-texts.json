@@ -703,6 +703,916 @@
    "locator": "pattern-match"
   },
   {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 01-01-01]",
+   "code": "[대복 01-01-01]",
+   "text": "대상자의 개별 파일에 근거하여 식사 능력을 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 01-01-02]",
+   "code": "[대복 01-01-02]",
+   "text": "대상자의 식사 능력에 따라 식사 지원 서비스를 제공할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 01-01-03]",
+   "code": "[대복 01-01-03]",
+   "text": "대상자가 식사 보조 기구를 활용하도록 지원할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 01-01-04]",
+   "code": "[대복 01-01-04]",
+   "text": "식사량, 식사 습관, 특이 사항을 관찰하고 기록할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 01-02-01]",
+   "code": "[대복 01-02-01]",
+   "text": "대상자의 개별 파일에 근거하여 이동 능력을 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 01-02-02]",
+   "code": "[대복 01-02-02]",
+   "text": "대상자의 이동 능력에 따라 이동 지원 서비스를 제공할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 01-02-03]",
+   "code": "[대복 01-02-03]",
+   "text": "이동 보조 기구를 활용할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 01-02-04]",
+   "code": "[대복 01-02-04]",
+   "text": "이동 중 특이 사항을 관찰하여 기록할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 01-03-01]",
+   "code": "[대복 01-03-01]",
+   "text": "대상자의 개별 파일에 근거하여 배설 능력을 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 01-03-02]",
+   "code": "[대복 01-03-02]",
+   "text": "대상자에게 용변을 위한 편안하고 안정적인 환경을 조성할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 01-03-03]",
+   "code": "[대복 01-03-03]",
+   "text": "대소변 보조 시 활용 가능한 용변 보조 기구에 대하여 이해하고 활용할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 01-03-04]",
+   "code": "[대복 01-03-04]",
+   "text": "서비스 제공 시 용변 관련 특이 사항을 관찰하고 기록할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 01-04-01]",
+   "code": "[대복 01-04-01]",
+   "text": "대상자의 개별 파일에 근거하여 목욕 서비스를 제공할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 01-04-02]",
+   "code": "[대복 01-04-02]",
+   "text": "목욕 서비스에 필요한 물품과 환경을 관리할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 01-04-03]",
+   "code": "[대복 01-04-03]",
+   "text": "목욕 서비스 제공 시 안전 규칙을 준수하여 서비스를 제공할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 01-04-04]",
+   "code": "[대복 01-04-04]",
+   "text": "대상자가 스스로 목욕하도록 지원할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 01-04-05]",
+   "code": "[대복 01-04-05]",
+   "text": "목욕 서비스 제공 시 목욕 보조 기구를 활용할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 01-05-01]",
+   "code": "[대복 01-05-01]",
+   "text": "대상자의 개별 파일과 체크리스트에 따라 용모 관리 능력을 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 01-05-02]",
+   "code": "[대복 01-05-02]",
+   "text": "대상자에게 적합한 용모 관리 서비스를 협의하여 제공할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 01-05-03]",
+   "code": "[대복 01-05-03]",
+   "text": "용모 관리 후 사용 물품과 주변을 정리할 수 있도록 지원할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 02-01-01]",
+   "code": "[대복 02-01-01]",
+   "text": "대상자의 학습 진단 평가서에 근거하여 학습 욕구와 수준을 조사할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 02-01-02]",
+   "code": "[대복 02-01-02]",
+   "text": "대상자의 학습 욕구와 수준에 맞는 계획서를 작성할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 02-01-03]",
+   "code": "[대복 02-01-03]",
+   "text": "대상자의 학습 욕구와 수준에 맞는 자원을 관리할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 02-01-04]",
+   "code": "[대복 02-01-04]",
+   "text": "대상자의 학습 수준에 맞는 지도를 할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 02-02-01]",
+   "code": "[대복 02-02-01]",
+   "text": "대상자의 인지진단수준에 근거하여 인지력 저하의 원인과 특성을 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 02-02-02]",
+   "code": "[대복 02-02-02]",
+   "text": "대상자에게 인지력 저하에 대한 예방 활동을 할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 02-02-03]",
+   "code": "[대복 02-02-03]",
+   "text": "인지력 저하에 대해 대상자에게 필요한 지역 자원을 연계할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 02-02-04]",
+   "code": "[대복 02-02-04]",
+   "text": "대상자에게 인지력 향상을 위한 프로그램을 지원할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 02-03-01]",
+   "code": "[대복 02-03-01]",
+   "text": "대상자의 개별 파일에 근거하여 정신 건강 상태를 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 02-03-02]",
+   "code": "[대복 02-03-02]",
+   "text": "대상자의 심리적 욕구를 상담 기록지를 통해 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 02-03-03]",
+   "code": "[대복 02-03-03]",
+   "text": "대상자에게 심리적 지지를 위한 활동 프로그램을 지원할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 02-03-04]",
+   "code": "[대복 02-03-04]",
+   "text": "대상자의 심리 안정 지원을 위한 자원을 연계할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 02-04-01]",
+   "code": "[대복 02-04-01]",
+   "text": "대상자의 여가 활동 지원을 위한 욕구를 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 02-04-02]",
+   "code": "[대복 02-04-02]",
+   "text": "대상자의 특성 및 욕구에 따른 여가 활동을 목록화하고 계획할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 02-04-03]",
+   "code": "[대복 02-04-03]",
+   "text": "대상자의 여가 활동 지원을 위한 자원을 개발 관리할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 02-04-04]",
+   "code": "[대복 02-04-04]",
+   "text": "대상자의 특성 및 욕구에 맞는 여가 활동 정보를 제공할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 02-04-05]",
+   "code": "[대복 02-04-05]",
+   "text": "대상자의 여가 활동에 대한 만족도를 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 02-05-01]",
+   "code": "[대복 02-05-01]",
+   "text": "갈등의 원인과 유형을 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 02-05-02]",
+   "code": "[대복 02-05-02]",
+   "text": "갈등이 있는 대상자와 상담할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 02-05-03]",
+   "code": "[대복 02-05-03]",
+   "text": "갈등 관리 프로그램을 계획할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 02-05-04]",
+   "code": "[대복 02-05-04]",
+   "text": "갈등 관리 프로그램을 운영 또는 실행할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 03-01-01]",
+   "code": "[대복 03-01-01]",
+   "text": "대상자의 개별 파일과 체크리스트에 근거하여 식사 준비 능력을 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 03-01-02]",
+   "code": "[대복 03-01-02]",
+   "text": "대상자의 신체적인 기능에 따라 조리와 상차림을 제공할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 03-01-03]",
+   "code": "[대복 03-01-03]",
+   "text": "식사 서비스를 제공하기 위한 조리 기구를 활용할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 03-02-01]",
+   "code": "[대복 03-02-01]",
+   "text": "대상자의 개별 파일과 체크리스트에 근거하여 청소 능력을 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 03-02-02]",
+   "code": "[대복 03-02-02]",
+   "text": "대상자의 능력에 적합한 청소 활동을 유도할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 03-02-03]",
+   "code": "[대복 03-02-03]",
+   "text": "청소 서비스를 제공하기 위해 청소 도구를 활용할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 03-03-01]",
+   "code": "[대복 03-03-01]",
+   "text": "대상자의 개별 파일과 체크리스트에 근거하여 의복 관리 능력을 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 03-03-02]",
+   "code": "[대복 03-03-02]",
+   "text": "대상자의 욕구와 상황에 따른 의복 관리에 필요한 서비스를 제공할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 03-03-03]",
+   "code": "[대복 03-03-03]",
+   "text": "의복 관리에 필요한 물품을 정리할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 04-01-01]",
+   "code": "[대복 04-01-01]",
+   "text": "대상자의 개별 파일에 근거하여 정보를 제공할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 04-01-02]",
+   "code": "[대복 04-01-02]",
+   "text": "대상자의 욕구를 파악하여 지역 자원 정보를 제공할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 04-01-03]",
+   "code": "[대복 04-01-03]",
+   "text": "대상자의 욕구에 부응하는 지역 자원을 연계할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 04-02-01]",
+   "code": "[대복 04-02-01]",
+   "text": "외출 지원을 위한 대상자의 욕구를 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 04-02-02]",
+   "code": "[대복 04-02-02]",
+   "text": "대상자의 상태와 욕구에 따라 외출 지원 서비스를 제공할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 04-02-03]",
+   "code": "[대복 04-02-03]",
+   "text": "외출 지원을 위한 지역사회 자원을 연계할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 04-02-04]",
+   "code": "[대복 04-02-04]",
+   "text": "외출 중 응급 상황에 적절하게 대처할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 04-03-01]",
+   "code": "[대복 04-03-01]",
+   "text": "대상자와의 상담을 통해 금전 관리 지원 욕구를 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 04-03-02]",
+   "code": "[대복 04-03-02]",
+   "text": "금융 지식 및 정보를 습득할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 04-03-03]",
+   "code": "[대복 04-03-03]",
+   "text": "대상자의 욕구에 따른 금전 관리 서비스를 제공할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 04-03-04]",
+   "code": "[대복 04-03-04]",
+   "text": "금전 관리 서비스 내용을 기록할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 04-04-01]",
+   "code": "[대복 04-04-01]",
+   "text": "대상자의 민원 요구를 민원 처리 기관에 맞게 분류할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 04-04-02]",
+   "code": "[대복 04-04-02]",
+   "text": "대상자의 요구를 바탕으로 민원 처리 방법에 따른 서식을 작성할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 04-04-03]",
+   "code": "[대복 04-04-03]",
+   "text": "필요한 민원 처리 서비스를 제공할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 04-04-04]",
+   "code": "[대복 04-04-04]",
+   "text": "대상자가 정보 통신 기기(스마트폰, 태블릿 PC 등)를 활용할 수 있도록 지원할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 04-05-01]",
+   "code": "[대복 04-05-01]",
+   "text": "대상자 특성에 맞는 인권 교육 계획서를 작성할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 04-05-02]",
+   "code": "[대복 04-05-02]",
+   "text": "인권 교육 자료를 준비하여 교육할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 04-05-03]",
+   "code": "[대복 04-05-03]",
+   "text": "설문 조사를 통해 인권 의식 변화를 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 04-05-04]",
+   "code": "[대복 04-05-04]",
+   "text": "인권 교육 결과를 보고할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 05-01-01]",
+   "code": "[대복 05-01-01]",
+   "text": "체크리스트를 통해 대상자의 위생 상태를 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 05-01-02]",
+   "code": "[대복 05-01-02]",
+   "text": "대상자의 상태에 따라 위생 서비스를 제공할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 05-01-03]",
+   "code": "[대복 05-01-03]",
+   "text": "위생 지원에 따른 대상자의 상태 변화를 관찰하여 기록할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 05-01-04]",
+   "code": "[대복 05-01-04]",
+   "text": "제공된 위생 서비스를 점검할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 05-02-01]",
+   "code": "[대복 05-02-01]",
+   "text": "대상자의 개인 파일에 근거하여 복용 약물을 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 05-02-02]",
+   "code": "[대복 05-02-02]",
+   "text": "대상자의 상태에 따라 약물 복용 지원을 제공할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 05-02-03]",
+   "code": "[대복 05-02-03]",
+   "text": "약물 복용 지원에 따른 대상자의 상태 변화를 관찰하여 기록할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 05-02-04]",
+   "code": "[대복 05-02-04]",
+   "text": "대상자의 상태 변화에 따라 약물 복용 지원을 점검할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 05-03-01]",
+   "code": "[대복 05-03-01]",
+   "text": "대상자의 개별 파일에 근거하여 건강 상태를 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 05-03-02]",
+   "code": "[대복 05-03-02]",
+   "text": "대상자의 상태에 따라 건강 체크를 할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 05-03-03]",
+   "code": "[대복 05-03-03]",
+   "text": "건강 체크 결과를 기록할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 05-03-04]",
+   "code": "[대복 05-03-04]",
+   "text": "대상자의 상태 변화에 따라 건강 상태의 개선을 위해 의료 기관에 연계할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 05-04-01]",
+   "code": "[대복 05-04-01]",
+   "text": "대상자의 개별 파일에 근거하여 신체 특성을 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 05-04-02]",
+   "code": "[대복 05-04-02]",
+   "text": "의사의 처방과 대상자의 상태에 따라 재활 운동 보조를 계획하여 수행할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 05-04-03]",
+   "code": "[대복 05-04-03]",
+   "text": "재활 운동 상황을 기록할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 06-01-01]",
+   "code": "[대복 06-01-01]",
+   "text": "보호자의 부양 의지를 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 06-01-02]",
+   "code": "[대복 06-01-02]",
+   "text": "대상자에게 제공되는 서비스 내용을 설명할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 06-01-03]",
+   "code": "[대복 06-01-03]",
+   "text": "대상자의 욕구를 보호자에게 전달할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 06-01-04]",
+   "code": "[대복 06-01-04]",
+   "text": "보호자 교육에 필요한 일정, 방법, 내용을 계획할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 06-01-05]",
+   "code": "[대복 06-01-05]",
+   "text": "보호자 교육 내용을 기록할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 06-02-01]",
+   "code": "[대복 06-02-01]",
+   "text": "보호자의 연락처를 정기적으로 점검할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 06-02-02]",
+   "code": "[대복 06-02-02]",
+   "text": "상담을 통해 가족 교류에 대한 대상자와 보호자의 욕구를 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 06-02-03]",
+   "code": "[대복 06-02-03]",
+   "text": "가족 교류 실행 내용을 기록할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 06-02-04]",
+   "code": "[대복 06-02-04]",
+   "text": "가족 교류에 필요한 일정, 방법, 내용을 계획할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 06-03-01]",
+   "code": "[대복 06-03-01]",
+   "text": "자조 모임의 성격과 구성원의 특성에 적합한 자조 모임 계획 수립을 지원할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 06-03-02]",
+   "code": "[대복 06-03-02]",
+   "text": "자조 모임의 변화 과정과 구성원의 만족도에 대해 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 06-03-03]",
+   "code": "[대복 06-03-03]",
+   "text": "자조 모임의 결과를 분석하고 지속적인 관리를 할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 06-03-04]",
+   "code": "[대복 06-03-04]",
+   "text": "자조 모임에 필요한 자원을 연계할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 06-03-05]",
+   "code": "[대복 06-03-05]",
+   "text": "새로운 자조 모임을 구성하도록 합의하고 지도할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 07-01-01]",
+   "code": "[대복 07-01-01]",
+   "text": "대상자 특성에 맞는 안전 교육 계획서를 작성할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 07-01-02]",
+   "code": "[대복 07-01-02]",
+   "text": "안전 교육 자료를 준비하고 교육할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 07-01-03]",
+   "code": "[대복 07-01-03]",
+   "text": "설문조사를 통하여 안전의식 변화를 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 07-01-04]",
+   "code": "[대복 07-01-04]",
+   "text": "안전 교육 결과를 기록하고 보고할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 07-02-01]",
+   "code": "[대복 07-02-01]",
+   "text": "사고 발생의 장소, 시간, 원인을 분석하여 데이터화할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 07-02-02]",
+   "code": "[대복 07-02-02]",
+   "text": "안전 점검표를 통해 사고 발생의 위험 요인을 파악하여 안전사고를 예방할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 07-02-03]",
+   "code": "[대복 07-02-03]",
+   "text": "소방과 안전에 관련된 매뉴얼을 작성할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 07-02-04]",
+   "code": "[대복 07-02-04]",
+   "text": "긴급 지원과 관련된 제도와 자원을 목록화할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 07-03-01]",
+   "code": "[대복 07-03-01]",
+   "text": "대상자가 처한 응급 상황을 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 07-03-02]",
+   "code": "[대복 07-03-02]",
+   "text": "매뉴얼에 따라 응급 상황에 대처할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 07-03-03]",
+   "code": "[대복 07-03-03]",
+   "text": "응급 상황 대처에 관하여 기록하여 보고할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 07-04-01]",
+   "code": "[대복 07-04-01]",
+   "text": "감염병의 종류와 증상을 구분할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 07-04-02]",
+   "code": "[대복 07-04-02]",
+   "text": "감염병 예방 매뉴얼을 작성할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 07-04-03]",
+   "code": "[대복 07-04-03]",
+   "text": "감염병 예방 수칙을 지도할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 07-04-04]",
+   "code": "[대복 07-04-04]",
+   "text": "감염병 접촉자를 관리할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 07-04-05]",
+   "code": "[대복 07-04-05]",
+   "text": "방역 소독 활동 등을 지원할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 08-01-01]",
+   "code": "[대복 08-01-01]",
+   "text": "서비스 제공자는 업무 일지에 서비스 제공일의 업무 내용을 기록할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 08-01-02]",
+   "code": "[대복 08-01-02]",
+   "text": "업무 일지의 분석을 통해 업무 계획을 세울 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 08-01-03]",
+   "code": "[대복 08-01-03]",
+   "text": "슈퍼바이저(또는 관리자)에게 업무 일지를 보고할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 08-01-04]",
+   "code": "[대복 08-01-04]",
+   "text": "업무 일지를 통해 교대자에게 인수인계를 할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 08-02-01]",
+   "code": "[대복 08-02-01]",
+   "text": "서비스 제공에 대한 활동 일지를 기록할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 08-02-02]",
+   "code": "[대복 08-02-02]",
+   "text": "활동 일지를 통해 프로그램을 분석 및 평가할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 08-02-03]",
+   "code": "[대복 08-02-03]",
+   "text": "활동 일지를 통해 대상자의 변화를 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 08-02-04]",
+   "code": "[대복 08-02-04]",
+   "text": "활동 일지를 통해 관계 부서와 정보를 교환할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 08-03-01]",
+   "code": "[대복 08-03-01]",
+   "text": "대상자의 필요한 정보를 개별 파일에 기록할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 08-03-02]",
+   "code": "[대복 08-03-02]",
+   "text": "개별 파일의 안전한 보관을 위해 시건장치를 관리할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 08-03-03]",
+   "code": "[대복 08-03-03]",
+   "text": "개별 파일을 통해 대상자의 변화 정도를 측정할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 08-03-04]",
+   "code": "[대복 08-03-04]",
+   "text": "개별 파일을 분석하여 서비스 지원 계획에 반영할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 08-04-01]",
+   "code": "[대복 08-04-01]",
+   "text": "회의 목적에 따라 회의 자료를 준비할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 08-04-02]",
+   "code": "[대복 08-04-02]",
+   "text": "회의에 참여하여 객관적 사실을 보고할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 08-04-03]",
+   "code": "[대복 08-04-03]",
+   "text": "회의에 참여하여 의견을 공유할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-대인-복지-서비스:[대복 08-04-04]",
+   "code": "[대복 08-04-04]",
+   "text": "회의 결과를 업무에 반영할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
    "key": "kr-2022-voc-보건-간호:[보간 01-01]",
    "code": "[보간 01-01]",
    "text": "지역사회 보건의 개념을 이해하고 일차 보건 의료의 특성을 설명할 수 있다.",
@@ -1410,6 +2320,433 @@
    "locator": "pattern-match"
   },
   {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 01-01-01]",
+   "code": "[사실 01-01-01]",
+   "text": "재원별 기능 항목을 파악하여 적정하게 지출할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 01-01-02]",
+   "code": "[사실 01-01-02]",
+   "text": "수립된 예산을 근거하여 수입, 지출을 관리할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 01-01-03]",
+   "code": "[사실 01-01-03]",
+   "text": "수입, 지출 내역에 대한 회계 장부 관리를 투명하게 하고, 증빙 서류를 분류, 보관할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 01-01-04]",
+   "code": "[사실 01-01-04]",
+   "text": "사업별로 정산하고 결산 보고를 할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 01-02-01]",
+   "code": "[사실 01-02-01]",
+   "text": "예산 재원에 따른 예산의 집행 원칙을 수립할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 01-02-02]",
+   "code": "[사실 01-02-02]",
+   "text": "사업별 지출 재원과 지출 방법을 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 01-02-03]",
+   "code": "[사실 01-02-03]",
+   "text": "예산 규정에 의거 현금, 계좌 이체, 체크 카드 결제 등의 방법으로 예산을 집행할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 01-02-04]",
+   "code": "[사실 01-02-04]",
+   "text": "사회 복지 재무 회계 규칙에 따라 적절한 절차를 준수할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 02-01-01]",
+   "code": "[사실 02-01-01]",
+   "text": "소프트웨어를 구입 및 설치할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 02-01-02]",
+   "code": "[사실 02-01-02]",
+   "text": "컴퓨터 장비를 관리할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 02-01-03]",
+   "code": "[사실 02-01-03]",
+   "text": "데이터를 백업할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 02-01-04]",
+   "code": "[사실 02-01-04]",
+   "text": "조직 내 공유 폴더 관리할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 02-01-05]",
+   "code": "[사실 02-01-05]",
+   "text": "직원 IP 관리할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 02-02-01]",
+   "code": "[사실 02-02-01]",
+   "text": "바이러스를 예방 및 치료 관리할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 02-02-02]",
+   "code": "[사실 02-02-02]",
+   "text": "개인별 PC, 암호를 관리할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 02-02-03]",
+   "code": "[사실 02-02-03]",
+   "text": "방화벽 관리할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 02-02-04]",
+   "code": "[사실 02-02-04]",
+   "text": "개인 정보 보호관련 법적 사항을 교육할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 02-03-01]",
+   "code": "[사실 02-03-01]",
+   "text": "업무 처리 절차를 개선할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 02-03-02]",
+   "code": "[사실 02-03-02]",
+   "text": "문서를 표준화할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 02-03-03]",
+   "code": "[사실 02-03-03]",
+   "text": "업무 시스템을 유지, 보수할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 02-03-04]",
+   "code": "[사실 02-03-04]",
+   "text": "사회 복지 전산 시스템을 운영할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 02-04-01]",
+   "code": "[사실 02-04-01]",
+   "text": "사회 복지 시설 정보를 데이터베이스화할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 02-04-02]",
+   "code": "[사실 02-04-02]",
+   "text": "사회 복지 정보 체계를 조직 정보 체계, 성과 정보 체계, 클라이언트 정보 체계로 구분하 여 관리할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 02-04-03]",
+   "code": "[사실 02-04-03]",
+   "text": "조직 구조에 맞는 파일링시스템을 마련할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 02-04-04]",
+   "code": "[사실 02-04-04]",
+   "text": "조직 구조에 맞는 문서 처리 절차를 마련할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 03-01-01]",
+   "code": "[사실 03-01-01]",
+   "text": "클라이언트가 편안한 마음으로 면담을 할 수 있도록 물리적, 정서적 환경을 조성할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 03-01-02]",
+   "code": "[사실 03-01-02]",
+   "text": "클라이언트에게 면담 목적과 범위에 대해 안내할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 03-01-03]",
+   "code": "[사실 03-01-03]",
+   "text": "면담 내용의 활용 및 개인 정보 보호에 대해 안내할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 03-01-04]",
+   "code": "[사실 03-01-04]",
+   "text": "클라이언트의 자발적인 협조를 이끌어 낼 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 03-02-01]",
+   "code": "[사실 03-02-01]",
+   "text": "클라이언트의 욕구와 문제에 기반하여 면담에 대한 목표를 합의할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 03-02-02]",
+   "code": "[사실 03-02-02]",
+   "text": "클라이언트와 구체적인 면담 여건을 설정할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 03-02-03]",
+   "code": "[사실 03-02-03]",
+   "text": "면담 과정에서 클라이언트와 사회 복지사의 관계를 구조화할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 03-02-04]",
+   "code": "[사실 03-02-04]",
+   "text": "클라이언트와 면담 진행에 대하여 계약서를 작성할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 03-03-01]",
+   "code": "[사실 03-03-01]",
+   "text": "면담 중 클라이언트가 사용하는 언어적･비언어적 표현을 해석할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 03-03-02]",
+   "code": "[사실 03-03-02]",
+   "text": "클라이언트의 주 호소 욕구와 문제를 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 03-03-03]",
+   "code": "[사실 03-03-03]",
+   "text": "클라이언트의 특성에 근거하여 적합한 면담의 유형을 선택할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 03-04-01]",
+   "code": "[사실 03-04-01]",
+   "text": "클라이언트의 개인력･가족력을 조사할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 03-04-02]",
+   "code": "[사실 03-04-02]",
+   "text": "클라이언트의 사회 경제적 상황을 조사할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 03-04-03]",
+   "code": "[사실 03-04-03]",
+   "text": "클라이언트의 공식적･비공식적 자원을 조사할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 04-01-01]",
+   "code": "[사실 04-01-01]",
+   "text": "시설 내 게시판, 소식지, 홈페이지에 수록할 홍보물을 제작할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 04-01-02]",
+   "code": "[사실 04-01-02]",
+   "text": "언론 매체 및 유관 기관용(공공, 민관) 보도 자료를 제작할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 04-01-03]",
+   "code": "[사실 04-01-03]",
+   "text": "웹용(인터넷 포털 사이트, SNS) 홍보물을 제작할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 04-02-01]",
+   "code": "[사실 04-02-01]",
+   "text": "제작된 홍보 자료를 활용하여 프로그램 참가자를 모집할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 04-02-02]",
+   "code": "[사실 04-02-02]",
+   "text": "제작된 홍보 자료를 활용하여 지역사회에 프로그램을 안내할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 04-02-03]",
+   "code": "[사실 04-02-03]",
+   "text": "제작된 홍보 자료를 활용하여 잠재적 후원자에게 프로그램을 안내할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 04-03-01]",
+   "code": "[사실 04-03-01]",
+   "text": "프로그램의 목적과 목표 달성 정도에 초점을 맞추어 성과를 요약할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 04-03-02]",
+   "code": "[사실 04-03-02]",
+   "text": "진행된 프로그램의 성과를 지역사회에 홍보할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 04-03-03]",
+   "code": "[사실 04-03-03]",
+   "text": "프로그램의 성과를 참가자와 가족에게 안내할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 05-01-01]",
+   "code": "[사실 05-01-01]",
+   "text": "프로그램 참여를 원하는 이용자들에게 정보를 안내할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 05-01-02]",
+   "code": "[사실 05-01-02]",
+   "text": "프로그램 참여를 원하는 이용자의 신청서를 접수할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 05-01-03]",
+   "code": "[사실 05-01-03]",
+   "text": "프로그램 이용자 선정 기준을 고려하여 이용자의 우선순위를 결정할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 05-02-01]",
+   "code": "[사실 05-02-01]",
+   "text": "우선순위에 따라 확정된 이용자와 프로그램 참여에 대한 계약을 할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 05-02-02]",
+   "code": "[사실 05-02-02]",
+   "text": "외부 환경, 이용자의 상황 변화에 따라 프로그램의 진행 과정을 조정할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 05-02-03]",
+   "code": "[사실 05-02-03]",
+   "text": "프로그램 일정에 따라 관리자에게 프로그램 회기별 진행 상황을 보고할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 05-02-04]",
+   "code": "[사실 05-02-04]",
+   "text": "프로그램 계획에 의거하여 작성된 예산서에 따라 각 항목에 맞게 예산을 집행할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 05-03-01]",
+   "code": "[사실 05-03-01]",
+   "text": "프로그램 진행에 필요한 내･외부 공문서를 작성할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 05-03-02]",
+   "code": "[사실 05-03-02]",
+   "text": "결재 과정을 통해 계획된 예산 집행을 위한 승인을 획득할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 05-03-03]",
+   "code": "[사실 05-03-03]",
+   "text": "기관의 문서 관리 규정에 따라 프로그램 진행 과정에서 발생한 문서를 분류할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 05-04-01]",
+   "code": "[사실 05-04-01]",
+   "text": "시설 기록 양식에 준하여 과정 기록지, 프로그램 일지를 작성할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 05-04-02]",
+   "code": "[사실 05-04-02]",
+   "text": "사회 복지 시설 정보 시스템에 프로그램 실적을 입력할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-사회-복지-시설-실무:[사실 05-04-03]",
+   "code": "[사실 05-04-03]",
+   "text": "프로그램의 결과물에 근거하여 이용자의 변화를 문서로 작성할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
    "key": "kr-2022-voc-사회-복지-시설의-이해:[사이 01-01]",
    "code": "[사이 01-01]",
    "text": "한국 사회 복지의 역사적 변천 과정을 시대적 흐름에 맞춰 설명할 수 있다.",
@@ -1844,6 +3181,132 @@
    "locator": "pattern-match"
   },
   {
+   "key": "kr-2022-voc-영유아-건강-안전-영양-지도:[영건 01-01-01]",
+   "code": "[영건 01-01-01]",
+   "text": "건강 관련 법규와 전년도 건강 관리 실행 내용을 확인하여 당해 연도의 건강에 대한 행동 요령 및 지침을 마련할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-건강-안전-영양-지도:[영건 01-01-02]",
+   "code": "[영건 01-01-02]",
+   "text": "영유아 연령별, 보육 교직원의 건강 관리 계획서를 작성할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-건강-안전-영양-지도:[영건 01-02-01]",
+   "code": "[영건 01-02-01]",
+   "text": "보육 일과를 진행하면서 영유아의 건강 상태를 수시로 점검할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-건강-안전-영양-지도:[영건 01-02-02]",
+   "code": "[영건 01-02-02]",
+   "text": "영유아의 질병에 따른 투약 의뢰서 및 보고서를 작성할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-건강-안전-영양-지도:[영건 01-03-01]",
+   "code": "[영건 01-03-01]",
+   "text": "관련 기관에서 실시하는 건강 교육에 참여하여 습득한 지식을 토대로 응급 상황에 적절 히 대처할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-건강-안전-영양-지도:[영건 01-03-02]",
+   "code": "[영건 01-03-02]",
+   "text": "어린이집에서 전염병 발생 사항을 파악하여 절차에 따라 보육 교직원과 시군구에 보고할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-건강-안전-영양-지도:[영건 02-01-01]",
+   "code": "[영건 02-01-01]",
+   "text": "법규 내용 및 전년도 안전 관리 실행 내용을 분석하여 당해 연도의 영·유아 안전에 대한 행동 요령 및 지침을 작성할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-건강-안전-영양-지도:[영건 02-01-02]",
+   "code": "[영건 02-01-02]",
+   "text": "영유아 연령별로 안전 교육 내용을 계획할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-건강-안전-영양-지도:[영건 02-02-01]",
+   "code": "[영건 02-02-01]",
+   "text": "안전 관리 행동 요령 및 지침에 따라 시설 설비를 정기적으로 점검할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-건강-안전-영양-지도:[영건 02-02-02]",
+   "code": "[영건 02-02-02]",
+   "text": "소방 대피 훈련 등 다양한 안전 교육을 실행할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-건강-안전-영양-지도:[영건 02-03-01]",
+   "code": "[영건 02-03-01]",
+   "text": "소방서 등 관련 기관과 비상 연락망을 구축할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-건강-안전-영양-지도:[영건 02-03-02]",
+   "code": "[영건 02-03-02]",
+   "text": "관련 기관에서 실시하는 안전 교육에 참여하여 습득한 지식을 상황 발생 시 적용할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-건강-안전-영양-지도:[영건 03-01-01]",
+   "code": "[영건 03-01-01]",
+   "text": "영양사가 작성한 기본 식단을 토대로 급·간식 계획을 수립할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-건강-안전-영양-지도:[영건 03-01-02]",
+   "code": "[영건 03-01-02]",
+   "text": "개별 영유아의 식습관과 특이체질 여부를 확인하여 식단을 계획하고 제공할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-건강-안전-영양-지도:[영건 03-02-01]",
+   "code": "[영건 03-02-01]",
+   "text": "영유아 식습관 · 위생 지도 방법을 토대로 지도할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-건강-안전-영양-지도:[영건 03-02-02]",
+   "code": "[영건 03-02-02]",
+   "text": "영유아가 균형 잡힌 식습관을 형성할 수 있도록 지도할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-건강-안전-영양-지도:[영건 03-02-03]",
+   "code": "[영건 03-02-03]",
+   "text": "올바른 식사 태도, 편식 지도, 식사 도구의 바른 사용 등 식사 예절을 지도할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-건강-안전-영양-지도:[영건 03-02-04]",
+   "code": "[영건 03-02-04]",
+   "text": "영아가 수유 및 이유식을 편안하게 먹을 수 있도록 지도할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
    "key": "kr-2022-voc-영유아-교수-방법:[영교 01-01-01]",
    "code": "[영교 01-01-01]",
    "text": "영유아의 흥미와 발달 수준에 적합한 신체 활동 내용을 설명할 수 있다.",
@@ -2141,6 +3604,1476 @@
    "key": "kr-2022-voc-영유아-교수-방법:[영교 06-03-04]",
    "code": "[영교 06-03-04]",
    "text": "영유아가 과학적으로 탐구할 수 있도록 흥미와 요구를 고려한 개방적 질문을 구성할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 01-01-01]",
+   "code": "[영놀 01-01-01]",
+   "text": "전년도 어린이집 운영 방침을 고려하여 운영상의 장단점을 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 01-01-02]",
+   "code": "[영놀 01-01-02]",
+   "text": "보호자, 영유아, 보육 교직원, 지역사회의 어린이집에 대한 요구를 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 01-01-03]",
+   "code": "[영놀 01-01-03]",
+   "text": "어린이집 운영 철학과 보육 목표를 수립할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 01-01-04]",
+   "code": "[영놀 01-01-04]",
+   "text": "세입･세출 합계를 비교하여 당해 연도의 예산을 관･항･목으로 편성할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 01-01-05]",
+   "code": "[영놀 01-01-05]",
+   "text": "어린이집 운영 방침을 운영위원회 회의에 상정하여 조정할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 01-01-06]",
+   "code": "[영놀 01-01-06]",
+   "text": "최종 운영 계획을 확정하여 지자체에 보고할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 01-02-01]",
+   "code": "[영놀 01-02-01]",
+   "text": "보호자와 보육 교직원의 의견을 수렴하여 보육 계획에 맞는 행사를 구상할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 01-02-02]",
+   "code": "[영놀 01-02-02]",
+   "text": "보육 교직원 회의를 통해 연간 행사 계획안을 시기별, 주제별로 작성할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 01-02-03]",
+   "code": "[영놀 01-02-03]",
+   "text": "행사에 필요한 자료를 파악하여 소요 예산을 산정할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 01-03-01]",
+   "code": "[영놀 01-03-01]",
+   "text": "전년도 어린이집 운영 방침을 고려하여 운영상의 장단점을 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 01-03-02]",
+   "code": "[영놀 01-03-02]",
+   "text": "보호자, 영유아, 보육 교직원, 지역사회의 어린이집에 대한 요구를 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 01-03-03]",
+   "code": "[영놀 01-03-03]",
+   "text": "어린이집 운영 철학과 보육 목표를 수립할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 01-03-04]",
+   "code": "[영놀 01-03-04]",
+   "text": "세입･세출 합계를 비교하여 당해 연도의 예산을 관･항･목으로 편성할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 01-03-05]",
+   "code": "[영놀 01-03-05]",
+   "text": "어린이집 운영 방침을 운영위원회 회의에 상정하여 조정할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 01-03-06]",
+   "code": "[영놀 01-03-06]",
+   "text": "최종 운영 계획을 확정하여 지자체에 보고할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 01-04-01]",
+   "code": "[영놀 01-04-01]",
+   "text": "보호자와 보육 교직원의 의견을 수렴하여 보육 계획에 맞는 행사를 구상할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 01-04-02]",
+   "code": "[영놀 01-04-02]",
+   "text": "보육 교직원 회의를 통해 연간 행사 계획안을 시기별, 주제별로 작성할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 01-04-03]",
+   "code": "[영놀 01-04-03]",
+   "text": "행사에 필요한 자료를 파악하여 소요 예산을 산정할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 01-05-01]",
+   "code": "[영놀 01-05-01]",
+   "text": "표준 보육 과정에 근거하여 연령, 발달 수준, 흥미, 요구를 반영한 보육 내용을 편성할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 01-05-02]",
+   "code": "[영놀 01-05-02]",
+   "text": "월간․주간 보육 계획안을 기초로 일일 보육 계획안을 작성할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 01-05-03]",
+   "code": "[영놀 01-05-03]",
+   "text": "표준 보육 과정의 목표와 내용이 적용될 수 있도록 하루 일과를 운영할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 01-05-04]",
+   "code": "[영놀 01-05-04]",
+   "text": "보육 목표와 보육 내용에 적합한 보육 활동을 다양하게 선정하여 통합적으로 운영할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 01-05-05]",
+   "code": "[영놀 01-05-05]",
+   "text": "일일 보육 계획안을 평가하여 다음의 보육 계획에 반영할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 02-01-01]",
+   "code": "[영놀 02-01-01]",
+   "text": "전년도 어린이집 운영 방침을 고려하여 운영상의 장단점을 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 02-01-02]",
+   "code": "[영놀 02-01-02]",
+   "text": "보육실에 필요한 모든 자료장과 기본 활동 자료 등을 확인할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 02-01-03]",
+   "code": "[영놀 02-01-03]",
+   "text": "연간, 월간 또는 주간 보육 계획안을 토대로 활동 자료를 구입 또는 제작할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 02-01-04]",
+   "code": "[영놀 02-01-04]",
+   "text": "각 놀이 영역별 공간 크기와 영유아의 동선, 활동의 수를 고려하여 배치도를 그릴 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 02-01-05]",
+   "code": "[영놀 02-01-05]",
+   "text": "각 놀이 영역별 공간 크기와 영유아의 동선, 활동의 상호 연계성을 고려하여 놀이 영역을 구성할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 02-01-06]",
+   "code": "[영놀 02-01-06]",
+   "text": "보육 활동 자료는 연간 주제, 소주제에 따라 주기적으로 교체, 추가할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 02-02-01]",
+   "code": "[영놀 02-02-01]",
+   "text": "어린이집의 보육 철학을 토대로 실내외 환경 구성에 대한 장단기 개선 방침을 수립할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 02-02-02]",
+   "code": "[영놀 02-02-02]",
+   "text": "보육실을 제외한 실내외 공간을 용도별로 구분한 후 세부 공간별 사용 목적과 기능을 수 립할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 02-02-03]",
+   "code": "[영놀 02-02-03]",
+   "text": "실외 공간은 동적인 영역과 정적인 영역, 영아와 유아를 위한 공간으로 구분한 후, 세부 공간별 사용 목적과 기능을 수립할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 02-02-04]",
+   "code": "[영놀 02-02-04]",
+   "text": "실외 놀잇감과 영유아용 놀이 기구 목록을 만들어 주기적으로 교체, 추가하여 비치할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 02-02-05]",
+   "code": "[영놀 02-02-05]",
+   "text": "실내외 공간의 장단기 보수 및 개선 계획을 수립할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 02-03-01]",
+   "code": "[영놀 02-03-01]",
+   "text": "시설･설비와 비품의 재고 현황을 비품 대장에서 파악하고 비품 상태를 고려하여, 신규 구매에 대한 필요성과 타당성을 검토할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 02-03-02]",
+   "code": "[영놀 02-03-02]",
+   "text": "시설･설비와 비품의 사용 방법과 관리 대장 목록을 작성할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 02-03-03]",
+   "code": "[영놀 02-03-03]",
+   "text": "시설･설비와 비품의 보유분과 관리 상태를 주기적으로 점검할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 02-04-01]",
+   "code": "[영놀 02-04-01]",
+   "text": "활동 자료를 보관할 자료실을 확보한 후 자료실별 자료 보관 내용을 확정할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 02-04-02]",
+   "code": "[영놀 02-04-02]",
+   "text": "활동 자료를 주제별 또는 활동 종류별 등 세부 기준에 따라 체계적으로 분류하고 지정된 자료실에 비치할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 02-04-03]",
+   "code": "[영놀 02-04-03]",
+   "text": "사용할 활동 자료를 활동 자료 대장에 기록한 후 사용하고, 사용 후 반납 여부를 대장에 기록할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 02-04-04]",
+   "code": "[영놀 02-04-04]",
+   "text": "활동 자료의 상태를 주기적으로 점검하고, 활동 자료의 훼손, 분실 시 수시로 보수할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 02-04-05]",
+   "code": "[영놀 02-04-05]",
+   "text": "활동 자료 대장에 기재된 활동 자료의 목록과 보유분이 일치하는지를 주기적으로 점검할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 03-01-01]",
+   "code": "[영놀 03-01-01]",
+   "text": "담당 영유아 전체에 대한 기간별 관찰 일정을 수립할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 03-01-02]",
+   "code": "[영놀 03-01-02]",
+   "text": "개별 영유아를 위한 구체적인 관찰 계획을 수립할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 03-02-01]",
+   "code": "[영놀 03-02-01]",
+   "text": "계획된 관찰 시간에 따라 행동 관찰을 시작하여 계획된 목표에 따라 영유아의 행동을 관 찰할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 03-02-02]",
+   "code": "[영놀 03-02-02]",
+   "text": "관찰 장면의 내용을 관찰 양식에 적합하게 기록할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 03-03-01]",
+   "code": "[영놀 03-03-01]",
+   "text": "모든 자료를 종합하여 영유아의 특성과 문제를 파악하거나 상황이 발생하는 이유를 판단 할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 03-03-02]",
+   "code": "[영놀 03-03-02]",
+   "text": "관찰 분석 자료를 이용하여 영유아를 평가하고, 영유아 지도를 위해 필요한 사항을 도출 할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 04-01-01]",
+   "code": "[영놀 04-01-01]",
+   "text": "일일 보육 계획안에 따라 영아 놀이 지원을 위한 놀이 자료를 선정하여 배치할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 04-01-02]",
+   "code": "[영놀 04-01-02]",
+   "text": "표준 보육 과정을 기초로 하여 신체, 감각·탐색, 역할·쌓기, 미술 등 영아 놀이 지원 방법 을 선택할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 04-01-03]",
+   "code": "[영놀 04-01-03]",
+   "text": "영아의 발달 수준, 관찰 기록, 영아 개인별 특성 등을 참고하여 상호 작용 방법을 선택할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 04-01-04]",
+   "code": "[영놀 04-01-04]",
+   "text": "영아의 발달, 흥미 및 요구에 적합한 일상생활과 놀이를 계획할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 04-02-01]",
+   "code": "[영놀 04-02-01]",
+   "text": "영아의 발달을 도모하기 위해 영아가 사용하는 놀이 자료를 통한 상호 작용을 지원할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 04-02-02]",
+   "code": "[영놀 04-02-02]",
+   "text": "영아의 발달을 도모하기 위해 영아 교사의 상호 작용을 지원할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 04-02-03]",
+   "code": "[영놀 04-02-03]",
+   "text": "영아의 발달을 도모하기 또래 간 상호 작용을 지원할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 04-02-04]",
+   "code": "[영놀 04-02-04]",
+   "text": "영아의 놀이를 관찰하여 관찰 일지에 기록한 후 차기 놀이 활동 계획에 반영할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 04-03-01]",
+   "code": "[영놀 04-03-01]",
+   "text": "영아의 놀이와 활동이 영아의 사전 경험이나 가정에서의 일상 경험과 연계되는지 점검할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 04-03-02]",
+   "code": "[영놀 04-03-02]",
+   "text": "일과 중 오전과 오후의 놀이가 연계되도록 운영할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 04-03-03]",
+   "code": "[영놀 04-03-03]",
+   "text": "영아의 실내 놀이와 실외 놀이가 연계되도록 운영할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 04-03-04]",
+   "code": "[영놀 04-03-04]",
+   "text": "한 주간의 놀이 및 활동이 연계되고 주 후반의 놀이 및 활동이 다음 주 놀이 및 활동과 연계되도록 운영할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 04-04-01]",
+   "code": "[영놀 04-04-01]",
+   "text": "실행된 놀이에 영아가 흥미와 반응을 보였는지를 평가할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 04-04-02]",
+   "code": "[영놀 04-04-02]",
+   "text": "준비된 놀이 자료가 영아 발달과 흥미에 적합하였는지 평가할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 04-04-03]",
+   "code": "[영놀 04-04-03]",
+   "text": "놀이 평가 결과를 활용하여 영아의 발달 특성과 변화 정도를 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 04-04-04]",
+   "code": "[영놀 04-04-04]",
+   "text": "놀이 실행을 통해 영아의 발달 단계상의 특이 사항이나 요구가 있는지 관찰할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 04-04-05]",
+   "code": "[영놀 04-04-05]",
+   "text": "놀이 실행 결과에 대하여 동료 교직원 및 보호자와 공유할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 04-04-06]",
+   "code": "[영놀 04-04-06]",
+   "text": "영아의 놀이 평가 결과를 활용하여 다음 놀이 지원 및 계획에 반영할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 05-01-01]",
+   "code": "[영놀 05-01-01]",
+   "text": "보육 계획안에 따라 놀이 지원을 위한 놀이 및 활동 자료를 선정하여 배치할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 05-01-02]",
+   "code": "[영놀 05-01-02]",
+   "text": "보육 계획안에 따라 유아 중심의 대·소집단 활동을 계획할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 05-01-03]",
+   "code": "[영놀 05-01-03]",
+   "text": "표준 보육 과정에서 제시하는 놀이 환경을 준비할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 05-01-04]",
+   "code": "[영놀 05-01-04]",
+   "text": "유아의 발달 수준, 유아 개인별 특성, 관찰 기록 등을 참고하여 상호 작용 방법을 선택할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 05-02-01]",
+   "code": "[영놀 05-02-01]",
+   "text": "유아의 발달을 도모하기 위해 유아와 놀이 및 활동 자료 간 상호 작용을 지원할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 05-02-02]",
+   "code": "[영놀 05-02-02]",
+   "text": "유아의 발달을 도모하기 위해 유아-교사의 상호 작용을 지원할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 05-02-03]",
+   "code": "[영놀 05-02-03]",
+   "text": "유아의 발달을 도모하기 또래 간 상호 작용을 지원할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 05-03-01]",
+   "code": "[영놀 05-03-01]",
+   "text": "유아의 놀이와 활동이 유아의 사전 경험이나 가정에서의 일상생활과 연계되는지 점검할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 05-03-02]",
+   "code": "[영놀 05-03-02]",
+   "text": "보육실 내의 놀이 영역 간 놀이가 서로 연계･통합되도록 지원할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 05-03-03]",
+   "code": "[영놀 05-03-03]",
+   "text": "일과 중 오전과 오후의 놀이가 연계되도록 운영할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 05-03-04]",
+   "code": "[영놀 05-03-04]",
+   "text": "유아의 실내 놀이와 실외 놀이가 연계되도록 운영할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 05-03-05]",
+   "code": "[영놀 05-03-05]",
+   "text": "유아의 놀이 및 활동이 다음 주 놀이 및 활동과 연계되도록 운영할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 05-04-01]",
+   "code": "[영놀 05-04-01]",
+   "text": "실행된 놀이에 대한 유아의 흥미와 반응을 평가할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 05-04-02]",
+   "code": "[영놀 05-04-02]",
+   "text": "실행된 놀이 및 활동 자료가 유아 발달과 흥미에 적합하였는지 평가할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 05-04-03]",
+   "code": "[영놀 05-04-03]",
+   "text": "놀이 평가 결과를 활용하여 유아의 발달 특성과 변화 정도를 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 05-04-04]",
+   "code": "[영놀 05-04-04]",
+   "text": "놀이 실행을 통해 유아의 발달 단계상의 특이 사항이나 요구가 있는지 관찰할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 05-04-05]",
+   "code": "[영놀 05-04-05]",
+   "text": "놀이 실행 결과에 대하여 동료 교직원 및 보호자와 공유할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 05-04-06]",
+   "code": "[영놀 05-04-06]",
+   "text": "유아의 놀이 평가 결과를 활용하여 다음 놀이 지원 및 계획에 반영할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-영유아-놀이-지도:[영놀 06-02-04]",
+   "code": "[영놀 06-02-04]",
+   "text": "유아의 놀이를 관찰하여 평가한 후 놀이를 지원할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 01-01-01]",
+   "code": "[요지 01-01-01]",
+   "text": "지침서에 따라 각 실의 주변 환경을 청결하게 유지할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 01-01-02]",
+   "code": "[요지 01-01-02]",
+   "text": "지침서에 따라 진료에 필요한 물품을 준비할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 01-01-03]",
+   "code": "[요지 01-01-03]",
+   "text": "상급자의 지시 및 감독과 지침서에 따라 의무 기록과 전산 관련 업무 등을 수행할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 01-02-01]",
+   "code": "[요지 01-02-01]",
+   "text": "지침서에 따라 고객의 예약을 확인할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 01-02-02]",
+   "code": "[요지 01-02-02]",
+   "text": "방문 목적에 따라 검사실, 진료실, 병실 등을 안내할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 01-02-03]",
+   "code": "[요지 01-02-03]",
+   "text": "진료 관련 행정 절차 등을 안내할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 01-03-01]",
+   "code": "[요지 01-03-01]",
+   "text": "지침서에 따라 병실 정리 정돈을 할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 01-03-02]",
+   "code": "[요지 01-03-02]",
+   "text": "지침서에 따라 치료실 정리 정돈을 할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 01-03-03]",
+   "code": "[요지 01-03-03]",
+   "text": "지침서에 따라 진료실 정리 정돈을 할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 01-03-04]",
+   "code": "[요지 01-03-04]",
+   "text": "지침서에 따라 수술실 정리 정돈을 할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 01-03-05]",
+   "code": "[요지 01-03-05]",
+   "text": "지침서에 따라 스테이션 정리 정돈을 할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 01-03-06]",
+   "code": "[요지 01-03-06]",
+   "text": "지침서에 따라 기타 관련된 장소를 정리 정돈을 할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 01-04-01]",
+   "code": "[요지 01-04-01]",
+   "text": "안전 점검 결과가 국제 기준이나 관련 법령에 부합한지를 점검할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 01-04-02]",
+   "code": "[요지 01-04-02]",
+   "text": "안전 관리에 문제가 있는 제품에 대하여 폐기 등의 조치 판정을 내릴 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 01-04-03]",
+   "code": "[요지 01-04-03]",
+   "text": "안전 관리 판정 결과에 따라 제품을 폐기할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 01-05-01]",
+   "code": "[요지 01-05-01]",
+   "text": "안전 관리에 관한 모든 과정을 문서화할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 01-05-02]",
+   "code": "[요지 01-05-02]",
+   "text": "안전 관리 관련 내용을 장비 이력에 반영하여 장비 이력서를 작성할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 01-05-03]",
+   "code": "[요지 01-05-03]",
+   "text": "작성된 장비 이력서를 관리할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 02-01-01]",
+   "code": "[요지 02-01-01]",
+   "text": "검체물 취급 지침서에 따라 검체물의 종류를 확인할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 02-01-02]",
+   "code": "[요지 02-01-02]",
+   "text": "검체물 취급 지침서에 따라 검체물을 해당 부서로 전달할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 02-01-03]",
+   "code": "[요지 02-01-03]",
+   "text": "전달된 검체물의 목록을 정리할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 02-02-01]",
+   "code": "[요지 02-02-01]",
+   "text": "지침에 따라 소독물의 종류 및 수량을 확인할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 02-02-02]",
+   "code": "[요지 02-02-02]",
+   "text": "지침에 따라 소독물을 해당 부서로 전달할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 02-02-03]",
+   "code": "[요지 02-02-03]",
+   "text": "지침에 따라 소독물의 재고 파악과 정리 업무를 할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 02-03-01]",
+   "code": "[요지 02-03-01]",
+   "text": "지침에 따라 부소독물의 종류 및 수량을 확인할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 02-03-02]",
+   "code": "[요지 02-03-02]",
+   "text": "지침에 따라 부소독물을 해당 위치로 전달할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 02-03-03]",
+   "code": "[요지 02-03-03]",
+   "text": "지침에 따라 부소독물의 재고 파악 및 정리 업무를 할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 02-04-01]",
+   "code": "[요지 02-04-01]",
+   "text": "지침에 따라 전달할 수액 및 약품의 종류를 확인할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 02-04-02]",
+   "code": "[요지 02-04-02]",
+   "text": "지침에 따라 약품을 해당 부서로 전달할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 02-04-03]",
+   "code": "[요지 02-04-03]",
+   "text": "지침에 따라 전달 약품을 확인할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 02-05-01]",
+   "code": "[요지 02-05-01]",
+   "text": "지침에 따라 서류의 종류를 이해할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 02-05-02]",
+   "code": "[요지 02-05-02]",
+   "text": "지침에 따라 해당 부서로 서류를 전달할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 02-05-03]",
+   "code": "[요지 02-05-03]",
+   "text": "해당 서류의 정보가 발설되지 않도록 전달할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 03-01-01]",
+   "code": "[요지 03-01-01]",
+   "text": "지침에 따라 환자의 보행을 도와줄 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 03-01-02]",
+   "code": "[요지 03-01-02]",
+   "text": "지침에 따라 보행 환자를 목적지까지 이송할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 03-01-03]",
+   "code": "[요지 03-01-03]",
+   "text": "환자의 보행 상황을 주의 깊게 관찰할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 03-01-04]",
+   "code": "[요지 03-01-04]",
+   "text": "문제 상황 발생 시 지침에 따라 즉시 보고할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 03-02-01]",
+   "code": "[요지 03-02-01]",
+   "text": "지침에 따라 휠체어를 준비할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 03-02-02]",
+   "code": "[요지 03-02-02]",
+   "text": "지침에 따라 침상과 휠체어 간 이송을 준비할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 03-02-03]",
+   "code": "[요지 03-02-03]",
+   "text": "지침에 따라 휠체어 환자를 목적지까지 이송할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 03-02-04]",
+   "code": "[요지 03-02-04]",
+   "text": "문제 상황 발생 시 지침에 따라 즉시 보고할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 03-03-01]",
+   "code": "[요지 03-03-01]",
+   "text": "지침에 따라 운반차를 준비할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 03-03-02]",
+   "code": "[요지 03-03-02]",
+   "text": "지침에 따라 침상과 운반차 간 이송을 준비할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 03-03-03]",
+   "code": "[요지 03-03-03]",
+   "text": "지침에 따라 운반차 환자를 목적지까지 이송할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 03-03-04]",
+   "code": "[요지 03-03-04]",
+   "text": "문제 상황 발생 시 지침에 따라 즉시 보고할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 04-01-01]",
+   "code": "[요지 04-01-01]",
+   "text": "대상자의 보행 능력을 파악하여 안정된 보행을 도와줄 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 04-01-02]",
+   "code": "[요지 04-01-02]",
+   "text": "지침에 따라 대상자가 사용하는 이동 기구를 준비하고 활용할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 04-01-03]",
+   "code": "[요지 04-01-03]",
+   "text": "지침에 따라 대상자가 사용하는 이동 기구를 안전하게 보관할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 04-02-01]",
+   "code": "[요지 04-02-01]",
+   "text": "지침에 따라 침상 만들기에 필요한 물품을 준비할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 04-02-02]",
+   "code": "[요지 04-02-02]",
+   "text": "지침에 따라 침상 만들기를 할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 04-02-03]",
+   "code": "[요지 04-02-03]",
+   "text": "지침에 따라 사용한 침구를 분리 및 정리할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 04-03-01]",
+   "code": "[요지 04-03-01]",
+   "text": "지침에 따라 대소변기를 준비할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 04-03-02]",
+   "code": "[요지 04-03-02]",
+   "text": "대상자의 상태에 따라 대소변 돕기를 할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 04-03-03]",
+   "code": "[요지 04-03-03]",
+   "text": "지침에 따라 사용한 대소변과 용기를 처리할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 04-04-01]",
+   "code": "[요지 04-04-01]",
+   "text": "지침에 따라 식사 지원을 할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 04-04-02]",
+   "code": "[요지 04-04-02]",
+   "text": "지침에 따라 식사 지원 관련 물품을 준비할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 04-04-03]",
+   "code": "[요지 04-04-03]",
+   "text": "식사 전후 청결을 도와줄 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 04-05-01]",
+   "code": "[요지 04-05-01]",
+   "text": "상황에 따라 필요한 물품을 준비할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 04-05-02]",
+   "code": "[요지 04-05-02]",
+   "text": "지침에 따라 대상자의 옷을 갈아입힐 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 04-05-03]",
+   "code": "[요지 04-05-03]",
+   "text": "지침에 따라 의복을 정리할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 04-06-01]",
+   "code": "[요지 04-06-01]",
+   "text": "상황에 따른 의사소통을 수행할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 04-06-02]",
+   "code": "[요지 04-06-02]",
+   "text": "대상자의 언어적, 비언어적 의사 표현을 이해할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 04-06-03]",
+   "code": "[요지 04-06-03]",
+   "text": "대상자의 말벗이 되어 줄 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 05-01-01]",
+   "code": "[요지 05-01-01]",
+   "text": "지침에 따라 목욕에 필요한 용품을 준비할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 05-01-02]",
+   "code": "[요지 05-01-02]",
+   "text": "지침에 따라 청결하게 목욕을 도와줄 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 05-01-03]",
+   "code": "[요지 05-01-03]",
+   "text": "지침에 따라 목욕 후 처리를 할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 05-01-04]",
+   "code": "[요지 05-01-04]",
+   "text": "문제 상황 발생 시 지침에 따라 즉시 보고할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 05-02-01]",
+   "code": "[요지 05-02-01]",
+   "text": "지침에 따라 신체 각 부위의 청결을 도울 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 05-02-02]",
+   "code": "[요지 05-02-02]",
+   "text": "지침에 따라 손발톱 관리를 도울 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 05-02-03]",
+   "code": "[요지 05-02-03]",
+   "text": "지침에 따라 머리 감기를 도울 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 05-03-01]",
+   "code": "[요지 05-03-01]",
+   "text": "지침에 따라 대상자의 구강 청결을 도울 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 05-03-02]",
+   "code": "[요지 05-03-02]",
+   "text": "지침에 따라 대상자의 틀니 청결을 도울 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 05-03-03]",
+   "code": "[요지 05-03-03]",
+   "text": "지침에 따라 대상자의 구강 청결과 관련된 물품을 위생적으로 보관할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 06-01-01]",
+   "code": "[요지 06-01-01]",
+   "text": "지침에 따라 오염 물품의 오염원을 제거할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 06-01-02]",
+   "code": "[요지 06-01-02]",
+   "text": "지침에 따라 세척 복장 및 보호 장구를 착용할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 06-01-03]",
+   "code": "[요지 06-01-03]",
+   "text": "지침에 따라 오염 세척 업무를 수행할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 06-01-04]",
+   "code": "[요지 06-01-04]",
+   "text": "지침에 따라 세척한 물품에 대하여 청결 유무를 확인할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 06-02-01]",
+   "code": "[요지 06-02-01]",
+   "text": "지침에 따라 일회용 물품을 처리할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 06-02-02]",
+   "code": "[요지 06-02-02]",
+   "text": "지침에 따라 재사용 물품을 분류할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 06-02-03]",
+   "code": "[요지 06-02-03]",
+   "text": "지침에 따라 비오염 세척 업무를 수행할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 06-02-04]",
+   "code": "[요지 06-02-04]",
+   "text": "지침에 따라 포장 및 소독을 의뢰할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 06-03-01]",
+   "code": "[요지 06-03-01]",
+   "text": "지침에 따라 비품의 기능을 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 06-03-02]",
+   "code": "[요지 06-03-02]",
+   "text": "지침에 따라 비품의 청결 업무를 수행할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 06-03-03]",
+   "code": "[요지 06-03-03]",
+   "text": "지침에 따라 청결 유지 체크리스트를 작성할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 07-01-01]",
+   "code": "[요지 07-01-01]",
+   "text": "지침에 따라 환자의 대소변을 분리 및 처리할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 07-01-02]",
+   "code": "[요지 07-01-02]",
+   "text": "지침에 따라 환자의 객담 및 신체 분비물 등을 분리 및 처리할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 07-01-03]",
+   "code": "[요지 07-01-03]",
+   "text": "지침에 따라 기타 감염 위험 배출물을 처리할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 07-02-01]",
+   "code": "[요지 07-02-01]",
+   "text": "지침에 따라 린넨뉴 등 비오염 세탁물을 정리할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 07-02-02]",
+   "code": "[요지 07-02-02]",
+   "text": "세탁물 처리 수칙에 따라 오염/비오염 세탁물에 대해 구분할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 07-02-03]",
+   "code": "[요지 07-02-03]",
+   "text": "지침에 따라 오염 세탁물 처리할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 07-03-01]",
+   "code": "[요지 07-03-01]",
+   "text": "지침에 따라 오염 폐기물을 분류할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 07-03-02]",
+   "code": "[요지 07-03-02]",
+   "text": "지침에 따라 오염 폐기물을 지정 장소로 이동 운반할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 07-03-03]",
+   "code": "[요지 07-03-03]",
+   "text": "지침에 따라 오염 폐기물의 안전한 처리를 도울 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 08-01-01]",
+   "code": "[요지 08-01-01]",
+   "text": "지침에 따라 위험 물질들로 인한 위험 요인이 있는지 관찰할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 08-01-02]",
+   "code": "[요지 08-01-02]",
+   "text": "지침에 따라 안전장치, 설비 등 위험 요소가 있는지 관찰할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 08-01-03]",
+   "code": "[요지 08-01-03]",
+   "text": "지침에 따라 화재 위험 요인 등을 관찰할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 08-02-01]",
+   "code": "[요지 08-02-01]",
+   "text": "안전 관리 지침에 따라 대상자에게 사고의 위험 요인이 있는지 관찰할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 08-02-02]",
+   "code": "[요지 08-02-02]",
+   "text": "낙상 예방 지침에 따라 대상자의 낙상 위험 요인을 관찰할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 08-02-03]",
+   "code": "[요지 08-02-03]",
+   "text": "환자 안전 관리 지침에 따라 거동이 수상한 사람의 동향을 관찰할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 08-02-04]",
+   "code": "[요지 08-02-04]",
+   "text": "제한 구역, 통제 구역, 감시 구역에의 외부인의 출입을 관찰할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 08-03-01]",
+   "code": "[요지 08-03-01]",
+   "text": "환자 안전 관리 지침에 따라 주변 상황의 이상 상태에 대해 보고할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 08-03-02]",
+   "code": "[요지 08-03-02]",
+   "text": "환자 안전 관리 지침에 따라 대상자의 위험한 상황에 대해 보고할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 08-03-03]",
+   "code": "[요지 08-03-03]",
+   "text": "환자 안전 관리 지침에 따라 주변인의 위험한 거동에 대해 보고할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 08-03-04]",
+   "code": "[요지 08-03-04]",
+   "text": "화재 예방 지침에 따라 화재 위험 상황에 대해 보고할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 09-01-01]",
+   "code": "[요지 09-01-01]",
+   "text": "사회 복지의 개념 및 사회 보험에 대한 목적을 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 09-01-02]",
+   "code": "[요지 09-01-02]",
+   "text": "장기 요양 급여 제공 기준 및 급여 비용 산정 방법에 관한 법규를 설명할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 09-01-03]",
+   "code": "[요지 09-01-03]",
+   "text": "노인 복지법 및 기타 관련 법규를 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 09-02-01]",
+   "code": "[요지 09-02-01]",
+   "text": "요양 보호사 업무를 설명할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 09-02-02]",
+   "code": "[요지 09-02-02]",
+   "text": "장기 요양 서비스 이용 절차 및 지원에 대해 안내를 할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 09-02-03]",
+   "code": "[요지 09-02-03]",
+   "text": "장기 요양 신청 절차 과정에 따른 관련 서류를 검토할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 09-03-01]",
+   "code": "[요지 09-03-01]",
+   "text": "요양 보호사의 역할을 준수할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 09-03-02]",
+   "code": "[요지 09-03-02]",
+   "text": "요양 보호 대상자의 등급별 특성을 이해할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 09-03-03]",
+   "code": "[요지 09-03-03]",
+   "text": "노인의 인권 보호 및 학대 예방 방법을 설명할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 10-01-01]",
+   "code": "[요지 10-01-01]",
+   "text": "기억 능력을 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 10-01-02]",
+   "code": "[요지 10-01-02]",
+   "text": "연산 능력을 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 10-02-01]",
+   "code": "[요지 10-02-01]",
+   "text": "치매 환자의 행동적·정신적 변화를 감지할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 10-02-02]",
+   "code": "[요지 10-02-02]",
+   "text": "치매에 대한 지식을 숙지하여 다양한 증상에 대처할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 10-02-03]",
+   "code": "[요지 10-02-03]",
+   "text": "장기적 계획을 갖고 치매 환자를 돌볼 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 10-03-01]",
+   "code": "[요지 10-03-01]",
+   "text": "인지 기능이 저하되는 것을 예방할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 10-03-02]",
+   "code": "[요지 10-03-02]",
+   "text": "인지 기능이 유지, 향상되도록 도와줄 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 10-03-03]",
+   "code": "[요지 10-03-03]",
+   "text": "정서적으로 성취감, 만족감을 가질 수 있도록 도와줄 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 10-04-01]",
+   "code": "[요지 10-04-01]",
+   "text": "치매 환자 문제 행동의 유형과 특징을 알 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 10-04-02]",
+   "code": "[요지 10-04-02]",
+   "text": "치매 환자의 문제 행동 발생 시기를 파악할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 10-04-03]",
+   "code": "[요지 10-04-03]",
+   "text": "치매 환자의 문제 행동에 적절히 대응할 수 있다.",
+   "sourceId": "annex24",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-요양-지원:[요지 10-04-04]",
+   "code": "[요지 10-04-04]",
+   "text": "환경과 문제 행동 관계를 파악하여 조절할 수 있다.",
    "sourceId": "annex24",
    "locator": "pattern-match"
   },

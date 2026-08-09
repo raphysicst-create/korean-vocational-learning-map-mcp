@@ -17,6 +17,51 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.13d1566094bc04fb50",
+   "titleKorean": "지식 재산 관리 — 지식 재산 관리 시스템 운영",
+   "subjectKorean": "지식 재산 관리",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "지식 재산 관리 시스템 운영",
+   "summary": "지식 재산 관리의 지식 재산 관리 시스템 운영 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.00a3d93444b2747aae10",
+    "kr.topic.2022.high.079038b0d213cb9fbef3",
+    "kr.topic.2022.high.37cbc72f64de316b965c",
+    "kr.topic.2022.high.44f04617b5e3243a5f07",
+    "kr.topic.2022.high.9d7b53e7d4e41f1fd9eb",
+    "kr.topic.2022.high.b299ee1a386e828032b7",
+    "kr.topic.2022.high.d32ef4444d69dfe74f4c",
+    "kr.topic.2022.high.dc2e6d9f8173ad2fa6ab",
+    "kr.topic.2022.high.f2bc43c16ef1c2438c93"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.17eb460a2d0a748d03",
+   "titleKorean": "특허 정보 조사･분석 — 지식 재산 정보 검색",
+   "subjectKorean": "특허 정보 조사･분석",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "지식 재산 정보 검색",
+   "summary": "특허 정보 조사･분석의 지식 재산 정보 검색 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.0c8d0ed6908555bbe26e",
+    "kr.topic.2022.high.0d886e0a0a49301aeb2c",
+    "kr.topic.2022.high.18108b4dd65061a1c182",
+    "kr.topic.2022.high.27b5fdeea0459885ee39",
+    "kr.topic.2022.high.6c940eb6183f73cefc45",
+    "kr.topic.2022.high.70125c0508018d205b16",
+    "kr.topic.2022.high.712b7169f908abe37dbb",
+    "kr.topic.2022.high.b47226f674be071423a5",
+    "kr.topic.2022.high.cb55851671ee65c39a67",
+    "kr.topic.2022.high.d8f2c97e24a5dae9eee0",
+    "kr.topic.2022.high.e31758c31119b185d8a4",
+    "kr.topic.2022.high.f9d5eaffb650997ae81d"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.1fcbcc2a4f9c032a0e",
    "titleKorean": "발명과 기업가 정신 — 발명과 기업가 정신의 이해",
    "subjectKorean": "발명과 기업가 정신",
@@ -164,6 +209,27 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.39fb3789e5c669bff5",
+   "titleKorean": "특허 정보 조사･분석 — 발명 상담",
+   "subjectKorean": "특허 정보 조사･분석",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명 상담",
+   "summary": "특허 정보 조사･분석의 발명 상담 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.2467720d800dc71a82b2",
+    "kr.topic.2022.high.2eba535ed59b5fb2ad81",
+    "kr.topic.2022.high.68e4759247f5d44e6ee6",
+    "kr.topic.2022.high.94c2146942e91202e623",
+    "kr.topic.2022.high.9c9b19887b4a28026d33",
+    "kr.topic.2022.high.9fd24e62f4bb55d5e073",
+    "kr.topic.2022.high.a8d95380785a57319781",
+    "kr.topic.2022.high.e5ce0a7c6a1783bb2a64",
+    "kr.topic.2022.high.f365c33774c56e3e785d"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.3bca7b6270bbb27670",
    "titleKorean": "스마트 공장 설계와 구축 — 스마트 설비 제어 시스템 구축",
    "subjectKorean": "스마트 공장 설계와 구축",
@@ -270,6 +336,60 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.5861c010cb812a74e4",
+   "titleKorean": "스마트 설비 실무 — PLC 제어 특수 모듈 프로그램 개발",
+   "subjectKorean": "스마트 설비 실무",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "PLC 제어 특수 모듈 프로그램 개발",
+   "summary": "스마트 설비 실무의 PLC 제어 특수 모듈 프로그램 개발 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.2c2a5f5706c17d28d1e3",
+    "kr.topic.2022.high.8f2f9e03cdd2bc4a61c2",
+    "kr.topic.2022.high.988f778d1695dda4beee",
+    "kr.topic.2022.high.a4a92b0a7aaae9b2035a",
+    "kr.topic.2022.high.a937ab972b3c8f4e260e",
+    "kr.topic.2022.high.ac79ae4bf0b710caa05a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5df63dbb1b55c74b81",
+   "titleKorean": "스마트 설비 실무 — 전기 전자 장치 조립",
+   "subjectKorean": "스마트 설비 실무",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "전기 전자 장치 조립",
+   "summary": "스마트 설비 실무의 전기 전자 장치 조립 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.0f25574ea55f13fcd1cc",
+    "kr.topic.2022.high.15b5d159c52a1f02d1b3",
+    "kr.topic.2022.high.6551eb1ae02e349ff651",
+    "kr.topic.2022.high.725f3e2da0bb919e1e28",
+    "kr.topic.2022.high.a3a403b83ec60cafa91d",
+    "kr.topic.2022.high.df98405754c75ac308c5"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5f2a48509242776659",
+   "titleKorean": "스마트 설비 실무 — HMI 프로그램 개발",
+   "subjectKorean": "스마트 설비 실무",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "HMI 프로그램 개발",
+   "summary": "스마트 설비 실무의 HMI 프로그램 개발 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.4f7171071188046cc64f",
+    "kr.topic.2022.high.64e4088541d6f94365e6",
+    "kr.topic.2022.high.a8cf03850a5a4f26e5af",
+    "kr.topic.2022.high.ea3172f041266c715d7c",
+    "kr.topic.2022.high.f89c84f118ae98d353bb",
+    "kr.topic.2022.high.faea7076eaf98652b8dc"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.5fdbcdea5998418a45",
    "titleKorean": "발명과 메이커 — 발명 메이커 프로젝트",
    "subjectKorean": "발명과 메이커",
@@ -340,6 +460,22 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.6a2726bf0da790ab47",
+   "titleKorean": "지식 재산 관리 — 영역 05",
+   "subjectKorean": "지식 재산 관리",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "지식 재산 관리의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.43ae0f5f78e3d8dc5084",
+    "kr.topic.2022.high.b61e817991c5811c92ca",
+    "kr.topic.2022.high.d1b6e216d97f83b1c5a6",
+    "kr.topic.2022.high.ea8a974adfaa035cf36c"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.71a098d099d2927bc7",
    "titleKorean": "발명과 메이커 — 발명과 문제 해결의 이해",
    "subjectKorean": "발명과 메이커",
@@ -371,6 +507,28 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.764f1b5c286e097205",
+   "titleKorean": "지식 재산 관리 — 발명 서식 검토",
+   "subjectKorean": "지식 재산 관리",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "발명 서식 검토",
+   "summary": "지식 재산 관리의 발명 서식 검토 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.4d7d0a306a8c161be7a4",
+    "kr.topic.2022.high.58549a79d19e0e1cc811",
+    "kr.topic.2022.high.5a85afd778e29ef80f46",
+    "kr.topic.2022.high.7a62659f4d4b3df03f43",
+    "kr.topic.2022.high.984705adb820f007c7d0",
+    "kr.topic.2022.high.9f64331d2c61fb1a3f4a",
+    "kr.topic.2022.high.ae41758670570df064ff",
+    "kr.topic.2022.high.c42c926d87727ad98968",
+    "kr.topic.2022.high.ca27f533586f3b023bfa",
+    "kr.topic.2022.high.f57c4ac049d0e3cd0946"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.76780de6350c85ee2b",
    "titleKorean": "스마트 공장 일반 — 스마트 공장 응용 시스템",
    "subjectKorean": "스마트 공장 일반",
@@ -388,6 +546,51 @@
     "kr.topic.2022.high.cf2b0a02e4c3dd00ad9c",
     "kr.topic.2022.high.d3e97dc7a736cccc76aa",
     "kr.topic.2022.high.fd9e9c6b67f284b39d4e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.77dee442f9cc29a5ff",
+   "titleKorean": "지식 재산 관리 — 지식 재산 등록 서식 작성",
+   "subjectKorean": "지식 재산 관리",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "지식 재산 등록 서식 작성",
+   "summary": "지식 재산 관리의 지식 재산 등록 서식 작성 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 16,
+   "topics": [
+    "kr.topic.2022.high.03a0d549dcea78e322ad",
+    "kr.topic.2022.high.07e0fdd7c12712acb68e",
+    "kr.topic.2022.high.0c2f7b9ea155f94cb76e",
+    "kr.topic.2022.high.1d9b784c5b40e63c78e7",
+    "kr.topic.2022.high.27243d526df01a643fb6",
+    "kr.topic.2022.high.5e7fcc2c31a37efcc4cd",
+    "kr.topic.2022.high.674834965e109fba6d73",
+    "kr.topic.2022.high.6847e90fb10dc4a89804",
+    "kr.topic.2022.high.6f34b7481badcf1fd282",
+    "kr.topic.2022.high.74e1ee0e5726c346cf9e",
+    "kr.topic.2022.high.774ad68b0a1889dba18a",
+    "kr.topic.2022.high.8f57a69c88325845c723",
+    "kr.topic.2022.high.a4acb5303cc85898e063",
+    "kr.topic.2022.high.a59d58e165233bf4cbda",
+    "kr.topic.2022.high.c7a44c88d33a18a85ec3",
+    "kr.topic.2022.high.fcb0ca84671dee413093"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.79ce3836e008c16d9f",
+   "titleKorean": "특허 출원의 실제 — 기계･금속･토목 특허 명세서 검토",
+   "subjectKorean": "특허 출원의 실제",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "기계･금속･토목 특허 명세서 검토",
+   "summary": "특허 출원의 실제의 기계･금속･토목 특허 명세서 검토 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.057256a8c6aab2b71d5c",
+    "kr.topic.2022.high.06f5b7e98614ad100c5b",
+    "kr.topic.2022.high.18eb3a24c6710cc4551d",
+    "kr.topic.2022.high.a0d9fab4528580d27b06",
+    "kr.topic.2022.high.b1b9c6741ea6753c44c4"
    ]
   },
   {
@@ -409,6 +612,21 @@
     "kr.topic.2022.high.c0bb0b07cca836793658",
     "kr.topic.2022.high.ce63849278e37212bee4",
     "kr.topic.2022.high.f08854e5870b67f48f75"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7eaae20a9ca3950cf8",
+   "titleKorean": "지식 재산 관리 — 영역 04",
+   "subjectKorean": "지식 재산 관리",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 04",
+   "summary": "지식 재산 관리의 영역 04 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.58210e88932d1147d3cb",
+    "kr.topic.2022.high.bd544d557e42c395e0b5",
+    "kr.topic.2022.high.e54a220db4b69283066e"
    ]
   },
   {
@@ -460,6 +678,69 @@
     "kr.topic.2022.high.aec5a62776db57314825",
     "kr.topic.2022.high.c77c0ff35a9af9643a3a",
     "kr.topic.2022.high.d6c9bae252c139e57bfe"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.93321c026f6283f381",
+   "titleKorean": "스마트 설비 실무 — 기계 부품 조립",
+   "subjectKorean": "스마트 설비 실무",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "기계 부품 조립",
+   "summary": "스마트 설비 실무의 기계 부품 조립 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.162ca1081dde9c9fbbcb",
+    "kr.topic.2022.high.5077193b61628aa12127",
+    "kr.topic.2022.high.6110e90d8689908f29cc",
+    "kr.topic.2022.high.7d0a6d221e34c564b605",
+    "kr.topic.2022.high.f776c5e7255aa37f5b09",
+    "kr.topic.2022.high.ff1619f59ccde2f880d7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.939224fec6675f4573",
+   "titleKorean": "지식 재산 관리 — 지식 재산 출원 서식 작성",
+   "subjectKorean": "지식 재산 관리",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "지식 재산 출원 서식 작성",
+   "summary": "지식 재산 관리의 지식 재산 출원 서식 작성 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 17,
+   "topics": [
+    "kr.topic.2022.high.1999d0880d72cffa03e7",
+    "kr.topic.2022.high.1a1834ffb3f745fb6903",
+    "kr.topic.2022.high.2e65811e71e4a108b10c",
+    "kr.topic.2022.high.35319b4bbb30c6c70cc3",
+    "kr.topic.2022.high.3d4acd07be0101196311",
+    "kr.topic.2022.high.44387202a7fe05747344",
+    "kr.topic.2022.high.54834fe5e5de3cdd53cc",
+    "kr.topic.2022.high.613352f88a3a93c8fa28",
+    "kr.topic.2022.high.71ff88b6f0b91fe338c5",
+    "kr.topic.2022.high.9d90ea6165d7f38b016e",
+    "kr.topic.2022.high.c5a4e7fc0058324e4b5b",
+    "kr.topic.2022.high.d70ed845ee3cc64db71c",
+    "kr.topic.2022.high.e637c3bf07cad1c83230",
+    "kr.topic.2022.high.ece7bf8d8a320797b65c",
+    "kr.topic.2022.high.ed46b1017f426350fec9",
+    "kr.topic.2022.high.f4f22fd856e7de69c27d",
+    "kr.topic.2022.high.fc1727546b2d0f45b8dc"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9ec67cfafb8f21a52b",
+   "titleKorean": "특허 출원의 실제 — 특허 도면 작성",
+   "subjectKorean": "특허 출원의 실제",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "특허 도면 작성",
+   "summary": "특허 출원의 실제의 특허 도면 작성 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.24bf21ad50658ef393d9",
+    "kr.topic.2022.high.d0262427a3e2b50f45ca",
+    "kr.topic.2022.high.da79d3e98539e5a4f463",
+    "kr.topic.2022.high.f07153fad8e54298a9c1"
    ]
   },
   {
@@ -551,6 +832,25 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.bb6f0ac2740cc53393",
+   "titleKorean": "특허 출원의 실제 — 전기･전자･통신 특허 명세서 검토",
+   "subjectKorean": "특허 출원의 실제",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "전기･전자･통신 특허 명세서 검토",
+   "summary": "특허 출원의 실제의 전기･전자･통신 특허 명세서 검토 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.03be426c43f1e8257f63",
+    "kr.topic.2022.high.21e4e654029e7e220671",
+    "kr.topic.2022.high.37faa40af170da566630",
+    "kr.topic.2022.high.5dd396258251515b0833",
+    "kr.topic.2022.high.790c1715a81eed17f2f7",
+    "kr.topic.2022.high.920810d61c05db4500a2",
+    "kr.topic.2022.high.ba3cf23c0d6b9cee9eeb"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.c897750bf77aef4836",
    "titleKorean": "발명과 디자인 — 발명 디자인의 이해",
    "subjectKorean": "발명과 디자인",
@@ -564,6 +864,87 @@
     "kr.topic.2022.high.2a2c67f9162cd92ac4f0",
     "kr.topic.2022.high.2eb7a62681436b8d8db6",
     "kr.topic.2022.high.71133f92eb686520a8eb"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ce06e5cd7d37914a03",
+   "titleKorean": "특허 출원의 실제 — 출원 서류 검토",
+   "subjectKorean": "특허 출원의 실제",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "출원 서류 검토",
+   "summary": "특허 출원의 실제의 출원 서류 검토 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.2d4e4622b12b4adaf122",
+    "kr.topic.2022.high.3d38fb6017546aa40b9f",
+    "kr.topic.2022.high.44796c134043bfdfee8c",
+    "kr.topic.2022.high.4d1128149557aa1eeb27",
+    "kr.topic.2022.high.8b928e9d61354343d07d",
+    "kr.topic.2022.high.99efad480d59490f4497",
+    "kr.topic.2022.high.9c3353e7833732c45179",
+    "kr.topic.2022.high.9dada826ad0de5d3dabe",
+    "kr.topic.2022.high.f540e05a4f68a082182f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d04e0404c1f5ce9b65",
+   "titleKorean": "특허 정보 조사･분석 — 선행 기술 조사 분석",
+   "subjectKorean": "특허 정보 조사･분석",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "선행 기술 조사 분석",
+   "summary": "특허 정보 조사･분석의 선행 기술 조사 분석 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.0d8f6ae724b82445c3b4",
+    "kr.topic.2022.high.398c2f4166937799be9a",
+    "kr.topic.2022.high.3a78e5432d75f565c37b",
+    "kr.topic.2022.high.3dc00ad75b42ed49e5d6",
+    "kr.topic.2022.high.5c00cc5a4e3b18749163",
+    "kr.topic.2022.high.5e58164d6ecdc21d41d6",
+    "kr.topic.2022.high.7db002f318afc1041e52",
+    "kr.topic.2022.high.a765d78761cc8879c2be",
+    "kr.topic.2022.high.b9a9f093c816b4892b72",
+    "kr.topic.2022.high.c55e050622f4a3c60777",
+    "kr.topic.2022.high.dde48d016893d6eb5d04"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d0fd8044be956f3a4d",
+   "titleKorean": "스마트 설비 실무 — 스마트 공장 시스템 장치 관리",
+   "subjectKorean": "스마트 설비 실무",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "스마트 공장 시스템 장치 관리",
+   "summary": "스마트 설비 실무의 스마트 공장 시스템 장치 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.4d7d7833af67de5c77f7",
+    "kr.topic.2022.high.8a8c6d6683b37507926b",
+    "kr.topic.2022.high.9649341fe8464d2827f7",
+    "kr.topic.2022.high.d768cde080c9bf2eb32a",
+    "kr.topic.2022.high.e0cb37f772657984656b",
+    "kr.topic.2022.high.f42dc97cb9bf85849009"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d1d99d78569a54731f",
+   "titleKorean": "특허 출원의 실제 — 화학･바이오 특허 명세서 검토",
+   "subjectKorean": "특허 출원의 실제",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "화학･바이오 특허 명세서 검토",
+   "summary": "특허 출원의 실제의 화학･바이오 특허 명세서 검토 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.24cc6fc188ee0f719372",
+    "kr.topic.2022.high.56b40b1b17fcead60bb2",
+    "kr.topic.2022.high.66a2433a2fe9cf98e08c",
+    "kr.topic.2022.high.80671d1e5732a5b3483a",
+    "kr.topic.2022.high.95c6a397290e5273861b",
+    "kr.topic.2022.high.a8cbf2bcc52cff6989a6",
+    "kr.topic.2022.high.c8eadfefa19cc3e961fe"
    ]
   },
   {
@@ -584,6 +965,45 @@
     "kr.topic.2022.high.7cb4a24a413ddfc58b15",
     "kr.topic.2022.high.ef0c299a55d304bc827c",
     "kr.topic.2022.high.f59ae38402d8ac604083"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.dc896186546d0aada9",
+   "titleKorean": "스마트 설비 실무 — 공기압 장치 조립",
+   "subjectKorean": "스마트 설비 실무",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "공기압 장치 조립",
+   "summary": "스마트 설비 실무의 공기압 장치 조립 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.106fecb9510b7260b146",
+    "kr.topic.2022.high.a3ac81096b55c4982ed4",
+    "kr.topic.2022.high.a43c2b5eb2086b101051",
+    "kr.topic.2022.high.b6bae26f5d2073c46078",
+    "kr.topic.2022.high.bb6470c7207b0a640dec",
+    "kr.topic.2022.high.f888f23dacd72457e16c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.dfbe0e5676142944ca",
+   "titleKorean": "특허 정보 조사･분석 — 지식 재산 자료 정리",
+   "subjectKorean": "특허 정보 조사･분석",
+   "majorFieldSlug": "convergence-ip",
+   "gradeBand": "10-12",
+   "domainKorean": "지식 재산 자료 정리",
+   "summary": "특허 정보 조사･분석의 지식 재산 자료 정리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.00fc680655aa2fed45cf",
+    "kr.topic.2022.high.449b3d02ba66e4570fec",
+    "kr.topic.2022.high.54738fb0429b46b56f08",
+    "kr.topic.2022.high.5c3733a27883d0725871",
+    "kr.topic.2022.high.856cf00491fbdf890578",
+    "kr.topic.2022.high.88e1d9958a25abc05777",
+    "kr.topic.2022.high.922283428da8327bfb64",
+    "kr.topic.2022.high.9d0176b9d122188f9d4f",
+    "kr.topic.2022.high.caa8cfc9a229061b3cc6"
    ]
   },
   {

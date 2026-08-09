@@ -1352,6 +1352,1182 @@
    "text": "공급망 관리(SCM: Supply Chain Management)의 개념을 이해하고, 구성 요소에 대해 서 설명할 수 있다.",
    "sourceId": "annex39",
    "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-설비-실무:[스실 01-01-01]",
+   "code": "[스실 01-01-01]",
+   "text": "기계 조립 일정에 맞추기 위하여 조립 작업의 순서 및 절차를 파악하고 기계조립 계획을 수립할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-설비-실무:[스실 01-01-02]",
+   "code": "[스실 01-01-02]",
+   "text": "수립된 기계 조립 계획에 따라 기계 장치 조립에 필요한 공구와 기계 장치, 소요 부품의 수량을 확인하고 조립 인원을 배치하고 준비할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-설비-실무:[스실 01-02-01]",
+   "code": "[스실 01-02-01]",
+   "text": "정확한 기계 조립을 위하여 수립된 기계 조립 계획에 따라 공정 순서와 일정을 고려하여 기계 장치 조립을 할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-설비-실무:[스실 01-02-02]",
+   "code": "[스실 01-02-02]",
+   "text": "기계조립 작업의 안전을 위하여 작업 안전 규정에 따라 기계조립을 할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-설비-실무:[스실 01-03-01]",
+   "code": "[스실 01-03-01]",
+   "text": "정확히 조립되었는지 기계 조립 도면과 비교할 수 있으며, 이상 발생 시 수정‧보완 할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-설비-실무:[스실 01-03-02]",
+   "code": "[스실 01-03-02]",
+   "text": "기계 조립 장치의 정확한 구동을 위하여 측정하고 검사한 데이터를 기록하고 관리할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-설비-실무:[스실 02-01-01]",
+   "code": "[스실 02-01-01]",
+   "text": "전기 전자 회로를 이해하고, 연결 상태 및 전자 회로 부품을 해독할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-설비-실무:[스실 02-01-02]",
+   "code": "[스실 02-01-02]",
+   "text": "스마트 설비 제어를 위해 선정된 전기 전자 장치 부품을 지정된 위치에 적합한 조립 공 구를 이용하여 조립할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-설비-실무:[스실 02-02-01]",
+   "code": "[스실 02-02-01]",
+   "text": "정확히 조립되었는지 전기 조립 도면과 비교할 수 있으며, 이상 발생 시 수정‧보완 할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-설비-실무:[스실 02-02-02]",
+   "code": "[스실 02-02-02]",
+   "text": "전기 전자 장치의 기능을 확인하기 위하여 측정한 데이터를 기록하고 관리할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-설비-실무:[스실 02-03-01]",
+   "code": "[스실 02-03-01]",
+   "text": "안전 표준 규격에 따라 전기 전자 장치의 안전성 검사 항목을 선정하고 검사를 실시할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-설비-실무:[스실 02-03-02]",
+   "code": "[스실 02-03-02]",
+   "text": "전기 전자 장치의 안전을 확인하기 위하여 측정한 데이터를 기록하고 관리할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-설비-실무:[스실 03-01-01]",
+   "code": "[스실 03-01-01]",
+   "text": "공기압 회로도를 파악하기 위하여 도면을 해독할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-설비-실무:[스실 03-01-02]",
+   "code": "[스실 03-01-02]",
+   "text": "공기압 회로도에 따라 부품의 규격을 파악할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-설비-실무:[스실 03-02-01]",
+   "code": "[스실 03-02-01]",
+   "text": "작업 표준서에 따라 공기압 장치 부품을 지정된 위치에 적합한 공구와 장비를 활용하여 조립할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-설비-실무:[스실 03-02-02]",
+   "code": "[스실 03-02-02]",
+   "text": "공기압 장치 조립 작업의 안전을 위하여 공기압 장치 조립 시 안전 사항을 준수할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-설비-실무:[스실 03-03-01]",
+   "code": "[스실 03-03-01]",
+   "text": "정확히 조립되었는지 공기압 회로 도면과 비교할 수 있으며, 이상발생 시 수정‧보완 할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-설비-실무:[스실 03-03-02]",
+   "code": "[스실 03-03-02]",
+   "text": "공기압 장치의 기능을 확인하기 위하여 측정한 데이터를 기록하고 관리할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-설비-실무:[스실 04-01-01]",
+   "code": "[스실 04-01-01]",
+   "text": "PLC 특수 기능 모듈의 종류와 원리를 파악하고 제어 시스템 구축을 실시할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-설비-실무:[스실 04-01-02]",
+   "code": "[스실 04-01-02]",
+   "text": "PLC 메이커의 통신 소프트웨어, 위치 제어 소프트웨어의 사용 설명서를 파악할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-설비-실무:[스실 04-02-01]",
+   "code": "[스실 04-02-01]",
+   "text": "제어 대상 기계의 작동 순서에 따라 작업 내용의 공정도를 작성할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-설비-실무:[스실 04-02-02]",
+   "code": "[스실 04-02-02]",
+   "text": "PLC 프로그램 작성 규칙에 따라 에러 없는 프로그램을 작성할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-설비-실무:[스실 04-03-01]",
+   "code": "[스실 04-03-01]",
+   "text": "프로그램에서 이상이 발견되었을 경우 수정 및 보완할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-설비-실무:[스실 04-03-02]",
+   "code": "[스실 04-03-02]",
+   "text": "PLC 프로그램 이력표에 의해 보완 및 개선 이력을 작성 및 관리할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-설비-실무:[스실 05-01-01]",
+   "code": "[스실 05-01-01]",
+   "text": "HMI와 연결되어 작동되는 기계 장비 종류와 성능을 파악할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-설비-실무:[스실 05-01-02]",
+   "code": "[스실 05-01-02]",
+   "text": "사용자의 편의성과 스마트 설비의 성능을 고려하여 제어 조작 화면을 설계할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-설비-실무:[스실 05-02-01]",
+   "code": "[스실 05-02-01]",
+   "text": "HMI 장치에 맞도록 설계서의 내용대로 HMI 프로그램을 구현할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-설비-실무:[스실 05-02-02]",
+   "code": "[스실 05-02-02]",
+   "text": "작성된 프로그램의 오류를 체크하여 수정할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-설비-실무:[스실 05-03-01]",
+   "code": "[스실 05-03-01]",
+   "text": "HMI 장치와 기계 장치가 연결되어 정상 작동하는지 점검하고 테스트할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-설비-실무:[스실 05-03-02]",
+   "code": "[스실 05-03-02]",
+   "text": "기계 장치 작동 도중에 HMI 장치와 관련된 문제가 발생하였을 때 원인을 파악하고 조치할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-설비-실무:[스실 06-01-01]",
+   "code": "[스실 06-01-01]",
+   "text": "스마트 공장 시스템 장치 관리 항목 체크리스트를 작성할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-설비-실무:[스실 06-01-02]",
+   "code": "[스실 06-01-02]",
+   "text": "체크리스트에 따라 관리 주기, 관리 조건, 관리 도구를 설정 및 준비할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-설비-실무:[스실 06-02-01]",
+   "code": "[스실 06-02-01]",
+   "text": "체크리스트에 의거하여 설비를 점검할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-설비-실무:[스실 06-02-02]",
+   "code": "[스실 06-02-02]",
+   "text": "스마트 공장 시스템 장치 점검 결과를 기록하고 이력을 관리할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-설비-실무:[스실 06-03-01]",
+   "code": "[스실 06-03-01]",
+   "text": "이상 발생 원인을 분석하여 해결하고, 재발 방지 및 개선 계획을 수립할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-스마트-설비-실무:[스실 06-03-02]",
+   "code": "[스실 06-03-02]",
+   "text": "점검 결과를 확인하여 스마트 설비 장치 관리 항목을 변경할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 01-01-01]",
+   "code": "[지재 01-01-01]",
+   "text": "지식 재산 관리 시스템의 운용 계획을 수립할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 01-01-02]",
+   "code": "[지재 01-01-02]",
+   "text": "지식 재산 관리 시스템의 운용 계획에 따라 사용자 교육을 할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 01-01-03]",
+   "code": "[지재 01-01-03]",
+   "text": "지식 재산 관리 시스템을 이용하여 필요한 자료를 검색 및 출력할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 01-01-04]",
+   "code": "[지재 01-01-04]",
+   "text": "지식 재산 관리 시스템의 유지･보수 계획을 수립할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 01-02-01]",
+   "code": "[지재 01-02-01]",
+   "text": "서면 연구 노트를 발간 배포할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 01-02-02]",
+   "code": "[지재 01-02-02]",
+   "text": "서면 연구 노트의 작성 방법을 지도할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 01-02-03]",
+   "code": "[지재 01-02-03]",
+   "text": "전자 연구 노트의 작성을 위한 관리 시스템 운용 계획을 수립할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 01-02-04]",
+   "code": "[지재 01-02-04]",
+   "text": "전자 연구 노트 관리 시스템을 이용하여 사용자 교육을 할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 01-02-05]",
+   "code": "[지재 01-02-05]",
+   "text": "전자 연구 노트 관리 시스템을 운용･관리･유지･보수할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 02-01-01]",
+   "code": "[지재 02-01-01]",
+   "text": "대상 기관과 목적에 맞는 발명 신고서 양식을 만들 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 02-01-02]",
+   "code": "[지재 02-01-02]",
+   "text": "발명 신고서 양식에 따라 작성되었는지 검토할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 02-01-03]",
+   "code": "[지재 02-01-03]",
+   "text": "발명 신고서 수정 보완 의견서를 작성하여 작성자에게 발송할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 02-01-04]",
+   "code": "[지재 02-01-04]",
+   "text": "비밀 유지를 위해 발명 신고서를 분류하여 관리할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 02-01-05]",
+   "code": "[지재 02-01-05]",
+   "text": "영업 비밀로 보유, 공지 증명 제도 이용, 출원 등 권리화 방안을 마련하고, 필요한 사후 조치를 수행할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 02-02-01]",
+   "code": "[지재 02-02-01]",
+   "text": "발명 진흥법에 따라 직무 발명 관련 규정을 만들 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 02-02-02]",
+   "code": "[지재 02-02-02]",
+   "text": "직무 발명에 관한 사항을 심의하기 위하여 직무 발명심의위원회를 설치 운영할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 02-02-03]",
+   "code": "[지재 02-02-03]",
+   "text": "직무 발명 관련 규정에 따라 출원, 등록, 실시, 처분 등 보상금 지급 대상을 선별하여 지급할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 02-02-04]",
+   "code": "[지재 02-02-04]",
+   "text": "직무 발명 관련 규정에 따라 발명왕, 우수 발명 포상 등 비금전적 보상 제도를 검토 운영 할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 02-02-05]",
+   "code": "[지재 02-02-05]",
+   "text": "직무 발명 제도에 관한 제반 사항을 주기적으로 교육할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 03-01-01]",
+   "code": "[지재 03-01-01]",
+   "text": "출원인 코드 부여 신청에 필요한 절차를 수행할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 03-01-02]",
+   "code": "[지재 03-01-02]",
+   "text": "특허청 전자 문서 이용 신고 절차를 수행할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 03-01-03]",
+   "code": "[지재 03-01-03]",
+   "text": "지식 재산권 출원에 필요한 온라인 인증서 발급 절차를 수행할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 03-01-04]",
+   "code": "[지재 03-01-04]",
+   "text": "대리인 위임과 관련된 절차를 수행할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 03-02-01]",
+   "code": "[지재 03-02-01]",
+   "text": "특허청 문서 작성 서식 작성기를 사용할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 03-02-02]",
+   "code": "[지재 03-02-02]",
+   "text": "국내 출원 서식의 기재 사항을 정확하게 작성할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 03-02-03]",
+   "code": "[지재 03-02-03]",
+   "text": "지식 재산권 출원에 필요한 서류를 검토하고 작성할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 03-03-01]",
+   "code": "[지재 03-03-01]",
+   "text": "특허청 홈페이지를 이용하여 출원을 신청할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 03-03-02]",
+   "code": "[지재 03-03-02]",
+   "text": "특허청 서식 작성기를 이용하여 출원을 신청할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 03-03-03]",
+   "code": "[지재 03-03-03]",
+   "text": "다양한 출원 절차를 수행할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 03-03-04]",
+   "code": "[지재 03-03-04]",
+   "text": "특허청 민원 서식을 이용하여 서면으로 출원할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 03-03-05]",
+   "code": "[지재 03-03-05]",
+   "text": "출원에 관련된 비용을 산출할 수 있으며 납부할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 03-04-01]",
+   "code": "[지재 03-04-01]",
+   "text": "특허법 시행 규칙에 맞는 보정서를 작성할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 03-04-02]",
+   "code": "[지재 03-04-02]",
+   "text": "특허청 통합 서식 작성기를 사용하여 보정서를 신청할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 03-04-03]",
+   "code": "[지재 03-04-03]",
+   "text": "지식 재산권 출원 서식 보정 신청에 관한 절차를 수행할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 03-04-04]",
+   "code": "[지재 03-04-04]",
+   "text": "지식 재산권 출원 서식의 보정할 사항에 대해서 알 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 03-04-05]",
+   "code": "[지재 03-04-05]",
+   "text": "출원인 정보 변경에 관련된 절차를 수행할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 04-01-01]",
+   "code": "[지재 04-01-01]",
+   "text": "심사관의 의견 제출 통지서에 대응하는 의견서 및 보정서 서식을 작성할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 04-01-02]",
+   "code": "[지재 04-01-02]",
+   "text": "우선 심사 신청서 서식의 주요 항목을 작성할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 04-01-03]",
+   "code": "[지재 04-01-03]",
+   "text": "등록 권리의 양도, 상속, 합병 등 여러 가지 사유에 대응하는 권리관계 변경 신고서 서식을 작성할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 04-01-04]",
+   "code": "[지재 04-01-04]",
+   "text": "제출 기한을 연장 또는 단축을 요청하는 기간 연장(단축) 서식을 작성할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 04-02-01]",
+   "code": "[지재 04-02-01]",
+   "text": "심사관의 의견 제출 통지서에 대응하는 의견서 및 보정서 서식을 작성할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 04-02-02]",
+   "code": "[지재 04-02-02]",
+   "text": "우선 심사 신청서 및 권리관계 변경 신고서, 기간 연장(단축) 서식을 작성할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 04-02-03]",
+   "code": "[지재 04-02-03]",
+   "text": "거절 결정서를 접수한 후 명세서 또는 도면의 보정을 위한 재심사 청구서 서식을 작성할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 04-02-04]",
+   "code": "[지재 04-02-04]",
+   "text": "심사 완료 후 특허･실용신안, 디자인, 상표에 대응하는 설정 등록료 서식을 작성할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 04-02-05]",
+   "code": "[지재 04-02-05]",
+   "text": "특허･실용신안권, 디자인권, 상표권에 대응하는 말소 등록 신청 서식을 작성할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 04-02-06]",
+   "code": "[지재 04-02-06]",
+   "text": "거래 관계에서 발생하는 불확정한 채권을 담보로 할 목적으로 질권 설정 등록 서식을 작 성할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 04-02-07]",
+   "code": "[지재 04-02-07]",
+   "text": "특허･실용신안, 디자인, 상표에 대응하여 설정 등록, 변동 등록 관련 서식을 작성할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 04-02-08]",
+   "code": "[지재 04-02-08]",
+   "text": "특허･실용신안, 디자인, 상표에 대응하여 기타 등록 관련 서식을 작성할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 04-03-01]",
+   "code": "[지재 04-03-01]",
+   "text": "중간 서식 및 등록 서식을 특허청에 제출할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 04-03-02]",
+   "code": "[지재 04-03-02]",
+   "text": "등록 서식과 관련된 납부료를 지정된 금융 기관에 직접 제출할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 04-03-03]",
+   "code": "[지재 04-03-03]",
+   "text": "제출된 중간 및 등록 서식을 자료 정리 기준에 따라 분류할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 04-03-04]",
+   "code": "[지재 04-03-04]",
+   "text": "업무용 소프트웨어를 활용하여 작성한 자료를 정리할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 04-04-01]",
+   "code": "[지재 04-04-01]",
+   "text": "특허･실용신안에 대응하는 연차 등록료 서식을 작성할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 04-04-02]",
+   "code": "[지재 04-04-02]",
+   "text": "디자인에 대응하는 연차 등록료 서식을 작성할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 04-04-03]",
+   "code": "[지재 04-04-03]",
+   "text": "상표에 대응하는 존속 기간 갱신 등록료 납부 서식을 작성할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 04-05-01]",
+   "code": "[지재 04-05-01]",
+   "text": "개인의 의사에 의한 권리 이전 등록 신청서 서식을 작성할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 04-05-02]",
+   "code": "[지재 04-05-02]",
+   "text": "법령의 요건에 의한 권리 이전 등록 신청서 서식을 작성할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 04-05-03]",
+   "code": "[지재 04-05-03]",
+   "text": "지식 재산권(특허･실용신안권, 디자인권, 상표권)자의 약정 또는 허락에 의한 전용 실시 (사용)권 설정 등록 신청 서식을 작성할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-지식-재산-관리:[지재 04-05-04]",
+   "code": "[지재 04-05-04]",
+   "text": "특허권자의 약정 또는 허락에 의한 통상 실시(사용)권 설정 등록 신청 서식을 작성할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 01-01-01]",
+   "code": "[특정 01-01-01]",
+   "text": "기관의 특성을 고려하여 발명 신고서 양식을 개발할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 01-01-02]",
+   "code": "[특정 01-01-02]",
+   "text": "발명 신고서의 작성 내용 중 필수 기재 사항의 누락 여부를 검토할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 01-01-03]",
+   "code": "[특정 01-01-03]",
+   "text": "발명 신고서에 기재된 발명의 기술적 내용을 파악하여 특허 요소를 선별할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 01-02-01]",
+   "code": "[특정 01-02-01]",
+   "text": "발명 신고서에서 파악된 발명에 대한 관련 기초 기술을 조사할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 01-02-02]",
+   "code": "[특정 01-02-02]",
+   "text": "발명 신고서에서 파악된 개발 분야의 기술 동향을 분석할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 01-03-01]",
+   "code": "[특정 01-03-01]",
+   "text": "발명 상담을 통해 종래 기술의 문제점을 도출할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 01-03-02]",
+   "code": "[특정 01-03-02]",
+   "text": "발명 상담을 통해 발명자가 생각하는 발명의 목적, 구성, 효과를 도출할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 01-03-03]",
+   "code": "[특정 01-03-03]",
+   "text": "발명 상담을 통해 발명의 필수 구성 요소와 부가 구성 요소가 무엇인지 구분할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 01-03-04]",
+   "code": "[특정 01-03-04]",
+   "text": "발명 상담을 통해 최선 실시 예와 변형 실시 예가 무엇인지 구분할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 02-01-01]",
+   "code": "[특정 02-01-01]",
+   "text": "다양한 정보원(source) 제공 정보의 종류, 범위, 특성을 정확하게 도출할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 02-01-02]",
+   "code": "[특정 02-01-02]",
+   "text": "주어진 예산과 자원을 고려하여 검색 대상 정보원(source)을 확정할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 02-01-03]",
+   "code": "[특정 02-01-03]",
+   "text": "대상 정보원(source)별 특징과 시스템에 맞도록 분석 목적과 범위에 맞는 검색 조건을 확정할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 02-01-04]",
+   "code": "[특정 02-01-04]",
+   "text": "대상 정보원(source)별 검색 결과 산출 범위 및 산출 대상을 확정할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 02-02-01]",
+   "code": "[특정 02-02-01]",
+   "text": "정보원별로 정보를 확보할 수 있는 정확한 이용 방법 및 정보 제공 범위를 도출할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 02-02-02]",
+   "code": "[특정 02-02-02]",
+   "text": "정보원별 특징에 맞는 검색 조건을 사용하여 지식 재산 정보를 검색할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 02-02-03]",
+   "code": "[특정 02-02-03]",
+   "text": "수행된 검색 결과물을 추출하여 원하는 형태로 취합할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 02-02-04]",
+   "code": "[특정 02-02-04]",
+   "text": "검색 수행 결과를 분석하여 검색의 방향에 맞게 보완적인 추가 검색을 할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 02-02-05]",
+   "code": "[특정 02-02-05]",
+   "text": "지식 재산 정보 분석의 목적과 범위에 맞게 누락 없이 검색이 잘 수행되었는지를 검토 할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 02-03-01]",
+   "code": "[특정 02-03-01]",
+   "text": "지식 재산 정보 분석 목적에 적합한 자료 취합, 정리를 위한 분류 기준을 정할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 02-03-02]",
+   "code": "[특정 02-03-02]",
+   "text": "각 정보원별로 수집된 다양한 형태의 자료를 분류 기준에 맞게 취합할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 02-03-03]",
+   "code": "[특정 02-03-03]",
+   "text": "취합된 결과 자료를 조사 분석 목적에 맞게 분석 항목별로 정리할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 03-01-01]",
+   "code": "[특정 03-01-01]",
+   "text": "산업 재산권, 저작권, 신지식 재산권에 맞게 분류 체계를 수립할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 03-01-02]",
+   "code": "[특정 03-01-02]",
+   "text": "관련 기술을 이해하고 기술에 맞는 분류 체계를 수립할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 03-01-03]",
+   "code": "[특정 03-01-03]",
+   "text": "산업 재산권의 서지 사항을 이해하여 통계 분석을 하기 위한 계산 기준을 수립할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 03-02-01]",
+   "code": "[특정 03-02-01]",
+   "text": "특허 분석 의뢰자의 의견을 들어 분류를 검증할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 03-02-02]",
+   "code": "[특정 03-02-02]",
+   "text": "분석 수행자 상호 간에 교차로 분류를 검증할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 03-02-03]",
+   "code": "[특정 03-02-03]",
+   "text": "분류 검증을 통해 기술 분류표의 자료를 수정 및 보완할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 03-03-01]",
+   "code": "[특정 03-03-01]",
+   "text": "지식 재산권 소유 기준에 따라 분류 체계를 수립할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 03-03-02]",
+   "code": "[특정 03-03-02]",
+   "text": "분석 대상 기술을 세부적으로 이해하고 그에 맞게 세부 기술로 분류할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 03-03-03]",
+   "code": "[특정 03-03-03]",
+   "text": "기계, 화학･바이오, 전기･전자 등 기술 분야의 특징에 맞게 세부 기술을 분류할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 04-01-01]",
+   "code": "[특정 04-01-01]",
+   "text": "출원하고자 하는 발명의 배경 기술을 파악할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 04-01-02]",
+   "code": "[특정 04-01-02]",
+   "text": "출원하고자 하는 발명 기술의 주요 구성 요소를 추출할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 04-01-03]",
+   "code": "[특정 04-01-03]",
+   "text": "출원하고자 하는 발명의 주요 키워드를 선정할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 04-02-01]",
+   "code": "[특정 04-02-01]",
+   "text": "출원하고자 하는 발명에 대한 선행 기술 조사 검색 범위를 설정할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 04-02-02]",
+   "code": "[특정 04-02-02]",
+   "text": "선행 기술 조사에 사용할 검색식을 작성할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 04-02-03]",
+   "code": "[특정 04-02-03]",
+   "text": "출원하고자 하는 발명과 동일 또는 유사한 선행 특허 자료를 검색할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 04-02-04]",
+   "code": "[특정 04-02-04]",
+   "text": "출원하고자 하는 발명과 동일 또는 유사한 비특허 자료를 검색할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 04-03-01]",
+   "code": "[특정 04-03-01]",
+   "text": "선행 기술 조사 자료를 바탕으로 특허와 비특허 문헌에 제시되어 있는 기술을 분석할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 04-03-02]",
+   "code": "[특정 04-03-02]",
+   "text": "선행 기술 조사 자료를 바탕으로 출원하고자 하는 발명의 신규성을 비교 분석할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 04-03-03]",
+   "code": "[특정 04-03-03]",
+   "text": "선행 기술 조사 자료를 바탕으로 출원하고자 하는 발명의 진보성을 비교 분석할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-정보-조사･분석:[특정 04-03-04]",
+   "code": "[특정 04-03-04]",
+   "text": "비교 분석 결과를 바탕으로 특허 출원용 선행 기술 조사 보고서를 작성할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-출원의-실제:[특출 01-01-01]",
+   "code": "[특출 01-01-01]",
+   "text": "특허 출원서를 설명할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-출원의-실제:[특출 01-01-02]",
+   "code": "[특출 01-01-02]",
+   "text": "국내 출원 형식에 맞게 출원에 관련된 출원서를 작성할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-출원의-실제:[특출 01-02-01]",
+   "code": "[특출 01-02-01]",
+   "text": "특허 명세서에 대해 설명할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-출원의-실제:[특출 01-02-02]",
+   "code": "[특출 01-02-02]",
+   "text": "출원하고자 하는 발명에 대해 청구 범위를 작성할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-출원의-실제:[특출 01-02-03]",
+   "code": "[특출 01-02-03]",
+   "text": "명세서 중 발명의 명칭, 기술 분야, 발명의 배경이 되는 기술, 선행 기술 문헌을 작성할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-출원의-실제:[특출 01-02-04]",
+   "code": "[특출 01-02-04]",
+   "text": "명세서 중 발명의 내용(해결하고자 하는 과제, 과제의 해결 수단, 발명의 효과)을 작성할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-출원의-실제:[특출 01-02-05]",
+   "code": "[특출 01-02-05]",
+   "text": "명세서 중 발명을 실시하기 위한 구체적인 내용을 작성할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-출원의-실제:[특출 01-03-01]",
+   "code": "[특출 01-03-01]",
+   "text": "작성된 출원 서류의 형식과 구비 서류를 검토할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-출원의-실제:[특출 01-03-02]",
+   "code": "[특출 01-03-02]",
+   "text": "작성된 국내 특허 출원서의 형식과 내용을 검토할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-출원의-실제:[특출 02-01-01]",
+   "code": "[특출 02-01-01]",
+   "text": "특허 도면을 필요성을 설명할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-출원의-실제:[특출 02-01-02]",
+   "code": "[특출 02-01-02]",
+   "text": "특허 도면의 종류를 설명할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-출원의-실제:[특출 02-02-01]",
+   "code": "[특출 02-02-01]",
+   "text": "특허 도면의 작성법을 설명할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-출원의-실제:[특출 02-02-02]",
+   "code": "[특출 02-02-02]",
+   "text": "2D 도면 작성 소프트웨어를 활용하여 특허 도면을 작성할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-출원의-실제:[특출 03-01-01]",
+   "code": "[특출 03-01-01]",
+   "text": "기계･금속･토목 분야에서 사용하는 특허 도면의 필요성을 설명할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-출원의-실제:[특출 03-01-02]",
+   "code": "[특출 03-01-02]",
+   "text": "기계･금속･토목 분야에서 사용하는 특허 도면의 한 종류를 설명할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-출원의-실제:[특출 03-02-01]",
+   "code": "[특출 03-02-01]",
+   "text": "기계･토목 분야를 이해하여, 해당 기술 분야 특허의 구성 요소를 설명할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-출원의-실제:[특출 03-03-01]",
+   "code": "[특출 03-03-01]",
+   "text": "금속･소재 분야를 이해하여, 해당 기술 분야 특허의 구성 요소를 설명할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-출원의-실제:[특출 03-04-01]",
+   "code": "[특출 03-04-01]",
+   "text": "기계･금속･소재 분야를 이해하여, 해당 기술 분야 특허의 청구항을 설명할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-출원의-실제:[특출 04-01-01]",
+   "code": "[특출 04-01-01]",
+   "text": "전기･전자･통신 분야 제어 알고리즘의 필요성을 설명할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-출원의-실제:[특출 04-01-02]",
+   "code": "[특출 04-01-02]",
+   "text": "전기･전자･통신 분야 제어 알고리즘을 이해하여 동작 방식을 설명할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-출원의-실제:[특출 04-02-01]",
+   "code": "[특출 04-02-01]",
+   "text": "전기･전자･통신 분야 회로도를 이루는 다양한 소자를 설명할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-출원의-실제:[특출 04-02-02]",
+   "code": "[특출 04-02-02]",
+   "text": "회로도의 기능과 동작에 대해서 설명할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-출원의-실제:[특출 04-03-01]",
+   "code": "[특출 04-03-01]",
+   "text": "전기･전자･통신 분야에서 다루는 표준에 대해서 설명할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-출원의-실제:[특출 04-03-02]",
+   "code": "[특출 04-03-02]",
+   "text": "전기･전자･통신 분야에서 다루는 표준화 특허에 대해서 설명할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-출원의-실제:[특출 04-04-01]",
+   "code": "[특출 04-04-01]",
+   "text": "전기･전자･통신 분야를 이해하여, 해당 기술 분야 특허의 청구항을 설명할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-출원의-실제:[특출 05-01-01]",
+   "code": "[특출 05-01-01]",
+   "text": "화학･바이오 분야의 조성물 기재의 필요성을 설명할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-출원의-실제:[특출 05-01-02]",
+   "code": "[특출 05-01-02]",
+   "text": "화학･바이오 분야의 조성물에 대해서 설명할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-출원의-실제:[특출 05-02-01]",
+   "code": "[특출 05-02-01]",
+   "text": "화학･바이오 분야의 제조 공정 기재의 필요성을 설명할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-출원의-실제:[특출 05-02-02]",
+   "code": "[특출 05-02-02]",
+   "text": "화학･바이오 분야의 제조 공정에 대해서 이해하고 설명할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-출원의-실제:[특출 05-03-01]",
+   "code": "[특출 05-03-01]",
+   "text": "화학･바이오 분야에서 구조식의 필요성에 대해서 이해하고 설명할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-출원의-실제:[특출 05-03-02]",
+   "code": "[특출 05-03-02]",
+   "text": "화학･바이오 분야에서 서열의 필요성에 대해서 이해하고 설명할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
+  },
+  {
+   "key": "kr-2022-voc-특허-출원의-실제:[특출 05-04-01]",
+   "code": "[특출 05-04-01]",
+   "text": "화학･바이오 분야를 이해하여, 해당 기술 분야 특허의 청구항을 설명할 수 있다.",
+   "sourceId": "annex39",
+   "locator": "pattern-match"
   }
  ]
 }

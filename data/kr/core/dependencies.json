@@ -10,6 +10,42 @@
    "basis": "국가교육위원회 고시 제2024-3호 별책35 정보·통신전문교과 성취기준 해설 p.141"
   },
   {
+   "topicId": "kr.topic.2022.high.b5695e8ebd4ac483d7ca",
+   "prerequisiteId": "kr.topic.2022.high.7719246a9df04ffa7474",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "이동 간호 돕기 지식을 보행 환자 이송에 연계한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.183"
+  },
+  {
+   "topicId": "kr.topic.2022.high.c87f11a71e86ce59b68f",
+   "prerequisiteId": "kr.topic.2022.high.ae2e93fc7a5a3261ddd8",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "디지털 컬러 시스템을 디지털 색채 제작 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.481"
+  },
+  {
+   "topicId": "kr.topic.2022.high.bd2b59942176145012c6",
+   "prerequisiteId": "kr.topic.2022.high.cc51b40cc7955f503041",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "노년기 발달 이해를 대상자의 정신 건강 상태 파악과 연계한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.55"
+  },
+  {
+   "topicId": "kr.topic.2022.high.b6deb97921170f7ff404",
+   "prerequisiteId": "kr.topic.2022.high.2a25f189b687c2e44df7",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "수집한 핵심 품질 특성을 서비스 개발의 핵심 목표로 활용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책35 정보·통신전문교과 성취기준 해설 p.338"
+  },
+  {
    "topicId": "kr.topic.2022.high.7d88007e6826698bdf4c",
    "prerequisiteId": "kr.topic.2022.high.2c13b28aa526c4fd37a7",
    "strength": "hard",
@@ -17,6 +53,78 @@
    "scope": "same-course",
    "reason": "정투상 개념을 학습한 뒤 3면도 작성에 적용하도록 한다.",
    "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.113"
+  },
+  {
+   "topicId": "kr.topic.2022.high.446d1c45565c84bfb233",
+   "prerequisiteId": "kr.topic.2022.high.7d8c74683e1420ea498a",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "영상 연동 기초를 익힌 뒤 지정된 후속 요소에서 실습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.217"
+  },
+  {
+   "topicId": "kr.topic.2022.high.4d39246074c6522d3201",
+   "prerequisiteId": "kr.topic.2022.high.7e5d57bfb9b862c58a87",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색채 심리 영역을 기능성 색채 효과 분석 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.473"
+  },
+  {
+   "topicId": "kr.topic.2022.high.c6cded8b5b96f13dffd7",
+   "prerequisiteId": "kr.topic.2022.high.7719246a9df04ffa7474",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "이동 간호 돕기 지식을 침상·휠체어 간 이송 준비에 연결한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.183"
+  },
+  {
+   "topicId": "kr.topic.2022.high.cdc3f8b3bc5ee4e752c0",
+   "prerequisiteId": "kr.topic.2022.high.73a4283dbb1ae0259f7a",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "개인위생 간호 지식을 신체 부분 청결 지원과 연계한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.183"
+  },
+  {
+   "topicId": "kr.topic.2022.high.e75d4b762075c4069115",
+   "prerequisiteId": "kr.topic.2022.high.6462779d539ce6673494",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "부품의 종류·목적·기능 이해를 토대로 치수 공차를 적용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책30 기계전문교과 성취기준 해설 p.287"
+  },
+  {
+   "topicId": "kr.topic.2022.high.accfb9c5351d39631b7c",
+   "prerequisiteId": "kr.topic.2022.high.7dbd63f87ed0096f21a9",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "측색과 색채 분석을 측색 기기 선택 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.477"
+  },
+  {
+   "topicId": "kr.topic.2022.high.1c19ade55e0ab8f19313",
+   "prerequisiteId": "kr.topic.2022.high.1634e6055bd99da1b2bd",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "친환경 농자재의 종류와 용도 이해가 병해 관리제 방제에 선행하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책37 농림·축산전문교과 성취기준 해설 p.490"
+  },
+  {
+   "topicId": "kr.topic.2022.high.ceb9793204f1e39de1a7",
+   "prerequisiteId": "kr.topic.2022.high.404b4e5a6888b07871df",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "감염 관리 지침 이해를 소독물 상태 유지와 정리에 연결한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.283"
   },
   {
    "topicId": "kr.topic.2022.high.f0169036c1621eb81c24",
@@ -37,6 +145,177 @@
    "basis": "국가교육위원회 고시 제2024-3호 별책39 융복합·지식재산전문교과 성취기준 해설 p.81"
   },
   {
+   "topicId": "kr.topic.2022.high.8ff1f7c116823134b1d9",
+   "prerequisiteId": "kr.topic.2022.high.22d00d1f8f81b463fa82",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "기초 현황 조사 자료로 이용자의 주거 특성과 서비스 욕구를 파악한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책29 건축·토목전문교과 성취기준 해설 p.390"
+  },
+  {
+   "topicId": "kr.topic.2022.high.2f92165356c1f26ba212",
+   "prerequisiteId": "kr.topic.2022.high.a4e66198043737ed93e5",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "법인세 소득 계산의 이론적 배경을 세무 조정 프로그램으로 구현한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책23 경영·금융전문교과 성취기준 해설 p.129"
+  },
+  {
+   "topicId": "kr.topic.2022.high.19205f2410a68aff663a",
+   "prerequisiteId": "kr.topic.2022.high.8207e6aa37443c734a92",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "앞 단원에서 익힌 환경 설정을 SQL 명령으로 적용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책35 정보·통신전문교과 성취기준 해설 p.262"
+  },
+  {
+   "topicId": "kr.topic.2022.high.d338315a12f16668ae77",
+   "prerequisiteId": "kr.topic.2022.high.2dd2fc4553a99896f9a9",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "장르별 리듬 표현을 편곡에 필요한 선행 역량으로 지목한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.eb2979f46241320453c1",
+   "prerequisiteId": "kr.topic.2022.high.291e3dfab3878edf93fb",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "가공 방법과 망치 사용을 단조 성형 작업 전에 이해하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.562"
+  },
+  {
+   "topicId": "kr.topic.2022.high.5aa1ff886329fc7250c9",
+   "prerequisiteId": "kr.topic.2022.high.67bf5dd144006744c355",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색명 체계를 배색 적용 의도 작성 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.480"
+  },
+  {
+   "topicId": "kr.topic.2022.high.0e00c38224d5fee4aab3",
+   "prerequisiteId": "kr.topic.2022.high.0744330a75918f85f0db",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "통합 모델 설계 내용을 학습 알고리즘별 데이터 파악에 활용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책35 정보·통신전문교과 성취기준 해설 p.309"
+  },
+  {
+   "topicId": "kr.topic.2022.high.a63ae59af5f8bcf0700a",
+   "prerequisiteId": "kr.topic.2022.high.d45f20d9bb0363853c6f",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "시창·청음의 멜로디 역량을 편곡 전에 익히도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.4975314b0eef9b7050d0",
+   "prerequisiteId": "kr.topic.2022.high.49cb082f9fcc38485f4e",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "배변 간호 돕기 지식을 대상자의 대소변 지원에 연결한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.286"
+  },
+  {
+   "topicId": "kr.topic.2022.high.81d5491e7c324de4ffc1",
+   "prerequisiteId": "kr.topic.2022.high.d2c669484d83da11091b",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "해상 보험 용어 학습을 적하 보험의 손해 범위 구분과 연계한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책23 경영·금융전문교과 성취기준 해설 p.173"
+  },
+  {
+   "topicId": "kr.topic.2022.high.7aeab1bb70fdf709395c",
+   "prerequisiteId": "kr.topic.2022.high.e08209598fde0b7190b9",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "딜레이드 코커의 전반적인 운전을 익힌 뒤 그린 코크스 물성을 분석한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책31 재료전문교과 성취기준 해설 p.386"
+  },
+  {
+   "topicId": "kr.topic.2022.high.43063afbb28c65dbc2ee",
+   "prerequisiteId": "kr.topic.2022.high.7e5d57bfb9b862c58a87",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색채 연상과 상징을 배색 이미지 분석 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.479"
+  },
+  {
+   "topicId": "kr.topic.2022.high.5aa1ff886329fc7250c9",
+   "prerequisiteId": "kr.topic.2022.high.ab9315d0b76c8d8f0b3d",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색명 체계를 배색 적용 의도 작성 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.480"
+  },
+  {
+   "topicId": "kr.topic.2022.high.1c52c77c1c17da11bfad",
+   "prerequisiteId": "kr.topic.2022.high.6462779d539ce6673494",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "부품의 종류·목적·기능 이해를 토대로 성능을 만족할 치수 공차를 적용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책30 기계전문교과 성취기준 해설 p.287"
+  },
+  {
+   "topicId": "kr.topic.2022.high.6d0b652a465926e62a20",
+   "prerequisiteId": "kr.topic.2022.high.3664d56cfa5934bd0f2e",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색명 체계를 배색 적용 의도 작성 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.480"
+  },
+  {
+   "topicId": "kr.topic.2022.high.552d9f2be754e6bfeb98",
+   "prerequisiteId": "kr.topic.2022.high.67bf5dd144006744c355",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색명 체계를 배색 적용 의도 작성 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.480"
+  },
+  {
+   "topicId": "kr.topic.2022.high.e9741484fa656feff6db",
+   "prerequisiteId": "kr.topic.2022.high.ab9315d0b76c8d8f0b3d",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색명 체계를 배색 적용 의도 작성 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.480"
+  },
+  {
+   "topicId": "kr.topic.2022.high.be22f87943e2b206cb4c",
+   "prerequisiteId": "kr.topic.2022.high.3d420c458caca9e34992",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "디자인 요소·원리를 색채 정보 수집 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.474"
+  },
+  {
+   "topicId": "kr.topic.2022.high.6749589c6a2dd66b2912",
+   "prerequisiteId": "kr.topic.2022.high.73a4283dbb1ae0259f7a",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "개인위생 간호 지식을 대상자의 목욕 지원과 연계한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.183"
+  },
+  {
    "topicId": "kr.topic.2022.high.0a3f9153c2ba833fdeaf",
    "prerequisiteId": "kr.topic.2022.high.315e699462e958e24b87",
    "strength": "hard",
@@ -44,6 +323,42 @@
    "scope": "same-course",
    "reason": "농업 법인 등록 조건 학습을 실제 법인 사례 조사와 인터뷰의 토대로 삼는다.",
    "basis": "국가교육위원회 고시 제2024-3호 별책37 농림·축산전문교과 성취기준 해설 p.159"
+  },
+  {
+   "topicId": "kr.topic.2022.high.327ecf91368e2be7727c",
+   "prerequisiteId": "kr.topic.2022.high.eb2979f46241320453c1",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "모루의 종류와 활용을 판금 돋아 올리기 작업 전에 이해하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.562"
+  },
+  {
+   "topicId": "kr.topic.2022.high.f685d1c958c397218955",
+   "prerequisiteId": "kr.topic.2022.high.2dd2fc4553a99896f9a9",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "장르별 리듬 표현을 편곡에 필요한 선행 역량으로 지목한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.53c0043898e33d45d756",
+   "prerequisiteId": "kr.topic.2022.high.07b799bc2fa89dc5888c",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "배색 기법을 콘셉트별 배색 설계 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.480"
+  },
+  {
+   "topicId": "kr.topic.2022.high.12424c9888f36b81b1ff",
+   "prerequisiteId": "kr.topic.2022.high.66390299ee85bfb35c42",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "실용 화성 이해를 미디 테크닉 영역의 기반으로 삼도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
   },
   {
    "topicId": "kr.topic.2022.high.aa64f6148b5ebadc422c",
@@ -55,6 +370,87 @@
    "basis": "국가교육위원회 고시 제2024-3호 별책33 섬유·의류전문교과 성취기준 해설 p.111"
   },
   {
+   "topicId": "kr.topic.2022.high.0a0adf54ab458c1c7633",
+   "prerequisiteId": "kr.topic.2022.high.6cf170e508e7c284a7e8",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "거래 분개 학습을 회계 실무의 증빙 서류 검토와 연결한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책23 경영·금융전문교과 성취기준 해설 p.88"
+  },
+  {
+   "topicId": "kr.topic.2022.high.8c9a0f750a05c2b0e18f",
+   "prerequisiteId": "kr.topic.2022.high.06bc7affaba4d6408b60",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "체결 부품의 기능 적합성 판단 결과가 부적합일 때 개선안을 마련한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책30 기계전문교과 성취기준 해설 p.281"
+  },
+  {
+   "topicId": "kr.topic.2022.high.39d39800348d3953cfd2",
+   "prerequisiteId": "kr.topic.2022.high.0e75fcf0173333094c37",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "모션 그래픽 학습 요소를 영상 편집의 선수 내용으로 지목한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.241"
+  },
+  {
+   "topicId": "kr.topic.2022.high.38c63392bf6d202f673e",
+   "prerequisiteId": "kr.topic.2022.high.66390299ee85bfb35c42",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "실용 화성 이해를 편곡 영역의 기반으로 삼도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.302d5f92195e7a75ebe4",
+   "prerequisiteId": "kr.topic.2022.high.67bf452edf8a750960ca",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "송전선의 유도 현상과 안전 대책을 이격 거리 판단에 연계한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책36 환경·안전·소방전문교과 성취기준 해설 p.385"
+  },
+  {
+   "topicId": "kr.topic.2022.high.4d39246074c6522d3201",
+   "prerequisiteId": "kr.topic.2022.high.280c24ecd89ba562f369",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색채 심리 영역을 기능성 색채 효과 분석 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.473"
+  },
+  {
+   "topicId": "kr.topic.2022.high.c34c66be52d9aff03983",
+   "prerequisiteId": "kr.topic.2022.high.2dd2fc4553a99896f9a9",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "장르별 리듬 표현을 편곡에 필요한 선행 역량으로 지목한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.0dacc58ecccdac472259",
+   "prerequisiteId": "kr.topic.2022.high.cdf4d0fc53b77167082e",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "병해충 방제 방법을 먼저 익힌 뒤 저항성 품종에 의한 충해 예방을 학습한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책37 농림·축산전문교과 성취기준 해설 p.490"
+  },
+  {
+   "topicId": "kr.topic.2022.high.449de32aa433c6284955",
+   "prerequisiteId": "kr.topic.2022.high.3664d56cfa5934bd0f2e",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색명 체계를 배색 적용 의도 작성 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.480"
+  },
+  {
    "topicId": "kr.topic.2022.high.32274ad413cbd4b94d10",
    "prerequisiteId": "kr.topic.2022.high.4bc542cc8fe470b27d20",
    "strength": "hard",
@@ -62,6 +458,204 @@
    "scope": "same-course",
    "reason": "그루브 심으로 만든 부품을 사용한 뒤 더블 심 작업을 하도록 한다.",
    "basis": "국가교육위원회 고시 제2024-3호 별책30 기계전문교과 성취기준 해설 p.82"
+  },
+  {
+   "topicId": "kr.topic.2022.high.43c3abecbd253b20c8e9",
+   "prerequisiteId": "kr.topic.2022.high.74fe2882548601854068",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "세부 유형까지 분류한 결과를 토대로 동력 전달 요소의 기능을 파악한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책30 기계전문교과 성취기준 해설 p.282"
+  },
+  {
+   "topicId": "kr.topic.2022.high.f7bc2c3b57d1ff5e252d",
+   "prerequisiteId": "kr.topic.2022.high.35d37052601fa9eaf7a1",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "시스템 장비 트래픽 예측 보고서를 전체 트래픽 예측에 활용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책35 정보·통신전문교과 성취기준 해설 p.168"
+  },
+  {
+   "topicId": "kr.topic.2022.high.77cac7702475a618cd2f",
+   "prerequisiteId": "kr.topic.2022.high.b5d8ebd63ae40620c783",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "배색 기법을 주조색·보조색·강조색의 적용 의도 작성 전에 익히도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.480"
+  },
+  {
+   "topicId": "kr.topic.2022.high.4305ea5b53562b580588",
+   "prerequisiteId": "kr.topic.2022.high.2dd2fc4553a99896f9a9",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "장르별 리듬 표현을 편곡에 필요한 선행 역량으로 지목한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.9943a27ca3a85251a296",
+   "prerequisiteId": "kr.topic.2022.high.ffc97a8c7f5412021ff1",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "신경계 질환 이해를 치매 증상 대처에 연결한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.290"
+  },
+  {
+   "topicId": "kr.topic.2022.high.a8db72c27094ec6074f7",
+   "prerequisiteId": "kr.topic.2022.high.049ae84f2333c025d4c6",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "영양 간호 돕기 지식을 식사 지원 실무와 연계한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.182"
+  },
+  {
+   "topicId": "kr.topic.2022.high.77cac7702475a618cd2f",
+   "prerequisiteId": "kr.topic.2022.high.07b799bc2fa89dc5888c",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "배색 기법을 주조색·보조색·강조색의 적용 의도 작성 전에 익히도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.480"
+  },
+  {
+   "topicId": "kr.topic.2022.high.0711ff6f8245d48dc555",
+   "prerequisiteId": "kr.topic.2022.high.ffc97a8c7f5412021ff1",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "신경계 질환 이해를 치매 환자의 행동·정신 변화 관찰에 연결한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.290"
+  },
+  {
+   "topicId": "kr.topic.2022.high.3dd30e819b3ac994073a",
+   "prerequisiteId": "kr.topic.2022.high.a3420e43d95988cb6bc9",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "방송 조명 영역을 조명 장비 탐색과 선택 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.598"
+  },
+  {
+   "topicId": "kr.topic.2022.high.a2e0167c4a5194f29166",
+   "prerequisiteId": "kr.topic.2022.high.66390299ee85bfb35c42",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "실용 화성 이해를 미디 테크닉 영역의 기반으로 삼도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.710511eac8e94e963a08",
+   "prerequisiteId": "kr.topic.2022.high.f573bf8cecdc696ff314",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "질적 욕구 분석 결과를 종합해 주거 서비스 동향을 파악하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책29 건축·토목전문교과 성취기준 해설 p.389"
+  },
+  {
+   "topicId": "kr.topic.2022.high.ab97d23270acc8372e68",
+   "prerequisiteId": "kr.topic.2022.high.61ddbd11b8de45a72536",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "점화원별 방지 계획을 전기 화재 예방 체크리스트 작성에 연계한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책36 환경·안전·소방전문교과 성취기준 해설 p.386"
+  },
+  {
+   "topicId": "kr.topic.2022.high.3dd30e819b3ac994073a",
+   "prerequisiteId": "kr.topic.2022.high.4e29262e0ee44d3a42b5",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "방송 조명 영역을 조명 장비 탐색과 선택 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.598"
+  },
+  {
+   "topicId": "kr.topic.2022.high.7d8c74683e1420ea498a",
+   "prerequisiteId": "kr.topic.2022.high.66390299ee85bfb35c42",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "실용 화성 이해를 미디 테크닉 영역의 기반으로 삼도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.184fef2db4ce8bb75074",
+   "prerequisiteId": "kr.topic.2022.high.66390299ee85bfb35c42",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "실용 화성 이해를 미디 테크닉 영역의 기반으로 삼도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.a39b8803e24661d5d2d2",
+   "prerequisiteId": "kr.topic.2022.high.302d5f92195e7a75ebe4",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "특고압선 이격 거리와 접근 한계 학습을 중기 작업 안전에 연계한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책36 환경·안전·소방전문교과 성취기준 해설 p.385"
+  },
+  {
+   "topicId": "kr.topic.2022.high.6ff211cb2dea996ac8ac",
+   "prerequisiteId": "kr.topic.2022.high.710511eac8e94e963a08",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "동향 파악 결과로 지역사회의 주거 문제를 도출하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책29 건축·토목전문교과 성취기준 해설 p.389"
+  },
+  {
+   "topicId": "kr.topic.2022.high.89960c0bba38fad3a5a2",
+   "prerequisiteId": "kr.topic.2022.high.c0a05f1e2d54b1d837e4",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색의 속성과 혼합을 목표 색 분석 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.476"
+  },
+  {
+   "topicId": "kr.topic.2022.high.1c52c77c1c17da11bfad",
+   "prerequisiteId": "kr.topic.2022.high.34245a4b44182e2b5838",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "부품에 적용된 기능 검토를 토대로 성능을 만족할 치수 공차를 적용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책30 기계전문교과 성취기준 해설 p.287"
+  },
+  {
+   "topicId": "kr.topic.2022.high.206011474c88ddf24568",
+   "prerequisiteId": "kr.topic.2022.high.7d8c74683e1420ea498a",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "영상 연동 기초를 익힌 뒤 지정된 후속 요소에서 실습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.217"
+  },
+  {
+   "topicId": "kr.topic.2022.high.a42685b3ff546b1a122d",
+   "prerequisiteId": "kr.topic.2022.high.1798b1615e606d64c3a4",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "접지와 본딩을 통한 정전기 원인 제거를 작업 환경 개선에 연계한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책36 환경·안전·소방전문교과 성취기준 해설 p.386"
+  },
+  {
+   "topicId": "kr.topic.2022.high.28a1bea7b89f2ce189b7",
+   "prerequisiteId": "kr.topic.2022.high.e90675123f113ba1abe4",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "검체 관리 지식을 검체물의 부서 전달과 연계한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.184"
   },
   {
    "topicId": "kr.topic.2022.high.a19c84bb8edaeecd60cb",
@@ -73,6 +667,60 @@
    "basis": "국가교육위원회 고시 제2024-3호 별책30 기계전문교과 성취기준 해설 p.96"
   },
   {
+   "topicId": "kr.topic.2022.high.5ff56977f5a9a3791fd1",
+   "prerequisiteId": "kr.topic.2022.high.404b4e5a6888b07871df",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "감염 관리 지침 이해를 재사용 물품의 포장·소독 의뢰에 연결한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.181"
+  },
+  {
+   "topicId": "kr.topic.2022.high.61025fd7b28701a2369b",
+   "prerequisiteId": "kr.topic.2022.high.66390299ee85bfb35c42",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "실용 화성 이해를 편곡 영역의 기반으로 삼도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.78b2e6c362096d24d84b",
+   "prerequisiteId": "kr.topic.2022.high.6ea18b3449ad86b045f4",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "3차원 형태 제작을 디지털 색채 시뮬레이션 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.482"
+  },
+  {
+   "topicId": "kr.topic.2022.high.40500e74f29d1f2b3848",
+   "prerequisiteId": "kr.topic.2022.high.3664d56cfa5934bd0f2e",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색명 체계를 배색 적용 의도 작성 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.480"
+  },
+  {
+   "topicId": "kr.topic.2022.high.b4b9ba9b3321844e52e2",
+   "prerequisiteId": "kr.topic.2022.high.80c0c9589ce52157f422",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "무역 클레임 원인 학습을 수출입 계약 위반 판단과 연계한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책23 경영·금융전문교과 성취기준 해설 p.173"
+  },
+  {
+   "topicId": "kr.topic.2022.high.0b9d67f70fd2551049f8",
+   "prerequisiteId": "kr.topic.2022.high.1aba7878c48aece5c056",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "지역사회 협력 지식을 보육 기관 비상 연락망 구축에 활용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.224"
+  },
+  {
    "topicId": "kr.topic.2022.high.8e14d98dc456818677ad",
    "prerequisiteId": "kr.topic.2022.high.bd4a22cd0dad63306ab6",
    "strength": "hard",
@@ -80,6 +728,24 @@
    "scope": "same-course",
    "reason": "PC 언어 스크립트 작성 결과를 공정 재구성 성능 변화 분석에 활용한다.",
    "basis": "국가교육위원회 고시 제2024-3호 별책39 융복합·지식재산전문교과 성취기준 해설 p.84"
+  },
+  {
+   "topicId": "kr.topic.2022.high.086290066b2967477122",
+   "prerequisiteId": "kr.topic.2022.high.6ea18b3449ad86b045f4",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "3차원 형태 제작을 디지털 색채 시뮬레이션 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.482"
+  },
+  {
+   "topicId": "kr.topic.2022.high.af757e20813075786675",
+   "prerequisiteId": "kr.topic.2022.high.66390299ee85bfb35c42",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "실용 화성 이해를 편곡 영역의 기반으로 삼도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
   },
   {
    "topicId": "kr.topic.2022.high.ab89851142b2a6c4ca3f",
@@ -91,6 +757,15 @@
    "basis": "국가교육위원회 고시 제2024-3호 별책37 농림·축산전문교과 성취기준 해설 p.141"
   },
   {
+   "topicId": "kr.topic.2022.high.5c25b3d5d40b5dc157dc",
+   "prerequisiteId": "kr.topic.2022.high.7d8c74683e1420ea498a",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "영상 연동 기초를 익힌 뒤 지정된 후속 요소에서 실습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.217"
+  },
+  {
    "topicId": "kr.topic.2022.high.d8a4d2844258c1019ad3",
    "prerequisiteId": "kr.topic.2022.high.77d09617cd1f0b975b22",
    "strength": "hard",
@@ -100,6 +775,96 @@
    "basis": "국가교육위원회 고시 제2024-3호 별책33 섬유·의류전문교과 성취기준 해설 p.112"
   },
   {
+   "topicId": "kr.topic.2022.high.89960c0bba38fad3a5a2",
+   "prerequisiteId": "kr.topic.2022.high.7fc98a9f0f2695f2f203",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색의 속성과 혼합을 목표 색 분석 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.476"
+  },
+  {
+   "topicId": "kr.topic.2022.high.df143485a4c0ebc2c26c",
+   "prerequisiteId": "kr.topic.2022.high.07b799bc2fa89dc5888c",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "배색 기법을 콘셉트별 배색 설계 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.480"
+  },
+  {
+   "topicId": "kr.topic.2022.high.eb232827e7f7b5acde2f",
+   "prerequisiteId": "kr.topic.2022.high.78161eb1da07eedc897e",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "장부 마감 이론을 회계 실무의 전산 장부 마감과 연결한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책23 경영·금융전문교과 성취기준 해설 p.93"
+  },
+  {
+   "topicId": "kr.topic.2022.high.b36db8fa7f87a4e7f942",
+   "prerequisiteId": "kr.topic.2022.high.66390299ee85bfb35c42",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "실용 화성 이해를 편곡 영역의 기반으로 삼도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.43063afbb28c65dbc2ee",
+   "prerequisiteId": "kr.topic.2022.high.37bfa033d73c5ab012e9",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색채 연상과 상징을 배색 이미지 분석 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.479"
+  },
+  {
+   "topicId": "kr.topic.2022.high.0e0518b906ddf1d54f87",
+   "prerequisiteId": "kr.topic.2022.high.d2d3496b3d0831c2aade",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색채 추출과 이미지 스케일 지식을 배색 이미지 분석 전에 익히도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.479"
+  },
+  {
+   "topicId": "kr.topic.2022.high.a63ae59af5f8bcf0700a",
+   "prerequisiteId": "kr.topic.2022.high.2dd2fc4553a99896f9a9",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "장르별 리듬 표현을 편곡에 필요한 선행 역량으로 지목한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.9acd948293d1230a01cf",
+   "prerequisiteId": "kr.topic.2022.high.3d420c458caca9e34992",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "디자인 요소·원리를 색채 정보 수집 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.474"
+  },
+  {
+   "topicId": "kr.topic.2022.high.ab97d23270acc8372e68",
+   "prerequisiteId": "kr.topic.2022.high.29bbb43089df9616940b",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "위험 물질 관리 방안을 전기 화재 예방 체크리스트 작성에 연계한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책36 환경·안전·소방전문교과 성취기준 해설 p.386"
+  },
+  {
+   "topicId": "kr.topic.2022.high.f7bc2c3b57d1ff5e252d",
+   "prerequisiteId": "kr.topic.2022.high.64a71513efb11fa02248",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "네트워크 장비 트래픽 예측 보고서를 전체 트래픽 예측에 활용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책35 정보·통신전문교과 성취기준 해설 p.168"
+  },
+  {
    "topicId": "kr.topic.2022.high.b59597c82e89a7168d22",
    "prerequisiteId": "kr.topic.2022.high.3c0f1fb177159565e14e",
    "strength": "hard",
@@ -107,6 +872,87 @@
    "scope": "same-course",
    "reason": "지식 재산의 개념과 유형 이해를 발명과 지식재산권 관계 학습에 연결한다.",
    "basis": "국가교육위원회 고시 제2024-3호 별책39 융복합·지식재산전문교과 성취기준 해설 p.89"
+  },
+  {
+   "topicId": "kr.topic.2022.high.c63dc774609a69565520",
+   "prerequisiteId": "kr.topic.2022.high.905fbba1055413da3508",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "발상 기법 학습을 활용해 캐릭터 아이템을 스케치하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.349"
+  },
+  {
+   "topicId": "kr.topic.2022.high.41664cf55d1cf3a1b150",
+   "prerequisiteId": "kr.topic.2022.high.4a7e6239a050d62f2fc9",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "전동 공구 사용법을 금속 연마 작업 전에 이해하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.566"
+  },
+  {
+   "topicId": "kr.topic.2022.high.327ecf91368e2be7727c",
+   "prerequisiteId": "kr.topic.2022.high.a74c53de6858cd5419d6",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "모루의 종류와 활용을 판금 돋아 올리기 작업 전에 이해하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.562"
+  },
+  {
+   "topicId": "kr.topic.2022.high.2b2792aa2ff74573c687",
+   "prerequisiteId": "kr.topic.2022.high.66390299ee85bfb35c42",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "실용 화성 이해를 편곡 영역의 기반으로 삼도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.d338315a12f16668ae77",
+   "prerequisiteId": "kr.topic.2022.high.d45f20d9bb0363853c6f",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "시창·청음의 멜로디 역량을 편곡 전에 익히도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.6d0b652a465926e62a20",
+   "prerequisiteId": "kr.topic.2022.high.67bf5dd144006744c355",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색명 체계를 배색 적용 의도 작성 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.480"
+  },
+  {
+   "topicId": "kr.topic.2022.high.1f3b83aee760347a065d",
+   "prerequisiteId": "kr.topic.2022.high.2dd2fc4553a99896f9a9",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "장르별 리듬 표현을 편곡에 필요한 선행 역량으로 지목한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.4975314b0eef9b7050d0",
+   "prerequisiteId": "kr.topic.2022.high.7b950b6b9cdf5c58accf",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "배뇨 간호 돕기 지식을 대상자의 대소변 지원에 연결한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.286"
+  },
+  {
+   "topicId": "kr.topic.2022.high.00ab9e2325a9043e1cf4",
+   "prerequisiteId": "kr.topic.2022.high.404b4e5a6888b07871df",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "감염 관리 지침 이해를 오염 물품 세척 업무와 연계한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.181"
   },
   {
    "topicId": "kr.topic.2022.high.5e3a18084cdb30ef106c",
@@ -127,6 +973,33 @@
    "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.83"
   },
   {
+   "topicId": "kr.topic.2022.high.c2955f94b2fa63e46c70",
+   "prerequisiteId": "kr.topic.2022.high.16da36a23366cc7e2212",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "급수 방법의 종류와 특징 이해가 채소별 관수 방법 활용에 선행하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책37 농림·축산전문교과 성취기준 해설 p.485"
+  },
+  {
+   "topicId": "kr.topic.2022.high.6d940013b5c4d7925d90",
+   "prerequisiteId": "kr.topic.2022.high.d2d3496b3d0831c2aade",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "배색 기법을 콘셉트별 배색 설계 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.480"
+  },
+  {
+   "topicId": "kr.topic.2022.high.a253d9b1952b8eab3e6c",
+   "prerequisiteId": "kr.topic.2022.high.cdf4d0fc53b77167082e",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "병해충 방제 분류를 먼저 익힌 뒤 생육 환경에 의한 병해 예방을 학습한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책37 농림·축산전문교과 성취기준 해설 p.489"
+  },
+  {
    "topicId": "kr.topic.2022.high.6ba063510d5bc4fe85fa",
    "prerequisiteId": "kr.topic.2022.high.7ca462673a5a14e7694c",
    "strength": "hard",
@@ -145,6 +1018,60 @@
    "basis": "국가교육위원회 고시 제2024-3호 별책39 융복합·지식재산전문교과 성취기준 해설 p.82"
   },
   {
+   "topicId": "kr.topic.2022.high.00ab9e2325a9043e1cf4",
+   "prerequisiteId": "kr.topic.2022.high.629ac19d25bfc162bb85",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "치과 감염 관리 지식을 오염 물품 세척 업무와 연계한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.212"
+  },
+  {
+   "topicId": "kr.topic.2022.high.c03bb056c23eae80a975",
+   "prerequisiteId": "kr.topic.2022.high.37bfa033d73c5ab012e9",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색채 연상과 상징을 배색 이미지 분석 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.479"
+  },
+  {
+   "topicId": "kr.topic.2022.high.be22f87943e2b206cb4c",
+   "prerequisiteId": "kr.topic.2022.high.f51b0b6a314d398ba3c1",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "기호·아이콘의 의미를 색채 정보 수집 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.474"
+  },
+  {
+   "topicId": "kr.topic.2022.high.6d940013b5c4d7925d90",
+   "prerequisiteId": "kr.topic.2022.high.07b799bc2fa89dc5888c",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "배색 기법을 콘셉트별 배색 설계 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.480"
+  },
+  {
+   "topicId": "kr.topic.2022.high.3fc1602196f6dcc05706",
+   "prerequisiteId": "kr.topic.2022.high.66390299ee85bfb35c42",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "실용 화성 이해를 편곡 영역의 기반으로 삼도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.81802ef4d20543f4c742",
+   "prerequisiteId": "kr.topic.2022.high.6ea18b3449ad86b045f4",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "3차원 형태 제작을 디지털 색채 시뮬레이션 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.482"
+  },
+  {
    "topicId": "kr.topic.2022.high.6ba063510d5bc4fe85fa",
    "prerequisiteId": "kr.topic.2022.high.04d91f8f1c1b86bf007a",
    "strength": "hard",
@@ -152,6 +1079,87 @@
    "scope": "same-course",
    "reason": "지도 학습 알고리즘 선정 결과를 모델 검증·최적화에 활용한다.",
    "basis": "국가교육위원회 고시 제2024-3호 별책35 정보·통신전문교과 성취기준 해설 p.141"
+  },
+  {
+   "topicId": "kr.topic.2022.high.4305ea5b53562b580588",
+   "prerequisiteId": "kr.topic.2022.high.d45f20d9bb0363853c6f",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "시창·청음의 멜로디 역량을 편곡 전에 익히도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.2c56da4bf70bd9f22aa2",
+   "prerequisiteId": "kr.topic.2022.high.0fb9612c25c4628e7d62",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "영아의 신체 발달 이해를 영유아 건강 상태 점검과 연계한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.54"
+  },
+  {
+   "topicId": "kr.topic.2022.high.39d39800348d3953cfd2",
+   "prerequisiteId": "kr.topic.2022.high.57bb6d6e20b50da37a33",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "모션 그래픽 학습 요소를 영상 편집의 선수 내용으로 지목한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.241"
+  },
+  {
+   "topicId": "kr.topic.2022.high.b84aa265d089a3f91f93",
+   "prerequisiteId": "kr.topic.2022.high.9dd57ef5953e815bc908",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "판매 촉진 계획 결과물을 매장 판매 촉진 전략 파악에 활용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책33 섬유·의류전문교과 성취기준 해설 p.395"
+  },
+  {
+   "topicId": "kr.topic.2022.high.e75d4b762075c4069115",
+   "prerequisiteId": "kr.topic.2022.high.34245a4b44182e2b5838",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "부품에 적용된 기능 검토를 토대로 치수 공차를 적용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책30 기계전문교과 성취기준 해설 p.287"
+  },
+  {
+   "topicId": "kr.topic.2022.high.58f1aadb2a884c1f80ab",
+   "prerequisiteId": "kr.topic.2022.high.404b4e5a6888b07871df",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "감염 관리 지침 이해를 오염 물품의 오염원 제거와 연계한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.181"
+  },
+  {
+   "topicId": "kr.topic.2022.high.c03bb056c23eae80a975",
+   "prerequisiteId": "kr.topic.2022.high.7e5d57bfb9b862c58a87",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색채 연상과 상징을 배색 이미지 분석 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.479"
+  },
+  {
+   "topicId": "kr.topic.2022.high.d338315a12f16668ae77",
+   "prerequisiteId": "kr.topic.2022.high.66390299ee85bfb35c42",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "실용 화성 이해를 편곡 영역의 기반으로 삼도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.fde68e49b15dcb3c9b71",
+   "prerequisiteId": "kr.topic.2022.high.b5d8ebd63ae40620c783",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "배색 기법을 콘셉트별 배색 설계 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.480"
   },
   {
    "topicId": "kr.topic.2022.high.0089d0439cef8182fd66",
@@ -163,6 +1171,51 @@
    "basis": "국가교육위원회 고시 제2024-3호 별책35 정보·통신전문교과 성취기준 해설 p.58"
   },
   {
+   "topicId": "kr.topic.2022.high.77cac7702475a618cd2f",
+   "prerequisiteId": "kr.topic.2022.high.d2d3496b3d0831c2aade",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "배색 기법을 주조색·보조색·강조색의 적용 의도 작성 전에 익히도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.480"
+  },
+  {
+   "topicId": "kr.topic.2022.high.d5934cff0c1bc08b515a",
+   "prerequisiteId": "kr.topic.2022.high.21caac75d2d52a568872",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "프로젝트 일정표를 토대로 예산과 기간 안에서 네트워크를 구축한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책35 정보·통신전문교과 성취기준 해설 p.169"
+  },
+  {
+   "topicId": "kr.topic.2022.high.1f3b83aee760347a065d",
+   "prerequisiteId": "kr.topic.2022.high.66390299ee85bfb35c42",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "실용 화성 이해를 편곡 영역의 기반으로 삼도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.90a544cdd33e137a302b",
+   "prerequisiteId": "kr.topic.2022.high.cdf4d0fc53b77167082e",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "병해충 방제 분류를 먼저 익힌 뒤 윤작과 혼작에 의한 병해 예방을 학습한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책37 농림·축산전문교과 성취기준 해설 p.489"
+  },
+  {
+   "topicId": "kr.topic.2022.high.a63ae59af5f8bcf0700a",
+   "prerequisiteId": "kr.topic.2022.high.66390299ee85bfb35c42",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "실용 화성 이해를 편곡 영역의 기반으로 삼도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
    "topicId": "kr.topic.2022.high.64c8a26e685de6f4f149",
    "prerequisiteId": "kr.topic.2022.high.1018901f98f1af162fad",
    "strength": "hard",
@@ -170,6 +1223,141 @@
    "scope": "same-course",
    "reason": "유압 액추에이터 도면·설치 방법을 익힌 뒤 자동화 시스템에 적용한다.",
    "basis": "국가교육위원회 고시 제2024-3호 별책30 기계전문교과 성취기준 해설 p.95"
+  },
+  {
+   "topicId": "kr.topic.2022.high.d2baa1bc5bb88e3c9f48",
+   "prerequisiteId": "kr.topic.2022.high.ae2e93fc7a5a3261ddd8",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "디지털 컬러 시스템을 디지털 색채 제작 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.481"
+  },
+  {
+   "topicId": "kr.topic.2022.high.0d8f3ec628a190a320d1",
+   "prerequisiteId": "kr.topic.2022.high.712868baf259dcb239d8",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "테이블 구조 조회 학습을 인덱스와 뷰의 이해로 확장한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책35 정보·통신전문교과 성취기준 해설 p.264"
+  },
+  {
+   "topicId": "kr.topic.2022.high.fde68e49b15dcb3c9b71",
+   "prerequisiteId": "kr.topic.2022.high.d2d3496b3d0831c2aade",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "배색 기법을 콘셉트별 배색 설계 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.480"
+  },
+  {
+   "topicId": "kr.topic.2022.high.780e3be153692150ddb1",
+   "prerequisiteId": "kr.topic.2022.high.7fd0f2720a38f393c204",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색재의 종류와 성질을 소재별 배색 변화 표현 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.481"
+  },
+  {
+   "topicId": "kr.topic.2022.high.6d0b652a465926e62a20",
+   "prerequisiteId": "kr.topic.2022.high.ab9315d0b76c8d8f0b3d",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색명 체계를 배색 적용 의도 작성 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.480"
+  },
+  {
+   "topicId": "kr.topic.2022.high.66e974c93f43e1069444",
+   "prerequisiteId": "kr.topic.2022.high.055295fa2f4c5e6dab08",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "결산 수정 분개를 회계 실무의 자산·부채 결산 분개에 적용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책23 경영·금융전문교과 성취기준 해설 p.92"
+  },
+  {
+   "topicId": "kr.topic.2022.high.77eb0ed7c8bd1ca91a63",
+   "prerequisiteId": "kr.topic.2022.high.592952405946c99bec20",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "설계 적합성 검토에서 부적합 판정이 나면 개선 대안을 수립한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책30 기계전문교과 성취기준 해설 p.284"
+  },
+  {
+   "topicId": "kr.topic.2022.high.b80270978b766d32aed9",
+   "prerequisiteId": "kr.topic.2022.high.511e43bf95bd450db8b3",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "치과 진료실 환경·장비 이해를 의무 기록·전산 업무와 연계한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.212"
+  },
+  {
+   "topicId": "kr.topic.2022.high.c34c66be52d9aff03983",
+   "prerequisiteId": "kr.topic.2022.high.d45f20d9bb0363853c6f",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "시창·청음의 멜로디 역량을 편곡 전에 익히도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.503f644996d946059327",
+   "prerequisiteId": "kr.topic.2022.high.6462779d539ce6673494",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "부품의 종류·목적·기능 이해를 토대로 성능을 만족할 기하 공차를 적용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책30 기계전문교과 성취기준 해설 p.288"
+  },
+  {
+   "topicId": "kr.topic.2022.high.77cac7702475a618cd2f",
+   "prerequisiteId": "kr.topic.2022.high.ab9315d0b76c8d8f0b3d",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색명 체계를 배색 적용 의도 작성 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.480"
+  },
+  {
+   "topicId": "kr.topic.2022.high.5aa1ff886329fc7250c9",
+   "prerequisiteId": "kr.topic.2022.high.3664d56cfa5934bd0f2e",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색명 체계를 배색 적용 의도 작성 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.480"
+  },
+  {
+   "topicId": "kr.topic.2022.high.5fc4fee8a11b05f56f76",
+   "prerequisiteId": "kr.topic.2022.high.917217f30cebfacfc4d2",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "유아기 발달 이해를 놀이 영역의 연계·통합 지원에 활용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.54"
+  },
+  {
+   "topicId": "kr.topic.2022.high.d432129de063846105af",
+   "prerequisiteId": "kr.topic.2022.high.cdf4d0fc53b77167082e",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "병해충 방제 방법을 먼저 익힌 뒤 윤작과 혼작에 의한 충해 예방을 학습한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책37 농림·축산전문교과 성취기준 해설 p.490"
+  },
+  {
+   "topicId": "kr.topic.2022.high.53c0043898e33d45d756",
+   "prerequisiteId": "kr.topic.2022.high.b5d8ebd63ae40620c783",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "배색 기법을 콘셉트별 배색 설계 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.480"
   },
   {
    "topicId": "kr.topic.2022.high.aa64f6148b5ebadc422c",
@@ -190,6 +1378,42 @@
    "basis": "국가교육위원회 고시 제2024-3호 별책30 기계전문교과 성취기준 해설 p.94"
   },
   {
+   "topicId": "kr.topic.2022.high.643eb3ee15d9d4012386",
+   "prerequisiteId": "kr.topic.2022.high.f8fdd32f19bd3d082a1a",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "미용인 위생 관리 지식을 피부 미용 작업장 위생에 연결한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책26 미용전문교과 성취기준 해설 p.86"
+  },
+  {
+   "topicId": "kr.topic.2022.high.2b2792aa2ff74573c687",
+   "prerequisiteId": "kr.topic.2022.high.d45f20d9bb0363853c6f",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "시창·청음의 멜로디 역량을 편곡 전에 익히도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.6d940013b5c4d7925d90",
+   "prerequisiteId": "kr.topic.2022.high.b5d8ebd63ae40620c783",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "배색 기법을 콘셉트별 배색 설계 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.480"
+  },
+  {
+   "topicId": "kr.topic.2022.high.41664cf55d1cf3a1b150",
+   "prerequisiteId": "kr.topic.2022.high.feaffc78604fed406b65",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "전동 공구 사용법을 금속 연마 작업 전에 이해하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.566"
+  },
+  {
    "topicId": "kr.topic.2022.high.80082d25f3a0f863705a",
    "prerequisiteId": "kr.topic.2022.high.ee70bd732cfd176ca77c",
    "strength": "hard",
@@ -197,6 +1421,60 @@
    "scope": "same-course",
    "reason": "제어 동작 흐름도를 참고하여 시퀀스별 제어 화면을 설계한다.",
    "basis": "국가교육위원회 고시 제2024-3호 별책39 융복합·지식재산전문교과 성취기준 해설 p.82"
+  },
+  {
+   "topicId": "kr.topic.2022.high.e9741484fa656feff6db",
+   "prerequisiteId": "kr.topic.2022.high.67bf5dd144006744c355",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색명 체계를 배색 적용 의도 작성 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.480"
+  },
+  {
+   "topicId": "kr.topic.2022.high.accfb9c5351d39631b7c",
+   "prerequisiteId": "kr.topic.2022.high.7658945c874fbd97d570",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "측색과 색채 분석을 측색 기기 선택 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.477"
+  },
+  {
+   "topicId": "kr.topic.2022.high.eb2979f46241320453c1",
+   "prerequisiteId": "kr.topic.2022.high.a74c53de6858cd5419d6",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "가공 방법과 망치 사용을 단조 성형 작업 전에 이해하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.562"
+  },
+  {
+   "topicId": "kr.topic.2022.high.f60e1f3cbae6120fd704",
+   "prerequisiteId": "kr.topic.2022.high.66390299ee85bfb35c42",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "실용 화성 이해를 미디 테크닉 영역의 기반으로 삼도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.53c0043898e33d45d756",
+   "prerequisiteId": "kr.topic.2022.high.d2d3496b3d0831c2aade",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "배색 기법을 콘셉트별 배색 설계 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.480"
+  },
+  {
+   "topicId": "kr.topic.2022.high.449de32aa433c6284955",
+   "prerequisiteId": "kr.topic.2022.high.67bf5dd144006744c355",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색명 체계를 배색 적용 의도 작성 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.480"
   },
   {
    "topicId": "kr.topic.2022.high.15e45024a788c54e08f6",
@@ -208,6 +1486,51 @@
    "basis": "국가교육위원회 고시 제2024-3호 별책30 기계전문교과 성취기준 해설 p.94"
   },
   {
+   "topicId": "kr.topic.2022.high.a39b8803e24661d5d2d2",
+   "prerequisiteId": "kr.topic.2022.high.67bf452edf8a750960ca",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "송전선의 유도 현상과 안전 대책을 중기 작업 안전에 연계한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책36 환경·안전·소방전문교과 성취기준 해설 p.385"
+  },
+  {
+   "topicId": "kr.topic.2022.high.77cac7702475a618cd2f",
+   "prerequisiteId": "kr.topic.2022.high.67bf5dd144006744c355",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색명 체계를 배색 적용 의도 작성 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.480"
+  },
+  {
+   "topicId": "kr.topic.2022.high.4d39246074c6522d3201",
+   "prerequisiteId": "kr.topic.2022.high.37bfa033d73c5ab012e9",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색채 심리 영역을 기능성 색채 효과 분석 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.473"
+  },
+  {
+   "topicId": "kr.topic.2022.high.4d2c1659ddf45651f3c8",
+   "prerequisiteId": "kr.topic.2022.high.2dd2fc4553a99896f9a9",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "장르별 리듬 표현을 편곡에 필요한 선행 역량으로 지목한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.77cac7702475a618cd2f",
+   "prerequisiteId": "kr.topic.2022.high.3664d56cfa5934bd0f2e",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색명 체계를 배색 적용 의도 작성 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.480"
+  },
+  {
    "topicId": "kr.topic.2022.high.76d60a5aca8b09b1514f",
    "prerequisiteId": "kr.topic.2022.high.fc80053251971e4a8c36",
    "strength": "hard",
@@ -217,6 +1540,195 @@
    "basis": "국가교육위원회 고시 제2024-3호 별책39 융복합·지식재산전문교과 성취기준 해설 p.81"
   },
   {
+   "topicId": "kr.topic.2022.high.3fc1602196f6dcc05706",
+   "prerequisiteId": "kr.topic.2022.high.d45f20d9bb0363853c6f",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "시창·청음의 멜로디 역량을 편곡 전에 익히도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.91982970e49d5c272bfb",
+   "prerequisiteId": "kr.topic.2022.high.66390299ee85bfb35c42",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "실용 화성 이해를 편곡 영역의 기반으로 삼도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.11fe12471ad795728869",
+   "prerequisiteId": "kr.topic.2022.high.6462779d539ce6673494",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "부품의 종류·목적·기능 이해를 토대로 기하 공차를 적용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책30 기계전문교과 성취기준 해설 p.288"
+  },
+  {
+   "topicId": "kr.topic.2022.high.5403a13d504c7e1f265f",
+   "prerequisiteId": "kr.topic.2022.high.41f23893504bb3cba4c7",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "농약 안전 사용 기준 이해가 병해별 농약 살포 방법 선택에 선행하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책37 농림·축산전문교과 성취기준 해설 p.490"
+  },
+  {
+   "topicId": "kr.topic.2022.high.5717d64f9a06a39c3d2f",
+   "prerequisiteId": "kr.topic.2022.high.1aba7878c48aece5c056",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "지역사회 협력 지식을 외부 안전 교육 내용의 적용에 활용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.224"
+  },
+  {
+   "topicId": "kr.topic.2022.high.732597d07e8e265e3c90",
+   "prerequisiteId": "kr.topic.2022.high.6ea18b3449ad86b045f4",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "3차원 형태 제작을 디지털 색채 시뮬레이션 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.482"
+  },
+  {
+   "topicId": "kr.topic.2022.high.4694663602a119ac959b",
+   "prerequisiteId": "kr.topic.2022.high.6559c034e7635d8dcd9f",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "사고 발생 형태를 기준으로 주요 발생 장소를 구분하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책36 환경·안전·소방전문교과 성취기준 해설 p.383"
+  },
+  {
+   "topicId": "kr.topic.2022.high.b80270978b766d32aed9",
+   "prerequisiteId": "kr.topic.2022.high.33580cf1127379e4b1f3",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "의료 기관 전산 업무 지식을 요양 지원의 전산 업무 수행에 연결한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.282"
+  },
+  {
+   "topicId": "kr.topic.2022.high.38c63392bf6d202f673e",
+   "prerequisiteId": "kr.topic.2022.high.d45f20d9bb0363853c6f",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "시창·청음의 멜로디 역량을 편곡 전에 익히도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.2d13b3c6c5cf22c3c170",
+   "prerequisiteId": "kr.topic.2022.high.511e43bf95bd450db8b3",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "치과 진료실 환경·장비 이해를 진료 공간 청결 유지에 연결한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.212"
+  },
+  {
+   "topicId": "kr.topic.2022.high.b36db8fa7f87a4e7f942",
+   "prerequisiteId": "kr.topic.2022.high.2dd2fc4553a99896f9a9",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "장르별 리듬 표현을 편곡에 필요한 선행 역량으로 지목한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.83ee94c3330655e3450c",
+   "prerequisiteId": "kr.topic.2022.high.cc51b40cc7955f503041",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "노년기 발달 이해를 대상자 요구에 맞는 지역 자원 연계에 활용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.55"
+  },
+  {
+   "topicId": "kr.topic.2022.high.8d97dc20a81fbc5a32c5",
+   "prerequisiteId": "kr.topic.2022.high.792e9abdf5080232a6a0",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "원사 결함을 점검한 뒤 이상이 없으면 직기 원인을 점검한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책33 섬유·의류전문교과 성취기준 해설 p.200"
+  },
+  {
+   "topicId": "kr.topic.2022.high.bad693e8b0fcf2a66ffb",
+   "prerequisiteId": "kr.topic.2022.high.66390299ee85bfb35c42",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "실용 화성 이해를 미디 테크닉 영역의 기반으로 삼도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.3fc1602196f6dcc05706",
+   "prerequisiteId": "kr.topic.2022.high.2dd2fc4553a99896f9a9",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "장르별 리듬 표현을 편곡에 필요한 선행 역량으로 지목한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.d501983724a4d3be3c32",
+   "prerequisiteId": "kr.topic.2022.high.66390299ee85bfb35c42",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "실용 화성 이해를 미디 테크닉 영역의 기반으로 삼도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.e3d1d9247132646dae6f",
+   "prerequisiteId": "kr.topic.2022.high.ae2e93fc7a5a3261ddd8",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "디지털 컬러 시스템을 디지털 색채 제작 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.481"
+  },
+  {
+   "topicId": "kr.topic.2022.high.39d39800348d3953cfd2",
+   "prerequisiteId": "kr.topic.2022.high.8090833a4e25b073205b",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "모션 그래픽 학습 요소를 영상 편집의 선수 내용으로 지목한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.241"
+  },
+  {
+   "topicId": "kr.topic.2022.high.125fbd68e36d278f4c96",
+   "prerequisiteId": "kr.topic.2022.high.66390299ee85bfb35c42",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "실용 화성 이해를 편곡 영역의 기반으로 삼도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.df143485a4c0ebc2c26c",
+   "prerequisiteId": "kr.topic.2022.high.d2d3496b3d0831c2aade",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "배색 기법을 콘셉트별 배색 설계 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.480"
+  },
+  {
+   "topicId": "kr.topic.2022.high.0e0518b906ddf1d54f87",
+   "prerequisiteId": "kr.topic.2022.high.bfbce46923fb0ca33c6e",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색채 추출과 이미지 스케일 지식을 배색 이미지 분석 전에 익히도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.479"
+  },
+  {
    "topicId": "kr.topic.2022.high.d8a4d2844258c1019ad3",
    "prerequisiteId": "kr.topic.2022.high.e01ca9097e92f37c3712",
    "strength": "hard",
@@ -224,6 +1736,15 @@
    "scope": "same-course",
    "reason": "상의·소매 원형 설계 결과를 샘플 상의 패턴에 활용한다.",
    "basis": "국가교육위원회 고시 제2024-3호 별책33 섬유·의류전문교과 성취기준 해설 p.112"
+  },
+  {
+   "topicId": "kr.topic.2022.high.38c63392bf6d202f673e",
+   "prerequisiteId": "kr.topic.2022.high.2dd2fc4553a99896f9a9",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "장르별 리듬 표현을 편곡에 필요한 선행 역량으로 지목한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
   },
   {
    "topicId": "kr.topic.2022.high.2e7041b47829492f7764",
@@ -244,6 +1765,141 @@
    "basis": "국가교육위원회 고시 제2024-3호 별책39 융복합·지식재산전문교과 성취기준 해설 p.83"
   },
   {
+   "topicId": "kr.topic.2022.high.0accc047c5aa7580b224",
+   "prerequisiteId": "kr.topic.2022.high.b7f89ac18bc31a962565",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "감전 위험 요소 점검을 안전·보호 장구를 이용한 위험 제거에 연계한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책36 환경·안전·소방전문교과 성취기준 해설 p.389"
+  },
+  {
+   "topicId": "kr.topic.2022.high.43c3abecbd253b20c8e9",
+   "prerequisiteId": "kr.topic.2022.high.32b7ca9520233c269c62",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "분류한 동력 전달 요소를 바탕으로 유형별 기능과 특징을 파악한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책30 기계전문교과 성취기준 해설 p.282"
+  },
+  {
+   "topicId": "kr.topic.2022.high.f7ab03357f3193cf893a",
+   "prerequisiteId": "kr.topic.2022.high.a7a19d583a47f7fd4ace",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "피부 간호 지식을 욕창 예방을 포함한 침상 만들기에 연결한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.285"
+  },
+  {
+   "topicId": "kr.topic.2022.high.af757e20813075786675",
+   "prerequisiteId": "kr.topic.2022.high.d45f20d9bb0363853c6f",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "시창·청음의 멜로디 역량을 편곡 전에 익히도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.20e54e992a3e395e201c",
+   "prerequisiteId": "kr.topic.2022.high.73a4283dbb1ae0259f7a",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "개인위생 간호 지식을 대상자의 머리 감기 지원에 연결한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.183"
+  },
+  {
+   "topicId": "kr.topic.2022.high.e2964d14612a632d785b",
+   "prerequisiteId": "kr.topic.2022.high.d0b06e9ccff14a697ff0",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "소득 공제 계산 이론을 세무 프로그램의 원천 징수부 파악에 적용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책23 경영·금융전문교과 성취기준 해설 p.128"
+  },
+  {
+   "topicId": "kr.topic.2022.high.4c3aa6717721a980700f",
+   "prerequisiteId": "kr.topic.2022.high.459851f4050f9a5881c7",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "오브젝트 생성 DDL 학습을 고차원 구조 설계로 확장한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책35 정보·통신전문교과 성취기준 해설 p.264"
+  },
+  {
+   "topicId": "kr.topic.2022.high.61025fd7b28701a2369b",
+   "prerequisiteId": "kr.topic.2022.high.d45f20d9bb0363853c6f",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "시창·청음의 멜로디 역량을 편곡 전에 익히도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.8762bc678f063e20bf0d",
+   "prerequisiteId": "kr.topic.2022.high.acca3922da001bada24b",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "전격에 따른 인체 상해 이해를 감전 응급조치 계획 수립에 연계한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책36 환경·안전·소방전문교과 성취기준 해설 p.390"
+  },
+  {
+   "topicId": "kr.topic.2022.high.4305ea5b53562b580588",
+   "prerequisiteId": "kr.topic.2022.high.66390299ee85bfb35c42",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "실용 화성 이해를 편곡 영역의 기반으로 삼도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.288af0621240854b4a5b",
+   "prerequisiteId": "kr.topic.2022.high.d2d3496b3d0831c2aade",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색채 추출과 이미지 스케일 지식을 배색 이미지 분석 전에 익히도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.479"
+  },
+  {
+   "topicId": "kr.topic.2022.high.4d39246074c6522d3201",
+   "prerequisiteId": "kr.topic.2022.high.d92e084ab69466f8a86a",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색채 심리 영역을 기능성 색채 효과 분석 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.473"
+  },
+  {
+   "topicId": "kr.topic.2022.high.dcad29865df86c2b037a",
+   "prerequisiteId": "kr.topic.2022.high.7719246a9df04ffa7474",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "이동 간호 돕기 지식을 휠체어 환자 이송에 연결한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.183"
+  },
+  {
+   "topicId": "kr.topic.2022.high.8ff1f7c116823134b1d9",
+   "prerequisiteId": "kr.topic.2022.high.7cb597a3ee4645a514c2",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "검색·수집한 주거 서비스 자료로 이용자의 서비스 욕구를 파악한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책29 건축·토목전문교과 성취기준 해설 p.390"
+  },
+  {
+   "topicId": "kr.topic.2022.high.4d2c1659ddf45651f3c8",
+   "prerequisiteId": "kr.topic.2022.high.d45f20d9bb0363853c6f",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "시창·청음의 멜로디 역량을 편곡 전에 익히도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
    "topicId": "kr.topic.2022.high.a5907ceea002c788f643",
    "prerequisiteId": "kr.topic.2022.high.0fb9612c25c4628e7d62",
    "strength": "hard",
@@ -251,6 +1907,87 @@
    "scope": "cross-course",
    "reason": "영아기 발달 특징에 근거하여 영아의 행동 경향을 이해한다.",
    "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.83"
+  },
+  {
+   "topicId": "kr.topic.2022.high.24c847f7666eb71b8dfd",
+   "prerequisiteId": "kr.topic.2022.high.22d556bde6a3353ad375",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "다중 테이블 조회 학습을 인덱스 기반 최적화로 확장한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책35 정보·통신전문교과 성취기준 해설 p.264"
+  },
+  {
+   "topicId": "kr.topic.2022.high.449de32aa433c6284955",
+   "prerequisiteId": "kr.topic.2022.high.ab9315d0b76c8d8f0b3d",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색명 체계를 배색 적용 의도 작성 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.480"
+  },
+  {
+   "topicId": "kr.topic.2022.high.7e5c908a61e0c5694aac",
+   "prerequisiteId": "kr.topic.2022.high.cdf4d0fc53b77167082e",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "병해충 방제 분류를 먼저 익힌 뒤 접목에 의한 병해 예방을 학습한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책37 농림·축산전문교과 성취기준 해설 p.489"
+  },
+  {
+   "topicId": "kr.topic.2022.high.42ad1075e85ff627700d",
+   "prerequisiteId": "kr.topic.2022.high.66390299ee85bfb35c42",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "실용 화성 이해를 미디 테크닉 영역의 기반으로 삼도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.d7c40e2f7a0ace828b49",
+   "prerequisiteId": "kr.topic.2022.high.66390299ee85bfb35c42",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "실용 화성 이해를 미디 테크닉 영역의 기반으로 삼도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.fde68e49b15dcb3c9b71",
+   "prerequisiteId": "kr.topic.2022.high.07b799bc2fa89dc5888c",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "배색 기법을 콘셉트별 배색 설계 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.480"
+  },
+  {
+   "topicId": "kr.topic.2022.high.ec446e22aa9f01d8f368",
+   "prerequisiteId": "kr.topic.2022.high.8509727c12542bae96d9",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "기본 생활 지도 지식을 영유아 식습관·위생 지도와 연계한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.84"
+  },
+  {
+   "topicId": "kr.topic.2022.high.40500e74f29d1f2b3848",
+   "prerequisiteId": "kr.topic.2022.high.67bf5dd144006744c355",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색명 체계를 배색 적용 의도 작성 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.480"
+  },
+  {
+   "topicId": "kr.topic.2022.high.3dd30e819b3ac994073a",
+   "prerequisiteId": "kr.topic.2022.high.d039f6de28517192d12e",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "방송 조명 영역을 조명 장비 탐색과 선택 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.598"
   },
   {
    "topicId": "kr.topic.2022.high.049285f32d910022bc78",
@@ -262,6 +1999,51 @@
    "basis": "국가교육위원회 고시 제2024-3호 별책37 농림·축산전문교과 성취기준 해설 p.141"
   },
   {
+   "topicId": "kr.topic.2022.high.552d9f2be754e6bfeb98",
+   "prerequisiteId": "kr.topic.2022.high.3664d56cfa5934bd0f2e",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색명 체계를 배색 적용 의도 작성 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.480"
+  },
+  {
+   "topicId": "kr.topic.2022.high.e1e610431988e8782352",
+   "prerequisiteId": "kr.topic.2022.high.d2d3496b3d0831c2aade",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색채 추출과 이미지 스케일 지식을 배색 이미지 분석 전에 익히도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.479"
+  },
+  {
+   "topicId": "kr.topic.2022.high.0d5a0144f5438b483897",
+   "prerequisiteId": "kr.topic.2022.high.7719246a9df04ffa7474",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "이동 간호 돕기 지식을 운반차 환자 이송에 연결한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.183"
+  },
+  {
+   "topicId": "kr.topic.2022.high.33beb4adbfc2571048cf",
+   "prerequisiteId": "kr.topic.2022.high.8762bc678f063e20bf0d",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "감전 응급조치 계획을 근거로 전기 화상 조치를 실행하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책36 환경·안전·소방전문교과 성취기준 해설 p.390"
+  },
+  {
+   "topicId": "kr.topic.2022.high.2b2792aa2ff74573c687",
+   "prerequisiteId": "kr.topic.2022.high.2dd2fc4553a99896f9a9",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "장르별 리듬 표현을 편곡에 필요한 선행 역량으로 지목한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
    "topicId": "kr.topic.2022.high.f08854e5870b67f48f75",
    "prerequisiteId": "kr.topic.2022.high.489814629ce71b1d512e",
    "strength": "hard",
@@ -269,6 +2051,150 @@
    "scope": "same-course",
    "reason": "설비 운전 방식의 구성과 기능을 파악한 뒤 프로그램 방법을 결정한다.",
    "basis": "국가교육위원회 고시 제2024-3호 별책39 융복합·지식재산전문교과 성취기준 해설 p.83"
+  },
+  {
+   "topicId": "kr.topic.2022.high.f685d1c958c397218955",
+   "prerequisiteId": "kr.topic.2022.high.d45f20d9bb0363853c6f",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "시창·청음의 멜로디 역량을 편곡 전에 익히도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.c9f048f4f32c3e939b7a",
+   "prerequisiteId": "kr.topic.2022.high.66390299ee85bfb35c42",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "실용 화성 이해를 미디 테크닉 영역의 기반으로 삼도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.d99cc84afe7b11f7a7ad",
+   "prerequisiteId": "kr.topic.2022.high.7d8c74683e1420ea498a",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "영상 연동 기초를 익힌 뒤 지정된 후속 요소에서 실습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.217"
+  },
+  {
+   "topicId": "kr.topic.2022.high.82536566b67a9a08b4e3",
+   "prerequisiteId": "kr.topic.2022.high.055295fa2f4c5e6dab08",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "결산 수정 분개를 회계 실무의 손익 결산 분개에 적용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책23 경영·금융전문교과 성취기준 해설 p.92"
+  },
+  {
+   "topicId": "kr.topic.2022.high.d0712957aff62e174a10",
+   "prerequisiteId": "kr.topic.2022.high.ae2e93fc7a5a3261ddd8",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "디지털 컬러 시스템을 디지털 색채 제작 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.481"
+  },
+  {
+   "topicId": "kr.topic.2022.high.e1e610431988e8782352",
+   "prerequisiteId": "kr.topic.2022.high.bfbce46923fb0ca33c6e",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색채 추출과 이미지 스케일 지식을 배색 이미지 분석 전에 익히도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.479"
+  },
+  {
+   "topicId": "kr.topic.2022.high.89960c0bba38fad3a5a2",
+   "prerequisiteId": "kr.topic.2022.high.c89099d12b6581b5285e",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색의 속성과 혼합을 목표 색 분석 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.476"
+  },
+  {
+   "topicId": "kr.topic.2022.high.4d39246074c6522d3201",
+   "prerequisiteId": "kr.topic.2022.high.4ade19cc3cda0e76e823",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색채 심리 영역을 기능성 색채 효과 분석 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.473"
+  },
+  {
+   "topicId": "kr.topic.2022.high.92411e8471233a6f24c4",
+   "prerequisiteId": "kr.topic.2022.high.1ece557a73d06fc538a2",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "세무 일반의 소득 공제 지식을 연말 정산 대상과 시기 파악 전에 되짚는다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책23 경영·금융전문교과 성취기준 해설 p.360"
+  },
+  {
+   "topicId": "kr.topic.2022.high.125fbd68e36d278f4c96",
+   "prerequisiteId": "kr.topic.2022.high.2dd2fc4553a99896f9a9",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "장르별 리듬 표현을 편곡에 필요한 선행 역량으로 지목한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.1f3b83aee760347a065d",
+   "prerequisiteId": "kr.topic.2022.high.d45f20d9bb0363853c6f",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "시창·청음의 멜로디 역량을 편곡 전에 익히도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.1b10e935138bdf1571fa",
+   "prerequisiteId": "kr.topic.2022.high.03807db9da07f6fd680b",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "설계 변경 수행 내용을 진단·개선 과정 정리에 활용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책35 정보·통신전문교과 성취기준 해설 p.267"
+  },
+  {
+   "topicId": "kr.topic.2022.high.4d39246074c6522d3201",
+   "prerequisiteId": "kr.topic.2022.high.f29c04b4590eb950f3f8",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색채 심리 영역을 기능성 색채 효과 분석 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.473"
+  },
+  {
+   "topicId": "kr.topic.2022.high.29bbb43089df9616940b",
+   "prerequisiteId": "kr.topic.2022.high.61ddbd11b8de45a72536",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "전기 화재 점화원 구분을 위험 물질 관리 방안 수립에 연계한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책36 환경·안전·소방전문교과 성취기준 해설 p.386"
+  },
+  {
+   "topicId": "kr.topic.2022.high.b36db8fa7f87a4e7f942",
+   "prerequisiteId": "kr.topic.2022.high.d45f20d9bb0363853c6f",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "시창·청음의 멜로디 역량을 편곡 전에 익히도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.8c4c4d28f699f4c90c4f",
+   "prerequisiteId": "kr.topic.2022.high.cdf4d0fc53b77167082e",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "병해충 방제 방법을 먼저 익힌 뒤 생육 환경에 의한 충해 예방을 학습한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책37 농림·축산전문교과 성취기준 해설 p.490"
   },
   {
    "topicId": "kr.topic.2022.high.665f10f57afab169138a",
@@ -280,6 +2206,15 @@
    "basis": "국가교육위원회 고시 제2024-3호 별책30 기계전문교과 성취기준 해설 p.95"
   },
   {
+   "topicId": "kr.topic.2022.high.ab97d23270acc8372e68",
+   "prerequisiteId": "kr.topic.2022.high.b0e7da35b7a4b39c2fff",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "계측 설비 운용 계획을 전기 화재 예방 체크리스트 작성에 연계한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책36 환경·안전·소방전문교과 성취기준 해설 p.386"
+  },
+  {
    "topicId": "kr.topic.2022.high.855878a7d590087bdee4",
    "prerequisiteId": "kr.topic.2022.high.ef0c299a55d304bc827c",
    "strength": "hard",
@@ -287,6 +2222,114 @@
    "scope": "same-course",
    "reason": "앞서 작성한 부품 배치도를 가상 물리 공간의 컴포넌트 설계에 활용한다.",
    "basis": "국가교육위원회 고시 제2024-3호 별책39 융복합·지식재산전문교과 성취기준 해설 p.83"
+  },
+  {
+   "topicId": "kr.topic.2022.high.1a01b7493b716d638d99",
+   "prerequisiteId": "kr.topic.2022.high.ae2e93fc7a5a3261ddd8",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "디지털 컬러 시스템을 디지털 색채 제작 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.481"
+  },
+  {
+   "topicId": "kr.topic.2022.high.f685d1c958c397218955",
+   "prerequisiteId": "kr.topic.2022.high.66390299ee85bfb35c42",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "실용 화성 이해를 편곡 영역의 기반으로 삼도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.bd8a9c8c19b74ef69d52",
+   "prerequisiteId": "kr.topic.2022.high.eb2979f46241320453c1",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "단조 망치 사용을 판금 내리기 작업 전에 이해하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.562"
+  },
+  {
+   "topicId": "kr.topic.2022.high.4d2c1659ddf45651f3c8",
+   "prerequisiteId": "kr.topic.2022.high.66390299ee85bfb35c42",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "실용 화성 이해를 편곡 영역의 기반으로 삼도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.f7bc2c3b57d1ff5e252d",
+   "prerequisiteId": "kr.topic.2022.high.bab9be17c2f7b2beae8f",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "서버 서비스 트래픽 예측 보고서를 전체 트래픽 예측에 활용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책35 정보·통신전문교과 성취기준 해설 p.168"
+  },
+  {
+   "topicId": "kr.topic.2022.high.b41a25920200aac27198",
+   "prerequisiteId": "kr.topic.2022.high.ae2e93fc7a5a3261ddd8",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "디지털 컬러 시스템을 디지털 색채 제작 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.481"
+  },
+  {
+   "topicId": "kr.topic.2022.high.4d39246074c6522d3201",
+   "prerequisiteId": "kr.topic.2022.high.8c2f4616ff997c4b4ce7",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색채 심리 영역을 기능성 색채 효과 분석 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.473"
+  },
+  {
+   "topicId": "kr.topic.2022.high.af757e20813075786675",
+   "prerequisiteId": "kr.topic.2022.high.2dd2fc4553a99896f9a9",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "장르별 리듬 표현을 편곡에 필요한 선행 역량으로 지목한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.a39b8803e24661d5d2d2",
+   "prerequisiteId": "kr.topic.2022.high.fd40c9e18bc18fa7efa9",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "고소 작업 위험 요인과 예방 대책을 중기 작업 안전에 연계한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책36 환경·안전·소방전문교과 성취기준 해설 p.385"
+  },
+  {
+   "topicId": "kr.topic.2022.high.61025fd7b28701a2369b",
+   "prerequisiteId": "kr.topic.2022.high.2dd2fc4553a99896f9a9",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "장르별 리듬 표현을 편곡에 필요한 선행 역량으로 지목한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.635c6cc3e9803203b8ac",
+   "prerequisiteId": "kr.topic.2022.high.a542be4797ed6d4c2b3a",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "앞서 계산한 강도를 토대로 동력 전달 부품의 크기와 형상을 정한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책30 기계전문교과 성취기준 해설 p.284"
+  },
+  {
+   "topicId": "kr.topic.2022.high.a4a6d690a1369b4181b8",
+   "prerequisiteId": "kr.topic.2022.high.7dbd63f87ed0096f21a9",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "측색 표기 방법을 색채값 측정 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.476"
   },
   {
    "topicId": "kr.topic.2022.high.c5d23878f35800f39857",
@@ -298,6 +2341,60 @@
    "basis": "국가교육위원회 고시 제2024-3호 별책38 수산·해운전문교과 성취기준 해설 p.233"
   },
   {
+   "topicId": "kr.topic.2022.high.962f7823a96d2a41b9b1",
+   "prerequisiteId": "kr.topic.2022.high.cc51b40cc7955f503041",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "노년기 발달 이해를 심리 안정 지원 자원 연계와 연결한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.55"
+  },
+  {
+   "topicId": "kr.topic.2022.high.0aee6da0201f590230da",
+   "prerequisiteId": "kr.topic.2022.high.6ea18b3449ad86b045f4",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "3차원 형태 제작을 디지털 색채 시뮬레이션 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.482"
+  },
+  {
+   "topicId": "kr.topic.2022.high.270a5a217f9c4ec3bfc5",
+   "prerequisiteId": "kr.topic.2022.high.cdf4d0fc53b77167082e",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "병해충 방제 분류를 먼저 익힌 뒤 중간 기주 제거에 의한 병해 예방을 학습한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책37 농림·축산전문교과 성취기준 해설 p.489"
+  },
+  {
+   "topicId": "kr.topic.2022.high.36523fb1b9eb86d80864",
+   "prerequisiteId": "kr.topic.2022.high.b4b3989af40fda67350d",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "습공기 선도로 분석한 부하 용량을 토대로 설비 적정성을 검토한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책30 기계전문교과 성취기준 해설 p.708"
+  },
+  {
+   "topicId": "kr.topic.2022.high.7065df643c3f69a6b25b",
+   "prerequisiteId": "kr.topic.2022.high.d2d3496b3d0831c2aade",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "주조색·보조색·강조색을 이미지 색상 추출 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.475"
+  },
+  {
+   "topicId": "kr.topic.2022.high.6ed5ffb7e6a67f4ba8fa",
+   "prerequisiteId": "kr.topic.2022.high.8509727c12542bae96d9",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "기본 생활 지도 지식을 식사 태도와 편식 지도에 연결한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.84"
+  },
+  {
    "topicId": "kr.topic.2022.high.d8a4d2844258c1019ad3",
    "prerequisiteId": "kr.topic.2022.high.c6f7963fbf3de0fb1086",
    "strength": "hard",
@@ -307,6 +2404,177 @@
    "basis": "국가교육위원회 고시 제2024-3호 별책33 섬유·의류전문교과 성취기준 해설 p.112"
   },
   {
+   "topicId": "kr.topic.2022.high.58f1aadb2a884c1f80ab",
+   "prerequisiteId": "kr.topic.2022.high.2f2b7917f3f7917b6a0c",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "감염 관리 업무 수행 지식을 오염 물품의 오염원 제거에 연결한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.287"
+  },
+  {
+   "topicId": "kr.topic.2022.high.e9741484fa656feff6db",
+   "prerequisiteId": "kr.topic.2022.high.3664d56cfa5934bd0f2e",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색명 체계를 배색 적용 의도 작성 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.480"
+  },
+  {
+   "topicId": "kr.topic.2022.high.552d9f2be754e6bfeb98",
+   "prerequisiteId": "kr.topic.2022.high.ab9315d0b76c8d8f0b3d",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색명 체계를 배색 적용 의도 작성 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.480"
+  },
+  {
+   "topicId": "kr.topic.2022.high.40500e74f29d1f2b3848",
+   "prerequisiteId": "kr.topic.2022.high.ab9315d0b76c8d8f0b3d",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색명 체계를 배색 적용 의도 작성 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.480"
+  },
+  {
+   "topicId": "kr.topic.2022.high.288af0621240854b4a5b",
+   "prerequisiteId": "kr.topic.2022.high.bfbce46923fb0ca33c6e",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색채 추출과 이미지 스케일 지식을 배색 이미지 분석 전에 익히도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.479"
+  },
+  {
+   "topicId": "kr.topic.2022.high.df143485a4c0ebc2c26c",
+   "prerequisiteId": "kr.topic.2022.high.b5d8ebd63ae40620c783",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "배색 기법을 콘셉트별 배색 설계 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.480"
+  },
+  {
+   "topicId": "kr.topic.2022.high.4d39246074c6522d3201",
+   "prerequisiteId": "kr.topic.2022.high.09e887480c6c9ca203c7",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "색채 심리 영역을 기능성 색채 효과 분석 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.473"
+  },
+  {
+   "topicId": "kr.topic.2022.high.503f644996d946059327",
+   "prerequisiteId": "kr.topic.2022.high.34245a4b44182e2b5838",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "부품에 적용된 기능 검토를 토대로 성능을 만족할 기하 공차를 적용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책30 기계전문교과 성취기준 해설 p.288"
+  },
+  {
+   "topicId": "kr.topic.2022.high.91982970e49d5c272bfb",
+   "prerequisiteId": "kr.topic.2022.high.2dd2fc4553a99896f9a9",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "장르별 리듬 표현을 편곡에 필요한 선행 역량으로 지목한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.9acd948293d1230a01cf",
+   "prerequisiteId": "kr.topic.2022.high.f51b0b6a314d398ba3c1",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "기호·아이콘의 의미를 색채 정보 수집 전에 학습하도록 한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.474"
+  },
+  {
+   "topicId": "kr.topic.2022.high.53491f2cc5d329d1ca59",
+   "prerequisiteId": "kr.topic.2022.high.cdf4d0fc53b77167082e",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "병해충 방제 분류를 먼저 익힌 뒤 저항성 품종에 의한 병해 예방을 학습한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책37 농림·축산전문교과 성취기준 해설 p.489"
+  },
+  {
+   "topicId": "kr.topic.2022.high.125fbd68e36d278f4c96",
+   "prerequisiteId": "kr.topic.2022.high.d45f20d9bb0363853c6f",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "시창·청음의 멜로디 역량을 편곡 전에 익히도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.657423c7cb72597c251e",
+   "prerequisiteId": "kr.topic.2022.high.629ac19d25bfc162bb85",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "치과 감염 관리 지식을 오염 폐기물 분류와 연계한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.212"
+  },
+  {
+   "topicId": "kr.topic.2022.high.17f0c236327831f9a128",
+   "prerequisiteId": "kr.topic.2022.high.7719246a9df04ffa7474",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "이동 간호 돕기 지식을 침상·운반차 간 이송 준비에 연결한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.183"
+  },
+  {
+   "topicId": "kr.topic.2022.high.4f9f792eab92e65e875e",
+   "prerequisiteId": "kr.topic.2022.high.7dd6001c9221314c8f3e",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "앞서 익힌 데이터베이스화 능력을 수요 조사 자료 정리에 활용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책29 건축·토목전문교과 성취기준 해설 p.392"
+  },
+  {
+   "topicId": "kr.topic.2022.high.c34c66be52d9aff03983",
+   "prerequisiteId": "kr.topic.2022.high.66390299ee85bfb35c42",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "실용 화성 이해를 편곡 영역의 기반으로 삼도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.91982970e49d5c272bfb",
+   "prerequisiteId": "kr.topic.2022.high.d45f20d9bb0363853c6f",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "시창·청음의 멜로디 역량을 편곡 전에 익히도록 명시한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책25 문화·예술·디자인·방송전문교과 성취기준 해설 p.99"
+  },
+  {
+   "topicId": "kr.topic.2022.high.ab97d23270acc8372e68",
+   "prerequisiteId": "kr.topic.2022.high.8dea1935ff1b017eafb5",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "전기 화재 위험 장소 점검을 화재 예방 체크리스트 작성에 연계한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책36 환경·안전·소방전문교과 성취기준 해설 p.386"
+  },
+  {
+   "topicId": "kr.topic.2022.high.657423c7cb72597c251e",
+   "prerequisiteId": "kr.topic.2022.high.2f2b7917f3f7917b6a0c",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "cross-course",
+   "reason": "감염 관리 업무 수행 지식을 오염 폐기물 분류에 연결한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책24 보건·복지전문교과 성취기준 해설 p.288"
+  },
+  {
    "topicId": "kr.topic.2022.high.224e57a3066fd4e244ee",
    "prerequisiteId": "kr.topic.2022.high.3fb7b86644552de5b821",
    "strength": "hard",
@@ -314,6 +2582,15 @@
    "scope": "same-course",
    "reason": "세라믹 재료의 종류와 기초 용어를 익힌 뒤 재료의 용도를 지도한다.",
    "basis": "국가교육위원회 고시 제2024-3호 별책31 재료전문교과 성취기준 해설 p.73"
+  },
+  {
+   "topicId": "kr.topic.2022.high.11fe12471ad795728869",
+   "prerequisiteId": "kr.topic.2022.high.34245a4b44182e2b5838",
+   "strength": "hard",
+   "relationKind": "required-prerequisite",
+   "scope": "same-course",
+   "reason": "부품에 적용된 기능 검토를 토대로 기하 공차를 적용한다.",
+   "basis": "국가교육위원회 고시 제2024-3호 별책30 기계전문교과 성취기준 해설 p.288"
   }
  ]
 }

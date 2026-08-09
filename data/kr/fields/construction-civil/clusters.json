@@ -68,6 +68,40 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.07dec6060e144fde97",
+   "titleKorean": "건축 마감 시공 — 블록 쌓기 작업",
+   "subjectKorean": "건축 마감 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "블록 쌓기 작업",
+   "summary": "건축 마감 시공의 블록 쌓기 작업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 22,
+   "topics": [
+    "kr.topic.2022.high.0d8a2bac25ead9192de2",
+    "kr.topic.2022.high.0defed2e1d78646574a2",
+    "kr.topic.2022.high.1674354dcdc62933541e",
+    "kr.topic.2022.high.23e7575e2570c93194b0",
+    "kr.topic.2022.high.26b9efd5bde2b746e224",
+    "kr.topic.2022.high.29df5e0a12eb990631bc",
+    "kr.topic.2022.high.33c8194e08c1990c8674",
+    "kr.topic.2022.high.3f89ca858e15a2de6721",
+    "kr.topic.2022.high.5d75e84d7d02fff1b79c",
+    "kr.topic.2022.high.615d5d21500f312770c5",
+    "kr.topic.2022.high.760f9026eee820687f53",
+    "kr.topic.2022.high.814bf309cac39dc3e790",
+    "kr.topic.2022.high.834925b7ef5f44f3c752",
+    "kr.topic.2022.high.930876623911022a0c10",
+    "kr.topic.2022.high.968e780c235576358170",
+    "kr.topic.2022.high.9a2c26316145b3609fdf",
+    "kr.topic.2022.high.b027a59d6582ee7fa8c2",
+    "kr.topic.2022.high.b6554d2a8d463cbba1b3",
+    "kr.topic.2022.high.caf2d4678052c01e0824",
+    "kr.topic.2022.high.d91489bfdd3522b027ca",
+    "kr.topic.2022.high.f1a75f5b4ffb1229f06a",
+    "kr.topic.2022.high.fa74a573dcf83041519d"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.092657676c20c76486",
    "titleKorean": "건축 일반 — 건축 재료",
    "subjectKorean": "건축 일반",
@@ -83,6 +117,59 @@
     "kr.topic.2022.high.585242e156367880c7aa",
     "kr.topic.2022.high.5b4b5d8b5f22dc5c9cf8",
     "kr.topic.2022.high.e1dfe1a7272c2d8ec2b4"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0e98a828987f2f9ddb",
+   "titleKorean": "건축 목공 시공 — 건축 목공 시공 도면 파악",
+   "subjectKorean": "건축 목공 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "건축 목공 시공 도면 파악",
+   "summary": "건축 목공 시공의 건축 목공 시공 도면 파악 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.2a2cb6566bc7fc043686",
+    "kr.topic.2022.high.2e81d90a62004758fc30",
+    "kr.topic.2022.high.5e7436cdbf01e5bfaf43",
+    "kr.topic.2022.high.6d1f157b9160fd398d5c",
+    "kr.topic.2022.high.8dc36e56b4db63022c75",
+    "kr.topic.2022.high.9af54760fa89288de2c6",
+    "kr.topic.2022.high.b73e01de44e15983d197",
+    "kr.topic.2022.high.e996d8ce53f6978e6555",
+    "kr.topic.2022.high.ea29def7e86ace137c44",
+    "kr.topic.2022.high.f85acd0b170274f62e25"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.0f0ab63fd8cf517f90",
+   "titleKorean": "토목 설계 — 도로 설계 대상 조사 분석",
+   "subjectKorean": "토목 설계",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "도로 설계 대상 조사 분석",
+   "summary": "토목 설계의 도로 설계 대상 조사 분석 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.4b88413d60263483f302",
+    "kr.topic.2022.high.786037f85699a42ad4e6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.153aff632e5f46f7aa",
+   "titleKorean": "건축 설계 — 건축 환경 설비 검토",
+   "subjectKorean": "건축 설계",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "건축 환경 설비 검토",
+   "summary": "건축 설계의 건축 환경 설비 검토 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.56ecec4edc0720a422ba",
+    "kr.topic.2022.high.6d6889ad2d41cabae481",
+    "kr.topic.2022.high.7210e698374759a34bea",
+    "kr.topic.2022.high.e19f75f8aa8f188ab042",
+    "kr.topic.2022.high.ef7d31433b581cc1c490"
    ]
   },
   {
@@ -115,6 +202,49 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.176ca06cf090e9f472",
+   "titleKorean": "교통 계획･설계 — 교통 시설 부문별 설계",
+   "subjectKorean": "교통 계획･설계",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "교통 시설 부문별 설계",
+   "summary": "교통 계획･설계의 교통 시설 부문별 설계 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 15,
+   "topics": [
+    "kr.topic.2022.high.25526ee74ff21e346c87",
+    "kr.topic.2022.high.3d34d7b32ea297af4bdb",
+    "kr.topic.2022.high.4e85ff111a435205b30c",
+    "kr.topic.2022.high.5a3a62b821b08b1320ec",
+    "kr.topic.2022.high.5b5cb39037cc773499d6",
+    "kr.topic.2022.high.6c69ecdcaa1f9c8ab32b",
+    "kr.topic.2022.high.6e3dee0e5e60a5fb4036",
+    "kr.topic.2022.high.8034ceeb2db584c1b2aa",
+    "kr.topic.2022.high.88f0a9daddad102f25ee",
+    "kr.topic.2022.high.89437f9894cd2af7ca58",
+    "kr.topic.2022.high.941cd9f7404c94a491cf",
+    "kr.topic.2022.high.9a4d253a849c528f69ea",
+    "kr.topic.2022.high.c0dfb7ce9b7c0f859f48",
+    "kr.topic.2022.high.e18a2c2bc60cd5aa5ce5",
+    "kr.topic.2022.high.f85c95ee93af39d7ef10"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.182ec3cf65d9c42c28",
+   "titleKorean": "토목 설계 — 도로 설계 도면 작성",
+   "subjectKorean": "토목 설계",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "도로 설계 도면 작성",
+   "summary": "토목 설계의 도로 설계 도면 작성 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.450b771e0c00496ce135",
+    "kr.topic.2022.high.4e4e037531723c2f3390",
+    "kr.topic.2022.high.78ec55ceb992f2bdf2b7",
+    "kr.topic.2022.high.850e4d6b716c4149a6c2"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.18f461f12038156adb",
    "titleKorean": "건축 도면 해석과 제도 — 건축 제도의 이해",
    "subjectKorean": "건축 도면 해석과 제도",
@@ -129,6 +259,121 @@
     "kr.topic.2022.high.93ae552012b2cc080502",
     "kr.topic.2022.high.c3b4cd47c73e44d2092f",
     "kr.topic.2022.high.c6c516be7ff79951616f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.19204d2d1b8acc8c31",
+   "titleKorean": "측량 — 수준점 측량",
+   "subjectKorean": "측량",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "수준점 측량",
+   "summary": "측량의 수준점 측량 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 20,
+   "topics": [
+    "kr.topic.2022.high.1c913966e33f3e7648d4",
+    "kr.topic.2022.high.39484b8fd76f6c333876",
+    "kr.topic.2022.high.413ddbb488b30935caaa",
+    "kr.topic.2022.high.4bbd62a8fcce72a81fcd",
+    "kr.topic.2022.high.4e20ff7eb97d91ea0e34",
+    "kr.topic.2022.high.5961fcb276a17b93d0ba",
+    "kr.topic.2022.high.6ab68b3f82f7957af377",
+    "kr.topic.2022.high.74f74928754901ef0cd8",
+    "kr.topic.2022.high.788baedd031159f88d1f",
+    "kr.topic.2022.high.793295229bff9a42b490",
+    "kr.topic.2022.high.7b104edc207cc073216f",
+    "kr.topic.2022.high.7b3b0c83146d4125c603",
+    "kr.topic.2022.high.832618292ea0d16f9bb9",
+    "kr.topic.2022.high.8c70e79eda2f6101152b",
+    "kr.topic.2022.high.baa80fa94955c1a541a1",
+    "kr.topic.2022.high.c5a0f2bd683c117fb773",
+    "kr.topic.2022.high.d204d5cd6631767ed7f8",
+    "kr.topic.2022.high.da9b47a3130010ce4d37",
+    "kr.topic.2022.high.e663b63c497deff08ada",
+    "kr.topic.2022.high.faf0d588b39fbfd64679"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1a1c3e90a266c02ad9",
+   "titleKorean": "철근 콘크리트 시공 — 콘크리트 양생 후 검사·보수",
+   "subjectKorean": "철근 콘크리트 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "콘크리트 양생 후 검사·보수",
+   "summary": "철근 콘크리트 시공의 콘크리트 양생 후 검사·보수 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.10befeb471800e7be373",
+    "kr.topic.2022.high.374af8a00b6a2799df48",
+    "kr.topic.2022.high.51be2fd46513c5277e79",
+    "kr.topic.2022.high.5333812792d88691559b",
+    "kr.topic.2022.high.76e2cb9f9ee8bfaef801",
+    "kr.topic.2022.high.79d68c811a18132873d4",
+    "kr.topic.2022.high.84f80d9cf94505bc568c",
+    "kr.topic.2022.high.9687b8c95b4419df8fac",
+    "kr.topic.2022.high.9bc3ab413dfbfecd2769",
+    "kr.topic.2022.high.c7f6437c5b586615c672"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1b90bfde35ccd98194",
+   "titleKorean": "소형 무인기 운용 ․ 조종 — 소형 무인기 비정상 상황 대처",
+   "subjectKorean": "소형 무인기 운용 ․ 조종",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "소형 무인기 비정상 상황 대처",
+   "summary": "소형 무인기 운용 ․ 조종의 소형 무인기 비정상 상황 대처 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 22,
+   "topics": [
+    "kr.topic.2022.high.09f2c2738e3a1ed04947",
+    "kr.topic.2022.high.17536cedb756d374db50",
+    "kr.topic.2022.high.24169e2d7325f10966b6",
+    "kr.topic.2022.high.30cf70437b7c41a8b6c3",
+    "kr.topic.2022.high.3e4057e8beefb95841b1",
+    "kr.topic.2022.high.48d48c1ea180a59518df",
+    "kr.topic.2022.high.529153f6b29f1e645ba5",
+    "kr.topic.2022.high.56ec17931fcd45da47d9",
+    "kr.topic.2022.high.5927961554c704fff9d4",
+    "kr.topic.2022.high.5bd4ce36b60113f72b2a",
+    "kr.topic.2022.high.601a2641698218a86ba6",
+    "kr.topic.2022.high.8665d4a12bf3b1db3893",
+    "kr.topic.2022.high.8b5d54219ee7953502ff",
+    "kr.topic.2022.high.b5aacdc2c307be08f75d",
+    "kr.topic.2022.high.b5dfe83a6ae01998f890",
+    "kr.topic.2022.high.b90a6e990de658fb0116",
+    "kr.topic.2022.high.e0bb306f3c62087b9cd1",
+    "kr.topic.2022.high.e41fbe88ef42abb4eb62",
+    "kr.topic.2022.high.e90518737c0d1ca18621",
+    "kr.topic.2022.high.eb7b6e5f1a867c812558",
+    "kr.topic.2022.high.ee7b54ad2a2d9c8b4644",
+    "kr.topic.2022.high.fabb228154845711788c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1fe4ee1c2109f27b86",
+   "titleKorean": "건축 도장 시공 — 철부 래커 에나멜페인트 도장",
+   "subjectKorean": "건축 도장 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "철부 래커 에나멜페인트 도장",
+   "summary": "건축 도장 시공의 철부 래커 에나멜페인트 도장 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 15,
+   "topics": [
+    "kr.topic.2022.high.1f1fdb284ccc161bd5b5",
+    "kr.topic.2022.high.2a648592e9574405a80f",
+    "kr.topic.2022.high.3e3fcc596885290924f4",
+    "kr.topic.2022.high.45e1bdae4ff173f73861",
+    "kr.topic.2022.high.4701d8a1c7b029c0298a",
+    "kr.topic.2022.high.5a4a4b3ad3a4cd72d598",
+    "kr.topic.2022.high.8f42eda2c4bb4436229c",
+    "kr.topic.2022.high.9777bc196f9822c8d442",
+    "kr.topic.2022.high.a835d032541e41da3c3e",
+    "kr.topic.2022.high.adc6028404c96a291ea2",
+    "kr.topic.2022.high.c14fc35c898b36b380e6",
+    "kr.topic.2022.high.cd767d122dd271efc24a",
+    "kr.topic.2022.high.ce2e1a6de024c5411feb",
+    "kr.topic.2022.high.d33fe629fd8e95381d2d",
+    "kr.topic.2022.high.d411ec9ce7b1457c618f"
    ]
   },
   {
@@ -147,6 +392,36 @@
     "kr.topic.2022.high.dbc11c50ccd1e0676192",
     "kr.topic.2022.high.e8407ac210b55b8fee34",
     "kr.topic.2022.high.fbc2b30225bfe6eddf52"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.21d71a6accdfeb50ef",
+   "titleKorean": "측량 — 노선 측량",
+   "subjectKorean": "측량",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "노선 측량",
+   "summary": "측량의 노선 측량 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 18,
+   "topics": [
+    "kr.topic.2022.high.25751f9af71043997fe0",
+    "kr.topic.2022.high.30f8b2cfbb3b60544f1a",
+    "kr.topic.2022.high.34450a0dd29da57c5e4f",
+    "kr.topic.2022.high.36bb3a9eca435fcae084",
+    "kr.topic.2022.high.51ad22e5484fc4ba5bd7",
+    "kr.topic.2022.high.5732ae22efa0b78d6026",
+    "kr.topic.2022.high.58239d1c25898b6dab00",
+    "kr.topic.2022.high.6b4a24a038e8ec520c22",
+    "kr.topic.2022.high.6d25f5c21e5624755c9e",
+    "kr.topic.2022.high.770bf97661fe9d674bef",
+    "kr.topic.2022.high.82950a080b6e2876b0b7",
+    "kr.topic.2022.high.9223ab2be7a68b122ef1",
+    "kr.topic.2022.high.a2c2abe44e54c061d055",
+    "kr.topic.2022.high.b3f68470c1a315b16291",
+    "kr.topic.2022.high.c56831573a61ed3c9882",
+    "kr.topic.2022.high.dea7e5eaa849b7d85917",
+    "kr.topic.2022.high.f819336d8eaec794a4be",
+    "kr.topic.2022.high.fdaffcb9df6bc1cab0b4"
    ]
   },
   {
@@ -178,6 +453,32 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.22a3bf32d0ba16f535",
+   "titleKorean": "토목 시공 — 준설토 운반",
+   "subjectKorean": "토목 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "준설토 운반",
+   "summary": "토목 시공의 준설토 운반 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 14,
+   "topics": [
+    "kr.topic.2022.high.12a1bce4ed4b86405c78",
+    "kr.topic.2022.high.17b79c736c0ebddfd130",
+    "kr.topic.2022.high.1c2edf7f895d1f87524e",
+    "kr.topic.2022.high.2136f94a284a35f8cdd4",
+    "kr.topic.2022.high.5d9655caff555d17efd8",
+    "kr.topic.2022.high.9773b71fc7a8e1e6fcc7",
+    "kr.topic.2022.high.9a3c73b89f935fd75848",
+    "kr.topic.2022.high.9d664176226dfcdd1f57",
+    "kr.topic.2022.high.a73d8e33a73eb98a047b",
+    "kr.topic.2022.high.ad7a332d8256b809f008",
+    "kr.topic.2022.high.ae22f6d01936c0bacf90",
+    "kr.topic.2022.high.bbacb02f0042162ac817",
+    "kr.topic.2022.high.e726014b111deab4c7f1",
+    "kr.topic.2022.high.f424dae8873d237697cf"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.23ecb95e206f12fe8e",
    "titleKorean": "건물 정보 관리 기초 — BIM 준비하기",
    "subjectKorean": "건물 정보 관리 기초",
@@ -192,6 +493,273 @@
     "kr.topic.2022.high.834f786c347c7c4519df",
     "kr.topic.2022.high.8b5030bff59d3726f3be",
     "kr.topic.2022.high.cf0fa0dc0c649643234d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.245bd83764a438e4e2",
+   "titleKorean": "토목 시공 — 상하수도 자재 관리",
+   "subjectKorean": "토목 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "상하수도 자재 관리",
+   "summary": "토목 시공의 상하수도 자재 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 24,
+   "topics": [
+    "kr.topic.2022.high.01ecf98c6cbf13041a42",
+    "kr.topic.2022.high.0340d3b6b04e79fa4184",
+    "kr.topic.2022.high.1698256159700f9be3a2",
+    "kr.topic.2022.high.229e14e5e24729695091",
+    "kr.topic.2022.high.2da67f02a7b0d5eb90b6",
+    "kr.topic.2022.high.2da70ddc69b4b516bf3b",
+    "kr.topic.2022.high.347686988d79bfb2598f",
+    "kr.topic.2022.high.39ac7c2e11d3ffe72dbc",
+    "kr.topic.2022.high.477a409e9c3deb844fe8",
+    "kr.topic.2022.high.4e477eb595b149ceee7d",
+    "kr.topic.2022.high.61c5948686f1827ccd4e",
+    "kr.topic.2022.high.7146125a670a84599e02",
+    "kr.topic.2022.high.7916ff0b28afb3fbe921",
+    "kr.topic.2022.high.8a5f1c64348c595ddaf7",
+    "kr.topic.2022.high.8e0d8278e020bff87423",
+    "kr.topic.2022.high.903f05574de302d4c7da",
+    "kr.topic.2022.high.952508ac178bd5b6929d",
+    "kr.topic.2022.high.acc5f3983e33b75ad978",
+    "kr.topic.2022.high.b0cb3cc250ffb0137333",
+    "kr.topic.2022.high.cd22e435e2fdb5f0226a",
+    "kr.topic.2022.high.ebfeb9a2442ca0f4f1de",
+    "kr.topic.2022.high.ee9fa56392ef40b11ac4",
+    "kr.topic.2022.high.f6c63125a7620f659e54",
+    "kr.topic.2022.high.f6ea8402eedc1fd8f86d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.24997ebbb8ca769964",
+   "titleKorean": "토목 설계 — 상하수도 기본 계획 수립",
+   "subjectKorean": "토목 설계",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "상하수도 기본 계획 수립",
+   "summary": "토목 설계의 상하수도 기본 계획 수립 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.918acd5044aeaabd928c",
+    "kr.topic.2022.high.af7cf7d418a3ac1a7108",
+    "kr.topic.2022.high.d81be3ab95623c0209bf"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2574d5337a6c5cecf5",
+   "titleKorean": "건축 목공 시공 — 천장 설치",
+   "subjectKorean": "건축 목공 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "천장 설치",
+   "summary": "건축 목공 시공의 천장 설치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 20,
+   "topics": [
+    "kr.topic.2022.high.01be8874d90d7d5b733a",
+    "kr.topic.2022.high.121d85b36a8434756f45",
+    "kr.topic.2022.high.20db176caba183897c1c",
+    "kr.topic.2022.high.2c5c4110f77d9fb6049d",
+    "kr.topic.2022.high.2f1224d7d43dfa9fd7c9",
+    "kr.topic.2022.high.36f3f2b59b094d9f3299",
+    "kr.topic.2022.high.682bb607dbd09309ff72",
+    "kr.topic.2022.high.6c458baa18a02f03ab50",
+    "kr.topic.2022.high.6dba52970f6c714b1d56",
+    "kr.topic.2022.high.7695dab5d0086d10cf6c",
+    "kr.topic.2022.high.776f6ec9b1da1c0458e0",
+    "kr.topic.2022.high.9736728aec83e337b359",
+    "kr.topic.2022.high.9feaee853d41f867cce0",
+    "kr.topic.2022.high.ab6ffe202fe986b2a3b9",
+    "kr.topic.2022.high.b4c8e3698d84570738d1",
+    "kr.topic.2022.high.db2d2486fc489c2c9e79",
+    "kr.topic.2022.high.e48f20364052bce87622",
+    "kr.topic.2022.high.e5a3bc463b80a25a58e6",
+    "kr.topic.2022.high.e931fd63a04dc83927b6",
+    "kr.topic.2022.high.f3726ac318c155c15f7f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.26f2677197c7ad63ed",
+   "titleKorean": "토목 설계 — 하천(댐) 설계 도면 작성",
+   "subjectKorean": "토목 설계",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "하천(댐) 설계 도면 작성",
+   "summary": "토목 설계의 하천(댐) 설계 도면 작성 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.1ac9e92694acf5cb96c1",
+    "kr.topic.2022.high.9f0c19eb046ab1dfb40c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.273faa49b338aa5ebb",
+   "titleKorean": "토목 시공 — (포장) 공급원 선정",
+   "subjectKorean": "토목 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "(포장) 공급원 선정",
+   "summary": "토목 시공의 (포장) 공급원 선정 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 16,
+   "topics": [
+    "kr.topic.2022.high.1e75e7a26c33e6275bf3",
+    "kr.topic.2022.high.4040a8c062f5fb8c1819",
+    "kr.topic.2022.high.49c6926490216b307653",
+    "kr.topic.2022.high.60bdd0bfb23927a3b8fd",
+    "kr.topic.2022.high.65cbbcd36ac4571ca13e",
+    "kr.topic.2022.high.66a067653c2a8ae48d5f",
+    "kr.topic.2022.high.6cc6b6a103c6ca7205df",
+    "kr.topic.2022.high.7e8fd1713b82e7d0a44c",
+    "kr.topic.2022.high.838c52e35f39935b578f",
+    "kr.topic.2022.high.89ef4e5505aa915f030a",
+    "kr.topic.2022.high.8ebc1a4a6da8a6872de0",
+    "kr.topic.2022.high.b049dda1a364739ed8f6",
+    "kr.topic.2022.high.bbb173d33805b5092444",
+    "kr.topic.2022.high.ea7abe1ca5022202b118",
+    "kr.topic.2022.high.f2f37fc7ad5bc072ecfb",
+    "kr.topic.2022.high.f5c05ce046c4def3d81a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.28b46cc008cbfd92ba",
+   "titleKorean": "토목 시공 — 지반 개량 도면 파악",
+   "subjectKorean": "토목 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "지반 개량 도면 파악",
+   "summary": "토목 시공의 지반 개량 도면 파악 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.0b20e1765a943819d369",
+    "kr.topic.2022.high.3a419e9c670aa194a9e0",
+    "kr.topic.2022.high.3fe10e592d011c2094a8",
+    "kr.topic.2022.high.4d6addfb5330f8677f9b",
+    "kr.topic.2022.high.4e5249eb412ae7fdc180",
+    "kr.topic.2022.high.73026a26e91be81ed84d",
+    "kr.topic.2022.high.bd4a7b9474fc25d4ed35",
+    "kr.topic.2022.high.c030c4ccd07aede0f13c",
+    "kr.topic.2022.high.d19827ba293015a287e2"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.29bf71294c006a8ed3",
+   "titleKorean": "토목 설계 — 단지 설계 도면 작성",
+   "subjectKorean": "토목 설계",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "단지 설계 도면 작성",
+   "summary": "토목 설계의 단지 설계 도면 작성 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.4a21bfc1b906287a56d6",
+    "kr.topic.2022.high.92178bc364a52099b36e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2a48da21dd526bdb9b",
+   "titleKorean": "건축 도장 시공 — 철부 유성 페인트 도장",
+   "subjectKorean": "건축 도장 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "철부 유성 페인트 도장",
+   "summary": "건축 도장 시공의 철부 유성 페인트 도장 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.046550afd7870690cbf2",
+    "kr.topic.2022.high.153d6b61de374c1e0cf1",
+    "kr.topic.2022.high.1bc6bfc46c408d32c7e7",
+    "kr.topic.2022.high.2d7a33320b41443489ec",
+    "kr.topic.2022.high.352ede7874a2e72fa22e",
+    "kr.topic.2022.high.35303f889530e19c0992",
+    "kr.topic.2022.high.65691fafedb65e3f1b6c",
+    "kr.topic.2022.high.7137605dab2bfe7dead8",
+    "kr.topic.2022.high.82c8f2717be4c0f77b69",
+    "kr.topic.2022.high.866ec291f97f1b6fb920",
+    "kr.topic.2022.high.b9e780a7fb19414aa256",
+    "kr.topic.2022.high.d60246313caba4eb35d4",
+    "kr.topic.2022.high.e6cf63a65199276d5bfd"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2a823c9adac3e09a8a",
+   "titleKorean": "측량 — 하천 측량",
+   "subjectKorean": "측량",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "하천 측량",
+   "summary": "측량의 하천 측량 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 19,
+   "topics": [
+    "kr.topic.2022.high.14730ac90b0bc6e01483",
+    "kr.topic.2022.high.1f6651adec6f352dd2d0",
+    "kr.topic.2022.high.25adf1c8945ead6740e6",
+    "kr.topic.2022.high.2632bc3a6cd2290694f1",
+    "kr.topic.2022.high.5589d09a5f228922965c",
+    "kr.topic.2022.high.80bf2cf53ef2179bb9cd",
+    "kr.topic.2022.high.8473f69a1f1e1e325b3d",
+    "kr.topic.2022.high.861d8cf3f571dc5b3826",
+    "kr.topic.2022.high.96ccf84427f3bb514895",
+    "kr.topic.2022.high.a12a2ce8a6561c949305",
+    "kr.topic.2022.high.b1eda1e46dbfa2753a7b",
+    "kr.topic.2022.high.c06d4ec7d3c593ddbabb",
+    "kr.topic.2022.high.c7a1426234122815aa6b",
+    "kr.topic.2022.high.cb52d2344d5ca084684a",
+    "kr.topic.2022.high.d11ff885a51c6f779ffc",
+    "kr.topic.2022.high.e4f4ed3bba97b52c7425",
+    "kr.topic.2022.high.e5bd1698da3192669e27",
+    "kr.topic.2022.high.ee67636f6d2cb1bff8e9",
+    "kr.topic.2022.high.fab0f79773c596de4fb7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2aabdd065e93df0dfe",
+   "titleKorean": "건축 마감 시공 — 벽타일 붙임",
+   "subjectKorean": "건축 마감 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "벽타일 붙임",
+   "summary": "건축 마감 시공의 벽타일 붙임 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 17,
+   "topics": [
+    "kr.topic.2022.high.0cc8ce96ef0b1af643b9",
+    "kr.topic.2022.high.15c0c9ba58dc9bbbabd2",
+    "kr.topic.2022.high.1dafd70ecad89a9276d9",
+    "kr.topic.2022.high.227f30ce7779a8dc3aca",
+    "kr.topic.2022.high.290be3074559068f0428",
+    "kr.topic.2022.high.32951f572de5eae5450c",
+    "kr.topic.2022.high.987126720c785d9d5366",
+    "kr.topic.2022.high.a474429c9162a362cec6",
+    "kr.topic.2022.high.c0082cffe701fe57ed7f",
+    "kr.topic.2022.high.c10eac49165ecdd17078",
+    "kr.topic.2022.high.c247cea49be7d4da98cc",
+    "kr.topic.2022.high.cbcc3e768a3ad0b78f37",
+    "kr.topic.2022.high.d05f2e0200b6b80e28fe",
+    "kr.topic.2022.high.d0dda3b7e2e440d84bb5",
+    "kr.topic.2022.high.d7be0a5fc6f284bed401",
+    "kr.topic.2022.high.da50fdf1014ac49da83c",
+    "kr.topic.2022.high.f61c2057b5839d8d1555"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2aeaf08ad045323f1f",
+   "titleKorean": "건축 목공 시공 — 보양·현장 정리",
+   "subjectKorean": "건축 목공 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "보양·현장 정리",
+   "summary": "건축 목공 시공의 보양·현장 정리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.01268d39131b3f0ac8dc",
+    "kr.topic.2022.high.0bcb5f93735e073e1474",
+    "kr.topic.2022.high.175763dfedee48e66403",
+    "kr.topic.2022.high.479e8a594b3e37bc1afa",
+    "kr.topic.2022.high.4a2260cb4de4d6e19fa3",
+    "kr.topic.2022.high.69cc3ce9993ef9246bed",
+    "kr.topic.2022.high.a0738e98f2baa2ae7bb1",
+    "kr.topic.2022.high.afc63dfc3e582bca83c6",
+    "kr.topic.2022.high.d7cfead857b184b41ff3",
+    "kr.topic.2022.high.e21f1d21fdbbc8d14494"
    ]
   },
   {
@@ -249,6 +817,126 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.2ebd7d210e58874c20",
+   "titleKorean": "건축 도장 시공 — 콘크리트면 수성 페인트 도장",
+   "subjectKorean": "건축 도장 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "콘크리트면 수성 페인트 도장",
+   "summary": "건축 도장 시공의 콘크리트면 수성 페인트 도장 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.07139ac1397442676a79",
+    "kr.topic.2022.high.1a7431c88d627347789e",
+    "kr.topic.2022.high.38951313733d920cec96",
+    "kr.topic.2022.high.4c621968f2137c15da71",
+    "kr.topic.2022.high.58449687d80f46f21d1c",
+    "kr.topic.2022.high.6afaf8d57329a7cdc4e4",
+    "kr.topic.2022.high.9a3947a3f775724ec64d",
+    "kr.topic.2022.high.c1044ad8aa5d13021e24",
+    "kr.topic.2022.high.e9c091a70dffb734393e",
+    "kr.topic.2022.high.f997a58567718d9a0563"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2f12aea13ca8bab6d6",
+   "titleKorean": "토목 시공 — 철강재 시공 도면 파악",
+   "subjectKorean": "토목 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "철강재 시공 도면 파악",
+   "summary": "토목 시공의 철강재 시공 도면 파악 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.0f593f655dcd17444ac4",
+    "kr.topic.2022.high.2aaef6c7507db23b80d1",
+    "kr.topic.2022.high.60924bf44ccae95eb090",
+    "kr.topic.2022.high.7483ebc79b4fe5f4d9cf",
+    "kr.topic.2022.high.9a6ba1c44f4e20684e51",
+    "kr.topic.2022.high.d18040f62a556e8a12bb",
+    "kr.topic.2022.high.d38d1b5b74f7550f8f85",
+    "kr.topic.2022.high.e4674bc188b928b96dba",
+    "kr.topic.2022.high.f86cb7165163c5982480",
+    "kr.topic.2022.high.fa1356ef35d903a6e2c7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2fa34c8046b0d6ba21",
+   "titleKorean": "건축 마감 시공 — 타일 시공 청소․보양",
+   "subjectKorean": "건축 마감 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "타일 시공 청소․보양",
+   "summary": "건축 마감 시공의 타일 시공 청소․보양 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.27bc44da7319283222ea",
+    "kr.topic.2022.high.3df3adfeab82f7ae6f88",
+    "kr.topic.2022.high.41d1ecdb3215ca49721f",
+    "kr.topic.2022.high.7bd8e8e6f2da04fc01c6",
+    "kr.topic.2022.high.80f3a06d0c095c58d29e",
+    "kr.topic.2022.high.82c99e38453ebc42659a",
+    "kr.topic.2022.high.a26914d5e44a5f126a21",
+    "kr.topic.2022.high.a46da962ed0f4baf783d",
+    "kr.topic.2022.high.acb53f8fd07c7f35e133",
+    "kr.topic.2022.high.ae7ff68e082838b08303",
+    "kr.topic.2022.high.af20038c9027709427c6",
+    "kr.topic.2022.high.d5965725df6ecd8f0604",
+    "kr.topic.2022.high.dd9b0fadb5e6f877ec37"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2fd576b5272edfe796",
+   "titleKorean": "건축 마감 시공 — 타일 시공 바탕면 준비",
+   "subjectKorean": "건축 마감 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "타일 시공 바탕면 준비",
+   "summary": "건축 마감 시공의 타일 시공 바탕면 준비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 17,
+   "topics": [
+    "kr.topic.2022.high.033eb81f3f01e28030de",
+    "kr.topic.2022.high.0c50096e9014239b60e7",
+    "kr.topic.2022.high.135bf0806d1c85a161c6",
+    "kr.topic.2022.high.1fad33b5901c99c9f6e6",
+    "kr.topic.2022.high.237a0b3036b5df526a14",
+    "kr.topic.2022.high.37f8d34ae5e083c03087",
+    "kr.topic.2022.high.518d242e7272d2c7304f",
+    "kr.topic.2022.high.78ff491b067c1bbc0dfa",
+    "kr.topic.2022.high.799cbbc7a9cdbce3f993",
+    "kr.topic.2022.high.8821e462c9d691d8e62d",
+    "kr.topic.2022.high.abe11185d81a1eb79a14",
+    "kr.topic.2022.high.b3c5b0f8244d04b63011",
+    "kr.topic.2022.high.b6f9c5ca999aa852877a",
+    "kr.topic.2022.high.beb1e50093a86eb4e3bf",
+    "kr.topic.2022.high.c5a31ac3dc4bd8a5be2a",
+    "kr.topic.2022.high.e7384f67419dd120e496",
+    "kr.topic.2022.high.fce199462336952b9150"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2febc48b4de99d5a64",
+   "titleKorean": "토목 시공 — 준설 도면 파악",
+   "subjectKorean": "토목 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "준설 도면 파악",
+   "summary": "토목 시공의 준설 도면 파악 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.0c1913139d62c406438b",
+    "kr.topic.2022.high.3a7b8d8d9edf29d93729",
+    "kr.topic.2022.high.4068023ea09af5f2084f",
+    "kr.topic.2022.high.5db84aefbd8d19c2a521",
+    "kr.topic.2022.high.85b12525de24031d3c83",
+    "kr.topic.2022.high.8ea73b29043fba85a6cc",
+    "kr.topic.2022.high.a12b3e9d93d04bae89e3",
+    "kr.topic.2022.high.b63b49d9bf2ebf54313e",
+    "kr.topic.2022.high.c41df36f62c27f8b3aa9",
+    "kr.topic.2022.high.f644850ea46f47666f80"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.30fe623c58d0473a33",
    "titleKorean": "기초 제도 — 여러 가지 기초 도면 그리기",
    "subjectKorean": "기초 제도",
@@ -302,6 +990,119 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.330c3ffa359a1427f9",
+   "titleKorean": "건축 도장 시공 — 건축 도장 시공 현장 안전",
+   "subjectKorean": "건축 도장 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "건축 도장 시공 현장 안전",
+   "summary": "건축 도장 시공의 건축 도장 시공 현장 안전 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 16,
+   "topics": [
+    "kr.topic.2022.high.12b59e4df534b2334fb8",
+    "kr.topic.2022.high.14e208ee16ea828f580b",
+    "kr.topic.2022.high.155a3cb7b01025d0a320",
+    "kr.topic.2022.high.32c0972db5c3bc20cff7",
+    "kr.topic.2022.high.3c5bd11629af2600cd4c",
+    "kr.topic.2022.high.45084d1f672d367b82d5",
+    "kr.topic.2022.high.5649cdb57e0ee3f72eab",
+    "kr.topic.2022.high.71364df90fbf0426f686",
+    "kr.topic.2022.high.97b355954784afd9960c",
+    "kr.topic.2022.high.a00ac13dc1ee6e464538",
+    "kr.topic.2022.high.a6111ca52bf95cb01bc4",
+    "kr.topic.2022.high.b45c785f053d4df44098",
+    "kr.topic.2022.high.c9fb02285f34a4dcf0b7",
+    "kr.topic.2022.high.d572e48a40c43248c698",
+    "kr.topic.2022.high.f31bb1026d4c6b7a48e1",
+    "kr.topic.2022.high.f59734d38d5ce8aacc2a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3765731a28db733b02",
+   "titleKorean": "소형 무인기 운용 ․ 조종 — 고정익 소형 무인기 비행",
+   "subjectKorean": "소형 무인기 운용 ․ 조종",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "고정익 소형 무인기 비행",
+   "summary": "소형 무인기 운용 ․ 조종의 고정익 소형 무인기 비행 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 17,
+   "topics": [
+    "kr.topic.2022.high.04b679dbd8056fcae7b6",
+    "kr.topic.2022.high.17d6a3fc1434e119ec41",
+    "kr.topic.2022.high.24a0a151f3c44d150669",
+    "kr.topic.2022.high.3534ef86912510a84fd4",
+    "kr.topic.2022.high.3b81162a8df7bec75d53",
+    "kr.topic.2022.high.41f2e48054255a9f82cf",
+    "kr.topic.2022.high.68cc0fd8fa13666f3990",
+    "kr.topic.2022.high.844637f8add323275df0",
+    "kr.topic.2022.high.92caaa3cff3c5a933be2",
+    "kr.topic.2022.high.a35ad006f7d9d799640c",
+    "kr.topic.2022.high.c7484900fd28155d712c",
+    "kr.topic.2022.high.c75faafe2758d990ef4c",
+    "kr.topic.2022.high.c915dddf5929d1f7b8d5",
+    "kr.topic.2022.high.d622119f46e039c01b73",
+    "kr.topic.2022.high.d81ae08dd663ba754f85",
+    "kr.topic.2022.high.edc853ea1f1c0f3864d2",
+    "kr.topic.2022.high.f6a23e72dc0a6a414c48"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.382c3df21d73ea77c8",
+   "titleKorean": "소형 무인기 운용 ․ 조종 — 소형 무인기 촬영 운용",
+   "subjectKorean": "소형 무인기 운용 ․ 조종",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "소형 무인기 촬영 운용",
+   "summary": "소형 무인기 운용 ․ 조종의 소형 무인기 촬영 운용 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 21,
+   "topics": [
+    "kr.topic.2022.high.021b7076d10d682d2d5e",
+    "kr.topic.2022.high.0cdc9c8b903254c40ad4",
+    "kr.topic.2022.high.188d070854471f17e38b",
+    "kr.topic.2022.high.27b36dfa65a98733864f",
+    "kr.topic.2022.high.293868e57e45288720c2",
+    "kr.topic.2022.high.33c8c68793b4530d359a",
+    "kr.topic.2022.high.424a7e8414e07f3d67ef",
+    "kr.topic.2022.high.450f5decc01cc0dc8f57",
+    "kr.topic.2022.high.4bfb2ea0c4049ab03293",
+    "kr.topic.2022.high.59341f56c9cd4ed527d0",
+    "kr.topic.2022.high.7bffee89cd26ae897cfa",
+    "kr.topic.2022.high.83aeb2237f065b66694a",
+    "kr.topic.2022.high.8cc6ba85772307aab424",
+    "kr.topic.2022.high.8f8ae8594eda2f807c74",
+    "kr.topic.2022.high.a14e939e1fc7f4482390",
+    "kr.topic.2022.high.a9b7181370b1c787d589",
+    "kr.topic.2022.high.b7be22a14590b35c6702",
+    "kr.topic.2022.high.b9012e22f0fe3391f062",
+    "kr.topic.2022.high.c773a536226599ae6423",
+    "kr.topic.2022.high.cc9f45444bcdd8881ce1",
+    "kr.topic.2022.high.df20aa449764203a8fb6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.396c3770a102a36c11",
+   "titleKorean": "건축 목공 시공 — 바닥 설치",
+   "subjectKorean": "건축 목공 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "바닥 설치",
+   "summary": "건축 목공 시공의 바닥 설치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.2a3d1fa2071914f12e2c",
+    "kr.topic.2022.high.3906c9f3b2ec6d1a823d",
+    "kr.topic.2022.high.39719337803ee560139d",
+    "kr.topic.2022.high.43ea5887fd4179471740",
+    "kr.topic.2022.high.5432e039d104e989443d",
+    "kr.topic.2022.high.58e0bc47d87f9eae95a8",
+    "kr.topic.2022.high.6e9391a70ef82070d69b",
+    "kr.topic.2022.high.6ebfcfcf4035eeede4bf",
+    "kr.topic.2022.high.a54591bb8b05d401b1e6",
+    "kr.topic.2022.high.b4d8244f15667b8269d4",
+    "kr.topic.2022.high.c05876d8c48abfb6f7f9"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.3c7ac7fd25d294b213",
    "titleKorean": "토질·수리 — 흙 속의 물과 압밀",
    "subjectKorean": "토질·수리",
@@ -317,6 +1118,54 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.3e1528e542d510be74",
+   "titleKorean": "건축 목공 시공 — 목재 창호 제작·설치",
+   "subjectKorean": "건축 목공 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "목재 창호 제작·설치",
+   "summary": "건축 목공 시공의 목재 창호 제작·설치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 14,
+   "topics": [
+    "kr.topic.2022.high.396286cc5518f8f351f6",
+    "kr.topic.2022.high.54472f6b73d4849d4cef",
+    "kr.topic.2022.high.5c93085363e78c0c170f",
+    "kr.topic.2022.high.69cd92175c7bcc97b118",
+    "kr.topic.2022.high.6b5ef4682ddbf9f59c5d",
+    "kr.topic.2022.high.894971da62d1ea99b24c",
+    "kr.topic.2022.high.96b3c37d0cbfd01804ff",
+    "kr.topic.2022.high.ae589aefd2d0be4070d8",
+    "kr.topic.2022.high.b19573a3b7efdbca4fe9",
+    "kr.topic.2022.high.c1f1f4dff2b9da846ba2",
+    "kr.topic.2022.high.e181b7cb1604307dfe9c",
+    "kr.topic.2022.high.e6210061f29f4ce94cbd",
+    "kr.topic.2022.high.faae3b642f3125953801",
+    "kr.topic.2022.high.fddd338296d971217606"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3e8d84403edc9e38d9",
+   "titleKorean": "교통 계획･설계 — 공사 중 교통 처리 설계",
+   "subjectKorean": "교통 계획･설계",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "공사 중 교통 처리 설계",
+   "summary": "교통 계획･설계의 공사 중 교통 처리 설계 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.057a88f4ac3d57fb2ecb",
+    "kr.topic.2022.high.08561a4efb120916803c",
+    "kr.topic.2022.high.30b3bcbf1f1ad18fe41e",
+    "kr.topic.2022.high.5ab8b19e5903bf2af48b",
+    "kr.topic.2022.high.65a3e866194cc5bc140c",
+    "kr.topic.2022.high.a281d8bd98db8c7741da",
+    "kr.topic.2022.high.e1b5e3204bf64a48f020",
+    "kr.topic.2022.high.e2d975e12bca5ffb2181",
+    "kr.topic.2022.high.fa0212fbc23868733ec9",
+    "kr.topic.2022.high.fb7e558432d11d5a1930"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.408937e2971004ae44",
    "titleKorean": "토질·수리 — 흙의 기본적 성질",
    "subjectKorean": "토질·수리",
@@ -329,6 +1178,22 @@
     "kr.topic.2022.high.494ce99f22d38f1fc4ad",
     "kr.topic.2022.high.52b375336723a818c950",
     "kr.topic.2022.high.cb6447d9bc4dd3784ba6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.40aa45470ba7e88099",
+   "titleKorean": "주거 서비스 — 영역 04",
+   "subjectKorean": "주거 서비스",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 04",
+   "summary": "주거 서비스의 영역 04 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.60375cf268ad7032bbd8",
+    "kr.topic.2022.high.656b26d688f8524298de",
+    "kr.topic.2022.high.6ff211cb2dea996ac8ac",
+    "kr.topic.2022.high.710511eac8e94e963a08"
    ]
   },
   {
@@ -358,6 +1223,80 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.42f8485aaff2820722",
+   "titleKorean": "교통 계획･설계 — 시설 규모 결정",
+   "subjectKorean": "교통 계획･설계",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "시설 규모 결정",
+   "summary": "교통 계획･설계의 시설 규모 결정 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.290984468ab2a9cb9a2f",
+    "kr.topic.2022.high.3c9836e8dab5226d786f",
+    "kr.topic.2022.high.57995883b3d70d3f7560",
+    "kr.topic.2022.high.6fa232940b03d30ad3a1",
+    "kr.topic.2022.high.951a692351a0f99b0ba2",
+    "kr.topic.2022.high.96d13dd933600962cf8b",
+    "kr.topic.2022.high.bd4a31c712b0f47f39a2",
+    "kr.topic.2022.high.d9d709dee41da9d32674",
+    "kr.topic.2022.high.f78d7aa2c5f538af5750"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.43167b36fd4f8a9149",
+   "titleKorean": "주거 서비스 — 주거 서비스 상담",
+   "subjectKorean": "주거 서비스",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "주거 서비스 상담",
+   "summary": "주거 서비스의 주거 서비스 상담 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 14,
+   "topics": [
+    "kr.topic.2022.high.20305b87059a8f2ef183",
+    "kr.topic.2022.high.2843ce8529f2379c0367",
+    "kr.topic.2022.high.340f5b922ff2c3fd51ca",
+    "kr.topic.2022.high.3e2c7e2a5d4c19ddd5bb",
+    "kr.topic.2022.high.4b825d9d7fad918c9de0",
+    "kr.topic.2022.high.517fe7f956aef4763d8e",
+    "kr.topic.2022.high.5fba6f83c9c601547306",
+    "kr.topic.2022.high.72c5e176c8f77836003e",
+    "kr.topic.2022.high.a444777f8c160721acf2",
+    "kr.topic.2022.high.b8dc7aae351563f92bd2",
+    "kr.topic.2022.high.c307b0f6de6988ff2978",
+    "kr.topic.2022.high.cafed61de19f42d80276",
+    "kr.topic.2022.high.ce702c5a9aa2788e86b5",
+    "kr.topic.2022.high.f9f95b63141199a6f85c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4321541eb5be773cb2",
+   "titleKorean": "건축 도장 시공 — 콘크리트 우레탄 에폭시 도장",
+   "subjectKorean": "건축 도장 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "콘크리트 우레탄 에폭시 도장",
+   "summary": "건축 도장 시공의 콘크리트 우레탄 에폭시 도장 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 15,
+   "topics": [
+    "kr.topic.2022.high.093537db4eff89d7d1d6",
+    "kr.topic.2022.high.0f8cccb9d57760299405",
+    "kr.topic.2022.high.1f37e611eab36dc681d4",
+    "kr.topic.2022.high.2755bfd473c9ace2139f",
+    "kr.topic.2022.high.3de8fba0e396a97b3aa9",
+    "kr.topic.2022.high.5a40ea1974b08494143d",
+    "kr.topic.2022.high.5fcfb7e8f8a8330b4756",
+    "kr.topic.2022.high.66bfce8301275a019d98",
+    "kr.topic.2022.high.672906b5959e38b946f1",
+    "kr.topic.2022.high.67a9bbc0e48f0bb12036",
+    "kr.topic.2022.high.6c42ddaec63cc1490d30",
+    "kr.topic.2022.high.7d7e570887061541534e",
+    "kr.topic.2022.high.a16594ddbc53220a91ec",
+    "kr.topic.2022.high.d10234bddab2b7e7dfc7",
+    "kr.topic.2022.high.e48d13435cd18eafe0f4"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.436d9861afc7a6c65a",
    "titleKorean": "기초 제도 — 도면의 검사와 관리",
    "subjectKorean": "기초 제도",
@@ -373,6 +1312,28 @@
     "kr.topic.2022.high.96b36b12af79ab1a4640",
     "kr.topic.2022.high.9ef3b8201bdadd01aa18",
     "kr.topic.2022.high.be94faa49bc370ef777e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.443bdf6420052cdd07",
+   "titleKorean": "건축 마감 시공 — 방수 검사",
+   "subjectKorean": "건축 마감 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "방수 검사",
+   "summary": "건축 마감 시공의 방수 검사 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.021823012697330d75ed",
+    "kr.topic.2022.high.1ae117f899bf202b86e9",
+    "kr.topic.2022.high.28e64ad9750913d13d93",
+    "kr.topic.2022.high.3ba6a8099cf268e31059",
+    "kr.topic.2022.high.61959090c44fe0406920",
+    "kr.topic.2022.high.9fddd4d4d29efe977108",
+    "kr.topic.2022.high.bc3cb96091e0c4073c41",
+    "kr.topic.2022.high.cc4424cbfac269647f1a",
+    "kr.topic.2022.high.d1fc57114d2c610b4e6a",
+    "kr.topic.2022.high.e449e494a45621248406"
    ]
   },
   {
@@ -415,6 +1376,59 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.4b6f6b898879337ca2",
+   "titleKorean": "건축 마감 시공 — 방수면 보호",
+   "subjectKorean": "건축 마감 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "방수면 보호",
+   "summary": "건축 마감 시공의 방수면 보호 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 16,
+   "topics": [
+    "kr.topic.2022.high.0afbaf3feee37f9a7d8d",
+    "kr.topic.2022.high.1d7e219e986689d0e86a",
+    "kr.topic.2022.high.208012fca4af820cc159",
+    "kr.topic.2022.high.2b13727a9a061dd7c09b",
+    "kr.topic.2022.high.2fec457ec7ac21683f7a",
+    "kr.topic.2022.high.31346df50273f36ebf54",
+    "kr.topic.2022.high.4e7b6c15dd64aeae3348",
+    "kr.topic.2022.high.5b54dc02fbf68a972f55",
+    "kr.topic.2022.high.6e11fc10a59678ff9571",
+    "kr.topic.2022.high.7ada85bd58527913d0b3",
+    "kr.topic.2022.high.8ccaf5518bfe8bc65b62",
+    "kr.topic.2022.high.8ecdcb0a8f288d6f757e",
+    "kr.topic.2022.high.9cab537cfdf443bbb177",
+    "kr.topic.2022.high.b191f1d54c3f2d2c7d2a",
+    "kr.topic.2022.high.c91b90e2ac2ffecb1146",
+    "kr.topic.2022.high.ec96184a80884ab4b412"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.4d71cb5906fa81ac96",
+   "titleKorean": "토목 시공 — 토공 쌓기",
+   "subjectKorean": "토목 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "토공 쌓기",
+   "summary": "토목 시공의 토공 쌓기 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.48c17c5a01c80f4f6676",
+    "kr.topic.2022.high.524fd328da33ac8c5eff",
+    "kr.topic.2022.high.5694f0225243bdbf0be1",
+    "kr.topic.2022.high.61ba8b0e7b71b3ad1378",
+    "kr.topic.2022.high.629fa3de25434d5d7b72",
+    "kr.topic.2022.high.71544933f20e4ed90f28",
+    "kr.topic.2022.high.8bd48f41c7230aa9bd0c",
+    "kr.topic.2022.high.9d4001d4fff875f642a7",
+    "kr.topic.2022.high.a757e4e9f4fc2f11fd43",
+    "kr.topic.2022.high.be8d696ade1952db47f7",
+    "kr.topic.2022.high.ca6e69ce45dc91f5aa61",
+    "kr.topic.2022.high.cc209d90355b450fc6d1",
+    "kr.topic.2022.high.d5753d6b563693de8839"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.4dd765c13b16c77e13",
    "titleKorean": "건축 도면 해석과 제도 — 건축 CAD",
    "subjectKorean": "건축 도면 해석과 제도",
@@ -448,6 +1462,19 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.4e0423d35193809760",
+   "titleKorean": "토목 설계 — 터널 설계 도면 작성",
+   "subjectKorean": "토목 설계",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "터널 설계 도면 작성",
+   "summary": "토목 설계의 터널 설계 도면 작성 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 1,
+   "topics": [
+    "kr.topic.2022.high.b49a0ab008db743d1820"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.4e60f33fddf608b1fb",
    "titleKorean": "토목 도면 해석과 제도 — 토목 구조물 도면 해석",
    "subjectKorean": "토목 도면 해석과 제도",
@@ -463,6 +1490,40 @@
     "kr.topic.2022.high.3da2de0b5beaffe84cde",
     "kr.topic.2022.high.8df19eb8d7284e444397",
     "kr.topic.2022.high.daf0bf1030bbfc57cf9d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5152d945ecd0024188",
+   "titleKorean": "건축 설계 — 건축 재료 검토",
+   "subjectKorean": "건축 설계",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "건축 재료 검토",
+   "summary": "건축 설계의 건축 재료 검토 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.1a4ab76700a15dbbf86f",
+    "kr.topic.2022.high.37db93ed75d8e7ba94f2",
+    "kr.topic.2022.high.72f58e43d61cb02a9f79",
+    "kr.topic.2022.high.c2a2d8afcc6694b62787",
+    "kr.topic.2022.high.dd95b3957ed33c3d6788",
+    "kr.topic.2022.high.f18272dc05e947670857"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.52b16ab620e896c547",
+   "titleKorean": "주거 서비스 — 과 ‘실내 건축 설계 시각화 작업’(1403010406_14v2)을 참조하여 실제 공간 사례를 기반으로",
+   "subjectKorean": "주거 서비스",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "과 ‘실내 건축 설계 시각화 작업’(1403010406_14v2)을 참조하여 실제 공간 사례를 기반으로",
+   "summary": "주거 서비스의 과 ‘실내 건축 설계 시각화 작업’(1403010406_14v2)을 참조하여 실제 공간 사례를 기반으로 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.3e5a09e529ed154a1c51",
+    "kr.topic.2022.high.8228d97c36fffabc45e5",
+    "kr.topic.2022.high.c3e78b40d3c2d561f842",
+    "kr.topic.2022.high.f3db9a5232788bd4f590"
    ]
   },
   {
@@ -490,6 +1551,101 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.53b80d41a44e83bcfa",
+   "titleKorean": "소형 무인기 운용 ․ 조종 — 소형 무인기 내부 조종",
+   "subjectKorean": "소형 무인기 운용 ․ 조종",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "소형 무인기 내부 조종",
+   "summary": "소형 무인기 운용 ․ 조종의 소형 무인기 내부 조종 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 28,
+   "topics": [
+    "kr.topic.2022.high.1063e9e3988e21bf646b",
+    "kr.topic.2022.high.1388c15531a4a4a71bad",
+    "kr.topic.2022.high.15d4cf283df5c0792f24",
+    "kr.topic.2022.high.187587529c802f341f9a",
+    "kr.topic.2022.high.34de0ffedba032c92c29",
+    "kr.topic.2022.high.4a85ec9d84ae4db5f2fb",
+    "kr.topic.2022.high.4c846ea3b6c27a7c6a0d",
+    "kr.topic.2022.high.53818e531ffabfcf3730",
+    "kr.topic.2022.high.56168134ac1b67056b0b",
+    "kr.topic.2022.high.6b8d66cd247060f47a23",
+    "kr.topic.2022.high.72242f4277aa445b1b5d",
+    "kr.topic.2022.high.7fc569ec21fc1c383aaa",
+    "kr.topic.2022.high.80376aa29812e64c0a87",
+    "kr.topic.2022.high.8826301e7e76eafb5a5f",
+    "kr.topic.2022.high.8ae7d00992cbf7168216",
+    "kr.topic.2022.high.995c8ff8bcdabe99af5a",
+    "kr.topic.2022.high.a4cfed38f7ae122efbec",
+    "kr.topic.2022.high.aece0240a8ce75862d97",
+    "kr.topic.2022.high.afb10b8ce356fbba9bd3",
+    "kr.topic.2022.high.b890c1bff53d80619385",
+    "kr.topic.2022.high.bb8945d90f7040e1ad59",
+    "kr.topic.2022.high.c02fc977a815c83ca309",
+    "kr.topic.2022.high.c1fb7acad785a3dbfdef",
+    "kr.topic.2022.high.c81a6465e1d5acbbf27f",
+    "kr.topic.2022.high.d0856448522dc3370e54",
+    "kr.topic.2022.high.e89ffe37af03a67cf861",
+    "kr.topic.2022.high.e9b8e68fc904d2038aa5",
+    "kr.topic.2022.high.f5fc7781d3ad760abb78"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.56bd13ea4d7723612b",
+   "titleKorean": "건축 마감 시공 — 바닥 타일 붙임",
+   "subjectKorean": "건축 마감 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "바닥 타일 붙임",
+   "summary": "건축 마감 시공의 바닥 타일 붙임 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 20,
+   "topics": [
+    "kr.topic.2022.high.1e45ce5a7adf69009bf8",
+    "kr.topic.2022.high.318aedcee7a4225c0aeb",
+    "kr.topic.2022.high.43c6c3e8670abad3ccfd",
+    "kr.topic.2022.high.4c6b906d17e835542762",
+    "kr.topic.2022.high.4d65c0afd22066a6191a",
+    "kr.topic.2022.high.50a0b16c3a0e18a68d23",
+    "kr.topic.2022.high.593d6ea99dd15d3bb9bd",
+    "kr.topic.2022.high.599b9e5c4efa2afd3192",
+    "kr.topic.2022.high.65e5c24e8fd793e04733",
+    "kr.topic.2022.high.69065e865a7e8869d5b2",
+    "kr.topic.2022.high.71c8c8a9ecf7ba5bf941",
+    "kr.topic.2022.high.7f181c6cac1b6cff4a0d",
+    "kr.topic.2022.high.934ee037569e46fdf3aa",
+    "kr.topic.2022.high.cb7389b89277861de8ac",
+    "kr.topic.2022.high.d0918b604ac1f0c11c0e",
+    "kr.topic.2022.high.d4b65b171ef23bf23b8d",
+    "kr.topic.2022.high.d513e0289889ff9e3879",
+    "kr.topic.2022.high.da50998d2f8c83158b8c",
+    "kr.topic.2022.high.edc88412ce91b3c99491",
+    "kr.topic.2022.high.f0238f87dda4ca64ec4e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.578100af67f53722be",
+   "titleKorean": "공간 정보 구축 — 수치 지도 DB 구축",
+   "subjectKorean": "공간 정보 구축",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "수치 지도 DB 구축",
+   "summary": "공간 정보 구축의 수치 지도 DB 구축 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.15476a471d3c3d16b5bb",
+    "kr.topic.2022.high.1f0f59098e98cf44d9d7",
+    "kr.topic.2022.high.27137e5e7e6e34ec8883",
+    "kr.topic.2022.high.315c663d76281e167d48",
+    "kr.topic.2022.high.3e1278ce043bc70b3b26",
+    "kr.topic.2022.high.428eba04278af68c4484",
+    "kr.topic.2022.high.44722662494ef591e444",
+    "kr.topic.2022.high.791d207d39580b0ee7fa",
+    "kr.topic.2022.high.910087f76945ba1647f0",
+    "kr.topic.2022.high.bef5890a354c5fd21d61",
+    "kr.topic.2022.high.c034763bbcb17285eea4"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.5806df9df135aef088",
    "titleKorean": "건축 일반 — 세부 건축 계획",
    "subjectKorean": "건축 일반",
@@ -512,6 +1668,83 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.5abae0fc955f391d71",
+   "titleKorean": "공간 정보 융합 서비스 — 공간 정보 분석",
+   "subjectKorean": "공간 정보 융합 서비스",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "공간 정보 분석",
+   "summary": "공간 정보 융합 서비스의 공간 정보 분석 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 18,
+   "topics": [
+    "kr.topic.2022.high.01c4cb244483c88c5e7f",
+    "kr.topic.2022.high.080cf3fc010b634b20e2",
+    "kr.topic.2022.high.17345bb2de632678a726",
+    "kr.topic.2022.high.1a81b3254296ed70b46d",
+    "kr.topic.2022.high.202dbfbb1298b6536367",
+    "kr.topic.2022.high.2a3045d66b7b6807fd57",
+    "kr.topic.2022.high.325cc63bc7c0a9104574",
+    "kr.topic.2022.high.4759600f0258da53dcec",
+    "kr.topic.2022.high.49bf41798afbb0753fb0",
+    "kr.topic.2022.high.52ca1a6d240b796a5356",
+    "kr.topic.2022.high.76c83c1e2c7c97141a7d",
+    "kr.topic.2022.high.7957f64a2f2df26dc9aa",
+    "kr.topic.2022.high.79f0eb39fa0c5fe1d8c4",
+    "kr.topic.2022.high.821f3dd2d512e6eb9ee1",
+    "kr.topic.2022.high.aeeae0ccddceb4747b18",
+    "kr.topic.2022.high.ddfc0e063ba045c94665",
+    "kr.topic.2022.high.eab6e7b5f48cf0ceb02d",
+    "kr.topic.2022.high.ed7f75d68dffee39153a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.5bc73f0d13af7bb513",
+   "titleKorean": "건축 도장 시공 — 건축 도장 시공 설계 도서 검토",
+   "subjectKorean": "건축 도장 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "건축 도장 시공 설계 도서 검토",
+   "summary": "건축 도장 시공의 건축 도장 시공 설계 도서 검토 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.351d21b4affc3af5e2e8",
+    "kr.topic.2022.high.36fa221482c1022763e1",
+    "kr.topic.2022.high.3b7c95c297f4f2a47f8e",
+    "kr.topic.2022.high.6d4e786363a2fd232f38",
+    "kr.topic.2022.high.784ce7078c6a56945cff",
+    "kr.topic.2022.high.af541633ba6a2ecd8b38",
+    "kr.topic.2022.high.db131726d65489bcbfcc",
+    "kr.topic.2022.high.e1988eac22b4d0e9d2f2",
+    "kr.topic.2022.high.f4e9f92813aa2ca6c5b6",
+    "kr.topic.2022.high.f86c9bdc912553274969"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.63a13bda820b765641",
+   "titleKorean": "건축 목공 시공 — 구조물 제작·설치",
+   "subjectKorean": "건축 목공 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "구조물 제작·설치",
+   "summary": "건축 목공 시공의 구조물 제작·설치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.013102edc4523eca4505",
+    "kr.topic.2022.high.0c4966e32b2aab771f9f",
+    "kr.topic.2022.high.0e5998b8d3a4de656660",
+    "kr.topic.2022.high.14f8c54e0af7b74e8eb2",
+    "kr.topic.2022.high.185501e32664f538f26c",
+    "kr.topic.2022.high.4585f8227617bad93a11",
+    "kr.topic.2022.high.517446635106b16d74a3",
+    "kr.topic.2022.high.53410b53517cb9a3fa4d",
+    "kr.topic.2022.high.6c60c1a8a2872a709bee",
+    "kr.topic.2022.high.753c246c91565a39e3e8",
+    "kr.topic.2022.high.8b07f8e97b88417be24b",
+    "kr.topic.2022.high.a4cd2be25f2d6e0a6b6e",
+    "kr.topic.2022.high.fe2985bc320154e6959b"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.64ce0b32ceb80ff1b1",
    "titleKorean": "역학 기초 — 트러스 및 라멘",
    "subjectKorean": "역학 기초",
@@ -527,6 +1760,142 @@
     "kr.topic.2022.high.51f5175d52876b123f41",
     "kr.topic.2022.high.89ccd085237096ec9a45",
     "kr.topic.2022.high.a0b31690f4fb173298c7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.664c3165d6f9b4fa67",
+   "titleKorean": "건축 마감 시공 — 모르타르 벽미장",
+   "subjectKorean": "건축 마감 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "모르타르 벽미장",
+   "summary": "건축 마감 시공의 모르타르 벽미장 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 17,
+   "topics": [
+    "kr.topic.2022.high.1a0f7a91eaa358c8a58b",
+    "kr.topic.2022.high.2319b64ff030dbd7dbef",
+    "kr.topic.2022.high.2397c4dc572a0e6f5898",
+    "kr.topic.2022.high.3ae7e46064e7740c5504",
+    "kr.topic.2022.high.3c85e7329212d83f6fda",
+    "kr.topic.2022.high.40b2cd889667acb9a96a",
+    "kr.topic.2022.high.417f2e81d7c6e93aebde",
+    "kr.topic.2022.high.418416d3a43fc7dd813c",
+    "kr.topic.2022.high.544a0d13714b3bb66ece",
+    "kr.topic.2022.high.79e0cdb6eeb3c9096b32",
+    "kr.topic.2022.high.a27eae7bca0bd4b0a955",
+    "kr.topic.2022.high.a93b67ef6b4812480d5b",
+    "kr.topic.2022.high.cc2724047c3639142095",
+    "kr.topic.2022.high.cf7624cee5e40bafb95f",
+    "kr.topic.2022.high.dfc946aa1c118e70b703",
+    "kr.topic.2022.high.e548ead90c7dd1b1aaba",
+    "kr.topic.2022.high.fc4d0bf4086ba394cef4"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6665618d06e54bf184",
+   "titleKorean": "토목 시공 — 지반 개량 기초 자료 조사 분석",
+   "subjectKorean": "토목 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "지반 개량 기초 자료 조사 분석",
+   "summary": "토목 시공의 지반 개량 기초 자료 조사 분석 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.1bb3d465db3807a5e560",
+    "kr.topic.2022.high.21135cb7f52e5ea554d0",
+    "kr.topic.2022.high.2a1a8faa4d418849f9ea",
+    "kr.topic.2022.high.47c25c4d804b677abd2b",
+    "kr.topic.2022.high.4d4222475b36d3a2e059",
+    "kr.topic.2022.high.6a7f792765fc5d435249",
+    "kr.topic.2022.high.797d4542ebe754d18dfa",
+    "kr.topic.2022.high.b6d69f0d3f6cab3ca851",
+    "kr.topic.2022.high.c154ef84efae4d83b48a",
+    "kr.topic.2022.high.cabfd4ec0f8549fbe703",
+    "kr.topic.2022.high.cac20fff39cb5b9bb56e",
+    "kr.topic.2022.high.d5990b18277f464b36c6",
+    "kr.topic.2022.high.ec5224e4a39747085f5b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.66a4c2ff16d6deaa6b",
+   "titleKorean": "공간 정보 구축 — 3차원 시설물 모델 제작",
+   "subjectKorean": "공간 정보 구축",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "3차원 시설물 모델 제작",
+   "summary": "공간 정보 구축의 3차원 시설물 모델 제작 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.09f1af993402be93a37f",
+    "kr.topic.2022.high.471f33190b2b02e70095",
+    "kr.topic.2022.high.5803ee9ef9e3f803600f",
+    "kr.topic.2022.high.72363a0e9405fa9094b9",
+    "kr.topic.2022.high.72b5925b3cc8a1e015d2",
+    "kr.topic.2022.high.745b31772e52a0457178",
+    "kr.topic.2022.high.93d8e6da871df95cd40d",
+    "kr.topic.2022.high.a5dfecd5a6a93dd359de",
+    "kr.topic.2022.high.c047aec75811d60d4d67",
+    "kr.topic.2022.high.e1658e5d6e6f3cc704de",
+    "kr.topic.2022.high.f23fcf0982a4eed7c8dd",
+    "kr.topic.2022.high.f91634a9740063917558"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6a2f8dd14cec363e8a",
+   "titleKorean": "건축 도장 시공 — 목부 래커 도장",
+   "subjectKorean": "건축 도장 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "목부 래커 도장",
+   "summary": "건축 도장 시공의 목부 래커 도장 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 17,
+   "topics": [
+    "kr.topic.2022.high.0494142ad7ba707934ad",
+    "kr.topic.2022.high.054d32a4135d8017b4c3",
+    "kr.topic.2022.high.24d39b73c547c7aa735e",
+    "kr.topic.2022.high.2a1677092ccd4483f1a0",
+    "kr.topic.2022.high.5097ccb0962348479933",
+    "kr.topic.2022.high.55201efa16287c353999",
+    "kr.topic.2022.high.6467be9a33b341d67e71",
+    "kr.topic.2022.high.65761d5abc3db3f93bf3",
+    "kr.topic.2022.high.67258a6bec24ab28f95d",
+    "kr.topic.2022.high.757210c69c2e9b306c10",
+    "kr.topic.2022.high.8c0e23aa53ab64d1dc53",
+    "kr.topic.2022.high.8e5efc73b8926b3c8bb5",
+    "kr.topic.2022.high.9ff51f5bb77419e5fd42",
+    "kr.topic.2022.high.adc803dd3ee8d4a94dd2",
+    "kr.topic.2022.high.ef99d220512372645422",
+    "kr.topic.2022.high.f140eadc29924b1878d0",
+    "kr.topic.2022.high.f69c1d1822f9413ad7b3"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.6a3075463fd106294b",
+   "titleKorean": "토목 시공 — 포장 현장 여건 조사",
+   "subjectKorean": "토목 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "포장 현장 여건 조사",
+   "summary": "토목 시공의 포장 현장 여건 조사 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 17,
+   "topics": [
+    "kr.topic.2022.high.0acc0ff8f3e32dcd0a37",
+    "kr.topic.2022.high.1d15ca527243e4cd836d",
+    "kr.topic.2022.high.3bbf5753fa92caa31dcb",
+    "kr.topic.2022.high.3bcc00bde8fed2529dbd",
+    "kr.topic.2022.high.3e17726fab522773299b",
+    "kr.topic.2022.high.4457b9ce038c7fafb924",
+    "kr.topic.2022.high.570a076977de63472607",
+    "kr.topic.2022.high.5fbb7605d0d6653b3e7a",
+    "kr.topic.2022.high.63759a23612d1c884393",
+    "kr.topic.2022.high.b76d63ce8433c5a37be3",
+    "kr.topic.2022.high.b8d0775f9c2b44cc2297",
+    "kr.topic.2022.high.c182a7a4e94a0525f712",
+    "kr.topic.2022.high.c5fe9c1e00b0d937be90",
+    "kr.topic.2022.high.c6dc519d8e4e9991b471",
+    "kr.topic.2022.high.dc19f4efcf0daf5da007",
+    "kr.topic.2022.high.dc84ba409dc94eb9b880",
+    "kr.topic.2022.high.f1f3d15210e06ff1866b"
    ]
   },
   {
@@ -551,6 +1920,39 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.71c8edbaad9688acee",
+   "titleKorean": "건축 설계 — 건축 설계 도면 해석",
+   "subjectKorean": "건축 설계",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "건축 설계 도면 해석",
+   "summary": "건축 설계의 건축 설계 도면 해석 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.1029daa6dfc8680f26a3",
+    "kr.topic.2022.high.2ae6e189900fb215ca0d",
+    "kr.topic.2022.high.48d3c15042bfe86d36f1",
+    "kr.topic.2022.high.64d29506d033c8529543",
+    "kr.topic.2022.high.674cb6d6a4140c325c20",
+    "kr.topic.2022.high.8d0f518c05c7af2328b0",
+    "kr.topic.2022.high.96d56c3c397809961569"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.71fcdd6a4bb24891d6",
+   "titleKorean": "토목 설계 — 하천(댐) 설계 사업 계획 수립",
+   "subjectKorean": "토목 설계",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "하천(댐) 설계 사업 계획 수립",
+   "summary": "토목 설계의 하천(댐) 설계 사업 계획 수립 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.877fb9d8a89737a6a33e",
+    "kr.topic.2022.high.cc6a1194483dc85d1730"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.74560a8c9c565d8124",
    "titleKorean": "토목 일반 — 건설 산업과 공사 관리",
    "subjectKorean": "토목 일반",
@@ -567,6 +1969,39 @@
     "kr.topic.2022.high.bf587c651591a7f4f044",
     "kr.topic.2022.high.e4aacb513dec3129eb21",
     "kr.topic.2022.high.e7ff50fe5751713c0961"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7505a283984614875e",
+   "titleKorean": "국토 도시 계획 — 국토·지역 계획 검토",
+   "subjectKorean": "국토 도시 계획",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "국토·지역 계획 검토",
+   "summary": "국토 도시 계획의 국토·지역 계획 검토 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 21,
+   "topics": [
+    "kr.topic.2022.high.0090a841f0b4f32a8a97",
+    "kr.topic.2022.high.16d30fe6c23abb1604f8",
+    "kr.topic.2022.high.18d0711646ff7abc905c",
+    "kr.topic.2022.high.1d3fca30a6f68333feae",
+    "kr.topic.2022.high.24b2374ebeda7d30d4bf",
+    "kr.topic.2022.high.25a36c7a711f05fdea8d",
+    "kr.topic.2022.high.33da01b9611627e190e2",
+    "kr.topic.2022.high.5df3333e825fc954df2d",
+    "kr.topic.2022.high.5f76155661baa2f83892",
+    "kr.topic.2022.high.8e6b5bc809b6cab013d9",
+    "kr.topic.2022.high.924accc2370a11357dfa",
+    "kr.topic.2022.high.940ecbe2c644c70fb4d8",
+    "kr.topic.2022.high.97177503c71d3ead1c66",
+    "kr.topic.2022.high.9e8140a5b08ab86ec047",
+    "kr.topic.2022.high.b6804d627dad724ddae9",
+    "kr.topic.2022.high.b8865081c6413ffe2132",
+    "kr.topic.2022.high.bb26c4dc7f4f079e701f",
+    "kr.topic.2022.high.bf3a770c169af3a0b133",
+    "kr.topic.2022.high.c24a8cb764f2dd7a2b87",
+    "kr.topic.2022.high.d84474bc04646a430ffe",
+    "kr.topic.2022.high.e2a1ec455d3c2ac7145f"
    ]
   },
   {
@@ -590,6 +2025,87 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.788bde1a123b8bdf94",
+   "titleKorean": "공간 정보 구축 — 공간 고도 자료 제작",
+   "subjectKorean": "공간 정보 구축",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "공간 고도 자료 제작",
+   "summary": "공간 정보 구축의 공간 고도 자료 제작 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.0924465953c40280229d",
+    "kr.topic.2022.high.13d4fa34e685c518d6d8",
+    "kr.topic.2022.high.1dfc3a8ee6980f233a96",
+    "kr.topic.2022.high.24f9b76c1fc8d6cd302d",
+    "kr.topic.2022.high.27931e29183db8f6be52",
+    "kr.topic.2022.high.80da71a10389bfd2ce54",
+    "kr.topic.2022.high.bedfd9a34f5f41877154",
+    "kr.topic.2022.high.c891ec919db4ce0df737",
+    "kr.topic.2022.high.f42f55369b9fcbb420f1",
+    "kr.topic.2022.high.fa8468d08158998341f6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7a279092aa6aec7982",
+   "titleKorean": "토목 시공 — 토공 도면 파악",
+   "subjectKorean": "토목 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "토공 도면 파악",
+   "summary": "토목 시공의 토공 도면 파악 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.2e7b683e14393fc64dfd",
+    "kr.topic.2022.high.35bf145a2b137f92e66e",
+    "kr.topic.2022.high.90a5df6a624856161f66",
+    "kr.topic.2022.high.adc397020313b3fe6826",
+    "kr.topic.2022.high.b713f9a555fbf261c359",
+    "kr.topic.2022.high.bfb7ef0f35e0712c9da5",
+    "kr.topic.2022.high.e0c390f0326b65e1c8a5",
+    "kr.topic.2022.high.e4b9e15421ea3e0b557e",
+    "kr.topic.2022.high.f8e9e2cb3e1540b2d83d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7bae27327f799a4b71",
+   "titleKorean": "건축 도장 시공 — 목부 유성 페인트 도장",
+   "subjectKorean": "건축 도장 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "목부 유성 페인트 도장",
+   "summary": "건축 도장 시공의 목부 유성 페인트 도장 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.04862eeb0d2bc2e8f6ca",
+    "kr.topic.2022.high.2c754eafa4e119bdff7c",
+    "kr.topic.2022.high.3a2b31ce57ee604ab425",
+    "kr.topic.2022.high.5822b354df9eb54be749",
+    "kr.topic.2022.high.59910be92db9feb6401e",
+    "kr.topic.2022.high.a0402f2f3a3d6cfd667c",
+    "kr.topic.2022.high.bb10e4bcb7bd91911d1a",
+    "kr.topic.2022.high.c01138793e3920916fd1",
+    "kr.topic.2022.high.c4ab8cf69e84b51cb58a",
+    "kr.topic.2022.high.c80c4339b683be7ff572",
+    "kr.topic.2022.high.e3d80e706064226ac4d2",
+    "kr.topic.2022.high.f8ddf5ef85c0ce2ce123"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.7e40adde2dadec73e2",
+   "titleKorean": "토목 설계 — 교량 설계 도면 작성",
+   "subjectKorean": "토목 설계",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "교량 설계 도면 작성",
+   "summary": "토목 설계의 교량 설계 도면 작성 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.5d69b2a37d4d15fef08f",
+    "kr.topic.2022.high.7e5d46c42012d66b112e"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.7e53c07a4ad9ca11e2",
    "titleKorean": "역학 기초 — 기둥",
    "subjectKorean": "역학 기초",
@@ -607,6 +2123,29 @@
     "kr.topic.2022.high.a4c9e3d6310ce1a7e1df",
     "kr.topic.2022.high.a8ea52d5d9c3fb4d4058",
     "kr.topic.2022.high.c039010096c7529fd05b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.811dd5ef472d31a45b",
+   "titleKorean": "건축 마감 시공 — 시멘트 액체 방수",
+   "subjectKorean": "건축 마감 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "시멘트 액체 방수",
+   "summary": "건축 마감 시공의 시멘트 액체 방수 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.2b089c77a0f547fa9d1e",
+    "kr.topic.2022.high.3a3e7412ed394ad37bc9",
+    "kr.topic.2022.high.424a5b6a37af7348ec09",
+    "kr.topic.2022.high.47d0c1564e6d475f21a3",
+    "kr.topic.2022.high.4ccd54295a9772dd6b66",
+    "kr.topic.2022.high.6ccd3758b0cde020e4bd",
+    "kr.topic.2022.high.7283f69e714bbdb3e036",
+    "kr.topic.2022.high.8e0c63477afc4fe48c5e",
+    "kr.topic.2022.high.a2a4e2a24bdd32d600c2",
+    "kr.topic.2022.high.bfaa7bc1b90d536af660",
+    "kr.topic.2022.high.cf13e822256f6daebca1"
    ]
   },
   {
@@ -636,6 +2175,138 @@
     "kr.topic.2022.high.c251378a05a7d56294aa",
     "kr.topic.2022.high.ce578dc1f7623e519ffa",
     "kr.topic.2022.high.e36f06d28665f6779d95"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.85493239091ca35055",
+   "titleKorean": "측량 — 지상 현황 측량",
+   "subjectKorean": "측량",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "지상 현황 측량",
+   "summary": "측량의 지상 현황 측량 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 16,
+   "topics": [
+    "kr.topic.2022.high.1716b7bcd82820528021",
+    "kr.topic.2022.high.17531c0f7f75066b1dd9",
+    "kr.topic.2022.high.33d464fa1120c478cbba",
+    "kr.topic.2022.high.44109561fa7871c171d5",
+    "kr.topic.2022.high.5291f992fe72036a0dd1",
+    "kr.topic.2022.high.53e177380472492ca27b",
+    "kr.topic.2022.high.64302213a835481d1b6d",
+    "kr.topic.2022.high.6a572da6d6be509a2cf9",
+    "kr.topic.2022.high.b10c57444fd9ae826bf2",
+    "kr.topic.2022.high.c1a05516f0d8832f8136",
+    "kr.topic.2022.high.c2a30a4b631bfde7734c",
+    "kr.topic.2022.high.cf6a4b3e399b264af823",
+    "kr.topic.2022.high.d4e69434945df0a2c5c9",
+    "kr.topic.2022.high.d960f0010183f38496e8",
+    "kr.topic.2022.high.f1bb0d7aa5932968fdc0",
+    "kr.topic.2022.high.f27bcbf653d12b0cee1c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.869ebf881c194b3721",
+   "titleKorean": "지적 — 토지 등록",
+   "subjectKorean": "지적",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "토지 등록",
+   "summary": "지적의 토지 등록 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.117e8a7ded39b6900de9",
+    "kr.topic.2022.high.4a0ac3ddea4eccd1e41c",
+    "kr.topic.2022.high.4d570f85dbfab8493088",
+    "kr.topic.2022.high.4ffa016b94a9b92939ee",
+    "kr.topic.2022.high.6550e6b3df0bb3edaeb3",
+    "kr.topic.2022.high.737b4668494a6a2f08cf",
+    "kr.topic.2022.high.abd6d4c1a936847ae613",
+    "kr.topic.2022.high.d9abd89f07772cfa9ac2",
+    "kr.topic.2022.high.f4c7548e325fb2439fa4",
+    "kr.topic.2022.high.f5a9ced92989d0e057ac",
+    "kr.topic.2022.high.f91a2d73512612b24649",
+    "kr.topic.2022.high.f9ca18e712c9a5cc98cd",
+    "kr.topic.2022.high.fce4074073c6a7572e23"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.86dfc1f3298711f616",
+   "titleKorean": "토목 시공 — 토공 현장 조사",
+   "subjectKorean": "토목 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "토공 현장 조사",
+   "summary": "토목 시공의 토공 현장 조사 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.68af0eac3e8de67ca8f7",
+    "kr.topic.2022.high.6c7a3e336ecf305a7534",
+    "kr.topic.2022.high.784dfeb813bea2182a9e",
+    "kr.topic.2022.high.854d88f660dfc819af13",
+    "kr.topic.2022.high.b4a04a41939633a27204",
+    "kr.topic.2022.high.c30a9c163f715eb06b22"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.8735c8a83f2229f74d",
+   "titleKorean": "건축 목공 시공 — 건축 목공 시공 현장 안전",
+   "subjectKorean": "건축 목공 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "건축 목공 시공 현장 안전",
+   "summary": "건축 목공 시공의 건축 목공 시공 현장 안전 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 16,
+   "topics": [
+    "kr.topic.2022.high.0154525f2a828cb0dde3",
+    "kr.topic.2022.high.23fd17cbee404dcaeef9",
+    "kr.topic.2022.high.2a062bfe168b86ae1827",
+    "kr.topic.2022.high.31cf3e98501dafa53346",
+    "kr.topic.2022.high.36c939f296f3a24ffbd9",
+    "kr.topic.2022.high.4dfc163ccae920fb4229",
+    "kr.topic.2022.high.5640bea7ee849d2e2653",
+    "kr.topic.2022.high.5cb8139837f612e03bf6",
+    "kr.topic.2022.high.713568058fba61314565",
+    "kr.topic.2022.high.7ad64180670588c56dfa",
+    "kr.topic.2022.high.a720872842876df48baa",
+    "kr.topic.2022.high.d42ad79ed510488b8b21",
+    "kr.topic.2022.high.e229ddfdc65ddc0cc6de",
+    "kr.topic.2022.high.e7c6f6413863bfcab7b8",
+    "kr.topic.2022.high.f005e3aea1b27a7fd0d2",
+    "kr.topic.2022.high.ff856a01913018ac73ee"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.8775be696e97103fb9",
+   "titleKorean": "건축 도장 시공 — 도포면 바탕 처리",
+   "subjectKorean": "건축 도장 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "도포면 바탕 처리",
+   "summary": "건축 도장 시공의 도포면 바탕 처리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 21,
+   "topics": [
+    "kr.topic.2022.high.0191a29f4fbf48572982",
+    "kr.topic.2022.high.184cda6730e18c26e760",
+    "kr.topic.2022.high.1dbcc774350146b256cd",
+    "kr.topic.2022.high.44176523394f2b8cb67f",
+    "kr.topic.2022.high.4f7ec4d805decb8ed5c5",
+    "kr.topic.2022.high.4fbf2e489f5488dfd4fe",
+    "kr.topic.2022.high.7081f4db384c681cdf15",
+    "kr.topic.2022.high.7172cfd7388f95a787e3",
+    "kr.topic.2022.high.7abd71a03fcdaddc876d",
+    "kr.topic.2022.high.7f90e520e170825e6beb",
+    "kr.topic.2022.high.9005e1ddb3b126f16aee",
+    "kr.topic.2022.high.97a0191415304d9c9ad6",
+    "kr.topic.2022.high.a9f9f4b24dff8a8f68b6",
+    "kr.topic.2022.high.ba6a47e92f25171529e2",
+    "kr.topic.2022.high.c3552fdb467f75afb3bd",
+    "kr.topic.2022.high.c7751f0560fc3b3e6919",
+    "kr.topic.2022.high.cd6960bdf3341fb00f2a",
+    "kr.topic.2022.high.df6673a16ed10993c4ed",
+    "kr.topic.2022.high.ecbfc7ed72d9330a9d23",
+    "kr.topic.2022.high.f4ebb4d336196c4d40a4",
+    "kr.topic.2022.high.f6380f0411ea2d3a0e4f"
    ]
   },
   {
@@ -688,6 +2359,28 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.8961eebe98be9a6bc8",
+   "titleKorean": "건축 도장 시공 — 석고 보드면 도장",
+   "subjectKorean": "건축 도장 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "석고 보드면 도장",
+   "summary": "건축 도장 시공의 석고 보드면 도장 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.365f1ad5dce102c10676",
+    "kr.topic.2022.high.555b3ab31ea1c1fcd2e8",
+    "kr.topic.2022.high.5c0d0cb79788719e2938",
+    "kr.topic.2022.high.762456d5f5697feb84b2",
+    "kr.topic.2022.high.b8812c82803afe22b551",
+    "kr.topic.2022.high.d851ccb256edb06d627b",
+    "kr.topic.2022.high.d979f7802ee2d7d1375e",
+    "kr.topic.2022.high.e703f3e989e50f49688d",
+    "kr.topic.2022.high.f1b0c7fb2db0aecb9b64",
+    "kr.topic.2022.high.f70b0569d3b6904258b7"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.8af4ec3968ff8e12be",
    "titleKorean": "토질·수리 — 기초",
    "subjectKorean": "토질·수리",
@@ -700,6 +2393,32 @@
     "kr.topic.2022.high.26e2577620c758209dc8",
     "kr.topic.2022.high.aed884a5ef63e1506e5c",
     "kr.topic.2022.high.fc01ace40d0a48353135"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.8b2509acfe0bb7c7ee",
+   "titleKorean": "국토 도시 계획 — 국토·지역 현황 조사",
+   "subjectKorean": "국토 도시 계획",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "국토·지역 현황 조사",
+   "summary": "국토 도시 계획의 국토·지역 현황 조사 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 14,
+   "topics": [
+    "kr.topic.2022.high.34a60dd599f746b4547f",
+    "kr.topic.2022.high.3c1ab482a965616e3ba5",
+    "kr.topic.2022.high.43d04381ee88f895191a",
+    "kr.topic.2022.high.45a2e2ce3def94c19b15",
+    "kr.topic.2022.high.55f36e7d26a3884d9296",
+    "kr.topic.2022.high.8393a84262eae7375e79",
+    "kr.topic.2022.high.8cf67a8207f21c971c22",
+    "kr.topic.2022.high.9f33639a1a09fa39af4a",
+    "kr.topic.2022.high.a1c42c36e221d8c8dc87",
+    "kr.topic.2022.high.b633fb9917ee00f3ec91",
+    "kr.topic.2022.high.b98a08070f09e0642f98",
+    "kr.topic.2022.high.be6824dbc63586321d52",
+    "kr.topic.2022.high.df482b9b3a584abfe58e",
+    "kr.topic.2022.high.e2c21c015dd117a267fe"
    ]
   },
   {
@@ -727,6 +2446,187 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.8f2b28e5007ef7561c",
+   "titleKorean": "주거 서비스 — 주거 서비스 조사 분석",
+   "subjectKorean": "주거 서비스",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "주거 서비스 조사 분석",
+   "summary": "주거 서비스의 주거 서비스 조사 분석 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.081a69bbab624d5cddd4",
+    "kr.topic.2022.high.096eae95f9d433670c1c",
+    "kr.topic.2022.high.22d00d1f8f81b463fa82",
+    "kr.topic.2022.high.2c4208f1d7453cedfbc3",
+    "kr.topic.2022.high.35a5fea3f4c6d08279cc",
+    "kr.topic.2022.high.761bd8c4a87815dc4713",
+    "kr.topic.2022.high.7cb597a3ee4645a514c2",
+    "kr.topic.2022.high.b783697fba51db0277d9",
+    "kr.topic.2022.high.cf0e6f6d46fd5cfd2406",
+    "kr.topic.2022.high.ea547d78652499a9cde5",
+    "kr.topic.2022.high.f573bf8cecdc696ff314",
+    "kr.topic.2022.high.fa06dda1f0905b3b40fe"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9359699c1d540afa17",
+   "titleKorean": "토목 설계 — 상하수도 설계 도면 작성",
+   "subjectKorean": "토목 설계",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "상하수도 설계 도면 작성",
+   "summary": "토목 설계의 상하수도 설계 도면 작성 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.008f8c0c8c505b83cf3b",
+    "kr.topic.2022.high.e4e56fbc73081ad5994f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.94bc7e9acebdf1f662",
+   "titleKorean": "주거 서비스 — 영역 05",
+   "subjectKorean": "주거 서비스",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "주거 서비스의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.09beca8eb4703fa22afa",
+    "kr.topic.2022.high.432afc830ec413030c57",
+    "kr.topic.2022.high.b8a87505bbdd1c6ae2a0"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.95261f1e452af3a72e",
+   "titleKorean": "주거 서비스 — 주거 서비스 정보 체계 운영",
+   "subjectKorean": "주거 서비스",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "주거 서비스 정보 체계 운영",
+   "summary": "주거 서비스의 주거 서비스 정보 체계 운영 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.287439c0106e72706618",
+    "kr.topic.2022.high.55fe97950962077af5fb",
+    "kr.topic.2022.high.56c5a01cc86982680d01",
+    "kr.topic.2022.high.7dd6001c9221314c8f3e",
+    "kr.topic.2022.high.8ff1f7c116823134b1d9",
+    "kr.topic.2022.high.9c5c9c5d0693cffa6a1e",
+    "kr.topic.2022.high.9ec1122eca5bc36cd8d8",
+    "kr.topic.2022.high.b4f854bcedce01584af4",
+    "kr.topic.2022.high.b8e8d745fa50bf05392d",
+    "kr.topic.2022.high.e9f6f091d877aa581e20"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.96fc43e787f3ab4ee3",
+   "titleKorean": "건축 마감 시공 — 시트 방수",
+   "subjectKorean": "건축 마감 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "시트 방수",
+   "summary": "건축 마감 시공의 시트 방수 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.14e270d848b7160e7430",
+    "kr.topic.2022.high.344266868a06b29e1fee",
+    "kr.topic.2022.high.50a1a9542a6be1fff478",
+    "kr.topic.2022.high.7115712a19e59050d33f",
+    "kr.topic.2022.high.74b09f9131708ce9bc8f",
+    "kr.topic.2022.high.8a96448b341b3265269c",
+    "kr.topic.2022.high.8be004bf6070efed9736",
+    "kr.topic.2022.high.a8bde5530d22c5e68b34",
+    "kr.topic.2022.high.ac2ddbfe9c9fb127b4a4",
+    "kr.topic.2022.high.c669d150c58a082c4e99",
+    "kr.topic.2022.high.df996b37bd5001e31f9f",
+    "kr.topic.2022.high.f77572efe773f64458e7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.97ae1a84b495f42228",
+   "titleKorean": "소형 무인기 운용 ․ 조종 — 소형 무인기 공간 정보 운용",
+   "subjectKorean": "소형 무인기 운용 ․ 조종",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "소형 무인기 공간 정보 운용",
+   "summary": "소형 무인기 운용 ․ 조종의 소형 무인기 공간 정보 운용 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 21,
+   "topics": [
+    "kr.topic.2022.high.0d60802f84e76907da8d",
+    "kr.topic.2022.high.1dd27ede512977490e5f",
+    "kr.topic.2022.high.354237632b9664414bcb",
+    "kr.topic.2022.high.59b1c98ac688391f72ea",
+    "kr.topic.2022.high.6517b8e811992fb590ef",
+    "kr.topic.2022.high.6bf5bb7c284f2b9e5584",
+    "kr.topic.2022.high.6c7808c6b077b8692c9c",
+    "kr.topic.2022.high.6c89102a75e0a06c400f",
+    "kr.topic.2022.high.71b69fb51c23f72dfa84",
+    "kr.topic.2022.high.87df9fc34e72eb0c65d7",
+    "kr.topic.2022.high.939f3b1f9a47cd67a4a6",
+    "kr.topic.2022.high.95b1e964ccf8e84279dc",
+    "kr.topic.2022.high.95b9272f46e04bb4ec96",
+    "kr.topic.2022.high.a27d36679d2d335e115a",
+    "kr.topic.2022.high.a6223bead3095349b908",
+    "kr.topic.2022.high.b891720fdca22b9304bd",
+    "kr.topic.2022.high.bc30c82d946224f2c38c",
+    "kr.topic.2022.high.c528a3cf24fe1fa4170e",
+    "kr.topic.2022.high.e62f0c97c04021aa8501",
+    "kr.topic.2022.high.ea56025a29157bd92715",
+    "kr.topic.2022.high.ed04d4c11426b37b661e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9b6f57952df58ecfac",
+   "titleKorean": "건축 마감 시공 — 모서리 및 벽면 비드 설치",
+   "subjectKorean": "건축 마감 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "모서리 및 벽면 비드 설치",
+   "summary": "건축 마감 시공의 모서리 및 벽면 비드 설치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.1e75adf3b4f1173fe3ab",
+    "kr.topic.2022.high.2949907a045c22dd87c7",
+    "kr.topic.2022.high.2f7741466236dfce690e",
+    "kr.topic.2022.high.47b6b9a70bd8df9cb60b",
+    "kr.topic.2022.high.58b45949af5e18d5cbe8",
+    "kr.topic.2022.high.7538b8eab419d811eefc",
+    "kr.topic.2022.high.8ab31749b872ee755144",
+    "kr.topic.2022.high.af7d4c3ea1cd8a672a82",
+    "kr.topic.2022.high.bbe1212baadd4674a6a9",
+    "kr.topic.2022.high.c55a528c18acce478694",
+    "kr.topic.2022.high.f6a7f9aa856ec8b813b3"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9c698559407dbad74d",
+   "titleKorean": "교통 계획･설계 — 교통 환경 조사 분석",
+   "subjectKorean": "교통 계획･설계",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "교통 환경 조사 분석",
+   "summary": "교통 계획･설계의 교통 환경 조사 분석 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 14,
+   "topics": [
+    "kr.topic.2022.high.1e7a9dd42604f529544b",
+    "kr.topic.2022.high.241ac7697d7a74e23b64",
+    "kr.topic.2022.high.41fa3e32dbcf3a92ae54",
+    "kr.topic.2022.high.75243d1fa697f9d303ae",
+    "kr.topic.2022.high.840c924149319ee23d6f",
+    "kr.topic.2022.high.8e7ec6d27f994f21b3c8",
+    "kr.topic.2022.high.9e612036ef4aaecea7c0",
+    "kr.topic.2022.high.a3671854ac4cb29b7d54",
+    "kr.topic.2022.high.c2bc818e7ef5301a4d85",
+    "kr.topic.2022.high.cc32ebcb40d75df3f30a",
+    "kr.topic.2022.high.cf470f78b9177cb38a51",
+    "kr.topic.2022.high.e068dd22886bbe2df543",
+    "kr.topic.2022.high.e67a4969c9e0e3216558",
+    "kr.topic.2022.high.f0eeb895e874cf846db4"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.9cd71fd4e9cb63b91f",
    "titleKorean": "건설 재료 — 건설 재료의 이해",
    "subjectKorean": "건설 재료",
@@ -747,6 +2647,57 @@
     "kr.topic.2022.high.cddfc4e18b774a703c51",
     "kr.topic.2022.high.d5d3c02bed25af8b921e",
     "kr.topic.2022.high.e6cf6eb5dbeb3ecd3588"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9df41c1cba2cf11abf",
+   "titleKorean": "철근 콘크리트 시공 — 철근 콘크리트 시공 도면 검토",
+   "subjectKorean": "철근 콘크리트 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "철근 콘크리트 시공 도면 검토",
+   "summary": "철근 콘크리트 시공의 철근 콘크리트 시공 도면 검토 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.065dada07b71ceedd2aa",
+    "kr.topic.2022.high.1778d20a91f451223bb2",
+    "kr.topic.2022.high.41a230b6793a43297c91",
+    "kr.topic.2022.high.5e2a05f0ec73be0f0cb3",
+    "kr.topic.2022.high.9b42a27a9351740b2936",
+    "kr.topic.2022.high.a95f00d84b170c62a61f",
+    "kr.topic.2022.high.aa9e27f66ae713e25d5b",
+    "kr.topic.2022.high.ac346dfbeca284fa3394",
+    "kr.topic.2022.high.bc3b288e4204ecb9c273",
+    "kr.topic.2022.high.ce2f6bb60885c20bda2b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.9f90fd4a5f2f249a44",
+   "titleKorean": "공간 정보 융합 서비스 — 공간 정보 융합 콘텐츠 시각화",
+   "subjectKorean": "공간 정보 융합 서비스",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "공간 정보 융합 콘텐츠 시각화",
+   "summary": "공간 정보 융합 서비스의 공간 정보 융합 콘텐츠 시각화 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 17,
+   "topics": [
+    "kr.topic.2022.high.3318ab218e7fdc4edcfb",
+    "kr.topic.2022.high.4604794e6de896000ad4",
+    "kr.topic.2022.high.4e19e5b5cafface6cef1",
+    "kr.topic.2022.high.532281aa5f876ce9c06e",
+    "kr.topic.2022.high.567991a32331282b93a2",
+    "kr.topic.2022.high.669fe131ca63ffecdef2",
+    "kr.topic.2022.high.79c21f3a968d5c21f97c",
+    "kr.topic.2022.high.96def815fa0968ddd67e",
+    "kr.topic.2022.high.99572b7d35149ebd4f4e",
+    "kr.topic.2022.high.b274ea0a3f27c124b0e0",
+    "kr.topic.2022.high.c80222de22b086be36a9",
+    "kr.topic.2022.high.d253847146712003d687",
+    "kr.topic.2022.high.d3610431f65ac945a013",
+    "kr.topic.2022.high.d3c90482277b94a87148",
+    "kr.topic.2022.high.d6b3e20ed74fe2292c51",
+    "kr.topic.2022.high.e414d8d5a59e4643afbf",
+    "kr.topic.2022.high.f5e24909b1c094bfdde0"
    ]
   },
   {
@@ -774,6 +2725,27 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.a1092765f0ba370f16",
+   "titleKorean": "건축 도장 시공 — 건축 도장 시공 보수",
+   "subjectKorean": "건축 도장 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "건축 도장 시공 보수",
+   "summary": "건축 도장 시공의 건축 도장 시공 보수 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.162fbeb764fcc7ab57d9",
+    "kr.topic.2022.high.6523f2cd9a4f30059d1e",
+    "kr.topic.2022.high.7036ff918902f046a99d",
+    "kr.topic.2022.high.7ce51a5da0d1d8a3f55d",
+    "kr.topic.2022.high.883b6d6f7649adbacc58",
+    "kr.topic.2022.high.ad91dbcba738b3b50989",
+    "kr.topic.2022.high.c378d95963a01cc99c85",
+    "kr.topic.2022.high.f06145a6d754f68fbaff",
+    "kr.topic.2022.high.f754585ae972ab5dfd4f"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.a15b66fd27242e7cef",
    "titleKorean": "건축 기초 실습 — 타일 실습",
    "subjectKorean": "건축 기초 실습",
@@ -794,6 +2766,31 @@
     "kr.topic.2022.high.bca484858be1840162f5",
     "kr.topic.2022.high.ce71d6132322a9b0b87d",
     "kr.topic.2022.high.ed7fd9bd2b5a05fef06e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a17bedaeb2b82c8060",
+   "titleKorean": "토목 시공 — 토공 흙 굴착 및 터 파기",
+   "subjectKorean": "토목 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "토공 흙 굴착 및 터 파기",
+   "summary": "토목 시공의 토공 흙 굴착 및 터 파기 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.158a75099ecb287e1041",
+    "kr.topic.2022.high.1da70e28007f6a8e67be",
+    "kr.topic.2022.high.203f16995cd0414d833a",
+    "kr.topic.2022.high.21a0ee17d0b1ffe9691e",
+    "kr.topic.2022.high.4a258792db86fbfe70e8",
+    "kr.topic.2022.high.569edde70df916baf645",
+    "kr.topic.2022.high.626b6ff1cdced25f072a",
+    "kr.topic.2022.high.7c932410e7b2874527f4",
+    "kr.topic.2022.high.9a14b5853a03cf2820be",
+    "kr.topic.2022.high.a90d476fb45400b1a6ad",
+    "kr.topic.2022.high.b24b38f744feaba751bf",
+    "kr.topic.2022.high.e2814cb90dad44846dcf",
+    "kr.topic.2022.high.e5e6b1e4f3a49cd953aa"
    ]
   },
   {
@@ -865,6 +2862,64 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.a5bd483c7a21e38b5f",
+   "titleKorean": "소형 무인기 운용 ․ 조종 — 회전익 소형 무인기 비행",
+   "subjectKorean": "소형 무인기 운용 ․ 조종",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "회전익 소형 무인기 비행",
+   "summary": "소형 무인기 운용 ․ 조종의 회전익 소형 무인기 비행 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 21,
+   "topics": [
+    "kr.topic.2022.high.15c0ec6d506a3add5f17",
+    "kr.topic.2022.high.1948cec5451a1f3941b8",
+    "kr.topic.2022.high.201e1cf33819d4600554",
+    "kr.topic.2022.high.202a9e66c60c3ce533c6",
+    "kr.topic.2022.high.294b7f85ca724dff1a51",
+    "kr.topic.2022.high.32033829e6fd86d2c4c0",
+    "kr.topic.2022.high.376745d31ee7ccd45969",
+    "kr.topic.2022.high.7690e4297ce1ff09ab85",
+    "kr.topic.2022.high.76b93312eabf5c39d8c9",
+    "kr.topic.2022.high.7b1543296cda807ae1bc",
+    "kr.topic.2022.high.859f2ccd07abf18af808",
+    "kr.topic.2022.high.8d1e42ed9ad42026c5b4",
+    "kr.topic.2022.high.94713ee572fc71a05ccf",
+    "kr.topic.2022.high.a013c16c2562418aa110",
+    "kr.topic.2022.high.af00b6c95d8e97a53a1a",
+    "kr.topic.2022.high.b6d8c7c28dab23defcd1",
+    "kr.topic.2022.high.b9afe0eb9072cc8778c6",
+    "kr.topic.2022.high.c121281b23ecbc9ebfd1",
+    "kr.topic.2022.high.e6b76947a2bb88e19413",
+    "kr.topic.2022.high.f4615f37f1fdf0d59532",
+    "kr.topic.2022.high.fc5f1db92fe8985d0e25"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a817a455e7424915f5",
+   "titleKorean": "철근 콘크리트 시공 — 콘크리트 타설 양생",
+   "subjectKorean": "철근 콘크리트 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "콘크리트 타설 양생",
+   "summary": "철근 콘크리트 시공의 콘크리트 타설 양생 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.3067884fac0ec10aee91",
+    "kr.topic.2022.high.758d4126e6bf173ded54",
+    "kr.topic.2022.high.77d2e8eb9226e164db72",
+    "kr.topic.2022.high.7e60eae0999bcef6d6d2",
+    "kr.topic.2022.high.8d7ddcef1e7e22d47f80",
+    "kr.topic.2022.high.ab37a1d451596342bb56",
+    "kr.topic.2022.high.ab6ef6db1736a6ff6b9d",
+    "kr.topic.2022.high.b0a1cc9dad3b9d13bcb0",
+    "kr.topic.2022.high.b0f01c6f03fd1de7e99d",
+    "kr.topic.2022.high.b0f593481dde6c85c4db",
+    "kr.topic.2022.high.e4bc88fef46b8c6de68d",
+    "kr.topic.2022.high.e7650f9abefb5549903e",
+    "kr.topic.2022.high.f14d53f908eda071a3aa"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.a8a1427708399f89da",
    "titleKorean": "역학 기초 — 재료의 역학적 성질",
    "subjectKorean": "역학 기초",
@@ -879,6 +2934,28 @@
     "kr.topic.2022.high.a09634ae78d52933726e",
     "kr.topic.2022.high.aebe7590afbb163542de",
     "kr.topic.2022.high.d5d716507cbec79a315b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ace4835e18d51dc678",
+   "titleKorean": "토목 시공 — 석축 도면 파악",
+   "subjectKorean": "토목 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "석축 도면 파악",
+   "summary": "토목 시공의 석축 도면 파악 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.11869c648044734f8f16",
+    "kr.topic.2022.high.231df0a7c579189d2182",
+    "kr.topic.2022.high.28d773d4f80c7e5fbccb",
+    "kr.topic.2022.high.31c743648f96749726ff",
+    "kr.topic.2022.high.649b53e8a0518f678d97",
+    "kr.topic.2022.high.7e4e489861d410609897",
+    "kr.topic.2022.high.8072d187aaadf5a47a94",
+    "kr.topic.2022.high.970cb5f9d2e76ee5bfa9",
+    "kr.topic.2022.high.cb35fdc6ea0799e78068",
+    "kr.topic.2022.high.fd8d1577aa67d0c881c2"
    ]
   },
   {
@@ -904,6 +2981,52 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.ae3584f3c936a38f34",
+   "titleKorean": "철근 콘크리트 시공 — 철근 가공 조립 검사",
+   "subjectKorean": "철근 콘크리트 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "철근 가공 조립 검사",
+   "summary": "철근 콘크리트 시공의 철근 가공 조립 검사 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.03315755cb9acaa525ef",
+    "kr.topic.2022.high.0f2bb5c7c1f137f44b68",
+    "kr.topic.2022.high.437703679c03b139aa39",
+    "kr.topic.2022.high.5b68af71eddc2c81daa9",
+    "kr.topic.2022.high.7eb3dc600e7e6aebfe83",
+    "kr.topic.2022.high.a6c66a19801370b51a46",
+    "kr.topic.2022.high.df0561b06d2c5c98f2df",
+    "kr.topic.2022.high.ebbff4bf2b5dc450ccec",
+    "kr.topic.2022.high.ee26289c2e0c1383b110"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.af07d15e16cfc6fb42",
+   "titleKorean": "건축 목공 시공 — 먹매김",
+   "subjectKorean": "건축 목공 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "먹매김",
+   "summary": "건축 목공 시공의 먹매김 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.021a9fdf9064cbd71376",
+    "kr.topic.2022.high.3a07f0f597f2ce963757",
+    "kr.topic.2022.high.597a04222aaf6b23e6de",
+    "kr.topic.2022.high.5be69b0bb3e7599b7195",
+    "kr.topic.2022.high.5fda05c9c0e71baa45e4",
+    "kr.topic.2022.high.6c67b7f91e3d778211d2",
+    "kr.topic.2022.high.77021b6609d81482b299",
+    "kr.topic.2022.high.7eef7bae7e7537cb5a98",
+    "kr.topic.2022.high.835492c21947ab4437bf",
+    "kr.topic.2022.high.891eefb5a064e16833f2",
+    "kr.topic.2022.high.96bdfeb41c3585272859",
+    "kr.topic.2022.high.ab606a8e3dbfe523efde",
+    "kr.topic.2022.high.c308911735f22f3e130e"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.af3144d073b1cc1314",
    "titleKorean": "스마트 시티 기초 — 스마트 시티의 기본적 이해",
    "subjectKorean": "스마트 시티 기초",
@@ -919,6 +3042,37 @@
     "kr.topic.2022.high.97e33f19310de6725b90",
     "kr.topic.2022.high.d7627d7b13e2907177ad",
     "kr.topic.2022.high.ee6fa73b0692a99236b0"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.af57da29a40b78366a",
+   "titleKorean": "토목 시공 — 토공 현장 안전",
+   "subjectKorean": "토목 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "토공 현장 안전",
+   "summary": "토목 시공의 토공 현장 안전 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 19,
+   "topics": [
+    "kr.topic.2022.high.11337f3c2316389b9ec8",
+    "kr.topic.2022.high.24810f7df44ccea83472",
+    "kr.topic.2022.high.47882c4dac5450760345",
+    "kr.topic.2022.high.479d5106e7b6c75b30d1",
+    "kr.topic.2022.high.654e2d705657e9783aa5",
+    "kr.topic.2022.high.6be2ffd0a075eb936283",
+    "kr.topic.2022.high.871264232d7c2a2f04e5",
+    "kr.topic.2022.high.9b0d35035a903725834c",
+    "kr.topic.2022.high.9b7fc0f3b2c27dbcefa1",
+    "kr.topic.2022.high.a9822599102dfcaab55a",
+    "kr.topic.2022.high.b7156fb765ead00291dd",
+    "kr.topic.2022.high.bc6e0f4b22d57a2c0eab",
+    "kr.topic.2022.high.d5ec21111f609a07bc81",
+    "kr.topic.2022.high.dcd7b32a1419a37a5c25",
+    "kr.topic.2022.high.e1a03c967a6bb79423c7",
+    "kr.topic.2022.high.e4701899d20b89809c79",
+    "kr.topic.2022.high.eb4f4ea119b894ece84c",
+    "kr.topic.2022.high.ebbe05babbaa7f4d6063",
+    "kr.topic.2022.high.f71f9ea4281fbbe2f026"
    ]
   },
   {
@@ -938,6 +3092,106 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.b05972e3ae0131c505",
+   "titleKorean": "국토 도시 계획 — 국토·지역 현황 분석",
+   "subjectKorean": "국토 도시 계획",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "국토·지역 현황 분석",
+   "summary": "국토 도시 계획의 국토·지역 현황 분석 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 18,
+   "topics": [
+    "kr.topic.2022.high.0b8c5bd87fef0665b692",
+    "kr.topic.2022.high.17fb274c50bf07c53fbe",
+    "kr.topic.2022.high.226cd5b4e44316ddd567",
+    "kr.topic.2022.high.2b6a5329ada2ed8e1251",
+    "kr.topic.2022.high.332473259d9f59684880",
+    "kr.topic.2022.high.34b0df3d5375dc1bb4d8",
+    "kr.topic.2022.high.3d1b5d349bf57aa30bfb",
+    "kr.topic.2022.high.4afb352064115a564edb",
+    "kr.topic.2022.high.8367c094945af0e46c17",
+    "kr.topic.2022.high.8b83ddc10f6ec8c4d346",
+    "kr.topic.2022.high.8ecf896a3dce452823ac",
+    "kr.topic.2022.high.8f46a4724b7a18ebcd94",
+    "kr.topic.2022.high.961bd07d538e90006be2",
+    "kr.topic.2022.high.9c5d33fa705b6bbff247",
+    "kr.topic.2022.high.a681a86139d8324908f0",
+    "kr.topic.2022.high.c0624d6ea28f556102b7",
+    "kr.topic.2022.high.ea458b3c7618be245b52",
+    "kr.topic.2022.high.f2ed7383f688cf8a7c66"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b0dd3759eda097ba52",
+   "titleKorean": "건축 목공 시공 — 벽 설치",
+   "subjectKorean": "건축 목공 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "벽 설치",
+   "summary": "건축 목공 시공의 벽 설치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 16,
+   "topics": [
+    "kr.topic.2022.high.00ad3fdddc47bfe998e1",
+    "kr.topic.2022.high.283cbda0f9422014086e",
+    "kr.topic.2022.high.2b50efe0e7cfadc4abde",
+    "kr.topic.2022.high.2cc44ac531895eabdaf1",
+    "kr.topic.2022.high.462e176518158ac20534",
+    "kr.topic.2022.high.62726bc21fe11e280c57",
+    "kr.topic.2022.high.7b6567ebcf3b9ddb2ac2",
+    "kr.topic.2022.high.92cd1fa10f243c2dd2dc",
+    "kr.topic.2022.high.9a53e975eddd8e115209",
+    "kr.topic.2022.high.c517522c3d92f50df091",
+    "kr.topic.2022.high.d083c63ad856c98785cc",
+    "kr.topic.2022.high.d11d4a567e9ceb3b2a82",
+    "kr.topic.2022.high.e9c1cc2d53851cb63554",
+    "kr.topic.2022.high.ec0cdcc2ca135f936801",
+    "kr.topic.2022.high.f66c5dd50e58ae8d774b",
+    "kr.topic.2022.high.fe5b1bbeee65f15cf772"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b38e0df1a96ff0eab4",
+   "titleKorean": "건축 마감 시공 — 조적 미장 시공 도면 검토",
+   "subjectKorean": "건축 마감 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "조적 미장 시공 도면 검토",
+   "summary": "건축 마감 시공의 조적 미장 시공 도면 검토 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.2adc4304db6e47da86f8",
+    "kr.topic.2022.high.6867ccaa4c552e9b6374",
+    "kr.topic.2022.high.6e0e665b27d9d9efa2c4",
+    "kr.topic.2022.high.6f0d8513025a22b1f34f",
+    "kr.topic.2022.high.876a4042adbbe15a302b",
+    "kr.topic.2022.high.9f4bef1e3f961270f9bf",
+    "kr.topic.2022.high.cec9ec69c1d100094cc9",
+    "kr.topic.2022.high.d9fdde426bacc8acac5d",
+    "kr.topic.2022.high.e50a54342c4693fc0f67",
+    "kr.topic.2022.high.ec2b02b063d1e0dd864a",
+    "kr.topic.2022.high.f2401fb0b2b1a419710b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b3c3973466a6f0e848",
+   "titleKorean": "주거 서비스 — 주거 서비스 공간 기획",
+   "subjectKorean": "주거 서비스",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "주거 서비스 공간 기획",
+   "summary": "주거 서비스의 주거 서비스 공간 기획 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.7f5f3bea6c117cee959e",
+    "kr.topic.2022.high.87d18070bff60cb3c6ad",
+    "kr.topic.2022.high.b3457f813d4dfe9e97f3",
+    "kr.topic.2022.high.bae504a3dc160d00f70d",
+    "kr.topic.2022.high.cc7352915aacedc30f20",
+    "kr.topic.2022.high.d4a19765a5eedd12b439",
+    "kr.topic.2022.high.e624ac2d047892058dfa"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.b50cce7d5ee79e9243",
    "titleKorean": "기초 제도 — 제도의 개요",
    "subjectKorean": "기초 제도",
@@ -953,6 +3207,42 @@
     "kr.topic.2022.high.b1d7234a0d83c0f8185c",
     "kr.topic.2022.high.b70ece714db95fb0f5e3",
     "kr.topic.2022.high.c8aac6d7493fa37a9d71"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b5354e32b031b841c4",
+   "titleKorean": "토목 설계 — 도로 설계 노선 계획",
+   "subjectKorean": "토목 설계",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "도로 설계 노선 계획",
+   "summary": "토목 설계의 도로 설계 노선 계획 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.686f43f8d11ba31feb0c",
+    "kr.topic.2022.high.91d8b4a441b1248e2199"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.b79af3962e2370489e",
+   "titleKorean": "교통 계획･설계 — 교통 수요 분석",
+   "subjectKorean": "교통 계획･설계",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "교통 수요 분석",
+   "summary": "교통 계획･설계의 교통 수요 분석 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.01dc02b32da0010eef37",
+    "kr.topic.2022.high.28fec6a6957e790a438f",
+    "kr.topic.2022.high.3470e8d0a708846d6fd8",
+    "kr.topic.2022.high.4831ddc81b7c51c70e88",
+    "kr.topic.2022.high.5a2015fe4687f412527b",
+    "kr.topic.2022.high.96f253993ae4d396b1ff",
+    "kr.topic.2022.high.97acde25f1c2370691b7",
+    "kr.topic.2022.high.a38e0fdc9c49f8a0a9c9",
+    "kr.topic.2022.high.ba5252579fa3c91f9754",
+    "kr.topic.2022.high.d4032f18f1680c0b5511"
    ]
   },
   {
@@ -989,6 +3279,46 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.b95108fe366aa42a4a",
+   "titleKorean": "소형 무인기 운용 ․ 조종 — 소형 무인기 살포 운용",
+   "subjectKorean": "소형 무인기 운용 ․ 조종",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "소형 무인기 살포 운용",
+   "summary": "소형 무인기 운용 ․ 조종의 소형 무인기 살포 운용 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 28,
+   "topics": [
+    "kr.topic.2022.high.01ed39a7a69462c98d40",
+    "kr.topic.2022.high.0ea59f6135b8955de13b",
+    "kr.topic.2022.high.0f0b885b4313abcb747a",
+    "kr.topic.2022.high.0f3e295e9503d1d058c9",
+    "kr.topic.2022.high.159b92f94fe847266ea3",
+    "kr.topic.2022.high.198f0edd927c5e042c56",
+    "kr.topic.2022.high.1c6926fadbce3429f7b2",
+    "kr.topic.2022.high.2d73b6d64ace48640839",
+    "kr.topic.2022.high.40292141ca11607a5a5d",
+    "kr.topic.2022.high.4a60480af3f281cf7aa9",
+    "kr.topic.2022.high.4cca9872935dc8039546",
+    "kr.topic.2022.high.59e0f8d48d2703b20963",
+    "kr.topic.2022.high.67c636303932442181e6",
+    "kr.topic.2022.high.706bb17a1dc77b631b57",
+    "kr.topic.2022.high.87a45b59a8095851239c",
+    "kr.topic.2022.high.b1617866be051702c158",
+    "kr.topic.2022.high.b66e37eac0e920b729ea",
+    "kr.topic.2022.high.c2764417e52389912a46",
+    "kr.topic.2022.high.c459a8f84afb9a18fd79",
+    "kr.topic.2022.high.c4bb425158e8f6f576b1",
+    "kr.topic.2022.high.cabff8e3a22d68f43352",
+    "kr.topic.2022.high.cd6ed7920223bf8a7f6d",
+    "kr.topic.2022.high.d07161f0f7261170dc22",
+    "kr.topic.2022.high.e227431222912f9deed9",
+    "kr.topic.2022.high.e6302f0e759c041089f4",
+    "kr.topic.2022.high.ebd9479d38af5bbbd3cc",
+    "kr.topic.2022.high.ee7a1c85d840b1ff1f94",
+    "kr.topic.2022.high.f6ee4269d9f7e7c5f80b"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.b95c2b5a7de9fadc7a",
    "titleKorean": "공업 일반 — 공업 경영",
    "subjectKorean": "공업 일반",
@@ -1013,6 +3343,31 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.bb26cb1b83406e867f",
+   "titleKorean": "건축 목공 시공 — 시공 준비",
+   "subjectKorean": "건축 목공 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "시공 준비",
+   "summary": "건축 목공 시공의 시공 준비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.110634eca82b2961605e",
+    "kr.topic.2022.high.17703a9786525876d939",
+    "kr.topic.2022.high.226809e154bafac002c3",
+    "kr.topic.2022.high.434abb25d5bd644a3fe1",
+    "kr.topic.2022.high.52b03ba0c4a33766645a",
+    "kr.topic.2022.high.657ed5ef37eba9513401",
+    "kr.topic.2022.high.697ca96dd232a65a8390",
+    "kr.topic.2022.high.85fe8b8b6fc9a28c38c9",
+    "kr.topic.2022.high.a61f6f225e7c8753158d",
+    "kr.topic.2022.high.bd8e28cceb6b0be01d39",
+    "kr.topic.2022.high.c6f4749818bfca5fefe3",
+    "kr.topic.2022.high.cc1e23cf39b2bc89cbda",
+    "kr.topic.2022.high.eb8587f90286dc58ed86"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.bb63cffcad3d6518b1",
    "titleKorean": "측량 기초 — 측량의 개요",
    "subjectKorean": "측량 기초",
@@ -1031,6 +3386,53 @@
     "kr.topic.2022.high.845153ffc0b57190f4f0",
     "kr.topic.2022.high.c1c29638dea63c6376d4",
     "kr.topic.2022.high.d58649b78e0fc94018cc"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.bd8bf41081876f4c87",
+   "titleKorean": "토목 설계 — 댐 설계 기본 계획",
+   "subjectKorean": "토목 설계",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "댐 설계 기본 계획",
+   "summary": "토목 설계의 댐 설계 기본 계획 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 1,
+   "topics": [
+    "kr.topic.2022.high.b2742bfe5b2306015fbc"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.bff9d5a9a4391930e7",
+   "titleKorean": "지적 — 지적 기준점 측량",
+   "subjectKorean": "지적",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "지적 기준점 측량",
+   "summary": "지적의 지적 기준점 측량 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.237d947e5b318e9945d7",
+    "kr.topic.2022.high.2b9c0eaf7c36154d423d",
+    "kr.topic.2022.high.4d848ab1f2ea760b73c7",
+    "kr.topic.2022.high.6347fca760462b490b01",
+    "kr.topic.2022.high.647c654cba1f84991a54",
+    "kr.topic.2022.high.90ad920149af9076eace",
+    "kr.topic.2022.high.b5c2fece6b2538ec3e89",
+    "kr.topic.2022.high.c1e5e61fce199651f890",
+    "kr.topic.2022.high.c3fb47caeed3df91fee4"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c0d12e64a9a63fec9b",
+   "titleKorean": "토목 설계 — 터널 일반 설계",
+   "subjectKorean": "토목 설계",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "터널 일반 설계",
+   "summary": "토목 설계의 터널 일반 설계 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 1,
+   "topics": [
+    "kr.topic.2022.high.35cda9566c2f4c91e3a1"
    ]
   },
   {
@@ -1083,6 +3485,70 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.c3668598b0d944d97f",
+   "titleKorean": "토목 설계 — 단지 설계 현황 조사",
+   "subjectKorean": "토목 설계",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "단지 설계 현황 조사",
+   "summary": "토목 설계의 단지 설계 현황 조사 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 1,
+   "topics": [
+    "kr.topic.2022.high.22430211062f7f0fc557"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c412f4f251e144ddaf",
+   "titleKorean": "토목 시공 — 토공 운반",
+   "subjectKorean": "토목 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "토공 운반",
+   "summary": "토목 시공의 토공 운반 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.160b7bfe95093944d34c",
+    "kr.topic.2022.high.45b02c7b414e8d201641",
+    "kr.topic.2022.high.618f58da0eed37a415c2",
+    "kr.topic.2022.high.d6d7b8b3f2e1a035d892",
+    "kr.topic.2022.high.db64dff72eba29765e41",
+    "kr.topic.2022.high.eabb4cc9032082d43db4",
+    "kr.topic.2022.high.ef8b7e2c243ea37bd8c0",
+    "kr.topic.2022.high.f41184a96c57123550f4"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c47c5b4adb9d8456ad",
+   "titleKorean": "공간 정보 융합 서비스 — 공간 정보 데이터 수집·처리·가공",
+   "subjectKorean": "공간 정보 융합 서비스",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "공간 정보 데이터 수집·처리·가공",
+   "summary": "공간 정보 융합 서비스의 공간 정보 데이터 수집·처리·가공 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 19,
+   "topics": [
+    "kr.topic.2022.high.20a4a0b5a3ccb54c41ff",
+    "kr.topic.2022.high.22e1de326d0bf15a424d",
+    "kr.topic.2022.high.27670cf9633e7becb6b6",
+    "kr.topic.2022.high.2a0f28a5fa118b12184d",
+    "kr.topic.2022.high.3899c12bde2199c0be7c",
+    "kr.topic.2022.high.4cbd06a004d86b7ae156",
+    "kr.topic.2022.high.6fc7aee3c87ff1b06a55",
+    "kr.topic.2022.high.77411736b43f15e4cb30",
+    "kr.topic.2022.high.7b5ef20d13a731a5552a",
+    "kr.topic.2022.high.81de3c8b9826877cb9f1",
+    "kr.topic.2022.high.9b59d9d2bb5ff48c7c38",
+    "kr.topic.2022.high.a88366be2b4dadcede5c",
+    "kr.topic.2022.high.bb2e80afbaa5d8236b19",
+    "kr.topic.2022.high.c08d31b907ffabd15866",
+    "kr.topic.2022.high.c0bd0a10c48127369313",
+    "kr.topic.2022.high.c9905b87f089aaa89992",
+    "kr.topic.2022.high.e2a0ce6722056279695c",
+    "kr.topic.2022.high.e922235fc5ed387eddf4",
+    "kr.topic.2022.high.ee3bca4ec27d59b729cf"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.c6a4757d8b27b309d9",
    "titleKorean": "드론 기초 — 드론 개론",
    "subjectKorean": "드론 기초",
@@ -1105,6 +3571,58 @@
     "kr.topic.2022.high.bfc0fe32a57d6d0c7b23",
     "kr.topic.2022.high.c5503af1381edac81c86",
     "kr.topic.2022.high.dd0adfc40eb5cd21bce7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c75444ea991059777c",
+   "titleKorean": "토목 설계 — 교량 설계 형식·공법 결정",
+   "subjectKorean": "토목 설계",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "교량 설계 형식·공법 결정",
+   "summary": "토목 설계의 교량 설계 형식·공법 결정 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.39b1bbd8113ff52e3514",
+    "kr.topic.2022.high.4ae5e5d66244c38cf41c",
+    "kr.topic.2022.high.6f3da78ecd33e57e1350"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c7f9374e8ce4c52354",
+   "titleKorean": "공간 정보 융합 서비스 — 공간 영상 처리",
+   "subjectKorean": "공간 정보 융합 서비스",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "공간 영상 처리",
+   "summary": "공간 정보 융합 서비스의 공간 영상 처리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.2020b258fe21df7c34cf",
+    "kr.topic.2022.high.202393b27d05fe3896ad",
+    "kr.topic.2022.high.48ad1d284875be8bfcbf",
+    "kr.topic.2022.high.49b886c43468e9f22836",
+    "kr.topic.2022.high.6657d024d08ea05e3894",
+    "kr.topic.2022.high.6e5d7c2fc90a123dd423",
+    "kr.topic.2022.high.6e6486d047721c26ca29",
+    "kr.topic.2022.high.758bb05110c021fce173",
+    "kr.topic.2022.high.8d39cbf51352d03a4f29",
+    "kr.topic.2022.high.c632a8d5ba8688b20d08",
+    "kr.topic.2022.high.ca60c14d9e809ce98f70",
+    "kr.topic.2022.high.dcd6659b671a546dfe21"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c8029a42486c39741e",
+   "titleKorean": "토목 설계 — 단지 설계 부지 정지 계획 검토",
+   "subjectKorean": "토목 설계",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "단지 설계 부지 정지 계획 검토",
+   "summary": "토목 설계의 단지 설계 부지 정지 계획 검토 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 1,
+   "topics": [
+    "kr.topic.2022.high.38f95e7c254fc952c2bc"
    ]
   },
   {
@@ -1158,6 +3676,83 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.ce6d6f79ae6200e8d8",
+   "titleKorean": "철근 콘크리트 시공 — 철근 콘크리트 시공 현장 안전",
+   "subjectKorean": "철근 콘크리트 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "철근 콘크리트 시공 현장 안전",
+   "summary": "철근 콘크리트 시공의 철근 콘크리트 시공 현장 안전 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 16,
+   "topics": [
+    "kr.topic.2022.high.0f8601a9f285122bf45f",
+    "kr.topic.2022.high.16c3fae3d200bda13de2",
+    "kr.topic.2022.high.19c8b4b923837f913896",
+    "kr.topic.2022.high.3e854c97a6f0db1ee540",
+    "kr.topic.2022.high.5cfabfe4378893faf9f1",
+    "kr.topic.2022.high.7eb0d0f19a58fd2265b2",
+    "kr.topic.2022.high.834b9bd6be76f6eb783b",
+    "kr.topic.2022.high.966e1b667403156a85e4",
+    "kr.topic.2022.high.a44f4e4df6ee4457d214",
+    "kr.topic.2022.high.a4e036b7e24ad92dcafd",
+    "kr.topic.2022.high.aeac4c33c5bc7dd3aa3a",
+    "kr.topic.2022.high.b07d921989007ed79207",
+    "kr.topic.2022.high.d07069f8b94ab5beaed3",
+    "kr.topic.2022.high.dc23e033f2a088e463bd",
+    "kr.topic.2022.high.e258677f3d9437fb9c10",
+    "kr.topic.2022.high.f5a4436b7be3af0d7c07"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.cf1b7d6d3f78c43b60",
+   "titleKorean": "주거 서비스 — 주거 생활 서비스 지원",
+   "subjectKorean": "주거 서비스",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "주거 생활 서비스 지원",
+   "summary": "주거 서비스의 주거 생활 서비스 지원 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 7,
+   "topics": [
+    "kr.topic.2022.high.22f5abe5188fa025e92a",
+    "kr.topic.2022.high.4f9f792eab92e65e875e",
+    "kr.topic.2022.high.6c4e602826f4c8748324",
+    "kr.topic.2022.high.86db2da91299a276f573",
+    "kr.topic.2022.high.8e0e3608793383c22378",
+    "kr.topic.2022.high.a6ce878505b43ce8c005",
+    "kr.topic.2022.high.be51f2483aa56ed02f0b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.cfa3a1da76aacc1f22",
+   "titleKorean": "건축 도장 시공 — 콘크리트면 무늬 코트 본타일 도장",
+   "subjectKorean": "건축 도장 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "콘크리트면 무늬 코트 본타일 도장",
+   "summary": "건축 도장 시공의 콘크리트면 무늬 코트 본타일 도장 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 18,
+   "topics": [
+    "kr.topic.2022.high.1720db47e194e6a85a64",
+    "kr.topic.2022.high.1bab4eca0637acbb299e",
+    "kr.topic.2022.high.1f5d00afa9e397fddf60",
+    "kr.topic.2022.high.2e72ac43287a141b1c30",
+    "kr.topic.2022.high.49427732a047df6dfaaa",
+    "kr.topic.2022.high.49e42a6c27c48e61dc63",
+    "kr.topic.2022.high.52ff8357c2df490dd033",
+    "kr.topic.2022.high.579d1f51fc9c4697b8d0",
+    "kr.topic.2022.high.5ca86a392dc279ed99a8",
+    "kr.topic.2022.high.6772faaf541ee6195bf4",
+    "kr.topic.2022.high.ba5a1577b8dccc558286",
+    "kr.topic.2022.high.c60204bc0be49257d46a",
+    "kr.topic.2022.high.c74641e1f6401c6a6cb2",
+    "kr.topic.2022.high.c945e257908878e1bf45",
+    "kr.topic.2022.high.ca991b91eee335ed7043",
+    "kr.topic.2022.high.d0dea536b1fa72e076e8",
+    "kr.topic.2022.high.d97e0000556d71f86d1c",
+    "kr.topic.2022.high.f150f8bd0f050b321677"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.d0730410eb560372f7",
    "titleKorean": "토목 일반 — 토목의 개요",
    "subjectKorean": "토목 일반",
@@ -1198,6 +3793,99 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.d182b72b01dd2b6bad",
+   "titleKorean": "국토 도시 계획 — 조사 분석",
+   "subjectKorean": "국토 도시 계획",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "조사 분석",
+   "summary": "국토 도시 계획의 조사 분석 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 22,
+   "topics": [
+    "kr.topic.2022.high.000dcc0ff8abdef367a9",
+    "kr.topic.2022.high.0329417349223ba07a65",
+    "kr.topic.2022.high.05026e44b6a39d151690",
+    "kr.topic.2022.high.1eac756993809dda5976",
+    "kr.topic.2022.high.1ecd93d900e2679c89a1",
+    "kr.topic.2022.high.2ac3ef3ed5a810869032",
+    "kr.topic.2022.high.2ba218c860365aea5089",
+    "kr.topic.2022.high.3032ed5025fe6649ea50",
+    "kr.topic.2022.high.47d1c8c278489d9ed348",
+    "kr.topic.2022.high.483fcb4560e421faf2b0",
+    "kr.topic.2022.high.547ca75297c1c64a727f",
+    "kr.topic.2022.high.85e382ffe4a26d2b4ee8",
+    "kr.topic.2022.high.8d576aa5d1b5a1547d48",
+    "kr.topic.2022.high.944149f16e497f515798",
+    "kr.topic.2022.high.9f09e3340f1e0a6b240c",
+    "kr.topic.2022.high.bab8df137d4c97c6bc6d",
+    "kr.topic.2022.high.be5766e7e9f4250065e7",
+    "kr.topic.2022.high.c1c224f948ded690d0f0",
+    "kr.topic.2022.high.ccf5f069d12fcb8771f5",
+    "kr.topic.2022.high.cd6801adec05cfa51958",
+    "kr.topic.2022.high.d254aa0d6d069f0032a5",
+    "kr.topic.2022.high.e848224333dedb59893b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d33cf84c20c6098921",
+   "titleKorean": "토목 설계 — 상하수도 설계 현황 조사",
+   "subjectKorean": "토목 설계",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "상하수도 설계 현황 조사",
+   "summary": "토목 설계의 상하수도 설계 현황 조사 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 1,
+   "topics": [
+    "kr.topic.2022.high.eb38e6f910435e1cf3e9"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d3c0b67e0056167ce1",
+   "titleKorean": "건축 마감 시공 — 조적 미장 시공 작업 준비",
+   "subjectKorean": "건축 마감 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "조적 미장 시공 작업 준비",
+   "summary": "건축 마감 시공의 조적 미장 시공 작업 준비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 18,
+   "topics": [
+    "kr.topic.2022.high.08f838952397713173ed",
+    "kr.topic.2022.high.24e83dd3b3c5e073b34d",
+    "kr.topic.2022.high.256626924952e25e73ff",
+    "kr.topic.2022.high.34df1ab98d67e1e1108c",
+    "kr.topic.2022.high.382088cca81ba1fcbe7f",
+    "kr.topic.2022.high.3e10d6b236aa0329f200",
+    "kr.topic.2022.high.54202b3231af621d7ca8",
+    "kr.topic.2022.high.64281e5938728cd9dfd4",
+    "kr.topic.2022.high.6aa8a9e43b2d67c6faa5",
+    "kr.topic.2022.high.6b21714cdfc55ed75239",
+    "kr.topic.2022.high.6e56264c1fc720829651",
+    "kr.topic.2022.high.7a81dc3f8efd14d48903",
+    "kr.topic.2022.high.8f5fe7d6a2d8b37621d5",
+    "kr.topic.2022.high.923a6755020e7af622c5",
+    "kr.topic.2022.high.d6d0178f97e5d98cf80e",
+    "kr.topic.2022.high.ea26693f3b9227344416",
+    "kr.topic.2022.high.f44dadfe1cb4b5297df5",
+    "kr.topic.2022.high.fef9e1dc7bb14bec2d76"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d434e2b8cc52813477",
+   "titleKorean": "공간 정보 융합 서비스 — 영역 05",
+   "subjectKorean": "공간 정보 융합 서비스",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "공간 정보 융합 서비스의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.147f55403f00433022cc",
+    "kr.topic.2022.high.7585ebe8bcedddbe615b",
+    "kr.topic.2022.high.8070a1946607050515c1",
+    "kr.topic.2022.high.ea7b1c8aa6a2b9cf5b92"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.d4a97cb17a9dd48dfd",
    "titleKorean": "역학 기초 — 힘과 모멘트",
    "subjectKorean": "역학 기초",
@@ -1213,6 +3901,133 @@
     "kr.topic.2022.high.b75ac916a6d14c50fbce",
     "kr.topic.2022.high.d5b82ddf2eae31f17ff5",
     "kr.topic.2022.high.fd6afbf1a29bb6a946fc"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d50f177e910e21f97c",
+   "titleKorean": "건축 마감 시공 — 벽돌 쌓기 작업",
+   "subjectKorean": "건축 마감 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "벽돌 쌓기 작업",
+   "summary": "건축 마감 시공의 벽돌 쌓기 작업 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 19,
+   "topics": [
+    "kr.topic.2022.high.05c1c2447d749ad9be2c",
+    "kr.topic.2022.high.05e873581029928bcb69",
+    "kr.topic.2022.high.06042bdd9f74eeab877d",
+    "kr.topic.2022.high.14e370a4537049cd8be6",
+    "kr.topic.2022.high.1d6588b0db6d729c2144",
+    "kr.topic.2022.high.35ad5e794cbefb23b0bb",
+    "kr.topic.2022.high.68aa2d68346d02a651b9",
+    "kr.topic.2022.high.68e4f07dbe7398fbc0d0",
+    "kr.topic.2022.high.6bf7c99c44f64dcece12",
+    "kr.topic.2022.high.8590c0ed367f9ffb8c88",
+    "kr.topic.2022.high.86d5ae6082197b7a7c32",
+    "kr.topic.2022.high.89b40b180ba3bfd06230",
+    "kr.topic.2022.high.af30e1834c8c5318a55f",
+    "kr.topic.2022.high.b66c0b9d9a9d3143810d",
+    "kr.topic.2022.high.bf3eee7ea94b1e1e17ef",
+    "kr.topic.2022.high.ca38e7e330ac3faab215",
+    "kr.topic.2022.high.f25351e865a1573c0c69",
+    "kr.topic.2022.high.f7adb4cca4ab3ac9f231",
+    "kr.topic.2022.high.ffa2e4c285ab269e4905"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d606b1e557e13a8393",
+   "titleKorean": "건축 설계 — 건축 설계 2D 도면 작성",
+   "subjectKorean": "건축 설계",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "건축 설계 2D 도면 작성",
+   "summary": "건축 설계의 건축 설계 2D 도면 작성 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.01b005f5f45c6be857be",
+    "kr.topic.2022.high.4305822afa91762707ea",
+    "kr.topic.2022.high.7f4a19e3c07af1a0b34b",
+    "kr.topic.2022.high.dc656f0cc853734454a7",
+    "kr.topic.2022.high.fa40004e60a381bb442e"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.db03d84d7c032df570",
+   "titleKorean": "토목 설계 — 교량 설계 현황 조사",
+   "subjectKorean": "토목 설계",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "교량 설계 현황 조사",
+   "summary": "토목 설계의 교량 설계 현황 조사 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.129217b73bc7b6ffbb3e",
+    "kr.topic.2022.high.b8a5ee9eeda9aa0d9928",
+    "kr.topic.2022.high.d9c30ded2d282b37a4c2"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.db1bfce872b530efd3",
+   "titleKorean": "건축 설계 — 건축 설계 조사 확인",
+   "subjectKorean": "건축 설계",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "건축 설계 조사 확인",
+   "summary": "건축 설계의 건축 설계 조사 확인 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.0e4165a02398a47eab7a",
+    "kr.topic.2022.high.0e4c80e7c7389045eae9",
+    "kr.topic.2022.high.13d17574d470a0689124",
+    "kr.topic.2022.high.4af1522dd652e73623ef",
+    "kr.topic.2022.high.5878d3c4d95716f8efbd",
+    "kr.topic.2022.high.6164aa488013aa60c298",
+    "kr.topic.2022.high.6277ea4902e25656673f",
+    "kr.topic.2022.high.8b3d448d913685a273a9",
+    "kr.topic.2022.high.acb23093684f20373bf1",
+    "kr.topic.2022.high.b289301e6fe9e213617c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.df1599b647a0c9f840",
+   "titleKorean": "철근 콘크리트 시공 — 콘크리트 타설 전 준비",
+   "subjectKorean": "철근 콘크리트 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "콘크리트 타설 전 준비",
+   "summary": "철근 콘크리트 시공의 콘크리트 타설 전 준비 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.031a99de38806fa2cdd7",
+    "kr.topic.2022.high.05187c4efe3a68ca7116",
+    "kr.topic.2022.high.1bef5e5762c49d77097f",
+    "kr.topic.2022.high.1df46b5895541735eb92",
+    "kr.topic.2022.high.229b0bbfc25c759497b7",
+    "kr.topic.2022.high.5c6f1391aa75de275ba8",
+    "kr.topic.2022.high.7dc875bdb9561db0f051",
+    "kr.topic.2022.high.9f8df6f622b860832902",
+    "kr.topic.2022.high.a54f4d1ac6b74452da11",
+    "kr.topic.2022.high.cff3089eaf340001497b"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e0bf56b43d97eaa20d",
+   "titleKorean": "지적 — 지번 변경",
+   "subjectKorean": "지적",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "지번 변경",
+   "summary": "지적의 지번 변경 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.062513080a4d30ba6ccd",
+    "kr.topic.2022.high.2d1de62545d9e3d451d9",
+    "kr.topic.2022.high.4b75cdc489307a35d8ff",
+    "kr.topic.2022.high.5a3c35e1c6d8ecad0e0c",
+    "kr.topic.2022.high.6218e9452a74729e0bd3",
+    "kr.topic.2022.high.7f590f7c8f31ceb24a4c",
+    "kr.topic.2022.high.99da1e553a8f174fbe7c",
+    "kr.topic.2022.high.abb6a4b9fab6f9885568"
    ]
   },
   {
@@ -1275,6 +4090,28 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.e6826b815ff6e742ed",
+   "titleKorean": "철근 콘크리트 시공 — 자재 관리",
+   "subjectKorean": "철근 콘크리트 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "자재 관리",
+   "summary": "철근 콘크리트 시공의 자재 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.1fe0832207d96e64fe78",
+    "kr.topic.2022.high.278a038a5aadf27031a1",
+    "kr.topic.2022.high.358beaa4a18c18e6f3ab",
+    "kr.topic.2022.high.3a6560a4f870660da8d7",
+    "kr.topic.2022.high.5c602736015318d1dc3c",
+    "kr.topic.2022.high.6a5c1b8c7d7a53a44e55",
+    "kr.topic.2022.high.7fb7e7005285872970eb",
+    "kr.topic.2022.high.83bda1c545df9f9660bc",
+    "kr.topic.2022.high.95a7fc798729e76d573a",
+    "kr.topic.2022.high.eb91372f0bb65aadada9"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.e70bc664c0ba3d95f4",
    "titleKorean": "공업 일반 — 공업 기술",
    "subjectKorean": "공업 일반",
@@ -1296,6 +4133,28 @@
     "kr.topic.2022.high.d8df5b06fd0eeb22f912",
     "kr.topic.2022.high.e4f3339d5af0652562c6",
     "kr.topic.2022.high.f7239cf77dd6ee13b504"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e7f0f7530b396b823a",
+   "titleKorean": "건축 도장 시공 — 건축 도장 시공 도면 파악",
+   "subjectKorean": "건축 도장 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "건축 도장 시공 도면 파악",
+   "summary": "건축 도장 시공의 건축 도장 시공 도면 파악 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.1c86d9275844feb94a1e",
+    "kr.topic.2022.high.70622bb3ab3dfec83fcd",
+    "kr.topic.2022.high.85916182af9e2ce6c337",
+    "kr.topic.2022.high.967f3e10bbe1994bff61",
+    "kr.topic.2022.high.ac1822ba6ae993992d24",
+    "kr.topic.2022.high.ac9e5ee13453e6f106b9",
+    "kr.topic.2022.high.cb96a55aabf79f78a738",
+    "kr.topic.2022.high.d65343f334fd1d041d79",
+    "kr.topic.2022.high.ddde9194bc8212c9c85e",
+    "kr.topic.2022.high.f59fd098a0afa820f26b"
    ]
   },
   {
@@ -1340,6 +4199,47 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.e8d0d67785523d78ec",
+   "titleKorean": "건축 설계 — 건축 설계 3D 모델링",
+   "subjectKorean": "건축 설계",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "건축 설계 3D 모델링",
+   "summary": "건축 설계의 건축 설계 3D 모델링 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.17ba01f696d9e2830d0e",
+    "kr.topic.2022.high.2a11559e73d24b3b0bf2",
+    "kr.topic.2022.high.3e60de2d1a1d9e0466c2",
+    "kr.topic.2022.high.4c9760f5d1d17349a663",
+    "kr.topic.2022.high.78bc4d5113b32f9c4a34",
+    "kr.topic.2022.high.9bdffe56029ef55b0614",
+    "kr.topic.2022.high.d09fa532b66038723383",
+    "kr.topic.2022.high.ed6db03e7a0289e36849"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e968c2941f9391cc3c",
+   "titleKorean": "건축 도장 시공 — 건축 도장 시공 검사",
+   "subjectKorean": "건축 도장 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "건축 도장 시공 검사",
+   "summary": "건축 도장 시공의 건축 도장 시공 검사 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.07f88c7b9d638df510ff",
+    "kr.topic.2022.high.14a5214ec4f0a72adae4",
+    "kr.topic.2022.high.3e14f6423255df014091",
+    "kr.topic.2022.high.6077551ba8a19a93eeb4",
+    "kr.topic.2022.high.6e0a282e974aa87e2e8b",
+    "kr.topic.2022.high.70b5f935a2b110e43385",
+    "kr.topic.2022.high.9d981990211a616ce3aa",
+    "kr.topic.2022.high.afb866cc77719d441bde",
+    "kr.topic.2022.high.e284d4d578e088473fdf"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.eb7a580a19ad5000a2",
    "titleKorean": "토목 도면 해석과 제도 — 3D 모델링",
    "subjectKorean": "토목 도면 해석과 제도",
@@ -1358,6 +4258,38 @@
     "kr.topic.2022.high.cfa70ed24d5683b3dc33",
     "kr.topic.2022.high.d48f5928aefd043d33ac",
     "kr.topic.2022.high.ff2a2b38ec7f3be208ec"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ec3f1c0f178424ece0",
+   "titleKorean": "측량 — 평면 기준점 측량",
+   "subjectKorean": "측량",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "평면 기준점 측량",
+   "summary": "측량의 평면 기준점 측량 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 20,
+   "topics": [
+    "kr.topic.2022.high.0cd5d63de111cb3dd543",
+    "kr.topic.2022.high.24738d3afd0b08ec4b1a",
+    "kr.topic.2022.high.3901014b066b79327607",
+    "kr.topic.2022.high.3b77de315d8fee3c47c4",
+    "kr.topic.2022.high.3c0a8ef1fc299c04f562",
+    "kr.topic.2022.high.5224abc47ca2c64896ed",
+    "kr.topic.2022.high.5307b2ef52d18881f8f4",
+    "kr.topic.2022.high.6598ef3b8119683b9597",
+    "kr.topic.2022.high.8960367ec8c184b00463",
+    "kr.topic.2022.high.89a5b743bd9d0a6cff12",
+    "kr.topic.2022.high.94165779fe23d809d536",
+    "kr.topic.2022.high.a52c264973c9c405d33a",
+    "kr.topic.2022.high.affbd44129a8d3c6b7fe",
+    "kr.topic.2022.high.bcb1dba0829e9d95bc97",
+    "kr.topic.2022.high.c6e3aaaaca0487a634d8",
+    "kr.topic.2022.high.c8bf497fd977d3494fe7",
+    "kr.topic.2022.high.d5e01c3a992809a2e252",
+    "kr.topic.2022.high.d6c48a98caa0a60207af",
+    "kr.topic.2022.high.e094f22550fcb94e0c84",
+    "kr.topic.2022.high.f5d35274776628d7c1d8"
    ]
   },
   {
@@ -1393,6 +4325,43 @@
     "kr.topic.2022.high.f19193f8aabf822a6064",
     "kr.topic.2022.high.f347457971803c5182bd",
     "kr.topic.2022.high.f8efdf885e559783e784"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f1a417400fb69a0876",
+   "titleKorean": "토목 설계 — 터널 설계 현황 조사",
+   "subjectKorean": "토목 설계",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "터널 설계 현황 조사",
+   "summary": "토목 설계의 터널 설계 현황 조사 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.2039a59a02f7de59ca52",
+    "kr.topic.2022.high.7da6e997a2d0e2aabfcf",
+    "kr.topic.2022.high.b1398ee048e628bc4195",
+    "kr.topic.2022.high.c4c7476d35f4f36b18be"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f28da944453e5ee5b7",
+   "titleKorean": "건축 마감 시공 — 기준 설정 및 규준틀 설치",
+   "subjectKorean": "건축 마감 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "기준 설정 및 규준틀 설치",
+   "summary": "건축 마감 시공의 기준 설정 및 규준틀 설치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.1de9eb3fb31b1bf8088f",
+    "kr.topic.2022.high.2ff27dd129153faab53f",
+    "kr.topic.2022.high.32ce16cd4a18306fc8c4",
+    "kr.topic.2022.high.8157366542da4b4df25b",
+    "kr.topic.2022.high.a6613a9c72f33f6c2c12",
+    "kr.topic.2022.high.afdb932a1df37657fae1",
+    "kr.topic.2022.high.bf03c1980d33ceabf8c1",
+    "kr.topic.2022.high.ee761052c9681f419807",
+    "kr.topic.2022.high.f200eea0a7dd50b3d09e"
    ]
   },
   {
@@ -1484,6 +4453,30 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.f885ab40d0f0f49893",
+   "titleKorean": "지적 — 세부 측량",
+   "subjectKorean": "지적",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "세부 측량",
+   "summary": "지적의 세부 측량 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.171fd0c0e78d07f72c75",
+    "kr.topic.2022.high.29abf31d66fdb1b8cbb7",
+    "kr.topic.2022.high.53df43bd851055caf0a0",
+    "kr.topic.2022.high.61514dae11301a73052c",
+    "kr.topic.2022.high.6a763ab7e8440f38dd83",
+    "kr.topic.2022.high.75e809f0d6b313a6da84",
+    "kr.topic.2022.high.825a63eac470b9ae31ee",
+    "kr.topic.2022.high.a1d9315d3c6bf81d2f45",
+    "kr.topic.2022.high.a29053c597df810fea82",
+    "kr.topic.2022.high.d61a42be7e8177574f1f",
+    "kr.topic.2022.high.f732c6c58ed4deb67d2b",
+    "kr.topic.2022.high.ff41354f4141a9205773"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.f8bd32957b4f7925dd",
    "titleKorean": "토목 일반 — 토목 분야의 진로와 미래",
    "subjectKorean": "토목 일반",
@@ -1515,6 +4508,36 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.f926e2a59f1f25bd00",
+   "titleKorean": "공간 정보 융합 서비스 — 공간 정보 편집",
+   "subjectKorean": "공간 정보 융합 서비스",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "공간 정보 편집",
+   "summary": "공간 정보 융합 서비스의 공간 정보 편집 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 18,
+   "topics": [
+    "kr.topic.2022.high.0815cbc20d4600f603ad",
+    "kr.topic.2022.high.36e4a814e81247c9f076",
+    "kr.topic.2022.high.3a2615bf798d8b35a0ac",
+    "kr.topic.2022.high.43871cbed1d3df85e43e",
+    "kr.topic.2022.high.5567ab30a81f8018a7ab",
+    "kr.topic.2022.high.597997c07b40accf7f5e",
+    "kr.topic.2022.high.5a20c03c8bad60435b2b",
+    "kr.topic.2022.high.64f0c4c81f793bbb50ca",
+    "kr.topic.2022.high.6b9c6c6fcf53ec673938",
+    "kr.topic.2022.high.7ca1e8c674ea5f96010e",
+    "kr.topic.2022.high.ab691f2c9e90fe86aba5",
+    "kr.topic.2022.high.af3ed0f30b015ef6c5ce",
+    "kr.topic.2022.high.b4ed99bd2ed172bfacc0",
+    "kr.topic.2022.high.cc393b6bfcb7541db526",
+    "kr.topic.2022.high.d23691d966dedefb9601",
+    "kr.topic.2022.high.d6aabbd7a4aa52593bdb",
+    "kr.topic.2022.high.f256700710bc0d6d5788",
+    "kr.topic.2022.high.f79a4614e91116cd1ae9"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.fbdd113a4bbc856f1f",
    "titleKorean": "토목 도면 해석과 제도 — 토목 캐드",
    "subjectKorean": "토목 도면 해석과 제도",
@@ -1540,6 +4563,56 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.fd4a1dd22a662ca702",
+   "titleKorean": "국토 도시 계획 — 관련 부문별 계획",
+   "subjectKorean": "국토 도시 계획",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "관련 부문별 계획",
+   "summary": "국토 도시 계획의 관련 부문별 계획 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 18,
+   "topics": [
+    "kr.topic.2022.high.019e593ba385d766cd42",
+    "kr.topic.2022.high.1828e6aca6aacf9e9c06",
+    "kr.topic.2022.high.34430ad3888c96425fa3",
+    "kr.topic.2022.high.36399b23bb0d54bc5f24",
+    "kr.topic.2022.high.3bb054798e266a18db6a",
+    "kr.topic.2022.high.3fe78cb02581be4690c7",
+    "kr.topic.2022.high.458b3e579445bc19bba2",
+    "kr.topic.2022.high.684e2b9cb544cbfb3c64",
+    "kr.topic.2022.high.6d73b4715da5e44f0706",
+    "kr.topic.2022.high.99d993cef607a07b738a",
+    "kr.topic.2022.high.9bbb8ea4a03ef6dc8381",
+    "kr.topic.2022.high.9efcf27c7030122bf797",
+    "kr.topic.2022.high.a3b6d17af20289491152",
+    "kr.topic.2022.high.a907f4662afd542e7eca",
+    "kr.topic.2022.high.c02d3e028bfa0dc13b9d",
+    "kr.topic.2022.high.d0d7a626997445171e17",
+    "kr.topic.2022.high.e60a8f812b89e07ec0e7",
+    "kr.topic.2022.high.e9620d896bc753212f1f"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fd6e43291d91ccd653",
+   "titleKorean": "지적 — 성과 검사",
+   "subjectKorean": "지적",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "성과 검사",
+   "summary": "지적의 성과 검사 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.16c5e54e22f9476fa23d",
+    "kr.topic.2022.high.3af009b1c81031539749",
+    "kr.topic.2022.high.7c38cf8bb8cabbb03691",
+    "kr.topic.2022.high.86f83255b2d319174770",
+    "kr.topic.2022.high.a7518c2c2259daa0b4d1",
+    "kr.topic.2022.high.acf335b99fd31942c744",
+    "kr.topic.2022.high.dd9ba4db50e415c5437d",
+    "kr.topic.2022.high.fe9eb11e0fa26309ba58"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.fda9f5e5e7ef828cc0",
    "titleKorean": "스마트 시티 기초 — 스마트 시티의 현황",
    "subjectKorean": "스마트 시티 기초",
@@ -1552,6 +4625,92 @@
     "kr.topic.2022.high.8914b4c18f59d96e6e3a",
     "kr.topic.2022.high.d66bbe58c61ebad242dc",
     "kr.topic.2022.high.fa68b6897b3c4ff6380d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fe2169343ac807fb87",
+   "titleKorean": "건축 도장 시공 — 건축 도장 시공 계획 수립",
+   "subjectKorean": "건축 도장 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "건축 도장 시공 계획 수립",
+   "summary": "건축 도장 시공의 건축 도장 시공 계획 수립 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 24,
+   "topics": [
+    "kr.topic.2022.high.056515e0887dcb32a24c",
+    "kr.topic.2022.high.101600461a88aff50ba8",
+    "kr.topic.2022.high.1cf3e8ffb28f5492e2d0",
+    "kr.topic.2022.high.2d1f92f845572c005e6e",
+    "kr.topic.2022.high.4600e9f4abb0f2e533a4",
+    "kr.topic.2022.high.5578e24b978df864bd72",
+    "kr.topic.2022.high.5d1db043f62d8cefee75",
+    "kr.topic.2022.high.6b099c86962e22ffb757",
+    "kr.topic.2022.high.7fb24ce1133ed78854a1",
+    "kr.topic.2022.high.8074b69d08948e873fb0",
+    "kr.topic.2022.high.90bf41eebd7426dbd201",
+    "kr.topic.2022.high.a02c42c1107330a70e14",
+    "kr.topic.2022.high.a3dc87c892861551ddeb",
+    "kr.topic.2022.high.b01afd370787c1c78d3c",
+    "kr.topic.2022.high.bd3aedf60d93f2d18fdd",
+    "kr.topic.2022.high.be241294f29ec94498fe",
+    "kr.topic.2022.high.bf7fcec57d5a9f66e4df",
+    "kr.topic.2022.high.d6738d3f0e2bdf6e11e5",
+    "kr.topic.2022.high.e08c6cd419ad1ccd0c12",
+    "kr.topic.2022.high.e2186b833087a31cebb2",
+    "kr.topic.2022.high.ed80f9f9de693799307a",
+    "kr.topic.2022.high.ee9d241f91ae94c4466e",
+    "kr.topic.2022.high.f4d89d602d55b2ad6bbd",
+    "kr.topic.2022.high.fbd5cb01c0f41575fc80"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.fe8e3c74c56663a637",
+   "titleKorean": "공간 정보 구축 — 공간 영상 지도 제작",
+   "subjectKorean": "공간 정보 구축",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "공간 영상 지도 제작",
+   "summary": "공간 정보 구축의 공간 영상 지도 제작 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.2411efa94964de1bae73",
+    "kr.topic.2022.high.434a5ce2c32ff962e5bd",
+    "kr.topic.2022.high.481201c3572b0067042b",
+    "kr.topic.2022.high.5cf6497881b3821b9972",
+    "kr.topic.2022.high.7da0b5023905a788d123",
+    "kr.topic.2022.high.92a06bd1056ae68651bd",
+    "kr.topic.2022.high.9559837b445e260d9723",
+    "kr.topic.2022.high.ad96011c55f807815b77",
+    "kr.topic.2022.high.aeda3445bd4d141a1c0c",
+    "kr.topic.2022.high.b675f8601eee96ad8cd4",
+    "kr.topic.2022.high.f6a7fbe6b753c2331aa4"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.ffb44d00e886f87a1e",
+   "titleKorean": "철근 콘크리트 시공 — 거푸집 설치",
+   "subjectKorean": "철근 콘크리트 시공",
+   "majorFieldSlug": "construction-civil",
+   "gradeBand": "10-12",
+   "domainKorean": "거푸집 설치",
+   "summary": "철근 콘크리트 시공의 거푸집 설치 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 15,
+   "topics": [
+    "kr.topic.2022.high.13dfbc1cb4c60d0258f1",
+    "kr.topic.2022.high.1aa60afb175e23bdfc97",
+    "kr.topic.2022.high.2843babbe41207eb0202",
+    "kr.topic.2022.high.61282cca93914525b6af",
+    "kr.topic.2022.high.6e7985f80d4292641b22",
+    "kr.topic.2022.high.6ee9e3e085f3b6d30a34",
+    "kr.topic.2022.high.73b3a7c842a1dad402fd",
+    "kr.topic.2022.high.8a08671c407944ea40db",
+    "kr.topic.2022.high.8f89b87e1f1c9282bfd0",
+    "kr.topic.2022.high.a96ce4cb48271d7c7c96",
+    "kr.topic.2022.high.aa6fa09b8cbd85219bd2",
+    "kr.topic.2022.high.ad9f3d5e35d161434118",
+    "kr.topic.2022.high.ae3a160a1b79f61a9c4e",
+    "kr.topic.2022.high.ec8258993d6cd20495bc",
+    "kr.topic.2022.high.f31659cf6f2334e41464"
    ]
   }
  ]

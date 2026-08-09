@@ -53,6 +53,21 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.02ffed7bc6441af852",
+   "titleKorean": "영유아 놀이 지도 — 영역 03",
+   "subjectKorean": "영유아 놀이 지도",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 03",
+   "summary": "영유아 놀이 지도의 영역 03 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 3,
+   "topics": [
+    "kr.topic.2022.high.03787946129f64199663",
+    "kr.topic.2022.high.135cae82c89e9840efd6",
+    "kr.topic.2022.high.4cd288268bd2a44bd0af"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.0565fc2ee6e617f36e",
    "titleKorean": "아동 복지 — 아동 복지의 역사",
    "subjectKorean": "아동 복지",
@@ -86,6 +101,33 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.0c92cbb8e89c37bed1",
+   "titleKorean": "요양 지원 — 물품 전달",
+   "subjectKorean": "요양 지원",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "물품 전달",
+   "summary": "요양 지원의 물품 전달 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 15,
+   "topics": [
+    "kr.topic.2022.high.06dde5e2f48dbf1607eb",
+    "kr.topic.2022.high.28a1bea7b89f2ce189b7",
+    "kr.topic.2022.high.47a5c85789bd8dfcf5e1",
+    "kr.topic.2022.high.4f35863cab4abe7a21cc",
+    "kr.topic.2022.high.6444f08f5da4ed710183",
+    "kr.topic.2022.high.6cf6002f9fa12a402419",
+    "kr.topic.2022.high.6d48131dc2e11ff8fc87",
+    "kr.topic.2022.high.88cd4049812788afc7bb",
+    "kr.topic.2022.high.9848df4356a875686d74",
+    "kr.topic.2022.high.9b273cbf8959d6b842e0",
+    "kr.topic.2022.high.cbf72db5095c38d76755",
+    "kr.topic.2022.high.ceb9793204f1e39de1a7",
+    "kr.topic.2022.high.e4e57c4e1728646914c0",
+    "kr.topic.2022.high.e6e813a33f06c05a3966",
+    "kr.topic.2022.high.f09c6928df097e1837c6"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.0e9cc5e5f6f6b52e39",
    "titleKorean": "치과 간호 임상 실무 — 구강의 해부･생리학",
    "subjectKorean": "치과 간호 임상 실무",
@@ -101,6 +143,32 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.0f2876d982689175f2",
+   "titleKorean": "사회 복지 시설 실무 — 사회 복지 면담 초기 면접",
+   "subjectKorean": "사회 복지 시설 실무",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "사회 복지 면담 초기 면접",
+   "summary": "사회 복지 시설 실무의 사회 복지 면담 초기 면접 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 14,
+   "topics": [
+    "kr.topic.2022.high.04f224c51c590a523e69",
+    "kr.topic.2022.high.08b9fa059c0910c10699",
+    "kr.topic.2022.high.12b545d454ee0b251816",
+    "kr.topic.2022.high.45ca2966d4625301d7c0",
+    "kr.topic.2022.high.56ee634ab3e3cd11b62d",
+    "kr.topic.2022.high.57c896ef18bf920ca306",
+    "kr.topic.2022.high.80931a6f7156994af6f2",
+    "kr.topic.2022.high.83209ccd4cfe9fc50f89",
+    "kr.topic.2022.high.87a957aefdcec2d67581",
+    "kr.topic.2022.high.8fa2c8d1922a2b5faa63",
+    "kr.topic.2022.high.8fec07d4231ff3f6b339",
+    "kr.topic.2022.high.b1ccfc073692d714c239",
+    "kr.topic.2022.high.cf7b8caac1fb55748791",
+    "kr.topic.2022.high.e88e00953dad2df71975"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.0f83f6308e3b826faf",
    "titleKorean": "치과 간호 임상 실무 — 교정 치과 진료 보조",
    "subjectKorean": "치과 간호 임상 실무",
@@ -113,6 +181,32 @@
     "kr.topic.2022.high.0f29247d0ae9fe1fc502",
     "kr.topic.2022.high.a4eb346a6410c4fb4989",
     "kr.topic.2022.high.bd3daee4f0c924a47d5d"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1020c9269e371b6c7d",
+   "titleKorean": "대인 복지 서비스 — 가족 관계 지원",
+   "subjectKorean": "대인 복지 서비스",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "가족 관계 지원",
+   "summary": "대인 복지 서비스의 가족 관계 지원 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 14,
+   "topics": [
+    "kr.topic.2022.high.0b338d668ffddf1c38f1",
+    "kr.topic.2022.high.0ffd0afb26193c7524b3",
+    "kr.topic.2022.high.1a9227ea628b33c83836",
+    "kr.topic.2022.high.2b2d3d1acd88a6db14e9",
+    "kr.topic.2022.high.5ea4d681726f80ba69fc",
+    "kr.topic.2022.high.65aac49dfb6475673c04",
+    "kr.topic.2022.high.6a2845c6038efe627811",
+    "kr.topic.2022.high.76f9d95eb24f378aaf04",
+    "kr.topic.2022.high.80f2261c6d7ec9d13d0a",
+    "kr.topic.2022.high.a09ccdd169782ddc6ce0",
+    "kr.topic.2022.high.b4da3dbc96519164efce",
+    "kr.topic.2022.high.dbbbe58bb6f7cb9f1d9e",
+    "kr.topic.2022.high.e41eff70ccce5da78a24",
+    "kr.topic.2022.high.f5741267341956ff90a1"
    ]
   },
   {
@@ -161,6 +255,48 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.178b7342efb2055876",
+   "titleKorean": "요양 지원 — 오염물 처리",
+   "subjectKorean": "요양 지원",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "오염물 처리",
+   "summary": "요양 지원의 오염물 처리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.18f1b49835cd0ed22262",
+    "kr.topic.2022.high.255dbaece46bb1ba9506",
+    "kr.topic.2022.high.657423c7cb72597c251e",
+    "kr.topic.2022.high.68a6d9efb65add86a66d",
+    "kr.topic.2022.high.986a764d0d1d6ff0eaeb",
+    "kr.topic.2022.high.c20b05b2956cb413003c",
+    "kr.topic.2022.high.c7bef86f32d0141ac53c",
+    "kr.topic.2022.high.d279433485a5013736d9",
+    "kr.topic.2022.high.ff6ebee1b0e2f4d20210"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.1a8c929c2a501f46f0",
+   "titleKorean": "요양 지원 — 요양 보호 제도",
+   "subjectKorean": "요양 지원",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "요양 보호 제도",
+   "summary": "요양 지원의 요양 보호 제도 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.10c9cd48f56cc7d5b684",
+    "kr.topic.2022.high.114c207494420f664e2d",
+    "kr.topic.2022.high.2e0f931c9211502ce777",
+    "kr.topic.2022.high.49396a83bb48d1678b54",
+    "kr.topic.2022.high.6bcaf36416d5f892f217",
+    "kr.topic.2022.high.78c8ac71132c92417a6c",
+    "kr.topic.2022.high.bb633de1e5bdaae6243a",
+    "kr.topic.2022.high.e68a2b6fbd9a121d45bd",
+    "kr.topic.2022.high.fb6802fd50362dad4244"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.1d466fe2bf46cdbc04",
    "titleKorean": "사회 복지 시설의 이해 — 한국 사회 복지 시설의 역사",
    "subjectKorean": "사회 복지 시설의 이해",
@@ -190,6 +326,31 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.1eae14d1991055f629",
+   "titleKorean": "영유아 놀이 지도 — 유아 놀이 지원",
+   "subjectKorean": "영유아 놀이 지도",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "유아 놀이 지원",
+   "summary": "영유아 놀이 지도의 유아 놀이 지원 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.1dbc0f71d706c116d815",
+    "kr.topic.2022.high.261f103c4353be1f545e",
+    "kr.topic.2022.high.3a83eae66cc1d845e3ac",
+    "kr.topic.2022.high.5fc4fee8a11b05f56f76",
+    "kr.topic.2022.high.6eb728c7a0babe2f81bf",
+    "kr.topic.2022.high.74dcfe333d1479c22e88",
+    "kr.topic.2022.high.859c28d3344d377c091d",
+    "kr.topic.2022.high.8816ec3cf7d1c5b38830",
+    "kr.topic.2022.high.91f70ec01ca4790329be",
+    "kr.topic.2022.high.94b3816bf0dc0b035594",
+    "kr.topic.2022.high.96b12acd653222d706e0",
+    "kr.topic.2022.high.b748f54e91af4705f872",
+    "kr.topic.2022.high.ede9efec2060f6fe03f4"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.22ca176751d347192b",
    "titleKorean": "인체 구조와 기능 — 근골격계의 이해",
    "subjectKorean": "인체 구조와 기능",
@@ -206,6 +367,79 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.24cf407880aa4285e8",
+   "titleKorean": "영유아 놀이 지도 — 어린이집 환경 구성",
+   "subjectKorean": "영유아 놀이 지도",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "어린이집 환경 구성",
+   "summary": "영유아 놀이 지도의 어린이집 환경 구성 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.1963052e6f299b2034fb",
+    "kr.topic.2022.high.7308bf79463007d091be",
+    "kr.topic.2022.high.73f7fb9818acddaf9485",
+    "kr.topic.2022.high.7cdd869d35792d1fd449",
+    "kr.topic.2022.high.8c1d50526310c5a4d5d5",
+    "kr.topic.2022.high.8c5e2b2dffac110f8b3c",
+    "kr.topic.2022.high.9ecefeffdb506f585d46",
+    "kr.topic.2022.high.db6b9a15189955574714",
+    "kr.topic.2022.high.f018a90049b9b28fb0a7",
+    "kr.topic.2022.high.f2ac326ffd9e3a8a6e2f",
+    "kr.topic.2022.high.f7a78b4b2ea8186026ad"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.27c347a43bc1abd5dd",
+   "titleKorean": "사회 복지 시설 실무 — 사회 복지 조직 정보 자원 관리",
+   "subjectKorean": "사회 복지 시설 실무",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "사회 복지 조직 정보 자원 관리",
+   "summary": "사회 복지 시설 실무의 사회 복지 조직 정보 자원 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.0e257fce4a1e8d19125a",
+    "kr.topic.2022.high.1210ddb824b5876d1c42",
+    "kr.topic.2022.high.4856bcf1072f9bb43f3b",
+    "kr.topic.2022.high.4a2adea91dc59e8a07ff",
+    "kr.topic.2022.high.6843f06ddf50ec363540",
+    "kr.topic.2022.high.997be46543c8c2430b9c",
+    "kr.topic.2022.high.a2d6ef138570d76f0777",
+    "kr.topic.2022.high.bba125e60d5d72c54760",
+    "kr.topic.2022.high.c39e68454092eefc7ac7",
+    "kr.topic.2022.high.cf698fcf4b86381eddd8",
+    "kr.topic.2022.high.d64e8c5d8876bb180135",
+    "kr.topic.2022.high.e0c18b95aeb870757622",
+    "kr.topic.2022.high.fec24da867bf61b9bdf7"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.2e3595bec15390a093",
+   "titleKorean": "사회 복지 시설 실무 — 사회 복지 프로그램 실행",
+   "subjectKorean": "사회 복지 시설 실무",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "사회 복지 프로그램 실행",
+   "summary": "사회 복지 시설 실무의 사회 복지 프로그램 실행 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 13,
+   "topics": [
+    "kr.topic.2022.high.00c3bad6e1ec1627c128",
+    "kr.topic.2022.high.2b9e015657c00a891de3",
+    "kr.topic.2022.high.48f43b393e06b62a0863",
+    "kr.topic.2022.high.5a97d861f487f22dfadf",
+    "kr.topic.2022.high.5ebf8b501983ae11db40",
+    "kr.topic.2022.high.6987284bdd13050a74f2",
+    "kr.topic.2022.high.a42792fc3a3b1bdf7e27",
+    "kr.topic.2022.high.aee4445c82beba95db90",
+    "kr.topic.2022.high.d0b8b70f97918fc312d4",
+    "kr.topic.2022.high.e1bd5474caa83ae6e0a1",
+    "kr.topic.2022.high.f497af82ea44ce5168f4",
+    "kr.topic.2022.high.f56f8ef673f5bdfd24da",
+    "kr.topic.2022.high.ff1706cb6f8d1e1041d2"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.332b8b6733a1f004b4",
    "titleKorean": "인간 발달 — 성인 발달",
    "subjectKorean": "인간 발달",
@@ -218,6 +452,65 @@
     "kr.topic.2022.high.1f0c4b937c772c63309a",
     "kr.topic.2022.high.664b4ff3dce1d0f1b974",
     "kr.topic.2022.high.cc51b40cc7955f503041"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.3364170fc3446e4514",
+   "titleKorean": "대인 복지 서비스 — 사회 활동 지원",
+   "subjectKorean": "대인 복지 서비스",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "사회 활동 지원",
+   "summary": "대인 복지 서비스의 사회 활동 지원 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 19,
+   "topics": [
+    "kr.topic.2022.high.0bfd53ceda9c0482738a",
+    "kr.topic.2022.high.229d5f74be04be8a3ede",
+    "kr.topic.2022.high.23d9cf2ba6356537910b",
+    "kr.topic.2022.high.485443beb66173c1ecf2",
+    "kr.topic.2022.high.4bd95b6912f82344e8b6",
+    "kr.topic.2022.high.59d121748d0e17573652",
+    "kr.topic.2022.high.630b1b723326b271b28f",
+    "kr.topic.2022.high.77c456c9b05efce67129",
+    "kr.topic.2022.high.7f4cc170ab8676a16017",
+    "kr.topic.2022.high.83ee94c3330655e3450c",
+    "kr.topic.2022.high.8e0bfed2e91da58e12ec",
+    "kr.topic.2022.high.90be69b17e4d7a5a37d7",
+    "kr.topic.2022.high.94215d4124e36e52bb09",
+    "kr.topic.2022.high.a0521a5334572827ef8c",
+    "kr.topic.2022.high.a0f4f002e776ddf92d6e",
+    "kr.topic.2022.high.a141783335d9cac9cbca",
+    "kr.topic.2022.high.b583ed803d87ef224d4a",
+    "kr.topic.2022.high.b5e92d533731d2fe37fa",
+    "kr.topic.2022.high.e20f4e8cf0fcf969fc8c"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.342d266a910b78ce16",
+   "titleKorean": "대인 복지 서비스 — 일상생활 서비스 기록 관리",
+   "subjectKorean": "대인 복지 서비스",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "일상생활 서비스 기록 관리",
+   "summary": "대인 복지 서비스의 일상생활 서비스 기록 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 16,
+   "topics": [
+    "kr.topic.2022.high.02cf2857298bdffa6d7c",
+    "kr.topic.2022.high.062e561b595ad62c0c77",
+    "kr.topic.2022.high.0fce750e16a014358bad",
+    "kr.topic.2022.high.20b2194823462665f444",
+    "kr.topic.2022.high.2f243deb99663b06d8e4",
+    "kr.topic.2022.high.3b48a139a0eb8cbbc636",
+    "kr.topic.2022.high.3b497e9943d76e55f895",
+    "kr.topic.2022.high.873df231af0793537bf8",
+    "kr.topic.2022.high.8a7ae084f0e9e89b676b",
+    "kr.topic.2022.high.9b677aecc185fe70679b",
+    "kr.topic.2022.high.a5b156460136c2ea93ad",
+    "kr.topic.2022.high.b73bccbbbca2ca011e64",
+    "kr.topic.2022.high.c162dacc48e9eb749dab",
+    "kr.topic.2022.high.df2ac9fbd9a6ee42d188",
+    "kr.topic.2022.high.f6b1d65f338da29a7d9c",
+    "kr.topic.2022.high.fd538d9940c5d0afc3d4"
    ]
   },
   {
@@ -247,6 +540,38 @@
    "topics": [
     "kr.topic.2022.high.1e5a3127c93c0134853c",
     "kr.topic.2022.high.c53b40976cd89a937b55"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.35a7fd91d447d44c65",
+   "titleKorean": "영유아 놀이 지도 — 영역 04",
+   "subjectKorean": "영유아 놀이 지도",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 04",
+   "summary": "영유아 놀이 지도의 영역 04 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 20,
+   "topics": [
+    "kr.topic.2022.high.04bc124f22d2d86ff075",
+    "kr.topic.2022.high.1716b716d50f443af553",
+    "kr.topic.2022.high.1f1469e158f4a00ceb30",
+    "kr.topic.2022.high.2208fc015acf20b5367c",
+    "kr.topic.2022.high.2adc492fa4ae406c00ad",
+    "kr.topic.2022.high.39fdd16ae41550a7e70e",
+    "kr.topic.2022.high.3eb4ea9d44410c4eee20",
+    "kr.topic.2022.high.5c68a71b5099d8e752fe",
+    "kr.topic.2022.high.609783821bed6f289fa7",
+    "kr.topic.2022.high.6ad4ba0465415c187e4a",
+    "kr.topic.2022.high.73d92266693e8ef524d9",
+    "kr.topic.2022.high.8750caa88dbd625e0d0f",
+    "kr.topic.2022.high.8c2e9cd37782ff013c0f",
+    "kr.topic.2022.high.9c1c32d88aa227ed711c",
+    "kr.topic.2022.high.9cb23bcf134907ebe7ce",
+    "kr.topic.2022.high.a297eca6ca3023735b2e",
+    "kr.topic.2022.high.d7e16f5f5dfb08872ede",
+    "kr.topic.2022.high.d875ae0a3209dd56ffb7",
+    "kr.topic.2022.high.de0201de7b06e3ae6935",
+    "kr.topic.2022.high.e346fa13b6a5c34335e7"
    ]
   },
   {
@@ -363,6 +688,29 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.493ad5a866e173225a",
+   "titleKorean": "요양 지원 — 사고 예방 지원",
+   "subjectKorean": "요양 지원",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "사고 예방 지원",
+   "summary": "요양 지원의 사고 예방 지원 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.0263008462004d286e35",
+    "kr.topic.2022.high.26d547fde0dbd64df83c",
+    "kr.topic.2022.high.36f013377a70d5a4535c",
+    "kr.topic.2022.high.4377e689f43df53a4cd2",
+    "kr.topic.2022.high.6967c91b2c01ed1f3161",
+    "kr.topic.2022.high.770e9adb4b0d7061d474",
+    "kr.topic.2022.high.81bed8d6f1499cba8196",
+    "kr.topic.2022.high.90e922d426514803f9a6",
+    "kr.topic.2022.high.cffed533a2ef3d785f81",
+    "kr.topic.2022.high.e6e29a1b294e4467852e",
+    "kr.topic.2022.high.ebfce0dd266bca4eb26a"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.4a5dc761829f5c6f26",
    "titleKorean": "아동 생활 지도 — 아동 생활 지도의 내용과 방법",
    "subjectKorean": "아동 생활 지도",
@@ -406,6 +754,56 @@
     "kr.topic.2022.high.886d3d5aa5413b3c262d",
     "kr.topic.2022.high.aac8424e1fecdad728fe",
     "kr.topic.2022.high.d9cebb029bfe71b7f44a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.510fb36fe4b0e2371f",
+   "titleKorean": "요양 지원 — 신체 청결 지원",
+   "subjectKorean": "요양 지원",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "신체 청결 지원",
+   "summary": "요양 지원의 신체 청결 지원 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 10,
+   "topics": [
+    "kr.topic.2022.high.020a807aeb878c87ce07",
+    "kr.topic.2022.high.20e54e992a3e395e201c",
+    "kr.topic.2022.high.265d6e1cebca62fd6d75",
+    "kr.topic.2022.high.3d325d3d4260aec95070",
+    "kr.topic.2022.high.6749589c6a2dd66b2912",
+    "kr.topic.2022.high.84b1aa4818095d7522de",
+    "kr.topic.2022.high.a65b10510731e54c1211",
+    "kr.topic.2022.high.cdc3f8b3bc5ee4e752c0",
+    "kr.topic.2022.high.fd29919f4332a66d0534",
+    "kr.topic.2022.high.ffba1c8cac6f352a27c1"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.51df9f3bcbaa38c190",
+   "titleKorean": "대인 복지 서비스 — 일상생활 위험 관리",
+   "subjectKorean": "대인 복지 서비스",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "일상생활 위험 관리",
+   "summary": "대인 복지 서비스의 일상생활 위험 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 16,
+   "topics": [
+    "kr.topic.2022.high.09e852f8cce52aa73d21",
+    "kr.topic.2022.high.0fc3c86efe24a52a1615",
+    "kr.topic.2022.high.15b8f84aaa581435dff5",
+    "kr.topic.2022.high.254a08247a30a9892629",
+    "kr.topic.2022.high.25b29f793bcfde7a2fba",
+    "kr.topic.2022.high.26563a0315e927949f7c",
+    "kr.topic.2022.high.41f9b77cb91dcb06e2f1",
+    "kr.topic.2022.high.4a3323257fe72dd68fc5",
+    "kr.topic.2022.high.559ab5f93cd0d114cff7",
+    "kr.topic.2022.high.59170f1d9415213d8c53",
+    "kr.topic.2022.high.82956687c83fd8c45e0d",
+    "kr.topic.2022.high.8d4bb32d6cb13cbad0a1",
+    "kr.topic.2022.high.b52da7099fe730467ffa",
+    "kr.topic.2022.high.db07077b132302fa15b9",
+    "kr.topic.2022.high.dbd0b72e121f13f63341",
+    "kr.topic.2022.high.e7cd8b9f6595711e9fb6"
    ]
   },
   {
@@ -487,6 +885,24 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.625d37389b85b0ec4f",
+   "titleKorean": "영유아 건강·안전·영양 지도 — 안전 지도",
+   "subjectKorean": "영유아 건강·안전·영양 지도",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "안전 지도",
+   "summary": "영유아 건강·안전·영양 지도의 안전 지도 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.0b9d67f70fd2551049f8",
+    "kr.topic.2022.high.308c2c5ddea1815b6c7e",
+    "kr.topic.2022.high.4c9e757728fafc8d03d5",
+    "kr.topic.2022.high.5717d64f9a06a39c3d2f",
+    "kr.topic.2022.high.79c47f0444ee3f3e670c",
+    "kr.topic.2022.high.bb2cdc2f3e061e307369"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.63abde1fc7c89b03b1",
    "titleKorean": "기초 간호 임상 실무 — 산소 및 흡인 간호 보조",
    "subjectKorean": "기초 간호 임상 실무",
@@ -563,6 +979,24 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.748b5716719163bacc",
+   "titleKorean": "영유아 건강·안전·영양 지도 — 영양 지도",
+   "subjectKorean": "영유아 건강·안전·영양 지도",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "영양 지도",
+   "summary": "영유아 건강·안전·영양 지도의 영양 지도 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.09e6f0f5d193bfa2d256",
+    "kr.topic.2022.high.2d4ee9a4120b0dce0632",
+    "kr.topic.2022.high.5c88897e981d00d33568",
+    "kr.topic.2022.high.6ed5ffb7e6a67f4ba8fa",
+    "kr.topic.2022.high.6f36b7da26437468222a",
+    "kr.topic.2022.high.ec446e22aa9f01d8f368"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.771421424661cc21e6",
    "titleKorean": "보건 의료 법규 — 정신 건강 복지법(정신 건강 증진 및 정신 질환자 복지 서비스 지원에 관한 법률)",
    "subjectKorean": "보건 의료 법규",
@@ -627,6 +1061,26 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.80ba0647848bb0c688",
+   "titleKorean": "사회 복지 시설 실무 — 사회 복지 조직 재무 관리",
+   "subjectKorean": "사회 복지 시설 실무",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "사회 복지 조직 재무 관리",
+   "summary": "사회 복지 시설 실무의 사회 복지 조직 재무 관리 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 8,
+   "topics": [
+    "kr.topic.2022.high.055350be8b6d3e8a8f0d",
+    "kr.topic.2022.high.19a4535a2341aeb0b94d",
+    "kr.topic.2022.high.3964a2916a37e0ad59f9",
+    "kr.topic.2022.high.52a697fc7e62fb159453",
+    "kr.topic.2022.high.5a1f38357b942e71f7b7",
+    "kr.topic.2022.high.624c152772e475b1c4fa",
+    "kr.topic.2022.high.bda1df07fa59faf587b8",
+    "kr.topic.2022.high.d173681da34c6e05329e"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.8148bd460905f0a001",
    "titleKorean": "보육 원리와 보육 교사 — 가족과 지역사회와의 연계",
    "subjectKorean": "보육 원리와 보육 교사",
@@ -638,6 +1092,20 @@
    "topics": [
     "kr.topic.2022.high.1aba7878c48aece5c056",
     "kr.topic.2022.high.6cd54455d4c167c0dd64"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.821413b2859fcc2721",
+   "titleKorean": "대인 복지 서비스 — 영역 05",
+   "subjectKorean": "대인 복지 서비스",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "대인 복지 서비스의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 2,
+   "topics": [
+    "kr.topic.2022.high.47a07d27808bcf2b50f2",
+    "kr.topic.2022.high.da0ab924eaa185b231bf"
    ]
   },
   {
@@ -812,6 +1280,36 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.8f82be5f5155c18547",
+   "titleKorean": "요양 지원 — 일상생활 수행 지원",
+   "subjectKorean": "요양 지원",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "일상생활 수행 지원",
+   "summary": "요양 지원의 일상생활 수행 지원 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 18,
+   "topics": [
+    "kr.topic.2022.high.150e98f6ceadbc6eef0b",
+    "kr.topic.2022.high.1dbf2c38cf84b7ef4d38",
+    "kr.topic.2022.high.1f04c898bd95128e6846",
+    "kr.topic.2022.high.4975314b0eef9b7050d0",
+    "kr.topic.2022.high.4a1d209a08bd4e7a74fd",
+    "kr.topic.2022.high.4a61db0af1a0b161cb94",
+    "kr.topic.2022.high.4a649bf15879e257814d",
+    "kr.topic.2022.high.635e011769d3827fdc38",
+    "kr.topic.2022.high.67f9c38f49774932e930",
+    "kr.topic.2022.high.6a892a03e23c51cc8147",
+    "kr.topic.2022.high.6e830571f140bf79613e",
+    "kr.topic.2022.high.754a4e2dda524baa7a21",
+    "kr.topic.2022.high.a0d52449145e36df3b40",
+    "kr.topic.2022.high.a8db72c27094ec6074f7",
+    "kr.topic.2022.high.af363318f6ebccf70d0f",
+    "kr.topic.2022.high.de9e84dff0b7c4aa2841",
+    "kr.topic.2022.high.eaa9d3fe66770fa938b8",
+    "kr.topic.2022.high.f7ab03357f3193cf893a"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.8faf6a4ec20faa00ce",
    "titleKorean": "기초 간호 임상 실무 — 검사 간호 보조",
    "subjectKorean": "기초 간호 임상 실무",
@@ -909,6 +1407,22 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.95744c21998f2d0ae9",
+   "titleKorean": "사회 복지 시설 실무 — 영역 04",
+   "subjectKorean": "사회 복지 시설 실무",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 04",
+   "summary": "사회 복지 시설 실무의 영역 04 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 4,
+   "topics": [
+    "kr.topic.2022.high.1c67364e41b84260314b",
+    "kr.topic.2022.high.1ee85e31c518c39ba866",
+    "kr.topic.2022.high.93d9b1cae500f0a796ff",
+    "kr.topic.2022.high.fcc87322cde8a99ddcfd"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.9afc2160c0dc056132",
    "titleKorean": "인간 발달 — 발달 이론",
    "subjectKorean": "인간 발달",
@@ -988,6 +1502,30 @@
     "kr.topic.2022.high.337b24508943d8d740a5",
     "kr.topic.2022.high.47b0e1604e69c211697e",
     "kr.topic.2022.high.da6060fdbcefff806fdd"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.a2064fc212a5e09433",
+   "titleKorean": "영유아 놀이 지도 — 영아 놀이 지원",
+   "subjectKorean": "영유아 놀이 지도",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "영아 놀이 지원",
+   "summary": "영유아 놀이 지도의 영아 놀이 지원 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.09cc8893db7e38de4a88",
+    "kr.topic.2022.high.719e158ef9aec61168f0",
+    "kr.topic.2022.high.a345472bbda3a1239a87",
+    "kr.topic.2022.high.b0248b761f16d1eb1369",
+    "kr.topic.2022.high.b04e8f81388c91eeae56",
+    "kr.topic.2022.high.b620117d999341de2a49",
+    "kr.topic.2022.high.ce173cf8e9fcf7493b60",
+    "kr.topic.2022.high.d1bd45f0d5036f9aef80",
+    "kr.topic.2022.high.d20fc11e0ba16cb30872",
+    "kr.topic.2022.high.e4655006947e74c3f6e0",
+    "kr.topic.2022.high.e4ea6d51e84618a83a1f",
+    "kr.topic.2022.high.fc786b2d25f54e09a8f5"
    ]
   },
   {
@@ -1132,6 +1670,27 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.aeda096ea534903dda",
+   "titleKorean": "사회 복지 시설 실무 — 사회 복지 프로그램 홍보",
+   "subjectKorean": "사회 복지 시설 실무",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "사회 복지 프로그램 홍보",
+   "summary": "사회 복지 시설 실무의 사회 복지 프로그램 홍보 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.0f364b50a390e66a8843",
+    "kr.topic.2022.high.1cd157dabdce25036d91",
+    "kr.topic.2022.high.38c2086602f81c278813",
+    "kr.topic.2022.high.40f5621cc581dc7cef6f",
+    "kr.topic.2022.high.6160f6b4ada48d5c5374",
+    "kr.topic.2022.high.715dd6d4a51e041f85b5",
+    "kr.topic.2022.high.cf6bad78e18fd132dfc1",
+    "kr.topic.2022.high.d87a066c614646bb9aa4",
+    "kr.topic.2022.high.e35a483f0e4b87ea3f16"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.b0a653b50d248131b3",
    "titleKorean": "보건 의료 법규 — 혈액 관리법",
    "subjectKorean": "보건 의료 법규",
@@ -1250,6 +1809,23 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.c19e96fb65902128e8",
+   "titleKorean": "영유아 놀이 지도 — 영역 05",
+   "subjectKorean": "영유아 놀이 지도",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "영역 05",
+   "summary": "영유아 놀이 지도의 영역 05 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 5,
+   "topics": [
+    "kr.topic.2022.high.755b815b0cf3f4af3d1d",
+    "kr.topic.2022.high.9a43050819761370ac98",
+    "kr.topic.2022.high.c3dae8e856155e826533",
+    "kr.topic.2022.high.d2e9a0ea14b1e34c7ad4",
+    "kr.topic.2022.high.efe95efd99f9714fe920"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.c3ba8fab9cf5fc32f3",
    "titleKorean": "공중 보건 — 정신 보건",
    "subjectKorean": "공중 보건",
@@ -1292,6 +1868,24 @@
    "topics": [
     "kr.topic.2022.high.5749c04ed1a55ace850f",
     "kr.topic.2022.high.beec6d2c3a0bcdf7f014"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.c625e8caee08368242",
+   "titleKorean": "영유아 놀이 지도 — 영유아 관찰 및 평가",
+   "subjectKorean": "영유아 놀이 지도",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "영유아 관찰 및 평가",
+   "summary": "영유아 놀이 지도의 영유아 관찰 및 평가 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.37e1055a41090ebe8994",
+    "kr.topic.2022.high.47f8173847cf3d0fb906",
+    "kr.topic.2022.high.9c35bbad22b38b0e9e4e",
+    "kr.topic.2022.high.d51436cb9cf712e18550",
+    "kr.topic.2022.high.d64cdb200f33338089c3",
+    "kr.topic.2022.high.f268e2497fe221f15501"
    ]
   },
   {
@@ -1362,6 +1956,36 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.d56f7265a35e99ecec",
+   "titleKorean": "요양 지원 — 진료 지원 보조",
+   "subjectKorean": "요양 지원",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "진료 지원 보조",
+   "summary": "요양 지원의 진료 지원 보조 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 18,
+   "topics": [
+    "kr.topic.2022.high.071b61dc40deeee74d69",
+    "kr.topic.2022.high.294f72afe0f4c119c4a7",
+    "kr.topic.2022.high.2b94beef7fa9d82aeb6c",
+    "kr.topic.2022.high.2d13b3c6c5cf22c3c170",
+    "kr.topic.2022.high.576778c340198af148cd",
+    "kr.topic.2022.high.63f01e6cfcd5dd06729b",
+    "kr.topic.2022.high.7069b1fc448df09e32fd",
+    "kr.topic.2022.high.81e19b8faee228cfeda9",
+    "kr.topic.2022.high.846369c8dd75722fd83e",
+    "kr.topic.2022.high.93b28872987c2131a091",
+    "kr.topic.2022.high.9509eaec5e884f7a69d3",
+    "kr.topic.2022.high.95805cda847e134a39fd",
+    "kr.topic.2022.high.9be27355e079e389e033",
+    "kr.topic.2022.high.af217ce11aff28289d63",
+    "kr.topic.2022.high.b80270978b766d32aed9",
+    "kr.topic.2022.high.cbca07304b117e2cb227",
+    "kr.topic.2022.high.d0b1324707c4723ef74e",
+    "kr.topic.2022.high.dca760362cffd5f005fa"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.d5d3bd8d53ff049365",
    "titleKorean": "인체 구조와 기능 — 감각계의 이해",
    "subjectKorean": "인체 구조와 기능",
@@ -1374,6 +1998,27 @@
     "kr.topic.2022.high.70d1c309949121670837",
     "kr.topic.2022.high.b53a20614cb2c174747d",
     "kr.topic.2022.high.d79f3fa2fb4e2aac4213"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.d63e7bc30621202da9",
+   "titleKorean": "대인 복지 서비스 — 가사 활동 지원",
+   "subjectKorean": "대인 복지 서비스",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "가사 활동 지원",
+   "summary": "대인 복지 서비스의 가사 활동 지원 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 9,
+   "topics": [
+    "kr.topic.2022.high.22a9d605351f455e6044",
+    "kr.topic.2022.high.2f92d163700838912379",
+    "kr.topic.2022.high.4eaf67c8b17af66357b0",
+    "kr.topic.2022.high.8be07463f214e3e7b4e2",
+    "kr.topic.2022.high.ab56f522d57fcc788100",
+    "kr.topic.2022.high.b25251cfb590cba0d583",
+    "kr.topic.2022.high.b4d9ebb261a40ed75f6a",
+    "kr.topic.2022.high.fc12172e1059416121e0",
+    "kr.topic.2022.high.ff12e9cab746999fd433"
    ]
   },
   {
@@ -1390,6 +2035,29 @@
     "kr.topic.2022.high.43f331e4a75984027348",
     "kr.topic.2022.high.643349145fe38c3eeb0b",
     "kr.topic.2022.high.ccc641c29c0d665a2a22"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.db75941763c5256b60",
+   "titleKorean": "요양 지원 — 물품 세척",
+   "subjectKorean": "요양 지원",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "물품 세척",
+   "summary": "요양 지원의 물품 세척 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 11,
+   "topics": [
+    "kr.topic.2022.high.00ab9e2325a9043e1cf4",
+    "kr.topic.2022.high.289763c0fed8e6914a2b",
+    "kr.topic.2022.high.58f1aadb2a884c1f80ab",
+    "kr.topic.2022.high.5ff56977f5a9a3791fd1",
+    "kr.topic.2022.high.732a613e9f381ab1eca3",
+    "kr.topic.2022.high.889d877b649824c9d930",
+    "kr.topic.2022.high.ac1908ffe383095a71a8",
+    "kr.topic.2022.high.bb5d66b90d6fc412e9c1",
+    "kr.topic.2022.high.befcc198ec53f4b1a627",
+    "kr.topic.2022.high.d48b752fb33359817438",
+    "kr.topic.2022.high.ee00dcb5d0c2717b356b"
    ]
   },
   {
@@ -1422,6 +2090,24 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.df131c47a222710f5f",
+   "titleKorean": "영유아 건강·안전·영양 지도 — 건강 지도",
+   "subjectKorean": "영유아 건강·안전·영양 지도",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "건강 지도",
+   "summary": "영유아 건강·안전·영양 지도의 건강 지도 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 6,
+   "topics": [
+    "kr.topic.2022.high.074d0de6f145c35c7209",
+    "kr.topic.2022.high.2c56da4bf70bd9f22aa2",
+    "kr.topic.2022.high.72d1c29a72faa47a5d91",
+    "kr.topic.2022.high.7ae1e7a0b2623c57a3e3",
+    "kr.topic.2022.high.913cee316709cadff8d2",
+    "kr.topic.2022.high.9ebdf94d3b070b05cc39"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.e0253cba294345a1bb",
    "titleKorean": "인간 발달 — 영유아 발달",
    "subjectKorean": "인간 발달",
@@ -1447,6 +2133,33 @@
    "topics": [
     "kr.topic.2022.high.bdb8d211781308f02bb8",
     "kr.topic.2022.high.f05c11d3aec1ee44c4f6"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.e18603801acf6b72b1",
+   "titleKorean": "대인 복지 서비스 — 건강 지원",
+   "subjectKorean": "대인 복지 서비스",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "건강 지원",
+   "summary": "대인 복지 서비스의 건강 지원 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 15,
+   "topics": [
+    "kr.topic.2022.high.24340980b838b477a4ce",
+    "kr.topic.2022.high.28dce14b463a3d8c528c",
+    "kr.topic.2022.high.2bb38277a39cb11ecf80",
+    "kr.topic.2022.high.4621f21a6249ff1ef2f9",
+    "kr.topic.2022.high.47749070a1cad6e50cf6",
+    "kr.topic.2022.high.6523d37e5242fa01d7cf",
+    "kr.topic.2022.high.9c2f3ead52eea39d6c7a",
+    "kr.topic.2022.high.d1f68abd3a30b638bef6",
+    "kr.topic.2022.high.d99946bf2b88345b373b",
+    "kr.topic.2022.high.e04e8515d809a0be0b12",
+    "kr.topic.2022.high.e0ee1acc368ea914d30c",
+    "kr.topic.2022.high.e44b7171f89252759cab",
+    "kr.topic.2022.high.f566b8ac695e19acbbb7",
+    "kr.topic.2022.high.f7a993f782226bc0b63d",
+    "kr.topic.2022.high.f9576d71b0c348106e17"
    ]
   },
   {
@@ -1494,6 +2207,61 @@
    ]
   },
   {
+   "id": "kr.cluster.2022.high.ed808526127b2b5aad",
+   "titleKorean": "요양 지원 — 인지 활동 지원 보조",
+   "subjectKorean": "요양 지원",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "인지 활동 지원 보조",
+   "summary": "요양 지원의 인지 활동 지원 보조 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.0711ff6f8245d48dc555",
+    "kr.topic.2022.high.69cbe255239ffb5218fa",
+    "kr.topic.2022.high.6a2d6549c4a92b2f8399",
+    "kr.topic.2022.high.6ca471d8e73d0de9797c",
+    "kr.topic.2022.high.9943a27ca3a85251a296",
+    "kr.topic.2022.high.acf956823df0e42080c1",
+    "kr.topic.2022.high.adb6e2fa140818924bab",
+    "kr.topic.2022.high.c15b665e7a13109a6701",
+    "kr.topic.2022.high.ca83f7c1b8bdbc4e7809",
+    "kr.topic.2022.high.e0f86bd1ece02dd0cca1",
+    "kr.topic.2022.high.f740c9f8cde9ee8396eb",
+    "kr.topic.2022.high.fd46e47a9cce5a47b693"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.eedae3febb05ad97cc",
+   "titleKorean": "대인 복지 서비스 — 심리 정서 지원",
+   "subjectKorean": "대인 복지 서비스",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "심리 정서 지원",
+   "summary": "대인 복지 서비스의 심리 정서 지원 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 19,
+   "topics": [
+    "kr.topic.2022.high.244922573f7d5cbbdfa7",
+    "kr.topic.2022.high.3a483db012de9e8d8370",
+    "kr.topic.2022.high.47aa79dc02c044d1f20c",
+    "kr.topic.2022.high.61f77beec65e7974f839",
+    "kr.topic.2022.high.63a7b345cdb1d955692d",
+    "kr.topic.2022.high.640f3d9c64ad11ee25d3",
+    "kr.topic.2022.high.962f7823a96d2a41b9b1",
+    "kr.topic.2022.high.9d74e62e8b200270975b",
+    "kr.topic.2022.high.a564a745fd8bf32ffbf1",
+    "kr.topic.2022.high.a8547734a393183e5fe4",
+    "kr.topic.2022.high.a8668368cf38814835d8",
+    "kr.topic.2022.high.bca838610c84c1106e05",
+    "kr.topic.2022.high.bd2b59942176145012c6",
+    "kr.topic.2022.high.ca481967a9f1ad3b0f20",
+    "kr.topic.2022.high.cedfb9ec4219779ffb49",
+    "kr.topic.2022.high.e0531ab16c7efd4f37ad",
+    "kr.topic.2022.high.e31863a9af77090948d5",
+    "kr.topic.2022.high.e9c2a4eaf3cb075053aa",
+    "kr.topic.2022.high.f4f23bbb9de44dc21027"
+   ]
+  },
+  {
    "id": "kr.cluster.2022.high.ef1bf27ccb9057e4a0",
    "titleKorean": "기초 간호 임상 실무 — 임종 간호 보조",
    "subjectKorean": "기초 간호 임상 실무",
@@ -1521,6 +2289,57 @@
    "topics": [
     "kr.topic.2022.high.3881bcd3c9709068a7b7",
     "kr.topic.2022.high.985327391adfd4003d1a"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f14f30e2ca76afb1b3",
+   "titleKorean": "영유아 놀이 지도 — 어린이집 보육 계획 수립",
+   "subjectKorean": "영유아 놀이 지도",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "어린이집 보육 계획 수립",
+   "summary": "영유아 놀이 지도의 어린이집 보육 계획 수립 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 15,
+   "topics": [
+    "kr.topic.2022.high.2f29fa492bca1110c2de",
+    "kr.topic.2022.high.3564718d33111f101d1d",
+    "kr.topic.2022.high.451fd4c63951f343584c",
+    "kr.topic.2022.high.597875f618b34c4d2634",
+    "kr.topic.2022.high.7443f08ac4579fc5447c",
+    "kr.topic.2022.high.97e1107d706662c25778",
+    "kr.topic.2022.high.9e161e678c267dfb8fa9",
+    "kr.topic.2022.high.a79dac1b37cb0ba3be18",
+    "kr.topic.2022.high.b8c5b8dad8a4b6efa882",
+    "kr.topic.2022.high.c363a22fbaac75e3d966",
+    "kr.topic.2022.high.c97044127714dfa7978a",
+    "kr.topic.2022.high.d4cb37b58aa2fdbd41da",
+    "kr.topic.2022.high.e403f99f1a8951049439",
+    "kr.topic.2022.high.f01a5e9e6951b24e8612",
+    "kr.topic.2022.high.f7fc74a7cc55270f1ae1"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f2dd676da545847e6c",
+   "titleKorean": "요양 지원 — 환자 이송 지원",
+   "subjectKorean": "요양 지원",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "환자 이송 지원",
+   "summary": "요양 지원의 환자 이송 지원 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 12,
+   "topics": [
+    "kr.topic.2022.high.0d5a0144f5438b483897",
+    "kr.topic.2022.high.17f0c236327831f9a128",
+    "kr.topic.2022.high.24a605c34510d6c530b6",
+    "kr.topic.2022.high.2fe891e78567e998e908",
+    "kr.topic.2022.high.7e593b634e5578e58ab5",
+    "kr.topic.2022.high.82cf4280fee0efaf04ef",
+    "kr.topic.2022.high.89469a4ea22d2210fa16",
+    "kr.topic.2022.high.af07a2142af5a2ede27a",
+    "kr.topic.2022.high.b5695e8ebd4ac483d7ca",
+    "kr.topic.2022.high.c6cded8b5b96f13dffd7",
+    "kr.topic.2022.high.dcad29865df86c2b037a",
+    "kr.topic.2022.high.ea6c2e4c1854c67e309e"
    ]
   },
   {
@@ -1554,6 +2373,38 @@
     "kr.topic.2022.high.49c9fbdd9e3f2f86c4f4",
     "kr.topic.2022.high.511e43bf95bd450db8b3",
     "kr.topic.2022.high.629ac19d25bfc162bb85"
+   ]
+  },
+  {
+   "id": "kr.cluster.2022.high.f93d38eafd42a0951a",
+   "titleKorean": "대인 복지 서비스 — 신체 활동 지원",
+   "subjectKorean": "대인 복지 서비스",
+   "majorFieldSlug": "health-welfare",
+   "gradeBand": "10-12",
+   "domainKorean": "신체 활동 지원",
+   "summary": "대인 복지 서비스의 신체 활동 지원 성취기준과 세부 주제를 묶은 학습 클러스터다.",
+   "topicCount": 20,
+   "topics": [
+    "kr.topic.2022.high.09e63748799421bc9ad1",
+    "kr.topic.2022.high.1159ef54c6fa03d12069",
+    "kr.topic.2022.high.22e5c772c4f11fd0da9b",
+    "kr.topic.2022.high.39bb0b02ad7eb7fded32",
+    "kr.topic.2022.high.3bcbc507b6d598ea5e30",
+    "kr.topic.2022.high.590aa400e37350027a1b",
+    "kr.topic.2022.high.632d7e9095224b6d33ec",
+    "kr.topic.2022.high.6478f94288f3be80a225",
+    "kr.topic.2022.high.6e469026719e5b141052",
+    "kr.topic.2022.high.7e428a26774c91992933",
+    "kr.topic.2022.high.7e920d8b29b47abb6c47",
+    "kr.topic.2022.high.7f272fca1aef03f98ff8",
+    "kr.topic.2022.high.8e809f01fc04b529c051",
+    "kr.topic.2022.high.a43b3adf2d32d036cc82",
+    "kr.topic.2022.high.b5f08e728caceceb9017",
+    "kr.topic.2022.high.bc4fdfdd741a1ed001b3",
+    "kr.topic.2022.high.d7d6415fb9944cc7eabb",
+    "kr.topic.2022.high.dea726f44cc95937d1cb",
+    "kr.topic.2022.high.e3fd0d94b2fc2fd33106",
+    "kr.topic.2022.high.e58828d312a72ecbe409"
    ]
   },
   {
