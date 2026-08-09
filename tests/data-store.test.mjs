@@ -4,6 +4,7 @@ import { cpSync, mkdtempSync, readFileSync, writeFileSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { tmpdir } from 'node:os';
 import { fileURLToPath } from 'node:url';
+import { createHash } from 'node:crypto';
 import { createStore } from '../src/data-store.mjs';
 
 const dataDir = join(dirname(fileURLToPath(import.meta.url)), '..', 'data', 'kr');
@@ -72,4 +73,29 @@ test('core 파일 변조 시 기동이 거부된다', () => {
   const p = join(tmp, 'core', 'curricula.json');
   writeFileSync(p, readFileSync(p, 'utf8').replace('{', '{ '));
   assert.throws(() => createStore(tmp), /체크섬 불일치/);
+});
+
+test('원문 수 불일치 시 병합 전에 거부되어 집계가 오염되지 않는다', () => {
+  const tmp = mkdtempSync(join(tmpdir(), 'voc-store-'));
+  cpSync(dataDir, tmp, { recursive: true });
+  const store0 = createStore(tmp);
+  const slug = store0.includedFieldSlugs[0];
+  // 원문 1건을 제거하고 manifest 해시를 재계산해 sha 게이트는 통과시키되 count 불변식만 깨뜨린다.
+  const textsPath = join(tmp, 'fields', slug, 'standard-texts.json');
+  const data = JSON.parse(readFileSync(textsPath, 'utf8'));
+  data.texts.pop();
+  const raw = Buffer.from(`${JSON.stringify(data, null, 1)}\n`);
+  writeFileSync(textsPath, raw);
+  const manifestPath = join(tmp, 'core', 'manifest.json');
+  const manifest = JSON.parse(readFileSync(manifestPath, 'utf8'));
+  manifest.files[`fields/${slug}/standard-texts.json`] = {
+    bytes: raw.byteLength,
+    sha256: createHash('sha256').update(raw).digest('hex'),
+  };
+  writeFileSync(manifestPath, JSON.stringify(manifest, null, 2));
+  const store = createStore(tmp);
+  assert.throws(() => store.ensureField(slug), /원문 수/);
+  // 핵심: throw 후에도 집계가 비어 있어야 한다(부분 병합 잔류 금지).
+  assert.equal(store.allStandards.length, 0);
+  assert.equal(store.loadedFields.size, 0);
 });

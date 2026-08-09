@@ -75,7 +75,7 @@ function aboutText(store) {
     `- 수량: 수록 과목 ${counts.curricula}/${counts.curriculaIndexed} · 성취기준 ${counts.standards} · 주제 ${counts.topics} · 선수관계 ${counts.dependencies} · 계열 ${counts.fields}`,
     '- 라이선스: MIT. 데이터 원천은 DECK6/korean-secondary-learning-map(MIT)이며 원 저작권 고지를 유지한다.',
     '- 성취기준 공식 원문을 수록한다. 원문은 국가교육위원회 고시 제2024-3호 별책23~39(전문교과) 공공저작물로서 저작권법 제24조의2에 따라 출처를 표기해 이용한다.',
-    '- 범위: 특성화고·마이스터고 전문교과 전공일반·전문공통(v0.1). 전공실무는 이후 버전에서 계열 단위로 추가한다. 보통교과·특목 계열은 korean-secondary-learning-map-mcp가 담당한다.',
+    '- 범위: 특성화고·마이스터고 전문교과 전 범위(전공일반·전공실무·전문공통). 보통교과·특목 계열은 korean-secondary-learning-map-mcp가 담당한다.',
     '- 세부 학습 주제의 설명·증거·발문은 상류의 기계 파생물(candidate)이다.',
     '- 교육부·국가교육위원회·NCIC의 공식 산출물이 아니며, 개별 학습자를 진단하지 않는다.',
     '- 출처·방법론: https://github.com/DECK6/korean-secondary-learning-map',
@@ -126,7 +126,6 @@ export function createServer(store) {
         includedCategories: f.includedCategories,
         dataAvailable: store.includedFieldSlugs.includes(f.slug),
       })),
-      note: '전공실무(major-practical)는 v0.1에 미수록 — 이후 버전에서 계열 단위로 추가 예정.',
     }))
   );
 
@@ -230,16 +229,20 @@ export function createServer(store) {
     {
       title: '성취기준 상세',
       description:
-        '성취기준 코드([간기 01-01] — 공백 유무 무관)로 전체 레코드, 공식 원문, 연결 주제, 코드 구조 해석을 조회한다. 일부 코드는 두 과목이 공유할 수 있어 subject로 구분한다.',
+        '성취기준 코드([간기 01-01] — 공백 유무 무관)로 전체 레코드, 공식 원문, 연결 주제, 코드 구조 해석을 조회한다. 일부 코드는 여러 과목·계열이 공유할 수 있어 subject·majorField로 구분한다.',
       inputSchema: {
         code: z.string().max(200).describe('성취기준 코드'),
         subject: z.string().max(200).optional().describe('과목명 (공유 코드 구분용)'),
+        majorField: MAJOR_FIELD,
       },
     },
-    guarded(async ({ code, subject }) => {
-      ensureScope(store, { subject });
+    guarded(async ({ code, subject, majorField }) => {
+      const slug = resolveMajorField(store, majorField);
+      if (slug) store.ensureField(slug);
+      else ensureScope(store, { subject });
       const normalized = normalizeCode(code);
-      const all = store.standardsByCodeAll.get(normalized) ?? [];
+      let all = store.standardsByCodeAll.get(normalized) ?? [];
+      if (slug) all = all.filter((s) => s.majorFieldSlug === slug);
       let candidates = all;
       if (subject && all.length > 0) {
         const target = normalizeText(resolveSubjectLabel(store, subject));

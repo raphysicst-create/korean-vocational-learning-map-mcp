@@ -51,7 +51,7 @@ export function createStore(dataDir = defaultDataDir) {
     normalizeCode,
     loadedFields: new Set(),
     curricula: [], topics: [], clusters: [], allStandards: [],
-    standardsByCode: new Map(), standardsByCodeAll: new Map(), standardsByKey: new Map(),
+    standardsByCodeAll: new Map(), standardsByKey: new Map(),
     textsByKey: new Map(), topicsById: new Map(), clustersById: new Map(),
     topicsByStandardKey: new Map(),
   };
@@ -71,24 +71,25 @@ export function createStore(dataDir = defaultDataDir) {
     const { topics } = readVerified(dataDir, manifest, `fields/${slug}/topics.json`);
     const { clusters } = readVerified(dataDir, manifest, `fields/${slug}/clusters.json`);
 
-    let added = 0;
+    const expectedTexts = curricula.reduce((n, c) => n + c.standards.length, 0);
+    if (texts.length !== expectedTexts) {
+      throw new Error(
+        `계열 ${slug}: 원문 수(${texts.length})가 성취기준 수(${expectedTexts})와 다릅니다 — pipeline/verify.mjs를 실행하세요.`
+      );
+    }
+
     for (const curriculum of curricula) {
       store.curricula.push(curriculum);
       for (const standard of curriculum.standards) {
         const record = { ...standard, curriculumId: curriculum.id };
         store.allStandards.push(record);
-        added += 1;
         const codeKey = normalizeCode(standard.code);
-        if (!store.standardsByCode.has(codeKey)) store.standardsByCode.set(codeKey, record);
         if (!store.standardsByCodeAll.has(codeKey)) store.standardsByCodeAll.set(codeKey, []);
         store.standardsByCodeAll.get(codeKey).push(record);
         store.standardsByKey.set(standard.key, record);
       }
     }
     for (const entry of texts) store.textsByKey.set(entry.key, entry.text);
-    if (texts.length !== added) {
-      throw new Error(`계열 ${slug}: 원문 수(${texts.length})가 성취기준 수(${added})와 다릅니다 — pipeline/verify.mjs를 실행하세요.`);
-    }
     for (const topic of topics) {
       store.topics.push(topic);
       store.topicsById.set(topic.id, topic);

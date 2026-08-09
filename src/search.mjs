@@ -84,9 +84,9 @@ function rankByQuery(candidates, query, weightedFieldsOf, tieBreak) {
 export function searchStandards(store, { query, subject, majorField, domain, limit = 20 } = {}) {
   const cap = Math.min(limit, MAX_LIMIT);
   let candidates = store.allStandards;
-  if (subject) candidates = candidates.filter((s) => matchesFilter(subject, s.subject, s.subjectKorean));
+  if (subject) candidates = candidates.filter((s) => matchesFilter(subject, s.subjectKorean));
   if (majorField) candidates = candidates.filter((s) => s.majorFieldSlug === majorField);
-  if (domain) candidates = candidates.filter((s) => matchesFilter(domain, s.domain, s.domainKorean));
+  if (domain) candidates = candidates.filter((s) => matchesFilter(domain, s.domainKorean));
   if (query) {
     const codeQuery = normalizeText(normalizeCode(query));
     candidates = rankByQuery(
@@ -115,7 +115,7 @@ export function searchTopics(
 ) {
   const cap = Math.min(limit, MAX_LIMIT);
   let candidates = store.topics;
-  if (subject) candidates = candidates.filter((t) => matchesFilter(subject, t.subject, t.subjectKorean));
+  if (subject) candidates = candidates.filter((t) => matchesFilter(subject, t.subjectKorean));
   if (majorField) candidates = candidates.filter((t) => t.majorFieldSlug === majorField);
   if (facetKey) candidates = candidates.filter((t) => t.facetKey === facetKey);
   if (standardCode) {
@@ -156,7 +156,7 @@ export function searchStandardTexts(store, { query, subject, majorField, limit =
   const normQuery = normalizeText(query);
   const results = [];
   for (const standard of store.allStandards) {
-    if (subject && !matchesFilter(subject, standard.subject, standard.subjectKorean)) continue;
+    if (subject && !matchesFilter(subject, standard.subjectKorean)) continue;
     if (majorField && standard.majorFieldSlug !== majorField) continue;
     const text = store.textsByKey.get(standard.key);
     if (!text) continue;

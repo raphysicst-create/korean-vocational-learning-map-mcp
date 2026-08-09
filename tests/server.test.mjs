@@ -143,3 +143,32 @@ test('미지 majorField는 한국어 오류 + 유효 슬러그 안내', async ()
   assert.ok(result.isError);
   assert.ok(result.content[0].text.includes('계열'));
 });
+
+test('get_standard: majorField로 계열을 좁혀 조회한다', async () => {
+  const { client, store } = await connect();
+  store.ensureAllIncluded();
+  const sample = store.allStandards[0];
+  const detail = payloadOf(
+    await client.callTool({
+      name: 'get_standard',
+      arguments: { code: sample.code, subject: sample.subjectKorean, majorField: sample.majorFieldSlug },
+    })
+  );
+  assert.equal(detail.key, sample.key);
+  // 잘못된 계열을 주면 해당 계열엔 그 코드가 없다는 오류.
+  const wrongField = store.includedFieldSlugs.find((s) => s !== sample.majorFieldSlug);
+  const miss = await client.callTool({
+    name: 'get_standard',
+    arguments: { code: sample.code, majorField: wrongField },
+  });
+  // 다른 계열에 같은 코드가 실존할 수도 있으므로: 성공하면 그 계열 소속이어야 하고, 실패면 한국어 오류.
+  if (miss.isError) assert.ok(miss.content[0].text.includes('찾을 수 없습니다'));
+  else assert.equal(payloadOf(miss).majorFieldSlug, wrongField);
+});
+
+test('list_major_fields: 전 범위 수록 후 정적 미수록 note가 없다', async () => {
+  const { client } = await connect();
+  const payload = payloadOf(await client.callTool({ name: 'list_major_fields', arguments: {} }));
+  assert.equal(payload.note, undefined);
+  assert.ok(payload.fields.every((f) => f.includedCategories.includes('major-practical')));
+});
