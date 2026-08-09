@@ -68,25 +68,32 @@ test('buildVocational: 수록 범위 필터·계열 분할·색인·의존 필�
   const out = buildVocational(syntheticRaw());
   // 보통교과(c4)는 색인에도 없다. 전문교과 3과목은 전부 색인에 있다.
   assert.deepEqual(out.curriculaIndex.map((c) => c.deck6CourseId).sort(), ['c1', 'c2', 'c3']);
-  // v0.1 수록: major-general·specialized-common만 included.
+  // v0.2 수록: 전문교과 3카테고리 전부 included.
   const included = Object.fromEntries(out.curriculaIndex.map((c) => [c.deck6CourseId, c.included]));
-  assert.deepEqual(included, { c1: true, c2: false, c3: true });
-  // 계열 파일: 전기·전자에 c1만 (c2는 미수록), specialized-common 의사 계열에 c3.
+  assert.deepEqual(included, { c1: true, c2: true, c3: true });
+  // 계열 파일: 전기·전자에 c1·c2(전공실무 포함), specialized-common 의사 계열에 c3.
   assert.deepEqual([...out.fields.keys()].sort(), ['electrical-electronics', 'specialized-common']);
-  assert.deepEqual(out.fields.get('electrical-electronics').curricula.map((c) => c.deck6CourseId), ['c1']);
+  assert.deepEqual(
+    out.fields.get('electrical-electronics').curricula.map((c) => c.deck6CourseId).sort(),
+    ['c1', 'c2']
+  );
   assert.deepEqual(out.fields.get('specialized-common').curricula.map((c) => c.deck6CourseId), ['c3']);
   // standard 레코드에 majorFieldSlug·courseCategory가 붙는다.
-  const s = out.fields.get('electrical-electronics').curricula[0].standards[0];
+  const c1cur = out.fields.get('electrical-electronics').curricula.find((c) => c.deck6CourseId === 'c1');
+  const s = c1cur.standards[0];
   assert.equal(s.majorFieldSlug, 'electrical-electronics');
   assert.equal(s.courseCategory, 'major-general');
-  assert.equal(s.key, `${out.fields.get('electrical-electronics').curricula[0].id}:[전기 01-01]`);
+  assert.equal(s.key, `${c1cur.id}:[전기 01-01]`);
   assert.equal(s.gradeBand, '10-12');
-  // 주제: 수록 과목 연결분만 (t2는 c2 전용이라 제외).
-  assert.deepEqual(out.fields.get('electrical-electronics').topics.map((t) => t.id), ['t1']);
-  // 선수관계: 양끝이 수록 주제인 것만 (t2 관련 엣지 드롭).
-  assert.equal(out.dependencies.length, 1);
-  assert.equal(out.dependencies[0].strength, 'hard');
-  // major-fields: 카테고리별 수치 (미수록 포함 전체 집계).
+  // 주제: 수록 과목 연결분 전부 (t2는 c2가 수록되어 이제 포함).
+  assert.deepEqual(
+    out.fields.get('electrical-electronics').topics.map((t) => t.id).sort(),
+    ['t1', 't2']
+  );
+  // 선수관계: 양끝 수록 — t1 자기엣지 + t2→t1 둘 다 유지.
+  assert.equal(out.dependencies.length, 2);
+  assert.deepEqual(out.dependencies.map((d) => d.strength).sort(), ['hard', 'soft']);
+  // major-fields: 카테고리별 수치 + includedCategories 3종.
   const elec = out.majorFields.find((f) => f.slug === 'electrical-electronics');
   assert.equal(elec.courseCount['major-general'], 1);
   assert.equal(elec.courseCount['major-practical'], 1);

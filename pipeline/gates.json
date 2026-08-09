@@ -2,84 +2,85 @@
   "release": "v0.1.0",
   "includedCategories": [
     "major-general",
+    "major-practical",
     "specialized-common"
   ],
   "totals": {
-    "courses": 219,
-    "standards": 8425
+    "courses": 528,
+    "standards": 47625
   },
   "fields": {
     "agriculture-livestock": {
-      "courses": 30,
-      "standards": 1292
+      "courses": 62,
+      "standards": 6547
     },
     "beauty": {
-      "courses": 2,
-      "standards": 31
+      "courses": 6,
+      "standards": 700
     },
     "business-finance": {
-      "courses": 16,
-      "standards": 588
+      "courses": 38,
+      "standards": 1936
     },
     "chemical-industry": {
-      "courses": 8,
-      "standards": 281
+      "courses": 18,
+      "standards": 1561
     },
     "construction-civil": {
-      "courses": 14,
-      "standards": 690
+      "courses": 29,
+      "standards": 2265
     },
     "convergence-ip": {
-      "courses": 7,
-      "standards": 193
+      "courses": 11,
+      "standards": 361
     },
     "culture-arts-design-broadcast": {
-      "courses": 13,
-      "standards": 505
+      "courses": 35,
+      "standards": 3331
     },
     "electrical-electronics": {
-      "courses": 9,
-      "standards": 338
+      "courses": 54,
+      "standards": 5830
     },
     "environment-safety-fire": {
-      "courses": 10,
-      "standards": 822
+      "courses": 25,
+      "standards": 3236
     },
     "fisheries-shipping": {
-      "courses": 31,
-      "standards": 1029
+      "courses": 50,
+      "standards": 3774
     },
     "food-cooking": {
-      "courses": 8,
-      "standards": 597
+      "courses": 25,
+      "standards": 4213
     },
     "health-welfare": {
-      "courses": 17,
-      "standards": 371
+      "courses": 22,
+      "standards": 790
     },
     "information-communication": {
-      "courses": 12,
-      "standards": 286
+      "courses": 27,
+      "standards": 1334
     },
     "machinery": {
-      "courses": 18,
-      "standards": 757
+      "courses": 73,
+      "standards": 5512
     },
     "materials": {
-      "courses": 4,
-      "standards": 127
+      "courses": 15,
+      "standards": 3184
     },
     "specialized-common": {
       "courses": 3,
       "standards": 57
     },
     "textile-clothing": {
-      "courses": 8,
-      "standards": 283
+      "courses": 20,
+      "standards": 1754
     },
     "tourism-leisure": {
-      "courses": 9,
-      "standards": 178
+      "courses": 15,
+      "standards": 1240
     }
   }
 }
