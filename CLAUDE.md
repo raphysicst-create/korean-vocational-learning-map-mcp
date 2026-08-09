@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-한국 특성화고 전문교과 2022 개정 교육과정 학습 그래프 MCP 서버 (npm: `korean-vocational-learning-map-mcp`, 레지스트리: `io.github.raphysicst-create/korean-vocational-learning-map-mcp`). v0.1 수록: 전공일반 216 + 전문공통 3 = 219과목, 성취기준 8,425건(공식 원문 전량), 주제 8,425건, 17계열 + 전문공통. 전공실무 309과목은 미수록(색인에만 존재). stdio 완전 로컬, 도구 10종.
+한국 특성화고 전문교과 2022 개정 교육과정 학습 그래프 MCP 서버 (npm: `korean-vocational-learning-map-mcp`, 레지스트리: `io.github.raphysicst-create/korean-vocational-learning-map-mcp`). v0.2 수록: 전공일반 216 + 전공실무 309 + 전문공통 3 = 528과목(전문교과 전 범위), 성취기준 47,625건(공식 원문 전량), 주제 47,625건, 17계열 + 전문공통. stdio 완전 로컬, 도구 10종.
 
 ## 명령
 

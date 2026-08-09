@@ -1,7 +1,7 @@
 {
   "dataset": "korean-vocational-learning-map",
-  "taxonomyVersion": "kr-vocational-v0.1",
-  "generatedAt": "2026-08-09T12:27:30.512Z",
+  "taxonomyVersion": "kr-vocational-v0.2",
+  "generatedAt": "2026-08-09T23:55:02.493Z",
   "counts": {
     "fields": 18,
     "curricula": 528,

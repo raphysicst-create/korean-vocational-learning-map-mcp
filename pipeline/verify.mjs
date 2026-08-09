@@ -152,7 +152,7 @@ function main() {
   }
   const manifest = {
     dataset: 'korean-vocational-learning-map',
-    taxonomyVersion: 'kr-vocational-v0.1',
+    taxonomyVersion: 'kr-vocational-v0.2',
     generatedAt: new Date().toISOString(),
     counts, files,
   };

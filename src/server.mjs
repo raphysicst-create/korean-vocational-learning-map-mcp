@@ -7,7 +7,7 @@ import {
 import { directEdges, learningPath } from './graph.mjs';
 import { buildRoadmap } from './roadmap.mjs';
 
-const SERVER_INFO = { name: 'korean-vocational-learning-map', version: '0.1.0' };
+const SERVER_INFO = { name: 'korean-vocational-learning-map', version: '0.2.0' };
 
 const MAJOR_FIELD = z.string().max(100).optional()
   .describe('계열 슬러그 또는 계열명 (예: electrical-electronics, 전기·전자)');
@@ -112,7 +112,7 @@ export function createServer(store) {
     {
       title: '전문교과 계열 목록',
       description:
-        '17개 계열 + 전문공통의 개요(과목 수·성취기준 수·수록 여부·근거 별책)를 반환한다. 미수록 카테고리는 이후 버전에서 추가된다.',
+        '17개 계열 + 전문공통의 개요(과목 수·성취기준 수·수록 여부·근거 별책)를 반환한다.',
       inputSchema: {},
     },
     guarded(async () => ok({
@@ -168,9 +168,6 @@ export function createServer(store) {
       return ok({
         majorFieldSlug: slug,
         courses,
-        hint: courses.some((c) => !c.included)
-          ? '전공실무(included:false) 과목은 이후 버전에서 수록 예정입니다.'
-          : undefined,
       });
     })
   );

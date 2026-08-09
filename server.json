@@ -6,12 +6,12 @@
     "url": "https://github.com/raphysicst-create/korean-vocational-learning-map-mcp",
     "source": "github"
   },
-  "version": "0.1.0",
+  "version": "0.2.0",
   "packages": [
     {
       "registryType": "npm",
       "identifier": "korean-vocational-learning-map-mcp",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "transport": { "type": "stdio" }
     }
   ]
