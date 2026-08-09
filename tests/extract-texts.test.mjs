@@ -52,3 +52,62 @@ test('pickVariant는 요약문과 가장 맞는 본문을 고른다', () => {
   const picked = pickVariant(['간호 과정을 설명한다.', '전기 회로를 구성한다.'], '전기 회로를 구성');
   assert.equal(picked.index, 1);
 });
+
+// ── v0.1에서 추가된 전문교과 조판 컷 패턴 5종 + listItem 보강 회귀 고정 ──
+
+test('컷: <성취기준 …> 헤딩 변형에서 자른다', () => {
+  const pdf = '[전기 01-01] 회로를 구성한다. <성취기준 적용 시 고려 사항> 이 부분은 잘려야 한다.';
+  const { texts } = extractTexts(pdf, ['[전기 01-01]']);
+  assert.equal(texts.get('[전기 01-01]'), '회로를 구성한다.');
+});
+
+test('컷: 줄 첫머리 숫자)·글자) 헤딩은 자르되 본문 안 표기는 살린다', () => {
+  const pdf = [
+    '[전기 01-01] 도면(부록 2) 기준으로 회로를 구성한다.',
+    '2) 산업 곤충의 종류',
+    '이 헤딩 이하는 잘려야 한다.',
+    '[전기 01-02] 소자를 나) 항목 없이 구분한다.',
+    '나) 곤충의 생리 및 생태',
+  ].join('\n');
+  const { texts } = extractTexts(pdf, ['[전기 01-01]', '[전기 01-02]']);
+  // 본문 안 '(부록 2)'의 '2)'는 줄 첫머리가 아니므로 잘리지 않는다.
+  assert.equal(texts.get('[전기 01-01]'), '도면(부록 2) 기준으로 회로를 구성한다.');
+  // 본문 안 '나)'도 줄 첫머리가 아니므로 잘리지 않는다.
+  assert.equal(texts.get('[전기 01-02]'), '소자를 나) 항목 없이 구분한다.');
+});
+
+test('컷: 줄 첫머리 글머리표 •에서 자른다', () => {
+  const pdf = '[전기 01-01] 회로를 구성한다.\n• 고려 사항 글머리표는 잘려야 한다.';
+  const { texts } = extractTexts(pdf, ['[전기 01-01]']);
+  assert.equal(texts.get('[전기 01-01]'), '회로를 구성한다.');
+});
+
+test('컷: 줄 첫머리 "N. 교수" 절에서 자르되 본문 안 교수·학습 어휘는 살린다', () => {
+  const pdf = '[전기 01-01] 교수·학습 상황에 맞게 회로를 구성한다.\n3. 교수‧학습 및 평가\n이하 잘려야 한다.';
+  const { texts } = extractTexts(pdf, ['[전기 01-01]']);
+  assert.equal(texts.get('[전기 01-01]'), '교수·학습 상황에 맞게 회로를 구성한다.');
+});
+
+test('컷: expectedCodes에 없는 코드 행(발췌 수록 이웃)에서 자른다', () => {
+  const pdf = '[전기 01-01] 회로를 구성한다.\n[전기 01-03] 이 코드는 기대 목록에 없어 경계가 안 되지만 행 컷으로 잘린다.';
+  const { texts, failures } = extractTexts(pdf, ['[전기 01-01]']);
+  assert.equal(failures.length, 0);
+  assert.equal(texts.get('[전기 01-01]'), '회로를 구성한다.');
+});
+
+test('listItem 보강: 코드 뒤에 조사가 붙은 상호참조 조각은 목록 항목이 아니다', () => {
+  // 고려 사항의 '[산잠 03-01-06]과 연계하여'가 줄바꿈으로 갈라져 줄 첫머리에 온 경우 —
+  // 코드 뒤가 공백이 아니므로(조사 '과') 목록 항목으로 오인하면 안 된다.
+  const pdf = [
+    '앞 과목 설명.',
+    '[산잠 03-01-06]과 연계하여 지도한다.',
+    '[산잠 03-01-06] 산업 곤충의 사육 환경을 조성한다.',
+  ].join('\n');
+  const norm = pdf.normalize('NFC');
+  const positions = findCodePositions(norm, ['[산잠 03-01-06]']);
+  assert.equal(positions.length, 2);
+  assert.equal(positions[0].listItem, false); // 조사 붙은 조각
+  assert.equal(positions[1].listItem, true);  // 진짜 목록 항목
+  const { texts } = extractTexts(pdf, ['[산잠 03-01-06]']);
+  assert.equal(texts.get('[산잠 03-01-06]'), '산업 곤충의 사육 환경을 조성한다.');
+});
