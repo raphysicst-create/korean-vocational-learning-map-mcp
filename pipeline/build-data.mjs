@@ -237,7 +237,7 @@ function main() {
   };
   if (process.argv.includes('--record-gates')) {
     writeFileSync(join(here, 'gates.json'), `${JSON.stringify({
-      release: 'v0.1.0',
+      release: 'v0.2.0',
       includedCategories: [...RELEASE_SCOPE],
       totals, fields: fieldCounts,
     }, null, 2)}\n`);
