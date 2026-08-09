@@ -12,6 +12,26 @@ test('codePattern은 코드 내 공백을 유연하게 잡는다', () => {
   assert.ok(!codePattern('[간기 01-01]').test('[간기 01-02]'));
 });
 
+test('codePattern은 하이픈이 대시 이형으로 조판된 코드도 잡는다', () => {
+  // 별책26(미용)은 일부 코드의 첫 하이픈을 엔 대시(U+2013)로 조판한다(실측 24건).
+  assert.ok(codePattern('[네일 04-01-02]').test('[네일 04–01-02]')); // 엔 대시
+  assert.ok(codePattern('[메크 14-01-02]').test('[메크 14–01–02]')); // 전부 대시여도
+  assert.ok(codePattern('[네일 04-01-02]').test('[네일 04-01-02]'));     // 원형 유지
+  assert.ok(!codePattern('[네일 04-01-02]').test('[네일 04-01-03]'));
+});
+
+test('extractTexts: 대시 이형 코드의 본문도 절취한다', () => {
+  const pdf = [
+    '[네일 04-01-01] 고객의 요청에 따라 적합한 네일 길이와 모양을 만들 수 있다.',
+    '[네일 04–01-02] 네일 상태에 따라 표면을 정리하여 밀착력을 높일 수 있다.',
+    '<성취기준 적용 시 고려 사항>',
+  ].join('\n');
+  const { texts, failures } = extractTexts(pdf, ['[네일 04-01-01]', '[네일 04-01-02]']);
+  assert.equal(failures.length, 0);
+  assert.equal(texts.get('[네일 04-01-01]'), '고객의 요청에 따라 적합한 네일 길이와 모양을 만들 수 있다.');
+  assert.equal(texts.get('[네일 04-01-02]'), '네일 상태에 따라 표면을 정리하여 밀착력을 높일 수 있다.');
+});
+
 test('findCodePositions는 공백 변형 출현도 위치로 잡는다', () => {
   const text = '앞말\n[전기 01-01] 본문A입니다.\n[전기01-02] 본문B입니다.\n';
   const positions = findCodePositions(text, ['[전기 01-01]', '[전기 01-02]']);

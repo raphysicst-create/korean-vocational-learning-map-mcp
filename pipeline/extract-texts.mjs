@@ -99,9 +99,13 @@ export function sliceStandardText(fullText, startIdx, endIdx) {
 
 // 코드 내 공백을 \s* 로 바꾼 정규식. 전문교과 코드([간기 01-01])는 PDF 조판에서
 // 공백이 사라지거나 줄바꿈으로 갈라질 수 있다.
+// 하이픈도 대시 이형으로 조판될 수 있다 — 실측: 별책26(미용)이 24건([네일] 22·[메크] 2)의
+// 첫 하이픈을 엔 대시(U+2013)로 조판. 유사 이형(U+2010·2011·2014·2212)까지 함께 허용한다.
+// 본문 텍스트는 건드리지 않고 코드 대조 시에만 허용하므로 추출 원문은 원본 그대로 남는다.
 export function codePattern(code) {
   const escaped = normalizeRoman(String(code).normalize('NFC'))
     .replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+    .replace(/-/g, '[-‐‑–—−]')
     .replace(/(\\\s|\s)+/g, '\\s*');
   return new RegExp(escaped, 'g');
 }
