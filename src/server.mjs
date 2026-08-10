@@ -396,9 +396,10 @@ export function createServer(store) {
         clusterId: z.string().max(200).optional().describe('클러스터 ID (단건 상세)'),
         subject: z.string().max(200).optional().describe('과목명 필터'),
         majorField: MAJOR_FIELD,
+        limit: z.number().int().min(1).max(50).optional().describe('최대 결과 수 (기본 20)'),
       },
     },
-    guarded(async ({ clusterId, subject, majorField }) => {
+    guarded(async ({ clusterId, subject, majorField, limit }) => {
       const slug = resolveMajorField(store, majorField);
       if (clusterId) {
         if (!store.clustersById.has(clusterId)) store.ensureAllIncluded();
@@ -418,9 +419,11 @@ export function createServer(store) {
         candidates = candidates.filter((c) => normalizeText(c.subjectKorean) === target);
       }
       if (slug) candidates = candidates.filter((c) => c.majorFieldSlug === slug);
+      // total은 잘리기 전 전체 개수 — 호출자가 결과가 잘렸음을 알 수 있어야 한다.
+      const cap = Math.min(limit ?? 20, 50);
       return ok({
         total: candidates.length,
-        results: candidates.map((c) => ({
+        results: candidates.slice(0, cap).map((c) => ({
           id: c.id, titleKorean: c.titleKorean, subjectKorean: c.subjectKorean,
           majorFieldSlug: c.majorFieldSlug, topicCount: c.topicCount,
         })),

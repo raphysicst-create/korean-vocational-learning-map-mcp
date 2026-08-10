@@ -124,6 +124,22 @@ test('list_clusters: 요약 목록과 단건 상세', async () => {
   assert.equal(detail.id, list.results[0].id);
 });
 
+test('list_clusters: 무필터 목록에도 limit 상한이 걸린다', async () => {
+  const { client, store } = await connect();
+  store.ensureAllIncluded();
+  if (store.clusters.length <= 50) return; // 상한을 시험할 만큼 크지 않으면 스킵
+  const dflt = payloadOf(await client.callTool({ name: 'list_clusters', arguments: {} }));
+  assert.ok(dflt.results.length <= 50, '무필터 호출이 전량을 반환하면 안 된다');
+  assert.equal(dflt.results.length, 20); // 다른 도구와 같은 기본값
+  assert.ok(dflt.total > dflt.results.length, 'total은 잘리기 전 전체 개수여야 한다');
+  const capped = payloadOf(
+    await client.callTool({ name: 'list_clusters', arguments: { limit: 50 } })
+  );
+  assert.equal(capped.results.length, 50);
+  assert.equal(capped.total, dflt.total);
+  assert.equal(capped.total, store.clusters.length);
+});
+
 test('search_standard_text: 원문 검색', async () => {
   const { client, store } = await connect();
   store.ensureAllIncluded();
