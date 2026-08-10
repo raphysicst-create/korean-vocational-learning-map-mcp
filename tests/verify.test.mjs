@@ -89,6 +89,30 @@ test('verifyAll: 700자를 넘는 원문을 잡는다 (경계 700자는 통과)'
   assert.ok(errors.some((e) => e.includes('원문 길이 초과')));
 });
 
+// ── v0.2 최종 리뷰 C2: 절단 원문이 게이트를 통과해 출시됐다(실측 3건). 산출물 쪽에 고정한다. ──
+
+test('verifyAll: 요약문의 진부분 접두사인 절단 원문을 잡는다', () => {
+  const root = writeFixture(mkdtempSync(join(tmpdir(), 'voc-verify-')));
+  const sp = join(root, 'fields/electrical-electronics/curriculum-standards.json');
+  const std = JSON.parse(readFileSync(sp, 'utf8'));
+  std.curricula[0].standards[0].summary = 'CNC 밀링(머시닝센 터) 가공 데이터를 생성하기';
+  writeFileSync(sp, JSON.stringify(std));
+  const tp = join(root, 'fields/electrical-electronics/standard-texts.json');
+  const data = JSON.parse(readFileSync(tp, 'utf8'));
+
+  // 단어 중간에서 잘린 원문 — 요약문의 진부분 접두사가 된다.
+  data.texts[0].text = 'CNC 밀링(머시닝센';
+  writeFileSync(tp, JSON.stringify(data));
+  const { ok, errors } = verifyAll(root, GATES);
+  assert.ok(!ok);
+  assert.ok(errors.some((e) => e.includes('절단')));
+
+  // 온전한 원문은 요약문보다 길어 접두사 조건에 걸리지 않는다.
+  data.texts[0].text = 'CNC 밀링(머시닝센 터) 가공 데이터를 생성할 수 있다.';
+  writeFileSync(tp, JSON.stringify(data));
+  assert.deepEqual(verifyAll(root, GATES).errors, []);
+});
+
 test('verifyAll: 사설 영역(PUA) 글리프가 섞인 원문을 잡는다', () => {
   const root = writeFixture(mkdtempSync(join(tmpdir(), 'voc-verify-')));
   const p = join(root, 'fields/electrical-electronics/standard-texts.json');

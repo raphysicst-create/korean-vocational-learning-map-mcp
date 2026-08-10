@@ -13,6 +13,11 @@ export const FIELD_FILES = ['curriculum-standards.json', 'standard-texts.json', 
 // 추출기는 공유 코드 배정(pickVariant) 경로와 exceptions.json 수동 원문에 대해서는
 // 아래 두 검사를 통과시키지 않으므로, 최종 산출물에서 전수로 다시 확인한다.
 const MAX_TEXT = 700;
+// 요약문(summary)은 원문의 어미만 바꾼 기계 파생물이라("…할 수 있다" → "…하기")
+// 온전한 원문은 요약문보다 짧을 수 없다. 원문이 요약문의 "진부분 접두사"라면
+// 조판 컷이 본문을 단어 중간에서 잘랐다는 신호다 — v0.2에서 실측 3건이 게이트를
+// 그대로 통과해 출시됐다(닫는 괄호가 줄 첫머리에 온 경우). 산출물 쪽에서 전수로 막는다.
+const compactForCompare = (v) => String(v ?? '').normalize('NFC').replace(/[\s⋅·,.()]/g, '');
 const UNMAPPED_GLYPH = /[\uE000-\uF8FF]/; // 유니코드 사설 사용 영역(Private Use Area)
 
 export function verifyAll(dataDir = defaultDataDir, gates) {
@@ -50,6 +55,7 @@ export function verifyAll(dataDir = defaultDataDir, gates) {
     for (const t of topics) allTopics.push(t);
 
     const keySet = new Set(curricula.flatMap((c) => c.standards.map((s) => s.key)));
+    const summaryByKey = new Map(curricula.flatMap((c) => c.standards.map((s) => [s.key, s.summary])));
     const textKeys = new Set();
     for (const t of texts) {
       if (!keySet.has(t.key)) errors.push(`미지 key 원문: ${t.key}`);
@@ -61,6 +67,12 @@ export function verifyAll(dataDir = defaultDataDir, gates) {
       }
       if (t.text && UNMAPPED_GLYPH.test(t.text)) {
         errors.push(`원문 사설 영역 글리프: ${t.key}`);
+      }
+      const compactText = compactForCompare(t.text);
+      const compactSummary = compactForCompare(summaryByKey.get(t.key));
+      if (compactText && compactSummary && compactText.length < compactSummary.length
+          && compactSummary.startsWith(compactText)) {
+        errors.push(`원문 절단 의심(요약문의 진부분 접두사): ${t.key}`);
       }
     }
     for (const key of keySet) if (!textKeys.has(key)) errors.push(`원문 누락: ${key}`);
