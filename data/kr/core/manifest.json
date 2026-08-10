@@ -1,7 +1,7 @@
 {
   "dataset": "korean-vocational-learning-map",
   "taxonomyVersion": "kr-vocational-v0.2",
-  "generatedAt": "2026-08-09T23:55:02.493Z",
+  "generatedAt": "2026-08-10T00:34:28.208Z",
   "counts": {
     "fields": 18,
     "curricula": 528,
@@ -173,8 +173,8 @@
       "sha256": "59ca944a73c8a28e0dadb98d8ab661e633be4a900a9bb0a7406ef65b1ef114ff"
     },
     "fields/fisheries-shipping/standard-texts.json": {
-      "bytes": 1010531,
-      "sha256": "0ac93205f3b7c62715ffe4a5fc0f5609a9e3e4fdf6396dd8e4a36ba8b57b8e86"
+      "bytes": 1010592,
+      "sha256": "3d42260a72d76082d66bb44bf9e52ec7b711d1eccf8e804b763963a08d2e0faf"
     },
     "fields/fisheries-shipping/topics.json": {
       "bytes": 4600855,
@@ -237,8 +237,8 @@
       "sha256": "a840ec4b5e6a46f3ff884c710c0092b28a8609e4eb5052c0a732d6c6da9fc33f"
     },
     "fields/machinery/standard-texts.json": {
-      "bytes": 1507930,
-      "sha256": "690b4a6a147c597407b20ff789c6cc8d3cda806c0ff2669f0abeeb2bc85bb03c"
+      "bytes": 1507977,
+      "sha256": "578b1a904d5e5caf6a401c21580fa3cae5892a9faeb81009411c1baf5f5ac783"
     },
     "fields/machinery/topics.json": {
       "bytes": 6853051,
@@ -285,8 +285,8 @@
       "sha256": "655d58e820163e1c51e7017b0a809372eab520442c29e24220e9e2d7c15df79d"
     },
     "fields/textile-clothing/standard-texts.json": {
-      "bytes": 488953,
-      "sha256": "c441e57f6457fcbbb9a36fea75dac5d8aae3febb6c5e4915e8930472ff599cfa"
+      "bytes": 489039,
+      "sha256": "d6636415d5c015a7cae5fa5528378c132db6be6ccf3558bb9947b6c83a797623"
     },
     "fields/textile-clothing/topics.json": {
       "bytes": 2220325,

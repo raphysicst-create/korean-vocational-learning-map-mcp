@@ -10995,7 +10995,7 @@
   {
    "key": "kr-2022-voc-선박-통신:[선통 07-02-01]",
    "code": "[선통 07-02-01]",
-   "text": "LRIT(Long-Range Identification and Tracking of Ships 선박 장거리 식별 추적 장",
+   "text": "LRIT(Long-Range Identification and Tracking of Ships 선박 장거리 식별 추적 장 치) 장비의 정상 작동 여부를 확인할 수 있다.",
    "sourceId": "annex38",
    "locator": "pattern-match"
   },

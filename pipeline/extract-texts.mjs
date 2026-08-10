@@ -33,8 +33,12 @@ const SECTION_CUT_PATTERNS = [
   // 전공일반 과목이 NCS 능력단위의 일부 코드만 발췌 수록하는 경우, 다음 성취기준 행이
   // expectedCodes에 없어 절취 경계가 되지 못하고 딸려 들어온다(실측 12건). 줄 첫머리의
   // 코드 행([약칭 NN-NN…)에서 자른다 — 본문 문장 안에는 코드 상호참조가 나타나지 않는다.
-  /(?:^|\n)[ \t]*\[\S{1,8}\s?\d{2}\s*-\s*\d{2}/,
+  // 하이픈은 codePattern과 같은 정책으로 대시 이형까지 허용한다(별책26 등이 엔 대시 조판).
+  /(?:^|\n)[ \t]*\[\S{1,8}\s?\d{2}\s*[-‐‑–—−]\s*\d{2}/,
 ];
+// 컷 지점을 순회 탐색하려면 g 플래그가 필요하다. `^`는 (m 플래그가 없으므로) lastIndex가
+// 0보다 클 때 절대 매치되지 않아, 재탐색이 줄 첫머리 조건을 무너뜨리지 않는다.
+const SECTION_CUT_PATTERNS_G = SECTION_CUT_PATTERNS.map((p) => new RegExp(p.source, `${p.flags}g`));
 const MAX_TEXT = 700;
 const FALLBACK_WINDOW = 1200;
 // 쪽 번호(아라비아 숫자 또는 앞부속의 로마자 소문자)만 있는 줄.
@@ -88,11 +92,36 @@ function isListItem(text, idx) {
   return true;
 }
 
+/**
+ * 컷 후보 지점 앞 구간에 닫히지 않은 여는 괄호가 남아 있는지.
+ * 여는 괄호가 열린 채라면 그 지점의 ')'는 헤딩 기호가 아니라 괄호구의 일부다.
+ * 짝 없는 닫는 괄호로 깊이가 음수가 되지 않게 0에서 막아, 뒤따르는 진짜 괄호구를 가리지 않는다.
+ */
+function hasUnclosedParen(text) {
+  let depth = 0;
+  for (const ch of text) {
+    if (ch === '(' || ch === '（') depth += 1;
+    else if (ch === ')' || ch === '）') depth = Math.max(0, depth - 1);
+  }
+  return depth > 0;
+}
+
 export function sliceStandardText(fullText, startIdx, endIdx) {
   let chunk = fullText.slice(startIdx, endIdx);
-  for (const pattern of SECTION_CUT_PATTERNS) {
-    const cut = chunk.search(pattern);
-    if (cut !== -1) chunk = chunk.slice(0, cut);
+  for (const pattern of SECTION_CUT_PATTERNS_G) {
+    pattern.lastIndex = 0;
+    let m;
+    while ((m = pattern.exec(chunk)) !== null) {
+      // PDF가 괄호구를 줄바꿈으로 갈라 닫는 괄호가 줄 첫머리에 오면('밀링(머시닝센 / 터)')
+      // 헤딩 컷으로 오인해 본문이 단어 중간에서 잘린다(실측 3건). 앞 구간의 괄호가
+      // 열린 채면 이 지점은 헤딩이 아니므로 건너뛰고 다음 후보를 본다.
+      // 진짜 헤딩('나) 곤충의 생리')은 앞에 열린 괄호가 없어 그대로 잘린다.
+      if (!hasUnclosedParen(chunk.slice(0, m.index))) {
+        chunk = chunk.slice(0, m.index);
+        break;
+      }
+      pattern.lastIndex = m.index + 1;
+    }
   }
   return normalizeWhitespace(chunk);
 }
