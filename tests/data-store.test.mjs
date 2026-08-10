@@ -12,9 +12,19 @@ const dataDir = join(dirname(fileURLToPath(import.meta.url)), '..', 'data', 'kr'
 test('기동 시 core만 로드되고 계열 데이터는 비어 있다', () => {
   const store = createStore(dataDir);
   assert.ok(store.majorFields.length >= 1);
-  assert.ok(store.curriculaIndex.length >= 219); // 전 범위 색인(528)
+  assert.ok(store.curriculaIndex.length >= 528); // 전 범위 색인(528)
   assert.equal(store.loadedFields.size, 0);
   assert.equal(store.allStandards.length, 0);
+});
+
+// manifest 상대 비교만으로는 RELEASE_SCOPE가 축소돼도 전 테스트가 통과한다.
+// v0.2 출시 범위(전문교과 전 범위)를 절대값으로 못 박아 범위 회귀를 잡는다.
+test('v0.2 출시 범위가 절대값으로 고정되어 있다', () => {
+  const store = createStore(dataDir);
+  assert.equal(store.manifest.counts.curricula, 528);   // 전공일반 216 + 전공실무 309 + 전문공통 3
+  assert.equal(store.manifest.counts.standards, 47625);
+  assert.equal(store.manifest.counts.texts, 47625);     // 출시 범위 = 원문 범위
+  assert.equal(store.curriculaIndex.length, 528);
 });
 
 test('ensureField는 해당 계열을 로드·병합하고 캐시한다', () => {
