@@ -39,7 +39,7 @@ test('list_major_fields: 계열 개요 + 수록 여부', async () => {
   assert.ok('slug' in f && 'labelKorean' in f && 'includedCategories' in f);
 });
 
-test('list_curricula: 무필터는 계열 요약, majorField 지정 시 과목 목록(미수록 표시 포함)', async () => {
+test('list_curricula: 무필터는 계열 요약, majorField 지정 시 과목 목록', async () => {
   const { client, store } = await connect();
   const summary = payloadOf(await client.callTool({ name: 'list_curricula', arguments: {} }));
   assert.ok(summary.groups.length >= 1);

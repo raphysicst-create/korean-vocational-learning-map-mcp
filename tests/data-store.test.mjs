@@ -12,7 +12,7 @@ const dataDir = join(dirname(fileURLToPath(import.meta.url)), '..', 'data', 'kr'
 test('기동 시 core만 로드되고 계열 데이터는 비어 있다', () => {
   const store = createStore(dataDir);
   assert.ok(store.majorFields.length >= 1);
-  assert.ok(store.curriculaIndex.length >= 219); // 미수록 전공실무 포함 색인(총 528)
+  assert.ok(store.curriculaIndex.length >= 219); // 전 범위 색인(528)
   assert.equal(store.loadedFields.size, 0);
   assert.equal(store.allStandards.length, 0);
 });

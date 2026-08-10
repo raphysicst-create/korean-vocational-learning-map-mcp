@@ -134,7 +134,7 @@ export function createServer(store) {
     {
       title: '과목 목록',
       description:
-        '필터가 없으면 계열 단위 요약을 반환한다. majorField를 주면 그 계열의 과목 목록(미수록 과목은 included:false로 표시)을 반환한다.',
+        '필터가 없으면 계열 단위 요약을 반환한다. majorField를 주면 그 계열의 과목 목록을 반환한다.',
       inputSchema: { majorField: MAJOR_FIELD },
     },
     guarded(async ({ majorField }) => {
