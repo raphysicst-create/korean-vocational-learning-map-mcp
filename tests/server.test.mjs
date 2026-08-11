@@ -31,12 +31,15 @@ test('도구 10종이 등록되어 있다', async () => {
   );
 });
 
-test('list_major_fields: 계열 개요 + 수록 여부', async () => {
+test('list_major_fields: 계열 개요', async () => {
   const { client } = await connect();
   const payload = payloadOf(await client.callTool({ name: 'list_major_fields', arguments: {} }));
   assert.ok(payload.fields.length >= 1);
   const f = payload.fields[0];
-  assert.ok('slug' in f && 'labelKorean' in f && 'includedCategories' in f);
+  assert.ok('slug' in f && 'labelKorean' in f && 'courseCount' in f && 'standardCount' in f);
+  // 전 범위 수록으로 값이 상수가 된 단계 출시 잔재 필드는 응답에서 제거됐다.
+  assert.ok(!('includedCategories' in f));
+  assert.ok(!('dataAvailable' in f));
 });
 
 test('list_curricula: 무필터는 계열 요약, majorField 지정 시 과목 목록', async () => {
@@ -48,7 +51,9 @@ test('list_curricula: 무필터는 계열 요약, majorField 지정 시 과목 �
     await client.callTool({ name: 'list_curricula', arguments: { majorField: slug } })
   );
   assert.ok(detail.courses.length >= 1);
-  assert.ok(detail.courses.every((c) => typeof c.included === 'boolean'));
+  // 단계 출시 잔재: 무필터 요약의 includedCourseCount·과목의 included는 항상 상수였다.
+  assert.ok(!('includedCourseCount' in summary.groups[0]));
+  assert.ok(!('included' in detail.courses[0]));
 });
 
 test('검색은 계열을 지연 로드한다 (서버 생성 시 0, 검색 후 ≥1)', async () => {
@@ -183,8 +188,8 @@ test('get_standard: majorField로 계열을 좁혀 조회한다', async () => {
 });
 
 test('list_major_fields: 전 범위 수록 후 정적 미수록 note가 없다', async () => {
-  const { client } = await connect();
+  const { client, store } = await connect();
   const payload = payloadOf(await client.callTool({ name: 'list_major_fields', arguments: {} }));
   assert.equal(payload.note, undefined);
-  assert.ok(payload.fields.every((f) => f.includedCategories.includes('major-practical')));
+  assert.equal(payload.fields.length, store.majorFields.length);
 });

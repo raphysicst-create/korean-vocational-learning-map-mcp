@@ -49,7 +49,7 @@ function ensureScope(store, { subject, majorField }) {
   if (subject) {
     const squash = (v) => normalizeText(v).replace(/\s+/g, '');
     const target = squash(subject);
-    const hits = store.curriculaIndex.filter((c) => c.included && squash(c.subjectKorean) === target);
+    const hits = store.curriculaIndex.filter((c) => squash(c.subjectKorean) === target);
     if (hits.length > 0) {
       for (const hit of hits) store.ensureField(hit.majorFieldSlug);
       return;
@@ -112,7 +112,7 @@ export function createServer(store) {
     {
       title: '전문교과 계열 목록',
       description:
-        '17개 계열 + 전문공통의 개요(과목 수·성취기준 수·수록 여부·근거 별책)를 반환한다.',
+        '17개 계열 + 전문공통의 개요(과목 수·성취기준 수·근거 별책)를 반환한다. 전 계열이 수록되어 있다.',
       inputSchema: {},
     },
     guarded(async () => ok({
@@ -123,8 +123,6 @@ export function createServer(store) {
         annexId: f.annexId,
         courseCount: f.courseCount,
         standardCount: f.standardCount,
-        includedCategories: f.includedCategories,
-        dataAvailable: store.includedFieldSlugs.includes(f.slug),
       })),
     }))
   );
@@ -147,12 +145,11 @@ export function createServer(store) {
             groups.set(c.majorFieldSlug, {
               majorFieldSlug: c.majorFieldSlug,
               labelKorean: field?.labelKorean ?? null,
-              courseCount: 0, includedCourseCount: 0, standardCount: 0,
+              courseCount: 0, standardCount: 0,
             });
           }
           const g = groups.get(c.majorFieldSlug);
           g.courseCount += 1;
-          if (c.included) g.includedCourseCount += 1;
           g.standardCount += c.standardCount;
         }
         return ok({
@@ -163,7 +160,7 @@ export function createServer(store) {
         .filter((c) => c.majorFieldSlug === slug)
         .map((c) => ({
           id: c.id, subjectKorean: c.subjectKorean, courseCategory: c.courseCategory,
-          gradeBand: c.gradeBand, standardCount: c.standardCount, included: c.included,
+          gradeBand: c.gradeBand, standardCount: c.standardCount,
         }));
       return ok({
         majorFieldSlug: slug,

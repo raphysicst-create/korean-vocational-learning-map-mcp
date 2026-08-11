@@ -1,5 +1,19 @@
 # Changelog
 
+## Unreleased
+
+**파괴적 변경 — 응답 스키마에서 단계 출시 잔재 필드 제거.** 전 범위 수록으로 값이
+상수가 되어 소비자를 오도하던 필드다 (실측: `included` 528건 전부 true,
+`includedCategories` 18계열 전부 동일, `dataAvailable` 항상 true).
+
+- `list_major_fields` — `includedCategories`·`dataAvailable` 제거
+- `list_curricula` — 계열 요약의 `includedCourseCount`, 과목 레코드의 `included` 제거
+- `ensureScope`의 사문 조건 `c.included &&` 제거
+- 설계 스펙에 "현행과 달라진 지점" 후기 절 추가 (본문은 이력으로 보존)
+
+데이터 파일과 파이프라인은 변경하지 않았다 — 위 필드는 계속 생성되며 서버가 응답에
+싣지 않을 뿐이다.
+
 ## 0.2.0 — 2026-08-11
 
 - 전공실무 309과목(성취기준 39,200건) 수록 — 전문교과 전 범위 완성 (528과목·47,625건·원문 100%)
