@@ -44,7 +44,7 @@ v0.1 Task 5가 추가한 전문교과 컷 패턴 5종과 listItem 보강("코드
 - Consumes: `extractTexts(pdfText, expectedCodes)`, `findCodePositions(norm, codes)` — `pipeline/extract-texts.mjs`의 기존 export. 컷 패턴은 `sliceStandardText` 내부에서 적용되므로 `extractTexts` 경유로 검증한다.
 - Produces: 없음 (테스트만).
 
-- [ ] **Step 1: 회귀 테스트 추가** (`tests/extract-texts.test.mjs` 말미에)
+- [x] **Step 1: 회귀 테스트 추가** (`tests/extract-texts.test.mjs` 말미에)
 
 ```js
 // ── v0.1에서 추가된 전문교과 조판 컷 패턴 5종 + listItem 보강 회귀 고정 ──
@@ -107,21 +107,21 @@ test('listItem 보강: 코드 뒤에 조사가 붙은 상호참조 조각은 목
 });
 ```
 
-- [ ] **Step 2: 실행 — 전부 PASS 확인** (기존 동작 고정이므로 즉시 통과해야 정상)
+- [x] **Step 2: 실행 — 전부 PASS 확인** (기존 동작 고정이므로 즉시 통과해야 정상)
 
 Run: `node --test tests/extract-texts.test.mjs`
 Expected: 12 pass (기존 6 + 신규 6)
 
-- [ ] **Step 3: 변이 검증 — 테스트의 실효성 증명** (v0.1 Task 6과 같은 방식)
+- [x] **Step 3: 변이 검증 — 테스트의 실효성 증명** (v0.1 Task 6과 같은 방식)
 
 `pipeline/extract-texts.mjs`의 전문교과 컷 패턴 5종(`/<\s*성취기준/`부터 코드 행 컷까지)을 임시로 주석 처리하고 테스트 실행 → **신규 테스트 중 해당 패턴을 덮는 것들이 실제로 실패**하는지 확인. listItem 보강(`&& (after === undefined || /\s/.test(after))`)도 임시 제거해 6번 테스트가 실패하는지 확인. 확인 후 **원상 복구**하고 파일이 원본과 동일함을 `git diff pipeline/extract-texts.mjs`(출력 없음)로 증명. 변이별 실패 테스트 목록을 보고서에 기록.
 
-- [ ] **Step 4: 전체 스위트 회귀 확인**
+- [x] **Step 4: 전체 스위트 회귀 확인**
 
 Run: `npm test`
 Expected: 60 pass (기존 54 + 신규 6)
 
-- [ ] **Step 5: 커밋**
+- [x] **Step 5: 커밋**
 
 ```bash
 git add tests/extract-texts.test.mjs
@@ -140,7 +140,7 @@ git commit -m "test: 전문교과 컷 패턴·listItem 보강 회귀 고정 (재
 **Interfaces:**
 - Produces: `RELEASE_SCOPE = {major-general, major-practical, specialized-common}`, `EXPECTED_INCLUDED_COURSES = 528`. Task 3·4가 이 산출 데이터를 소비.
 
-- [ ] **Step 1: 합성 픽스처 테스트 기대값을 새 범위로 갱신 (TDD — 먼저 바꿔 RED)**
+- [x] **Step 1: 합성 픽스처 테스트 기대값을 새 범위로 갱신 (TDD — 먼저 바꿔 RED)**
 
 `tests/build-data.test.mjs`의 `buildVocational` 테스트에서 v0.1 범위를 전제한 단언들을 다음으로 교체:
 
@@ -186,12 +186,12 @@ test('buildVocational: 수록 범위 필터·계열 분할·색인·의존 필�
 
 (`syntheticRaw()` 픽스처 자체는 수정하지 않는다.)
 
-- [ ] **Step 2: RED 확인**
+- [x] **Step 2: RED 확인**
 
 Run: `node --test tests/build-data.test.mjs`
 Expected: FAIL — included·fields·dependencies 단언들이 현행 v0.1 범위와 충돌
 
-- [ ] **Step 3: RELEASE_SCOPE 확장** (`pipeline/build-data.mjs`)
+- [x] **Step 3: RELEASE_SCOPE 확장** (`pipeline/build-data.mjs`)
 
 ```js
 // v0.2 수록 범위: 전문교과 전 범위. (v0.1은 major-general+specialized-common만이었다.)
@@ -199,18 +199,18 @@ export const RELEASE_SCOPE = new Set(['major-general', 'major-practical', 'speci
 export const EXPECTED_INCLUDED_COURSES = 528; // 전공일반 216 + 전공실무 309 + 전문공통 3 (상류 실측)
 ```
 
-- [ ] **Step 4: GREEN 확인 + 전체 회귀**
+- [x] **Step 4: GREEN 확인 + 전체 회귀**
 
 Run: `node --test tests/build-data.test.mjs` → PASS
 Run: `npm test` → 60 pass (주의: data-store·server 테스트는 아직 v0.1 데이터 기준 — 이 시점엔 데이터 미재생성이라 그대로 통과해야 한다)
 
-- [ ] **Step 5: 실제 빌드 + gates 재기록**
+- [x] **Step 5: 실제 빌드 + gates 재기록**
 
 Run: `node pipeline/build-data.mjs --record-gates`
 Expected: `수록 과목 528 · 성취기준 47625 · 계열 18` 로그, gates.json에 totals `{courses: 528, standards: 47625}`. 성취기준이 47,625가 아니면 상류 필터를 의심하고 진단(README 기준선 총수와 대조), 해결 못 하면 BLOCKED.
 gates.json을 열어 계열 합계=totals 일치 육안 확인, 주제·선수관계 실측치를 로그에서 보고서에 기록.
 
-- [ ] **Step 6: 커밋** (데이터 산출물은 Task 4에서 — 코드·테스트·gates만)
+- [x] **Step 6: 커밋** (데이터 산출물은 Task 4에서 — 코드·테스트·gates만)
 
 ```bash
 git add pipeline/build-data.mjs pipeline/gates.json tests/build-data.test.mjs
@@ -231,23 +231,23 @@ git commit -m "feat: 수록 범위를 전문교과 전 범위로 확장 (528과�
 
 주의: 이 태스크 동안 작업 트리의 `data/kr`은 재생성됐지만 `manifest.json`은 아직 v0.1 것이다 — **이 시점에 `npm test`를 돌리면 data-store 해시 검증 테스트가 실패하는 것이 정상**이다(Task 4의 verify가 manifest를 재기록한 뒤에야 전체 스위트가 돌아간다). 이 태스크에서는 전체 스위트를 돌리지 말 것.
 
-- [ ] **Step 1: 추출 실행**
+- [x] **Step 1: 추출 실행**
 
 Run: `npm run pipeline:extract` (수 분 소요 가능 — Bash timeout 600000)
 Expected: 첫 실행에서 미해결 건이 나올 수 있다(전공실무 39,200건은 v0.1의 4.7배 규모).
 
-- [ ] **Step 2: 예외 보정 반복** (v0.1 Task 5와 동일 절차)
+- [x] **Step 2: 예외 보정 반복** (v0.1 Task 5와 동일 절차)
 
 각 실패 코드에 대해 해당 별책 PDF의 pdftotext 출력에서 실제 본문을 grep/node 원라이너로 좁혀 확인 → `pipeline/exceptions.json`에 `"<key 또는 code>": "<본문 문장만>"` 기입 → 재실행. 실패 0까지 반복.
 - `suspiciously-long`(>700자)이 50건을 넘으면 개별 기입 대신 `MAX_TEXT`를 실측 최장 본문 기준으로 상향하고 근거를 커밋 메시지에 기록 (이 경우 Task 1의 테스트에 영향 없음 — 컷 패턴 무관).
 - 반복 30회 초과 또는 구조적 문제(코드가 PDF에 대량 부재 등)면 중간 결과 정리 후 BLOCKED.
 - 기존 예외 3건(v0.1)이 여전히 유효한지 재실행 로그로 확인.
 
-- [ ] **Step 3: 총수 확인**
+- [x] **Step 3: 총수 확인**
 
 각 계열 standard-texts.json의 texts 합 = 47,625 (node 원라이너로 집계해 보고서에 기록).
 
-- [ ] **Step 4: 커밋** (코드·예외만)
+- [x] **Step 4: 커밋** (코드·예외만)
 
 ```bash
 git add pipeline/exceptions.json
@@ -267,24 +267,24 @@ git commit -m "feat: 전공실무 원문 39,200건 추출 (총 47,625건, 예외
 - Consumes: `pipeline/verify.mjs`(v0.1 그대로 — 코드 무변경), `pipeline/gates.json`(Task 2).
 - Produces: `data/kr/core/manifest.json` 갱신 (counts: curricula 528 · standards 47,625 · texts 47,625 · topics 실측 · dependencies 실측).
 
-- [ ] **Step 1: 검증 실행**
+- [x] **Step 1: 검증 실행**
 
 Run: `npm run pipeline:verify`
 Expected: `✓ 전수 검증 통과`. 실패 시 원인 진단(원문 누락 → Task 3 반복 / 게이트 불일치 → Task 2 재확인). 데이터 산출물을 손으로 고치지 말 것.
 
-- [ ] **Step 2: 전체 테스트 재실행** (이제 실데이터가 v0.2 규모)
+- [x] **Step 2: 전체 테스트 재실행** (이제 실데이터가 v0.2 규모)
 
 Run: `npm test`
 Expected: 60 pass. data-store·search·server 테스트는 manifest counts 동적 참조라 그대로 통과해야 한다. `ensureAllIncluded` 계열 테스트가 눈에 띄게 느려질 수 있다(전체 ~120MB 로드) — 실패가 아니면 정상. 총 소요 시간을 보고서에 기록.
 
-- [ ] **Step 3: 데이터 커밋**
+- [x] **Step 3: 데이터 커밋**
 
 ```bash
 git add data/kr
 git commit -m "feat: v0.2 데이터 — 전문교과 전 범위 528과목·성취기준 47,625건·원문 100%"
 ```
 
-- [ ] **Step 4: 저장소 크기 확인**
+- [x] **Step 4: 저장소 크기 확인**
 
 `git count-objects -vH`와 `du -sh data/kr` 결과를 보고서에 기록 (README 패키지 크기 절 갱신용 기초 자료).
 
@@ -302,12 +302,12 @@ git commit -m "feat: v0.2 데이터 — 전문교과 전 범위 528과목·성�
 - Consumes: 기존 store·검색 인터페이스.
 - Produces: `get_standard` inputSchema에 `majorField`(선택) 추가. `store.standardsByCode` **제거** — 소비처가 없음을 grep으로 확인 후 진행(있으면 BLOCKED).
 
-- [ ] **Step 1: 사전 확인 — standardsByCode 소비처 없음 증명**
+- [x] **Step 1: 사전 확인 — standardsByCode 소비처 없음 증명**
 
 Run: `grep -rn "standardsByCode\b" src tests` (standardsByCodeAll 제외)
 Expected: `src/data-store.mjs`의 생성 3줄만. 다른 소비처가 나오면 제거하지 말고 BLOCKED 보고.
 
-- [ ] **Step 2: 실패하는 테스트 추가**
+- [x] **Step 2: 실패하는 테스트 추가**
 
 `tests/server.test.mjs`에:
 
@@ -373,12 +373,12 @@ test('원문 수 불일치 시 병합 전에 거부되어 집계가 오염되지
 
 (이 테스트 파일 상단 import에 `createHash`를 추가: `import { createHash } from 'node:crypto';`)
 
-- [ ] **Step 3: RED 확인**
+- [x] **Step 3: RED 확인**
 
 Run: `node --test tests/server.test.mjs tests/data-store.test.mjs`
 Expected: 신규 3건 FAIL (get_standard가 majorField를 모름 / note 존재 / count 검사가 병합 후라 allStandards 잔류)
 
-- [ ] **Step 4: 구현**
+- [x] **Step 4: 구현**
 
 **(a) `src/data-store.mjs`** — `ensureField` 내에서 4파일 `readVerified` 직후·병합 시작 전에 count 검사를 이동:
 
@@ -421,12 +421,12 @@ Expected: 신규 3건 FAIL (get_standard가 majorField를 모름 / note 존재 /
 - `matchesFilter(subject, t.subject, t.subjectKorean)` → `matchesFilter(subject, t.subjectKorean)` (searchTopics)
 - `matchesFilter(domain, s.domain, s.domainKorean)` → `matchesFilter(domain, s.domainKorean)` (searchStandards)
 
-- [ ] **Step 5: GREEN + 전체 회귀**
+- [x] **Step 5: GREEN + 전체 회귀**
 
 Run: `node --test tests/server.test.mjs tests/data-store.test.mjs` → PASS
 Run: `npm test` → 63 pass (60 + 신규 3)
 
-- [ ] **Step 6: 커밋**
+- [x] **Step 6: 커밋**
 
 ```bash
 git add src/server.mjs src/data-store.mjs src/search.mjs tests/server.test.mjs tests/data-store.test.mjs
@@ -444,9 +444,9 @@ git commit -m "refactor: v0.1 최종 리뷰 이연 반영 — get_standard major
 **Interfaces:**
 - Consumes: gates.json·manifest.json의 v0.2 실측값 — 문서의 `<…>` 자리는 그 값으로 치환(추정 금지).
 
-- [ ] **Step 1: 버전 bump 3곳** — `package.json` version 0.2.0, `server.json` version 2곳 0.2.0, `src/server.mjs` `SERVER_INFO.version` '0.2.0'.
+- [x] **Step 1: 버전 bump 3곳** — `package.json` version 0.2.0, `server.json` version 2곳 0.2.0, `src/server.mjs` `SERVER_INFO.version` '0.2.0'.
 
-- [ ] **Step 2: README.md 갱신** — 수록 범위 절을 전 범위로 재작성:
+- [x] **Step 2: README.md 갱신** — 수록 범위 절을 전 범위로 재작성:
 
 ```markdown
 ## 수록 범위 (v0.2)
@@ -459,9 +459,9 @@ git commit -m "refactor: v0.1 최종 리뷰 이연 반영 — get_standard major
 
 첫 문단 요약 수치·패키지 크기 절(`npm pack --dry-run` 실측)도 갱신. "미수록·이후 버전" 문구는 전부 제거.
 
-- [ ] **Step 3: CLAUDE.md 갱신** — 첫 문단을 v0.2 수치로(528과목·47,625건·원문 전량·주제 실측), "전공실무 309과목은 미수록" 문구 삭제.
+- [x] **Step 3: CLAUDE.md 갱신** — 첫 문단을 v0.2 수치로(528과목·47,625건·원문 전량·주제 실측), "전공실무 309과목은 미수록" 문구 삭제.
 
-- [ ] **Step 4: CHANGELOG.md 작성**
+- [x] **Step 4: CHANGELOG.md 작성**
 
 ```markdown
 # Changelog
@@ -479,12 +479,12 @@ git commit -m "refactor: v0.1 최종 리뷰 이연 반영 — get_standard major
   18계열 분할 + 지연 로딩, MCP 도구 10종
 ```
 
-- [ ] **Step 5: 최종 검증**
+- [x] **Step 5: 최종 검증**
 
 Run: `npm test && npm run pipeline:verify` → 전체 통과
 Run: `npm pack --dry-run` → 파일 구성(src/·data/·문서 5종) 확인 + tarball/unpacked 크기 README에 기록. tarball이 100MB를 넘으면 BLOCKED(예상: 압축 후 ~10-20MB).
 
-- [ ] **Step 6: 커밋**
+- [x] **Step 6: 커밋**
 
 ```bash
 git add package.json server.json src/server.mjs README.md CLAUDE.md CHANGELOG.md

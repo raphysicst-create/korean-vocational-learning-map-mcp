@@ -65,7 +65,7 @@ korean-vocational-learning-map-mcp/
 **Interfaces:**
 - Produces: npm 스크립트 `test`, `pipeline:fetch|build|extract|verify` — 이후 모든 태스크가 사용.
 
-- [ ] **Step 1: package.json 작성**
+- [x] **Step 1: package.json 작성**
 
 ```json
 {
@@ -99,18 +99,18 @@ korean-vocational-learning-map-mcp/
 }
 ```
 
-- [ ] **Step 2: .gitignore 작성**
+- [x] **Step 2: .gitignore 작성**
 
 ```
 node_modules/
 .cache/
 ```
 
-- [ ] **Step 3: LICENSE 복사**
+- [x] **Step 3: LICENSE 복사**
 
 포크 원본 `..\korean-secondary-learning-map-mcp\LICENSE`(MIT)를 그대로 복사한다(저작권자 표기 동일 유지).
 
-- [ ] **Step 4: NOTICE.md 초안 작성**
+- [x] **Step 4: NOTICE.md 초안 작성**
 
 ```markdown
 # NOTICE
@@ -129,7 +129,7 @@ node_modules/
 - 세부 학습 주제(topics)의 설명·관찰 증거·평가 발문은 상류 저장소의 기계 파생물(candidate)이다.
 ```
 
-- [ ] **Step 5: npm install 후 커밋**
+- [x] **Step 5: npm install 후 커밋**
 
 Run: `npm install` (lockfile 생성 확인) 후:
 
@@ -150,7 +150,7 @@ git commit -m "chore: v0.1 스캐폴드 (패키지·라이선스·NOTICE)"
 - Produces: `normalizeRoman(value): string`, `normalizeCode(code): string`(괄호 안 공백 제거 → `[간기 01-01]`과 `[간기01-01]`이 같은 키), `normalizeText(value): string`, `parseVocationalCode(code): {abbrev, numbers, kind, ncs?} | null`.
 - 이후 모든 src·pipeline 모듈이 사용.
 
-- [ ] **Step 1: 실패하는 테스트 작성** (`tests/normalize.test.mjs`)
+- [x] **Step 1: 실패하는 테스트 작성** (`tests/normalize.test.mjs`)
 
 ```js
 import { test } from 'node:test';
@@ -192,12 +192,12 @@ test('parseVocationalCode: 보통교과·비정형 코드는 null', () => {
 });
 ```
 
-- [ ] **Step 2: 실패 확인**
+- [x] **Step 2: 실패 확인**
 
 Run: `node --test tests/normalize.test.mjs`
 Expected: FAIL — `Cannot find module '../src/normalize.mjs'`
 
-- [ ] **Step 3: 구현** (`src/normalize.mjs`)
+- [x] **Step 3: 구현** (`src/normalize.mjs`)
 
 포크 원본의 `normalizeRoman`/`normalizeCode`/`normalizeText`를 그대로 옮기고 `parseVocationalCode`를 추가한다. (원본 `normalizeCode`가 이미 `\s+` 전부 제거이므로 공백 유연 매칭은 무변경으로 충족된다.)
 
@@ -243,12 +243,12 @@ export function parseVocationalCode(code) {
 }
 ```
 
-- [ ] **Step 4: 통과 확인**
+- [x] **Step 4: 통과 확인**
 
 Run: `node --test tests/normalize.test.mjs`
 Expected: PASS (7 tests)
 
-- [ ] **Step 5: 커밋**
+- [x] **Step 5: 커밋**
 
 ```bash
 git add src/normalize.mjs tests/normalize.test.mjs
@@ -267,7 +267,7 @@ git commit -m "feat: 코드 정규화 + 전문교과 코드 구조 해석"
 - Consumes: 없음 (독립).
 - Produces: `.cache/deck6/high-*.json`·`shared-source-manifest.json`, `.cache/pdf-paths.json`(`{ annex23: "<절대경로>", … }`). 순수 함수 `cacheNameFor(path)`, `pdfPattern(annexNo): RegExp` export.
 
-- [ ] **Step 1: sources.json 작성**
+- [x] **Step 1: sources.json 작성**
 
 DECK6 파일 해시는 포크 원본 `pipeline/sources.json`과 같은 커밋의 값이고, `shared/source-manifest.json`·`high/learning-relations.json` 해시도 동일 커밋 기준이다. PDF 17권의 URL·SHA-256은 sources.json에 **중복 기재하지 않고** 상류 `shared/source-manifest.json`(아래 files에 해시 고정)에서 실행 시 읽는다.
 
@@ -293,7 +293,7 @@ DECK6 파일 해시는 포크 원본 `pipeline/sources.json`과 같은 커밋의
 }
 ```
 
-- [ ] **Step 2: 실패하는 테스트 작성** (`tests/fetch-sources.test.mjs`)
+- [x] **Step 2: 실패하는 테스트 작성** (`tests/fetch-sources.test.mjs`)
 
 ```js
 import { test } from 'node:test';
@@ -320,12 +320,12 @@ test('rawUrl은 고정 커밋 raw URL을 만든다', () => {
 });
 ```
 
-- [ ] **Step 3: 실패 확인**
+- [x] **Step 3: 실패 확인**
 
 Run: `node --test tests/fetch-sources.test.mjs`
 Expected: FAIL — 모듈 없음
 
-- [ ] **Step 4: 구현** (`pipeline/fetch-sources.mjs`)
+- [x] **Step 4: 구현** (`pipeline/fetch-sources.mjs`)
 
 포크 원본을 기반으로 PDF 부분만 교체한다:
 
@@ -430,17 +430,17 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
 }
 ```
 
-- [ ] **Step 5: 테스트 통과 확인**
+- [x] **Step 5: 테스트 통과 확인**
 
 Run: `node --test tests/fetch-sources.test.mjs`
 Expected: PASS
 
-- [ ] **Step 6: 실제 실행 — 원본 확보**
+- [x] **Step 6: 실제 실행 — 원본 확보**
 
 Run: `npm run pipeline:fetch`
 Expected: DECK6 8파일(standards 54MB·topics 80MB 포함, 최초 1회 수 분) + PDF 17권 전부 `✓`, 종료 코드 0. PDF 17권은 이미 `PDF_DIR`(저장소 부모 폴더)에 2024-3호판으로 존재하며 SHA-256 일치가 사전 확인되어 있다 — `✗`가 나오면 데이터가 아니라 코드를 의심할 것.
 
-- [ ] **Step 7: 커밋**
+- [x] **Step 7: 커밋**
 
 ```bash
 git add pipeline/sources.json pipeline/fetch-sources.mjs tests/fetch-sources.test.mjs
@@ -467,7 +467,7 @@ git commit -m "feat: DECK6·별책23~39 원본 확보 파이프라인 (판본 �
   - `pipeline/gates.json` (`--record-gates` 시) — `{ release, includedCategories, totals: { courses, standards }, fields: { <slug>: { courses, standards } } }`
   - export: `VOCATIONAL_CATEGORIES`, `RELEASE_SCOPE`, `FIELD_SLUGS`, `resolveFieldSlug(groupLabel)`, `slugifyCourse(labelKorean)`, `buildVocational(raw)`
 
-- [ ] **Step 1: 실패하는 테스트 작성** (`tests/build-data.test.mjs`) — 합성 픽스처로 순수 함수 검증 (`.cache` 불필요, CI 가능)
+- [x] **Step 1: 실패하는 테스트 작성** (`tests/build-data.test.mjs`) — 합성 픽스처로 순수 함수 검증 (`.cache` 불필요, CI 가능)
 
 ```js
 import { test } from 'node:test';
@@ -568,12 +568,12 @@ test('buildVocational: 수록 범위 필터·계열 분할·색인·의존 필�
 });
 ```
 
-- [ ] **Step 2: 실패 확인**
+- [x] **Step 2: 실패 확인**
 
 Run: `node --test tests/build-data.test.mjs`
 Expected: FAIL — 모듈 없음
 
-- [ ] **Step 3: 구현** (`pipeline/build-data.mjs`)
+- [x] **Step 3: 구현** (`pipeline/build-data.mjs`)
 
 ```js
 #!/usr/bin/env node
@@ -830,22 +830,22 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
 }
 ```
 
-- [ ] **Step 4: 테스트 통과 확인**
+- [x] **Step 4: 테스트 통과 확인**
 
 Run: `node --test tests/build-data.test.mjs`
 Expected: PASS
 
-- [ ] **Step 5: 실제 빌드 + gates 기록**
+- [x] **Step 5: 실제 빌드 + gates 기록**
 
 Run: `node pipeline/build-data.mjs --record-gates`
 Expected: 수록 과목 219 게이트 통과, `data/kr/core/*` + `data/kr/fields/<slug>/*`(18폴더: 17계열 + specialized-common — 단, 전공일반이 0과목인 계열이 있으면 그 계열 폴더가 없을 수 있다. 그 경우 실제 폴더 수를 기록하고 다음 단계에서 그대로 검증 기준으로 쓴다) 생성, `pipeline/gates.json` 기록.
 만약 `매핑되지 않은 계열` 오류가 나면: 오류 메시지의 실제 계열 라벨을 보고 `FIELD_SLUGS`의 **키만**(슬러그는 스펙 고정) 실제 라벨에 맞게 수정한다.
 
-- [ ] **Step 6: gates.json 수치 육안 확인**
+- [x] **Step 6: gates.json 수치 육안 확인**
 
 `pipeline/gates.json`을 열어 totals.courses=219, 각 계열 standards 합=totals.standards인지 확인하고, totals.standards 값을 커밋 메시지에 기록한다.
 
-- [ ] **Step 7: 커밋** (데이터는 Task 6 verify 통과 후에 커밋하므로 여기서는 코드·게이트만)
+- [x] **Step 7: 커밋** (데이터는 Task 6 verify 통과 후에 커밋하므로 여기서는 코드·게이트만)
 
 ```bash
 git add pipeline/build-data.mjs pipeline/gates.json tests/build-data.test.mjs
@@ -864,7 +864,7 @@ git commit -m "feat: 전문교과 필터·계열 분할 빌드 (수록 219과목
 - Consumes: `data/kr/fields/<slug>/curriculum-standards.json` (Task 4), `.cache/pdf-paths.json` (Task 3).
 - Produces: `data/kr/fields/<slug>/standard-texts.json` — `{ version, sourceNote, texts: [{ key, code, text, sourceId, locator }] }`. export: `normalizeWhitespace`, `stripPageFurniture`, `codePattern(code)`, `findCodePositions(norm, codes)`, `sliceStandardText`, `extractTexts(pdfText, expectedCodes)`, `summarySimilarity`, `pickVariant`.
 
-- [ ] **Step 1: 실패하는 테스트 작성** (`tests/extract-texts.test.mjs`)
+- [x] **Step 1: 실패하는 테스트 작성** (`tests/extract-texts.test.mjs`)
 
 ```js
 import { test } from 'node:test';
@@ -923,12 +923,12 @@ test('pickVariant는 요약문과 가장 맞는 본문을 고른다', () => {
 });
 ```
 
-- [ ] **Step 2: 실패 확인**
+- [x] **Step 2: 실패 확인**
 
 Run: `node --test tests/extract-texts.test.mjs`
 Expected: FAIL — 모듈 없음
 
-- [ ] **Step 3: 구현** (`pipeline/extract-texts.mjs`)
+- [x] **Step 3: 구현** (`pipeline/extract-texts.mjs`)
 
 포크 원본 `..\korean-secondary-learning-map-mcp\pipeline\extract-texts.mjs`의 상수·헬퍼(`SECTION_CUT_PATTERNS`, `MAX_TEXT=700`, `FALLBACK_WINDOW`, `PAGE_NUMBER_LINE`, `RUNNING_HEAD_MIN_REPEAT`, `UNMAPPED_GLYPH`, `normalizeWhitespace`, `stripPageFurniture`, `isListItem`, `sliceStandardText`, `summarySimilarity`, `pickVariant`, `pdftotext`)를 그대로 옮긴 뒤, 다음 두 가지만 바꾼다.
 
@@ -1054,12 +1054,12 @@ function main() {
 
 `exceptions.json`은 빈 객체 `{}`로 시작한다. 키는 성취기준 `key`(과목 한정) 또는 `code`(전역) 둘 다 허용.
 
-- [ ] **Step 4: 테스트 통과 확인**
+- [x] **Step 4: 테스트 통과 확인**
 
 Run: `node --test tests/extract-texts.test.mjs`
 Expected: PASS
 
-- [ ] **Step 5: 실제 추출 실행 + 예외 보정 반복**
+- [x] **Step 5: 실제 추출 실행 + 예외 보정 반복**
 
 Run: `npm run pipeline:extract`
 Expected: 첫 실행에서 미해결 건이 나올 수 있다(수식 글리프·비정형 조판). 각 실패 건에 대해:
@@ -1068,7 +1068,7 @@ Expected: 첫 실행에서 미해결 건이 나올 수 있다(수식 글리프·
 3. **본문 문장만** 기입한다(해설·고려사항 금지). 실패가 0이 될 때까지 반복.
 `suspiciously-long`(>700자) 실패가 다수(>50건)면 개별 기입 대신 `MAX_TEXT`를 실측 최장 본문 기준으로 상향하고 그 근거(최장 실측치)를 커밋 메시지에 기록한다.
 
-- [ ] **Step 6: 커밋** (코드·예외만 — 데이터는 Task 6에서)
+- [x] **Step 6: 커밋** (코드·예외만 — 데이터는 Task 6에서)
 
 ```bash
 git add pipeline/extract-texts.mjs pipeline/exceptions.json tests/extract-texts.test.mjs
@@ -1087,7 +1087,7 @@ git commit -m "feat: 별책23~39 원문 추출 (공백 유연 코드 매칭, 예
 - Consumes: `data/kr/**` (Task 4·5), `pipeline/gates.json` (Task 4).
 - Produces: `data/kr/core/manifest.json` — `{ dataset, taxonomyVersion, generatedAt, counts, files: { "<상대경로>": { bytes, sha256 } } }` (경로는 `core/curricula.json`·`fields/<slug>/topics.json` 형식). export: `verifyAll(dataDir, gates)`.
 
-- [ ] **Step 1: 실패하는 테스트 작성** (`tests/verify.test.mjs`) — 임시 폴더에 합성 데이터로 검증 로직 테스트
+- [x] **Step 1: 실패하는 테스트 작성** (`tests/verify.test.mjs`) — 임시 폴더에 합성 데이터로 검증 로직 테스트
 
 ```js
 import { test } from 'node:test';
@@ -1166,12 +1166,12 @@ test('verifyAll: 미수록 카테고리 데이터 존재를 잡는다', () => {
 
 (이 테스트 파일 상단 import에 `readFileSync`를 추가한다: `import { mkdtempSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';`)
 
-- [ ] **Step 2: 실패 확인**
+- [x] **Step 2: 실패 확인**
 
 Run: `node --test tests/verify.test.mjs`
 Expected: FAIL — 모듈 없음
 
-- [ ] **Step 3: 구현** (`pipeline/verify.mjs`)
+- [x] **Step 3: 구현** (`pipeline/verify.mjs`)
 
 ```js
 #!/usr/bin/env node
@@ -1329,17 +1329,17 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
 }
 ```
 
-- [ ] **Step 4: 테스트 통과 확인**
+- [x] **Step 4: 테스트 통과 확인**
 
 Run: `node --test tests/verify.test.mjs`
 Expected: PASS
 
-- [ ] **Step 5: 실제 검증 실행**
+- [x] **Step 5: 실제 검증 실행**
 
 Run: `npm run pipeline:verify`
 Expected: `✓ 전수 검증 통과` + `data/kr/core/manifest.json` 생성. 실패하면 원인(대부분 원문 누락 → Task 5의 exceptions 반복)을 해결하고 `extract → verify` 재실행.
 
-- [ ] **Step 6: 데이터 전체 커밋**
+- [x] **Step 6: 데이터 전체 커밋**
 
 ```bash
 git add data/kr pipeline/verify.mjs tests/verify.test.mjs
@@ -1362,7 +1362,7 @@ git commit -m "feat: v0.1 데이터 산출 (계열 <N>개, 성취기준 <실측>
   - 메서드: `ensureField(slug): void`(미지 슬러그·미수록 시 한국어 Error throw), `ensureAllIncluded(): void`
 - Task 8·9의 모든 모듈이 이 store를 소비한다.
 
-- [ ] **Step 1: 실패하는 테스트 작성** (`tests/data-store.test.mjs`) — 실데이터 사용
+- [x] **Step 1: 실패하는 테스트 작성** (`tests/data-store.test.mjs`) — 실데이터 사용
 
 ```js
 import { test } from 'node:test';
@@ -1442,12 +1442,12 @@ test('core 파일 변조 시 기동이 거부된다', () => {
 });
 ```
 
-- [ ] **Step 2: 실패 확인**
+- [x] **Step 2: 실패 확인**
 
 Run: `node --test tests/data-store.test.mjs`
 Expected: FAIL — 모듈 없음
 
-- [ ] **Step 3: 구현** (`src/data-store.mjs`)
+- [x] **Step 3: 구현** (`src/data-store.mjs`)
 
 ```js
 import { createHash } from 'node:crypto';
@@ -1564,12 +1564,12 @@ export function createStore(dataDir = defaultDataDir) {
 }
 ```
 
-- [ ] **Step 4: 통과 확인**
+- [x] **Step 4: 통과 확인**
 
 Run: `node --test tests/data-store.test.mjs`
 Expected: PASS (8 tests)
 
-- [ ] **Step 5: 커밋**
+- [x] **Step 5: 커밋**
 
 ```bash
 git add src/data-store.mjs tests/data-store.test.mjs
@@ -1594,7 +1594,7 @@ git commit -m "feat: core 즉시 로드 + 계열 지연 로드 data-store"
   - `directEdges(store, topicId, { direction, strength })`, `learningPath(store, topicId, { direction, strength })` — 포크 원본 그대로
   - `buildRoadmap(store, { subject, majorField, domain })` → `{ subject, majorFieldSlug, gradeBand, standardCount, domains: [{ domainKorean, clusters, standards }] }` 또는 `{ error: 'unknown-subject', suggestions }` / `{ error: 'ambiguous-subject', fields }`
 
-- [ ] **Step 1: 실패하는 테스트 작성**
+- [x] **Step 1: 실패하는 테스트 작성**
 
 `tests/search.test.mjs`:
 
@@ -1713,12 +1713,12 @@ test('buildRoadmap: 동명 과목이 여러 계열에 있으면 ambiguous-subjec
 });
 ```
 
-- [ ] **Step 2: 실패 확인**
+- [x] **Step 2: 실패 확인**
 
 Run: `node --test tests/search.test.mjs tests/graph.test.mjs tests/roadmap.test.mjs`
 Expected: FAIL — 모듈 없음
 
-- [ ] **Step 3: 구현**
+- [x] **Step 3: 구현**
 
 `src/graph.mjs`: 포크 원본을 **그대로 복사**한다(수정 없음 — store 인터페이스가 동일).
 
@@ -1825,12 +1825,12 @@ export function buildRoadmap(store, { subject, majorField, domain } = {}) {
 }
 ```
 
-- [ ] **Step 4: 통과 확인**
+- [x] **Step 4: 통과 확인**
 
 Run: `node --test tests/search.test.mjs tests/graph.test.mjs tests/roadmap.test.mjs`
 Expected: PASS
 
-- [ ] **Step 5: 커밋**
+- [x] **Step 5: 커밋**
 
 ```bash
 git add src/search.mjs src/graph.mjs src/roadmap.mjs tests/search.test.mjs tests/graph.test.mjs tests/roadmap.test.mjs
@@ -1849,7 +1849,7 @@ git commit -m "feat: 검색·그래프·로드맵 모듈 (majorField 체계로 �
 - Consumes: Task 2·7·8의 모든 export.
 - Produces: `createServer(store)` — MCP 서버(도구 10종 + about 리소스). `SERVER_INFO = { name: 'korean-vocational-learning-map', version: '0.1.0' }`.
 
-- [ ] **Step 1: 실패하는 테스트 작성** (`tests/server.test.mjs`)
+- [x] **Step 1: 실패하는 테스트 작성** (`tests/server.test.mjs`)
 
 ```js
 import { test } from 'node:test';
@@ -1999,12 +1999,12 @@ test('미지 majorField는 한국어 오류 + 유효 슬러그 안내', async ()
 });
 ```
 
-- [ ] **Step 2: 실패 확인**
+- [x] **Step 2: 실패 확인**
 
 Run: `node --test tests/server.test.mjs`
 Expected: FAIL — 모듈 없음
 
-- [ ] **Step 3: server.mjs 구현**
+- [x] **Step 3: server.mjs 구현**
 
 ```js
 import { McpServer } from '@modelcontextprotocol/sdk/server/mcp.js';
@@ -2441,7 +2441,7 @@ export function createServer(store) {
 }
 ```
 
-- [ ] **Step 4: cli.mjs 구현**
+- [x] **Step 4: cli.mjs 구현**
 
 ```js
 #!/usr/bin/env node
@@ -2462,12 +2462,12 @@ try {
 }
 ```
 
-- [ ] **Step 5: 통과 확인 + 전체 테스트**
+- [x] **Step 5: 통과 확인 + 전체 테스트**
 
 Run: `node --test tests/server.test.mjs` → PASS
 Run: `npm test` → 전체 PASS
 
-- [ ] **Step 6: stdio 스모크**
+- [x] **Step 6: stdio 스모크**
 
 Run (Git Bash):
 ```bash
@@ -2475,7 +2475,7 @@ echo '{"jsonrpc":"2.0","id":1,"method":"initialize","params":{"protocolVersion":
 ```
 Expected: stdout에 initialize 응답 JSON 1줄, stderr에 시작 로그. 기동 시간이 1초 미만인지 확인(core만 로드).
 
-- [ ] **Step 7: 커밋**
+- [x] **Step 7: 커밋**
 
 ```bash
 git add src/server.mjs src/cli.mjs tests/server.test.mjs
@@ -2493,7 +2493,7 @@ git commit -m "feat: MCP 서버 도구 10종 + stdio 진입점 (계열 지연 �
 **Interfaces:**
 - Consumes: `pipeline/gates.json`·`data/kr/core/manifest.json`의 실측 수치 (아래 `<…>` 자리에 그 값을 그대로 넣는다 — 추정 금지).
 
-- [ ] **Step 1: README.md 작성**
+- [x] **Step 1: README.md 작성**
 
 ```markdown
 # korean-vocational-learning-map-mcp
@@ -2532,7 +2532,7 @@ MIT. 데이터 원천: [DECK6/korean-secondary-learning-map](https://github.com/
 
 `<…>` 자리는 gates.json·manifest.json의 실제 값으로 치환한다.
 
-- [ ] **Step 2: server.json 작성**
+- [x] **Step 2: server.json 작성**
 
 ```json
 {
@@ -2555,7 +2555,7 @@ MIT. 데이터 원천: [DECK6/korean-secondary-learning-map](https://github.com/
 }
 ```
 
-- [ ] **Step 3: CLAUDE.md 작성** — 아래 내용으로 작성하되 `<…>` 자리는 gates.json·manifest.json 실측값으로 치환한다.
+- [x] **Step 3: CLAUDE.md 작성** — 아래 내용으로 작성하되 `<…>` 자리는 gates.json·manifest.json 실측값으로 치환한다.
 
 ```markdown
 # CLAUDE.md
@@ -2602,21 +2602,21 @@ MIT. 데이터 원천: [DECK6/korean-secondary-learning-map](https://github.com/
 - 보통교과·특목 계열: https://github.com/raphysicst-create/korean-secondary-learning-map-mcp
 ```
 
-- [ ] **Step 4: 최종 검증**
+- [x] **Step 4: 최종 검증**
 
 Run: `npm test && npm run pipeline:verify`
 Expected: 전체 PASS + 검증 통과.
 Run: `npm pack --dry-run`
 Expected: tarball에 `src/`·`data/`·README·LICENSE·NOTICE만 포함, 크기 확인해 README에 기록할 것.
 
-- [ ] **Step 5: 커밋**
+- [x] **Step 5: 커밋**
 
 ```bash
 git add README.md CLAUDE.md server.json NOTICE.md
 git commit -m "docs: v0.1 문서·배포 메타데이터"
 ```
 
-- [ ] **Step 6: 배포는 사용자 확인 후** — `npm publish`(2FA 필요)와 mcp-publisher 등록, GitHub 저장소 생성·push는 **사용자에게 확인받고 진행**한다(계정 인증 필요).
+- [x] **Step 6: 배포는 사용자 확인 후** — `npm publish`(2FA 필요)와 mcp-publisher 등록, GitHub 저장소 생성·push는 **사용자에게 확인받고 진행**한다(계정 인증 필요).
 
 ---
 
