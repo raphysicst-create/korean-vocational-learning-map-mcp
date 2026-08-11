@@ -1,6 +1,6 @@
 {
   "name": "korean-vocational-learning-map-mcp",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "mcpName": "io.github.raphysicst-create/korean-vocational-learning-map-mcp",
   "description": "한국 특성화고 전문교과 2022 개정 교육과정 학습 그래프 MCP 서버 (528과목·성취기준 47,625건, 공식 원문 전량 수록)",
   "type": "module",

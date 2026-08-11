@@ -7,7 +7,7 @@ import {
 import { directEdges, learningPath } from './graph.mjs';
 import { buildRoadmap } from './roadmap.mjs';
 
-const SERVER_INFO = { name: 'korean-vocational-learning-map', version: '0.2.0' };
+const SERVER_INFO = { name: 'korean-vocational-learning-map', version: '0.3.0' };
 
 const MAJOR_FIELD = z.string().max(100).optional()
   .describe('계열 슬러그 또는 계열명 (예: electrical-electronics, 전기·전자)');
