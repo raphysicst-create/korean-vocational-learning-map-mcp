@@ -18,6 +18,14 @@ function payloadOf(result) {
   return JSON.parse(result.content[0].text);
 }
 
+test('about 리소스에 고시 원문 권리 근거가 있다', async () => {
+  const { client } = await connect();
+  const { contents } = await client.readResource({ uri: 'about://korean-vocational-learning-map' });
+  assert.ok(contents[0].text.includes('제7조 제2호'));
+  assert.ok(!contents[0].text.includes('제24조의2'));
+  assert.ok(contents[0].text.includes('별책23~39'));
+});
+
 test('도구 10종이 등록되어 있다', async () => {
   const { client } = await connect();
   const { tools } = await client.listTools();
@@ -63,6 +71,39 @@ test('검색은 계열을 지연 로드한다 (서버 생성 시 0, 검색 후 �
   await client.callTool({ name: 'search_standards', arguments: { majorField: slug } });
   assert.ok(store.loadedFields.has(slug));
   assert.equal(store.loadedFields.size, 1); // 다른 계열은 안 로드됨
+});
+
+test('ID·코드 조회는 core 라우팅 색인의 계열만 로드하고 미지 ID는 전혀 로드하지 않는다', async () => {
+  const unknown = await connect();
+  await unknown.client.callTool({ name: 'get_topic', arguments: { topicId: 'no-such-topic' } });
+  await unknown.client.callTool({ name: 'list_clusters', arguments: { clusterId: 'no-such-cluster' } });
+  await unknown.client.callTool({ name: 'get_standard', arguments: { code: '[없음 99-99]' } });
+  assert.equal(unknown.store.loadedFields.size, 0);
+
+  const topicCase = await connect();
+  const [topicId, topicField] = topicCase.store.topicFieldById.entries().next().value;
+  await topicCase.client.callTool({ name: 'get_topic', arguments: { topicId } });
+  assert.deepEqual([...topicCase.store.loadedFields], [topicField]);
+
+  const codeCase = await connect();
+  const [code, codeFields] = codeCase.store.standardFieldsByCode.entries().next().value;
+  await codeCase.client.callTool({ name: 'get_standard', arguments: { code } });
+  assert.deepEqual([...codeCase.store.loadedFields].sort(), [...codeFields].sort());
+
+  const prerequisiteCase = await connect();
+  await prerequisiteCase.client.callTool({ name: 'get_prerequisites', arguments: { topicId } });
+  assert.deepEqual([...prerequisiteCase.store.loadedFields], [topicField]);
+
+  const clusterCase = await connect();
+  const [clusterId, clusterField] = clusterCase.store.clusterFieldById.entries().next().value;
+  await clusterCase.client.callTool({ name: 'list_clusters', arguments: { clusterId } });
+  assert.deepEqual([...clusterCase.store.loadedFields], [clusterField]);
+
+  const listCase = await connect();
+  const list = payloadOf(await listCase.client.callTool({ name: 'list_clusters', arguments: {} }));
+  assert.equal(list.results.length, 20);
+  assert.equal(list.total, listCase.store.clusterFieldById.size);
+  assert.ok(listCase.store.loadedFields.size < listCase.store.includedFieldSlugs.length);
 });
 
 test('search_standards → get_standard 왕복 (원문 + 코드 구조 해석)', async () => {

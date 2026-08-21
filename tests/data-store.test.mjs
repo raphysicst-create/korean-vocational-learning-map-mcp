@@ -15,6 +15,9 @@ test('기동 시 core만 로드되고 계열 데이터는 비어 있다', () => 
   assert.ok(store.curriculaIndex.length >= 528); // 전 범위 색인(528)
   assert.equal(store.loadedFields.size, 0);
   assert.equal(store.allStandards.length, 0);
+  assert.equal(store.topicFieldById.size, store.manifest.counts.topics);
+  assert.ok(store.clusterFieldById.size >= 1);
+  assert.ok(store.standardFieldsByCode.size >= 1);
 });
 
 // manifest 상대 비교만으로는 RELEASE_SCOPE가 축소돼도 전 테스트가 통과한다.

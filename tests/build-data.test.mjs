@@ -100,4 +100,7 @@ test('buildVocational: 수록 범위 필터·계열 분할·색인·의존 필�
   assert.equal(elec.standardCount['major-practical'], 1);
   assert.deepEqual(elec.includedCategories, [...RELEASE_SCOPE]);
   assert.equal(elec.annexId, 'kr-nec-2024-3-annex34');
+  assert.equal(out.routingIndex.topicFields.t1, 'electrical-electronics');
+  assert.equal(out.routingIndex.clusterFields.cl1, 'electrical-electronics');
+  assert.deepEqual(out.routingIndex.standardCodeFields['[전기01-01]'], ['electrical-electronics']);
 });

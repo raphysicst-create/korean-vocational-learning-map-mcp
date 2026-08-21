@@ -6,7 +6,7 @@ import { normalizeCode } from './normalize.mjs';
 
 const defaultDataDir = join(dirname(fileURLToPath(import.meta.url)), '..', 'data', 'kr');
 
-export const CORE_FILES = ['major-fields.json', 'curricula.json', 'dependencies.json'];
+export const CORE_FILES = ['major-fields.json', 'curricula.json', 'dependencies.json', 'routing-index.json'];
 export const FIELD_FILES = ['curriculum-standards.json', 'standard-texts.json', 'topics.json', 'clusters.json'];
 
 function readVerified(dataDir, manifest, rel) {
@@ -27,6 +27,8 @@ export function createStore(dataDir = defaultDataDir) {
   const { majorFields } = readVerified(dataDir, manifest, 'core/major-fields.json');
   const { curricula: curriculaIndex } = readVerified(dataDir, manifest, 'core/curricula.json');
   const { dependencies } = readVerified(dataDir, manifest, 'core/dependencies.json');
+  const { topicFields, clusterFields, standardCodeFields } =
+    readVerified(dataDir, manifest, 'core/routing-index.json');
 
   const prerequisitesByTopic = new Map();
   const unlocksByTopic = new Map();
@@ -38,6 +40,9 @@ export function createStore(dataDir = defaultDataDir) {
   }
 
   const majorFieldsBySlug = new Map(majorFields.map((f) => [f.slug, f]));
+  const topicFieldById = new Map(Object.entries(topicFields));
+  const clusterFieldById = new Map(Object.entries(clusterFields));
+  const standardFieldsByCode = new Map(Object.entries(standardCodeFields));
   // 수록 데이터가 실재하는 계열 = manifest.files에 폴더가 기록된 계열.
   const includedFieldSlugs = [...new Set(
     Object.keys(manifest.files)
@@ -48,6 +53,7 @@ export function createStore(dataDir = defaultDataDir) {
   const store = {
     manifest, majorFields, majorFieldsBySlug, curriculaIndex, dependencies,
     prerequisitesByTopic, unlocksByTopic, includedFieldSlugs,
+    topicFieldById, clusterFieldById, standardFieldsByCode,
     normalizeCode,
     loadedFields: new Set(),
     curricula: [], topics: [], clusters: [], allStandards: [],

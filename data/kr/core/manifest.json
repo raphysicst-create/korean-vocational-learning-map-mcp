@@ -1,7 +1,7 @@
 {
   "dataset": "korean-vocational-learning-map",
   "taxonomyVersion": "kr-vocational-v0.2",
-  "generatedAt": "2026-08-10T00:34:28.208Z",
+  "generatedAt": "2026-08-21T05:15:03.179Z",
   "counts": {
     "fields": 18,
     "curricula": 528,
@@ -24,13 +24,17 @@
       "bytes": 130572,
       "sha256": "3ca78ede67075181d760a9e0277459112b28a435afda0770f8ede2b13217e3d9"
     },
+    "core/routing-index.json": {
+      "bytes": 5957874,
+      "sha256": "c3025dd823ae7d3d28bec177e80a1e9cf6f4cda2a6df1d4719d263f04f3d4d81"
+    },
     "fields/agriculture-livestock/curriculum-standards.json": {
       "bytes": 6117879,
       "sha256": "eae7ffad50afb994719e83ff6e953fd141ced85a34c864ab795d4b8ba7fa2cc1"
     },
     "fields/agriculture-livestock/standard-texts.json": {
-      "bytes": 1776275,
-      "sha256": "d5df16d0ef3923c3300d2714ad95c23d3256c88b92fc304cb95105be746bd75c"
+      "bytes": 1776303,
+      "sha256": "cc9dd5e5082183928c683b920a8e2e5125d5d8013965800ef9799b33eb3f9cc4"
     },
     "fields/agriculture-livestock/topics.json": {
       "bytes": 8133569,
@@ -45,8 +49,8 @@
       "sha256": "a2c581589a2c3feb593484761b96d10a51dc2dfde23a728eb383b1390085e5a6"
     },
     "fields/beauty/standard-texts.json": {
-      "bytes": 180386,
-      "sha256": "0ddc37de9d872b4bc228bd41fa738bbd804d407ce3365c8a0058b0ef9c575a5a"
+      "bytes": 180414,
+      "sha256": "a7bcb60351bb5587644b5be1baf84d0566c28ea7b52f4ecab39434045526019f"
     },
     "fields/beauty/topics.json": {
       "bytes": 820553,
@@ -61,8 +65,8 @@
       "sha256": "2e76fc616e41c03e1227520a9f4992d2cd34a451ad8ff707bcd76fde4ae88007"
     },
     "fields/business-finance/standard-texts.json": {
-      "bytes": 519637,
-      "sha256": "971c27baa71930ab2bbdb3d66c04d55ff26ab85f72b59a9671bf270c25269a26"
+      "bytes": 519665,
+      "sha256": "3bc9d6470e0c30058aa065f0e1e6e0498a80b9ec65e0087b1838a84c4eb1b200"
     },
     "fields/business-finance/topics.json": {
       "bytes": 2351929,
@@ -77,8 +81,8 @@
       "sha256": "656708ce52dd24e4e79df217e79be4f64d5da7715cf396a5699d88b015ecc476"
     },
     "fields/chemical-industry/standard-texts.json": {
-      "bytes": 444235,
-      "sha256": "e826ca9163748fef86ef2f19152f66b5259f127c84b001916cb869987903e82d"
+      "bytes": 444263,
+      "sha256": "b88dd8a692e400705daa20a51e60124cbfc67fa60730af6a73e5f8eae5e7a092"
     },
     "fields/chemical-industry/topics.json": {
       "bytes": 2010563,
@@ -93,8 +97,8 @@
       "sha256": "f9c59767f389548d7c1771436d02c3a7528fc262774703cba628cd4ff5395e84"
     },
     "fields/construction-civil/standard-texts.json": {
-      "bytes": 612023,
-      "sha256": "645e05b270cef5653d47e51cd2e2c5dc595460b96ff9fe74874c8675deec8de4"
+      "bytes": 612051,
+      "sha256": "8720a50bd7cc84fcec5bbced4060d6d9453e1a3097b16580dac7edd1c75b20e0"
     },
     "fields/construction-civil/topics.json": {
       "bytes": 2797797,
@@ -109,8 +113,8 @@
       "sha256": "e4aa8326502d716f27e4ffe1474fc06bc97f79a217cbd5dbf50376168b558260"
     },
     "fields/convergence-ip/standard-texts.json": {
-      "bytes": 98058,
-      "sha256": "2432fbe6487212446a126224d2a89027ec1950bd0f45d6a62ea5049e7c164311"
+      "bytes": 98086,
+      "sha256": "c2aec58568385cf3f1d5f1443bf221edd1329bc74fcad7b5c546e896e7f26203"
     },
     "fields/convergence-ip/topics.json": {
       "bytes": 449430,
@@ -125,8 +129,8 @@
       "sha256": "37ea6afe4696029351f7310b8cd6e1fed083f71b7a50c7327d185627e69ee540"
     },
     "fields/culture-arts-design-broadcast/standard-texts.json": {
-      "bytes": 933460,
-      "sha256": "595efbeda4455edb5613e13c8fccdc56b6e95843549d74252e3646c198812e40"
+      "bytes": 933488,
+      "sha256": "82db784d795620b97b88cdc4c2d84c4a9c73d5206175b76f6cc489aa368003ad"
     },
     "fields/culture-arts-design-broadcast/topics.json": {
       "bytes": 4292482,
@@ -141,8 +145,8 @@
       "sha256": "d438a7060994939f5b2535c9b4d944cdbc84ef8493acdf75d676ab3916251dd4"
     },
     "fields/electrical-electronics/standard-texts.json": {
-      "bytes": 1716705,
-      "sha256": "850683a58cf0178cde97a131df5db05c19ac7dbbb91521229c1c12b3c55fcc49"
+      "bytes": 1716733,
+      "sha256": "0949e663ffa9d9f1ab2186a6d8bd12649c7517d28c6bf3a045db0b3683944212"
     },
     "fields/electrical-electronics/topics.json": {
       "bytes": 7808678,
@@ -157,8 +161,8 @@
       "sha256": "2293acce8cc3aa9b812c4eed0ee8302a0ad86c905dc72e4097969f3e28f23f59"
     },
     "fields/environment-safety-fire/standard-texts.json": {
-      "bytes": 881565,
-      "sha256": "d1b9f2c8360059ccd15b73f3ebb5892c517f07403de59355aaf75ead6534d80e"
+      "bytes": 881593,
+      "sha256": "6da78c46612780ec453ff01b6d355247f61e702b4e07778fea5bd6889b75f3cf"
     },
     "fields/environment-safety-fire/topics.json": {
       "bytes": 4035244,
@@ -173,8 +177,8 @@
       "sha256": "59ca944a73c8a28e0dadb98d8ab661e633be4a900a9bb0a7406ef65b1ef114ff"
     },
     "fields/fisheries-shipping/standard-texts.json": {
-      "bytes": 1010592,
-      "sha256": "3d42260a72d76082d66bb44bf9e52ec7b711d1eccf8e804b763963a08d2e0faf"
+      "bytes": 1010620,
+      "sha256": "cb5c143ccda972877d3b50c91af19198987295c4f45d1ff3a5dfa1c0638fe9a0"
     },
     "fields/fisheries-shipping/topics.json": {
       "bytes": 4600855,
@@ -189,8 +193,8 @@
       "sha256": "14538c4265ccaf7ba07b676bb1a834f9b5195002fcb9615dc945f0acefe53591"
     },
     "fields/food-cooking/standard-texts.json": {
-      "bytes": 1097740,
-      "sha256": "22ffbfd71e4f922f8e526a5600ebc0d1b2fb5ecbbd7417bbc5a81fb897288c19"
+      "bytes": 1097768,
+      "sha256": "2c9331feddcb74e7a74e170179cb52672471e3a6966e6cf7ae667389742a7324"
     },
     "fields/food-cooking/topics.json": {
       "bytes": 5010178,
@@ -205,8 +209,8 @@
       "sha256": "40f6f07ea8d954506260c8bb3572d729c053a4548ddef2b593457034ea7e2d5a"
     },
     "fields/health-welfare/standard-texts.json": {
-      "bytes": 216755,
-      "sha256": "d60f3d6b675dc8dcf28c5f9e31fe9e8796ca398f53c185168f13b8886ae67e24"
+      "bytes": 216783,
+      "sha256": "1678627912c8a151a3fc361d092864e53ebbcb00e6d23bbeffb6d293902bf0b9"
     },
     "fields/health-welfare/topics.json": {
       "bytes": 991403,
@@ -221,8 +225,8 @@
       "sha256": "5689e390037e50aa5d9ee75ef9581fba16e400da14c06aaa00671552265065d1"
     },
     "fields/information-communication/standard-texts.json": {
-      "bytes": 397670,
-      "sha256": "45c30d5e3919e573ec954640c4cbbbd85e81964d8cdcbbd9dabd7f37409bff85"
+      "bytes": 397698,
+      "sha256": "515739a618ac8548a0182fd532f300510d263c0e2f5d4dfd208ccf7a3da9cef1"
     },
     "fields/information-communication/topics.json": {
       "bytes": 1802608,
@@ -237,8 +241,8 @@
       "sha256": "a840ec4b5e6a46f3ff884c710c0092b28a8609e4eb5052c0a732d6c6da9fc33f"
     },
     "fields/machinery/standard-texts.json": {
-      "bytes": 1507977,
-      "sha256": "578b1a904d5e5caf6a401c21580fa3cae5892a9faeb81009411c1baf5f5ac783"
+      "bytes": 1508005,
+      "sha256": "11136fb0188ba121e4f9a0022a10d1ef75b1997fa0e0a73f1c5a708b3324d096"
     },
     "fields/machinery/topics.json": {
       "bytes": 6853051,
@@ -253,8 +257,8 @@
       "sha256": "c801e87793033c596a485b32d0d5cc48ca23b1da035a8fd9bf5f3464ffc0f4db"
     },
     "fields/materials/standard-texts.json": {
-      "bytes": 826596,
-      "sha256": "13042cccec0715ce3286b9625cd0e7837ca3181ffbc035e4a3f5c8f9c6af00f4"
+      "bytes": 826624,
+      "sha256": "707156f1143ee843583d85cc0249e097904cca5f25cc12065dc30052efadcd81"
     },
     "fields/materials/topics.json": {
       "bytes": 3763127,
@@ -269,8 +273,8 @@
       "sha256": "aa3f590311fe48414c51dc8a8ef8bd862648b509e5c32218f01e4a2a0e232b14"
     },
     "fields/specialized-common/standard-texts.json": {
-      "bytes": 19449,
-      "sha256": "20d5c48c9c183108b2e655bdd6aac145a66f135e953777f1dc356929ae163191"
+      "bytes": 19477,
+      "sha256": "a9cf4b3d9852dcc99fd6df9ecf537b7bf6240ea64388a141602c23c72eafbc41"
     },
     "fields/specialized-common/topics.json": {
       "bytes": 113379,
@@ -285,8 +289,8 @@
       "sha256": "655d58e820163e1c51e7017b0a809372eab520442c29e24220e9e2d7c15df79d"
     },
     "fields/textile-clothing/standard-texts.json": {
-      "bytes": 489039,
-      "sha256": "d6636415d5c015a7cae5fa5528378c132db6be6ccf3558bb9947b6c83a797623"
+      "bytes": 489067,
+      "sha256": "3bef57a4042e2434293d89769f0e3ab31b598c57504a6b9679d264759ab953da"
     },
     "fields/textile-clothing/topics.json": {
       "bytes": 2220325,
@@ -301,8 +305,8 @@
       "sha256": "0b840fc1d1f260f98810ecff1b84811545e1ffbae1c9f7747f624d4f3aa6beb0"
     },
     "fields/tourism-leisure/standard-texts.json": {
-      "bytes": 361030,
-      "sha256": "390a0c2f24dfac9e0c225224f5f141d2ad062daad7f553a1e3a0461d913ea6b5"
+      "bytes": 361058,
+      "sha256": "17111dc5ef7167620e9f72d703e5978f953afbe9d9e712c8018f09c68b744011"
     },
     "fields/tourism-leisure/topics.json": {
       "bytes": 1630305,

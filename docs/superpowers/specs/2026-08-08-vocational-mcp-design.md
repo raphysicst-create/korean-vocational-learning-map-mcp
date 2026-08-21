@@ -171,7 +171,7 @@ korean-vocational-learning-map-mcp/
 
 - GitHub 공개 저장소 + `npm publish --browser=false`(2FA) + mcp-publisher(릴리스 바이너리 사용, 미설치 상태 주의)로 MCP 레지스트리 등록. 레지스트리명 `io.github.raphysicst-create/korean-vocational-learning-map-mcp`.
 - 버전 bump 3곳 동시: `package.json` + `server.json`(서버·packages) + `src/server.mjs`의 `SERVER_INFO.version`.
-- 라이선스 MIT. NOTICE.md에 DECK6(MIT) 출처, 교육과정 원문의 공공저작물 근거(저작권법 제24조의2), 국가교육위원회 고시 제2024-3호 표기. 상류 주제 데이터의 기계 파생(candidate) 상태를 README에 명시.
+- 라이선스 MIT. NOTICE.md에 DECK6(MIT) 출처, 교육과정 원문이 고시로서 보호받지 않는 근거(저작권법 제7조 제2호), 국가교육위원회 고시 제2024-3호 표기. 상류 주제 데이터의 기계 파생(candidate) 상태를 README에 명시.
 - 용량 전망: 전량 수록 시 원시 JSON 약 110~130MB, tarball 압축 후 15~20MB 수준(템플릿 텍스트 고압축). v0.1은 이보다 훨씬 작다.
 
 ## 결정 로그

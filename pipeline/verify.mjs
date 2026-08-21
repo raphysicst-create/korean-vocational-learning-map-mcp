@@ -3,10 +3,11 @@ import { createHash } from 'node:crypto';
 import { readdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { normalizeCode } from '../src/normalize.mjs';
 
 const here = dirname(fileURLToPath(import.meta.url));
 const defaultDataDir = join(here, '..', 'data', 'kr');
-export const CORE_FILES = ['major-fields.json', 'curricula.json', 'dependencies.json'];
+export const CORE_FILES = ['major-fields.json', 'curricula.json', 'dependencies.json', 'routing-index.json'];
 export const FIELD_FILES = ['curriculum-standards.json', 'standard-texts.json', 'topics.json', 'clusters.json'];
 
 // 추출기(pipeline/extract-texts.mjs)의 위생 기준을 산출물 쪽에서 한 번 더 건다.
@@ -27,11 +28,13 @@ export function verifyAll(dataDir = defaultDataDir, gates) {
   const { majorFields } = read('core/major-fields.json');
   const { curricula: index } = read('core/curricula.json');
   const { dependencies } = read('core/dependencies.json');
+  const routing = read('core/routing-index.json');
   const includedSet = new Set(gates.includedCategories);
 
   const slugs = readdirSync(join(dataDir, 'fields')).sort();
   const allStandards = [];
   const allTopics = [];
+  const allClusters = [];
   const curriculumIds = new Set();
   const fieldCounts = {};
   const textsByField = new Map();
@@ -53,6 +56,7 @@ export function verifyAll(dataDir = defaultDataDir, gates) {
       for (const s of c.standards) allStandards.push(s);
     }
     for (const t of topics) allTopics.push(t);
+    for (const c of clusters) allClusters.push(c);
 
     const keySet = new Set(curricula.flatMap((c) => c.standards.map((s) => s.key)));
     const summaryByKey = new Map(curricula.flatMap((c) => c.standards.map((s) => [s.key, s.summary])));
@@ -132,6 +136,30 @@ export function verifyAll(dataDir = defaultDataDir, gates) {
     if (!gates.fields[slug]) errors.push(`게이트에 없는 계열: ${slug}`);
   }
 
+  const expectedCodes = new Map();
+  for (const standard of allStandards) {
+    const code = normalizeCode(standard.code);
+    if (!expectedCodes.has(code)) expectedCodes.set(code, new Set());
+    expectedCodes.get(code).add(standard.majorFieldSlug);
+  }
+  for (const topic of allTopics) {
+    if (routing.topicFields[topic.id] !== topic.majorFieldSlug) {
+      errors.push(`주제 라우팅 불일치: ${topic.id}`);
+    }
+  }
+  for (const cluster of allClusters) {
+    if (routing.clusterFields[cluster.id] !== cluster.majorFieldSlug) {
+      errors.push(`클러스터 라우팅 불일치: ${cluster.id}`);
+    }
+  }
+  for (const [code, slugs] of expectedCodes) {
+    const actual = routing.standardCodeFields[code] ?? [];
+    if (actual.join() !== [...slugs].sort().join()) errors.push(`코드 라우팅 불일치: ${code}`);
+  }
+  if (Object.keys(routing.topicFields).length !== allTopics.length) errors.push('주제 라우팅 수 불일치');
+  if (Object.keys(routing.clusterFields).length !== allClusters.length) errors.push('클러스터 라우팅 수 불일치');
+  if (Object.keys(routing.standardCodeFields).length !== expectedCodes.size) errors.push('코드 라우팅 수 불일치');
+
   const counts = {
     fields: slugs.length,
     curricula: totals.courses,
@@ -152,6 +180,10 @@ function main() {
     for (const e of errors.slice(0, 40)) console.error(`  - ${e}`);
     if (errors.length > 40) console.error(`  … 외 ${errors.length - 40}건`);
     process.exit(1);
+  }
+  if (process.argv.includes('--check')) {
+    console.error(`✓ 전수 검증 통과 — manifest 미변경 (성취기준 ${counts.standards} · 원문 ${counts.texts})`);
+    return;
   }
   const files = {};
   const record = (rel) => {

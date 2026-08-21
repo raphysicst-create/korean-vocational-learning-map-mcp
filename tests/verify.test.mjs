@@ -20,6 +20,11 @@ function writeFixture(root) {
   w('core/major-fields.json', { majorFields: [{ slug: 'electrical-electronics', labelKorean: '전기·전자', annexId: 'kr-nec-2024-3-annex34', courseCount: { 'major-general': 1 }, standardCount: { 'major-general': 1 }, includedCategories: ['major-general', 'specialized-common'] }] });
   w('core/curricula.json', { curricula: [{ id: 'kr-2022-voc-전기-기초', subjectKorean: '전기 기초', majorFieldSlug: 'electrical-electronics', courseCategory: 'major-general', gradeBand: '10-12', standardCount: 1, included: true, deck6CourseId: 'c1' }] });
   w('core/dependencies.json', { dependencies: [] });
+  w('core/routing-index.json', {
+    topicFields: { t1: 'electrical-electronics' },
+    clusterFields: { cl1: 'electrical-electronics' },
+    standardCodeFields: { '[전기01-01]': ['electrical-electronics'] },
+  });
   w('fields/electrical-electronics/curriculum-standards.json', { curricula: [{ id: 'kr-2022-voc-전기-기초', subjectKorean: '전기 기초', majorFieldSlug: 'electrical-electronics', subjectGroupKorean: '전기·전자', courseCategory: 'major-general', gradeBand: '10-12', name: '전기 기초 2022 개정 전문교과 교육과정', deck6CourseId: 'c1', sourceRefs: ['kr-nec-2024-3-annex34'], standardCount: 1, standards: [standard] }] });
   w('fields/electrical-electronics/standard-texts.json', { version: 'v1', sourceNote: '', texts: [{ key: standard.key, code: standard.code, text: '본문.', sourceId: 'annex34', locator: 'pattern-match' }] });
   w('fields/electrical-electronics/topics.json', { topics: [{ id: 't1', titleKorean: '주제', subjectKorean: '전기 기초', majorFieldSlug: 'electrical-electronics', gradeBand: '10-12', domainKorean: '전기 회로', facetKey: 'f', types: [], description: '', evidence: [], assessmentPrompts: [], standards: [standard.key], sourceRefs: [] }] });

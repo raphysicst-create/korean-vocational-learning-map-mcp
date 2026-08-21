@@ -30,7 +30,7 @@ list_major_fields · list_curricula · search_standards · search_standard_text 
 ## 라이선스·출처
 
 MIT. 데이터 원천: [DECK6/korean-secondary-learning-map](https://github.com/DECK6/korean-secondary-learning-map)(MIT).
-성취기준 원문은 공공저작물(저작권법 제24조의2), 출처는 NOTICE.md 참조.
+성취기준 원문은 국가교육위원회 고시의 별책으로서 저작권법 제7조 제2호에 따라 보호받지 않는 저작물입니다. 정확성·추적성을 위한 출처는 NOTICE.md를 참조하세요.
 
 ## 패키지 크기
 

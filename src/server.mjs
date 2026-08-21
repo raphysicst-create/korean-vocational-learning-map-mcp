@@ -43,17 +43,23 @@ function resolveMajorField(store, input) {
   return hit.slug;
 }
 
-// 과목명이 주어지면 그 과목이 속한 계열만, 아니면 majorField 또는 전체를 로드한다.
-function ensureScope(store, { subject, majorField }) {
+function ensureFields(store, slugs = []) {
+  for (const slug of slugs) store.ensureField(slug);
+}
+
+// 명시된 계열·과목·코드의 계열만 로드한다. 필터가 전혀 없을 때만 전체 검색한다.
+function ensureScope(store, { subject, majorField, standardCode }) {
   if (majorField) { store.ensureField(majorField); return; }
   if (subject) {
     const squash = (v) => normalizeText(v).replace(/\s+/g, '');
     const target = squash(subject);
     const hits = store.curriculaIndex.filter((c) => squash(c.subjectKorean) === target);
-    if (hits.length > 0) {
-      for (const hit of hits) store.ensureField(hit.majorFieldSlug);
-      return;
-    }
+    ensureFields(store, hits.map((hit) => hit.majorFieldSlug));
+    return;
+  }
+  if (standardCode) {
+    ensureFields(store, store.standardFieldsByCode.get(normalizeCode(standardCode)));
+    return;
   }
   store.ensureAllIncluded();
 }
@@ -74,7 +80,7 @@ function aboutText(store) {
     `- 데이터 릴리스: ${taxonomyVersion}`,
     `- 수량: 수록 과목 ${counts.curricula}/${counts.curriculaIndexed} · 성취기준 ${counts.standards} · 주제 ${counts.topics} · 선수관계 ${counts.dependencies} · 계열 ${counts.fields}`,
     '- 라이선스: MIT. 데이터 원천은 DECK6/korean-secondary-learning-map(MIT)이며 원 저작권 고지를 유지한다.',
-    '- 성취기준 공식 원문을 수록한다. 원문은 국가교육위원회 고시 제2024-3호 별책23~39(전문교과) 공공저작물로서 저작권법 제24조의2에 따라 출처를 표기해 이용한다.',
+    '- 성취기준 공식 원문을 수록한다. 원문은 국가교육위원회 고시 제2024-3호 별책23~39로서 저작권법 제7조 제2호에 따라 보호받지 않는 저작물이며, 정확성·추적성을 위해 출처를 표기한다.',
     '- 범위: 특성화고·마이스터고 전문교과 전 범위(전공일반·전공실무·전문공통). 보통교과·특목 계열은 korean-secondary-learning-map-mcp가 담당한다.',
     '- 세부 학습 주제의 설명·증거·발문은 상류의 기계 파생물(candidate)이다.',
     '- 교육부·국가교육위원회·NCIC의 공식 산출물이 아니며, 개별 학습자를 진단하지 않는다.',
@@ -185,7 +191,9 @@ export function createServer(store) {
     },
     guarded(async (args) => {
       const majorField = resolveMajorField(store, args.majorField);
-      ensureScope(store, { subject: args.subject, majorField });
+      const exactCode = args.query && store.standardFieldsByCode.has(normalizeCode(args.query))
+        ? args.query : undefined;
+      ensureScope(store, { subject: args.subject, majorField, standardCode: exactCode });
       const result = searchStandards(store, {
         ...args, majorField, subject: args.subject ? resolveSubjectLabel(store, args.subject) : undefined,
       });
@@ -232,9 +240,9 @@ export function createServer(store) {
     },
     guarded(async ({ code, subject, majorField }) => {
       const slug = resolveMajorField(store, majorField);
-      if (slug) store.ensureField(slug);
-      else ensureScope(store, { subject });
       const normalized = normalizeCode(code);
+      if (slug) store.ensureField(slug);
+      else ensureScope(store, { standardCode: normalized });
       let all = store.standardsByCodeAll.get(normalized) ?? [];
       if (slug) all = all.filter((s) => s.majorFieldSlug === slug);
       let candidates = all;
@@ -250,7 +258,7 @@ export function createServer(store) {
       if (candidates.length === 0) {
         return fail(
           `성취기준 ${normalized}을(를) 찾을 수 없습니다.`,
-          suggestSimilar(normalized, [...store.standardsByCodeAll.keys()])
+          suggestSimilar(normalized, [...store.standardFieldsByCode.keys()].slice(0, 2000))
         );
       }
       if (candidates.length > 1) {
@@ -286,7 +294,9 @@ export function createServer(store) {
     },
     guarded(async (args) => {
       const majorField = resolveMajorField(store, args.majorField);
-      ensureScope(store, { subject: args.subject, majorField });
+      ensureScope(store, {
+        subject: args.subject, majorField, standardCode: args.standardCode,
+      });
       const result = searchTopics(store, {
         ...args, majorField, subject: args.subject ? resolveSubjectLabel(store, args.subject) : undefined,
       });
@@ -304,12 +314,13 @@ export function createServer(store) {
       inputSchema: { topicId: z.string().max(200).describe('주제 ID (예: kr.topic.2022.high.…)') },
     },
     guarded(async ({ topicId }) => {
-      if (!store.topicsById.has(topicId)) store.ensureAllIncluded();
+      const field = store.topicFieldById.get(topicId);
+      if (field) store.ensureField(field);
       const topic = store.topicsById.get(topicId);
       if (!topic) {
         return fail(
           `주제 ${topicId}을(를) 찾을 수 없습니다.`,
-          suggestSimilar(topicId, [...store.topicsById.keys()].slice(0, 2000))
+          suggestSimilar(topicId, [...store.topicFieldById.keys()].slice(0, 2000))
         );
       }
       return ok({ ...topic, note: MECHANICAL_NOTE });
@@ -330,11 +341,12 @@ export function createServer(store) {
       },
     },
     guarded(async ({ topicId, direction = 'prerequisites', depth = 1, strength }) => {
-      if (!store.topicsById.has(topicId)) store.ensureAllIncluded();
+      const field = store.topicFieldById.get(topicId);
+      if (field) store.ensureField(field);
       if (!store.topicsById.has(topicId)) {
         return fail(
           `주제 ${topicId}을(를) 찾을 수 없습니다.`,
-          suggestSimilar(topicId, [...store.topicsById.keys()].slice(0, 2000))
+          suggestSimilar(topicId, [...store.topicFieldById.keys()].slice(0, 2000))
         );
       }
       if (depth === 'all') {
@@ -399,27 +411,37 @@ export function createServer(store) {
     guarded(async ({ clusterId, subject, majorField, limit }) => {
       const slug = resolveMajorField(store, majorField);
       if (clusterId) {
-        if (!store.clustersById.has(clusterId)) store.ensureAllIncluded();
+        const field = store.clusterFieldById.get(clusterId);
+        if (field) store.ensureField(field);
         const cluster = store.clustersById.get(clusterId);
         if (!cluster) {
           return fail(
             `클러스터 ${clusterId}을(를) 찾을 수 없습니다.`,
-            suggestSimilar(clusterId, [...store.clustersById.keys()].slice(0, 2000))
+            suggestSimilar(clusterId, [...store.clusterFieldById.keys()].slice(0, 2000))
           );
         }
         return ok(cluster);
       }
-      ensureScope(store, { subject, majorField: slug });
-      let candidates = store.clusters;
+      const cap = Math.min(limit ?? 20, 50);
+      let candidates;
+      let total;
+      if (!subject && !slug) {
+        const ids = [...store.clusterFieldById.keys()];
+        ensureFields(store, ids.slice(0, cap).map((id) => store.clusterFieldById.get(id)));
+        candidates = ids.slice(0, cap).map((id) => store.clustersById.get(id));
+        total = ids.length;
+      } else {
+        ensureScope(store, { subject, majorField: slug });
+        candidates = store.clusters;
+      }
       if (subject) {
         const target = normalizeText(resolveSubjectLabel(store, subject));
         candidates = candidates.filter((c) => normalizeText(c.subjectKorean) === target);
       }
       if (slug) candidates = candidates.filter((c) => c.majorFieldSlug === slug);
-      // total은 잘리기 전 전체 개수 — 호출자가 결과가 잘렸음을 알 수 있어야 한다.
-      const cap = Math.min(limit ?? 20, 50);
+      total ??= candidates.length;
       return ok({
-        total: candidates.length,
+        total,
         results: candidates.slice(0, cap).map((c) => ({
           id: c.id, titleKorean: c.titleKorean, subjectKorean: c.subjectKorean,
           majorFieldSlug: c.majorFieldSlug, topicCount: c.topicCount,

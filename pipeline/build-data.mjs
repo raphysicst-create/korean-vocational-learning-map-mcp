@@ -2,7 +2,7 @@
 import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { normalizeRoman, normalizeText } from '../src/normalize.mjs';
+import { normalizeCode, normalizeRoman, normalizeText } from '../src/normalize.mjs';
 
 const here = dirname(fileURLToPath(import.meta.url));
 const repoRoot = join(here, '..');
@@ -188,7 +188,20 @@ export function buildVocational(raw) {
     includedCategories: [...RELEASE_SCOPE],
   })).sort((a, b) => a.slug.localeCompare(b.slug, 'en'));
 
-  return { majorFields, curriculaIndex, fields, dependencies, droppedDeps };
+  const routingIndex = { topicFields: {}, clusterFields: {}, standardCodeFields: {} };
+  for (const [slug, data] of [...fields.entries()].sort((a, b) => a[0].localeCompare(b[0], 'en'))) {
+    for (const topic of data.topics) routingIndex.topicFields[topic.id] = slug;
+    for (const cluster of data.clusters) routingIndex.clusterFields[cluster.id] = slug;
+    for (const curriculum of data.curricula) {
+      for (const standard of curriculum.standards) {
+        const code = normalizeCode(standard.code);
+        const slugs = routingIndex.standardCodeFields[code] ??= [];
+        if (!slugs.includes(slug)) slugs.push(slug);
+      }
+    }
+  }
+
+  return { majorFields, curriculaIndex, fields, dependencies, droppedDeps, routingIndex };
 }
 
 function readCache(name) {
@@ -220,6 +233,7 @@ function main() {
   write('core/major-fields.json', { majorFields: out.majorFields });
   write('core/curricula.json', { curricula: out.curriculaIndex });
   write('core/dependencies.json', { dependencies: out.dependencies });
+  write('core/routing-index.json', out.routingIndex);
   const fieldCounts = {};
   for (const [slug, data] of [...out.fields.entries()].sort((a, b) => a[0].localeCompare(b[0], 'en'))) {
     write(`fields/${slug}/curriculum-standards.json`, { curricula: data.curricula });
