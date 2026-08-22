@@ -50,7 +50,8 @@ async function fetchDeck6Files(sources) {
 }
 
 async function resolvePdfs(sources) {
-  // PDF의 URL·SHA-256의 단일 진실 원천은 상류 shared/source-manifest.json이다 (해시는 위에서 검증됨).
+  // PDF의 URL·SHA-256은 sources.json의 pdfAnnexes.items에 고정돼 있다.
+  // 상류 shared/source-manifest.json과도 대조해, 상류가 바뀌면 조용히 따라가지 않고 실패시킨다.
   const manifest = JSON.parse(
     readFileSync(join(cacheDir, 'shared-source-manifest.json'), 'utf8')
   );
@@ -58,16 +59,23 @@ async function resolvePdfs(sources) {
   const pdfDir = resolve(repoRoot, process.env.PDF_DIR ?? '..');
   const pdfPaths = {};
   let failures = 0;
-  for (let n = sources.pdfAnnexes.from; n <= sources.pdfAnnexes.to; n += 1) {
-    const entry = entries.find((e) => e.id === `kr-nec-2024-3-annex${n}`);
-    if (!entry) { console.error(`✗ 상류 매니페스트에 annex${n} 항목이 없습니다.`); failures += 1; continue; }
+  for (const pinned of sources.pdfAnnexes.items) {
+    const n = pinned.annexNo;
+    const entry = entries.find((e) => e.id === pinned.id);
+    if (!entry) { console.error(`✗ 상류 매니페스트에 ${pinned.id} 항목이 없습니다.`); failures += 1; continue; }
+    if (entry.url !== pinned.url || entry.sha256 !== pinned.sha256) {
+      console.error(`✗ annex${n} 상류 대장이 고정값과 다릅니다 — sources.json과 RIGHTS.md를 검토해 함께 갱신하세요.
+  고정: ${pinned.sha256}
+  상류: ${entry.sha256}`);
+      failures += 1; continue;
+    }
     const re = pdfPattern(n);
     let name = readdirSync(pdfDir).find((f) => f.toLowerCase().endsWith('.pdf') && re.test(f));
     if (!name) {
       console.error(`… annex${n} 로컬 PDF 없음 — NCIC에서 다운로드 시도`);
-      const res = await fetch(entry.url);
+      const res = await fetch(pinned.url);
       if (!res.ok) {
-        console.error(`✗ annex${n} 다운로드 실패(HTTP ${res.status}) — ${entry.url} 을 브라우저로 받아 PDF_DIR에 두세요.`);
+        console.error(`✗ annex${n} 다운로드 실패(HTTP ${res.status}) — ${pinned.url} 을 브라우저로 받아 PDF_DIR에 두세요.`);
         failures += 1; continue;
       }
       name = `[별책${n}] 전문교과 교육과정(2024-3호).pdf`;
@@ -75,8 +83,8 @@ async function resolvePdfs(sources) {
     }
     const p = join(pdfDir, name);
     const hash = sha256Hex(readFileSync(p));
-    if (hash !== entry.sha256) {
-      console.error(`✗ annex${n} 해시 불일치 — 구판(2022-33호) 가능성. 2024-3호 개정판으로 교체하세요.\n  파일: ${name}\n  대장: ${entry.sha256}\n  실제: ${hash}`);
+    if (hash !== pinned.sha256) {
+      console.error(`✗ annex${n} 해시 불일치 — 구판(2022-33호) 가능성. 2024-3호 개정판으로 교체하세요.\n  파일: ${name}\n  대장: ${pinned.sha256}\n  실제: ${hash}`);
       failures += 1; continue;
     }
     console.error(`✓ [별책${n}] ${name}`);

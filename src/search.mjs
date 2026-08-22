@@ -18,9 +18,12 @@ export function levenshtein(a, b) {
   return prev[b.length];
 }
 
-export function suggestSimilar(input, candidates, max = 3) {
+// maxDistance: 불투명 해시 ID(주제·클러스터)용 상한.
+// 길이 비례 임계값은 40자 ID에서 14까지 커지는데, 무작위 해시 두 개의 거리가 대략 그 언저리라
+// 상한이 없으면 아무 관계 없는 ID가 "유사 후보"로 딸려 나온다.
+export function suggestSimilar(input, candidates, { max = 3, maxDistance = Infinity } = {}) {
   const norm = normalizeText(input);
-  const threshold = Math.max(3, Math.ceil(norm.length / 3));
+  const threshold = Math.min(Math.max(3, Math.ceil(norm.length / 3)), maxDistance);
   const scored = candidates.map((candidate) => {
     const c = normalizeText(candidate);
     if (c.includes(norm) || norm.includes(c)) return { candidate, distance: 0 };

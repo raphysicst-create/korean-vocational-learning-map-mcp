@@ -31,7 +31,7 @@
 
 ## 배포 절차
 
-1. 버전 bump 3곳: `package.json` + `server.json`(서버·packages) + `src/server.mjs`의 `SERVER_INFO.version`
+1. 버전 bump — **파일 4개, 값 6곳**: `package.json`, `package-lock.json`(최상위 `version` + `packages[""].version`), `server.json`(서버·packages), `src/server.mjs`의 `SERVER_INFO.version`. 하나라도 빠지면 게시본과 어긋난다 (0.3.0 때 `package-lock.json`이 0.2.0으로 남아 있었다).
 2. `npm test && npm run pipeline:verify`
 3. `npm publish --browser=false` (2FA)
 4. `mcp-publisher publish` (릴리스 바이너리 사용)

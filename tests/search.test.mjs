@@ -45,3 +45,23 @@ test('suggestSimilar: 오타에 유사 후보', () => {
   const typo = `${subject}x`;
   assert.ok(suggestSimilar(typo, store.curricula.map((c) => c.subjectKorean)).includes(subject));
 });
+
+
+// 실측 결함: 40자 해시 ID에서 길이 비례 임계값이 14까지 커져,
+// 존재하지 않는 ID에도 무관한 ID를 "유사 후보"로 지어냈다.
+test('suggestSimilar: maxDistance가 불투명 ID의 허위 후보를 막는다', () => {
+  const ids = [...store.topicFieldById.keys()];
+  const real = ids[0];
+
+  const typo = `${real}z`;
+  assert.ok(suggestSimilar(typo, ids).length > 1); // 상한 없으면 무관한 ID가 딸려 온다
+  assert.deepEqual(suggestSimilar(typo, ids, { maxDistance: 3 }), [real]);
+
+  const fabricated = real.replace(/[0-9a-f]{20}$/, '1234567890abcdef1234');
+  assert.ok(!ids.includes(fabricated));
+  assert.ok(suggestSimilar(fabricated, ids).length > 0); // 상한 없으면 지어낸다
+  assert.deepEqual(suggestSimilar(fabricated, ids, { maxDistance: 3 }), []);
+
+  // 짧고 의미 있는 문자열(과목명·코드)의 기존 동작은 그대로다 — 상한을 걸지 않은 호출부는 영향 없음.
+  assert.equal(suggestSimilar('통합과힉', ['통합과학', '통합사회'])[0], '통합과학');
+});

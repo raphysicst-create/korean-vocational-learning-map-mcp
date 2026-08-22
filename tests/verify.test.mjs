@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import { mkdtempSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { tmpdir } from 'node:os';
-import { verifyAll } from '../pipeline/verify.mjs';
+import { verifyAll, verifyRights } from '../pipeline/verify.mjs';
 
 function writeFixture(root) {
   const w = (rel, obj) => {
@@ -128,4 +128,44 @@ test('verifyAll: 사설 영역(PUA) 글리프가 섞인 원문을 잡는다', ()
   const { ok, errors } = verifyAll(root, GATES);
   assert.ok(!ok);
   assert.ok(errors.some((e) => e.includes('사설 영역 글리프')));
+});
+
+
+const RIGHTS_SOURCES = {
+  pdfAnnexes: {
+    items: [
+      { id: 'kr-nec-2024-3-annex30', annexNo: 30, fieldKorean: '기계', url: 'https://example.test/30', sha256: 'a'.repeat(64) },
+      { id: 'kr-nec-2024-3-annex34', annexNo: 34, fieldKorean: '전기·전자', url: 'https://example.test/34', sha256: 'b'.repeat(64) },
+    ],
+  },
+};
+const RIGHTS_ROW = (no, field, sha) =>
+  `| ${no} | ${field} | [NCIC](https://example.test/${no}) | \`${sha.repeat(64)}\` | 고시 별책 | 보호대상 제외 |`;
+const RIGHTS_MD = [
+  '| 별책 | 전문교과 | 공식 PDF | SHA-256 | 고시 편입 | 배포 판정 |',
+  '|---|---|---|---|---|---|',
+  RIGHTS_ROW(30, '기계', 'a'),
+  RIGHTS_ROW(34, '전기·전자', 'b'),
+].join('\n');
+
+test('verifyRights: RIGHTS.md와 sources.json 고정값이 일치하면 통과한다', () => {
+  assert.deepEqual(verifyRights(RIGHTS_MD, RIGHTS_SOURCES), []);
+});
+
+test('verifyRights: 해시·URL·교과명 드리프트와 행 누락·추가를 각각 잡는다', () => {
+  const sha = verifyRights(RIGHTS_MD.replace('b'.repeat(64), 'c'.repeat(64)), RIGHTS_SOURCES);
+  assert.ok(sha.some((e) => e.includes('별책34 SHA-256 불일치')));
+
+  const url = verifyRights(RIGHTS_MD.replace('https://example.test/30', 'https://example.test/x'), RIGHTS_SOURCES);
+  assert.ok(url.some((e) => e.includes('별책30 공식 URL 불일치')));
+
+  const field = verifyRights(RIGHTS_MD.replace('| 30 | 기계 |', '| 30 | 기게 |'), RIGHTS_SOURCES);
+  assert.ok(field.some((e) => e.includes('별책30 전문교과명 불일치')));
+
+  const dropped = verifyRights(RIGHTS_MD.split('\n').slice(0, -1).join('\n'), RIGHTS_SOURCES);
+  assert.ok(dropped.some((e) => e.includes('별책34 행이 없다')));
+  assert.ok(dropped.some((e) => e.includes('행 1건 ≠ sources.json 고정 2건')));
+
+  const extra = verifyRights(`${RIGHTS_MD}\n${RIGHTS_ROW(39, '융복합·지식재산', 'd')}`, RIGHTS_SOURCES);
+  assert.ok(extra.some((e) => e.includes('고정되지 않은 별책이 RIGHTS.md에 있다: 별책39')));
 });

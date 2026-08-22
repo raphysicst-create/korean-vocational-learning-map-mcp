@@ -7,7 +7,7 @@ import {
 import { directEdges, learningPath } from './graph.mjs';
 import { buildRoadmap } from './roadmap.mjs';
 
-const SERVER_INFO = { name: 'korean-vocational-learning-map', version: '0.3.0' };
+const SERVER_INFO = { name: 'korean-vocational-learning-map', version: '0.4.0' };
 
 const MAJOR_FIELD = z.string().max(100).optional()
   .describe('계열 슬러그 또는 계열명 (예: electrical-electronics, 전기·전자)');
@@ -81,6 +81,7 @@ function aboutText(store) {
     `- 수량: 수록 과목 ${counts.curricula}/${counts.curriculaIndexed} · 성취기준 ${counts.standards} · 주제 ${counts.topics} · 선수관계 ${counts.dependencies} · 계열 ${counts.fields}`,
     '- 라이선스: MIT. 데이터 원천은 DECK6/korean-secondary-learning-map(MIT)이며 원 저작권 고지를 유지한다.',
     '- 성취기준 공식 원문을 수록한다. 원문은 국가교육위원회 고시 제2024-3호 별책23~39로서 저작권법 제7조 제2호에 따라 보호받지 않는 저작물이며, 정확성·추적성을 위해 출처를 표기한다.',
+    '- 수록 원문 기준 고시: 국가교육위원회 고시 제2024-3호(2024.8.16.) 별책23~39. 이후 개정 고시분은 반영되어 있지 않다.',
     '- 범위: 특성화고·마이스터고 전문교과 전 범위(전공일반·전공실무·전문공통). 보통교과·특목 계열은 korean-secondary-learning-map-mcp가 담당한다.',
     '- 세부 학습 주제의 설명·증거·발문은 상류의 기계 파생물(candidate)이다.',
     '- 교육부·국가교육위원회·NCIC의 공식 산출물이 아니며, 개별 학습자를 진단하지 않는다.',
@@ -258,7 +259,7 @@ export function createServer(store) {
       if (candidates.length === 0) {
         return fail(
           `성취기준 ${normalized}을(를) 찾을 수 없습니다.`,
-          suggestSimilar(normalized, [...store.standardFieldsByCode.keys()].slice(0, 2000))
+          suggestSimilar(normalized, [...store.standardFieldsByCode.keys()])
         );
       }
       if (candidates.length > 1) {
@@ -320,7 +321,7 @@ export function createServer(store) {
       if (!topic) {
         return fail(
           `주제 ${topicId}을(를) 찾을 수 없습니다.`,
-          suggestSimilar(topicId, [...store.topicFieldById.keys()].slice(0, 2000))
+          suggestSimilar(topicId, [...store.topicFieldById.keys()], { maxDistance: 3 })
         );
       }
       return ok({ ...topic, note: MECHANICAL_NOTE });
@@ -346,7 +347,7 @@ export function createServer(store) {
       if (!store.topicsById.has(topicId)) {
         return fail(
           `주제 ${topicId}을(를) 찾을 수 없습니다.`,
-          suggestSimilar(topicId, [...store.topicFieldById.keys()].slice(0, 2000))
+          suggestSimilar(topicId, [...store.topicFieldById.keys()], { maxDistance: 3 })
         );
       }
       if (depth === 'all') {
@@ -400,15 +401,16 @@ export function createServer(store) {
     {
       title: '클러스터 조회',
       description:
-        '학습 클러스터(단원 묶음) 목록을 조회한다. clusterId를 주면 단건 전체 레코드를 반환한다.',
+        '학습 클러스터(단원 묶음) 목록을 조회한다. clusterId를 주면 단건 전체 레코드를 반환한다. 목록은 limit·offset으로 페이지를 넘긴다.',
       inputSchema: {
         clusterId: z.string().max(200).optional().describe('클러스터 ID (단건 상세)'),
         subject: z.string().max(200).optional().describe('과목명 필터'),
         majorField: MAJOR_FIELD,
         limit: z.number().int().min(1).max(50).optional().describe('최대 결과 수 (기본 20)'),
+        offset: z.number().int().min(0).optional().describe('건너뛸 결과 수 (기본 0) — total까지 페이지로 훑을 때 쓴다'),
       },
     },
-    guarded(async ({ clusterId, subject, majorField, limit }) => {
+    guarded(async ({ clusterId, subject, majorField, limit, offset }) => {
       const slug = resolveMajorField(store, majorField);
       if (clusterId) {
         const field = store.clusterFieldById.get(clusterId);
@@ -417,32 +419,37 @@ export function createServer(store) {
         if (!cluster) {
           return fail(
             `클러스터 ${clusterId}을(를) 찾을 수 없습니다.`,
-            suggestSimilar(clusterId, [...store.clusterFieldById.keys()].slice(0, 2000))
+            suggestSimilar(clusterId, [...store.clusterFieldById.keys()], { maxDistance: 3 })
           );
         }
         return ok(cluster);
       }
       const cap = Math.min(limit ?? 20, 50);
-      let candidates;
+      const start = offset ?? 0;
+      let page;
       let total;
       if (!subject && !slug) {
+        // 필터가 없으면 라우팅 색인만으로 페이지를 자르고, 그 페이지가 속한 계열만 로드한다.
         const ids = [...store.clusterFieldById.keys()];
-        ensureFields(store, ids.slice(0, cap).map((id) => store.clusterFieldById.get(id)));
-        candidates = ids.slice(0, cap).map((id) => store.clustersById.get(id));
+        const pageIds = ids.slice(start, start + cap);
+        ensureFields(store, pageIds.map((id) => store.clusterFieldById.get(id)));
+        page = pageIds.map((id) => store.clustersById.get(id));
         total = ids.length;
       } else {
         ensureScope(store, { subject, majorField: slug });
-        candidates = store.clusters;
+        let candidates = store.clusters;
+        if (subject) {
+          const target = normalizeText(resolveSubjectLabel(store, subject));
+          candidates = candidates.filter((c) => normalizeText(c.subjectKorean) === target);
+        }
+        if (slug) candidates = candidates.filter((c) => c.majorFieldSlug === slug);
+        total = candidates.length;
+        page = candidates.slice(start, start + cap);
       }
-      if (subject) {
-        const target = normalizeText(resolveSubjectLabel(store, subject));
-        candidates = candidates.filter((c) => normalizeText(c.subjectKorean) === target);
-      }
-      if (slug) candidates = candidates.filter((c) => c.majorFieldSlug === slug);
-      total ??= candidates.length;
       return ok({
         total,
-        results: candidates.slice(0, cap).map((c) => ({
+        offset: start,
+        results: page.map((c) => ({
           id: c.id, titleKorean: c.titleKorean, subjectKorean: c.subjectKorean,
           majorFieldSlug: c.majorFieldSlug, topicCount: c.topicCount,
         })),

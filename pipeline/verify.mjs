@@ -172,10 +172,41 @@ export function verifyAll(dataDir = defaultDataDir, gates) {
   return { ok: errors.length === 0, errors, counts, fieldCounts };
 }
 
+// RIGHTS.md의 권리 근거표는 손으로 옮겨 적은 값이라 조용히 어긋날 수 있다.
+// sources.json에 고정한 별책 URL·SHA-256과 전수 대조한다.
+export function verifyRights(rightsText, sources) {
+  const errors = [];
+  const rows = [...rightsText.matchAll(/^\|\s*(\d+)\s*\|\s*([^|]+?)\s*\|\s*\[[^\]]*\]\(([^)]+)\)\s*\|\s*`([0-9a-f]{64})`/gm)]
+    .map(([, annexNo, fieldKorean, url, sha256]) => ({ annexNo: Number(annexNo), fieldKorean: fieldKorean.trim(), url, sha256 }));
+  const pinned = sources.pdfAnnexes.items;
+  if (rows.length !== pinned.length) {
+    errors.push(`RIGHTS.md 별책 행 ${rows.length}건 ≠ sources.json 고정 ${pinned.length}건`);
+  }
+  for (const item of pinned) {
+    const row = rows.find((r) => r.annexNo === item.annexNo);
+    if (!row) { errors.push(`RIGHTS.md에 별책${item.annexNo} 행이 없다`); continue; }
+    if (row.sha256 !== item.sha256) errors.push(`별책${item.annexNo} SHA-256 불일치 (RIGHTS.md ↔ sources.json)`);
+    if (row.url !== item.url) errors.push(`별책${item.annexNo} 공식 URL 불일치 (RIGHTS.md ↔ sources.json)`);
+    if (row.fieldKorean !== item.fieldKorean) {
+      errors.push(`별책${item.annexNo} 전문교과명 불일치: RIGHTS.md "${row.fieldKorean}" ↔ sources.json "${item.fieldKorean}"`);
+    }
+  }
+  for (const row of rows) {
+    if (!pinned.some((i) => i.annexNo === row.annexNo)) {
+      errors.push(`sources.json에 고정되지 않은 별책이 RIGHTS.md에 있다: 별책${row.annexNo}`);
+    }
+  }
+  return errors;
+}
+
 function main() {
   const gates = JSON.parse(readFileSync(join(here, 'gates.json'), 'utf8'));
   const { ok, errors, counts } = verifyAll(defaultDataDir, gates);
-  if (!ok) {
+  errors.push(...verifyRights(
+    readFileSync(join(here, '..', 'RIGHTS.md'), 'utf8'),
+    JSON.parse(readFileSync(join(here, 'sources.json'), 'utf8'))
+  ));
+  if (!ok || errors.length > 0) {
     console.error(`✗ 검증 실패 ${errors.length}건:`);
     for (const e of errors.slice(0, 40)) console.error(`  - ${e}`);
     if (errors.length > 40) console.error(`  … 외 ${errors.length - 40}건`);

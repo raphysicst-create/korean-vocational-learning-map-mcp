@@ -32,6 +32,8 @@ list_major_fields · list_curricula · search_standards · search_standard_text 
 MIT. 데이터 원천: [DECK6/korean-secondary-learning-map](https://github.com/DECK6/korean-secondary-learning-map)(MIT).
 성취기준 원문은 국가교육위원회 고시의 별책으로서 저작권법 제7조 제2호에 따라 보호받지 않는 저작물입니다. 정확성·추적성을 위한 출처는 NOTICE.md를 참조하세요.
 
+수록 원문 기준 고시는 국가교육위원회 고시 제2024-3호(2024.8.16.) 별책23~39이며, 이후 개정 고시분은 반영되어 있지 않습니다.
+
 ## 패키지 크기
 
 `npm pack --dry-run` 기준 tarball 10.4MB(압축) / unpacked 122.3MB, 총 87개 파일(`src/` 7 · `data/` 76 · README·LICENSE·NOTICE·package.json). `src/`·`data/`·README·LICENSE·NOTICE만 포함.

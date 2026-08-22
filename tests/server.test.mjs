@@ -22,7 +22,7 @@ test('about 리소스에 고시 원문 권리 근거가 있다', async () => {
   const { client } = await connect();
   const { contents } = await client.readResource({ uri: 'about://korean-vocational-learning-map' });
   assert.ok(contents[0].text.includes('제7조 제2호'));
-  assert.ok(!contents[0].text.includes('제24조의2'));
+  assert.ok(contents[0].text.includes('수록 원문 기준 고시'));
   assert.ok(contents[0].text.includes('별책23~39'));
 });
 
@@ -104,6 +104,77 @@ test('ID·코드 조회는 core 라우팅 색인의 계열만 로드하고 미�
   assert.equal(list.results.length, 20);
   assert.equal(list.total, listCase.store.clusterFieldById.size);
   assert.ok(listCase.store.loadedFields.size < listCase.store.includedFieldSlugs.length);
+});
+
+// 라우팅 색인은 계열 slug 알파벳순이라, 후보를 앞에서 잘라내면
+// 색인 뒷부분 계열의 오타는 엉뚱한 계열의 코드·ID를 제안받게 된다.
+test('미지 코드·ID 제안은 후보를 잘라내지 않고 색인 뒷부분까지 본다', async () => {
+  const { client, store } = await connect();
+
+  const codes = [...store.standardFieldsByCode.keys()];
+  const lastCode = codes[codes.length - 1];
+  const missingCode = lastCode.replace(/\]$/, '9]');
+  assert.ok(!store.standardFieldsByCode.has(missingCode));
+  const codeResult = await client.callTool({ name: 'get_standard', arguments: { code: missingCode } });
+  assert.ok(codeResult.isError);
+  assert.ok(
+    codeResult.content[0].text.includes(lastCode),
+    `제안에 ${lastCode}이(가) 없다: ${codeResult.content[0].text}`
+  );
+
+  const topicIds = [...store.topicFieldById.keys()];
+  const lastTopic = topicIds[topicIds.length - 1];
+  const topicResult = await client.callTool({ name: 'get_topic', arguments: { topicId: `${lastTopic}x` } });
+  assert.ok(topicResult.isError);
+  assert.ok(topicResult.content[0].text.includes(lastTopic));
+
+  const clusterIds = [...store.clusterFieldById.keys()];
+  const lastCluster = clusterIds[clusterIds.length - 1];
+  const clusterResult = await client.callTool({ name: 'list_clusters', arguments: { clusterId: `${lastCluster}x` } });
+  assert.ok(clusterResult.isError);
+  assert.ok(clusterResult.content[0].text.includes(lastCluster));
+});
+
+test('list_clusters는 offset으로 상한 너머 total까지 페이지를 넘길 수 있다', async () => {
+  const { client } = await connect();
+  const call = async (args) => payloadOf(await client.callTool({ name: 'list_clusters', arguments: args }));
+
+  const first = await call({ limit: 5 });
+  const second = await call({ limit: 5, offset: 5 });
+  assert.equal(first.offset, 0);
+  assert.equal(second.offset, 5);
+  assert.equal(first.results.length, 5);
+  assert.equal(second.results.length, 5);
+  assert.equal(first.total, second.total);
+
+  const seen = new Set(first.results.map((r) => r.id));
+  assert.ok(second.results.every((r) => !seen.has(r.id)));
+
+  // limit 상한(50) 너머의 구간에도 도달할 수 있어야 한다 — offset 이전에는 불가능했다.
+  const far = await call({ limit: 5, offset: 100 });
+  assert.equal(far.offset, 100);
+  assert.equal(far.results.length, 5);
+  assert.ok(far.results.every((r) => !seen.has(r.id)));
+
+  // 끝을 넘으면 total은 유지한 채 빈 페이지를 준다.
+  const past = await call({ offset: first.total });
+  assert.equal(past.total, first.total);
+  assert.equal(past.results.length, 0);
+});
+
+test('실재하지 않는 주제·클러스터 ID에는 유사 후보를 지어내지 않는다', async () => {
+  const { client, store } = await connect();
+  const realTopic = [...store.topicFieldById.keys()][0];
+  const fabricated = realTopic.replace(/[0-9a-f]{20}$/, '1234567890abcdef1234');
+  assert.ok(!store.topicFieldById.has(fabricated));
+
+  const miss = await client.callTool({ name: 'get_topic', arguments: { topicId: fabricated } });
+  assert.ok(miss.isError);
+  assert.ok(!miss.content[0].text.includes('유사 후보'), miss.content[0].text);
+
+  const typo = await client.callTool({ name: 'get_topic', arguments: { topicId: `${realTopic}z` } });
+  assert.ok(typo.isError);
+  assert.ok(typo.content[0].text.includes(realTopic));
 });
 
 test('search_standards → get_standard 왕복 (원문 + 코드 구조 해석)', async () => {
